@@ -130,7 +130,7 @@ def committees():
             for b in items:
                 typ = (b.get("type") or {})
                 periods = (b.get("openSubmissionPeriods") or []) + (b.get("closedSubmissionPeriods") or [])
-                if not (typ.get("isInquiry") or periods):
+                if not typ.get("isInquiry") or re.search(r"non-inquiry", typ.get("name") or "", re.I):
                     continue
                 title = b.get("title") or ""
                 if cid != ED_COMMITTEE and not INCLUDE.search(title):
@@ -142,7 +142,7 @@ def committees():
                 deadline = min(open_p) if open_p else (ends[-1] if ends else None)
                 evidence = "open" if open_p and min(open_p) >= now else ("closed" if ends else "none")
                 rows.append({"src": "committee", "t": title, "u": f"https://committees.parliament.uk/work/{b.get('id')}/",
-                             "by": name, "house": house, "opens": (b.get("openDate") or "")[:10] or None, "closes": deadline,
+                             "by": name, "house": house, "opens": min([d for d in [(b.get("openDate") or "")[:10]] + [(p.get("startDate") or "")[:10] for p in periods] if d] or [None]), "closes": deadline,
                              "status": "open" if evidence == "open" else "closed" if evidence == "closed" else "ongoing",
                              "kind": typ.get("name"), "tp": topics(title)})
             if not items or skip >= data.get("totalResults", 0):
