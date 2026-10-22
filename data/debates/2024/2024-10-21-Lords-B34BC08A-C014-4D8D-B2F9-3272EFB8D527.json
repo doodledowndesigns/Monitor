@@ -1,0 +1,297 @@
+{
+ "ext_id": "B34BC08A-C014-4D8D-B2F9-3272EFB8D527",
+ "date": "2024-10-21",
+ "house": "Lords",
+ "section": "Debate",
+ "title": "Independent School Fees: VAT",
+ "parents": [
+  "Lords Chamber"
+ ],
+ "location": "Lords Chamber",
+ "url": "https://hansard.parliament.uk/Lords/2024-10-21/debates/B34BC08A-C014-4D8D-B2F9-3272EFB8D527/IndependentSchoolFeesVat",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Lord Hacking",
+   "party": "Lab",
+   "member_id": 3580
+  },
+  {
+   "name": "Lord Livermore",
+   "party": "Lab",
+   "role": "The Financial Secretary to the Treasury",
+   "member_id": 4559
+  },
+  {
+   "name": "Lord Lexden",
+   "party": "Con",
+   "member_id": 4202
+  },
+  {
+   "name": "Lord Vaux of Harrowden",
+   "party": "CB",
+   "member_id": 4687
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 4148
+  },
+  {
+   "name": "Lord Campbell-Savours [V]",
+   "party": "Lab",
+   "member_id": 499
+  },
+  {
+   "name": "Lord Storey",
+   "party": "LD",
+   "member_id": 4238
+  },
+  {
+   "name": "Baroness Vere of Norbiton",
+   "party": "Con",
+   "member_id": 4580
+  },
+  {
+   "name": "Noble Lords"
+  },
+  {
+   "name": "Lord Kennedy of Southwark",
+   "seat": "Lab Co-op",
+   "member_id": 4153
+  },
+  {
+   "name": "Baroness Foster of Aghadrumsee",
+   "party": "Non-Afl",
+   "member_id": 4969
+  },
+  {
+   "name": "Lord Foulkes of Cumnock",
+   "seat": "Lab Co-op",
+   "member_id": 579
+  },
+  {
+   "name": "Lord Markham",
+   "party": "Con",
+   "member_id": 4948
+  },
+  {
+   "name": "Baroness Butler-Sloss",
+   "party": "CB",
+   "member_id": 3804
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Lord Hacking",
+   "member_id": 3580,
+   "type": "Contribution",
+   "text": "To ask His Majesty’s Government what estimates they have made of the pupil migration arising out of the proposed VAT on independent school fees, and what is the exact basis of such estimates.",
+   "name": "Lord Hacking",
+   "party": "Lab"
+  },
+  {
+   "who": "The Financial Secretary to the Treasury (Lord Livermore) (Lab)",
+   "member_id": 4559,
+   "type": "Contribution",
+   "text": "My Lords, in July, the Government set out their view that the number of pupils who may switch schools as a result of these changes represents a very small proportion of overall pupils in the state sector. Projections from the Institute for Fiscal Studies suggest that this is likely to represent less than 0.5% of total UK state school pupils, with any movement expected to take place over several years. At the Budget, the Government will set out our assessment of the expected impacts and a tax information and impact note. This assessment will be consistent with the costings of this policy by the Office for Budget Responsibility. In making this assessment, the Government will consider pass-through of VAT to school fees as well as the likely elasticity of demand.",
+   "name": "Lord Livermore",
+   "party": "Lab",
+   "role": "The Financial Secretary to the Treasury"
+  },
+  {
+   "who": "Lord Hacking (Lab)",
+   "member_id": 3580,
+   "type": "Contribution",
+   "text": "My Lords, I am very grateful to my noble friend for answering my Question. He cites the IFS report that advised that there would be a very small pupil migration of between 3% and 7%. The question is whether that is correct. Do the findings of the IFS provide any clear indication of parents’ ability to pay a 20% increase in the cost of school fees? Also, should not the Government listen to the parents of pupils in independent schools in the various parent surveys? In recent surveys, between 18% and 26% have said that they will not be able to pay this increase and will have to take their child or children out of independent schools.",
+   "name": "Lord Hacking",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Livermore (Lab)",
+   "member_id": 4559,
+   "type": "Contribution",
+   "text": "At the Budget, we will set out an assessment of the expected impacts of this policy in the normal way by publishing a tax information and impact note. In this assessment, we will consider, first, the likely pass-through of VAT to school fees. Here, after a cover of VAT on input costs, we expect schools to be liable for VAT of an average of around 15% of their fee income. The Government expect that private schools will take steps to absorb a significant proportion of this VAT liability. Secondly, we will consider the likely elasticity of demand, which will be consistent with the elasticity used by the OBR in the costing of this policy. It is worth noting that, despite a 75% real-terms increase in fees since 2000, the number of children in independent schools has remained steady, which suggests an inelastic demand for private school places.",
+   "name": "Lord Livermore",
+   "party": "Lab",
+   "role": "The Financial Secretary to the Treasury"
+  },
+  {
+   "who": "Lord Lexden (Con)",
+   "member_id": 4202,
+   "type": "Contribution",
+   "text": "Should we not all be grateful to the noble Lord, Lord Hacking, who has sent a very thorough report to the Prime Minister, showing the dire consequences that the Government’s education tax will have? Is it not time that the Government realised that their education tax—the first in our history—is likely to force a large number of parents, particularly those using small special needs schools in the independent sector, to move their children next term to state schools which are wholly unprepared for them?",
+   "name": "Lord Lexden",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Livermore (Lab)",
+   "member_id": 4559,
+   "type": "Contribution",
+   "text": "The answer to the noble Lord’s question is no, because the assumptions underlying that report are incorrect. We expect that a large number of private schools will take steps to absorb a significant proportion of this VAT liability, so the majority of that fee will not be passed through.",
+   "name": "Lord Livermore",
+   "party": "Lab",
+   "role": "The Financial Secretary to the Treasury"
+  },
+  {
+   "who": "Lord Vaux of Harrowden (CB)",
+   "member_id": 4687,
+   "type": "Contribution",
+   "text": "My Lords, 3,000 military families take advantage of the continuing education allowance and send their children to private school. In previous answers, the Minister has said that no decision will be taken on how the impact of the VAT rise will be dealt with for those families until the spending review. The Armed Forces are facing a retention crisis, as is well known. Why does the Minister think that leaving those families with this level of uncertainty is going to help with that retention?",
+   "name": "Lord Vaux of Harrowden",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Livermore (Lab)",
+   "member_id": 4559,
+   "type": "Contribution",
+   "text": "The core answer to the noble Lord’s question is that very many private schools will take steps to absorb a proportion, if not all, of the new VAT liability, so there may actually be no increase in fees in such circumstances, which is why it is right that we leave it until the spending review. It is worth pointing out that very many military personnel send their children to state schools and want them to benefit from the improvements that will happen in those schools.",
+   "name": "Lord Livermore",
+   "party": "Lab",
+   "role": "The Financial Secretary to the Treasury"
+  },
+  {
+   "who": "The Lord Speaker (Lord McFall of Alcluith)",
+   "member_id": 4148,
+   "type": "Contribution",
+   "text": "My Lords, the noble Lord, Lord Campbell-Savours, is participating remotely.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Lord Campbell-Savours (Lab) [V]",
+   "member_id": 499,
+   "type": "Contribution",
+   "text": "Why not positively foster pupil migration from the public schools into the state boarding school sector, such as Keswick School, a comprehensive in the Lake District? They offer a far wider social mix, often higher standards of education, help to foster far more balanced social interaction among the young, and all at a fraction—often one-third —of the cost. Is this discussion about not just tax receipts but breaking down social division that can begin in childhood and later divide society?",
+   "name": "Lord Campbell-Savours [V]",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Livermore (Lab)",
+   "member_id": 4559,
+   "type": "Contribution",
+   "text": "I am very grateful for my noble friend’s insights. I will take those on board.",
+   "name": "Lord Livermore",
+   "party": "Lab",
+   "role": "The Financial Secretary to the Treasury"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "My Lords, the Minister keeps saying, “Our modelling, our predictions” et cetera. What happens if they have got it wrong? If, for example, 10%, 20% or 30% of pupils leave the private sector, have the Government made contingency plans to ensure a sufficient number of teachers and sufficient provision? A point was made about special needs schools. Many children in the private sector are in special schools providing a particular type of provision. Will that be available in the state system?",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Livermore (Lab)",
+   "member_id": 4559,
+   "type": "Contribution",
+   "text": "The noble Lord asks about the assumptions we are making. As I said, we will set out our assessment of the expected impacts of this policy in the normal way by publishing a tax information impact note at the time of the Budget. At that point he can judge those assumptions for himself.",
+   "name": "Lord Livermore",
+   "party": "Lab",
+   "role": "The Financial Secretary to the Treasury"
+  },
+  {
+   "who": "Baroness Vere of Norbiton (Con)",
+   "member_id": 4580,
+   "type": "Contribution",
+   "text": "According to the Government, VAT is a tax on consumption and therefore falls on the parents. Yet the Minister keeps saying that this consumption tax will be absorbed by the producer—the schools. Many noble Lords have pointed out today that schools cannot simply magic up lots of cash to mitigate against this consumption tax on the parents. Has he considered that he is undermining what a tax on the consumer actually is?",
+   "name": "Baroness Vere of Norbiton",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Livermore (Lab)",
+   "member_id": 4559,
+   "type": "Contribution",
+   "text": "The noble Baroness will know that how schools will fund this additional cost is a commercial decision for each school. Some schools have already announced a very wide range of fee increases, from zero to 5%, to 10%, up to, for example, Eton at 20% above the average expected VAT liability. This reflects the Government’s expectation that private schools will take steps to absorb a significant proportion of the new VAT liability.",
+   "name": "Lord Livermore",
+   "party": "Lab",
+   "role": "The Financial Secretary to the Treasury"
+  },
+  {
+   "who": "Noble Lords",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "My Lords—",
+   "name": "Noble Lords"
+  },
+  {
+   "who": "Lord Kennedy of Southwark (Lab Co-op)",
+   "member_id": 4153,
+   "type": "Contribution",
+   "text": "Can we hear from the noble Baroness, Lady Foster?",
+   "name": "Lord Kennedy of Southwark",
+   "seat": "Lab Co-op"
+  },
+  {
+   "who": "Baroness Foster of Aghadrumsee (Non-Afl)",
+   "member_id": 4969,
+   "type": "Contribution",
+   "text": "My Lords, I am grateful to the noble Lord. Is the Minister aware of the disproportionate impact that this tax will have on Christian schools in Northern Ireland given the structure of the education system there? Given that, will a specific impact assessment be carried out?",
+   "name": "Baroness Foster of Aghadrumsee",
+   "party": "Non-Afl"
+  },
+  {
+   "who": "Lord Livermore (Lab)",
+   "member_id": 4559,
+   "type": "Contribution",
+   "text": "The impact assessment will cover the full range of expected impacts.",
+   "name": "Lord Livermore",
+   "party": "Lab",
+   "role": "The Financial Secretary to the Treasury"
+  },
+  {
+   "who": "Lord Foulkes of Cumnock (Lab Co-op)",
+   "member_id": 579,
+   "type": "Contribution",
+   "text": "My Lords, is the Minister aware that many of us think that taxing the schools like other private enterprises is long overdue? Will he confirm that, in the case of the sons and daughters of MoD and FCDO personnel, it is in fact just a transfer from one government department to the other and has no net impact?",
+   "name": "Lord Foulkes of Cumnock",
+   "seat": "Lab Co-op"
+  },
+  {
+   "who": "Lord Livermore (Lab)",
+   "member_id": 4559,
+   "type": "Contribution",
+   "text": "I absolutely agree with the spirit of my noble friend’s point. This is a necessary decision that will generate additional funding to help improve public services, including the Government’s commitments relating to education and young people. The Government are committed to breaking down barriers to opportunity and determined to drive up standards in those schools serving the overwhelming majority of children in this country.",
+   "name": "Lord Livermore",
+   "party": "Lab",
+   "role": "The Financial Secretary to the Treasury"
+  },
+  {
+   "who": "Lord Markham (Con)",
+   "member_id": 4948,
+   "type": "Contribution",
+   "text": "What is clear from the comments is that this is all built on a number of assumptions that clearly could be incorrect. Given that the whole objective of this is to raise money, will the Minister undertake a review a year from now when this has been in place to see whether those assumptions were borne out, or, as we suspect, it has ended up losing money and will be repealed?",
+   "name": "Lord Markham",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Livermore (Lab)",
+   "member_id": 4559,
+   "type": "Contribution",
+   "text": "The Government are extremely confident in our costings. We expect this policy to raise significant amounts of revenue. The Office for Budget Responsibility will certify the Government’s costings at the Budget. Of course, one keeps all tax policy under review.",
+   "name": "Lord Livermore",
+   "party": "Lab",
+   "role": "The Financial Secretary to the Treasury"
+  },
+  {
+   "who": "Baroness Butler-Sloss (CB)",
+   "member_id": 3804,
+   "type": "Contribution",
+   "text": "Do the Minister and the Government realise that we are talking about not only Eton, Winchester and Westminster? There are a large number of small independent schools serving local people on relatively low fees. They are the ones that will fail, in Northern Ireland and other places. There is no point reviewing it in a year’s time—they will be closed and those children may or may not find sufficient places in the local state schools.",
+   "name": "Baroness Butler-Sloss",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Livermore (Lab)",
+   "member_id": 4559,
+   "type": "Contribution",
+   "text": "I disagree with the assumptions that underlie the noble and learned Baroness’s assumptions. As I said, some schools have already announced a very wide range of fee increases, from zero to 5% and up to 10%.",
+   "name": "Lord Livermore",
+   "party": "Lab",
+   "role": "The Financial Secretary to the Treasury"
+  }
+ ],
+ "fetched": "2026-10-21T20:24:02Z"
+}

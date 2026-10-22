@@ -1,0 +1,1080 @@
+{
+ "ext_id": "6C34183F-E522-434D-9683-2AE78E15C063",
+ "date": "2025-04-02",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "School-based Nursery Capital Grants",
+ "parents": [
+  "Commons Chamber"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2025-04-02/debates/6C34183F-E522-434D-9683-2AE78E15C063/SchoolBasedNurseryCapitalGrants",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education",
+   "member_id": 4046
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 4048
+  },
+  {
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks",
+   "member_id": 4780
+  },
+  {
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North",
+   "member_id": 5294
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Peter Dowd",
+   "party": "Lab",
+   "seat": "Bootle",
+   "member_id": 4397
+  },
+  {
+   "name": "Sir Julian Lewis",
+   "party": "Con",
+   "seat": "New Forest East",
+   "member_id": 54
+  },
+  {
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston",
+   "member_id": 4679
+  },
+  {
+   "name": "Katie White",
+   "party": "Lab",
+   "seat": "Leeds North West",
+   "member_id": 5260
+  },
+  {
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon",
+   "member_id": 5122
+  },
+  {
+   "name": "Grahame Morris",
+   "party": "Lab",
+   "seat": "Easington",
+   "member_id": 3973
+  },
+  {
+   "name": "Julia Lopez",
+   "party": "Con",
+   "seat": "Hornchurch and Upminster",
+   "member_id": 4647
+  },
+  {
+   "name": "Natasha Irons",
+   "party": "Lab",
+   "seat": "Croydon East",
+   "member_id": 5119
+  },
+  {
+   "name": "Helen Maguire",
+   "party": "LD",
+   "seat": "Epsom and Ewell",
+   "member_id": 5336
+  },
+  {
+   "name": "Damien Egan",
+   "party": "Lab",
+   "seat": "Bristol North East",
+   "member_id": 5010
+  },
+  {
+   "name": "Alison Bennett",
+   "party": "LD",
+   "seat": "Mid Sussex",
+   "member_id": 5283
+  },
+  {
+   "name": "Mary Glindon",
+   "party": "Lab",
+   "seat": "Newcastle upon Tyne East and Wallsend",
+   "member_id": 4126
+  },
+  {
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole",
+   "member_id": 5327
+  },
+  {
+   "name": "Jenny Riddell-Carpenter",
+   "party": "Lab",
+   "seat": "Suffolk Coastal",
+   "member_id": 5160
+  },
+  {
+   "name": "Sarah Dyke",
+   "party": "LD",
+   "seat": "Glastonbury and Somerton",
+   "member_id": 4995
+  },
+  {
+   "name": "Matt Rodda",
+   "party": "Lab",
+   "seat": "Reading Central",
+   "member_id": 4654
+  },
+  {
+   "name": "Mr Paul Kohler",
+   "party": "LD",
+   "seat": "Wimbledon",
+   "member_id": 5321
+  },
+  {
+   "name": "Sally Jameson",
+   "party": "Lab/Co-op",
+   "seat": "Doncaster Central",
+   "member_id": 5178
+  },
+  {
+   "name": "Callum Anderson",
+   "party": "Lab",
+   "seat": "Buckingham and Bletchley",
+   "member_id": 5193
+  },
+  {
+   "name": "Mr Paul Foster",
+   "party": "Lab",
+   "seat": "South Ribble",
+   "member_id": 5074
+  },
+  {
+   "name": "Ian Lavery",
+   "party": "Lab",
+   "seat": "Blyth and Ashington",
+   "member_id": 4139
+  },
+  {
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow",
+   "member_id": 5237
+  },
+  {
+   "name": "Luke Akehurst",
+   "party": "Lab",
+   "seat": "North Durham",
+   "member_id": 5112
+  },
+  {
+   "name": "Deirdre Costigan",
+   "party": "Lab",
+   "seat": "Ealing Southall",
+   "member_id": 5075
+  },
+  {
+   "name": "Terry Jermy",
+   "party": "Lab",
+   "seat": "South West Norfolk",
+   "member_id": 5338
+  },
+  {
+   "name": "Jodie Gosling",
+   "party": "Lab",
+   "seat": "Nuneaton",
+   "member_id": 5036
+  },
+  {
+   "name": "Sean Woodcock",
+   "party": "Lab",
+   "seat": "Banbury",
+   "member_id": 5328
+  },
+  {
+   "name": "Tristan Osborne",
+   "party": "Lab",
+   "seat": "Chatham and Aylesford",
+   "member_id": 5220
+  },
+  {
+   "name": "James Asser",
+   "party": "Lab",
+   "seat": "West Ham and Beckton",
+   "member_id": 5211
+  },
+  {
+   "name": "Perran Moon",
+   "party": "Lab",
+   "seat": "Camborne and Redruth",
+   "member_id": 5208
+  },
+  {
+   "name": "Sam Carling",
+   "party": "Lab",
+   "seat": "North West Cambridgeshire",
+   "member_id": 5308
+  },
+  {
+   "name": "Josh Newbury",
+   "party": "Lab",
+   "seat": "Cannock Chase",
+   "member_id": 5034
+  },
+  {
+   "name": "Dave Robertson",
+   "party": "Lab",
+   "seat": "Lichfield",
+   "member_id": 5126
+  },
+  {
+   "name": "Markus Campbell-Savours",
+   "party": "Lab",
+   "seat": "Penrith and Solway",
+   "member_id": 5124
+  },
+  {
+   "name": "Josh Simons",
+   "party": "Lab",
+   "seat": "Makerfield",
+   "member_id": 5060
+  },
+  {
+   "name": "Dan Aldridge",
+   "party": "Lab",
+   "seat": "Weston-super-Mare",
+   "member_id": 5172
+  },
+  {
+   "name": "David Williams",
+   "party": "Lab",
+   "seat": "Stoke-on-Trent North",
+   "member_id": 5151
+  },
+  {
+   "name": "Noah Law",
+   "party": "Lab",
+   "seat": "St Austell and Newquay",
+   "member_id": 5302
+  },
+  {
+   "name": "Andrew Pakes",
+   "party": "Lab",
+   "seat": "Peterborough",
+   "member_id": 5243
+  },
+  {
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell",
+   "member_id": 5165
+  },
+  {
+   "name": "Michael Wheeler",
+   "party": "Lab",
+   "seat": "Worsley and Eccles",
+   "member_id": 5242
+  }
+ ],
+ "contributions": [
+  {
+   "who": "The Secretary of State for Education (Bridget Phillipson)",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "With permission, I will make a statement to update the House on the roll-out of nurseries in our primary schools. This Labour Government are bringing the change that families deserve. We made promises to the parents and children of this country and, not nine months in, we are acting to deliver on them. Free breakfast clubs are already being rolled out, the curriculum and assessment review is in full swing, and children’s social care is seeing the biggest overhaul in a generation. We have funding for 10,000 new places for pupils with special educational needs and disabilities, backing for up to 10,000 more apprentices to qualify, new improvement teams for our schools and a new allowance for our kinship carers—promises made, promises kept. Here, today, we go further. This £37 million in funding for 300 primary schools to open and expand nurseries is a big step towards delivering 3,000 nurseries for schools, a big step towards delivering childcare for parents and a big step towards delivering the best start in life for all our children. I want that best start in life for every child, because I want opportunity for every child. I want every child in every village, town and city across ",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I call the shadow Secretary of State.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Laura Trott (Sevenoaks) (Con)",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "We welcome the Education Secretary’s announcement, but let us be absolutely clear: the policies that she is talking about represent investment of £37 million, but the Government are taking away half a billion pounds from nurseries by failing to compensate them for the national insurance increase. That will have a catastrophic effect on nurseries up and down the country, which will be forced either to close or to put their prices up. “Catastrophic” is not my word, but that of the Early Years Alliance, following Labour’s national insurance bombshell on the childcare sector. In her statement, the Education Secretary said that she inherited a “pledge without a plan”—what a load of nonsense! It is our plan that is delivering the expansion of funded childcare this autumn, and our plan that she today confirmed has already halved costs for under-threes, according to independent research. That is our plan, Madam Deputy Speaker, but it is her plan that is shutting nurseries up and down the country, and that will put up costs for parents. Just last week, I hosted a roundtable with some of the unsung heroes of the sector—nursery owners. Many were in tears, struggling with very real decisions a",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "It must be profoundly draining for the right hon. Lady to come to the Chamber when faced with such good news and to bring such studied, forced negativity every single time. Six weeks ago, I was in the House delivering the news that we are supporting hundreds of schools across our country to open free breakfast clubs, and we got much of the same studied, forced negativity then. Today, not nine months into this Government, we are beginning the roll-out of school-based nurseries, as we have promised to the people of this country— [ Interruption. ] I spoke about visits, and the hon. Member for Harborough, Oadby and Wigston (Neil O’Brien) should go and visit the school-based nursery that will shortly be opening in his constituency. I never hear from Conservative Members that they will be visiting those nurseries or breakfast clubs, so maybe they could take time out of their busy schedules to go and do precisely that. The only priority that they have is to bring back tax breaks for private schools, taking away resources from our state schools. That is the one idea that they have. Their idea of fresh thinking is to spend money they did not raise on plans they did not make. On the question",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Amanda Martin (Portsmouth North) (Lab)",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "Early years is another strand of education that was decimated by the last Government. Although those on the Conservative Benches have not valued this sector, as a former teacher, a mum and now an MP, I know its value for children and families in our communities. Although in Portsmouth we do not have one of the 300 nurseries announced in today’s first wave, I commend the Government on this initiative. I take this opportunity to commend and praise all those who work in the sector, providing opportunities for the young people in my city. I thank them for their fantastic work. I also take this opportunity to ask the Secretary of State to update the House on delivery of the planned September 2025 childcare expansion, and to explain how she expects parents to benefit from the 30-hours roll-out across the fabulous nurseries in my city.",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to my hon. Friend, who brings real expertise to this place, through her background and wealth of experience in education. Through the expansion that we are rolling out this year, parents will see considerable savings, but crucially it will ensure that all our children get the best possible start in life. While I recognise her disappointment that her own constituency did not benefit this time around, I note that Portsmouth South secured a school-based nursery this time around. Of course, this is only phase 1 of what will be a wider roll-out as time progresses.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I call the Liberal Democrat spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Access to flexible, high-quality early years provision gives children the start they deserve and parents the choice they need to live their lives, and it is one of the best possible investments we can make in the future of our country. For those families living in childcare deserts left by the previous Conservative Government, today’s announcement will be welcome news. I welcome the sorely needed uplift in the early years pupil premium, but school-based nurseries can only ever be part of the puzzle. We will never fix the crisis in early years without fixing the deep problems facing private and charitable providers. They deliver the vast bulk of the Government’s free entitlement, yet they face some of the toughest challenges in making ends meet. The Government’s national insurance hike, the failure to ensure that rates actually cover delivery costs and damaging guidance to local authorities on funding agreements, which came into effect this week, mean that many are struggling to stay afloat. We have already heard that the Early Years Alliance survey found that four in 10 said they would reduce their number of funded places for three-year-olds and four-year-olds in the next year. Som",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to the hon. Lady. Like her, I pay tribute to the big range of providers that play a crucial role in supporting our children’s early education. That extends to private voluntary providers and childminders, who are a crucial part of the sector. The announcement we are making today on school-based nurseries is designed to deal with many of the challenges that she identifies arising from the childcare deserts left behind by the Conservatives. We also know that school-based providers have a greater share of the market in more deprived areas, and 34% of those announced today will serve disadvantaged communities. [ Official Report , 23 April 2025; Vol. 765, c. 9WC.] (Correction) Alongside that, I note that the hon. Lady welcomes the biggest ever uplift that we have secured in the early years pupil premium, which will make a big difference to the life chances of children from more disadvantaged backgrounds. When it comes to the rates, we will always continue to keep those under review. The hon. Lady asks about the charging guidance that has been issued. I believe it is important that parents have greater transparency when it comes to charging and fees, and where they are able",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Peter Dowd (Bootle) (Lab)",
+   "member_id": 4397,
+   "type": "Contribution",
+   "text": "I have seen more Tory MPs changing a lightbulb than there are in the Chamber today. I welcome the statement from the Secretary of State—as does Thomas Gray primary school, a very good school in my constituency; the parents and children do a fantastic job there—and I thank her for it. Does she agree that, quite simply, actions speak louder than the many words the Opposition say?",
+   "name": "Peter Dowd",
+   "party": "Lab",
+   "seat": "Bootle"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I agree with my hon. Friend. Like him, I pay tribute to the amazing staff working right across education in our schools and nurseries for the vital work they do.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sir Julian Lewis (New Forest East) (Con)",
+   "member_id": 54,
+   "type": "Contribution",
+   "text": "I like the right hon. Lady, and I really enjoyed her sunlit-uplands speech—anyone would think there was a leadership contest on in the Labour party. I did not quite hear the answer to the question from my right hon. Friend the Member for Sevenoaks (Laura Trott) about the way in which the increase in national insurance contributions will hit all nurseries at once, whereas at the moment we are getting an initial tranche of 300 out of an intended 3,000 new arrangements for her announcement to be fulfilled. Over how long a period does she expect to get from 300 to 3,000?",
+   "name": "Sir Julian Lewis",
+   "party": "Con",
+   "seat": "New Forest East"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am glad that the right hon. Gentleman likes a bit of hope and optimism; I think we could all do with a bit of hope and optimism in the current world. The leadership contest I am really looking forward to is the one that we are going to see very soon in his own party. It will be a treat for all of us in this House, although I hope it does not happen, because I would much prefer for things to carry on just as they are. I note the questions that the right hon. Gentleman asks. We have secured an extra £2 billion in the Budget, taking the total to £8 billion for early years entitlements. In addition, we have a £75 million expansion grant, compensation for public sector employers and, alongside that, the biggest ever uplift in the early years pupil premium. We are working very closely with the sector to deliver the places and the staff required, and we will continue to do so in the months ahead.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Neil O’Brien (Harborough, Oadby and Wigston) (Con)",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Answer the question!",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "In answer to the question, this is the first phase, and we will roll out the 3,000 over the course of this Parliament.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Katie White (Leeds North West) (Lab)",
+   "member_id": 5260,
+   "type": "Contribution",
+   "text": "I warmly welcome the refocusing on early years by this Government, and I also welcome the school-based nursery announcements today; I am particularly excited about the one at Tranmere Park primary school in Guiseley in my constituency. How many children do we think will be affected by this announcement, and how many parents will benefit from it?",
+   "name": "Katie White",
+   "party": "Lab",
+   "seat": "Leeds North West"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to my hon. Friend, and I look forward to the extra places that will be available in her constituency to serve local families. What we are setting out today will create 6,000 new childcare places, most of which we expect to be available from September 2025. We are moving rapidly to support schools to put in place the spaces for children that we know are required.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Manuela Perteghella (Stratford-on-Avon) (LD)",
+   "member_id": 5122,
+   "type": "Contribution",
+   "text": "Behind capital funding, what gives children the best start in life is the people, such as early years practitioners, teachers and teaching assistants. The early years sector is struggling with a crisis in recruitment and retention, especially in rural areas such as my constituency. That leads to fewer places for children and higher costs for families. What steps are the Government taking to address the lack of resources, skills and experience in schools and other early years sectors for delivering high-quality education to under-threes?",
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I agree with the hon. Lady that it is the brilliant people working in early years education who make the biggest difference to our children’s life chances. Of course, we need to put the capital in place to create the physical provision, but it is the people who deliver it who matter the most—I know that the hon. Lady brings expertise in that area to this House. I agree that there is more to do to support the workforce, but we have already taken important steps to support the sector to recruit and retain more staff ahead of the final phase of the roll-out. We have also recently introduced an experience-based route to working in the sector at level 3 and have published the early years teacher degree apprenticeship standard, a new undergraduate route to early years teacher status. Later this year, we will set out more details on wider reform, including looking at the questions about workforce that the hon. Lady has raised.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Grahame Morris (Easington) (Lab)",
+   "member_id": 3973,
+   "type": "Contribution",
+   "text": "I warmly welcome the statement from my right hon. Friend and neighbour. I particularly welcome the fact that Yohden primary school in my constituency—one of the most deprived and disadvantaged communities not just in the county, but in the country—will benefit. That is tremendous news, but can my right hon. Friend outline the Government’s timetable and commit to expanding the scheme still further, so that parents across my constituency and others can look forward to an improvement in childcare provision?",
+   "name": "Grahame Morris",
+   "party": "Lab",
+   "seat": "Easington"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I join my hon. Friend in sending my best wishes to the staff at Yohden primary school, and I recognise the important work that they do to support families and children from more disadvantaged backgrounds. This announcement is an important first step in the Government’s ambitious plan for change, breaking the link between background and success, and making sure that a record proportion of children start school ready to learn. This is the first phase of what we intend to do, but there is more to come right throughout this Parliament.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Julia Lopez (Hornchurch and Upminster) (Con)",
+   "member_id": 4647,
+   "type": "Contribution",
+   "text": "On Friday, I met 20 incredible women running nurseries and pre-schools in Havering. They contacted me because they are in utter crisis. Business rates, national insurance and wage bills are all rising, while the Government cap what they are allowed to charge and then do not cover the cost of the free childcare hours being offered. Fees are going up, and nurseries are now at risk of mass closure. The Education Secretary is driving private nurseries to the brink while not providing enough school-based ones to fill the gap, and I am afraid that her talk of hope is absolutely delusional. As a parent with two small children who speaks regularly to the women running those nurseries, watching Labour Back Benchers jeering the shadow Secretary of State for asking questions is absolutely disgusting. What urgent action is the Education Secretary taking to prevent a meltdown in childcare that is going to affect working families across this country?",
+   "name": "Julia Lopez",
+   "party": "Con",
+   "seat": "Hornchurch and Upminster"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I, too, speak to early years providers, schools, nurseries and childminders right across our country on a regular basis, unlike Conservative Front Benchers, who seem to spend most of their time complaining about announcements that this Labour Government are making. I also pay tribute to the early years workforce and the staff in the hon. Lady’s constituency for the important work that they are doing. As I have said in a number of answers, we have set out £8 billion in funding, alongside the biggest ever uplift to the early years pupil premium and a £75 million expansion grant to create the places that are required, and that is on top of the £37 million of capital funding that I have announced today.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Natasha Irons (Croydon East) (Lab)",
+   "member_id": 5119,
+   "type": "Contribution",
+   "text": "I welcome this Government’s continued commitment to breaking down barriers to opportunity, and I welcome the investment in the nurseries at Monks Orchard primary school and Fairchildes primary school in my constituency—I visited Fairchildes earlier in the year, and I know that that money will go to very good use. Does the Secretary of State agree that accessible childcare is essential support for all families, and can she outline how today’s announcement will help to boost household incomes?",
+   "name": "Natasha Irons",
+   "party": "Lab",
+   "seat": "Croydon East"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am delighted that my hon. Friend has been able to see at first hand in her Croydon constituency the impact that this funding will have on families. It will support us in ensuring that a record proportion of children arrive at school ready to learn, and will make a significant difference in supporting families and child development. Critically, as my hon. Friend identifies, it will also put more money directly back into parents’ pockets—the figure is £7,500.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Helen Maguire (Epsom and Ewell) (LD)",
+   "member_id": 5336,
+   "type": "Contribution",
+   "text": "I welcome the Government’s announcement today, but not every parent needs a full childcare place; many just need somewhere to go with their child, especially in the early months, as parenting can be an isolating and overwhelming experience. What are the Government doing to support community-based options such as one o’clock clubs and the Sure Start centres, which provide vital spaces for parents and children alike?",
+   "name": "Helen Maguire",
+   "party": "LD",
+   "seat": "Epsom and Ewell"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I agree about the importance of family support services, especially for our youngest children. The hon. Lady mentioned Sure Start; that was a proud achievement of the last Labour Government, and when her party was in coalition with the Conservatives, we saw Sure Start centres close right across the country. However, she makes a fair point about the support that is required in the early years, which is why we are doing more, and will do more in the months ahead. While access to early education is a critical part of what many families want, alongside access to high-quality health visiting and speech and language support, community provision is also critical. That is why I am working very closely with the Health Secretary to ensure that all families have good access to both education services and health and care services.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Damien Egan (Bristol North East) (Lab)",
+   "member_id": 5010,
+   "type": "Contribution",
+   "text": "I would like to express my gratitude and welcome this news today. Two new nurseries will be opening in Bristol North East, the Tynings school in Staple Hill and Avanti Gardens in Fishponds, both areas that have lots of young families but not enough nursery provision. Can the Secretary of State reassure other families in Bristol North East and across the country that this announcement is just the start, and that under a Labour Government, we will see lots more nursery places opening?",
+   "name": "Damien Egan",
+   "party": "Lab",
+   "seat": "Bristol North East"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Parents in my hon. Friend’s constituency will be able to benefit now from the expansion of school-based nurseries, but this is just the start. Alongside the expansion in primary schools that I have set out, we are working very closely with private and voluntary providers and with childminders to deliver the places that families in my hon. Friend’s constituency and across the country were promised by the Conservative party, but that this Labour Government will deliver.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Alison Bennett (Mid Sussex) (LD)",
+   "member_id": 5283,
+   "type": "Contribution",
+   "text": "Emma, who runs a nursery in the small village of Sayers Common in my constituency, wrote to me recently about the impact of national insurance rises. I recognise that today’s announcement is focused on really deprived areas, and I can see that two primary schools in Crawley in West Sussex that will benefit. That is a town with proper deprivation, but deprivation also exists in rural areas, and I am worried that today’s announcement is giving with one hand to deprived urban areas, but taking away with the other by hammering nurseries in our rural villages with increased national insurance contributions.",
+   "name": "Alison Bennett",
+   "party": "LD",
+   "seat": "Mid Sussex"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I can assure the hon. Lady that the list of schools announced today covers constituencies the length and breadth of our country, serving constituencies both urban and rural. I recognise her point about ensuring that there is good, adequate provision in our rural communities as well, and if she wants to share Emma’s letter and experiences with me, I would be happy to respond.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mary Glindon (Newcastle upon Tyne East and Wallsend) (Lab)",
+   "member_id": 4126,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for investing in Battle Hill primary school in the ward in which I live, where I was proud to be a school governor for 20 years. Does she agree that investing in nurseries in deprived areas such as Battle Hill is essential in order to give very young children a good start to their education journey?",
+   "name": "Mary Glindon",
+   "party": "Lab",
+   "seat": "Newcastle upon Tyne East and Wallsend"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I agree with my hon. Friend—that is where we will make the biggest difference to children’s life chances. All the evidence is clear that where gaps open up early, they endure into the long run, which has a lasting impact on children’s ability to do well at school and get good GCSEs and on their earnings potential into the future. I pay tribute to my hon. Friend for the work she has done over many years to support her community, including as a school governor.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Vikki Slade (Mid Dorset and North Poole) (LD)",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "While I, too, am excited about the opportunities for some communities, I am really concerned about the growing gap between school-based nurseries and community-based ones—settings in my constituency such as Cuddles, Trailway Tots, and nature nurseries. When those nurseries have written to Ministers to express their concerns, they have often been encouraged to apply for small business rate relief, but given the space standards, that relief simply does not apply. In 2023-24, the average early years setting paid £21,000 in business rates, so those nurseries cannot apply because of the standards required by the education service. In Wales and Scotland, nurseries are exempt from business rates, and schools have them factored into their funding formula. How are we going to make sure that community settings benefit and that we are not just seeing toddlers transferring into school settings, with other settings closing?",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am sure that if the hon. Lady writes with further information, the Under-Secretary of State for Education, my hon. Friend the Member for Portsmouth South (Stephen Morgan), will be happy to respond to her questions, but I hope I can give her some reassurance by saying that 27 of the schools that will receive funding will be in a partnership with a private or voluntary early years provider on the school site. Moreover, many of the providers that will deliver the service I have announced will do so around the school day: many schools will ensure that there is provision throughout the year, but also at the start and the end of school days, often delivered in partnership with private or voluntary providers.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Jenny Riddell-Carpenter (Suffolk Coastal) (Lab)",
+   "member_id": 5160,
+   "type": "Contribution",
+   "text": "Four schools in Suffolk will benefit from today’s announcement, and two of them are in my constituency. I am delighted that Reydon and Waldringfield primary schools will benefit. Does the Minister agree that this new scheme will directly benefit rural constituencies such as mine at a time when access to nursery provision is even more challenging for families, including working families, than it is for their urban neighbours?",
+   "name": "Jenny Riddell-Carpenter",
+   "party": "Lab",
+   "seat": "Suffolk Coastal"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am delighted to hear about the impact that this will have on my hon. Friend’s constituency and throughout Suffolk. We believe that in rural communities there is an important role for school-based provision and expanding early years opportunities. Where schools are already at the heart or our communities, what I have announced will allow further provision, creating early years places that will support children and their families, and, crucially, it also represents an important step in supporting child development.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sarah Dyke (Glastonbury and Somerton) (LD)",
+   "member_id": 4995,
+   "type": "Contribution",
+   "text": "I welcome the announcement. Curry Mallet Church of England school in my constituency was successful in this funding round, and can expand its early years provision. However, many early years providers, such as Hassockmoor Childcare in Barrington, face significant funding challenges. Given that more than three quarters of entitlement places are provided by private voluntary or independent nurseries, why are those not more central to expansion plans as they continue to experience the nightmare of increased employer NICs, price rises and, sadly, the risk of closure?",
+   "name": "Sarah Dyke",
+   "party": "LD",
+   "seat": "Glastonbury and Somerton"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "They are central to our plans, and they have a critical role to play in support for children and families and delivery of the roll-out, but school-based nurseries also have an important role in supporting children from more disadvantaged communities where they already have a higher proportion of the market share. We think that that can be expanded further to provide high-quality early years provision, which will involve working with private, voluntary and independent providers.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Matt Rodda (Reading Central) (Lab)",
+   "member_id": 4654,
+   "type": "Contribution",
+   "text": "I pay tribute to the early years workforce, and I strongly support the Secretary of State’s announcement, which builds on other announcements made recently by her and others in her Department. Will she say a little more about the benefits for, in particular, the most disadvantaged children, including those who may have English as a second language?",
+   "name": "Matt Rodda",
+   "party": "Lab",
+   "seat": "Reading Central"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We know from all the evidence that children from the most disadvantaged backgrounds have the most to gain from high-quality early years education. Today’s announcement will allow us to provide more places for them, alongside the expansion and the big uplift in the early years pupil premium. When it comes to childcare, we are determined to enable children from more disadvantaged backgrounds to take up places.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Paul Kohler (Wimbledon) (LD)",
+   "member_id": 5321,
+   "type": "Contribution",
+   "text": "I welcome the announcement and, in particular, the increased funding, but the Government also need to address the problems of funding nursery provision in the private sector. The Castle Kindergarten in my constituency has written to me saying that new restrictions on what nurseries can charge parents to bridge the gap between Government funding and the actual costs of childcare services are putting most private providers in a precarious position. According to a recent article in The Times , nearly 60% of childcare providers plan to limit the number of Government-funded places owing to those restrictions. Will the Secretary of State meet me, along with my constituents, to discuss this issue?",
+   "name": "Mr Paul Kohler",
+   "party": "LD",
+   "seat": "Wimbledon"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend the Parliamentary Under-Secretary will be happy to meet the hon. Gentleman to discuss that further. In respect of charging and guidance, I think it an important principle that parents should have transparency on what they are being charged and what they are being charged for, especially when it comes to access to Government-backed provision. As for funding, I have already told the House that we have increased the early years pupil premium by 45%, and alongside that is the £75 million expansion grant. This year, the rate for under-twos has increased by, on average, 3.4%.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sally Jameson (Doncaster Central) (Lab/Co-op)",
+   "member_id": 5178,
+   "type": "Contribution",
+   "text": "I welcome the announcement of capital funding, which will benefit Armthorpe’s Shaw Wood academy in my constituency, but what revenue funding nurseries will receive?",
+   "name": "Sally Jameson",
+   "party": "Lab/Co-op",
+   "seat": "Doncaster Central"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "The investment in my hon. Friend’s constituency will allow parents to take up the offer of expanded childcare and entitlements, and we will ensure that the places are available to them. Eligible parents will have access to the entitlements that we are expanding and rolling out with the £8 billion of investment that was announced in the Budget.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Callum Anderson (Buckingham and Bletchley) (Lab)",
+   "member_id": 5193,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for her statement, and warmly welcome the inclusion of Great Horwood Church of England school in the first round of funding. Like every school leader in Buckinghamshire, Milton Keynes and the country as a whole, the school’s headteacher, Paula Shaw, is working tirelessly to ensure that all children and their families have the opportunity to thrive. Does the Secretary of State agree that it is vital to ensure that parents in both urban and rural communities never have to choose between their families and their jobs?",
+   "name": "Callum Anderson",
+   "party": "Lab",
+   "seat": "Buckingham and Bletchley"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I agree with my hon. Friend, and I pay tribute to Paula Shaw and the team for all their work to support children and families. We were delighted that so many schools came forward to apply to take part in this first phase. Demand far outstripped supply, so we will be returning to this. However, I am also delighted that Paula and her team felt able to take part and to see the benefits that the extra places will bring to my hon. Friend’s constituents.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Paul Foster (South Ribble) (Lab)",
+   "member_id": 5074,
+   "type": "Contribution",
+   "text": "This has been a game-changing announcement for my community. Not only has Runshaw college in Leyland been awarded £1.8 million as part of the higher education capital improvement funds, but Northbrook primary academy, also in Leyland, and Longton primary school have been included in the school-based nursery provision. I am delighted about that, and I thank the Ministers. Does the Secretary of State agree that this offers a huge opportunity for the development of young children, as well as putting large sums back in the pockets of working people? We promised and we delivered, and that is why the Conservative Benches are empty.",
+   "name": "Mr Paul Foster",
+   "party": "Lab",
+   "seat": "South Ribble"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend is a brilliant champion for the people of South Ribble, and it is a testament to his hard work that he continues to make the case for investment. As well as putting more money back into parents’ pockets through our breakfast clubs and by rolling out primary-based nurseries, we are enabling all our children to have a brilliant start in life. I know that my hon. Friend is as passionate as I am about ensuring that we break the link between background and success, so that where a child is from does not determine what that child can go on to achieve.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Ian Lavery (Blyth and Ashington) (Lab)",
+   "member_id": 4139,
+   "type": "Contribution",
+   "text": "I am delighted that the fantastic Ringway primary school in Stakeford, in my constituency, will be among the first in the country to host a school-based nursery. That, combined with the much-needed—and long in the planning—rebuilding of the school facilities will have an immeasurable impact on the life chances of young people in my area. Does my right hon. Friend agree that investments of this nature, mainly in socially deprived areas, will be of huge importance, and will she commit herself to rolling out further such schemes on my patch as soon as possible?",
+   "name": "Ian Lavery",
+   "party": "Lab",
+   "seat": "Blyth and Ashington"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend can be assured that the early adopters breakfast clubs programme, for instance, was just the start of a national roll-out. I, too, am delighted that Ringway is part of the first phase of our school-based nurseries programme, and we are determined to ensure that there is more provision throughout the country. Of those that I have announced today, 34% will serve communities that experience disadvantage. It is important for us to ensure that all families can take up childcare and early years provision, and it is critical that we deliver those places. [ Official Report , 23 April 2025; Vol. 765, c. 10WC.] (Correction) Today’s announcement of £37 million of capital investment, including investment in my hon. Friend’s constituency, will be a crucial part of that.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Chris Vince (Harlow) (Lab/Co-op)",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for her statement. I had the opportunity only last week to visit Jerounds primary school in my constituency, and saw the incredible work that it was doing in supporting young people and showing them the value of community pride and the importance of oracy. I have to say that they gave their local MP a very good grilling. I am delighted that Jerounds will be one of the 300 schools to deliver on our pledge of a new school-based surgery. May I ask how this will benefit children and parents in my constituency, and, like others, ask for more provision in Harlow?",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I join my hon. Friend in paying tribute to the team at Jerounds for their amazing work in giving our children the best start in life. I am delighted that they were able to take part in the scheme. My announcement and those made by others across Government mean putting more money back into parents’ pockets, but also ensuring that all our children have a brilliant start in life and parents are given extra choices when it comes to the working hours that best fit their family circumstances.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Luke Akehurst (North Durham) (Lab)",
+   "member_id": 5112,
+   "type": "Contribution",
+   "text": "I welcome the Secretary of State’s announcement that seven new school-based nurseries will be established in County Durham, including one at Bloemfontein primary school in my constituency. The headteacher has said that this will transform unused space at the school and help address the current shortage of nursery spaces in our area. Does the Secretary of State agree that parents in Craghead and beyond in North Durham will benefit from cheaper childcare through these new school-based nurseries?",
+   "name": "Luke Akehurst",
+   "party": "Lab",
+   "seat": "North Durham"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "As my hon. Friend sets out, parents right across County Durham will be able to benefit from higher-quality, more affordable childcare that is more available. We are putting money back into parents’ pockets, but we are also providing the places that are required across our country, including in communities that have the most to gain from high-quality early years provision. We know that children from more disadvantaged backgrounds gain the most when they can access early years education, and that is the difference that this Labour Government are making.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Deirdre Costigan (Ealing Southall) (Lab)",
+   "member_id": 5075,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for today’s announcement, which includes funding for more nursery places at Allenby primary school in Ealing Southall, saving local families an average of £7,500 a year in childcare costs. Does she agree that taken together with yesterday’s increase to the national living wage, which will see £1,400 added to 3 million people’s pay packets, this is clear evidence of Labour delivering on our promise to make work pay?",
+   "name": "Deirdre Costigan",
+   "party": "Lab",
+   "seat": "Ealing Southall"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I agree with my hon. Friend, and I join her in sending my best wishes to Allenby, which is taking part in our first phase. She is right to say that this is the difference that a Labour Government are making. We are supporting working families and putting more money back into their pockets, and we delivered a record pay rise yesterday. Alongside that, we have a crucial focus on making sure that, in the early years, our children get all the support that they deserve to break the link between background and success.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Terry Jermy (South West Norfolk) (Lab)",
+   "member_id": 5338,
+   "type": "Contribution",
+   "text": "Swaffham is a small market town in my rural constituency. It has seen significant house building over the last few years, so every time I go there people are keen to talk about the impact of childcare and the lack of spaces, which is why I am so pleased that Swaffham Church of England primary academy is being funded as part of this scheme. May I warmly invite the Secretary of State to Swaffham to see the positive impact that this policy is having on rural communities such as mine?",
+   "name": "Terry Jermy",
+   "party": "Lab",
+   "seat": "South West Norfolk"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend raises an important point: where we see housing development and changes taking place, we must ensure that we have high-quality childcare and early years provision running alongside that. Through the bidding that schools were able to take part in, we considered questions about local need, and I am delighted that Swaffham will be taking part. Either I or my hon. Friend the Under-Secretary will be happy to visit the area to see the provision, perhaps when it is up and running.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Jodie Gosling (Nuneaton) (Lab)",
+   "member_id": 5036,
+   "type": "Contribution",
+   "text": "I could not be more pleased to welcome today’s news. As a former nursery manager, I understand the need to ensure that all children have the very best start. I remember the sense of abandonment when Sure Start, health visitors and school nurses were retracted from our community provision. Like many others, I had to face salary cuts and salary sacrifices to keep our nursery doors open over the last eight years under the previous Government. On Friday, I visited Stockingford academy, one of the schools benefiting from the today’s announcement, and heard from its dedicated team about the challenges they face. This year, only 7% of the 75 children are on track. Does the Secretary of State agree that the new provision will transform high-deprivation places, where 46% of the population already have high levels of debt?",
+   "name": "Jodie Gosling",
+   "party": "Lab",
+   "seat": "Nuneaton"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "That takes me back to June last year, when my hon. Friend, who was at that point Labour’s parliamentary candidate, and I launched Labour’s plan to deliver more school-based nurseries. Today, coming out of that plan, we have announced the action that parents in this country voted for.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "Order. Long questions are just going to prevent others from getting in, so I ask Members please to keep them short.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Sean Woodcock (Banbury) (Lab)",
+   "member_id": 5328,
+   "type": "Contribution",
+   "text": "In response to my hon. Friend the Member for Bootle (Peter Dowd), I actually think there are fewer Conservative Members present than there are pages in the book “The Very Hungry Caterpillar”, which says everything about where they are coming from. I am really grateful to the Secretary of State for her statement and for the fact that the town of Chipping Norton in my constituency will get one of the first 300 school-based nurseries announced today. Does she find it hard, as I do, to take lectures from the Conservative party when it comes to the provision of childcare?",
+   "name": "Sean Woodcock",
+   "party": "Lab",
+   "seat": "Banbury"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Yes. It is this Labour Government who are getting on and delivering the childcare places that parents across our country want to see, including in my hon. Friend’s constituency of Banbury. I know how hard he works for his constituents to make sure that their voices are heard in this place. He is a real champion for local families, and I want to make sure that, by working together with him and colleagues from right across the House, we deliver better life chances for all our children.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Tristan Osborne (Chatham and Aylesford) (Lab)",
+   "member_id": 5220,
+   "type": "Contribution",
+   "text": "According to the Institute for Fiscal Studies’ small business report, early years education is vital for children’s development, so I welcome today’s announcement that school-based nurseries will be created at Horsted infant school and two other schools in Medway, and at five others in Kent. Does the Minister agree that this investment, coupled with that given by Labour councils across the country through school streets programmes, will create a true learning environment that is fit for purpose?",
+   "name": "Tristan Osborne",
+   "party": "Lab",
+   "seat": "Chatham and Aylesford"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I join my hon. Friend in welcoming the important contribution that Horsted, in his constituency, will make as part of this scheme. I agree that we have to do a lot more as a country to make sure that all our children get a brilliant range of experiences, including in their early years, with the highest-quality provision. Today’s announcement takes us a step further towards that reality.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "James Asser (West Ham and Beckton) (Lab)",
+   "member_id": 5211,
+   "type": "Contribution",
+   "text": "The Secretary of State said in her announcement that many of these school-based nurseries will be in places with the greatest need. That is certainly the case in my constituency, and I am very grateful that Portway primary in West Ham has been included. I have said in this House before that my constituents do not lack ambition; they lack opportunity, and education is the golden ticket to that opportunity. Does the Secretary of State agree that nurseries provide opportunities not only for children but for adults, and can she assure us that, as the programme is rolled out, the focus will remain on areas that have not only educational needs but economic needs and other forms of deprivation?",
+   "name": "James Asser",
+   "party": "Lab",
+   "seat": "West Ham and Beckton"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "As my hon. Friend says, the expanded provision at Portway in his constituency will make a big difference by supporting parents to take on work opportunities, to have more money in their pockets, and to take on the hours that suit them. Critically, it will allow us to provide more support for children, including those from disadvantaged backgrounds, right across his constituency.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Perran Moon (Camborne and Redruth) (Lab)",
+   "member_id": 5208,
+   "type": "Contribution",
+   "text": "Treleigh primary school sits at the heart of my Camborne, Redruth and Hayle constituency. It is surrounded by an area that suffers from profound levels of poverty and deprivation. If ever there was an area that needed some good news on early years, it is mine, following the shameful neglect by the previous Government. Does the Minister agree that new childcare places in new and expanded nurseries, including at Treleigh primary school, will help children from the most deprived backgrounds have the best start in life, after the life chances of children from deprived backgrounds were ignored by the Conservative party for years?",
+   "name": "Perran Moon",
+   "party": "Lab",
+   "seat": "Camborne and Redruth"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend raises an important point about the impact that this policy will have. On average, 40% of the overall gap between disadvantaged 16-year-olds and their peers has already emerged by the age of five. That is why it is critical that we invest in the early years to give more children the best possible start in life, and today’s announcement will create much needed high-quality early years provision and places, including in his constituency.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sam Carling (North West Cambridgeshire) (Lab)",
+   "member_id": 5308,
+   "type": "Contribution",
+   "text": "I enormously welcome the Government’s decision to introduce 300 new Government-funded school-based nurseries. I am particularly delighted that one of them will be in the Hampton Vale primary academy in my constituency. Does the Secretary of State agree that these new nurseries will make a real difference to families in my constituency and across the country by saving them up to £7,500?",
+   "name": "Sam Carling",
+   "party": "Lab",
+   "seat": "North West Cambridgeshire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Yes. Today’s announcement will support parents to save up to £7,500 a year, putting more money back into their pockets. Taken together with our commitment to roll out 750 free breakfast clubs from later on this month, it is clear that this Labour Government are on the side of working parents.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Josh Newbury (Cannock Chase) (Lab)",
+   "member_id": 5034,
+   "type": "Contribution",
+   "text": "The announcement of a new school-based nursery at the Heath Hayes primary academy in my Cannock Chase constituency is very welcome, and shows that this Labour Government are keeping their promises and delivering for parents and children. As capacity is very stretched at Heath Hayes, this capital investment is very welcome. I am the parent of a child who benefited hugely from a school nursery. Does my right hon. Friend agree that school-based nurseries set children up perfectly for going into reception?",
+   "name": "Josh Newbury",
+   "party": "Lab",
+   "seat": "Cannock Chase"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I agree with my hon. Friend. I have seen for myself the impact that this policy has, particularly for parents who already have older children at school. It eases the transition from nursery to reception and sets up children to succeed. Importantly, it allows staff to build relationships with parents and families, and to identify whether problems are developing in areas such as SEND, where the earlier we spot problems, the earlier we can intervene and put in place the support that is required.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Dave Robertson (Lichfield) (Lab)",
+   "member_id": 5126,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for her statement, because this is an investment in early years, which is an investment in the future of our communities. In my constituency, there is an investment of hundreds of thousands of pounds at Springhill primary academy in Burntwood, Boney Hay primary academy in Burntwood and St Stephen’s primary in Fradley. These schools do amazing work in supporting the next generation, and this money will be used to renovate facilities, give children a better environment in which to start their learning, expand the number of places and help provide the 30 hours of free childcare that working parents so desperately need. Can I put on record my thanks to these schools, and can I ask if the Secretary of State will join me in visiting schools and celebrating the work they do?",
+   "name": "Dave Robertson",
+   "party": "Lab",
+   "seat": "Lichfield"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "Just say yes, Secretary of State. [ Laughter. ]",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I will do my very best to visit Lichfield to see the fantastic provision and, critically, to see the brilliant work my hon. Friend is doing to champion local schools and nurseries in his constituency.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Markus Campbell-Savours (Penrith and Solway) (Lab)",
+   "member_id": 5124,
+   "type": "Contribution",
+   "text": "We on these Benches recognise that school-based childcare offers some of the best childcare. I welcome the statement from the Secretary of State, which means that the Government will be supporting the expansion of the rural nursery at Paddle school near Cockermouth. Could the Secretary of State share with the House how these plans will help parents get into work?",
+   "name": "Markus Campbell-Savours",
+   "party": "Lab",
+   "seat": "Penrith and Solway"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend knows better than most the importance of high-quality provision, including in rural communities, allowing parents to avoid having to travel considerable distances. This announcement will make a big difference in his constituency and in constituencies across the country. From the applications to the scheme, we saw real demand. More than 640 schools applied to take part, so there is a big demand, which we want to take forward in future phases, including in rural communities.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Josh Simons (Makerfield) (Lab)",
+   "member_id": 5060,
+   "type": "Contribution",
+   "text": "After a night of little sleep, I am feeling something that many have said in this Chamber before: being a parent in this country is too exhausting and too expensive. That is why on Friday I am hosting a coffee morning targeted at dads, with former Wigan Warriors players and Andy’s Man Club. It is also why I am so delighted that, down the road, Hindley Green community primary and Hindley St Peter’s will benefit from this Government’s investments in new nurseries. This Labour Government are investing in the working families I represent. Can I thank the Secretary of State for that, and ask her about the timeline for rolling out the scheme to further schools that I represent in my constituency?",
+   "name": "Josh Simons",
+   "party": "Lab",
+   "seat": "Makerfield"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to my hon. Friend for the work that he is doing to support local families and also dads. Becoming a parent for the first time can be a daunting experience for mothers, but it can also be daunting for fathers, and they need support as well, so I pay tribute to him. This is the first phase of our announcement. We will draw on the experience of the schools that take part in the first phase as we take forward future phases. The majority of the 6,000 new places created will be available from September 2025. That is the difference that a Labour Government are making.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Dan Aldridge (Weston-super-Mare) (Lab)",
+   "member_id": 5172,
+   "type": "Contribution",
+   "text": "I am so excited to hear about the nursery at St Anne’s church academy in Weston-super-Mare, especially from the Dispatch Box today. People such as Julie McCallum at Play and Learn pre-school in Worle have shouldered the burdens of the previous Government’s evisceration of early years and of their lack of strategy. Will the Secretary of State join me in thanking so many early years practitioners across my constituency and the UK for their tireless work to give our children the best start possible?",
+   "name": "Dan Aldridge",
+   "party": "Lab",
+   "seat": "Weston-super-Mare"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I congratulate the amazing early years workforce and our education workforce in Weston-super-Mare and across our country. They are the people who make the biggest difference for children in such settings. Important as capital is to creating the places, it is the people who deliver for our children and support them in their earliest years who make the biggest difference, and for that they deserve our praise.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "David Williams (Stoke-on-Trent North) (Lab)",
+   "member_id": 5151,
+   "type": "Contribution",
+   "text": "We started out with six Conservative Members, which we can divide by two to get the number now left on their Benches. Given their track record in this field, perhaps the rest have been put in detention for the rest of the day. I am so proud to see that Smallthorne primary academy in my constituency of Stoke-on-Trent North and Kidsgrove has been selected for a new school-based nursery. Does the Secretary of State agree with me that these nurseries are vital in places such as Smallthorne, not only for the childcare they provide, but for helping with school-readiness, closing the developmental gap early on and giving every single child the best start in life?",
+   "name": "David Williams",
+   "party": "Lab",
+   "seat": "Stoke-on-Trent North"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend is absolutely right about the difference that early years provision makes, not just in those crucial early years but right throughout children’s lives. The evidence could not be clearer. I am delighted that, in Smallthorne and in many communities across our country, more children will have the opportunity to benefit from high-quality early years provision, which is critical to their life chances and also really important for parents in his constituency.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Noah Law (St Austell and Newquay) (Lab)",
+   "member_id": 5302,
+   "type": "Contribution",
+   "text": "I am sure that the children of Pondhu primary school and their families are delighted to welcome the investment in the nursery announced by the Secretary of State, not least because St Austell Central has sadly become the second most deprived ward in the whole of Cornwall. What impact does the Secretary of State expect the investment to have on the life chances of children living in deprived families?",
+   "name": "Noah Law",
+   "party": "Lab",
+   "seat": "St Austell and Newquay"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We know that children from more disadvantaged backgrounds will have the most benefit from high-quality early years education, and they benefit the most when that starts earlier. So much of the overall gap will have opened up by that age; 40% of the overall gap between disadvantaged 16-year-olds and their peers has already emerged by the age of five. That is why it is essential that we do more to support children and families when children are younger. That is right for those children and their families, and it is also an investment in our country’s future.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Andrew Pakes (Peterborough) (Lab)",
+   "member_id": 5243,
+   "type": "Contribution",
+   "text": "Looking at the Conservative Benches, I am sure that those on the Conservative Front Bench are glad that this statement is about nurseries, rather than school attendance—or truancy. I thank the Secretary of State for joining me in Peterborough earlier this week to meet the fantastic pupils, parents and staff at Fulbridge academy, which excels in giving great education to students in my constituency. Will she join me in congratulating and paying tribute to Ben Erskine and the brilliant staff team at the school? Does she agree that with leadership, a relentless focus on standards and the resources in today’s announcement, absolutely nothing can hold back the ambition of working-class communities like mine?",
+   "name": "Andrew Pakes",
+   "party": "Lab",
+   "seat": "Peterborough"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I was delighted to join my hon. Friend in visiting Fulbridge and to meet the brilliant staff team, who are doing so much to support all children in that community, so that they can achieve all they are capable of. There should be no ceiling on children’s ambition and aspiration, including in working-class communities. I know he will continue to champion his constituency and community, and ensure that, alongside our plan for change, we deliver a country in which background is no barrier to getting on in life, and in which we have broken the link between background and success.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Peter Swallow (Bracknell) (Lab)",
+   "member_id": 5165,
+   "type": "Contribution",
+   "text": "I warmly welcome the news that Uplands primary school in Sandhurst has been awarded funding to expand its school-based nursery. Will the Secretary of State set out what this means for Labour’s commitment to delivering top-quality childcare for families across my constituency and the country?",
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "This Labour Government want to make sure that families can access childcare support. That is important for families’ work choices and, critically, for children’s development. That is why we have set ourselves an ambitious target of ensuring that a record number of children are school-ready when they start school, and high-quality early years provision, including in my hon. Friend’s constituency, is a critical part of that. Alongside that, this announcement will put more money back into parents’ pockets.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Michael Wheeler (Worsley and Eccles) (Lab)",
+   "member_id": 5242,
+   "type": "Contribution",
+   "text": "I feel as though I should declare an interest, as I am the proud dad of a little boy who is literally taking his first steps as our Government take these important steps in a critical area. I welcome the statement and all the Secretary of State’s work in this area. I particularly welcome the fact that St Stephen’s in my constituency of Worsley and Eccles will be home to one of these nurseries. As the Secretary of State well knows, I have long been a champion of available, affordable and accessible childcare, especially for working parents. Does she agree that delivering on these aims is a real sign that our Government are delivering for children and their parents?",
+   "name": "Michael Wheeler",
+   "party": "Lab",
+   "seat": "Worsley and Eccles"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend is absolutely right. For many years, when our party was in opposition, I campaigned alongside him to make sure that working parents get the support that they need to get on at work, have good working standards and conditions and, critically, can access high-quality early years provision and childcare. This announcement of about £37 million of extra capital investment, including at St Stephen’s in his constituency, will make a big difference to working parents in his constituency and across our country, but it is also an important part of this Government’s plan for change, which breaks the link between background and success.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  }
+ ],
+ "fetched": "2026-10-21T20:25:50Z"
+}

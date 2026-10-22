@@ -1,0 +1,1883 @@
+{
+ "ext_id": "E7A26973-7F7B-41E0-8A02-689BEA99F336",
+ "date": "2025-09-15",
+ "house": "Commons",
+ "section": "WestHall",
+ "title": "Children with SEND: Assessments and Support",
+ "parents": [
+  "Westminster Hall"
+ ],
+ "location": "Westminster Hall",
+ "url": "https://hansard.parliament.uk/Commons/2025-09-15/debates/E7A26973-7F7B-41E0-8A02-689BEA99F336/ChildrenWithSendAssessmentsAndSupport",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Dr Savage",
+   "party": "LD",
+   "seat": "South Cotswolds",
+   "member_id": 5352
+  },
+  {
+   "name": "Afzal Khan",
+   "party": "Lab",
+   "seat": "Manchester Rusholme",
+   "member_id": 4671
+  },
+  {
+   "name": "Ms Stella Creasy",
+   "party": "Lab/Co-op",
+   "seat": "Walthamstow",
+   "member_id": 4088
+  },
+  {
+   "name": "Mohammad Yasin",
+   "party": "Lab",
+   "seat": "Bedford",
+   "member_id": 4598
+  },
+  {
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell",
+   "member_id": 5165
+  },
+  {
+   "name": "Warinder Juss",
+   "party": "Lab",
+   "seat": "Wolverhampton West",
+   "member_id": 5230
+  },
+  {
+   "name": "Sarah Edwards",
+   "party": "Lab",
+   "seat": "Tamworth",
+   "member_id": 5001
+  },
+  {
+   "name": "Zöe Franklin",
+   "party": "LD",
+   "seat": "Guildford",
+   "member_id": 5313
+  },
+  {
+   "name": "Tahir Ali",
+   "party": "Lab",
+   "seat": "Birmingham Hall Green and Moseley",
+   "member_id": 4747
+  },
+  {
+   "name": "Ayoub Khan",
+   "party": "Ind",
+   "seat": "Birmingham Perry Barr",
+   "member_id": 5357
+  },
+  {
+   "name": "Jim Dickson",
+   "party": "Lab",
+   "seat": "Dartford",
+   "member_id": 5223
+  },
+  {
+   "name": "Dr Rupa Huq",
+   "role": "Chair",
+   "member_id": 4511
+  },
+  {
+   "name": "Rachael Maskell",
+   "party": "Ind",
+   "seat": "York Central",
+   "member_id": 4471
+  },
+  {
+   "name": "Ms Julie Minns",
+   "party": "Lab",
+   "seat": "Carlisle",
+   "member_id": 5094
+  },
+  {
+   "name": "Ian Lavery",
+   "party": "Lab",
+   "seat": "Blyth and Ashington",
+   "member_id": 4139
+  },
+  {
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon",
+   "member_id": 5122
+  },
+  {
+   "name": "Linsey Farnsworth",
+   "party": "Lab",
+   "seat": "Amber Valley",
+   "member_id": 5107
+  },
+  {
+   "name": "Jenny Riddell-Carpenter",
+   "party": "Lab",
+   "seat": "Suffolk Coastal",
+   "member_id": 5160
+  },
+  {
+   "name": "Gideon Amos",
+   "party": "LD",
+   "seat": "Taunton and Wellington",
+   "member_id": 5250
+  },
+  {
+   "name": "John Milne",
+   "party": "LD",
+   "seat": "Horsham",
+   "member_id": 5329
+  },
+  {
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood",
+   "member_id": 4510
+  },
+  {
+   "name": "Helen Maguire",
+   "party": "LD",
+   "seat": "Epsom and Ewell",
+   "member_id": 5336
+  },
+  {
+   "name": "Jamie Stone",
+   "party": "LD",
+   "seat": "Caithness, Sutherland and Easter Ross",
+   "member_id": 4612
+  },
+  {
+   "name": "Dr Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire",
+   "member_id": 5249
+  },
+  {
+   "name": "Monica Harding",
+   "party": "LD",
+   "seat": "Esher and Walton",
+   "member_id": 5299
+  },
+  {
+   "name": "Emily Darlington",
+   "party": "Lab",
+   "seat": "Milton Keynes Central",
+   "member_id": 5139
+  },
+  {
+   "name": "Josh Newbury",
+   "party": "Lab",
+   "seat": "Cannock Chase",
+   "member_id": 5034
+  },
+  {
+   "name": "Steve Yemm",
+   "party": "Lab",
+   "seat": "Mansfield",
+   "member_id": 5194
+  },
+  {
+   "name": "Simon Hoare",
+   "party": "Con",
+   "seat": "North Dorset",
+   "member_id": 4494
+  },
+  {
+   "name": "Mr Forster",
+   "party": "LD",
+   "seat": "Woking",
+   "member_id": 5322
+  },
+  {
+   "name": "Dr Lauren Sullivan",
+   "party": "Lab",
+   "seat": "Gravesham",
+   "member_id": 5269
+  },
+  {
+   "name": "Paul Davies",
+   "party": "Lab",
+   "seat": "Colne Valley",
+   "member_id": 5317
+  },
+  {
+   "name": "James Naish",
+   "member_id": 5047
+  },
+  {
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon",
+   "member_id": 5351
+  },
+  {
+   "name": "Yasmin Qureshi",
+   "party": "Lab",
+   "seat": "Bolton South and Walkden",
+   "member_id": 3924
+  },
+  {
+   "name": "Neil Duncan-Jordan",
+   "party": "Ind",
+   "seat": "Poole",
+   "member_id": 5359
+  },
+  {
+   "name": "Steve Witherden",
+   "party": "Lab",
+   "seat": "Montgomeryshire and Glyndŵr",
+   "member_id": 5221
+  },
+  {
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford",
+   "member_id": 4131
+  },
+  {
+   "name": "Sarah Russell",
+   "party": "Lab",
+   "seat": "Congleton",
+   "member_id": 5324
+  },
+  {
+   "name": "Debbie Abrahams",
+   "party": "Lab",
+   "seat": "Oldham East and Saddleworth",
+   "member_id": 4212
+  },
+  {
+   "name": "Robbie Moore",
+   "party": "Con",
+   "seat": "Keighley and Ilkley",
+   "member_id": 4861
+  },
+  {
+   "name": "Sarah Smith",
+   "party": "Lab",
+   "seat": "Hyndburn",
+   "member_id": 5117
+  },
+  {
+   "name": "Andrew George",
+   "party": "LD",
+   "seat": "St Ives",
+   "member_id": 227
+  },
+  {
+   "name": "Alison Bennett",
+   "party": "LD",
+   "seat": "Mid Sussex",
+   "member_id": 5283
+  },
+  {
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale",
+   "member_id": 5225
+  },
+  {
+   "name": "Daisy Cooper",
+   "party": "LD",
+   "seat": "St Albans",
+   "member_id": 4769
+  },
+  {
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock",
+   "member_id": 5056
+  },
+  {
+   "name": "Dave Robertson",
+   "party": "Lab",
+   "seat": "Lichfield",
+   "member_id": 5126
+  },
+  {
+   "name": "Sarah Dyke",
+   "party": "LD",
+   "seat": "Glastonbury and Somerton",
+   "member_id": 4995
+  },
+  {
+   "name": "Paulette Hamilton",
+   "party": "Lab",
+   "seat": "Birmingham Erdington",
+   "member_id": 4938
+  },
+  {
+   "name": "Charlotte Cane",
+   "party": "LD",
+   "seat": "Ely and East Cambridgeshire",
+   "member_id": 5182
+  },
+  {
+   "name": "Sadik Al-Hassan",
+   "party": "Lab",
+   "seat": "North Somerset",
+   "member_id": 5312
+  },
+  {
+   "name": "Chris Coghlan",
+   "party": "LD",
+   "seat": "Dorking and Horley",
+   "member_id": 5198
+  },
+  {
+   "name": "Dr Al Pinkerton",
+   "party": "LD",
+   "seat": "Surrey Heath",
+   "member_id": 5288
+  },
+  {
+   "name": "Dr Rosena Allin-Khan",
+   "role": "Chair",
+   "member_id": 4573
+  },
+  {
+   "name": "Iqbal Mohamed",
+   "party": "Ind",
+   "seat": "Dewsbury and Batley",
+   "member_id": 5268
+  },
+  {
+   "name": "James MacCleary",
+   "party": "LD",
+   "seat": "Lewes",
+   "member_id": 5265
+  },
+  {
+   "name": "Ben Coleman",
+   "party": "Lab",
+   "seat": "Chelsea and Fulham",
+   "member_id": 5344
+  },
+  {
+   "name": "Josh Babarinde",
+   "party": "LD",
+   "seat": "Eastbourne",
+   "member_id": 5086
+  },
+  {
+   "name": "Liz Jarvis",
+   "party": "LD",
+   "seat": "Eastleigh",
+   "member_id": 5040
+  },
+  {
+   "name": "Jack Abbott",
+   "party": "Lab/Co-op",
+   "seat": "Ipswich",
+   "member_id": 5131
+  },
+  {
+   "name": "Brian Mathew",
+   "party": "LD",
+   "seat": "Melksham and Devizes",
+   "member_id": 5214
+  },
+  {
+   "name": "Dame Meg Hillier",
+   "party": "Lab/Co-op",
+   "seat": "Hackney South and Shoreditch",
+   "member_id": 1524
+  },
+  {
+   "name": "Mr Paul Kohler",
+   "party": "LD",
+   "seat": "Wimbledon",
+   "member_id": 5321
+  },
+  {
+   "name": "David Smith",
+   "party": "Lab",
+   "seat": "North Northumberland",
+   "member_id": 5218
+  },
+  {
+   "name": "Luke Taylor",
+   "party": "LD",
+   "seat": "Sutton and Cheam",
+   "member_id": 5103
+  },
+  {
+   "name": "Adam Dance",
+   "party": "LD",
+   "seat": "Yeovil",
+   "member_id": 5191
+  },
+  {
+   "name": "Sojan Joseph",
+   "party": "Lab",
+   "seat": "Ashford",
+   "member_id": 5247
+  },
+  {
+   "name": "Jess Brown-Fuller",
+   "party": "LD",
+   "seat": "Chichester",
+   "member_id": 5335
+  },
+  {
+   "name": "Tom Gordon",
+   "party": "LD",
+   "seat": "Harrogate and Knaresborough",
+   "member_id": 5032
+  },
+  {
+   "name": "Josh Fenton-Glynn",
+   "party": "Lab",
+   "seat": "Calder Valley",
+   "member_id": 5295
+  },
+  {
+   "name": "Lola McEvoy",
+   "party": "Lab",
+   "seat": "Darlington",
+   "member_id": 5037
+  },
+  {
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate",
+   "member_id": 5140
+  },
+  {
+   "name": "Sarah Hall",
+   "party": "Lab/Co-op",
+   "seat": "Warrington South",
+   "member_id": 5154
+  },
+  {
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole",
+   "member_id": 5327
+  },
+  {
+   "name": "Alex McIntyre",
+   "party": "Lab",
+   "seat": "Gloucester",
+   "member_id": 5349
+  },
+  {
+   "name": "Marie Goldman",
+   "party": "LD",
+   "seat": "Chelmsford",
+   "member_id": 5073
+  },
+  {
+   "name": "Alex Ballinger",
+   "party": "Lab",
+   "seat": "Halesowen",
+   "member_id": 5238
+  },
+  {
+   "name": "Clive Jones",
+   "party": "LD",
+   "seat": "Wokingham",
+   "member_id": 5207
+  },
+  {
+   "name": "Martin Wrigley",
+   "party": "LD",
+   "seat": "Newton Abbot",
+   "member_id": 5111
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Charlie Maynard",
+   "party": "LD",
+   "seat": "Witney",
+   "member_id": 5325
+  },
+  {
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East",
+   "member_id": 4818
+  },
+  {
+   "name": "Georgia Gould",
+   "role": "The Minister of State, Department for Education",
+   "member_id": 5305
+  },
+  {
+   "name": "Victoria Collins",
+   "party": "LD",
+   "seat": "Harpenden and Berkhamsted",
+   "member_id": 5201
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Dr Roz Savage (South Cotswolds) (LD)",
+   "member_id": 5352,
+   "type": "Contribution",
+   "text": "I beg to move, That this House has considered e-petition 711021 relating to assessments and support for children with SEND. It is a pleasure to serve under your chairmanship in this extremely popular debate, Dr Huq, and it is a privilege to open it on behalf of the Petitions Committee. Over 122,000 people have signed this petition, led by Save Our Children’s Rights, parents and organisations including the Independent Provider of Special Education Advice, Special Needs Jungle and SOS!SEN. Their message is clear: the primary goal of education policy must be to ensure that every child fulfils their potential to the maximum degree possible. They are deeply concerned that weakening statutory duties would reduce not just rights but opportunities. What do we mean by SEND? It is a legal term: a child has special educational needs if they have a learning difficulty or disability that means they cannot use standard educational facilities without extra help, and if they require special educational provision—extra or different support from what is normally provided. This can include one-to-one support, smaller classes, adapted curricula or therapies such as speech and language support. A diagn",
+   "name": "Dr Savage",
+   "party": "LD",
+   "seat": "South Cotswolds"
+  },
+  {
+   "who": "Afzal Khan (Manchester Rusholme) (Lab)",
+   "member_id": 4671,
+   "type": "Contribution",
+   "text": "I welcome the Government’s allocation of £740 million to the 10,000 new places for pupils with SEND. However, there are still serious funding concerns in my constituency. One school told me that its funding shortfall is around £22,000 per pupil for those requiring one-to-one support. Does the hon. Member agree that, without adequate and sustainable funding, local authorities and schools will struggle to deliver on their legal duty to support children with SEND?",
+   "name": "Afzal Khan",
+   "party": "Lab",
+   "seat": "Manchester Rusholme"
+  },
+  {
+   "who": "Dr Savage",
+   "member_id": 5352,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for his intervention. Given the number of people who want to take part, I will proceed with my speech to allow the maximum number possible the chance to speak. We extended support from birth to 25 in 2014, replacing statements with holistic education, health and care plans, but those reforms coincided with major funding pressures. Families now routinely have to enforce their rights through tribunals, with almost all appeals finding in their favour. Last week, a new Institute for Fiscal Studies report confirmed the seriousness of this crisis. It found that, since 2018, the number of pupils with EHCPs has grown by nearly 80%, from under 3% to over 5% of pupils, while local authorities face cumulative high-needs deficits, which are projected to reach £8 billion by 2027. The report also shows that the cost of independent special school places is now more than double that of state special schools on average. The IFS warns that, without reform, spending pressures will balloon over the next few years.",
+   "name": "Dr Savage",
+   "party": "LD",
+   "seat": "South Cotswolds"
+  },
+  {
+   "who": "Ms Stella Creasy (Walthamstow) (Lab/Co-op)",
+   "member_id": 4088,
+   "type": "Contribution",
+   "text": "The hon. Lady is making a very powerful case, and we all agree that we want to get the system right. Can we also all agree, because there is not a Reform Member here, that the comments about the system being “hijacked” were completely inappropriate and do not speak for the needs of the children we all want to represent, and that we all in this room condemn that as being without foundation? [Hon. Members: “Hear, hear!”]",
+   "name": "Ms Stella Creasy",
+   "party": "Lab/Co-op",
+   "seat": "Walthamstow"
+  },
+  {
+   "who": "Dr Savage",
+   "member_id": 5352,
+   "type": "Contribution",
+   "text": "I barely need to respond to that, as the sentiment in the room is very clear. I thank the hon. Member for her intervention.",
+   "name": "Dr Savage",
+   "party": "LD",
+   "seat": "South Cotswolds"
+  },
+  {
+   "who": "Mohammad Yasin (Bedford) (Lab)",
+   "member_id": 4598,
+   "type": "Contribution",
+   "text": "Only one in five children leaves school with their dyslexia identified. A constituent of mine told me that, although he was diagnosed with autism in lower school, it was not until upper school—thanks to the excellent support at Grange academy in my constituency—that teachers truly understood his needs and he began to flourish. Does the hon. Lady agree that we must improve routine screening for neurodivergent conditions so that every child can be identified and supported early, and given the best chance to learn and reach their full potential?",
+   "name": "Mohammad Yasin",
+   "party": "Lab",
+   "seat": "Bedford"
+  },
+  {
+   "who": "Dr Savage",
+   "member_id": 5352,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for his intervention, and I agree that early intervention absolutely pays dividends in the long run.",
+   "name": "Dr Savage",
+   "party": "LD",
+   "seat": "South Cotswolds"
+  },
+  {
+   "who": "Peter Swallow (Bracknell) (Lab)",
+   "member_id": 5165,
+   "type": "Contribution",
+   "text": "Early intervention is exactly the issue at play here. The reality is that for many families in my constituency who have managed to acquire an EHCP, it has come only after considerable delay. Does the hon. Lady agree that we must protect legal rights and move from a system that focuses too much on later interventions to one that focuses more on earlier interventions, and that the right test will be whether the new system gets more support to more young people more quickly?",
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell"
+  },
+  {
+   "who": "Dr Savage",
+   "member_id": 5352,
+   "type": "Contribution",
+   "text": "I totally agree with the hon. Member’s intervention. Change must focus on early support, mainstream inclusion and capacity, which is exactly what the petitioners are calling for today. In the light of that evidence, the legal rights given by EHCPs are not a luxury but a necessary tool for ensuring that children get the support to fulfil their true potential. Without these legal rights intact, many families face months or years of legal challenge or delay just to obtain what should be automatic.",
+   "name": "Dr Savage",
+   "party": "LD",
+   "seat": "South Cotswolds"
+  },
+  {
+   "who": "Warinder Juss (Wolverhampton West) (Lab)",
+   "member_id": 5230,
+   "type": "Contribution",
+   "text": "Recently, I held a roundtable for parents and carers, and we had a very moving discussion. One parent spoke about how her son had not been to school since January and had missed out on his GCSEs. Does the hon. Lady agree that we need a holistic procedure whereby schools and local authorities work with the NHS; that we should have dedicated special educational needs co-ordinators in schools; and that teacher training should include SEND so that teachers are equipped to deal with these children?",
+   "name": "Warinder Juss",
+   "party": "Lab",
+   "seat": "Wolverhampton West"
+  },
+  {
+   "who": "Dr Savage",
+   "member_id": 5352,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for his intervention. I, too, have hosted roundtable events such as the one that he describes, and I agree that collaboration and greater education across the board is the way forward. Three guiding principles should underpin the Government’s White Paper and coming reforms. First, early intervention must be real. If mainstream schools had better statutory support earlier, fewer children would need EHCPs. Making SEND support stronger and more reliably available would allow many needs to be met before they escalate.",
+   "name": "Dr Savage",
+   "party": "LD",
+   "seat": "South Cotswolds"
+  },
+  {
+   "who": "Sarah Edwards (Tamworth) (Lab)",
+   "member_id": 5001,
+   "type": "Contribution",
+   "text": "I thank the hon. Lady for her fantastic speech. In Staffordshire, I met representatives of one of my local specialist schools, who said that it receives 200 applications for just 20 places. On top of that, many of our state schools and those who wish to provide support to students with special educational needs are struggling with capacity. Does she agree that it is of the utmost urgency that our county councils, such as Staffordshire, start to get to grips with the issue of placement and support in schools?",
+   "name": "Sarah Edwards",
+   "party": "Lab",
+   "seat": "Tamworth"
+  },
+  {
+   "who": "Dr Savage",
+   "member_id": 5352,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for her intervention, and I agree. Secondly, individual need absolutely must be at the heart of provision. Every child, and their needs, is different. Generic packages or waiting until needs become acute undermines potential. Provision must be tailored so that each child can achieve as much as they are capable of. Thirdly, we need capacity and accountability. The system should get decisions right the first time.",
+   "name": "Dr Savage",
+   "party": "LD",
+   "seat": "South Cotswolds"
+  },
+  {
+   "who": "Zöe Franklin (Guildford) (LD)",
+   "member_id": 5313,
+   "type": "Contribution",
+   "text": "There are some tragic stories of horrendous errors with EHCPs in my constituency. Does my hon. Friend agree that it is incredibly important that accountability is maintained in the system? If we cannot get it right now, how will we be able to—under the potential threat of EHCPs no longer existing—ensure that families and children are protected and get the support they need, and that the accountability of county councils and local authorities is maintained?",
+   "name": "Zöe Franklin",
+   "party": "LD",
+   "seat": "Guildford"
+  },
+  {
+   "who": "Dr Savage",
+   "member_id": 5352,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for her intervention —I was about to expand on that very point. The high success rate at tribunal reflects systemic problems, not overdemand.",
+   "name": "Dr Savage",
+   "party": "LD",
+   "seat": "South Cotswolds"
+  },
+  {
+   "who": "Tahir Ali (Birmingham Hall Green and Moseley) (Lab)",
+   "member_id": 4747,
+   "type": "Contribution",
+   "text": "Last week, I was contacted by a mother in my constituency who was not happy with the plan. She wanted to challenge it at a tribunal, but the date she was given for a hearing is September next year. Does the hon. Member agree not only that the plans need to be well resourced and individualised, but that the tribunals need to meet more quickly and be adequately resourced, so that children do not miss out on the support they need to ensure that their journey through learning is not impacted negatively?",
+   "name": "Tahir Ali",
+   "party": "Lab",
+   "seat": "Birmingham Hall Green and Moseley"
+  },
+  {
+   "who": "Dr Savage",
+   "member_id": 5352,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for his intervention. I agree that, at this formative stage of a child’s life, a year is forever. It is unacceptable to have to wait that long. Without capacity and timely support, costs rise and outcomes worsen. This autumn, the Government will publish a SEND White Paper. This is a critical opportunity, but it is also a moment of danger. Change that simply cuts legal rights or dilutes statutory support to reduce short-term costs will fail children and ultimately cost more in the long run. The petitioners and the IFS urge the Government to ensure that the White Paper retains and protects legal rights, including EHCPs, so that each child can access what they are entitled to.",
+   "name": "Dr Savage",
+   "party": "LD",
+   "seat": "South Cotswolds"
+  },
+  {
+   "who": "Ayoub Khan (Birmingham Perry Barr) (Ind)",
+   "member_id": 5357,
+   "type": "Contribution",
+   "text": "I have spoken to many parents and teachers, and part of the problem, certainly in Birmingham Perry Barr, was that EHCPs were being designed in relation to the budget, as opposed to what the needs were. Does the hon. Member agree that the only way we can reform the whole system is to make sure we have sufficient resources?",
+   "name": "Ayoub Khan",
+   "party": "Ind",
+   "seat": "Birmingham Perry Barr"
+  },
+  {
+   "who": "Dr Savage",
+   "member_id": 5352,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for his intervention and would emphasise that point. We know that investing money up front early in a child’s life ultimately ends up costing less. The White Paper should also invest in early support in mainstream schools to ensure that SEND support is strengthened, so that schools are properly resourced and not forced to chase EHCPs just to unlock basic help.",
+   "name": "Dr Savage",
+   "party": "LD",
+   "seat": "South Cotswolds"
+  },
+  {
+   "who": "Jim Dickson (Dartford) (Lab)",
+   "member_id": 5223,
+   "type": "Contribution",
+   "text": "Before the summer recess, I ran a consultation session in Dartford for parents, carers, schools and local organisations to discuss their experiences of SEND. I have provided a full report to the Department for Education to inform the White Paper. Would the hon. Member agree with my constituents’ top three priorities: a faster, simpler EHCP system, investment to provide early interventions for under-fives, and more specialist places in properly resourced mainstream schools?",
+   "name": "Jim Dickson",
+   "party": "Lab",
+   "seat": "Dartford"
+  },
+  {
+   "who": "Dr Savage",
+   "member_id": 5352,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for his intervention. I think he is echoing the same points that I am making. The White Paper must also close funding gaps and workforce shortages, so that element 2 funding keeps pace with inflation and so that the capacity of speech and language therapists, educational psychologists and occupational therapists is rebuilt. It needs to ensure fairness and accountability, with clear expectations of quality and reducing postcode lotteries. Finally, the White Paper must embed inclusion across mainstream settings, so that children with SEND are supported close to home whenever possible, rather than having to spend many hours a day travelling, often at great cost to their families. At its heart, this petition and today’s debate are about one fundamental, non-negotiable principle: that every child, in mainstream or special settings, has the right to an education that meets their needs and allows them to fulfil their potential. The IFS report confirms what parents, teachers and schools are saying. The current system is creaking. It is overburdened and under-resourced, and it is operating under legal obligations that are increasingly hard to meet. My call to the Gov",
+   "name": "Dr Savage",
+   "party": "LD",
+   "seat": "South Cotswolds"
+  },
+  {
+   "who": "Dr Rupa Huq (in the Chair)",
+   "member_id": 4511,
+   "type": "Contribution",
+   "text": "Order. I would usually ask Members to stand and bob so that I know they want to speak, but not everyone has a seat. I think people are already doing this, but once Members have spoken, could they vacate their seat so that someone else can speak, because they have to be on the mic for the broadcast? I will try to get everyone in by setting a formal time limit. The clock will count backwards from two and a half minutes.",
+   "name": "Dr Rupa Huq",
+   "role": "Chair"
+  },
+  {
+   "who": "Rachael Maskell (York Central) (Ind)",
+   "member_id": 4471,
+   "type": "Contribution",
+   "text": "It is a pleasure to see you in the Chair, Dr Huq. I congratulate the petitioners on bringing forward this very important issue. I also want to thank the families in York I have consulted throughout the summer and over the 10 years I have been in this place; I have written a report to give to the Minister on the back of that. The first key thing that I want the Minister to focus on is culture in our schools, which must change to a therapeutic and nurturing culture that is inclusive, with a focus on belonging. I urge the Minister and all hon. Members to take time to listen to Sir Ken Robinson, particularly his YouTube video, “How to escape education’s death valley”. In 20 minutes, we can learn so much about why culture has to change across our education system, because all our children are unique and need an environment in which every child can thrive. If we got the culture right, so many children would not need EHCPs, because they would have the supportive learning environment and health support that they need in order to thrive.",
+   "name": "Rachael Maskell",
+   "party": "Ind",
+   "seat": "York Central"
+  },
+  {
+   "who": "Ms Julie Minns (Carlisle) (Lab)",
+   "member_id": 5094,
+   "type": "Contribution",
+   "text": "The hon. Member touches on an important point about culture, which is borne out by my own experience as the parent of a neurodivergent child whose secondary school education was made all the more traumatic by a profound lack of understanding and training among the teachers in the school. It was also borne out on Saturday when I held an event in my constituency: sadly, too many comments from parents were about the responses that they had received from staff in schools. Does the hon. Member agree that we absolutely must take the opportunity to get the culture right in our mainstream schools?",
+   "name": "Ms Julie Minns",
+   "party": "Lab",
+   "seat": "Carlisle"
+  },
+  {
+   "who": "Rachael Maskell",
+   "member_id": 4471,
+   "type": "Contribution",
+   "text": "I absolutely do, and I congratulate the hon. Member on all the work that she has done in this area. We certainly know, for instance, that emotionally based school avoidance often happens because the culture is wrong in the classroom. We need the right culture not only in the school, but in the community, because a child’s life continues through school vacations, into the summer and so on.",
+   "name": "Rachael Maskell",
+   "party": "Ind",
+   "seat": "York Central"
+  },
+  {
+   "who": "Ian Lavery (Blyth and Ashington) (Lab)",
+   "member_id": 4139,
+   "type": "Contribution",
+   "text": "Some 122,000 people have signed the petition, many of them from my constituency of Blyth and Ashington. I have met the teachers, the educators, the authorities, the parents and the schools. The default position, rather than assisting and supporting the individuals involved and the families who are in most need, appears to be putting as many barriers in their way as practicably possible. Does my hon. Friend share those views? Is that something that she has recognised in her discussions?",
+   "name": "Ian Lavery",
+   "party": "Lab",
+   "seat": "Blyth and Ashington"
+  },
+  {
+   "who": "Rachael Maskell",
+   "member_id": 4471,
+   "type": "Contribution",
+   "text": "I really do congratulate my hon. Friend: I know how hard he works on behalf of children in his constituency, and they could have no better champion. His observations are absolutely right. Parents in particular face so many barriers and are often pushed away from the learning environment. When I went to Scandinavia to look at the education system around SEND there, they drew parents right into the heart of the school. Parents had co-produced the support that their children could have and ensured that they could get full support around their education.",
+   "name": "Rachael Maskell",
+   "party": "Ind",
+   "seat": "York Central"
+  },
+  {
+   "who": "Manuela Perteghella (Stratford-on-Avon) (LD)",
+   "member_id": 5122,
+   "type": "Contribution",
+   "text": "Will the hon. Member give way?",
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon"
+  },
+  {
+   "who": "Rachael Maskell",
+   "member_id": 4471,
+   "type": "Contribution",
+   "text": "I will make a little progress, if I may. In my constituency this month, we are establishing a SEND hub. It is very much like the concept of Sure Start but for children with SEND, so that throughout their journey—up to the age of 25, but with no fixed barrier at that age limit either—parents and young people can get the support that they need from multi-agency provision, whether that is around stay and play, expert health advice, support for parents, peer support or the advice that teachers and others in our communities can get to make sure that the provision for their children is absolutely the best. When we look at culture, we have to look at the physical environments in which our children can learn to make sure that they are therapeutic, from colours and lights right through to the ways people can navigate school uniforms. Why do we dress our children in the way we do in this modern age? I urge the Government to look at the whole area of exams and assessments, which cause so many children, particularly those with SEND, so much stress and anxiety. I also want to raise the issue of transition. We need to do transition far, far better, because it is often at the point of transition ",
+   "name": "Rachael Maskell",
+   "party": "Ind",
+   "seat": "York Central"
+  },
+  {
+   "who": "Linsey Farnsworth (Amber Valley) (Lab)",
+   "member_id": 5107,
+   "type": "Contribution",
+   "text": "It is an honour to serve under your chairship, Dr Huq. I thank the hon. Member for South Cotswolds (Dr Savage) for opening this Petitions Committee debate. I want to take this opportunity to address the 208 people in Amber Valley who put their names to the petition, and the more than 100 constituents I am supporting with their fight to get the SEND provision they need. In November last year, Ofsted released a damning report that found that the then Conservative-run Derbyshire county council’s SEND provision had “widespread and…systemic failings” and that it created a postcode lottery. Fast-forward less than a year, and now the Reform-led council has done no better. In one of my first meetings with the new leadership, I asked them whether they agreed with the comments of their party leader, the hon. Member for Clacton (Nigel Farage), about the overdiagnosis of SEND. They told me that they did not believe that. Imagine my shock when just weeks later, the leader of Derbyshire county council said that he agreed with the hon. Member entirely. Among all this chaos and uncertainty in Derbyshire, it is hardly surprising that over 208 of my constituents and 124,000 people nationwide who hav",
+   "name": "Linsey Farnsworth",
+   "party": "Lab",
+   "seat": "Amber Valley"
+  },
+  {
+   "who": "Jenny Riddell-Carpenter (Suffolk Coastal) (Lab)",
+   "member_id": 5160,
+   "type": "Contribution",
+   "text": "My hon. Friend is making an incredibly compelling case on behalf of her constituents. Does she agree that families have to fight so incredibly hard for an EHCP, and face so many anxieties and so many battles to get one, that they feel that it is a golden ticket? Behind that, however, there is often a lack of sufficient resource, sufficient funding and sufficient support. Any reforms and any discussions in the White Paper must look at improving resources, within schools and externally, through separate specialist provision.",
+   "name": "Jenny Riddell-Carpenter",
+   "party": "Lab",
+   "seat": "Suffolk Coastal"
+  },
+  {
+   "who": "Linsey Farnsworth",
+   "member_id": 5107,
+   "type": "Contribution",
+   "text": "I absolutely agree. Unfortunately, in Derbyshire, obtaining an EHCP is merely the start of the struggle. It is certainly not the end of the struggle for those families who desperately need the support that their children deserve. Many view the legal right to which the petition relates—the right for SEND children to get assessment and support in education—as an important guarantee in what for far too long has been an unstable, broken and chaotic system characterised by long wait times and prolonged poor communication with little or no meaningful action. Having legal protections in place will absolutely guarantee that my constituents in Amber Valley will continue to be able to fight for the support that they need, even though they are battling against a council whose leadership do not even believe that SEND is an issue that they need to address. On that basis, I ask the Minister to confirm today that, going forward, legal protections will be in place for those families who so desperately need that support.",
+   "name": "Linsey Farnsworth",
+   "party": "Lab",
+   "seat": "Amber Valley"
+  },
+  {
+   "who": "Gideon Amos (Taunton and Wellington) (LD)",
+   "member_id": 5250,
+   "type": "Contribution",
+   "text": "It is a pleasure to see you in the Chair, Dr Huq, and a privilege to speak on behalf of the 204 people in the Taunton and Wellington constituency who signed the petition and all the other families who are deeply concerned. It is not abstract for me, because of the support my wife gives to many families who have children with special needs, including in our own home. From my experiences with my own children and from my surgeries, I know the regular trials, the pain and the often extreme debilitating stress that families go through trying to get a basic, decent education for their children. Parents are driven to the very edge by a system that they have had to battle through every step of the way. It should not be like this. Let me tell the House about Luke, a bright, motivated young man. Luke loves school and has high hopes for his career, but he needs help to get there. His parents now have to provide two-to-one transport support just to get him to and from school. Juggling in that way has resulted in Luke being more dangerous, lashing out on transport while travelling. His parents are working, paying taxes and, in short, doing everything that society asks of them, as well as caring",
+   "name": "Gideon Amos",
+   "party": "LD",
+   "seat": "Taunton and Wellington"
+  },
+  {
+   "who": "John Milne (Horsham) (LD)",
+   "member_id": 5329,
+   "type": "Contribution",
+   "text": "My hon. Friend is right to point out all the problems. We are going to hear a lot about problems; there are also solutions. In my constituency, we have a wonderful school called Muntham House, which teaches high-needs autistic boys, 40% of whom go on to hold down a job and to be able to sustain themselves. That is what we can do if we do the job properly. Think of the saving to the state, as well as the huge reward for the families.",
+   "name": "John Milne",
+   "party": "LD",
+   "seat": "Horsham"
+  },
+  {
+   "who": "Gideon Amos",
+   "member_id": 5250,
+   "type": "Contribution",
+   "text": "I very much agree with my hon. Friend, who is a great champion of families in that position in his constituency. As the 122,000 signatures on today’s petition show, too many families are forced into crisis before help arrives. Many fear that the Government’s forthcoming reforms will make things even harder. To its credit, Somerset council recognises that the system is not working, and it is working hard to turn around the position. The super-tanker needs to be turned around. The council has invested in the provision of more than 20 new in-school SEND units, which are now coming forward across the county. It has increased the number of EHCPs by 46%, even though applications have risen by 26%, and it has begun to see some reductions in complaints and tribunal cases. Our councillors and I continue to challenge the team to do a lot better. These are only the early signs of improvement. It has to go further: that improvement has to be sustained. The system is not good enough, and it is failing our families. Government funding has to be part of the change, but families in Taunton and Wellington and elsewhere are worried that that change will threaten the future of children’s education. T",
+   "name": "Gideon Amos",
+   "party": "LD",
+   "seat": "Taunton and Wellington"
+  },
+  {
+   "who": "Helen Hayes (Dulwich and West Norwood) (Lab)",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "It is a pleasure to see you in the Chair, Dr Huq. I thank everybody across the country who signed this important petition, and the Petitions Committee for granting time for the debate. It is no surprise that the petition attracted such interest. Across the country, children and their families are being failed by a SEND system that the previous Conservative Education Secretary described as “lose, lose, lose”. For too many children and their parents and carers, the system is slow, adversarial and fundamentally failing to meet children’s needs. The Education Committee, which I chair, chose to focus its first full inquiry of this Parliament on solving the SEND crisis, because it is the single biggest challenge in the education system, from the early years all the way through to further and higher education. Many Members from both sides of the House heard directly from their constituents during the general election campaign, and subsequently—over and again—about the impact that the failing system has on their daily lives.",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Helen Maguire (Epsom and Ewell) (LD)",
+   "member_id": 5336,
+   "type": "Contribution",
+   "text": "Four-year-old Maeve lives in my constituency and has cerebral palsy. She requires constant care, is unable to walk, has limited speech and has multiple ongoing medical conditions that require attention. Despite that, and despite the fact that her parents applied to Surrey county council almost a year ago, the council has refused to even assess her for an EHCP. She started last week, but still does not have an agreed plan in place. Does the hon. Member agree that the Government must improve funding, tackle waiting lists and boost specialist care so that SEND families get the support that they need?",
+   "name": "Helen Maguire",
+   "party": "LD",
+   "seat": "Epsom and Ewell"
+  },
+  {
+   "who": "Helen Hayes",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "My speech will turn to some of the points that the hon. Member raised. I will not give way to further interventions, because many Members want to speak and it would eat into their time. The Committee spent eight months examining evidence and hearing in person from a wide range of witnesses, including children and young people with SEND. I put on record my thanks to every person who took the time to submit evidence or who gave evidence to us in person. We also travelled to Ontario in Canada and within the UK to look at examples of good practice. We will publish our report later this week, so I cannot speak about its content today, but I am very much looking forward to sharing it with everybody. I began the inquiry with only a sense of the overwhelming difficulty of the challenge, but at the end of it I am convinced that meaningful reform of the SEND system is possible and deliverable.",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Jamie Stone (Caithness, Sutherland and Easter Ross) (LD)",
+   "member_id": 4612,
+   "type": "Contribution",
+   "text": "Will the hon. Member give way?",
+   "name": "Jamie Stone",
+   "party": "LD",
+   "seat": "Caithness, Sutherland and Easter Ross"
+  },
+  {
+   "who": "Helen Hayes",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "I will not give way again because of the time constraints. I will point to a few of the big themes that came through in our evidence, to which our report will speak. There are major problems with accountability in the SEND system. Accountability is overwhelmingly loaded on to the statutory part of the system, which means that if ordinarily available provision is not there or goes wrong, there is no recourse for parents. That problem needs to be fixed. There is a problem with how we equip teachers. There are children with SEND in every single school, in every classroom, up and down the country, but we do not routinely equip teachers to teach the children who are in front of them. The funding system is broken. There are problems about place planning, both in the inclusivity of mainstream schools and for specialist schools within the state sector. Most importantly, the trust and confidence of parents in the system is utterly broken. In seeking to solve the crisis, the Government must turn their attention to the ways in which that trust and confidence can be rebuilt, so that children across the country who deserve far better than they get at the moment can access the education to which",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Dr Ellie Chowns (North Herefordshire) (Green)",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "I thank all the people who signed this petition, including 202 in my constituency, as well as the hon. Member for South Cotswolds (Dr Savage) for presenting it today. We all recognise the challenges in the system. Far too many families are let down, and I hear from them all the time in my inbox and surgeries, as do Members on both sides of the House. We face a huge challenge. Indeed, in my constituency, we have a larger proportion of children with recognised special educational needs but lower-than-average education funding. The challenges are huge, and the deficit in my council looks like it will go up from around £6 million last year to £40 million next year. These are councils, systems and families at crisis point. I recognise that the Government are trying to square a very difficult circle with the White Paper they are seeking to bring forward, but fundamentally, the voices of the children and young people, and of the families and those who work most closely with them, are most important. I ask the Minister to confirm: will she ensure that those voices are at the centre of every part of the plan that the Government set out? Will she defend the rights of those children who have ",
+   "name": "Dr Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Monica Harding (Esher and Walton) (LD)",
+   "member_id": 5299,
+   "type": "Contribution",
+   "text": "I am sorry to stop the hon. Lady’s very well delivered speech mid-stream. Does she agree that we need to hear from not only families but educators? Teachers in schools are up against the system, and families come into our surgeries in tears because they cannot get provision. Some 1,800 children in Surrey are missing education because they do not have provision from Surrey county council.",
+   "name": "Monica Harding",
+   "party": "LD",
+   "seat": "Esher and Walton"
+  },
+  {
+   "who": "Dr Chowns",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "I absolutely recognise that. That is who I meant when I talked about the people who work most closely with these children and young people—the teachers and educators who support them. In my constituency, numerous children have to travel out of county to get the support they need, and numerous teachers are frustrated and tearing their hair out because they do not have the resources needed. There are fantastic examples of excellent SEND provision in my constituency, including in mainstream settings, as well as excellent examples of special schools. We all recognise, however, that there are nowhere near enough state-funded special school places.",
+   "name": "Dr Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Emily Darlington (Milton Keynes Central) (Lab)",
+   "member_id": 5139,
+   "type": "Contribution",
+   "text": "Milton Keynes has more than 15,000 specialist school places, but there has been a 114% increase in children with EHCPs. Even with the level of specialist provision that the council has been able to provide, it still cannot meet the demand. How should we square that circle?",
+   "name": "Emily Darlington",
+   "party": "Lab",
+   "seat": "Milton Keynes Central"
+  },
+  {
+   "who": "Dr Chowns",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "A key part of that is about ensuring there is more state-run special school provision. As the hon. Member for South Cotswolds mentioned, the evidence shows that independent school places cost about two and a half times more than state special school places. We need investment to expand state educational provision so that we can get more bang for our buck in what we are providing for our children. On that topic, I would like to ask the Minister about special school places specifically. Last May, the Department for Education announced that Herefordshire had succeeded in its bid for a new special school with 80 places for children with autistic spectrum disorder and severe learning difficulties, but we have heard nothing further since. Will the Minister confirm whether we can count on that funding coming forward soon, and will she outline the timetable for it? We need to ensure a fair system across the country. I am making a bid for resources for North Herefordshire, but we need to sort out fairness across the entire country. We need to end the postcode lottery in which people have a better chance of accessing support in some places than others, and end the problem of people having to",
+   "name": "Dr Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Josh Newbury (Cannock Chase) (Lab)",
+   "member_id": 5034,
+   "type": "Contribution",
+   "text": "It is a pleasure to see you in the Chair, Dr Huq. I thank the hon. Member for South Cotswolds (Dr Savage) for her brilliant speech, and I thank the petitioners. Over the summer, like many hon. Members, I hosted a SEND coffee morning. From those 25 parents, I heard stories of not only love, resilience and determination, but a system they feel is all too often rigged against them. Again and again, I heard about services that do not speak to one another and processes that feel confusing and adversarial. The impact on parents’ mental health and relationships, and on children’s ability to learn and make friends, is real.",
+   "name": "Josh Newbury",
+   "party": "Lab",
+   "seat": "Cannock Chase"
+  },
+  {
+   "who": "Steve Yemm (Mansfield) (Lab)",
+   "member_id": 5194,
+   "type": "Contribution",
+   "text": "In line with my hon. Friend’s experience, I have heard from numerous families in Mansfield who have engaged in long battles to obtain EHCPs for their children. Many of them are utterly exhausted by the process, and often they are not offered the support that they are legally entitled to within the statutory timelines. Does he agree that such delays are completely unacceptable, and that they must change?",
+   "name": "Steve Yemm",
+   "party": "Lab",
+   "seat": "Mansfield"
+  },
+  {
+   "who": "Josh Newbury",
+   "member_id": 5034,
+   "type": "Contribution",
+   "text": "I could not agree more with my hon. Friend. I, too, have heard many examples of families who feel that they have had to work almost full time to manage their children’s EHCP processes, and even of some relationships that have broken down because of the strain—on top of the strains that already come with supporting a SEND child. Parents also constantly raised the issue of waiting times. One mum in Wimblebury told me that she started the process for her daughter in reception but did not get an EHCP until just before she started year 7—and even then only with intensive support from one of our fantastic local councillors, Julie Aston. In fairness to Staffordshire county council, it faces an increase in the number of EHCP applications from around 600 a year up to 2019 to over 2,000 now, but after such a wait, too many children are left with an EHCP drafted by someone who has never even met them. Another shocking reality is the profiteering that fills the void where state provision falls woefully short: the most expensive placement in my constituency is £166,000 for a single school year. Now, the last thing I would call for is to take the support away from that child—I hope that they are",
+   "name": "Josh Newbury",
+   "party": "Lab",
+   "seat": "Cannock Chase"
+  },
+  {
+   "who": "Simon Hoare (North Dorset) (Con)",
+   "member_id": 4494,
+   "type": "Contribution",
+   "text": "Will the hon. Gentleman give way?",
+   "name": "Simon Hoare",
+   "party": "Con",
+   "seat": "North Dorset"
+  },
+  {
+   "who": "Josh Newbury",
+   "member_id": 5034,
+   "type": "Contribution",
+   "text": "I will proceed with my speech in the interest of time. Thirdly, on transparent timings, we need to meet statutory deadlines, publish a dashboard of local waiting times and outcomes, and co-produce communications with parent-carer forums using clear, respectful and up-to-date language. I could say reams more on things such as off-rolling and intermediate support, but I will end with this request: let us rebuild a SEND system with people, not processes, at the heart of its provision and with good communication and joined-up services as the norm. We can do better than this—and for the future of the children and young people stuck in a failing system, we must.",
+   "name": "Josh Newbury",
+   "party": "Lab",
+   "seat": "Cannock Chase"
+  },
+  {
+   "who": "Mr Will Forster (Woking) (LD)",
+   "member_id": 5322,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for South Cotswolds (Dr Savage) for introducing this important debate. It is not the first time that the Liberal Democrats have highlighted the serious issue of the SEND crisis, and the urgent need to solve it. Since being elected as the Member of Parliament for Woking, I have spoken to 68 parents and carers brought to the brink of despair by fighting tooth and nail every step of the way to ensure that their child gets an education. Their child has disabilities or special educational needs, and that means that the system tries to fight against them, but that is not acceptable.",
+   "name": "Mr Forster",
+   "party": "LD",
+   "seat": "Woking"
+  },
+  {
+   "who": "Dr Lauren Sullivan (Gravesham) (Lab)",
+   "member_id": 5269,
+   "type": "Contribution",
+   "text": "Kent county council has spent over £1.1 billion, including in my constituency, on legal fees to fight families. That is nearly 80% of its yearly revenue. Does the hon. Member agree that, for parents and families up against that system, the money would be better spent on provision for their children?",
+   "name": "Dr Lauren Sullivan",
+   "party": "Lab",
+   "seat": "Gravesham"
+  },
+  {
+   "who": "Mr Forster",
+   "member_id": 5322,
+   "type": "Contribution",
+   "text": "I completely agree with the hon. Member. The system that we have all inherited from the previous Government fails vulnerable children and their families, and it fails taxpayers as well. Education is a right; it should not have to be fought for. Data from the Local Government and Social Care Ombudsman shows that the number of complaints and inquiries about SEND has surged in the last few years. There is a national crisis, whether that is in the lack of school places, support or just not keeping up with demand. Things are especially bad in my constituency of Woking. The Conservatives running Surrey county council are the worst offenders, according to the ombudsman. It has received an unacceptable 348 complaints about my local county council, which is the highest number in England over six years. It is a failing institution. That level of complaint, whether in Surrey or across the country, shows why parents must have a legal right—the importance of having an ECHP has already been highlighted, and I will say a bit more—and why they feel they need that right to fight the system. They are really worried that their right will be revoked or restricted by upcoming legislation. Whatever the ",
+   "name": "Mr Forster",
+   "party": "LD",
+   "seat": "Woking"
+  },
+  {
+   "who": "Manuela Perteghella",
+   "member_id": 5122,
+   "type": "Contribution",
+   "text": "SEND families in Stratford-on-Avon want to work in partnership with schools and councils, but too often they are left without the support they need. They are battling an adversarial system. Does my hon. Friend agree that any reforms should strengthen, not weaken, co-operation between families, schools, health services and local authorities?",
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon"
+  },
+  {
+   "who": "Mr Forster",
+   "member_id": 5322,
+   "type": "Contribution",
+   "text": "I completely agree with my hon. Friend. We need a duty to co-operate to support vulnerable children. One of my constituents has two children, both with SEND. Her youngest has an EHCP, which is a battle that took years. That child should have started school in September 2024, but they still have no specialist school place and no alternative provision. They have missed a whole year of education. In exchange, they are offered one hour of remote learning. That is not acceptable. I dealt with a case this week of a parent being offered a school place that both they and the school do not think will meet their child’s needs. The parent has been told that they can appeal, but that it will not be heard until October—not next month, but next year. That is not acceptable, and that is a failure of the previous Government and my county council. That is a sad state of affairs. The SEND crisis was created by the Conservatives. I hope that the Labour Government live up to the hope of my constituents, and others across the country, by solving it. We need leadership to tackle it. We cannot allow another generation of children to be failed by inaction. These children deserve a school place, support an",
+   "name": "Mr Forster",
+   "party": "LD",
+   "seat": "Woking"
+  },
+  {
+   "who": "Paul Davies (Colne Valley) (Lab)",
+   "member_id": 5317,
+   "type": "Contribution",
+   "text": "Special educational needs and disabilities are not a niche issue. It is a matter of justice, opportunity and inclusion. For too long, families have had to fight for the support their children deserve. The system has been adversarial, slow and inconsistent—this must change. I am pleased that we are seeing the seeds of change across my constituency. Schools such as St John’s Church of England voluntary aided junior and infant school, Upperthong junior and infant school and Wellhouse junior and infant school are participating in the partnerships for inclusion of neurodiversity in schools programme. This initiative is training teachers to better understand and support neurodiverse children, fostering inclusive classrooms in which every child feels seen and supported. The Government are providing additional funds. Kirklees council has received more than £6.1 million in capital funding for high-needs provision in 2025-26, but funding alone is not enough. We need a system built on collaboration between schools, families, healthcare professionals and local authorities. We need early intervention, not late reaction. We need to move from a model in which parents fight for support to one in w",
+   "name": "Paul Davies",
+   "party": "Lab",
+   "seat": "Colne Valley"
+  },
+  {
+   "who": "James Naish",
+   "member_id": 5047,
+   "type": "Contribution",
+   "text": "My hon. Friend has referenced training. One of the biggest single asks from my constituents in Rushcliffe is for autism-specific training for school staff, yet most teachers report that very little specialist training takes place. Does he agree that there ought to be a standardised national professional development framework for teachers and support staff to make sure that this is embedded?",
+   "name": "James Naish"
+  },
+  {
+   "who": "Paul Davies",
+   "member_id": 5317,
+   "type": "Contribution",
+   "text": "You put it very eloquently. I absolutely agree with you, and that is crucial within the teaching profession. I am sure it would have 100% support from the professional bodies. It is good to see the Government engaging directly with families, educators and experts ahead of the schools White Paper this autumn. That will help to ensure that we shape reforms that deliver better and more relevant outcomes for families and children. In Kirklees, we are making real strides in supporting children and young people with special educational needs and disabilities. The mainstream school clusters are fostering collaboration and early intervention, and as many people have mentioned, early intervention is crucial. Those developments not only reflect the council’s commitment to inclusive education, but will also reduce reliance on costly independent placements, ensuring that every child in Kirklees has the opportunity to thrive. So let us keep pushing this forward. Let us ensure that every child in Kirklees and across the country has the chance to succeed—",
+   "name": "Paul Davies",
+   "party": "Lab",
+   "seat": "Colne Valley"
+  },
+  {
+   "who": "Jamie Stone",
+   "member_id": 4612,
+   "type": "Contribution",
+   "text": "Will the hon. Gentleman give way?",
+   "name": "Jamie Stone",
+   "party": "LD",
+   "seat": "Caithness, Sutherland and Easter Ross"
+  },
+  {
+   "who": "Paul Davies",
+   "member_id": 5317,
+   "type": "Contribution",
+   "text": "I am just about to finish, but go on.",
+   "name": "Paul Davies",
+   "party": "Lab",
+   "seat": "Colne Valley"
+  },
+  {
+   "who": "Jamie Stone",
+   "member_id": 4612,
+   "type": "Contribution",
+   "text": "I intervene on a Welshman as a Scotsman. We have the same problems in Scotland. You only have to look at the map of the constituencies in Scotland. Would the hon. Member agree that whatever way forward the Government establish, it would be best for it to be shared with the Scottish Government?",
+   "name": "Jamie Stone",
+   "party": "LD",
+   "seat": "Caithness, Sutherland and Easter Ross"
+  },
+  {
+   "who": "Paul Davies",
+   "member_id": 5317,
+   "type": "Contribution",
+   "text": "I absolutely agree. This cannot be one part of the UK, one region or one city; it has to be across the UK. We have to see every child have that opportunity. I completely agree with you. This is about us working together. It is about collaboration. It is very much about how, together, we can build a system that works for everyone.",
+   "name": "Paul Davies",
+   "party": "Lab",
+   "seat": "Colne Valley"
+  },
+  {
+   "who": "Dr Rupa Huq (in the Chair)",
+   "member_id": 4511,
+   "type": "Contribution",
+   "text": "Order. The word “you” keeps creeping in. A lot of people have said it during this debate, but “you” means me, and I certainly have not done any of those things. Can we refer to each other as hon. Members or hon. Friends? The next speaker, who will be exemplary in this, is Greg Stafford.",
+   "name": "Dr Rupa Huq",
+   "role": "Chair"
+  },
+  {
+   "who": "Gregory Stafford (Farnham and Bordon) (Con)",
+   "member_id": 5351,
+   "type": "Contribution",
+   "text": "Thank you very much, Dr Huq. It is a pleasure to serve under your chairmanship. I thank the hon. Member for South Cotswolds (Dr Savage) for leading the debate on this petition. Across my Farnham and Bordon constituency, we are fortunate to have excellent specialist provision: in the community, we have Hollywater school; on the independent side, we have the Undershaw Education Trust, More House and Pathways; and in the academy sector, we have The Abbey and Ridgeway. But however good those providers are, the wider picture is stark. Demand is surging, particularly for autism and social, emotional and mental health needs. Surrey is rightly investing, with nearly £190 million committed to expand provision and create thousands of new places, and an extra £4.9 million was approved in July to recruit staff and reduce caseloads. Three new special schools are planned as part of the long-term SEND capital programme, but that programme and that progress is in jeopardy. The Department for Education has just paused the capital funding for those schools—funding agreed under the last Conservative Government to expand local provision and reduce reliance on the independent sector. Without it, Surrey",
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon"
+  },
+  {
+   "who": "Yasmin Qureshi (Bolton South and Walkden) (Lab)",
+   "member_id": 3924,
+   "type": "Contribution",
+   "text": "In anticipation of the White Paper, I held a roundtable with parents and children with SEND in my constituency of Bolton South and Walkden. They told me that it is still very much a postcode lottery when it comes to SEND provision, and that children with autism and other SEND conditions are being placed in classrooms that do not meet their needs.",
+   "name": "Yasmin Qureshi",
+   "party": "Lab",
+   "seat": "Bolton South and Walkden"
+  },
+  {
+   "who": "Simon Hoare",
+   "member_id": 4494,
+   "type": "Contribution",
+   "text": "Does the hon. Lady agree that it is not just a postcode lottery but that it is often about the confidence of the parents or carers in standing up to, questioning and challenging officialdom? Some are very comfortable, others less so. Some people use the phrase, “It is the sharp-elbowed who get ahead”, but it needs to be a fairer system, reflective of that issue.",
+   "name": "Simon Hoare",
+   "party": "Con",
+   "seat": "North Dorset"
+  },
+  {
+   "who": "Yasmin Qureshi",
+   "member_id": 3924,
+   "type": "Contribution",
+   "text": "That point was made by the parents, and I was going to come to it in my speech. Children are being placed in classrooms that do not meet their needs, and some of them are being forced out of school—others attend for just a few hours. Often, teaching assistants are given just one afternoon of generic training; they are not even experienced in these matters. Quite often, they have not even seen the plan, so implementation is inconsistent or absent. Schools, particularly academies, are very difficult to hold accountable. And one of the big frustrations that parents talked about is that there are no systems in place to deal with complaints, and that they often had to navigate the system and work very hard to try to get provision for their children. I know that, since last year, the Labour Government have invested £1 billion in high-needs budgets and supporting children with complex needs, and that £740 million has been committed to adapt school rooms and build specialist facilities, even in mainstream schools. Great progress is being made, but I am sure that many of you find, when you go to your local junior schools, that headteachers are saying that since covid—",
+   "name": "Yasmin Qureshi",
+   "party": "Lab",
+   "seat": "Bolton South and Walkden"
+  },
+  {
+   "who": "Dr Rupa Huq (in the Chair)",
+   "member_id": 4511,
+   "type": "Contribution",
+   "text": "Order. I think the hon. Member means “many hon. Members”, not “many of you”.",
+   "name": "Dr Rupa Huq",
+   "role": "Chair"
+  },
+  {
+   "who": "Yasmin Qureshi",
+   "member_id": 3924,
+   "type": "Contribution",
+   "text": "Sorry. I am sure that many hon. Members have been to their local schools and been told that, since covid, the number of children with SEND has gone up, so the White Paper and the consultation are really important, and I know the Government will listen to everything we have been saying.",
+   "name": "Yasmin Qureshi",
+   "party": "Lab",
+   "seat": "Bolton South and Walkden"
+  },
+  {
+   "who": "Neil Duncan-Jordan (Poole) (Ind)",
+   "member_id": 5359,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Huq. It is with a great sense of pride that I speak in this debate, because it was my constituent, Rachel Filmer, who launched this petition, which has secured over 100,000 signatures. It is great to see Rachel in the Public Gallery today. Some weeks ago, I held an event in my constituency with SEND families to discuss the challenges they face and to hear what needs to change. Some specific issues arose. First, class is a huge issue in the current system. Many parents resort to private diagnosis after waiting for extended periods, which has concerning implications for low-income families who might not have the resources to get such a diagnosis.",
+   "name": "Neil Duncan-Jordan",
+   "party": "Ind",
+   "seat": "Poole"
+  },
+  {
+   "who": "Steve Witherden (Montgomeryshire and Glyndŵr) (Lab)",
+   "member_id": 5221,
+   "type": "Contribution",
+   "text": "Does my hon. Friend agree that, when a class element applies with less favourable outcomes for those who cannot pay, the very concept of universalism is in jeopardy?",
+   "name": "Steve Witherden",
+   "party": "Lab",
+   "seat": "Montgomeryshire and Glyndŵr"
+  },
+  {
+   "who": "Neil Duncan-Jordan",
+   "member_id": 5359,
+   "type": "Contribution",
+   "text": "As I am a keen universalist, I have to agree with my hon. Friend. There is also a bureaucracy to navigate. It takes massive amounts of time, effort and knowledge of process for parents to navigate the system to get the support they need. That puts parents with lower educational attainment, complex personal needs or busy working lives at a disadvantage. It is no wonder that 62% of parent-carers of SEND children are not in paid employment.",
+   "name": "Neil Duncan-Jordan",
+   "party": "Ind",
+   "seat": "Poole"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "Today, I attended the Adoption Barometer event, which many other hon. Members probably also attended. It showed that adopted and fostered children can have not only trauma and other medical issues but educational issues—it is a double whammy for those who look after those children. Does the hon. Gentleman agree that, in summing up, perhaps the Minister should consider the double issues facing foster parents and foster children?",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Neil Duncan-Jordan",
+   "member_id": 5359,
+   "type": "Contribution",
+   "text": "I absolutely agree with the hon. Gentleman. Of course, there is also a wider impact on our society from the failings of the current system, because if we do not get the education system right, these children will not be able to access work in the future. Lack of action now will create a bigger problem for us further down the line. It often feels like too much is being left to parents to do to fight for their children rather than there being external scrutiny on those who are letting them down, such as schools, local authorities or the NHS. Through my work, I am convinced that there are certain principles that we need to adopt in any new system. First, there must be an assessment process that can identify the scale of needs and the appropriate setting in which education can be delivered, acknowledging that early intervention is always best. Secondly, legal rights should be given to all those with needs, regardless of the severity of those needs, and there should be a way of confirming those rights by way of an entitlement, as we currently have through EHCPs. In my view, all children should have an educational guarantee that sets out what they are entitled to receive from the state. ",
+   "name": "Neil Duncan-Jordan",
+   "party": "Ind",
+   "seat": "Poole"
+  },
+  {
+   "who": "Sarah Russell (Congleton) (Lab)",
+   "member_id": 5324,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for South Cotswolds (Dr Savage) for opening this important debate, as well as everyone who signed the petition and those who filled in my survey on SEND matters this summer. The level of distress that the current system is causing to both children and their parents is difficult to overstate. The parents I see in my surgeries are so distressed, and so are their children.",
+   "name": "Sarah Russell",
+   "party": "Lab",
+   "seat": "Congleton"
+  },
+  {
+   "who": "Debbie Abrahams (Oldham East and Saddleworth) (Lab)",
+   "member_id": 4212,
+   "type": "Contribution",
+   "text": "My constituent’s seven-year-old son has been waiting 13 months for an assessment, and she has had to give up her job to care for him. Does my hon. Friend agree that the issue has an impact on not only the children and their parents—as she rightly says—but the economy, if we are losing people who are already in work?",
+   "name": "Debbie Abrahams",
+   "party": "Lab",
+   "seat": "Oldham East and Saddleworth"
+  },
+  {
+   "who": "Sarah Russell",
+   "member_id": 5324,
+   "type": "Contribution",
+   "text": "I agree with my hon. Friend; in fact, that is a matter I will come on to. The distress I see within this system is staggering. I see parents making decisions about taking their children to school, when they suspect that the school place might be damaging for their child, but they also strongly suspect that not taking their child to school is damaging that child—that is a horrific position for parents and children to be placed in. I see two big points of problem in the system. The first is when children or their parents are seeking a diagnosis. In response to my survey, I heard from parents who had got into thousands of pounds—sometimes tens of thousands of pounds—of debt in seeking diagnoses for their children, because they were so desperate to get them some help. However, when they get that EHCP, after a great fight and sometimes legal confrontation, they often find that the support that it gives is not consistently maintained, despite schools doing their absolute best—I have never met a teacher who did not want to help children with special educational needs. Those parents are then incredibly distressed, and those children struggle to stay in school. The second difficulty, I find",
+   "name": "Sarah Russell",
+   "party": "Lab",
+   "seat": "Congleton"
+  },
+  {
+   "who": "Robbie Moore (Keighley and Ilkley) (Con)",
+   "member_id": 4861,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Dr Huq. Under the weight of surging demand, our system for handling special educational needs is crumbling. Since 2019, the number of new EHCPs year on year has almost doubled from 54,000 to 98,000. The total number of active plans has surged from 353,000 to 639,000 over the same period. Quite simply, the system in place is not able to cope with the level of demand. I hope the Minister will be able to provide some of the fundamental reform that the system urgently needs. There are two issues that need to be tackled—and in isolation, neither will work. The first is the funding and management system. With SEND falling on local councils to fund, but with councils lacking the powers to properly raise money to support increasing demand, the current situation is inevitable. Parents are waiting months, if not years, to receive the support and documentation that they need. Even if that is secured, overstretched caseworkers are making mistakes, referencing out-of-date or draft EHCPs as part of negotiations with schools and councils. SEND needs central funding, and potentially centralised management. Politicians can then have serious convers",
+   "name": "Robbie Moore",
+   "party": "Con",
+   "seat": "Keighley and Ilkley"
+  },
+  {
+   "who": "Sarah Smith (Hyndburn) (Lab)",
+   "member_id": 5117,
+   "type": "Contribution",
+   "text": "It is a real pleasure to serve under your chairship, Dr Huq. I am pleased to contribute to the debate, because the petition speaks to the level of anxiety and concern that many parents and carers of children and young people with special educational needs and disabilities are currently carrying. That is why I am pleased that the Government have shared that any changes we make to the system will stop parents having to fight for support and, importantly, protect provision that is currently in place. That is reassurance for the parents and carers in Hyndburn. We find ourselves in a bizarre and damaging place: the adversarial process that families must go through to access support for their child, often before their child can even get access to support in schools, has not only led to an existential financial crisis for councils, but traumatised parents and carers. I am sure many in the Public Gallery can attest to that from their own experiences. We have a once-in-a-generation opportunity to end this adversarial system, which does not work for children, parents or teachers, and to build an inclusive education system to benefit our teachers, children and young people. The system is trul",
+   "name": "Sarah Smith",
+   "party": "Lab",
+   "seat": "Hyndburn"
+  },
+  {
+   "who": "Andrew George (St Ives) (LD)",
+   "member_id": 227,
+   "type": "Contribution",
+   "text": "The hon. Lady is making a powerful point. She will note that in excess of 90 MPs are taking part, or seeking to take part, in this debate. Given that she is sitting next to the Minister, I hope she will lean on, or nudge, her to recognise that we should not necessarily wait for the provisions of the—no doubt welcome—White Paper when it comes. There is a need to act now, not only to address early intervention and early diagnosis, but to get to children during the earliest years and give them the help they need.",
+   "name": "Andrew George",
+   "party": "LD",
+   "seat": "St Ives"
+  },
+  {
+   "who": "Sarah Smith",
+   "member_id": 5117,
+   "type": "Contribution",
+   "text": "Since the new Government came in, there have been significant changes and investment coming forward, but we all understand the urgency. I am sure the Minister will respond by emphasising how she wants to take forward this important agenda—although it is not an agenda at all; it is about meeting the needs of our most vulnerable children, and the families who most need us as a Government to deliver. There has been no apology from Reform about the state of the Lancashire county council situation, which I find utterly appalling. An apology is the least that parents might expect as they endeavour to proceed with changes locally. I would welcome the Minister outlining in her response how we can end the postcode lottery that we have heard about time and again, to ensure that every child is at an inclusive school, with their needs met, and that every child across this country has a fair and equal chance to realise their potential and build a fulfilling and full life",
+   "name": "Sarah Smith",
+   "party": "Lab",
+   "seat": "Hyndburn"
+  },
+  {
+   "who": "Steve Witherden (Montgomeryshire and Glyndŵr) (Lab)",
+   "member_id": 5221,
+   "type": "Contribution",
+   "text": "Although education is devolved in Wales, I speak in my capacity as chair of the all-party parliamentary group for education and parliamentary convenor of the Socialist Educational Association. Before getting elected, I was a teacher for nearly two decades, so I know all too well the realities of our education system. Dyslexic, dyscalculic and completely illiterate until age 11, I was placed in bottom sets and written off by many teachers, so I also know all too well the pressures of going through the system with SEND, or additional learning needs, as it is called in Wales. As of January 2025, more than 1.7 million pupils in England have been identified with SEND, and the number of children with education, health and care plans has more than doubled since 2015. Despite that increase in identification, the Department for Education has admitted there has been no consistent improvement in outcomes for these children. Exam pressure is especially acute for students with SEND. Research from Omnisis shows that 88% of parents of children with SEND said their child was worried about this year’s SATs and one in five described their child as “very worried”—twice the national average. Our all-p",
+   "name": "Steve Witherden",
+   "party": "Lab",
+   "seat": "Montgomeryshire and Glyndŵr"
+  },
+  {
+   "who": "Alison Bennett (Mid Sussex) (LD)",
+   "member_id": 5283,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Huq. Parents do everything for their children, especially when they have special needs. That is why I am fed up with the demonisation of parents. They are blamed for gaming the system, for having failed as parents, for being too soft, for not putting in boundaries, for bothering overstretched teachers; they are blamed for going private, but also for costing the state too much money. The crisis in SEND is not the fault of parents. As Catherine, a Mid Sussex parent, said to me: “They need to see what it is like for parents twenty-four hours a day whose children are at a mainstream school that does not have the SEND facilities and teachers that it needs to meet the demands of its pupils. Teachers have enough to do. Why would any parent try to play the system for SEND, when it’s so much paperwork and time? You just would not do it.” Please let us listen to the voices of the parents who gathered outside earlier today. They know their children, they know what they need, and they know that the current system is failing not only their children but society at large.",
+   "name": "Alison Bennett",
+   "party": "LD",
+   "seat": "Mid Sussex"
+  },
+  {
+   "who": "Lizzi Collinge (Morecambe and Lunesdale) (Lab)",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Huq. I welcome the opportunity to speak about special educational needs and disability support. I know how important the issue is to many of my constituents, because every week, like many of us here, I receive heartbreaking casework and have to try to help so many children whom the system is failing. I have spoken before about the importance of early intervention, as many colleagues have today, and I very much welcome the Labour Government’s roll-out of Best Start centres. Only through that early help and early intervention will we really get on top of this issue. The crisis has been a long time in the making and will take time to solve. Years of austerity have left our system unequipped to cope with rising demand and meet the needs of students. The cost of the failing system is staggering. We are firefighting. It costs loads of money, but is not actually helping anyone. I know that so many parents have spent so many years advocating for their children, and that the prospect of reform is understandably very worrying and frightening. These people have been let down again and again by a system that is meant to support them, so they h",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Daisy Cooper (St Albans) (LD)",
+   "member_id": 4769,
+   "type": "Contribution",
+   "text": "Let me start with huge congratulations to Save Our Children’s Rights on securing more than 120,000 signatures. I was pleased to see that Special Needs Jungle is one of the organisations supporting the campaign; its co-director is one of my constituents. Children in Hertfordshire suffered a double whammy under the Conservatives. The Conservatives had a broken funding formula that they refused to fix, which meant that children in Hertfordshire were short-changed, and the former Conservative administration at Hertfordshire county council was rated by Ofsted as one of the worst in the country. I am pleased to say that the Liberal Democrats have taken control of Hertfordshire county council, and our new leader’s very first announcement was on the creation of a SEND summit. That summit took place this morning. Ahead of it, there was a SEND listening survey, and 130 people attended community engagement events, because we Liberal Democrats know that the voices of children, parents, carers and teachers must be at the heart of any reforms. Political will at the local level goes some way, but of course we require the Government to act as well. Hertfordshire faces a number of challenges, which",
+   "name": "Daisy Cooper",
+   "party": "LD",
+   "seat": "St Albans"
+  },
+  {
+   "who": "Jen Craft (Thurrock) (Lab)",
+   "member_id": 5056,
+   "type": "Contribution",
+   "text": "It is a pleasure to see you in the Chair, Dr Huq. I am grateful to have the opportunity to speak in this clearly popular debate. As many Members will know, I have the privilege of being mum to two incredible girls, one of whom has additional needs. Like many parents of a disabled child, I feel keenly the unfairness and the challenges that my child will face throughout her life—challenges that are exacerbated throughout her childhood by a system that is far too often adversarial, baffling and unsupportive. Many of my constituents have gone through that experience when trying to access the right support for their children. I carried out a survey and a roundtable, and I will share some comments that drive home what people have experienced. One said: “It’s like living in a world where you feel no one believes your children and their struggles, and all you can do is be on constant fight or flight mode.” Someone else said: “Everything is looked at like a system, like a machine…all the compassion is gone.” Another said: “It’s a constant battle to get help, support and anything our children need.” Someone else said, heartbreakingly, of their son: “In his mind, he will go in, get no help, g",
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock"
+  },
+  {
+   "who": "Dave Robertson (Lichfield) (Lab)",
+   "member_id": 5126,
+   "type": "Contribution",
+   "text": "My hon. Friend is a powerful advocate for children with SEND right across the country. Given her personal experience, and the experience of many of our constituents, it is clear that the system is broken. Across Lichfield, Burntwood and the villages, I have set up a network of people looking to challenge Staffordshire county council, which significantly underperforms even the atrocious national standards. Does my hon. Friend agree that it is essential that the voices of those with experience of the system are heard as we move towards the White Paper and the Government work to fix the mess they inherited?",
+   "name": "Dave Robertson",
+   "party": "Lab",
+   "seat": "Lichfield"
+  },
+  {
+   "who": "Jen Craft",
+   "member_id": 5056,
+   "type": "Contribution",
+   "text": "Absolutely. It is crucial that those with experience of the system are heard. The only way we can fix it is by taking the approach of those who have experienced it. My interest in my child does not stop at the school gates; it is holistic, looking forward to her life as she goes through childhood into young adulthood and adulthood. This is a matter of social justice, fairness, equality and equity. Like many parents of a disabled child, I am tired, I am constantly anxious and I am constantly ready to go into battle for my child, but what I am not, and what my beautiful child is not, is a burden. We did not cause this crisis, but we want to fix it. We want to work with the Government to make things better for our children. I do not want a single other parent to have to fight for the very basic rights of their child—for what parents of non-disabled children do not have to fight for. The Disabled Children’s Partnership was in Parliament today talking to MPs about its “Fight for Ordinary”. So far, our rights have been hard fought for and hard won. We hope that the next generation of children and families will have a much easier time.",
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock"
+  },
+  {
+   "who": "Sarah Dyke (Glastonbury and Somerton) (LD)",
+   "member_id": 4995,
+   "type": "Contribution",
+   "text": "It is an honour to serve with you in the Chair, Dr Huq, and a privilege to follow the powerful speech of the hon. Member for Thurrock (Jen Craft). I thank all the petitioners, including the 221 from Glastonbury and Somerton. As vice-chair of the f40 group, which represents the worst-funded 43 local education authorities in the country, I have spoken many times about the broken SEND system. It is adversarial, fails the most vulnerable children and puts councils on the brink of bankruptcy. Caroline from North Cadbury recently wrote to me regarding her daughter, Lucy, whom she described as an “intelligent and capable girl” who is on track to do well in her GCSEs but has been left to fall through the cracks. She told me: “The very systems that are supposed to support her are, in fact, ignoring her.” Lucy has autism and challenges with her mental health, and she has had a long wait for a diagnosis and is fighting for an EHCP. I recently spoke to the director of education at Somerset council. She told me that it costs the council £6,000 to create an EHCP and that the number of EHCP applications is up 26%. EHCPs are not one size fits all. They were developed to provide a long-term plan fo",
+   "name": "Sarah Dyke",
+   "party": "LD",
+   "seat": "Glastonbury and Somerton"
+  },
+  {
+   "who": "Paulette Hamilton (Birmingham Erdington) (Lab)",
+   "member_id": 4938,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Dr Huq. I thank the hon. Member for South Cotswolds (Dr Savage) for leading this important debate and the 163 people in the Birmingham Erdington constituency who signed the petition. Their voices make it clear that SEND provision is a pressing priority in our community. SEND provision is a daily reality in the Birmingham area. More than 17% of our pupils receive SEND support, and we are proud to be the home of seven special schools, with many more offering SEND provision, so the issue of SEND reform affects thousands of families in my area. I wrote to more than 40 schools in my area earlier this month, and I visited Hawthorn primary school in Kingstanding. The dedicated staff made three issues crystal clear to me: they face a funding crisis, there is a dire need for extra places at special schools, and specialist support in mainstream settings is, in their words, “patchy at best”. [Dr Rosena Allin-Khan in the Chair ] That story was repeated across my constituency. People described a process that is failing families. They spend three years or more on a waiting list, followed by the 20-week wait for an EHCP—a deadline that the local ",
+   "name": "Paulette Hamilton",
+   "party": "Lab",
+   "seat": "Birmingham Erdington"
+  },
+  {
+   "who": "Charlotte Cane (Ely and East Cambridgeshire) (LD)",
+   "member_id": 5182,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Allin-Khan. I thank the petitioners and my hon. Friend the Member for South Cotswolds (Dr Savage) for leading this important debate. We all know from our inboxes that the system is not working and that change is necessary. It is incumbent on all of us to fix the situation for the sake of children and their families. According to data from the House of Commons Library, the total percentage of pupils in Ely and East Cambridgeshire’s mainstream schools with EHCPs is 4%, which is higher than the regional and national averages, at 3.4% and 3.3% respectively. That means that specialist units and schools in Ely and East Cambridgeshire face a difficult task, as they have more pupils with EHCPs to accommodate than the national average. The council has plans for more specialist schools, but it is still waiting for Government clearance to build them, so I would be grateful if the Minister could say when it can expect to get that clearance. The wide distances across the constituency create a further challenge in transporting pupils to and from schools. In 2023-24, Cambridgeshire county council spent over £25 million just on school taxis. That ",
+   "name": "Charlotte Cane",
+   "party": "LD",
+   "seat": "Ely and East Cambridgeshire"
+  },
+  {
+   "who": "Sadik Al-Hassan (North Somerset) (Lab)",
+   "member_id": 5312,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Dr Allin-Khan. As a SEND parent myself, and an MP who has received extensive correspondence and held many face-to-face meetings on this issue, I am grateful for the opportunity to discuss the topic. The issues around SEND affect some of the most vulnerable members of our society. Too often our debates, reviews and policy considerations on this matter are disproportionately centred around the cost implications for local authorities and educational institutions. Families in North Somerset must routinely fight hard to obtain the special educational provision their children need, and that the law says they should have, and keep fighting to hold on to it. After previous years of underfunding of the system, however, the SEND system is now in dire need of change. But that cannot come at the cost of any child’s future. We cannot have changes that mean that any child is worse off, has less of an education or less of a chance at a successful and happy life. Families in North Somerset are telling me that they are fearful and that even though support as it stands is inconsistent and often delayed, changes to SEND legal rights would leave famil",
+   "name": "Sadik Al-Hassan",
+   "party": "Lab",
+   "seat": "North Somerset"
+  },
+  {
+   "who": "Chris Coghlan (Dorking and Horley) (LD)",
+   "member_id": 5198,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Dr Allin-Khan. In Dorking the other day, a mum called Jenny came to see me about her daughters, Isabelle and Sienna. They are severely learning disabled, epileptic, blind, non-verbal and tube fed. Isabelle and Sienna have difficult lives, but they thrive when they are together. Jenny had to take Surrey county council to tribunal four times to fight for their rights—not only to get their needs met, but simply to get them together in the same school. Although she ultimately won her fight, that cost Jenny her life savings and her marriage. I said to her that if she were my mum, I would be incredibly grateful. I hope she is proud of what she is doing, because she should be. It is not only profoundly disabled children who are mistreated by local authorities. I have today published almost 500 family testimonies of unlawful, harmful and unethical behaviour on SEND by 92 local authorities across the entire country. I will continue to collect these testimonies and I will be taking this further. These local authorities are led by every major political party, including my own, so this is not a party political issue. Rather, it suggests that t",
+   "name": "Chris Coghlan",
+   "party": "LD",
+   "seat": "Dorking and Horley"
+  },
+  {
+   "who": "Dr Al Pinkerton (Surrey Heath) (LD)",
+   "member_id": 5288,
+   "type": "Contribution",
+   "text": "I am grateful to my hon. Friend for giving way, especially during such a powerful speech. He raises the issue of early intervention. I have seen this in my own constituency, where if people can catch special educational needs early enough, they can get the right packages of support in place. Does my hon. Friend recognise, as I do, that early intervention is critical to the future of our children and the next generation?",
+   "name": "Dr Al Pinkerton",
+   "party": "LD",
+   "seat": "Surrey Heath"
+  },
+  {
+   "who": "Chris Coghlan",
+   "member_id": 5198,
+   "type": "Contribution",
+   "text": "I entirely agree, because by the age of three a child has 1,000 trillion brain connections, but that declines to 500 trillion by adolescence. That is why the earlier the intervention, the more effective the outcome and the lower the total cost. That is even before we consider the cost of a parent who has to leave work to look after a child unable to cope at school, or an adult who ends up in social services instead of a job. The Government must resist the siren calls of local authorities to reduce SEND rights. There are too many people in despair right now, but if the Government focus on early intervention for our children, they can set out a path for hope.",
+   "name": "Chris Coghlan",
+   "party": "LD",
+   "seat": "Dorking and Horley"
+  },
+  {
+   "who": "Dr Rosena Allin-Khan (in the Chair)",
+   "member_id": 4573,
+   "type": "Contribution",
+   "text": "Order. I am keen to get everybody in because this is such an important topic. To do so, I will have to change the time limit to two minutes.",
+   "name": "Dr Rosena Allin-Khan",
+   "role": "Chair"
+  },
+  {
+   "who": "Warinder Juss (Wolverhampton West) (Lab)",
+   "member_id": 5230,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Allin-Khan. I thank the 123 constituents in my constituency of Wolverhampton West who have signed this petition for support for children with SEND. In Wolverhampton, nearly one in five is currently receiving SEND support or has an education, health and care plan, and that number is continuously increasing. We need the infrastructure and investment in place so that every child has the opportunity that they deserve to thrive in our country. Too many of our children are being let down. They are often waiting months or years to get the support that they need and they are stuck in an over-bureaucratic system. I welcome the Government’s extra £1 billion of funding. In my city of Wolverhampton, we are receiving £2.7 million of that funding. But the funding needs to go further and the money needs to be used in an efficient way. We need to reform an outdated system for SEND, so that parents and children are the ones kept at the heart of the debate. I often hear teachers say that they would rather have the money given to the school than to private providers, so that they could provide the provision that the children need. One of the major co",
+   "name": "Warinder Juss",
+   "party": "Lab",
+   "seat": "Wolverhampton West"
+  },
+  {
+   "who": "Iqbal Mohamed",
+   "member_id": 5268,
+   "type": "Contribution",
+   "text": "The hon. Member is making an important and passionate speech. Councils across the country are spending upwards of £100 million a year fighting EHCPs and going to tribunal instead of issuing those plans and providing the education that those children need. Does he agree that that money could be better spent on serving the children rather than fighting the parents?",
+   "name": "Iqbal Mohamed",
+   "party": "Ind",
+   "seat": "Dewsbury and Batley"
+  },
+  {
+   "who": "Warinder Juss",
+   "member_id": 5230,
+   "type": "Contribution",
+   "text": "The hon. Member is absolutely correct. What is more, when parents appeal, they succeed in the vast majority of cases. Why is that decision not made earlier to save the money, which could be used for the children? We also need to have that funding ringfenced so that the money directly goes to our schools. As parliamentarians, it is our duty to ensure that every child receives the support that they deserve. We can see from the many debates that we have had that the strength of feeling is immense. We need to make sure that our children not only get the childhood that they deserve, but also the future that they are entitled to.",
+   "name": "Warinder Juss",
+   "party": "Lab",
+   "seat": "Wolverhampton West"
+  },
+  {
+   "who": "James MacCleary (Lewes) (LD)",
+   "member_id": 5265,
+   "type": "Contribution",
+   "text": "For families in my constituency of Lewes, this is not an abstract policy debate but their daily reality. That includes the 229 constituents who responded to this petition, to whom I am very grateful. The failures of the SEND system are in my inbox every week. Take the little boy in my constituency who travels 56 miles every day just to attend a school in Hastings, because there simply is not a suitable place closer to home. It is not fair on him or his parents, and it is not sustainable for the system. Or take the children whose parents wrote to me, as they still did not know—even as September loomed—where or if their children would be starting school. For families, that limbo is agonising. It is not just individual cases; the system as a whole is failing. In East Sussex, almost 5,000 pupils have EHCPs, yet time and again parents are forced to take the council to tribunal to secure the support to which their children are legally entitled. Between 2020 and this summer, over 92% of those cases were decided in favour of the parents. That is not evidence of pushy families gaming the system; it is proof that councils are getting it wrong at huge cost to the taxpayer and enormous stress ",
+   "name": "James MacCleary",
+   "party": "LD",
+   "seat": "Lewes"
+  },
+  {
+   "who": "Ben Coleman (Chelsea and Fulham) (Lab)",
+   "member_id": 5344,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve with you in the Chair, Dr Allin-Khan. In my constituency, 158 families signed the petition. We have heard that too many disabled children, not just in my constituency of Chelsea and Fulham, but across the country, are being let down. Parents feel that they must fight every step of the way just to get the help that their children are entitled to. One problem is that under current law, schools are only required to use their “best endeavours” to support children with special educational needs. That is quite a vague obligation. Some schools—including in my constituency—step up magnificently, but others, under financial pressure, reduce or remove support and nothing holds them to account. The results are stark. A recent survey found that 60% of disabled children who do not have an education, health and care plan are avoiding school due to the lack of support. Because of this broken system, families are often cruelly forced into—as we have heard—lengthy and difficult procedures to get EHCPs, even though their children’s needs could have been met earlier through proper support in mainstream schools if it existed. As we have heard, that is driving up costs, with c",
+   "name": "Ben Coleman",
+   "party": "Lab",
+   "seat": "Chelsea and Fulham"
+  },
+  {
+   "who": "Josh Babarinde (Eastbourne) (LD)",
+   "member_id": 5086,
+   "type": "Contribution",
+   "text": "Will the hon. Gentleman give way?",
+   "name": "Josh Babarinde",
+   "party": "LD",
+   "seat": "Eastbourne"
+  },
+  {
+   "who": "Ben Coleman",
+   "member_id": 5344,
+   "type": "Contribution",
+   "text": "I am afraid I am running out of time—ah yes, I will happily give way.",
+   "name": "Ben Coleman",
+   "party": "Lab",
+   "seat": "Chelsea and Fulham"
+  },
+  {
+   "who": "Josh Babarinde",
+   "member_id": 5086,
+   "type": "Contribution",
+   "text": "The hon. Gentleman can thank me for intervening. He talks about costs and legal requirements, but does he agree that in many areas hedge-fund-backed independent specialist schools are taking cash from our starving system? There is no cap on their profits, they do not have to report on their attainment and they do not have the same level of transparency as maintained schools. Does the hon. Gentleman agree that we need to get to grips with the unscrupulous hedge-fund-backed providers, to make sure that kids and families are not taken advantage of?",
+   "name": "Josh Babarinde",
+   "party": "LD",
+   "seat": "Eastbourne"
+  },
+  {
+   "who": "Ben Coleman",
+   "member_id": 5344,
+   "type": "Contribution",
+   "text": "I am most grateful for that question, for many reasons. There is a huge problem with private equity hedge-funds going into private education, just as they have gone into care homes. That problem needs to be addressed, first, by making provision in the state sector much better than it is now. It should be as good as it can be so that people do not find they need an EHCP, because the SEND support is there anyway, and if they do get one, their needs can be met in the state sector and we do not have to go to the expensive private sector. That is why I hope that in the Budget the Treasury will see the need for funding proper SEND provision, because that will save money in the long term. The Treasury does not like the term “invest to save”, but I think it is a good one in this context. We have a wonderful new Minister. I commend her for the time she has already spent listening to families and teachers. I hope she will now act, in co-production with families, to put SEND support on a solid legal footing, to ditch the Conservatives’ legacy of failure and to build an education system in which every child matters.",
+   "name": "Ben Coleman",
+   "party": "Lab",
+   "seat": "Chelsea and Fulham"
+  },
+  {
+   "who": "Dr Rosena Allin-Khan (in the Chair)",
+   "member_id": 4573,
+   "type": "Contribution",
+   "text": "Order. Much as I appreciate the love and support that you are showing one another, I really want to get everybody in, because Members have sat through the debate for a long time in order to be heard.",
+   "name": "Dr Rosena Allin-Khan",
+   "role": "Chair"
+  },
+  {
+   "who": "Liz Jarvis (Eastleigh) (LD)",
+   "member_id": 5040,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Allin-Khan. I am grateful for the opportunity to speak on behalf of parents from Eastleigh. I frequently hear from constituents who are exhausted emotionally, financially and physically by a system that too often feels like an adversarial battle. Alex, who is a police officer, told me: “Just managing our child’s medical appointments, EHCP paperwork, medication and occupational therapy exercises is enough work for one person…somehow I squeeze it all in around my busy day job. But the trauma caused by dealing with this in your own home is beyond anything I have witnessed at work. Unpaid carers all over the country are drowning. Don’t we deserve more than this?” They do deserve more. In Eastleigh, 12.5% of students receive SEN support. However, there are critical delays in securing an EHCP assessment, which significantly impacts the wellbeing of children while their parents battle with the system. According to the latest figures, 59% of EHCPs in Hampshire take between 20 weeks and a year to be issued. Hampshire county council has declined assessments for 23% of EHCP applications. My constituent Justine had to deal with considerable ba",
+   "name": "Liz Jarvis",
+   "party": "LD",
+   "seat": "Eastleigh"
+  },
+  {
+   "who": "Jack Abbott (Ipswich) (Lab/Co-op)",
+   "member_id": 5131,
+   "type": "Contribution",
+   "text": "I thank the 150,000 people who signed the petition. As I have said in previous speeches in this place, although SEND is very much now a national issue, we have been battling this crisis in Ipswich and Suffolk for a decade. Just last month, at my public event, I sat with desperate families who told me heartbreaking stories of their children being failed time and again. I welcome the early changes that our Government have made in looking to address some of the problems in Suffolk. They have approved more than 100 new specialist places in our county, including through the building of a brand-new hub at Ipswich academy. That is in addition to the multimillion pound uplift to the core funding and a near £10 million settlement, meaning that even more specialist places can be created. However, while extra funding is incredibly encouraging, it is just one element that needs to be resolved. I want to highlight a few areas that require attention. The first is the extortionate and unregulated private provision that was allowed to grow and prosper under the previous Conservative Government. The problem is not just that the provision is grossly expensive, driving up costs for local authorities;",
+   "name": "Jack Abbott",
+   "party": "Lab/Co-op",
+   "seat": "Ipswich"
+  },
+  {
+   "who": "Brian Mathew (Melksham and Devizes) (LD)",
+   "member_id": 5214,
+   "type": "Contribution",
+   "text": "It is a pleasure to speak under your chairship, Dr Allin-Khan, and I thank my hon. Friend the Member for South Cotswolds (Dr Savage) for presenting this important petition debate. The fact that the petition has more than 122,000 signatures, with 244 from my own constituency, is an indictment of our current system. We are letting down far too many of our children, parents and carers. Wiltshire council has one of the lowest levels of per-pupil funding for SEND in the country. Despite children there having the same needs as anywhere else, the county receives nearly 30% less than other councils to support its children and young people with SEND. Wiltshire is the 20th lowest-funded county in the country. Families in my constituency and the families who signed this petition are not asking for the impossible. They just want their children to get the best possible support—the same support as other parents and children get. Instead, they are battling long waiting times for assessments, overstretched schools, and councils making difficult choices with too little money. A SEND White Paper was originally promised in the spring. It was deferred to the summer and has now been confirmed as part o",
+   "name": "Brian Mathew",
+   "party": "LD",
+   "seat": "Melksham and Devizes"
+  },
+  {
+   "who": "Dame Meg Hillier (Hackney South and Shoreditch) (Lab/Co-op)",
+   "member_id": 1524,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Dr Allin-Khan, and I congratulate the hon. Member for South Cotswolds (Dr Savage) and other colleagues on setting out the case so clearly. I want to focus on solutions and some asks for the Minister. I also want to highlight some of the work done in Hackney, where we have a high number of children with special educational needs. In the last financial year the council spent over £50,000 on top-up funding just to support pupils with SEND. That is an unsustainable position, although the funding is absolutely right for those children and families. City Academy in Homerton, which the Minister’s predecessor came to visit, does very good work to integrate neurodiversity considerations into all teaching. It says that every teacher is a SENCO, and ensures that pupils with special educational needs and neurodisabilities in particular have a voice by being active on the school council and helping to shape it. That is co-production really living—nothing done about them without them. It means they have great trust among parents. It spreads the support available across the whole school and makes sure that lesson planning and support are shared. ",
+   "name": "Dame Meg Hillier",
+   "party": "Lab/Co-op",
+   "seat": "Hackney South and Shoreditch"
+  },
+  {
+   "who": "Mr Paul Kohler (Wimbledon) (LD)",
+   "member_id": 5321,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Allin-Khan. I congratulate the many petitioners from Wimbledon and beyond, and my hon. Friend the Member for South Cotswolds (Dr Savage) for securing this important debate. As we have heard throughout the debate, children with special educational needs are navigating a system in crisis. In Merton, the borough that covers most of my Wimbledon constituency, the pressures on the SEND system are stark and growing. Almost 2,500 children currently receive support—that is 50% above the national average. Only 24% of them attend a state-funded special school—that is below the national average—while 13%, which is more than double the national average and one of the highest rates in the entire country, are placed in expensive independent or non-maintained schools. SEND provision in Merton continues to remain problematic. One constituent told me how her son, who has ADHD, spent almost a year out of school because no suitable place could be found, despite their applying to 15 schools. Another constituent was told that the school would not even apply for an EHCP because the borough had already reached its so-called quota, although that claim has",
+   "name": "Mr Paul Kohler",
+   "party": "LD",
+   "seat": "Wimbledon"
+  },
+  {
+   "who": "David Smith (North Northumberland) (Lab)",
+   "member_id": 5218,
+   "type": "Contribution",
+   "text": "Three hundred of my constituents signed the petition. SEND is a major issue in North Northumberland and, over the summer, 130 families completed a consultation that I carried out on the issue. I will share the information with the Secretary of State in due course. The conclusion was unanimous: the system has to change. Let me share three points that those families would want me to share. First, the EHCP process is complicated and isolating. Only 6% of respondents described it as “very positive”. Parents said that the majority of EHCPs granted on the first application took over 30 weeks to be completed. Secondly, a persistent theme was that there was a lack of teacher and staff understanding of how to support pupils with ADHD or autism. Schools are reluctant to acknowledge needs until a crisis point is reached. One respondent said: “It took for my child to have a breakdown” and “get medically signed off before they listened”. Our overstretched teachers do not have the capacity to manage, and they need support and training. Thirdly, perhaps most concerning is the increase in non-school attendance. Some 25% of the parents who responded to my consultation said that they had home-school",
+   "name": "David Smith",
+   "party": "Lab",
+   "seat": "North Northumberland"
+  },
+  {
+   "who": "Luke Taylor (Sutton and Cheam) (LD)",
+   "member_id": 5103,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Allin-Khan. When it comes to the welfare of our children, the details should never be drip-fed to parents and carers. They do not deserve worrying speculation about potential changes to their children’s futures. Teachers should not be kept out of the loop about the way they will need to run their classrooms. For months now, the Government have kept the potential reform of SEND services secret and under review. Families up and down the country have spent the entire summer on tenterhooks after the Government’s vague pledge for reform during the spending review in June. That is a whole school holiday of uncertainty. Confusion around reform has only been made worse against the backdrop of changes to council funding, which will see councils across London lose vital funding as demand for EHCPs increases, as it has in my constituency of Sutton and Cheam by more than 8% in the last year. Councils cannot cope with that rise in demand alone. Across Britain, they are in need of real financial backing. I have worked hard to secure confirmation from the Government of extra SEND places in my constituency, and I am delighted that work should begi",
+   "name": "Luke Taylor",
+   "party": "LD",
+   "seat": "Sutton and Cheam"
+  },
+  {
+   "who": "Iqbal Mohamed (Dewsbury and Batley) (Ind)",
+   "member_id": 5268,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Allin-Khan. I thank the over 124,000 people who signed this petition, including 178 from my constituency. I join them by speaking in support of retaining the legal right to assessment and adequate support for children with special educational needs and disabilities. Appropriate and fit-for-purpose education is a fundamental human right. We all agree that the current system is not just at breaking point, but broken, and the broken system perpetuates the mistreatment of parents and children. Families are going through that broken system daily, and are being broken themselves. The system was deliberately managed into decline by the previous Government, and mismanagement by local authorities means that a lot of resources are being misspent and wasted. We have heard that when parents are forced to take legal action, they are overwhelmingly successful. In 2022-23, 99% of tribunal cases challenging local authority SEND decisions were upheld in favour of families. The first step that the Government could take is to abolish the right for local authorities to deny EHCPs. That would immediately save millions of pounds across our country. I ha",
+   "name": "Iqbal Mohamed",
+   "party": "Ind",
+   "seat": "Dewsbury and Batley"
+  },
+  {
+   "who": "Adam Dance (Yeovil) (LD)",
+   "member_id": 5191,
+   "type": "Contribution",
+   "text": "Although it is great to see so many Members here to debate this issue, it shows how dire things are in the SEND system. Somerset is one of the 40 lowest-funded education authorities in the UK. I have heard from many constituents, such as Becky, whose son has been denied mainstream education for over a year because no school feels that it has the resources to support him, and Kayleigh, who is struggling to get the one-to-one provision that her child’s EHCP requires. People in Yeovil are worried about the planned changes in the upcoming SEND White Paper: Ministers have failed to rule out scrapping EHCPs without a clear vision of what comes next, and people fear a similar mess to the recent attempts at personal independence payment reforms. In the time that I have, I will focus not on negativity, but on what steps we can take to change things. The Government have to make sure that they do several things if they want to start fixing the SEND system. They must not just cut provision to save money. A child’s right to assessment must be protected. For a start, I suggest that the Government support my ten-minute rule Bill on universal screening and teacher training on neurodivergence. We a",
+   "name": "Adam Dance",
+   "party": "LD",
+   "seat": "Yeovil"
+  },
+  {
+   "who": "Sojan Joseph (Ashford) (Lab)",
+   "member_id": 5247,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Allin-Khan. This debate is incredibly important, and I am grateful to all the members of the public from my constituency who signed the e-petition. I am also grateful to the parents and primary and secondary school headteachers who took the time to meet me at the one of the roundtables I hosted for constituents with direct experience of the SEND system. I appreciate how honest they were and the constructive way they approached our discussions. I have written a letter to the Secretary of State with all the feedback, and I am hearing that many Members of Parliament have done a similar exercise. I hope the Minister will take that into consideration when the White Paper is published. My constituents request that Ministers do not make any abrupt changes to the existing system, as some parents have fought for a long time, and some children have now started to get help, so any changes should not be abrupt. My constituents would also like reassurance regarding education, health and care plans. They do not want them to be scrapped; they would like a personalised plan, such as the EHCP, to remain in the reformed system. My constituents would",
+   "name": "Sojan Joseph",
+   "party": "Lab",
+   "seat": "Ashford"
+  },
+  {
+   "who": "Jess Brown-Fuller (Chichester) (LD)",
+   "member_id": 5335,
+   "type": "Contribution",
+   "text": "I thank the Petitions Committee for accepting this debate. The e-petition received over 200 signatures from my constituents in Chichester. It is a pleasure to see the Minister in her place. I put on record thanks from the parental organisations and advocacy organisations, because I know she has reached out and asked to speak to them ahead of the White Paper’s publication, which is really appreciated. Time and again, when talking to parents, teachers and those in local authority about the SEND system, I hear the word “adversarial” and that it is failing to deliver for our young people. Parents often feel pitted against their school, or even against other parents, in a system that is complex to navigate and distressing for all involved. Where West Sussex county council is concerned, parents report a pattern that has been cited by many Members on both sides of the Chamber today. In the latest quarterly figures, it managed to put in place just 14.3% of all EHCPs within the 20-week statutory framework, which puts it among the worst councils in England on timelines. When an EHCP is refused, even after lengthy assessments, families appeal, then on the eve of the tribunal, the council conc",
+   "name": "Jess Brown-Fuller",
+   "party": "LD",
+   "seat": "Chichester"
+  },
+  {
+   "who": "Tom Gordon (Harrogate and Knaresborough) (LD)",
+   "member_id": 5032,
+   "type": "Contribution",
+   "text": "On exactly that point, the problem often starts earlier than that—in schools. My mum, a councillor in Wakefield, has been fighting to get my sister assessed for two years, but the school has lost the paperwork so we are no further forward. Does my hon. Friend agree, similar to what my hon. Friend the Member for Yeovil (Adam Dance) said, that we need more support in schools to make sure that people get the assessments they need?",
+   "name": "Tom Gordon",
+   "party": "LD",
+   "seat": "Harrogate and Knaresborough"
+  },
+  {
+   "who": "Jess Brown-Fuller",
+   "member_id": 5335,
+   "type": "Contribution",
+   "text": "My hon. Friend is absolutely right. Many schools that I have spoken to in my constituency say they cannot fund a full-time SENCO; instead, they might share them with other primary schools in the area. SENCOs are at the frontline of this issue. They want to deliver for the children they are asked to represent, but they are not paid enough nor given enough hours to do the job. We need decisions that get it right first time and support that starts when the need is identified, not after a courtroom date is set. I welcome the ten-minute rule Bill tabled by my hon. Friend the Member for Yeovil (Adam Dance) on neurodivergent screening and teacher training. His principle is simple: we must identify needs early, including dyslexia; equip teachers with the knowledge and confidence to respond in class; and make specialist pathways clear and timely for those who need them. As he rightly said in his moving contribution in the main Chamber, neurodivergence is not a weakness or a flaw; with the right support, it can be a superpower. If Ministers are serious about addressing the crisis in SEND, parent voice must be at the centre. Parents know their children best and what works, because they live w",
+   "name": "Jess Brown-Fuller",
+   "party": "LD",
+   "seat": "Chichester"
+  },
+  {
+   "who": "Dr Rosena Allin-Khan (in the Chair)",
+   "member_id": 4573,
+   "type": "Contribution",
+   "text": "I am afraid that I have to take the time limit down to one and a half minutes to get everybody in.",
+   "name": "Dr Rosena Allin-Khan",
+   "role": "Chair"
+  },
+  {
+   "who": "Josh Fenton-Glynn (Calder Valley) (Lab)",
+   "member_id": 5295,
+   "type": "Contribution",
+   "text": "The current SEND system is simply not working, and nowhere is that more obvious than in my constituency, where 450 people signed the petition. Of students in Calder Valley, 12.2% receive SEND support, but behind that figure is a world of parents who are not having the family time they need with their children because they are focused on the fight for support. Getting an education, health and care plan should be straightforward and the end of the process, but far too often, an EHCP is just the start of the fight. As a statemented dyslexic in the ’90s, I would simply not be here were it not for my mother’s indefatigability. In Calder Valley, we have seen children with EHCPs who still do not get access to schools. Some are out of education altogether because there is not the right support. A constituent I have been supporting has two children currently out of school because their needs cannot be met, with no placement or interim support from the local authority. Several others are in mainstream school but their needs are not being met, and no alternative provision has been found. That is not just a failure of provision; it is a failure of duty. Other children are waiting months and ye",
+   "name": "Josh Fenton-Glynn",
+   "party": "Lab",
+   "seat": "Calder Valley"
+  },
+  {
+   "who": "Lola McEvoy (Darlington) (Lab)",
+   "member_id": 5037,
+   "type": "Contribution",
+   "text": "The system facing children with additional needs and their parents is badly broken. I have heard truly horrific stories of deep failures of duty to vulnerable children. Many hon. Members have covered the same points, so I will use my limited time to outline the reforms that parents at my Darlington SEND surgeries want, and which I support. First, we should educate all school staff to improve the understanding of children’s needs by everyone who supports them. Secondly, we should improve physical environments in all schools—it is cheap, hurts no one, and dramatically improves some children’s ability to attend mainstream. Thirdly, we should stagger play times and break times, increase exercise, and stagger start and finish times. Fourthly, we should introduce a statutory SENCO-to-child ratio. SENCOs need to be full time. It is for the birds that somebody can go back into the classroom, cover supply, and also do the role of a SENCO in the current conditions. Some schools need more than one; it needs to be a SENCO-to-child ratio based on need. Fifthly, mainstream with some easy estate improvements works really well at primary level. Mount Pleasant school in Darlington is a great exampl",
+   "name": "Lola McEvoy",
+   "party": "Lab",
+   "seat": "Darlington"
+  },
+  {
+   "who": "Claire Young (Thornbury and Yate) (LD)",
+   "member_id": 5140,
+   "type": "Contribution",
+   "text": "I thank the 257 constituents in Thornbury and Yate who signed the petition. I want to focus on one symptom of the broken system: emotionally based school non-attendance. Children whose needs are not met can struggle to attend school and, too often, the response is to punish the parents rather than to provide extra support. As a sign at the rally earlier today said: “EBSNA is not a crime, provision not punishment, stop prosecuting parents”. Talking tough is not the answer. The relentless focus on exam results and strict zero tolerance behaviour policies create an environment that can be hostile for children with additional needs. I hear from parents in my surgeries that policies have been applied without reasonable adjustments for disabilities. It is only in a compassionate and supportive environment that a child can be helped to move beyond their current comfort zone. Making schools more inclusive has to be about more than physical changes to the buildings; it requires an overhaul of culture and practices. Beyond stopping prosecutions, I believe that we need to switch the focus from attendance at school to engagement with education. A child in isolation is attending, but often is n",
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate"
+  },
+  {
+   "who": "Sarah Hall (Warrington South) (Lab/Co-op)",
+   "member_id": 5154,
+   "type": "Contribution",
+   "text": "As someone who has ADHD, I know how much difference the right support makes. For me, this issue is simple. Support in education is not a favour—it is a legal right, yet too many families have to battle to get what the law already promises. That includes families like that of my constituent, Vicky James, who not only fights for her own child, but gives up her time to help others through the maze of forms, delays and appeals. The SEND system should not have to depend on a parent’s stamina. Families want to know that their rights will be kept. They want the 20-week duty to mean something and not be a best-case scenario. They want to know that when deadlines are missed, their child will not be left without support in the meantime. Families must have confidence that when their child needs support, it will arrive without unnecessary barriers, without a postcode lottery, and without their having to beg for what they are entitled to. Families are not asking for the world. They are asking for the basics—that the law is upheld and that support arrives when it is needed. Our job is to make sure that children with SEND and their families are at the heart of any reforms, shaping change through ",
+   "name": "Sarah Hall",
+   "party": "Lab/Co-op",
+   "seat": "Warrington South"
+  },
+  {
+   "who": "Dr Al Pinkerton (Surrey Heath) (LD)",
+   "member_id": 5288,
+   "type": "Contribution",
+   "text": "I thank the 125,000 petitioners, some of whom are in the Chamber today or who were in Parliament Square earlier, for bringing this issue to the House. In a recent survey, more than 70% of respondents described SEND services in Surrey as poor or very poor. The now former chair of Surrey’s children’s services select committee stated that the current system should be “broken up”, arguing that it is too large to effectively meet the needs of the families that it is meant to support. She criticised the lack of accountability to elected councillors and described the service as a “cold, uncaring bureaucracy”, more focused on preserving its own structure than on prioritising the wellbeing of children. Perhaps it is little surprise, then, that the senior leaders at Surrey county council claimed in a meeting with MPs late last year that “Surrey does not have a SEND issue” at all—what it has are parents who are “too articulate”. How many more lives need to be put at risk by Surrey county council, by that kind of gaslighting and parent blaming? The hon. Member for Farnham and Bordon (Gregory Stafford) raised the funding of specialist free schools, three of which are in Surrey and one of which,",
+   "name": "Dr Al Pinkerton",
+   "party": "LD",
+   "seat": "Surrey Heath"
+  },
+  {
+   "who": "Vikki Slade (Mid Dorset and North Poole) (LD)",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Allin-Khan. The SEND crisis is destroying the life chances of children—not only those with additional needs, but their classmates, whose education also suffers as teachers struggle to cope with an unmanageable range of needs. Families are failed and unable to work or enjoy family time as negotiating SEND consumes all their energies. Teachers are leaving the profession in record numbers, and nearly half cite SEND-related stress as a key reason. Local councils are overwhelmed. One caseworker I spoke to had 200 families on her books, each requiring annual reviews, school searches and funding decisions. The backlog in NHS diagnosis is forcing families to go private and get into debt, and transport providers and some SEND schools are profiting from desperate families and desperate councils. But most tragically, the system is stealing our children’s childhoods. Every child has a right to an education that nurtures their personality, talents and abilities. The current system fails everyone. Like the lead petitioner, Rachel Filmer, whom I met on Friday, I fear that if we do not raise our voices now, we risk eroding children’s rights. Child",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Alex McIntyre (Gloucester) (Lab)",
+   "member_id": 5349,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Allin-Khan. I thank the 393 Gloucester constituents who signed the petition and all those who have contacted me over the past year about SEND provision in our city. Far too many children with SEND in my city did not start school with their peers last week, and many of those who have been lucky enough to get a school place have still been left without the support that they need. Parents are having to fight against a system that was meant to support them and their families, teachers are struggling to keep up with the demand of increasingly complex needs in their classes, and council officers are operating in a system that seems designed to antagonise and frustrate at every stage. It is clear that the system is broken. I hope that the Minister will reassure parents in my constituency that, although reform is needed to fix the Tories’ broken system, this Government will guarantee that all children’s needs will be met. I hope that, in fixing the system, the Government will pay particular attention to early years settings. I recently visited the fantastic Dingley’s Promise early years centre in Coney Hill, where I spoke with staff and pa",
+   "name": "Alex McIntyre",
+   "party": "Lab",
+   "seat": "Gloucester"
+  },
+  {
+   "who": "Marie Goldman (Chelmsford) (LD)",
+   "member_id": 5073,
+   "type": "Contribution",
+   "text": "I thank the families who were at the rally outside Parliament today for their continuous fight, which is a battle that has been going on for many years. It was wonderful to see so many of them keeping up the fight and making sure that MPs are hearing their stories. That is why so many hon. Members are in the room today. I could tell Members about the stories that those families told me just today. One parent has been waiting 91 weeks to get an EHCP. Another parent told me about the rigid attendance rules that punish children who are unable to attend school because of their special educational needs. One grandmother was in tears because she was worried that she would not be able to get the support that her granddaughter needed. Most of all, they told me about the worry that the EHCP rug would be pulled from underneath them, with nothing left to catch them. That is what I am particularly worried about. I am sorry that the Minister is not in her place at the moment, but if she were, I would say to her that parents need the support to be there. Any new system has to be properly tested. It also has to be trusted by parents, and that trust simply is not there at the moment. I say to the ",
+   "name": "Marie Goldman",
+   "party": "LD",
+   "seat": "Chelmsford"
+  },
+  {
+   "who": "Alex Ballinger (Halesowen) (Lab)",
+   "member_id": 5238,
+   "type": "Contribution",
+   "text": "I thank the many petitioners who brought forward this debate, which is fundamental to parents in my Halesowen constituency. I have been speaking to many of them, and the message I am receiving is clear: the system is not working. Parents raised three major themes with me. First, getting support for children with special needs is too much of a fight. Time and again, EHCP processes in Halesowen have breached the 20-week timeline, and in many cases, parents are waiting for more than a year to get support. Secondly, the waiting list for child and adolescent mental health services is much too high; many families have told me that they must wait years and meet ridiculous thresholds to receive support. Thirdly, I hear from teachers and parents that capacity in mainstream schools is stretched to the limit. They know what children need but are unable to deliver in a complex and under-resourced system. That is best described in parents’ own words. One parent said to me: “I cannot underestimate the battle that parents have with the system and local authorities: to get an assessment; to get an EHCP that is meaningful and lawful; to get suitable education provision; and to get healthcare and so",
+   "name": "Alex Ballinger",
+   "party": "Lab",
+   "seat": "Halesowen"
+  },
+  {
+   "who": "Clive Jones (Wokingham) (LD)",
+   "member_id": 5207,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Allin-Khan. I and many of my constituents would like to thank my hon. Friend the Member for South Cotswolds (Dr Savage) for introducing the debate. People living with special educational needs and disabilities are like everyone else: they have dreams, passions, interests and their own individual identities. They do not want to be defined by the challenges they face, but by the capabilities they possess. Early assessment is vital. Early identification leads to better outcomes. Early support prevents difficulties from escalating, improving long-term educational and other outcomes. After years of Conservative neglect, the SEND system needs fundamental change. All stakeholders must be listened to and understood. Reforms must be ambitious; reform is an opportunity to address enormous, complex issues. In my Wokingham constituency, the number of children with EHCPs has grown by nearly 100% between 2019 and 2025. Many of these children have been out of school and in alternative provision for a long time, often because there are simply no schools available and willing to meet their needs. A fair society requires that every child is valued, ",
+   "name": "Clive Jones",
+   "party": "LD",
+   "seat": "Wokingham"
+  },
+  {
+   "who": "Martin Wrigley (Newton Abbot) (LD)",
+   "member_id": 5111,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Allin-Khan, and it is delightful to hear so many voices in agreement today. In my Newton Abbot constituency, we have helped nearly 100 families navigate the SEND EHCP system—families who are desperate to help their children, but who are met with delays and a system that is constantly exhausting and failing our vulnerable children. In Devon, there is a SEND off-book debt of some £170 million, and that is growing. To combat this, the approach has been to deny help to SEND children until it is forced upon the council, making it an adversarial process. Just over 3% of EHCPs are issued within 20 weeks. Nearly a quarter take a year to set up. That is a year of missed everything. What we need is change that improves the system and saves families from falling through the cracks in the first place. We need to focus on early intervention. That means getting support in place before the children reach crisis. Early intervention is key to fixing the funding, too. If we wait years to provide help, the situation will get far worse, with children and families far more traumatised. The current system is failing children and failing financially. The",
+   "name": "Martin Wrigley",
+   "party": "LD",
+   "seat": "Newton Abbot"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship today, Dr Allin-Khan. I thank the Petitions Committee for granting this important debate and my hon. Friend the Member for South Cotswolds (Dr Savage) for opening the debate with such a powerful speech. I welcome the new Minister to her place, and I look forward to working with her. As I think she has heard today, she has her work cut out. I start by paying tribute to the now over 125,000 people, including 323 in my Twickenham constituency, who have signed the petition and brought this important debate to the House. I pay tribute to the numerous campaign groups and charities that have been championing this cause, and I thank the many thousands of teachers and support staff up and down the country who are trying their very best to make our broken SEND system work in the best interests of our children. Many of those who signed the petition will be parents, carers and family members of children with special educational needs or disabilities, who are deeply worried about the proposals that have been reported in the media over recent months. These are not families who are gaming or hijacking the system, as I think some Reform Members hav",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Charlie Maynard (Witney) (LD)",
+   "member_id": 5325,
+   "type": "Contribution",
+   "text": "On the point about upskilling teachers, the Mulberry Bush school in my constituency does a fantastic job with outreach from specialist schools to regular schools. Does my hon. Friend agree that upskilling teachers and using skills inside the SEND schools to teach teachers in the broader environment would be a great thing?",
+   "name": "Charlie Maynard",
+   "party": "LD",
+   "seat": "Witney"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I agree with my hon. Friend. I have heard about that hub-and-spoke model and would like to go and see it; I think it could be a good model to scale up. I also implore Ministers to look at the bureaucratic hurdles that local authorities face in putting specialist units in mainstream schools. I think it was the hon. Member for Hackney South and Shoreditch (Dame Meg Hillier) who mentioned that London and other areas have falling school rolls. There is space opening up in our school estate for specialist units. My own local authority managed to take advantage of that in Nelson school, which is a primary school but, as of last week, has a specialist unit for secondary pupils with SEMH needs. That could provide a rapid expansion of specialist provision for children to be educated closer to home and among their friends and peers. Fourthly, we need support for local government. We have heard today that local authorities are racking up billions of pounds of deficits. Some of those costs are driven by the eye-watering fees charged by private equity-run special schools, some of which have a profit margin upwards of 20%. That is just wrong and immoral, and it is bleeding our councils dry. Loca",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Saqib Bhatti (Meriden and Solihull East) (Con)",
+   "member_id": 4818,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Dr Allin-Khan, and a privilege to take part in this excellent and well-thought-out debate on assessment and support for children with SEND. I thank the hon. Member for South Cotswolds (Dr Savage) for introducing this important debate and for her opening remarks. I welcome the Minister to her place and look forward to working constructively with her to improve educational outcomes across the country for all children. I pay particular tribute to the more than 125,000 people who have signed the petition, including almost 200 people in Meriden and Solihull East. As you and every other Member of this House are no doubt aware, Dr Allin-Khan, providing for children with special educational needs is one of the most complex issues facing the country today. All our inboxes are inundated with SEND issues from parents needing our support. I pay tribute to all the parents and children in my own constituency who get in touch with me, especially those from Solihull Parent Carer Voice and the North Solihull Additional Needs Support Group. Having heard their stories, I know at first hand their anguish, pain and anxieties. The SEND system has been s",
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East"
+  },
+  {
+   "who": "The Minister of State, Department for Education (Georgia Gould)",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for South Cotswolds (Dr Savage) for introducing the debate. The strength of feeling expressed by everyone in the room shows how important it is; I feel that the voices of children and families from every part of the country were heard in the Chamber today. It was such a powerful discussion, partly because so much work has gone on to set up listening exercises in constituencies and hear voices around the country. My hon. Friend the Member for Dartford (Jim Dickson) said that a report was coming to the Secretary of State, and many have written in. I would like to take the time to meet those who have spent so much time with their constituents and hear directly from them. I know that one or two minutes is not enough time to get across the depth of these issues and the depth of concern. I look forward to the publication of the Education Committee report this week. The Committee’s Chair, my hon. Friend the Member for Dulwich and West Norwood (Helen Hayes), spoke powerfully about it and I know that it was deeply researched. I hope that I can spend time with her to hear her findings. I thank the parents who have sat through the debate in the Public Gallery for bring",
+   "name": "Georgia Gould",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Victoria Collins (Harpenden and Berkhamsted) (LD)",
+   "member_id": 5201,
+   "type": "Contribution",
+   "text": "From the SEND rally to the petition and the Lib Dems’ SEND summit in Hertfordshire today, those voices are being heard. I thank the Minister, who met Rachel and Siouxsie from my constituency today. Siouxsie has developmental language disorder and often feels invisible. Will the Minister guarantee that voices such as hers truly will be heard and that children’s individual needs will be brought forward for proper provision?",
+   "name": "Victoria Collins",
+   "party": "LD",
+   "seat": "Harpenden and Berkhamsted"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "Siouxsie gave me a flag by which to remember young people with speech and language issues. That will be in my office, and I will think about those young people every day in this job. I am grateful to all the organisations and parents who have met me. I am also grateful to my hon. Friend the Member for Thurrock (Jen Craft), who hosted a really powerful roundtable and drop-in earlier so that I could hear from amazing schools that are leading inclusive practice, want to do this work and want to work with the Government. I ran a council for seven years and spent 14 years in local government. I met so many parents in my own borough and many others who told me the problems with the system, which we have heard about really powerfully today. I met parents who could see that issues were starting early but were not listened to and had to fight for support. I met parents who found that there was no support available until there was a diagnosis. We heard so many stories of the months, and sometimes years, that parents and young people have had to wait. I met parents who found that not only education but wider services, such as playgrounds and youth services, were not set up for their children,",
+   "name": "Georgia Gould",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Tom Gordon",
+   "member_id": 5032,
+   "type": "Contribution",
+   "text": "Will the Minister give way?",
+   "name": "Tom Gordon",
+   "party": "LD",
+   "seat": "Harrogate and Knaresborough"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "I will make some progress as we do not have much time and there were so many different comments. I have heard from young people who found when applying for college that their EHCP had not been updated since they were very young and colleges said they could not meet their needs. Some of the stories that are hardest to hear are those of people who have had to fight every single year, whose child is now 18, and who can see all the missed opportunities and feel so deeply let down, and of children have lost confidence in the support available. Too many parents feel they have to arm up for battle when interacting with the system. They do not want to resort to the tribunal, but sometimes feel that is the only way to get support. My hon. Friend the Member for Mansfield (Steve Yemm) said that parents are exhausted. So many parents say that they are exhausted by having to fight and, heartbreakingly, that they feel broken by the system. I wholeheartedly agree with my hon. Friend the Member for Walthamstow (Ms Creasy), who criticised the comments by the Reform leadership attacking parents who are just fighting for their children to get the support that they need. I know parents will never give",
+   "name": "Georgia Gould",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Gregory Stafford",
+   "member_id": 5351,
+   "type": "Contribution",
+   "text": "I thank the Minister for outlining many of the problems in the system. She has now had six out of her 10 minutes and she has not told us what the Government are going to do. Can I press her to tell us what the Government are actually going to do?",
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "I think it is just very important that we hear from parents. When I spoke to them yesterday, one of the things they said was that it is critical that they hear from the Government that we understand the challenges that they face before we move forward. There is also some amazing practice going on, and we heard about it today: schools that are supporting children and young people, and teaching assistants who are investing in that support. We heard the wonderful example from Colne Valley, where neurodiversity training has been put in place.",
+   "name": "Georgia Gould",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Daisy Cooper",
+   "member_id": 4769,
+   "type": "Contribution",
+   "text": "On that point, will the Minister give way?",
+   "name": "Daisy Cooper",
+   "party": "LD",
+   "seat": "St Albans"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "I am going to make progress. This morning I visited a school that is doing amazing work to provide support in the classroom, in mainstream provision, for children and young people. The children I meet have big dreams and deserve the chance to thrive. The Secretary of State for Education has made it absolutely clear that under this Government no child will be left behind, and we will reform the system so that children with special educational needs are at the heart of the education system. There will always be a legal right to additional support for children and young people with special educational needs. As I approach this new role, there are a number of principles guiding me. First, the voices of children, young people and their families, and of teachers and those supporting them, must be at the forefront of reform.",
+   "name": "Georgia Gould",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Adam Dance",
+   "member_id": 5191,
+   "type": "Contribution",
+   "text": "Will the Minister give way?",
+   "name": "Adam Dance",
+   "party": "LD",
+   "seat": "Yeovil"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "I will make progress, because we do not have much time. Over the last year, the Secretary of State and my predecessor have spent a huge amount of time with families to make sure that their voices are heard. Secondly, children should get support when they need it, as early as possible.",
+   "name": "Georgia Gould",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Adam Dance",
+   "member_id": 5191,
+   "type": "Contribution",
+   "text": "Will the Minister give way? It will take 10 seconds.",
+   "name": "Adam Dance",
+   "party": "LD",
+   "seat": "Yeovil"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "I will.",
+   "name": "Georgia Gould",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Adam Dance",
+   "member_id": 5191,
+   "type": "Contribution",
+   "text": "With my ten-minute rule Bill, I have given the Minister good ideas to take forward. Will she look at including them in the White Paper?",
+   "name": "Adam Dance",
+   "party": "LD",
+   "seat": "Yeovil"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "I heard the hon. Member introduce his Bill. He spoke so powerfully about his personal journey, and this House is a better place because he is in it. The points he raised about investing in teacher training across the board are critical and have to be part of the future. The second principle, which we have heard about from almost every speaker, is that children need to get support when issues first appear; early intervention has to be the basis of reform. Thirdly, children with special educational needs should not have to go miles away from their families and communities to get the right support. We need to invest in support within our communities. Finally, support for young people to thrive is not just for schools. I have heard the words “collaboration” and “co-design” so many times in this debate. It is about play, it is about youth clubs, it is about local health services; it is about workplaces that celebrate neurodiversity. We are talking about one in five of our young people: we all know somebody who has special educational needs, and those individuals bring so much creativity and so many ideas.",
+   "name": "Georgia Gould",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Saqib Bhatti",
+   "member_id": 4818,
+   "type": "Contribution",
+   "text": "Will the Minister give way? It will take five seconds.",
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "I have 29 seconds left. It is really important to acknowledge that in 14 years of local government I saw so many families let down. My commitment, as we move forward, is to work with the parents who have turned up and the parents who signed the petition to get this right for families and to set out reforms that will really transform young people’s lives.",
+   "name": "Georgia Gould",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Dr Savage",
+   "member_id": 5352,
+   "type": "Contribution",
+   "text": "I thank the petitioners again for making today’s debate possible, and I thank everybody who spoke. I hope the breadth and depth of both feeling and understanding across the House is clear to the petitioners. I thank the Minister for her response and welcome her to her place. I hope she will forgive me for observing that I heard a great deal of empathy but not a great deal of action. I trust that the forthcoming White Paper will set out in much more detail and far more concrete terms what the Government will do to address the crisis in SEND. There is a crisis of funding and of trust, but behind the national crisis are countless families in crisis, pushed to breaking point by the fight to get their children the provision they deserve. We need accountability, training and funding; we need early and timely intervention; we need a system that works with and for parents, not against them; and above all else, we need a system that enables all children, no matter what their challenges, to fulfil their potential. I, for one, look forward very much to hearing what the Government will do to provide that. Question put and agreed to. Resolved, That this House has considered e-petition 711021 re",
+   "name": "Dr Savage",
+   "party": "LD",
+   "seat": "South Cotswolds"
+  }
+ ],
+ "fetched": "2026-10-21T20:27:03Z"
+}

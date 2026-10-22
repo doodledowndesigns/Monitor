@@ -1,0 +1,217 @@
+{
+ "ext_id": "69224647-097D-49BF-9B48-3C3D02205E03",
+ "date": "2026-06-08",
+ "house": "Lords",
+ "section": "Debate",
+ "title": "School Admissions: Selective Inclusion",
+ "parents": [
+  "Lords Chamber"
+ ],
+ "location": "Lords Chamber",
+ "url": "https://hansard.parliament.uk/Lords/2026-06-08/debates/69224647-097D-49BF-9B48-3C3D02205E03/SchoolAdmissionsSelectiveInclusion",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Lord Watson of Invergowrie",
+   "party": "Lab",
+   "member_id": 1241
+  },
+  {
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions",
+   "member_id": 269
+  },
+  {
+   "name": "Lord Young of Acton",
+   "party": "Con",
+   "member_id": 5379
+  },
+  {
+   "name": "Lord Addington",
+   "party": "LD",
+   "member_id": 3453
+  },
+  {
+   "name": "Baroness Cash",
+   "party": "Con",
+   "member_id": 5387
+  },
+  {
+   "name": "Lord Isaac",
+   "party": "Lab",
+   "member_id": 5434
+  },
+  {
+   "name": "Baroness Barran",
+   "party": "Con",
+   "member_id": 4703
+  },
+  {
+   "name": "Lord Foulkes of Cumnock",
+   "seat": "Lab Co-op",
+   "member_id": 579
+  },
+  {
+   "name": "Baroness McIntosh of Hudnall",
+   "party": "Lab",
+   "member_id": 2506
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Lord Watson of Invergowrie",
+   "member_id": 1241,
+   "type": "Contribution",
+   "text": "To ask His Majesty’s Government what assessment they have made of the report by the Sutton Trust Selective Inclusion , published on 24 March, which found that the top 500 secondary schools admit a lower proportion of pupils eligible for both free school meals and special educational needs support than live in their catchment area.",
+   "name": "Lord Watson of Invergowrie",
+   "party": "Lab"
+  },
+  {
+   "who": "The Minister of State, Department for Education and Department for Work and Pensions (Baroness Smith of Malvern) (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My Lords, as set out in our White Paper, Every C hild A chieving and T hriving , all children should have access to high-performing schools. However, more could be done to reduce barriers in the system, particularly for children from disadvantaged backgrounds and children with SEND. We will ensure that all mainstream settings are welcoming to children with SEND by investing £1.6 billion over three years to support early years settings, schools and colleges to become inclusive by design. We will also develop new resources to support and encourage schools to use existing provisions within the code, such as the ability to prioritise children eligible for the pupil premium, to adopt more inclusive admission arrangements.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Lord Watson of Invergowrie (Lab)",
+   "member_id": 1241,
+   "type": "Contribution",
+   "text": "I thank my noble friend for that response. She mentioned the existing requirements on school admissions, but as the Sutton Trust report revealed, 36% fewer pupils with SEND from disadvantaged backgrounds are accepted in the higher-performing schools. The current rules are simply not doing the job that they are intended to do. That is often a double disadvantage for these children, because the Sutton Trust figures show that it is often children with SEND eligible for free school meals, rather than SEND pupils as a whole. As we await a consultation on a new School Admissions Code, does my noble friend agree that the rules need to be strengthened if the Government are to be able to achieve their aim of more SEND pupils being educated in mainstream schools?",
+   "name": "Lord Watson of Invergowrie",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I think we need to make sure that all schools achieve the levels of inclusive education necessary to support children with special educational needs and disabilities. That is the reason for the investment we are putting in place, the emphasis we are placing on inclusion—for example, through our RISE teams across the country—and the new emphasis that Ofsted will have, when inspecting schools, on the inclusive nature of what is being offered within them.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Lord Young of Acton (Con)",
+   "member_id": 5379,
+   "type": "Contribution",
+   "text": "My Lords, I declare an interest as a member of the Knowledge Schools Trust. In light of this Sutton Trust report, does the Minister share my misgivings about the Government’s decision to impose VAT on independent school fees? The 30,000 pupils who have now left the independent sector will be beating a path to the doors of these 500 high-performing comprehensives, which will mean even fewer places for children from disadvantaged backgrounds.",
+   "name": "Lord Young of Acton",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "No, not least because, if we are to put the investment into our state schools that the 94% of children who use them need, we need to ensure that that is properly funded. On concerns about independent school closures, which I understand, I am sure noble Lords will be reassured that in 2025 more private schools opened than closed. There are 41 more independent schools in 2026 compared with 2025 and, in fact, the overall fall in private school pupil numbers reflects demographic change across the whole school system.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Lord Addington (LD)",
+   "member_id": 3453,
+   "type": "Contribution",
+   "text": "My Lords, will the Minister enlighten us on exactly how the Government will make sure that there is an aggressive approach under this new SEN system to identify and support students and that this is reflected widely in things such as Ofsted reports? What is measured gets done, and at the moment it is quite clear that many schools are not taking that aggressive approach to make sure the right help gets to the pupils who need it.",
+   "name": "Lord Addington",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I am not sure I would characterise it as an aggressive approach, but it is certainly a key element of the Government’s SEND reform that we ensure children get the right support, whether in their early years setting, their school or their college. That is why we are investing in new training for all staff, better buildings and equipment, and will make sure that every setting has access to expert professional support when it is needed. An inclusive education system for all children and young people requires a strong universal offer, built on high-quality adaptive teaching and early effective support. We will equip and empower mainstream settings to become inclusive by design and to remove commonly occurring barriers to learning. We will invest £4 billion more over the next three years to ensure that happens.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Baroness Cash (Con)",
+   "member_id": 5387,
+   "type": "Contribution",
+   "text": "My Lords, the OECD PISA survey looks at whether the school that children attended makes a difference to their attainment. Contrary to some of the assumptions underlying the Sutton Trust report, it makes less difference which school you attend here in the UK than in many other countries; we are below average, and that is a good thing. Does the Minister therefore acknowledge that forcing every school to fit one profile risks further constraining parent choice, with very little benefit to the children?",
+   "name": "Baroness Cash",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I welcome the noble Baroness to her new role, and I am looking forward to working with her. The answer to ensuring that parents have the choice they want and deserve is to enable all schools to be the type of good schools that any of us who have or have had children would want our children to go to. That means ensuring that we have more teachers in our schools, which we are focused on; ensuring that all schools follow a revised national curriculum; and investing properly in them. These are all things that this Government have focused on, and we will continue to do so to ensure that every parent has the choice of a good school for their child.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Lord Isaac (Lab)",
+   "member_id": 5434,
+   "type": "Contribution",
+   "text": "My Lords, it is excellent to hear the Minister identify that there will be more resources to reduce the barriers for children with SEND. But in the Sutton Trust report there were specific recommendations to increase the number of teaching assistants and to promote a fair access review. Will she give us some reassurance that that is part of what the Government are considering?",
+   "name": "Lord Isaac",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "As well as the investment we are putting in, particularly for children with special educational needs and disabilities, we will consult on changes to the School Admissions Code to support fairness for all families, particularly the most disadvantaged. That will include improvements to how fair access protocols are managed by local authorities, requiring schools to give parents more information about decisions on in-year admission and, where they operate, making the operation of banding arrangements clear. Certainly, the first two of those will be very important for supporting parents in thinking about children with special educational needs and disabilities, and enabling them to get into the good schools that they would choose for them.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, I too welcome my noble friend to her place on the Front Bench. Does the Minister agree that we should congratulate and celebrate the 500 schools in this country that have added most value to the pupils attending them, rather than trying to pick holes in their performance?",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I am not quite sure what the noble Baroness is referring to. I am always more than happy to celebrate the work of teachers and others in schools across this country that achieve enormously important progress for children every day. What is more, as a Government we have a responsibility to ensure that is available in as widespread a way as possible.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Lord Foulkes of Cumnock (Lab Co-op)",
+   "member_id": 579,
+   "type": "Contribution",
+   "text": "Will my noble friend spread the news to all pupils in England that they are lucky they do not live in Scotland, where there is a declining education system under the failing SNP Government?",
+   "name": "Lord Foulkes of Cumnock",
+   "seat": "Lab Co-op"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I always try my best to spread the news about the excellent work that teachers in England are doing and, of course, the excellent work that this Government are doing to support them.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Baroness McIntosh of Hudnall (Lab)",
+   "member_id": 2506,
+   "type": "Contribution",
+   "text": "My Lords, does my noble friend or her department have any information about the number of teachers currently working in our schools who have themselves at some time in the past needed special educational provision? To what extent are those teachers able to contribute to the way in which we provide for young people with special educational needs now?",
+   "name": "Baroness McIntosh of Hudnall",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "That is a very interesting question. Although I have to admit that I do not have that information at my fingertips, I have no doubt that having had some of those experiences yourself would probably support you, as a teacher, to recognise the needs of the children you were teaching. But we cannot depend on that, which is why the Government have invested £200 million to ensure that all teachers, from early years through to post-16, have the opportunity for the necessary professional development to enable them to recognise and support children with special educational needs and disabilities.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  }
+ ],
+ "fetched": "2026-10-21T20:29:18Z"
+}

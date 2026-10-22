@@ -1,0 +1,65 @@
+{
+ "ext_id": "A6A2588E-ECED-40EA-BD61-1BE48BBC5593",
+ "date": "2024-09-04",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Haygrove School",
+ "parents": [
+  "Commons Chamber",
+  "Oral Answers to Questions",
+  "Prime Minister"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2024-09-04/debates/A6A2588E-ECED-40EA-BD61-1BE48BBC5593/HaygroveSchool",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Sir Ashley Fox",
+   "party": "Con",
+   "seat": "Bridgwater",
+   "member_id": 5101
+  },
+  {
+   "name": "The Prime Minister",
+   "role": "The Prime Minister",
+   "member_id": 4514
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Sir Ashley Fox (Bridgwater) (Con)",
+   "member_id": 5101,
+   "type": "Contribution",
+   "text": "Q14. If he will visit Haygrove School in Bridgwater.",
+   "name": "Sir Ashley Fox",
+   "party": "Con",
+   "seat": "Bridgwater"
+  },
+  {
+   "who": "The Prime Minister",
+   "member_id": 4514,
+   "type": "Contribution",
+   "text": "The Schools Minister will be happy to visit the hon. Member’s constituency.",
+   "name": "The Prime Minister",
+   "role": "The Prime Minister"
+  },
+  {
+   "who": "Sir Ashley Fox",
+   "member_id": 5101,
+   "type": "Contribution",
+   "text": "I thank the Prime Minister for his answer. Haygrove School is one of the top-performing schools in Somerset, but it is unfortunately one of those built by Caledonian Modular and now condemned as unsafe. I am grateful for the meeting with the Schools Minister, but can the Prime Minister give Haygrove and the other schools affected an assurance that they will be rebuilt, and quickly, because those pupils and staff are still working in portacabins?",
+   "name": "Sir Ashley Fox",
+   "party": "Con",
+   "seat": "Bridgwater"
+  },
+  {
+   "who": "The Prime Minister",
+   "member_id": 4514,
+   "type": "Contribution",
+   "text": "I am grateful, and I recognise how serious an issue this is and why the hon. Member raises it. It is of real importance. The Minister will visit, and the Department for Education is pursuing all available avenues for redress against the parties responsible for the issues at the school. I will ensure that the Minister is fully briefed and has a full discussion about that when the visit takes place.",
+   "name": "The Prime Minister",
+   "role": "The Prime Minister"
+  }
+ ],
+ "fetched": "2026-10-21T20:23:48Z"
+}

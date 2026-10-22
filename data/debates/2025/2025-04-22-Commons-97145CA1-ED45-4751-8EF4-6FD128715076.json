@@ -1,0 +1,635 @@
+{
+ "ext_id": "97145CA1-ED45-4751-8EF4-6FD128715076",
+ "date": "2025-04-22",
+ "house": "Commons",
+ "section": "WestHall",
+ "title": "Road Safety and Active Travel to School",
+ "parents": [
+  "Westminster Hall"
+ ],
+ "location": "Westminster Hall",
+ "url": "https://hansard.parliament.uk/Commons/2025-04-22/debates/97145CA1-ED45-4751-8EF4-6FD128715076/RoadSafetyAndActiveTravelToSchool",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Olly Glover",
+   "party": "LD",
+   "seat": "Didcot and Wantage",
+   "member_id": 5318
+  },
+  {
+   "name": "Sarah Dyke",
+   "party": "LD",
+   "seat": "Glastonbury and Somerton",
+   "member_id": 4995
+  },
+  {
+   "name": "Afzal Khan",
+   "party": "Lab",
+   "seat": "Manchester Rusholme",
+   "member_id": 4671
+  },
+  {
+   "name": "Matt Western",
+   "party": "Lab",
+   "seat": "Warwick and Leamington",
+   "member_id": 4617
+  },
+  {
+   "name": "Layla Moran",
+   "party": "LD",
+   "seat": "Oxford West and Abingdon",
+   "member_id": 4656
+  },
+  {
+   "name": "Dr Scott Arthur",
+   "party": "Lab",
+   "seat": "Edinburgh South West",
+   "member_id": 5212
+  },
+  {
+   "name": "Aphra Brandreth",
+   "party": "Con",
+   "seat": "Chester South and Eddisbury",
+   "member_id": 5241
+  },
+  {
+   "name": "Wera Hobhouse",
+   "role": "Chair",
+   "member_id": 4602
+  },
+  {
+   "name": "Ruth Cadbury",
+   "party": "Lab",
+   "seat": "Brentford and Isleworth",
+   "member_id": 4389
+  },
+  {
+   "name": "Brian Mathew",
+   "party": "LD",
+   "seat": "Melksham and Devizes",
+   "member_id": 5214
+  },
+  {
+   "name": "Julia Buckley",
+   "party": "Lab",
+   "seat": "Shrewsbury",
+   "member_id": 5171
+  },
+  {
+   "name": "Freddie van Mierlo",
+   "party": "LD",
+   "seat": "Henley and Thame",
+   "member_id": 5296
+  },
+  {
+   "name": "Andy MacNae",
+   "party": "Lab",
+   "seat": "Rossendale and Darwen",
+   "member_id": 5134
+  },
+  {
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon",
+   "member_id": 5216
+  },
+  {
+   "name": "Josh Newbury",
+   "party": "Lab",
+   "seat": "Cannock Chase",
+   "member_id": 5034
+  },
+  {
+   "name": "Richard Foord",
+   "party": "LD",
+   "seat": "Honiton and Sidmouth",
+   "member_id": 4942
+  },
+  {
+   "name": "Matt Rodda",
+   "party": "Lab",
+   "seat": "Reading Central",
+   "member_id": 4654
+  },
+  {
+   "name": "Steve Yemm",
+   "party": "Lab",
+   "seat": "Mansfield",
+   "member_id": 5194
+  },
+  {
+   "name": "Steff Aquarone",
+   "party": "LD",
+   "seat": "North Norfolk",
+   "member_id": 5164
+  },
+  {
+   "name": "Alex Mayer",
+   "party": "Lab",
+   "seat": "Dunstable and Leighton Buzzard",
+   "member_id": 5141
+  },
+  {
+   "name": "Marie Goldman",
+   "party": "LD",
+   "seat": "Chelmsford",
+   "member_id": 5073
+  },
+  {
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire",
+   "member_id": 5195
+  },
+  {
+   "name": "Rachael Maskell",
+   "party": "Lab/Co-op",
+   "seat": "York Central",
+   "member_id": 4471
+  },
+  {
+   "name": "Mr Kohler",
+   "party": "LD",
+   "seat": "Wimbledon",
+   "member_id": 5321
+  },
+  {
+   "name": "Lisa Smart",
+   "party": "LD",
+   "seat": "Hazel Grove",
+   "member_id": 5070
+  },
+  {
+   "name": "Anna Dixon",
+   "party": "Lab",
+   "seat": "Shipley",
+   "member_id": 5281
+  },
+  {
+   "name": "Greg Smith",
+   "party": "Con",
+   "seat": "Mid Buckinghamshire",
+   "member_id": 4778
+  },
+  {
+   "name": "Joe Morris",
+   "party": "Lab",
+   "seat": "Hexham",
+   "member_id": 5081
+  },
+  {
+   "name": "Lilian Greenwood",
+   "role": "The Parliamentary Under-Secretary of State for Transport",
+   "member_id": 4029
+  },
+  {
+   "name": "Deirdre Costigan",
+   "party": "Lab",
+   "seat": "Ealing Southall",
+   "member_id": 5075
+  },
+  {
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East",
+   "member_id": 5210
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Olly Glover (Didcot and Wantage) (LD) [R]",
+   "member_id": 5318,
+   "type": "Contribution",
+   "text": "I beg to move, That this House has considered road safety and supporting active travel to school. It is a pleasure to serve under your chairship, Mrs Hobhouse. I am pleased to introduce this topic, not least in my role as Lib Dem vice-chair of the all-party parliamentary group for cycling and walking. Walking and cycling statistics published by the Department for Transport in 2023 show that children have been walking and cycling to school less and less, albeit that the latest data gives hope of a recovery. Figures from the UK national travel survey indicate that the number of children aged five to 15 who walk or cycle to school declined from 67% in 1975-76 to just 47% in 2023. Department for Transport figures suggest that only 3% of children cycle to school, while in London the school run contributes to one in four cars on urban roads at peak times, even in such a densely populated area. However, half of children tell us that they want to cycle more. Many children already walk and wheel for part of their journey, but a third want to walk and wheel even more, and they need to feel safe in order to do so. During this debate, at least three people in the UK will be killed or seriously",
+   "name": "Olly Glover",
+   "party": "LD",
+   "seat": "Didcot and Wantage"
+  },
+  {
+   "who": "Sarah Dyke (Glastonbury and Somerton) (LD)",
+   "member_id": 4995,
+   "type": "Contribution",
+   "text": "I was recently privileged to be one of the first cyclists to use the newly opened section of the Curry Rivel Active Travel Group’s car-free path—a transport-free route along the A378, which is a really busy road. It benefits pupils at many of the local primary schools and the local academy. With half of local pupils ineligible for free secondary school transport, the path provides a safe space. Does my hon. Friend agree that investing in active travel routes is key to supporting safe and sustainable school journeys, particularly in rural areas?",
+   "name": "Sarah Dyke",
+   "party": "LD",
+   "seat": "Glastonbury and Somerton"
+  },
+  {
+   "who": "Olly Glover",
+   "member_id": 5318,
+   "type": "Contribution",
+   "text": "The example my hon. Friend gives from her constituency shows what dedicated infrastructure can achieve in getting more people walking and cycling. What needs to change, and how? First, as my hon. Friend just said, infrastructure and street design are incredibly important. We know from countries with high rates of walking and cycling that safe and pleasant streets are essential. The majority of accidents in the UK involving those who are cycling occur at junctions, making those areas critical points for targeted interventions. Research consistently identifies the failure to look properly as the leading cause of road injuries among those who are cycling and other road users. I would love to see infrastructure of the quality in Assen, Groningen, Utrecht or Rotterdam—or any other Dutch town or city, for that matter—everywhere in the UK, but there are things we can do in the meantime. In London, there is an example just down the road from this place, where Westminster’s pioneering of side street zebra crossings—zebra crossing markings without the cost of having flashing lights—is a great example of a simple, low-cost intervention. The evidence shows that those crossings are already savi",
+   "name": "Olly Glover",
+   "party": "LD",
+   "seat": "Didcot and Wantage"
+  },
+  {
+   "who": "Afzal Khan (Manchester Rusholme) (Lab)",
+   "member_id": 4671,
+   "type": "Contribution",
+   "text": "Greater Manchester is prioritising road safety by implementing 100 school streets by 2028. Those are areas around schools that limit traffic during drop-off and pick-up times, which will make walking, wheeling and cycling to school safer for young people. Does the hon. Member agree that funding school streets will create safer, more reliable and more child-friendly environments around schools?",
+   "name": "Afzal Khan",
+   "party": "Lab",
+   "seat": "Manchester Rusholme"
+  },
+  {
+   "who": "Olly Glover",
+   "member_id": 5318,
+   "type": "Contribution",
+   "text": "That is a very good example of how spending money well can lead to a big difference. I have already mentioned the Netherlands, but my hon. Friends on the Lib Dem Benches would be disappointed were I not to bore them to tears by wanging on about the Netherlands at greater length. If I might plug an opportunity for hon. Members to see for themselves the marvels that have been achieved there on active travel, the APPG for cycling and walking plans a trip to the Netherlands in September. In my constituency, there are many schools where lots of pupils and parents would like to walk and cycle but cannot because of infrastructure or other barriers. The Europa school in Culham is located on a major A road, and for years the parents and the school have campaigned for a crossing to connect the school with the nearby village of Culham across that A road. They have finally got a commitment that that will happen in the next year, but still the so-called cycle path that runs near the school is nothing of the sort: it is a pavement that someone has decided people can cycle on. It is not wide enough, and there have been collisions because of that. Far more needs to be done.",
+   "name": "Olly Glover",
+   "party": "LD",
+   "seat": "Didcot and Wantage"
+  },
+  {
+   "who": "Matt Western (Warwick and Leamington) (Lab)",
+   "member_id": 4617,
+   "type": "Contribution",
+   "text": "Last September in my constituency, a new school, Oakley, opened without even a direct footpath to the site, and certainly no cycleway. Sadly, within four weeks, there was a serious accident involving a child who had to be airlifted some 60 miles. Does the hon. Member agree that schools should not be allowed to open until such provision is put in place?",
+   "name": "Matt Western",
+   "party": "Lab",
+   "seat": "Warwick and Leamington"
+  },
+  {
+   "who": "Olly Glover",
+   "member_id": 5318,
+   "type": "Contribution",
+   "text": "The hon. Member gives a really strong example of how, when we plan new developments and new areas, there is no excuse for not getting the infrastructure right from the off. Milton, a village where I recently lived, is split in two by the A34 and the enormous Milton interchange roundabout. The St Blaise school on the south side of the parish is effectively cut off from the older side of the village. Even though parish council meetings are only a mile away, people drive to them because although there have been plans for a footbridge over the A34 for ages, the money has, inexplicably, somehow run out. Villagers and parishioners are therefore not able to make the most of the opportunity to cycle or walk that very short distance. This issue is not just about infrastructure; it is also about training and confidence to go walking and cycling. The Bikeability training programme, which rolls out cycle training across our schools, reduces risk, increases confidence and encourages long-term health and environmental benefits. It is the largest road safety programme in the world, and it is owned and funded by the Government. Local authorities with higher amounts of Bikeability level 2 training ",
+   "name": "Olly Glover",
+   "party": "LD",
+   "seat": "Didcot and Wantage"
+  },
+  {
+   "who": "Layla Moran (Oxford West and Abingdon) (LD)",
+   "member_id": 4656,
+   "type": "Contribution",
+   "text": "Will my hon. Friend join me in commending the Bikeability Trust? In Oxford West and Abingdon, 61% of year 6 students take level 2 training, but 76% is considered an achievable target for 2025-26. Does he agree that without the Bikeability Trust, none of that would be possible?",
+   "name": "Layla Moran",
+   "party": "LD",
+   "seat": "Oxford West and Abingdon"
+  },
+  {
+   "who": "Olly Glover",
+   "member_id": 5318,
+   "type": "Contribution",
+   "text": "My hon. Friend gives an excellent example of the benefits of Bikeability. Since 2007, Bikeability cycle training has been delivered to over 5 million children in England. In my Oxfordshire constituency of Didcot and Wantage, 61% of year 6 pupils were booked on a Bikeability level 2 course in 2023-24; we aim for three quarters by 2026. In Oxfordshire, uniquely, Bikeability training is delivered by the fire service, for some very interesting historical reasons. Following Bikeability training, the proportion of children reporting an intention to cycle one to three times per week for school travel increases, from 5% pre training to 24% post training. However, historical delays in funding and an annual funding model have meant that there has been no increase in Bikeability instructor numbers. That needs to change because there is an ongoing need to train more than 300 instructors a year to maintain numbers lost through retirement. Another theme is culture and leadership. Pavement parking—",
+   "name": "Olly Glover",
+   "party": "LD",
+   "seat": "Didcot and Wantage"
+  },
+  {
+   "who": "Dr Scott Arthur (Edinburgh South West) (Lab)",
+   "member_id": 5212,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for giving way with almost perfect timing. Bikeability is not the only non-infrastructure approach. Every school in my constituency benefits from a 20 mph scheme that covers most of Edinburgh and—I think he is about to touch on this—a pavement parking ban. Those non-infrastructure approaches can be delivered cheaply and quickly. Does he agree that we need more of those in the UK?",
+   "name": "Dr Scott Arthur",
+   "party": "Lab",
+   "seat": "Edinburgh South West"
+  },
+  {
+   "who": "Olly Glover",
+   "member_id": 5318,
+   "type": "Contribution",
+   "text": "Yes, tackling pavement parking is essential, because three quarters of children support stopping cars parking on the pavement, as do 58% of parents and guardians. Councils in Wales and in most of England have limited pavement parking powers, relying on cumbersome street-by-street traffic regulation orders. In contrast, London councils have had powers to enforce against pavement parking since the 1970s, and Scotland gained them last year. Councils know their areas best, and the Liberal Democrats are calling for traffic regulation orders to be made easier for local authorities to process, so that they can take action on pavement parking more swiftly and at lower cost. The upcoming road safety strategy is an urgent opportunity to save lives by tackling issues such as pavement parking. It must include measures to initiate a comprehensive road danger review; improve awareness of and adherence to the highway code; improve the safety of home-to-school travel; and deliver the integration of national strategy and funding with local policy.",
+   "name": "Olly Glover",
+   "party": "LD",
+   "seat": "Didcot and Wantage"
+  },
+  {
+   "who": "Aphra Brandreth (Chester South and Eddisbury) (Con)",
+   "member_id": 5241,
+   "type": "Contribution",
+   "text": "The hon. Member is giving an interesting speech and making important points, but distances in some rural areas mean that walking, and often cycling, are not feasible. Does he agree that any review needs a particular focus on rural roads and should perhaps support reducing speeds outside schools? In constituencies such as mine, there is not yet a policy of having 20 mph. Perhaps he can give some examples of rural roads in the Netherlands.",
+   "name": "Aphra Brandreth",
+   "party": "Con",
+   "seat": "Chester South and Eddisbury"
+  },
+  {
+   "who": "Olly Glover",
+   "member_id": 5318,
+   "type": "Contribution",
+   "text": "The hon. Lady is absolutely right. This is not one size fits all, and we need to recognise the different characters and characteristics of our areas. However, in the Netherlands there would always be this thing called a cycle path next to rural roads, so there is that segregation and people have confidence. That is the key difference. Even in places in the UK with lots of land, that is not something we generally see. It is important that, as elected representatives of our communities, we lead by example where we can and walk and cycle where possible. In conclusion, we can empower young people to walk, wheel or cycle to school by providing them with the confidence to do that through schemes such as Bikeability and by putting in place measures to keep them safe, such as those around pavement parking and around infrastructure and street design improvements. I thank the Minister for already having kindly agreed to see Bikeability training in action in my constituency, and I look forward to hearing more about the Government’s plans for this topic, including what they plan to do to make it normal, rather than an eccentric exception, to walk or cycle to school.",
+   "name": "Olly Glover",
+   "party": "LD",
+   "seat": "Didcot and Wantage"
+  },
+  {
+   "who": "Wera Hobhouse (in the Chair)",
+   "member_id": 4602,
+   "type": "Contribution",
+   "text": "I intend to call the Front-Bench spokespeople at about 7.5 pm. The debate is heavily oversubscribed, so I am putting an informal time limit of two minutes on all speeches. Even with that I might not get everybody in, but let us see how it goes. I call the Chair of the Transport Committee.",
+   "name": "Wera Hobhouse",
+   "role": "Chair"
+  },
+  {
+   "who": "Ruth Cadbury (Brentford and Isleworth) (Lab)",
+   "member_id": 4389,
+   "type": "Contribution",
+   "text": "I congratulate the hon. Member for Didcot and Wantage (Olly Glover) on securing the debate and on his excellent speech. I will focus on the school streets initiative, which has already got many more families in Hounslow walking, cycling and scooting to school, and it will have a similar effect elsewhere. The school streets initiative protects those who already walk, scoot and cycle. Being in an urban area, the majority of our schoolchildren and their families do walk, but there is some very selfish behaviour from some parents who want to drive all the way to the school gates and back out again if it is in a cul-de-sac. I have seen some very dangerous behaviour, as I am sure other Members have. In Hounslow, there are about 30 school streets. Around 25% of car trips in the morning peak seem to be related to families on the school run. The school streets initiative is an important measure, but it can also support wider ambitions to improve air quality and reduce collisions. Hounslow has monitored the implementation of the initiative at three schools. It has seen an increase in walking, wheeling and cycling of almost 10% in the morning peak and almost 12% in the afternoon peak. There h",
+   "name": "Ruth Cadbury",
+   "party": "Lab",
+   "seat": "Brentford and Isleworth"
+  },
+  {
+   "who": "Brian Mathew (Melksham and Devizes) (LD)",
+   "member_id": 5214,
+   "type": "Contribution",
+   "text": "It is an honour to speak under your chairship, Mrs Hobhouse. I thank my hon. Friend the Member for Didcot and Wantage (Olly Glover) for securing the debate. Giving children the opportunity to safely walk or cycle to school is vital. It not only ingrains healthy habits in children from a young age, bringing them closer to the nature and scenery that can be found in areas such as my constituency of Melksham and Devizes, but it teaches them road safety lessons, fosters independence and helps prevent climate change. Active travel practices in schools can also reduce traffic volume in our towns and villages as the number of cars around schools are reduced, thus minimising both pollution and the risk of road accidents. I commend Holt VC primary school in my constituency for its Big Walk and Wheel programme earlier this year, which saw many children in the village walk and cycle to school and take part in a walking bus. We need to encourage more of this. In Bradford-on-Avon, a town in my constituency that suffers greatly from traffic congestion, traffic is even worse during term time. This has meant more dangers for those on the road, especially children. During my time as a Wiltshire cou",
+   "name": "Brian Mathew",
+   "party": "LD",
+   "seat": "Melksham and Devizes"
+  },
+  {
+   "who": "Julia Buckley (Shrewsbury) (Lab)",
+   "member_id": 5171,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mrs Hobhouse. I congratulate the hon. Member for Didcot and Wantage (Olly Glover) on securing this vital debate. I am a member of the all-party parliamentary group for cycling and walking, which he chairs. Cycling is a key priority for my constituency of Shrewsbury, where 68% of pupils aged 10 and 11 were trained under the famous Bikeability scheme at school. Unfortunately, in our historic town, we have in recent years allowed the car to dominate most of our neighbourhoods to the detriment of road safety. Just last month, on 20 March, I met the young people on the Shrewsbury youth council at the Grange Centre in Harlescott, and listened to their feedback on our Shrewsbury Moves plan for more active travel. They told me they do not feel safe cycling on the roads due to the speed of drivers and lack of cycle paths. Does the Minister agree that investment in segregated routes to create that all-important separation between cyclists and motor vehicles is vital to enabling and encouraging more people to cycle and walk short journeys, such as across my congested, yet beautiful town of Shrewsbury?",
+   "name": "Julia Buckley",
+   "party": "Lab",
+   "seat": "Shrewsbury"
+  },
+  {
+   "who": "Freddie van Mierlo (Henley and Thame) (LD)",
+   "member_id": 5296,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Mrs Hobhouse. I congratulate my hon. Friend the Member for Didcot and Wantage (Olly Glover) on his excellent pronunciation of Dutch towns, including Groningen. It is fair to say that in this debate there is a lot of agreement on the benefits of active travel, but even when local authorities have the ambition to deliver cycle schemes, land ownership all too often gets in the way. In my own constituency of Henley and Thame, residents have tirelessly campaigned for a greenway cycle route between Haddenham and Thame. These settlements are just three miles apart. The project received a welcome boost this year when Oxfordshire county council assigned £200,000 for further optioning, but for now the development is marooned until a process of land assembly is completed, which requires lengthy negotiations with landowners. Road projects, for which compulsory-purchase powers are wielded readily, do not suffer the same fate. Officers in my own highway authority tell me there are few precedents for cycleways making successful use of compulsory purchase orders, but are keen to learn more. CPOs for cycle schemes are easily challenged as it becomes i",
+   "name": "Freddie van Mierlo",
+   "party": "LD",
+   "seat": "Henley and Thame"
+  },
+  {
+   "who": "Andy MacNae (Rossendale and Darwen) (Lab)",
+   "member_id": 5134,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under you, Mrs Hobhouse, and I thank the hon. Member for Didcot and Wantage (Olly Glover) for securing this very important date, for which we do not have nearly enough time. I have talked before about Burnley Road in Bacup several times in debates, both here in Westminster Hall and in the main Chamber. There have been serious injuries and fatalities at various points on this main road and speeding is endemic. One house has been hit three times by out-of-control cars. Residents cite numerous close calls and the fear that that generates. Thorn primary school is set back to the east of the road, with many of its pupils living to the west. If those pupils wish to walk to school, they must cross the busy road at a point where there is no lollipop service, 20 mph zone or zebra crossing. Pupils and parents do not feel safe making the crossing and so drive to school, which in turn leads to congestion, pavement parking and close calls on the roads immediately around the school. Such is the concern that pupils at Thorn have started road safety campaigns calling for action. For instance, William Cartwright, a year 6 pupil, came to one of my surgeries to push the case",
+   "name": "Andy MacNae",
+   "party": "Lab",
+   "seat": "Rossendale and Darwen"
+  },
+  {
+   "who": "Caroline Voaden (South Devon) (LD)",
+   "member_id": 5216,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mrs Hobhouse. Imagine being 14, 15 or 16 and being stuck in a rural village. For rural kids, bikes mean freedom. We have to make it easier to create cycle paths alongside dangerous rural roads, so that kids can have the freedom to travel independently. On that note, I would like—surprisingly—to do a shout-out for South West Water, which is seeking planning permission for a solar farm on the edge of Totnes. After 20 years of campaigning by local councillors and a very committed group of activists, South West Water has finally agreed to put a cycle path through that solar farm. We have not quite got it over the line yet, but I am putting on the record today that we really want to see it become a reality. It will link to Totnes a village that is just a few miles away, giving people there the ability to cycle into town safely, thereby cutting down on the amount of traffic coming into our small rural town. Such cycle routes are absolutely vital in rural areas, where the roads are extremely dangerous. They connect communities, allow people to avoid dangerous roads and provide a safe option for healthy active travel, which is so important",
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon"
+  },
+  {
+   "who": "Josh Newbury (Cannock Chase) (Lab)",
+   "member_id": 5034,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mrs Hobhouse. I thank the hon. Member for Didcot and Wantage (Olly Glover) for securing this debate. Just a few weeks ago, I visited Hazel Slade primary academy in my constituency. Pupils there told me in no uncertain terms that each day they are frightened when they walk to school. They told me what they want to see to make them feel safer and asked for my help to make it happen. Parents, children and teachers have all told me that they want to see a road safety assessment carried out and traffic calming measures put in to reduce the risks posed by dangerous driving along Rugeley Road and Cannock Wood Street. Parents should be able to trust that every day their child will get home from school safely. Between 2018 and 2023, there were a staggering 869 road casualties in Cannock Chase, including two fatalities on the Rugeley Road between Hazelslade and Brereton. In Bridgtown, where the A5 separates older and newer parts of the village, parents and wheelchair users have told me that they feel they are taking their life into their hands by crossing a major road, and that their county councillor has ignored their pleas for support for ",
+   "name": "Josh Newbury",
+   "party": "Lab",
+   "seat": "Cannock Chase"
+  },
+  {
+   "who": "Richard Foord (Honiton and Sidmouth) (LD)",
+   "member_id": 4942,
+   "type": "Contribution",
+   "text": "It is an honour to serve with you in the Chair, Mrs Hobhouse. Across mid and east Devon, I have heard time and again from young people who want safer ways to get to school by foot and by wheeling. Students at Sidmouth college have been asking for something very simple: a cycle path between Sidford and Sidbury. Right now, the main road between those two villages is narrow, winding and dangerous, especially for schoolchildren walking or cycling. When there is a bus, cost is a barrier. Without a dedicated path, young people are missing out on after-school clubs, social time or extra help with learning. A safe cycle path would give those young people real independence; it would help them to stay active and healthy, and it would cut down on car use. We have a separate problem in Ottery St Mary. Coleridge bridge was built back in 2011 but was damaged over a year ago by a storm. Parents are now driving their children to school where previously they went over that footbridge. The bridge repair is being held up by environmental permits, and I have asked Department for Environment Food and Rural Affairs to find a better balance. Of course, protecting our biodiversity and our rivers is vital,",
+   "name": "Richard Foord",
+   "party": "LD",
+   "seat": "Honiton and Sidmouth"
+  },
+  {
+   "who": "Matt Rodda (Reading Central) (Lab)",
+   "member_id": 4654,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Mrs Hobhouse. I thank the hon. Member for Didcot and Wantage (Olly Glover) for his work in securing today’s debate. I realise that time is pressing, so I will try to keep my remarks to two or three key points that affect my constituents within Reading. First, I offer my wholehearted support to the enhancement of walking and cycling around the country, and I also reiterate both the health and environmental benefits of this important work. There has been some excellent work in my constituency, and I want to pay tribute briefly to some of the people involved in the roll-out of School Streets, which is heavily dependent on a partnership between Reading borough council and local volunteers. That is working extremely well: it is reducing pollution, increasing health and offering young people the chance to walk to the local school in a number of parts of our town—that is making a big difference locally. However, it depends on a lot of good will and I urge more people, if they are able to volunteer, to come forward. The volunteers in some schemes at the moment are under some pressure, and it is important that we grow that project across the t",
+   "name": "Matt Rodda",
+   "party": "Lab",
+   "seat": "Reading Central"
+  },
+  {
+   "who": "Layla Moran (Oxford West and Abingdon) (LD)",
+   "member_id": 4656,
+   "type": "Contribution",
+   "text": "I thank you for chairing the debate, Mrs Hobhouse, and congratulate my constituency neighbour, my hon. Friend the Member for Didcot and Wantage (Olly Glover), on securing it. I am the MP for the dreaming spires. If we think Oxford, we think Headington stone and copper roofs and bicycles everywhere; indeed, 20% of people in Oxford commute to work by bike. I am also proud to be the MP for the No. 1 school in the country for cycling to school, Cherwell school in north Oxford: 58% of the students cycle and only 11% get there by car. In part, that is facilitated by an incredibly popular segregated cycle lane that runs all along the road towards the school, but many parents will point out that the cycle lane is at the very end of the commute to school, and there are no segregated cycle lanes all the way up the Banbury Road and the Woodstock Road. There was a plan for the Woodstock Road and a plan to look at feasibility on the Banbury Road, but the Labour city council decided that it wanted instead to spend the money on what local people call the vanity bridge to nowhere, elsewhere in Oxford. That was a crying shame, because the return on investment of segregated cycle lanes is not to be ",
+   "name": "Layla Moran",
+   "party": "LD",
+   "seat": "Oxford West and Abingdon"
+  },
+  {
+   "who": "Wera Hobhouse (in the Chair)",
+   "member_id": 4602,
+   "type": "Contribution",
+   "text": "I will impose a one-minute limit on speeches now, so that we can get as many in as possible.",
+   "name": "Wera Hobhouse",
+   "role": "Chair"
+  },
+  {
+   "who": "Steve Yemm (Mansfield) (Lab)",
+   "member_id": 5194,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mrs Hobhouse. There are 33 MPs sat in this room participating in this very important debate. The same number of children aged seven and under are killed or seriously injured on our roads every three weeks. That shows the importance of the debate, and I know that Members from across the House will want to do everything they can to change that statistic. The main point that I want to make in the seconds that I have left is that it is up to us and our communities to make sure that we always think creatively to help alleviate traffic problems. That needs to be part of the mix, including for formal traffic calming measures. We should not wait for a tragedy to force us to take action. I look forward to hearing what the Minister feels she can do to support the work that communities like mine are doing.",
+   "name": "Steve Yemm",
+   "party": "Lab",
+   "seat": "Mansfield"
+  },
+  {
+   "who": "Steff Aquarone (North Norfolk) (LD)",
+   "member_id": 5164,
+   "type": "Contribution",
+   "text": "There are so many ridiculous things about modern housing developments, but chief among them is the fact that they are still designed around car usage as the primary mode of transport. An obsession with winding roads to the depths of rabbit-warren estates will never encourage people to use active travel. Instead, we need to build new housing developments with cycle lanes, footpaths and green corridors at their heart. Current planning legislation gives precious little power to planners when facing the greed and legal appetite of property developers, but we cannot carry on building houses people cannot afford, with designs that are making people unhealthy, car-dependent and isolated. We can ingrain the same walking and cycling culture that my North Norfolk villages have developed over decades for the homes, families and children of the future. The question is, will the Government legislate to make it possible?",
+   "name": "Steff Aquarone",
+   "party": "LD",
+   "seat": "North Norfolk"
+  },
+  {
+   "who": "Alex Mayer (Dunstable and Leighton Buzzard) (Lab)",
+   "member_id": 5141,
+   "type": "Contribution",
+   "text": "I think everyone in this room agrees that walking and cycling are good; they are good for health, for the environment and for young people’s social skills. I also think they are a selling point for people trying to sell houses. In my constituency, there is a development called Bidwell West. For the last decade, there have been pretty pictures of children cycling to a local school, only that school has not yet been built, which is a bit of a problem. Children have to go a mile and a half away, on a completely and utterly unsuitable road, with a lack of footpaths—there are footpaths, but they have to cross from one side of the road to the other—water running off the nearby fields and a lack of street lighting, because it was not built for that. My question to the Minister is: how do we make sure that this does not happen as we build more houses, which we desperately need?",
+   "name": "Alex Mayer",
+   "party": "Lab",
+   "seat": "Dunstable and Leighton Buzzard"
+  },
+  {
+   "who": "Marie Goldman (Chelmsford) (LD)",
+   "member_id": 5073,
+   "type": "Contribution",
+   "text": "It is genuine pleasure to serve under your chairship, Mrs Hobhouse. I thank my hon. Friend the Member for Didcot and Wantage (Olly Glover) for securing this important debate. We are very short on time, so I just want to shout out a charity that has been doing excellent work for nearly 100 years. It is called Living Streets, although it used to be known by different names, and it has been encouraging walking, cycling and active travel for a really long time. I recently had the pleasure of walking around the streets of my constituency with people from the charity to see the challenges that people who are trying to walk, cycle and wheel are facing, which we have talked about, such as pavement parking and potholes not just in the roads, but on the pavements. There are pedestrian railings and barriers by pedestrian crossings that have been damaged. A car mounted and damaged a pedestrian barrier very close to where I live about two years ago, and Essex county council has failed to replace the barrier, despite being told about it many times. There is so much that we can do. We should take the example of Switzerland, where children as young as four walk to school by themselves every day. I",
+   "name": "Marie Goldman",
+   "party": "LD",
+   "seat": "Chelmsford"
+  },
+  {
+   "who": "Andrew Cooper (Mid Cheshire) (Lab)",
+   "member_id": 5195,
+   "type": "Contribution",
+   "text": "It is a pleasure to see you in the Chair, Mrs Hobhouse. I will make three points. Affordability can be a barrier to children taking up active travel to school. We have a great local charity in my constituency called Changing Lives Together, which runs a scheme called ReCycles. The scheme, which was launched last year, saves bikes from going to waste by refurbishing and reusing them, and taking old donated bikes to do so. It has have saved about 220 bikes to date. I hope that we can encourage that type of scheme nationally to allow people to overcome the affordability barrier. On infrastructure, we need a cultural shift in how we plan and think about development. Section 106 agreements need to give greater consideration to active travel routes to ensure that new developments do not just provide homes, but create safe environments for children to travel to school. Finally, we should take the opportunity afforded by the curriculum and assessment review to embed cycling and active travel in our education system. Just as swimming has been part of the curriculum since 1994, Bikeability level 2 at key stage 2 would equip children with the skills and confidence needed to cycle safely.",
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire"
+  },
+  {
+   "who": "Rachael Maskell (York Central) (Lab/Co-op)",
+   "member_id": 4471,
+   "type": "Contribution",
+   "text": "To incentivise walking, wheeling and cycling, and to form habits, we need to invest in capital and revenue infrastructure, skills development and, above all, ambition—not least because half the number of girls as boys travel to school by bike. With Active Travel England in the heart of my constituency, I recognise the importance of that. We need to ensure there is safe space around schools, as we have heard; that we slow traffic, as with Acomb primary school and Acomb Road; and that we stop the chaos outside schools, as with Our Lady Queen of Martyrs school on Hamilton Drive. We also need to ensure that school travel plans are active in driving the ambition that every family should be engaged in active travel. I ask the Minister to review that, and to encourage simple measures—as Chris Boardman says, we should use paint and plastic before the hard-wired infrastructure.",
+   "name": "Rachael Maskell",
+   "party": "Lab/Co-op",
+   "seat": "York Central"
+  },
+  {
+   "who": "Wera Hobhouse (in the Chair)",
+   "member_id": 4602,
+   "type": "Contribution",
+   "text": "I am sorry, but I will have to stop Back-Bench contributions here. Members have been incredibly good at sticking to a very tight time limit. I call the Liberal Democrat spokesperson.",
+   "name": "Wera Hobhouse",
+   "role": "Chair"
+  },
+  {
+   "who": "Mr Paul Kohler (Wimbledon) (LD)",
+   "member_id": 5321,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Mrs Hobhouse. I congratulate my hon. Friend the Member for Didcot and Wantage (Olly Glover) on securing the debate. His opening speech was thoughtful, and the speeches of so many Members from across the House were heartfelt and often heart-rending. As Members from across the House have made clear, children across the country should feel safe when attending school, and parents, teachers and children should feel confident in cycling or walking to school. In many cases, however, that is very difficult. We know that walking and cycling to school brings huge benefits to children’s health—both physical and mental—and to the environment and the wider community, yet fewer children are doing it. As my hon. Friend the Member for Didcot and Wantage made clear, in 1975 around two thirds of children walked or cycled to school, but today that figure is under 50%, with just 3% cycling. The decline is not inevitable. In fact, many studies have shown that schools, parents and children themselves would like the ability to walk or cycle to school, but many barriers remain. Road safety around schools remains a key issue. Last year, 64 children under 16 w",
+   "name": "Mr Kohler",
+   "party": "LD",
+   "seat": "Wimbledon"
+  },
+  {
+   "who": "Lisa Smart (Hazel Grove) (LD)",
+   "member_id": 5070,
+   "type": "Contribution",
+   "text": "I add my voice to my hon. Friend’s call for the Government to get on with updating the road safety strategy. At the moment, they are suggesting that local communities must wait for three serious accidents or deaths for a fixed speed camera to be installed. Does he agree that we should shift the thinking, look at fixed speed cameras more as a preventive than a punitive tool, and update the guidance accordingly?",
+   "name": "Lisa Smart",
+   "party": "LD",
+   "seat": "Hazel Grove"
+  },
+  {
+   "who": "Mr Kohler",
+   "member_id": 5321,
+   "type": "Contribution",
+   "text": "My hon. Friend is absolutely right that we must be proactive, and not reactive to death. We must anticipate accidents and do something before they happen. The strategy must prioritise children and active travel, and draw lessons from past successes, including the road safety plan of the year 2000, which had a transformative impact and helped halve fatalities in just a decade. The lack of specific active travel infrastructure is linked to that. We must continue to improve the provision of safe cycling and walking routes across our communities. We must improve parents’ and schools’ confidence in children using active travel to get to school. Research from Cycling UK shows that the appetite is there. In rural areas such as Devon, 84% of people support more walking and cycling, but more than 80% feel that their local roads are unsafe. When the Department for Transport asked families what would help children walk to school, the most common answers were safer roads and safe crossing points. Improving the provision of designated routes, safer crossings and better lighting is vital to improving active travel. The Government must also properly invest in cycling and walking infrastructure, a",
+   "name": "Mr Kohler",
+   "party": "LD",
+   "seat": "Wimbledon"
+  },
+  {
+   "who": "Anna Dixon (Shipley) (Lab)",
+   "member_id": 5281,
+   "type": "Contribution",
+   "text": "Does the hon. Gentleman agree that schemes such as the Great Northern Railway trail, which provides a secure, segregated green cycleway and walkway linking towns, villages and local schools, are where active travel investment should be prioritised? As the hon. Member for Didcot and Wantage (Olly Glover) mentioned, we must ensure that planning regulations make greenways much easier to install.",
+   "name": "Anna Dixon",
+   "party": "Lab",
+   "seat": "Shipley"
+  },
+  {
+   "who": "Mr Kohler",
+   "member_id": 5321,
+   "type": "Contribution",
+   "text": "I totally agree: that is exactly the type of thing that we must prioritise. Yes, money is tight, but we must spend it where it will be most effective. We must integrate active travel infrastructure with public transport and key community sites, including schools. As my hon. Friend the Member for Didcot and Wantage and others made clear, it is key that we improve cycle training for everyone, including young people. We must give all children access to cycle training, which will teach them the skills they need to be confident at cycling. That will not only get them into habits that will last a lifetime, but will save lives. As we have heard repeatedly, Bikeability training is shown to lower fatalities and serious injuries on the road. Those improvements must also come from working with communities and parents. Although there are parents who drive their children to school—",
+   "name": "Mr Kohler",
+   "party": "LD",
+   "seat": "Wimbledon"
+  },
+  {
+   "who": "Wera Hobhouse (in the Chair)",
+   "member_id": 4602,
+   "type": "Contribution",
+   "text": "Order. Will the hon. Gentleman bring his remarks quickly to a close?",
+   "name": "Wera Hobhouse",
+   "role": "Chair"
+  },
+  {
+   "who": "Mr Kohler",
+   "member_id": 5321,
+   "type": "Contribution",
+   "text": "I will. In conclusion, this is about more than roads; it is about the kind of communities that we want to build. Let us work together to improve active travel for our children and our adults.",
+   "name": "Mr Kohler",
+   "party": "LD",
+   "seat": "Wimbledon"
+  },
+  {
+   "who": "Greg Smith (Mid Buckinghamshire) (Con)",
+   "member_id": 4778,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship this afternoon, Mrs Hobhouse. I congratulate the hon. Member for Didcot and Wantage—and possibly for the Netherlands—(Olly Glover) on securing this important debate. In just an hour of Westminster Hall, we have had many contributions, far more than normal, including from the hon. Member for Brentford and Isleworth (Ruth Cadbury), who I served on the Transport Committee with in the last Parliament, and who of course now chairs that Committee, and from the hon. Members for Melksham and Devizes (Brian Mathew), for Shrewsbury (Julia Buckley), for Rossendale and Darwen (Andy MacNae), for South Devon (Caroline Voaden), for Cannock Chase (Josh Newbury), for Honiton and Sidmouth (Richard Foord), for Reading Central (Matt Rodda), for Oxford West and Abingdon (Layla Moran), for Mansfield (Steve Yemm), for North Norfolk (Steff Aquarone), for Dunstable and Leighton Buzzard (Alex Mayer), for Chelmsford (Marie Goldman), for Mid Cheshire (Andrew Cooper), for York Central (Rachael Maskell) and, of course, my constituency neighbour the hon. Member for Henley and Thame (Freddie van Mierlo). I saved that one for last because the hon. Member for Henley",
+   "name": "Greg Smith",
+   "party": "Con",
+   "seat": "Mid Buckinghamshire"
+  },
+  {
+   "who": "Joe Morris (Hexham) (Lab)",
+   "member_id": 5081,
+   "type": "Contribution",
+   "text": "I hope the Opposition spokesperson can do me a favour: a charity in my constituency headed by David Dixon, the bicycle mayor for Tynedale, and supported by No. 28 Community House in Hexham, is trying to get Northumberland county council to support a pretty innovative cycle to school initiative in Hexham. However, it is falling on deaf ears with the Tory group in Northumberland County Hall. Could the hon. Gentleman possibly have a word with some of his colleagues there?",
+   "name": "Joe Morris",
+   "party": "Lab",
+   "seat": "Hexham"
+  },
+  {
+   "who": "Greg Smith",
+   "member_id": 4778,
+   "type": "Contribution",
+   "text": "I think I am grateful for that intervention. I am not sure whether I have any contacts in the Conservative group on the hon. Gentleman’s council, but I will gladly see if I can get that message passed to them. In the limited time we have available, I would like the Minister, when she sums up, to consider a few practical points about how we might start making this problem better. I will start with getting the basics right. When I drop my middle child to school—a rural primary school in a village—I watch a particular taxi driver pull up on the zig-zag lines every single morning. The dirty look I give him does not appear to be doing very well in stopping that behaviour. If we cannot enforce the basic rules that we already have outside schools, what hope do we have of making it better? I ask the Minister to reflect on how we can better enforce those rules and implement the important points that many hon. Members made about yellow line parking and pavement parking. I also ask her to consider the physical infrastructure near schools, such as narrowing sight lines, which force drivers to slow down; there is a lot of evidence out there about those and other physical infrastructure such as ",
+   "name": "Greg Smith",
+   "party": "Con",
+   "seat": "Mid Buckinghamshire"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Transport (Lilian Greenwood)",
+   "member_id": 4029,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship this afternoon, Mrs Hobhouse. I congratulate the hon. Member for Didcot and Wantage (Olly Glover) on securing this debate and on his compelling arguments for more active travel and for improving road safety. We heard from 23 hon. Members—probably more, if we include the recent interventions—and I value their contributions to the debate. I cannot possibly answer all the issues raised, but I welcome the support for further action on these issues. I am responding as the Minister responsible for road safety. I share the hon. Gentleman’s ambitions for active travel. Whether it is walking, wheeling or cycling, it is positive to see more of it. I am sure we have all seen how much quieter the roads are during the school holidays. That is a visible reminder of how many children are being driven to school and how much less congestion there could be if more people felt able to walk or cycle their children to school—or to let their children walk or cycle to school themselves, as perhaps some of us did when we were young. Transport is at the heart of our mission-driven Government, and active travel is one of the strongest interventions that we c",
+   "name": "Lilian Greenwood",
+   "role": "The Parliamentary Under-Secretary of State for Transport"
+  },
+  {
+   "who": "Deirdre Costigan (Ealing Southall) (Lab)",
+   "member_id": 5075,
+   "type": "Contribution",
+   "text": "Labour-run Ealing council has introduced 41 school streets across the borough, which has caused a 29% increase in children walking and cycling to school and taken one in five cars off the road in terms of school runs. Will the Minister look at that sort of evidence when she is coming to her road safety strategy, and will she consider visiting constituencies such as mine to see the success of Ealing Labour’s programme?",
+   "name": "Deirdre Costigan",
+   "party": "Lab",
+   "seat": "Ealing Southall"
+  },
+  {
+   "who": "Lilian Greenwood",
+   "member_id": 4029,
+   "type": "Contribution",
+   "text": "My hon. Friend highlights the fantastic work that many local authorities are doing, and I welcome the evidence that she shared. Since Active Travel England was created, we have seen a fivefold improvement in schemes meeting minimum quality standards, ensuring that what is being built is of a higher quality, enhancing safety and increasing uptake while reducing collisions. That represents a significant improvement, considering that 70% of people cite safety as the main barrier preventing them from walking, wheeling or cycling. The work of Active Travel England is key to delivering high quality and value for money improvements to our roads and the public realm. That includes rural areas. As a number of hon. Members rightly highlighted, this is about not only safety, but extending opportunities for young people and others who cannot or do not want to drive. As part of its role, Active Travel England is improving connections with new housing developments. That is vital for places experiencing housing growth, as a number of hon. Members mentioned. Where roads and public services, including new schools or health centres, are being built, it should be the perfect opportunity to build in a",
+   "name": "Lilian Greenwood",
+   "role": "The Parliamentary Under-Secretary of State for Transport"
+  },
+  {
+   "who": "Richard Foord",
+   "member_id": 4942,
+   "type": "Contribution",
+   "text": "Will the Minister give way?",
+   "name": "Richard Foord",
+   "party": "LD",
+   "seat": "Honiton and Sidmouth"
+  },
+  {
+   "who": "Lilian Greenwood",
+   "member_id": 4029,
+   "type": "Contribution",
+   "text": "I will not, because I am very conscious of the time. If we want to encourage modal shift and improve health through transport, we absolutely must improve safety on the roads. People will only change their travel behaviour if they feel that it is safe for them and their families. As has been mentioned repeatedly, too many people, including children, are killed and seriously injured on our roads. That is precisely why this Government, alongside investing in active travel, are developing the first road safety strategy in more than a decade. I wholeheartedly agree that we can and should do better than a decade of stagnation when it comes to road deaths. The Department is considering a variety of road safety measures for inclusion. As we develop the strategy, I am committed to continuing to engage with hon. Members, stakeholders and road safety organisations. I very much welcome the many suggestions made this evening, and I look forward to publishing the strategy in due course—I hope that that will be sooner rather than later. One issue often mentioned by members of the public that can have a significant impact on the school run, and in particular on more vulnerable road users, is pavem",
+   "name": "Lilian Greenwood",
+   "role": "The Parliamentary Under-Secretary of State for Transport"
+  },
+  {
+   "who": "Tom Hayes (Bournemouth East) (Lab)",
+   "member_id": 5210,
+   "type": "Contribution",
+   "text": "Cycling is great for young lungs and kind to the environment. Will the Minister join me in commending Avonbourne boys’ and girls’ academies, Avonwood primary school and King’s Park academy in Bournemouth East for their fantastic work in spotting cycling infrastructure opportunities and getting them built?",
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East"
+  },
+  {
+   "who": "Lilian Greenwood",
+   "member_id": 4029,
+   "type": "Contribution",
+   "text": "I am delighted to recognise that fantastic work. Giving children the opportunity to walk, wheel or cycle to school is fundamental to their development and, as many people have said, builds good habits from an early age. When a quarter of children leaving primary school are overweight and 40% of primary school children are being driven to school, now is the time to provide healthier alternatives. A number of hon. Members talked about school streets. Active Travel England recently published guidance that will assist local authorities in planning, developing and implementing school streets. As a direct result of its funding, 180 school streets have been developed, and of course there are many more. They are a great opportunity, and the benefits speak for themselves: cleaner air, fewer cars, less congestion, improved physical and mental health, and of course safer roads. I would love to mention the school streets trial in Hackney, which has provided fantastic evidence; my hon. Friend the Member for Brentford and Isleworth (Ruth Cadbury), the Chair of the Select Committee, talked about the evidence from Hounslow, and we also heard about Ealing. Alongside school streets, Active Travel En",
+   "name": "Lilian Greenwood",
+   "role": "The Parliamentary Under-Secretary of State for Transport"
+  }
+ ],
+ "fetched": "2026-10-21T20:25:52Z"
+}

@@ -1,0 +1,65 @@
+{
+ "ext_id": "4B78B768-53DE-4D6F-811B-68C748F036DC",
+ "date": "2025-12-04",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Digital Exclusion",
+ "parents": [
+  "Commons Chamber",
+  "Oral Answers to Questions",
+  "Cabinet Office"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2025-12-04/debates/4B78B768-53DE-4D6F-811B-68C748F036DC/DigitalExclusion",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove",
+   "member_id": 5186
+  },
+  {
+   "name": "The Parliamentary Secretary, Cabinet Office",
+   "seat": "Josh Simons",
+   "member_id": 5060
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Bradley Thomas (Bromsgrove) (Con)",
+   "member_id": 5186,
+   "type": "Contribution",
+   "text": "15. What assessment his Department has made of the potential impact of digital ID on levels of digital exclusion.",
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove"
+  },
+  {
+   "who": "The Parliamentary Secretary, Cabinet Office (Josh Simons)",
+   "member_id": 5060,
+   "type": "Contribution",
+   "text": "In this country, at present millions of people cannot access public services online, and millions lack the IDs that they need to go about their daily lives. That is the status quo, and we will not accept it. That is why we are introducing a new national digital credential, free for everyone over 16, that will be inclusive, secure and useful. This will involve a massive digital inclusion drive to ensure that the system works for everyone, including those who do not have smartphones, are elderly or are less digitally confident, so that everyone will benefit from simpler, safer and more secure access to public services.",
+   "name": "The Parliamentary Secretary, Cabinet Office",
+   "seat": "Josh Simons"
+  },
+  {
+   "who": "Bradley Thomas",
+   "member_id": 5186,
+   "type": "Contribution",
+   "text": "I thank the Minister for his scripted answer. Digital ID is a terrible idea. If the Government are going to pursue it, what assurances can he give me, in a tiny bit of detail, about what the Government will do to ensure that people are not, through a lack of technological skills or financial exclusion, disadvantaged in accessing Government services?",
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove"
+  },
+  {
+   "who": "Josh Simons",
+   "member_id": 5060,
+   "type": "Contribution",
+   "text": "Let me be clear about the status quo that the Conservative party left behind: millions of people right now are digitally excluded from accessing public services, and millions of people lack the identity credentials that they need to access them. We will not accept that. We will make sure that post offices, libraries and a whole range of physical places in the communities where people live can be used to access this new digital credential, getting people online who were left behind by the last Government.",
+   "name": "The Parliamentary Secretary, Cabinet Office",
+   "seat": "Josh Simons"
+  }
+ ],
+ "fetched": "2026-10-21T20:27:37Z"
+}

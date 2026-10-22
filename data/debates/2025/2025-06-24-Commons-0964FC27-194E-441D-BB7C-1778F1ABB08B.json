@@ -1,0 +1,682 @@
+{
+ "ext_id": "0964FC27-194E-441D-BB7C-1778F1ABB08B",
+ "date": "2025-06-24",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Department for Education",
+ "parents": [
+  "Commons Chamber"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2025-06-24/debates/0964FC27-194E-441D-BB7C-1778F1ABB08B/DepartmentForEducation",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 4391
+  },
+  {
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood",
+   "member_id": 4510
+  },
+  {
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow",
+   "member_id": 5237
+  },
+  {
+   "name": "Rachael Maskell",
+   "party": "Lab/Co-op",
+   "seat": "York Central",
+   "member_id": 4471
+  },
+  {
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire",
+   "member_id": 3969
+  },
+  {
+   "name": "Mr Richard Holden",
+   "party": "Con",
+   "seat": "Basildon and Billericay",
+   "member_id": 4813
+  },
+  {
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North",
+   "member_id": 5294
+  },
+  {
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards",
+   "member_id": 4125
+  },
+  {
+   "name": "Daniel Francis",
+   "party": "Lab",
+   "seat": "Bexleyheath and Crayford",
+   "member_id": 5184
+  },
+  {
+   "name": "Adam Dance",
+   "party": "LD",
+   "seat": "Yeovil",
+   "member_id": 5191
+  },
+  {
+   "name": "Dr Al Pinkerton",
+   "party": "LD",
+   "seat": "Surrey Heath",
+   "member_id": 5288
+  },
+  {
+   "name": "Tim Roca",
+   "party": "Lab",
+   "seat": "Macclesfield",
+   "member_id": 5287
+  },
+  {
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire",
+   "member_id": 5096
+  },
+  {
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East",
+   "member_id": 5152
+  },
+  {
+   "name": "Rachel Gilmour",
+   "party": "LD",
+   "seat": "Tiverton and Minehead",
+   "member_id": 5252
+  },
+  {
+   "name": "Edward Morello",
+   "party": "LD",
+   "seat": "West Dorset",
+   "member_id": 5326
+  },
+  {
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell",
+   "member_id": 5165
+  },
+  {
+   "name": "James MacCleary",
+   "party": "LD",
+   "seat": "Lewes",
+   "member_id": 5265
+  },
+  {
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock",
+   "member_id": 5056
+  },
+  {
+   "name": "Rebecca Smith",
+   "party": "Con",
+   "seat": "South West Devon",
+   "member_id": 5301
+  },
+  {
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness",
+   "member_id": 1482
+  },
+  {
+   "name": "Mr Deputy Speaker",
+   "seat": "Sir Roger Gale",
+   "member_id": 87
+  },
+  {
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate",
+   "member_id": 5140
+  },
+  {
+   "name": "Helen Maguire",
+   "party": "LD",
+   "seat": "Epsom and Ewell",
+   "member_id": 5336
+  },
+  {
+   "name": "Sarah Smith",
+   "party": "Lab",
+   "seat": "Hyndburn",
+   "member_id": 5117
+  },
+  {
+   "name": "Liz Jarvis",
+   "party": "LD",
+   "seat": "Eastleigh",
+   "member_id": 5040
+  },
+  {
+   "name": "Cameron Thomas",
+   "party": "LD",
+   "seat": "Tewkesbury",
+   "member_id": 5354
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston",
+   "member_id": 4679
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "I call the Chair of the Education Committee.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Helen Hayes (Dulwich and West Norwood) (Lab)",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "I rise to address the House on the Department for Education’s main estimate for 2025-26. I thank the Liaison Committee and the Backbench Business Committee for allocating time for this debate this afternoon; it is an important opportunity to scrutinise the Government’s spending plans, which must deliver for every child, young person and family. Education is the bedrock of opportunity, social mobility and economic growth. The Government inherited a situation in which almost every aspect of the Department for Education’s areas of responsibility faced severe challenges, from the financial pressures on early years providers to the erosion of school budgets and teacher pay, the crisis in the special educational needs and disabilities system, underfunding of further education and skills and a total reset needed in children’s social care.",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Chris Vince (Harlow) (Lab/Co-op)",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "My hon. Friend is giving a really important speech on a subject that is very dear to my heart, as everyone in the House knows. Will she add to her list the huge issues that we inherited with school buildings? As a former teacher—I have mentioned that a few times—I know that the learning environment is really important. We inherited a real issue with reinforced autoclaved aerated concrete, for example, but there have also been other issues, such as those faced by Sir Frederick Gibberd college in my constituency.",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Helen Hayes",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "My hon. Friend makes an important point about the state of the school estate. The final area of challenge is that many universities face a risk of insolvency. At the heart of all the Department’s responsibilities are individual children and young people who need and are entitled to the best possible start in life, secure foundations, a great education and every opportunity to grow into active citizens with successful careers and a good quality of life. The challenges in our education and social care systems can be seen in the outcomes for children and young people, with rising numbers of children not meeting the early learning goals when they start school, growing disadvantage gaps at all stages of education, very poor outcomes for care-experienced young people, rising levels of school absence and far too many children with special educational needs and disabilities not receiving the support that they need to thrive in education. I will speak to the estimates across five key spending areas—SEND, children’s social care, early years, skills, and higher education—drawing on the Education Committee’s ongoing inquiries to ensure that these funds meet the urgent needs of our communities.",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Rachael Maskell (York Central) (Lab/Co-op)",
+   "member_id": 4471,
+   "type": "Contribution",
+   "text": "I am really grateful for the work of the Education Committee, which is excellently chaired by my hon. Friend. Does she agree that cutting the value of grants to families from the adoption and special guardianship support fund will put more pressure on children’s social care and leave children without the vital support they need?",
+   "name": "Rachael Maskell",
+   "party": "Lab/Co-op",
+   "seat": "York Central"
+  },
+  {
+   "who": "Helen Hayes",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for her important work in this area. I agree that the cuts made to the adoption and special guardianship support fund have caused great alarm across the adoption, special guardianship and kinship care community. It is important that in reviewing that funding, the Government look at how effective support for adoptive families can be provided across both health and education, and look to give families confidence that the support they rely on and that is needed can be delivered. We know that in the past, adoptive families have not always been able to access the support they need, so I agree with my hon. Friend that this is an urgent and important consideration. I call on the Government today to provide a clearer analysis of the funding that is needed for children’s social care, as well as plans to bridge the gap between the funding that has been announced to date and the £2.6 billion prescribed by the independent review, so that preventive services that keep families together can be prioritised. Turning to early years education, the expansion to 30 hours of funded childcare for under-fives from September 2025 is transformative. The main estimate allocates £8.48 ",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "This debate is a very important opportunity to discuss the upcoming cuts in the Department for Education. We know from the estimates document that overall resource departmental expenditure limits are coming down. We are told that that is largely a technical change as a result of changes to the student loan book, but I have to say that these are rather large numbers to come from such technical changes. From the comprehensive spending review document, we know that like other Departments, the Department for Education has agreed to 5% in savings and efficiencies. What that document does not explain, however, is 5% of what. Presumably, it is not 5% of the entirety of the DFE’s budget, because the DFE is different from many other Departments in that so much of its spend goes directly to schools, colleges and early years settings providing for children. According to the estimates, the DFE’s admin spend is actually increasing. Part of that, of course—in line with so many other private and public sector organisations across the country—is the extra costs imposed by the increase in national insurance contributions, so what are those efficiencies? I hope the Minister will be able to tell us t",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Mr Richard Holden (Basildon and Billericay) (Con)",
+   "member_id": 4813,
+   "type": "Contribution",
+   "text": "In the past few days, a headteacher in my constituency has told me that their school’s funding is going down significantly in real terms this year. They say that they are now looking at a crisis, with potential staff cuts coming. On top of that, I have heard local providers of early years education saying that they are being even more punitively hit, because private sector providers receive no support with national insurance. Does my right hon. Friend agree that, for a Labour Government who came in promising to do so much for education, our children are actually seeing very little?",
+   "name": "Mr Richard Holden",
+   "party": "Con",
+   "seat": "Basildon and Billericay"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "My right hon. Friend makes powerful points, including about the additional unfunded cost pressures for nursery providers—of course, that argument also extends to regular state-funded schools. The one thing I might quibble with is his statement that this Labour Government came in promising to do so much for education. Actually, the Labour manifesto was rather light on commitments on education. The biggest ones were, first of all, the commitment to roll out mental health support teams to cover all schools in the country. On closer examination, that commitment turns out to be not just similar to, but identical to, the policy of the previous Government, which was to roll out mental health support teams to cover all schools in the country. The second high-profile commitment was about breakfast clubs. The maths on breakfast clubs are something of a mystery to me, because I have heard Ministers repeatedly say that having a breakfast club is going to save parents £450 a year, but they are reimbursing schools £150 a year. Where is the rest of that money supposed to come from? It is also true that some schools—including some in my constituency—already have a breakfast club that is charged at",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Amanda Martin (Portsmouth North) (Lab)",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "A rise in the number of independent schools.",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "The most recent figures—the Government’s own figures—show a fall of 11,000 in the number of children at independent schools. Of course, the number of teachers in the state sector is not going up in this country; it is coming down. The Government have tried to have this every possible way. There is a line in their manifesto that is very clear—it comes up more than once. It says that Labour is going to recruit “6,500 new expert teachers in key subjects”. When asked repeatedly what key subjects they had in mind, they refused to say. Eventually they said that these teachers will be recruited—I think am I quoting this correctly, but if not absolutely accurately then pretty close—from schools and colleges across the country. Then some numbers came out showing that the number of teachers in primary schools had gone down. Funnily enough, the target was then redefined so that it did not include primary school teachers; it would include only secondary school teachers. That brings us back to this question: if it is only secondary schools, where teachers have specialist subjects, what are the key subjects that will count towards this number? If the Government just meant any subject, the word “",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "The Minister for School Standards (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "indicated dissent.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "No? If the Government simply mean teachers with qualified teacher status, then I gently remind the Minister of something we covered in Bill Committee, which some colleagues might recall. The number of teachers today who do not have qualified teacher status is 3.1%, which does not sound all that high. What do colleagues suppose it was in May 2010, the previous time that there was a change of Government? The answer is 3.2%. So the number of teachers without qualified teacher status has hardly changed, and to the extent that it has, it has slightly gone down. We know that other RDEL—revenue spending, effectively—is going up, but it has to cover an awful lot. There is £1 billion-plus in national insurance contribution costs. We know from reports from teachers and headteachers in the sector press that shortfalls in the range of 10% to 35% are being reported. School suppliers are also facing higher national insurance contributions, which will also have a knock-on effect on the cost of other services into those schools. Schools are also picking up the cost of breakfast clubs, and there is an extension in free school meals eligibility and so on. Overall, if we look at the detail in the est",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "I am going to start with an immediate four-minute time limit.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Daniel Francis (Bexleyheath and Crayford) (Lab)",
+   "member_id": 5184,
+   "type": "Contribution",
+   "text": "It is a pleasure to speak in this estimates day debate. I will first declare my usual interest, as my wife is employed as a special educational needs co-ordinator in our local authority in the London borough of Bexley. I will start with three points about the impact on my constituency. First, I welcome the condition improvement funding, which will see investment in Fairford academy in Barnehurst, Peareswood primary school in Slade Green and Townley grammar school in Bexleyheath. Two specific Department for Education-led issues impact on my Conservative-controlled local authority in the London borough of Bexley. I was pleased to see in its recent representation that my council welcomes the “fix the market” pillar in the Children’s Wellbeing and Schools Bill. It had the highest overspend of any local authority in London for children’s social care in the previous financial year. My local authority welcomes that move in the Bill, because it wants the market for children’s service placements to be not-for-profit, as seen in Scotland and Wales. Will the Minister comment on departmental funding for social care settings and how the measures being brought forward in the Bill can help local ",
+   "name": "Daniel Francis",
+   "party": "Lab",
+   "seat": "Bexleyheath and Crayford"
+  },
+  {
+   "who": "Adam Dance (Yeovil) (LD)",
+   "member_id": 5191,
+   "type": "Contribution",
+   "text": "I welcome the investment for our teachers, school buildings, free school meals and SEND support, but I remain concerned about SEND provision in Somerset. I know from personal experience and from listening to constituents just how much of a difference giving SEND children the support they need can make. Teachers go above and beyond to give children in their classes the education they deserve, but we have a SEND system in crisis. It feels like we have gone backwards from when I was at school, which is, I am sorry to say, thanks to the cuts made under the previous Conservative Government over many years. As in so many other areas of life, parents in Yeovil are often left with a losing draw in a postcode lottery, waiting months to get the support their children deserve. There are two really effective ways that the Department can invest its budget to improve the outcome for SEND children at school. The backlog for education, health and care plans is too high in Somerset, and it is of course right that Somerset council receives more money to urgently support EHCP provision, but not every SEND child needs an EHCP for support. Instead, we urgently need universal screening for neurodiverse ",
+   "name": "Adam Dance",
+   "party": "LD",
+   "seat": "Yeovil"
+  },
+  {
+   "who": "Dr Al Pinkerton (Surrey Heath) (LD)",
+   "member_id": 5288,
+   "type": "Contribution",
+   "text": "I speak to lots of special educational needs co-ordinators in many schools in and around my constituency, and they always tell me that the earlier the diagnosis, the better, and the more a child can be put on a path towards effective learning. Does my hon. Friend regret, as I do, the loss of Sure Start centres, which were one of the very best ways of identifying those learning conditions as early as possible?",
+   "name": "Dr Al Pinkerton",
+   "party": "LD",
+   "seat": "Surrey Heath"
+  },
+  {
+   "who": "Adam Dance",
+   "member_id": 5191,
+   "type": "Contribution",
+   "text": "I totally agree. It is sorry to see that so many of those centres have gone, and we need to invest more. The earlier that children’s needs are identified and supported, the more likely they are to succeed. Researchers, for instance at University College London, have already developed a screener that goes far beyond the current phonics screening, and it is really cost-effective. I hope that the Government’s schools White Paper, which is due in the autumn, will set out a plan for rolling out such screeners across schools. Once children’s needs have been identified at school, we need to ensure that our teachers are fully equipped to help. That is why we urgently need better internal teacher training and continuous professional development for teachers and other education professionals, including teaching assistants and senior staff. We must also ensure that SENCOs are represented on senior leadership teams, and are given dedicated time to do their work properly. I hope that the Minister or the Secretary of State will update us on the progress made on teacher training, and tell us when we can expect those teachers to be rolled out. There can be no better investment in the future of our",
+   "name": "Adam Dance",
+   "party": "LD",
+   "seat": "Yeovil"
+  },
+  {
+   "who": "Tim Roca (Macclesfield) (Lab)",
+   "member_id": 5287,
+   "type": "Contribution",
+   "text": "I pay tribute to the hon. Member for Yeovil (Adam Dance) for sharing that traumatic experience with us, and to the bravery that it must have taken. I also pay tribute to teachers in my constituency. I met secondary heads just before Christmas, and will meet all our primary school heads together in the coming month. I am proud that there is so much to welcome in this estimate. I particularly welcome the capital investment in schools across the country, which I think presents a dual opportunity—not just an opportunity to rebuild the crumbling schools that were left to us by our Tory predecessors, but an opportunity to invest to make them greener, so that increased energy efficiency can save money and reduce school bills. I welcome the extra £1 billion to reform and enhance special educational needs and disabilities provision, and I look forward to more announcements about SEND—I share some of the concerns mentioned by my hon. Friend the Member for Bexleyheath and Crayford (Daniel Francis). I welcome the investment in further education and apprenticeships, and the breakfast club funding. I congratulate the Ministers, because this means that children will stop going to school hungry an",
+   "name": "Tim Roca",
+   "party": "Lab",
+   "seat": "Macclesfield"
+  },
+  {
+   "who": "Ian Sollom (St Neots and Mid Cambridgeshire) (LD)",
+   "member_id": 5096,
+   "type": "Contribution",
+   "text": "The Government have set themselves an ambitious and welcome growth mission, with targets including an 80% employment rate and support for 65,000 additional learners a year by 2028-29. However, some of the decisions made of late somewhat undermine those objectives. Along with Liberal Democrat colleagues, I recently wrote to the Government expressing grave concern about the cuts in the adult skills fund, and the impact that they will have on the Government’s economic growth plans. In her response, the Minister for Skills assured us that adult education was very much a priority. The Government’s recent announcements about skills funding in the spending review are most welcome, but there is a troubling contradiction in committing to supporting 65,000 additional learners a year while simultaneously cutting the adult skills fund. The Government have invested £625 million to train 60,000 skilled construction workers, recognising that targeted skills investment drives economic growth; that logic should surely apply across all sectors facing skills shortages. We have no clarity on any improvements in post-18 adult education funding. Mark Robertson, the principal of Cambridge Regional Colleg",
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "Order. I want to try to get everybody in, so we will have an immediate three-minute time limit.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Mrs Sureena Brackenridge (Wolverhampton North East) (Lab)",
+   "member_id": 5152,
+   "type": "Contribution",
+   "text": "I start by paying tribute to all those who work with our children and young people, be it in our nurseries, schools, colleges or universities. As the Member for Wolverhampton North East, a member of the Education Committee and a former deputy headteacher, I want to speak frankly about the urgent need for education spending to be tailored to local need, because that need is undeniable in constituencies like mine. Maintaining the system as it stands is not an option. We must build an ambitious education system that actively identifies challenges and intervenes early on, and it is not enough to focus only on academic outcomes. Our education system must also equip young people with the skills, confidence and resilience that they need to be prepared for the grit of life and the world of work. Around 40% of children in Wolverhampton and Willenhall grow up in poverty, and there has been a stark increase in the last decade. These realities hit education hard. In 2024, just 46% of disadvantaged pupils in England met the expected standards at key stage 2, compared with 67% of their peers. At GCSE, the gap is stark: fewer than one in four students on free school meals in Wolverhampton achieve",
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East"
+  },
+  {
+   "who": "Rachel Gilmour (Tiverton and Minehead) (LD)",
+   "member_id": 5252,
+   "type": "Contribution",
+   "text": "Does the hon. Member agree that it is important that we have a broad exploratory curriculum at GCSE level, and that the recent decision to close off certain subjects for year 9 students at Tiverton high school in my constituency reflects a trend towards a narrowing of academic opportunity, which is rather regrettable?",
+   "name": "Rachel Gilmour",
+   "party": "LD",
+   "seat": "Tiverton and Minehead"
+  },
+  {
+   "who": "Mrs Brackenridge",
+   "member_id": 5152,
+   "type": "Contribution",
+   "text": "Although I cannot speak to the hon. Member’s local issues, I welcome the curriculum and assessment review, which will certainly look to change the one-size-fits-all model. I welcome several commitments in this year’s main estimates, particularly the announcement that households receiving universal credit will be eligible for free school meals from September 2026. Over 500,000 children will benefit, and 100,000 will be lifted out of poverty. For a constituency like mine, that could be life-changing, provided that the roll-out is well funded and properly delivered. I also welcome the £2.3 billion uplift in core schools funding for 2025-26, but this money must flow to where it is needed most. It cannot simply reinforce the status quo, and it must be targeted if it is to level the playing field for disadvantaged children. Of that money, £1 billion is earmarked for high needs and special educational needs and disabilities provision, with local authorities set to receive 7% to 10% more per head. Funding increases are helpful, but they must be matched with delivery reforms and accountability. I want to highlight the £370 million investment in school-based nurseries and early education. In",
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East"
+  },
+  {
+   "who": "Edward Morello (West Dorset) (LD)",
+   "member_id": 5326,
+   "type": "Contribution",
+   "text": "The future of our country is being shaped every day in our classrooms, yet we are failing too many children, too many families and too many schools in places like West Dorset because the Government funding formula relies too heavily on deprivation as a metric, and fails to recognise the very real challenges that rural schools face with transport, staffing, access to specialist services, and the additional pressures of isolation. I recently spoke to the headteacher of Thomas Hardye school in Dorchester, who had previously worked at a school in London. He told me that schools in London receive about £10,000 per pupil. In West Dorset, he has to manage with close to £5,000 per pupil, yet the challenges of delivering education in rural areas are not fewer. In many cases, they are far greater. Dorset studio school in my constituency serves students from all over Dorset, and 52% of its pupils have special educational needs and disabilities—more than three times the national average. Some 11% have education, health and care plans. These children struggle in mainstream settings, and they need specialist support, skilled teachers and facilities that meet their needs, yet Dorset studio school",
+   "name": "Edward Morello",
+   "party": "LD",
+   "seat": "West Dorset"
+  },
+  {
+   "who": "Peter Swallow (Bracknell) (Lab)",
+   "member_id": 5165,
+   "type": "Contribution",
+   "text": "As a former teacher, school governor and university lecturer, and as chair of the all-party parliamentary groups on schools, learning and assessment, on classics and on social mobility, may I say how proud I am to stand here as a Labour MP elected on a manifesto commitment to break down barriers to opportunity for all young people? Bracknell Forest is an incredible place in which to grow up. We have only good and outstanding schools and a fantastic local FE college—Bracknell and Wokingham college—and leafy Berkshire is of course a very lovely corner of the world. However, it would be wrong to suggest that young people in my constituency do not face real challenges. The Sutton Trust has identified that Bracknell has below average social mobility. We have a below average number of 18-year-olds going on to higher education, and the figure is half the rate of Wokingham next door. We are one of the councils in the safety valve programme, and we are facing sustained issues in offering the vital SEND education that is so badly needed. That is why I am so proud that this Government are working to address these educational inequalities, including giving hard-working teachers in my constitue",
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell"
+  },
+  {
+   "who": "James MacCleary (Lewes) (LD)",
+   "member_id": 5265,
+   "type": "Contribution",
+   "text": "I declare an interest as the chair of the all-party parliamentary group on early education and childcare. Early years providers are facing an escalating financial crisis. The Government’s latest tax increases will add an average of £40,000 a year to staffing costs for early years providers. Hopscotch nurseries—a group operating across Sussex, including in Seaford in my constituency—estimates that increases to employment costs will add £140,000 to its wage bill, and this comes at a time when 84% of nurseries nationwide report that they cannot find suitable staff. Staffing accounts for nearly three quarters of their running costs, and these financial pressures mean nurseries face closure or fee hikes that families cannot afford. On recent visits to nurseries in my local community, I have heard from practitioners working with young children every day that, although the Government’s aim to expand funded childcare is laudable, there are simply not enough qualified staff available to deliver it. Not enough applicants, a lack of qualifications, low salaries and a high turnover have led to many nurseries operating at well below capacity. One nursery in Newhaven in my constituency recently ",
+   "name": "James MacCleary",
+   "party": "LD",
+   "seat": "Lewes"
+  },
+  {
+   "who": "Jen Craft (Thurrock) (Lab)",
+   "member_id": 5056,
+   "type": "Contribution",
+   "text": "I very much welcome the Government’s investment in education, as demonstrated through the estimates that have come out today. In particular, I want to touch briefly on the increased investment in SEND and high-needs provision to the tune of £1 billion—something I am sure Members are aware is very close to my heart. However, I would like to sound a note of caution and echo some of the comments made by my hon. Friend the Member for Dulwich and West Norwood (Helen Hayes), and I thank her for her work on the Select Committee on this matter. Investment alone will not solve the SEND crisis. It is the biggest issue facing schools. It is one of the biggest issues facing councils. Dare I say it, it is one of the biggest issues facing local healthcare authorities—not to get ahead of the next estimates debate. Money alone will not solve it. We need institutional root and branch reform of how the SEND system works. I have said it before and I will say it again: if we fix the SEND system, we fix the education system for every single child. What we need is investment in early years provision. Every time I visit a primary school, I am confronted by headteachers who say that the level of high-need",
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock"
+  },
+  {
+   "who": "Rebecca Smith (South West Devon) (Con)",
+   "member_id": 5301,
+   "type": "Contribution",
+   "text": "I want to talk about the real-life impacts of the decisions in the education estimates, and specifically, due to the short amount of time, on school funding. There is a village in my constituency called Buckland Monachorum for whom school funding is a particularly pertinent issue. It is in the middle of campaigning, because the local trust responsible for the school is having to restructure from September. That is entirely because of the cuts schools are facing and the knock-on impacts from the Budget that we have heard about. The restructuring is causing huge consternation among parents. There are complaints, a campaign—as I said—and a huge amount of stress, as they face a different future to the one they were expecting. The Learning Academy Partnership trust, which is responsible for the school, has shared figures with me that highlight the reality of the funding changes that it is facing. It also has one of the schools that falls foul of the f40 inconsistencies we have heard about. It is worth saying briefly that secondary schools in Devon can see as much as £1 million less in funding than equivalent schools in a city such as Manchester. An hon. Gentleman said earlier that city ",
+   "name": "Rebecca Smith",
+   "party": "Con",
+   "seat": "South West Devon"
+  },
+  {
+   "who": "Graham Stuart (Beverley and Holderness) (Con)",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "I am extremely grateful to be cheekily coming in at this point, but the East Riding of Yorkshire is the lowest-funded authority in the country for SEN. I hope we might hear from the Minister about how the distribution, as well as the quantum, can be made fairer. Unfair distribution exacerbates the strain in the system.",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Rebecca Smith",
+   "member_id": 5301,
+   "type": "Contribution",
+   "text": "I thank my right hon. Friend for his intervention. I agree that, and there are issues right across the country. The trust in my constituency is facing financial pressures: teacher pay awards, unfunded beyond 1.7%, mean a 4% increase, costing £359,330; support staff pay awards, unfunded beyond 0.9%, mean a 3.2% increase, costing £295,000; and teacher pension increases, support staff pensions and the national insurance increases have a total cost of £349,000, with £76,000 unfunded due to pupil-based funding. That is a problem right across Devon. We are concerned because it means ultimately that those local village schools will have to take a direct hit, which is something that neither the parents nor the teachers, nor the trusts that are responsible, want to see. A big part of this issue is about the reduction in the general annual grant—a real-terms reduction of £200,000 in 2025-26, plus 0.5% redirected by Devon local authority to special educational needs. This will have a massive impact on the most vulnerable children right across the community; ultimately, it will not enable them to get the education they require. Briefly, I want to ask the Minister about the future of schools in",
+   "name": "Rebecca Smith",
+   "party": "Con",
+   "seat": "South West Devon"
+  },
+  {
+   "who": "Amanda Martin (Portsmouth North) (Lab)",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "In Portsmouth North, we know that education does not just open doors, but transforms lives. I welcome this Government’s commitment to rebuilding the foundations of the education system. Before entering this House, I was a teacher, and I have seen at first hand the power that education has to transform individual lives and whole communities, and how Government policy can impact it negatively or positively. In Portsmouth, sadly, that power has often been held back by under-investment, postcode inequality and a lack of opportunity for those outside the traditional academic path. I am proud that more than 6,500 children in Portsmouth will benefit from Labour’s expansion of free school meals and that teacher pay is rising—by 5.5% last year and 4% this year—recognising the dedication of staff across our schools. Combined with rising attendance and the return of 3 million more school days, that shows that Labour’s plan is working. It makes me cross when those on the Opposition Benches talk about trade union baron pay rises, when it is actually our teachers, doctors and armed forces who got those long-awaited pay rises, which were denied by the previous Government. It is time those on the ",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "Mr Deputy Speaker (Sir Roger Gale)",
+   "member_id": 87,
+   "type": "Contribution",
+   "text": "Order.",
+   "name": "Mr Deputy Speaker",
+   "seat": "Sir Roger Gale"
+  },
+  {
+   "who": "Amanda Martin",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "Children with educational needs in Portsmouth still face long waits and a shortage of school places; families are waiting, and schools are stretched. Can the Minister set out how the Department is working with local authorities to expand high-quality provision in areas such as Portsmouth, and whether the spending review includes targeted capital or revenue support for this area? If education is to drive growth, skills reform must be front and centre, and I am glad that is part of Labour’s priority. Colleges are central to this. Students and staff at Portsmouth college are eager to do more, but need the right investment. Ambition is vital, because the role of education is not just social, but economic. The spending review must be understood as part of the wider industrial strategy that Labour is delivering. Skills reform, youth hubs and the creation of Skills England are vital tools to align training with the future of our jobs, and the Department must ensure that schools, colleges and businesses are integrated into this strategy. We also need to get serious about apprenticeships—not just for school leavers, but for older learners and those changing careers. We need to talk about ac",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "Claire Young (Thornbury and Yate) (LD)",
+   "member_id": 5140,
+   "type": "Contribution",
+   "text": "As we know, not all local education authorities are created equal. For those like South Gloucestershire, where schools are among the lowest funded in the country, the average rise quoted will not make up for years of underfunding. As I recently raised in this House, it is reported that two thirds of South Gloucestershire schools will be in the red next year, which is having a massive impact on children and young people in my constituency. I shall set out some of the pressures that are making that situation worse and ask the Minister how the spending review will help to tackle them. The first is the underfunding of staff costs. The Government are not fully funding the 4% pay-rise for teachers and are expecting schools to find a quarter of the amount from efficiencies within their budgets. Coupled with the underfunded national insurance reimbursement, this is placing a massive pressure on budgets. Can the Minister explain what these efficiencies would look like. I can tell her what things already look like in our schools before these cuts. In my local schools, clubs, trips and activities have been axed. Qualified teaching assistants have been replaced by cheaper apprentices. Class si",
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate"
+  },
+  {
+   "who": "Helen Maguire (Epsom and Ewell) (LD)",
+   "member_id": 5336,
+   "type": "Contribution",
+   "text": "Councils are being asked to deliver SEND services without sufficient funding, to which my hon. Friend has alluded, and that creates a postcode lottery for families, with children waiting months to receive support. Does she agree that we urgently need SEND funding reform, including removing the £6,000 school contribution to end the postcode lottery, so that we can deliver the support that children need?",
+   "name": "Helen Maguire",
+   "party": "LD",
+   "seat": "Epsom and Ewell"
+  },
+  {
+   "who": "Claire Young",
+   "member_id": 5140,
+   "type": "Contribution",
+   "text": "I agree with what my hon. Friend says. Schools are disincentivised from taking action on special educational needs if they know that they have to fund the first £6,000. Finally, I highlight the pressure of free school meals and breakfast clubs. Although the extension of that provision is of course welcome, the funding does not recognise that schools are already having to subsidise school meals due to rising costs, and those subsidies will now increase. Schools in my area tell me that they declined to join the breakfast club pilot due to the lack of funding. One school I spoke to was expecting 67p per child for non-pupil premium children and 88p for pupil premium children. That non-pupil premium price represents less than 15% of the break-even cost for their current breakfast club. Yet again, these schools would have to subsidise at the expense of other activities. Behind the headline numbers are schools in crisis, especially in constituencies such as mine where they have been routinely underfunded for years. I hope the Minister can provide reassurance for my constituents that the headline figures will translate into fair funding for South Gloucestershire.",
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate"
+  },
+  {
+   "who": "Sarah Smith (Hyndburn) (Lab)",
+   "member_id": 5117,
+   "type": "Contribution",
+   "text": "Nothing is more important than ensuring that every child in every part of our country has the opportunity to thrive. That is why breaking down the barriers to opportunity is such a key part of this Government’s plan for change We are determined to undo the failure of the previous Government and to see that every school has the necessary resources to offer the education that all our children deserve. I welcome the estimates. In Hyndburn, the commitment to additional funded early years education will be transformational for family budgets, saving families up to £7,500 a year, and helping mothers such as me to balance careers with family life. Crucially, this will also enable us to achieve the key target of 75% of children achieving a good level of development when they start school, which will equate to over 500,000 more children being school ready across the country. Furthermore, the £6.7 billion capital investment into our school buildings will support the rebuilding of several schools in Hyndburn, including Hyndburn academy in Rishton and Haslingden high school. It will also help us to tackle the removal of reinforced autoclaved aerated concrete in Knuzden St Oswald’s primary scho",
+   "name": "Sarah Smith",
+   "party": "Lab",
+   "seat": "Hyndburn"
+  },
+  {
+   "who": "Mr Deputy Speaker (Sir Roger Gale)",
+   "member_id": 87,
+   "type": "Contribution",
+   "text": "Order. I call Liz Jarvis.",
+   "name": "Mr Deputy Speaker",
+   "seat": "Sir Roger Gale"
+  },
+  {
+   "who": "Liz Jarvis (Eastleigh) (LD)",
+   "member_id": 5040,
+   "type": "Contribution",
+   "text": "I am grateful for the opportunity to speak on behalf of my constituents, including the hundreds of families who feel they are being let down by a system that simply is not working. Over the past year, I have heard heartbreaking stories from constituents whose children have been left waiting years for EHCP assessments and the specialist support they desperately need. Hampshire’s SEN service received over 3,800 EHCP requests in the last academic year alone. My constituent Chrissy’s daughter has struggled severely with reading, writing and confidence. When Chrissy asked for a dyslexia assessment, her daughter’s primary school was unable to provide one, and the family cannot afford private testing. Her daughter has missed days of school due to the sheer fear of going in, becoming physically sick as a result. Natasha, another constituent, told me that she is at her wits’ end trying to secure the right support for her son. He has an EHCP but is still without an autism diagnosis and a specialist placement after over two years of delays and miscommunication. What reassurance can the Minister give my constituents that their children will get the support they need to reach their full potenti",
+   "name": "Liz Jarvis",
+   "party": "LD",
+   "seat": "Eastleigh"
+  },
+  {
+   "who": "Cameron Thomas (Tewkesbury) (LD)",
+   "member_id": 5354,
+   "type": "Contribution",
+   "text": "Parents with SEND children across Tewkesbury represent one of the demographics who most consistently contact me. I regularly hold surgeries with desperate parents who feel that they have nowhere left to turn. I have spoken with parents whose children have missed years of education and whose ability to work has been diluted by the need to care for and teach their children outside the school environment. Many others have spent years awaiting diagnoses and years more acquiring an EHCP, viewing an EHCP as a kind of silver bullet, only to get their children enrolled in a school that simply does not have the additional resources to support them.",
+   "name": "Cameron Thomas",
+   "party": "LD",
+   "seat": "Tewkesbury"
+  },
+  {
+   "who": "Rachel Gilmour",
+   "member_id": 5252,
+   "type": "Contribution",
+   "text": "Will my hon. Friend give way?",
+   "name": "Rachel Gilmour",
+   "party": "LD",
+   "seat": "Tiverton and Minehead"
+  },
+  {
+   "who": "Cameron Thomas",
+   "member_id": 5354,
+   "type": "Contribution",
+   "text": "I am afraid I will not. This is a growing, nationwide crisis being experienced by schools and families, and it has secondary effects on the Department for Work and Pensions and the Treasury. Responsibility for SEND provision currently falls to local authorities, but councils across the country are struggling to balance their resources between looking after their people and maintaining their infrastructure. I do not accept that those councils are all at fault—that simply cannot be. In fact, I empathise with those councils that observed this month’s spending review with their heads in their hands. Last month, I held a Westminster Hall debate where I pointed out that Gloucestershire is among the lowest-funded councils for education in England. I am delighted that the Minister for School Standards announced a review of the national funding formula for 2026-27, and I very much hope that Gloucestershire will be firmly in the Government’s mind when it takes place. I ask the Government to acknowledge that they must address the growing demand for SEND provision and not leave it to local authorities or kick it down the road until 2030. I ask that the Government investigate and address the ro",
+   "name": "Cameron Thomas",
+   "party": "LD",
+   "seat": "Tewkesbury"
+  },
+  {
+   "who": "Mr Deputy Speaker (Sir Roger Gale)",
+   "member_id": 87,
+   "type": "Contribution",
+   "text": "Order. I am sorry to have had to be a little brutal, but we managed to get everybody in. We are, however, 10 minutes over time, so if Front Benchers exercised a little discretion, that would be helpful. I call the Liberal Democrat spokesperson.",
+   "name": "Mr Deputy Speaker",
+   "seat": "Sir Roger Gale"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I congratulate the Chair of the Education Committee, the hon. Member for Dulwich and West Norwood (Helen Hayes), on securing this important debate on the Department’s estimate. Given the constraints you just mentioned, Mr Deputy Speaker, and how the Department’s remit is huge, I want to touch on a couple of areas: day-to-day school budgets and funding to support some of our most vulnerable children. I also hope that the Minister might answer some questions on the recent free school meal announcement. It is fair to say that since the Labour Government swept to victory a year ago there has been a huge amount of rhetoric about the opportunity mission and putting children at the heart of policymaking, but the reality on the ground feels a little different. Despite what the Government would have us believe, school budgets across the country are at best frozen and at worst falling into deficit. Years of Conservative mismanagement and underfunding from 2015 onwards— [ Interruption. ] Conservative Members chunter, but the figures are there. We all know that from 2015 onwards, their mismanagement— [ Interruption. ]",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Mr Deputy Speaker",
+   "member_id": 87,
+   "type": "Contribution",
+   "text": "Order.",
+   "name": "Mr Deputy Speaker",
+   "seat": "Sir Roger Gale"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "The Conservatives’ decisions cast a long shadow over our schools and colleges. Although the Government trumpeted £4.7 billion for schools in the spending review, they failed to mention that school budgets will see an increase in real terms of only 0.4% over the spending review period. When I speak to school leaders, as I do regularly, they still express the same level of despair as I heard during the last Parliament, when the Conservatives barely mentioned children or schools. School leaders are tearing their hair out trying to balance the books while shouldering the double blow of an underfunded rise in employers’ national insurance and underfunded teacher pay rises. One school in my constituency has shared its budget figures with me in detail to show what is really happening. It has about a quarter of a million pounds of salary pressures as a result of the NI and pay rises, yet only an additional £30,000 to fund that hole. The result is that the most vulnerable children will suffer, with learning support assistance and inclusion staff most likely to go to protect teaching staff, who are obviously essential. Although prudence in previous years means that reserves can be drawn on a",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Neil O’Brien (Harborough, Oadby and Wigston) (Con)",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Before the election, Labour said that increasing VAT would pay for more teachers. Even in December, the Chancellor said that “every single penny of that money will go into our state schools”. More recently, however, the Prime Minister has claimed that this will instead pay for investment in social housing. He said “my government made the tough but fair decision to apply VAT to private schools… because of that choice, we have announced the largest investment in affordable housing in a generation.” These statements from the Chancellor and the Prime Minister cannot both be true. They cannot spend every penny on state schools and also spend money on housing, so my first question to Ministers is this: who is not telling the truth? Is it the Prime Minister or the Chancellor? Logically, both statements cannot be true. Either way, we are not getting the extra teachers. In fact, statistics just came out showing that there are not more teachers, but fewer. There are 400 fewer overall, including 2,900 fewer in primary. Teacher numbers went up 27,000 under the last Government. Now they are down 400 under this Government. It was at that point, when those statistics came out showing that things ",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Peter Swallow",
+   "member_id": 5165,
+   "type": "Contribution",
+   "text": "In the spirit of saying things that are not true and making brazen statements, I wonder whether the hon. Member can get on to the bit of his speech where he pretends that the Conservative Government invested more in our schools.",
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I am glad that the hon. Member has prompted me—he must have a copy of my speech. In the last Parliament, according to the Institute for Fiscal Studies, real-terms spending per pupil went up by 11%. I thank him for allowing me to make that point. So why are so many teachers getting the sack? It is partly because that is not the only broken promise. Labour also promised that it would fully compensate schools for the cost of the national insurance increase. The Minister sighs as I say this, and schools around the country will sigh too, because Labour broke that promise. According to the Confederation of Schools Trusts and the Association of School and College Leaders, schools have been left up to 35% short in some cases. With all the broken promises that we have already mentioned, let me check in on another promise. Perhaps the Minister will tell us the answer. The Prime Minister promised two weeks of work experience for all pupils and the Labour manifesto promised £85 million to pay for it. In May the Government told schools to get on and deliver extra work experience. When exactly will schools receive that £85 million? Schools are not the only bit of the Department for Education whe",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Minister for School Standards (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Every child deserves the opportunity to achieve and thrive in education. That is why this Government have—as Labour Governments always do—prioritised education, with the Department’s budget for day-to-day cash spending increasing by almost £6 billion compared with the last financial year. Within that, we have increased the overall core schools budget by £3.7 billion in 2025-26 compared with last year. This real-terms increase in funding per pupil helps underpin our ambition of achieving high and rising standards for all children in all our schools. This investment of £3.7 billion in 2025-26 includes both the £2.3 billion announced at the October Budget, and the £1.4 billion in additional funding being provided to support schools with staff pay awards and with the increases to employer national insurance contributions from April 2025. The majority of school funding is allocated through the schools national funding formula. In 2025-26, £5.1 billion of the schools NFF has been allocated through deprivation factors, and £8.6 billion will be allocated for additional needs overall—that is, over £1 in every £6 of total core funding through the formula being directed towards the schools fa",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Jen Craft",
+   "member_id": 5056,
+   "type": "Contribution",
+   "text": "I would like the Minister to clarify that the additional support and ambition that she is talking about is to improve the SEN side. For Members who are not aware, the statutory bit is the SEND side, and there will obviously be improvements in that; but if we improve the SEN side, which is the bit that children do not need an EHCP for, parents will not need to go through that adversarial legal battle, and there will be fewer reasons for people to have to go through what can at times be a truly horrific system.",
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend makes a really important point, and I was about to respond to a question that she raised in her very good contribution to this debate. We will set out the details of our approach to SEND reform in a schools White Paper, which we intend to publish in the autumn. We recognise that we need to support mainstream schools in providing much greater inclusion for children with SEND. We need to commence a phased transition process, which will include working with local authorities to manage their SEND system, including deficits. There will also be an extension to the dedicated schools grant statutory override until the end of 2027-28—an issue that many Members have raised on behalf of their local authorities. We will provide more details by the end of the year, including a plan for supporting local authorities with both historical and accruing deficits. I turn to teacher training. I was very sorry to hear about the experience of the hon. Member for Yeovil (Adam Dance). He is incredibly brave, and it is important that he has shared that. To respond to his question, high-quality teaching is central to ensuring that all pupils are given the best possible opportunities to achieve",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "The Minister talked about the Government making choices to prioritise children, and about keeping families together. How will the cuts to grants for therapies for some of the most vulnerable, traumatised children in our society help families stay together? Those children manifest the most challenging behaviours, which result in adoption placement breakdown, and that means worse outcomes for those families. How is that putting children first?",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The changes that we have made to the fair access limits will ensure that more children have access to the fund, because year-on-year demands have increased. When we brought forward the legislation, which was the biggest overhaul in children’s social care in a generation, the opposition parties voted against it. We are determined to improve the life chances of children, to broaden access, and to ensure support for those that need it, despite our tough fiscal inheritance. To return to childcare, at the spending review, we announced almost £370 million of further funding to create tens of thousands of places in new and expanded school-based nurseries. Despite the tough decisions we made to get our public finances back on track, we are continuing to invest in early years, and are supporting the delivery of entitlements. We will create a reception-year experience that sets children up for success, and are working with sector leaders to drive high-quality reception practice. We are increasing access to evidence-based programmes teaching early literacy and numeracy skills. We are delivering the largest ever uplift of 45% in the early years pupil premium to better support disadvantaged chi",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Helen Hayes",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "I thank all right hon. and hon. Members who have contributed to the debate. The education and children’s social care system across the country has been well represented, and we have heard contributions about the challenges in SEND, further education, schools, rural areas and early years. Right hon. and hon. Members have welcomed the expansion of free school meals and the introduction of free breakfast clubs. I thank the Minister for her response, and join her in paying tribute to all the professionals who work so hard every single day to improve the lives of children and young people across the country. I urge her to work very closely with parents as she brings forward SEND reforms, because at the heart of successful reform of the SEND system is the rebuilding of parents’ trust and confidence. The Education Committee will be robust in its continued scrutiny of the Government. I say gently to the Conservatives that the problems that they are attacking the Government for not solving within a year are the legacy of their 14 years in power. We are talking about trust and confidence in the SEND system; we would build trust and confidence in this place if there was slightly more honest r",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  }
+ ],
+ "fetched": "2026-10-21T20:26:31Z"
+}

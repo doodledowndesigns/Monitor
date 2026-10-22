@@ -1,0 +1,707 @@
+{
+ "ext_id": "eaa8223a-32bf-490c-87ff-e532d2f53967",
+ "date": "2025-01-30",
+ "house": "Commons",
+ "section": "PBC",
+ "title": "Children's Wellbeing and Schools Bill (Eighth sitting)",
+ "parents": [
+  "Public Bill Committees"
+ ],
+ "location": "Public Bill Committees",
+ "url": "https://hansard.parliament.uk/Commons/2025-01-30/debates/eaa8223a-32bf-490c-87ff-e532d2f53967/ChildrenSWellbeingAndSchoolsBillEighthSitting",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East",
+   "member_id": 5210
+  },
+  {
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston",
+   "member_id": 4679
+  },
+  {
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards",
+   "member_id": 4125
+  },
+  {
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen",
+   "member_id": 5270
+  },
+  {
+   "name": "Matt Bishop",
+   "party": "Lab",
+   "seat": "Forest of Dean",
+   "member_id": 5323
+  },
+  {
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North",
+   "member_id": 5294
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire",
+   "member_id": 5096
+  },
+  {
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire",
+   "member_id": 3969
+  },
+  {
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education",
+   "member_id": 4653
+  }
+ ],
+ "contributions": [
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "I remind the Committee that with this we are discussing the following: Government amendment 7. Amendment 29, in clause 23, page 44, line 23, leave out “have” and insert “buy”. This amendment would enable schools to require pupils to wear more than three branded items of school uniform as long as parents have not had to pay for them. Amendment 59, in clause 23, page 44, line 24, leave out “three” and insert “two”. Amendment 30, in clause 23, page 44, line 26, leave out “have” and insert “buy”. This amendment would enable schools to require pupils to wear more than three branded items of school uniform as long as parents have not had to pay for them. Amendment 60, in clause 23, page 44, line 27, leave out “three” and insert “two”. Amendment 61, in clause 23, page 44, line 28, leave out from “year” to end of paragraph. Amendment 31, in clause 23, page 44, line 29, at end insert— “(1A) The appropriate authority of a school may require a pupil to buy or replace branded items which have been lost or damaged, or which the pupil has grown out of.” This amendment would enable schools to require pupils to replace lost or damaged branded items. Amendment 32, in clause 23, page 44, line 40, at",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Tom Hayes (Bournemouth East) (Lab)",
+   "member_id": 5210,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairpersonship this afternoon, Mr Stringer. I was going to speak before the Committee adjourned this morning, and I have dwelled over that break on what to say, because I have been listening carefully to the Opposition spokespeople. I like to think that I strive to be reasonable and I do not want to be excessively party political.",
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East"
+  },
+  {
+   "who": "Tom Hayes",
+   "member_id": 5210,
+   "type": "Contribution",
+   "text": "There are nods and laughs.",
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East"
+  },
+  {
+   "who": "Neil O'Brien (Harborough, Oadby and Wigston) (Con)",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Sounds good.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Tom Hayes",
+   "member_id": 5210,
+   "type": "Contribution",
+   "text": "Sounds good, but I want to bring us back, if I may, to reality. We need to do that, because first, all of us in this room would acknowledge that the status quo is not working. I have been a school governor, I have sponsored a mental health project for children and young people, and I know just how hard teachers and support staff work. We all know how fantastic our schools are, but still the status quo is that parents are struggling, and children are suffering. I was dwelling on what to say particularly because some of this is very personal to me; I grew up as a free school meals kid on a council estate caring for two disabled parents. It is only in recent times that I have started to talk openly about growing up in poverty— I would previously call it “financial hardship”, but that feels too clinical a term. I call it poverty, because if I am now an MP, it is my duty to speak truth and to try to show some inspiration to families locally who may be struggling. That does present its challenges, particularly in the conversations that I have with my mum, because she does not feel comfortable all the time with me talking about growing up in poverty. She feels that somehow it is her son’s",
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East"
+  },
+  {
+   "who": "The Minister for School Standards (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "It really is an honour to follow my hon. Friend the Member for Bournemouth East, who made an incredibly powerful case for why we have brought forward these measures, as indeed did my hon. Friend the Member for Portsmouth North, who also shared her experience, as a mother, of battling some of these issues. I have to say that, on the way back to this Committee, after the brief break that we just had, I went past some members of staff who work in the House, and they said, “Oh, you look in a hurry.” I said, “Yes, we are about to talk about the measures that we are bringing forward on uniforms,” and, instantly, they said, “Oh my goodness, it’s a nightmare! They cost a fortune,” and expressed how challenging they find it. Indeed, when I was recently asked to find a picture of myself in my old school uniform—and I had to search hard because, while I know I look really young, it was a while ago that I was at school—I wanted a picture that would represent the school that I went to, but strangely, when I found the pictures, I realised that my school uniform had no branding. It was a plain grey jumper, a plain grey skirt and a blue generic shirt. I realised that those were the times that we l",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "This was the main point that we wanted to make, and it is good to have confirmation from the Minister that our interpretation of the notes is correct. The notes say it “includes items required for PE and sport… even if an activity is optional, if a pupil requires a branded item of uniform to participate in that activity, then the item will count towards the limit.” The Minister has just said that this will absolutely bite on school sports teams—",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "That is not what I said.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "That is precisely what the Minister just said. She said that by having the amendment we would be allowed to have unlimited numbers of items for school sports teams. So it is clear that the measure bites in exactly the way that we say it does, which is why we need amendment 91.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "No, the two things do not follow. I said that the limit on the number of branded items applies to PE kits. However, schools still have the freedom to choose how to use that branded number allocation, including in relation to PE and sports. It does not restrict the ability of schools to loan out specific competition kit where appropriate. The intention of the measure, which amendment 91 would completely undermine, is that the cost of PE and sports kits should never be a barrier to participation in PE and sports. That is what the measure is intended to achieve—while his measure would achieve the opposite.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Just to confirm what the Minister is saying, under the clause if passed, school sports teams will not be able to require pupils to own the items. In the future, schools will only be able to loan items for school sports teams to their pupils, so there will be quite a big difference.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "To be clear, the legislation will require that parents cannot be mandated to purchase more than three branded items, or four including a tie. That includes PE and sports kits. I am not sure that the hon. Gentleman lives in the real world, but many schools already loan out sports kits to ensure the full participation of any child, and do not require the parent to buy the kit to participate in that sport. Many secondary schools have opportunities for a whole range of sports—quite rightly—and they all potentially require different kit, as well as matching kit in order to present a uniform team image. Many schools will already loan out the kit where they have to compete externally. Schools can loan it out or they can provide it for free. Indeed, the entire purpose of the provision is to ensure that no child is prevented or put off from taking part in sport because they are worried about the cost of the sports kit. That should never be a barrier to a child’s participation in PE and sport. It is therefore right that schools that continue to require large numbers of branded items are forced to reduce them. That is why the measure is needed.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Darren Paffey (Southampton Itchen) (Lab)",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "Does the Minister agree that this issue is actually very simple and, while we appreciate the level of detail and scrutiny that opposition parties are rightly giving to it, we risk making a mountain out of a molehill? The fact is that uniform has become prohibitively expensive and there are more items than necessary in many schools. Many families and schools welcome these practical measures to bring costs down and, if this Bill is about removing barriers to opportunity, supporting the clause as it stands is the way of achieving that.",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend puts it in a nutshell. Speaking of additional complexity, I turn now to amendments 59 and 60—I have not picked on those particularly; they just happened to coincide with the hon. Gentleman’s intervention. Tabled by the hon. Member for Runcorn and Helsby (Mike Amesbury), the amendments seek to reduce the number of branded items primary and secondary schools can require from three to two. I know that the hon. Member has been a long-time campaigner on the issue of making school uniform more affordable for families. That is why I am sure he will share our view that, while school uniform plays a valuable role in creating a sense of common identity among pupils and reducing visible inequalities, too many schools still require an unacceptably high number of branded items. The Government believe that a limit of three branded items provides the best balance, reducing costs for parents while ensuring that schools, parents and pupils can continue to experience the benefits that allowing a small number of branded items can bring. Restricting schools to only two branded items will make it harder for schools to find that balance and set a uniform policy that works best for their c",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "The Minister is very kind to give way. She has raised the issue of house ties; if a school is already at its limit of branded items for the year, and halfway through the year a child is offered a branded house tie, that would be an additional item, would it not? That would take them over the limit, so how is that supposed to work?",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "A school would have to operate within the limits of these requirements, so it would probably choose not to introduce these things mid-year. It is really not that complex.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Matt Bishop (Forest of Dean) (Lab)",
+   "member_id": 5323,
+   "type": "Contribution",
+   "text": "Does the Minister agree that if house ties came in mid-year, the requirement would be for the house tie, which would replace the original tie? Therefore, the number would still be the same.",
+   "name": "Matt Bishop",
+   "party": "Lab",
+   "seat": "Forest of Dean"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The proposal is fairly straightforward. It allows, for example, a secondary school to retain a branded tie and blazer while still being able to brand up to two items—either PE kit or daywear—according to their circumstances. Therefore, for the reasons I have outlined, I kindly ask the hon. Member for Harborough, Oadby and Wigston not to press his amendment 32. I now turn to Government amendments 8, 9 and 10, a group of technical and drafting amendments focused on the interaction between this Bill’s measures on school uniform and their application to hospital schools. Government amendment 8 corrects a drafting omission, ensuring that all forms of schools established in a hospital are correctly excluded from the new statutory limit on compulsory branded school uniform items. Given their nature, the vast majority of hospital schools do not require any form of uniform, branded or otherwise. We therefore want to avoid this legislation placing unnecessary obligations or administrative burdens on such schools. The Government recognise that schools established in a hospital operate in a very specialised medical environment, and it would therefore be inappropriate to bind any hospital schoo",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Amanda Martin (Portsmouth North) (Lab)",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "I want to echo that sentiment and to ask a question. In my city, when we get the minimum wage rise, 10,000 adults will get a pay rise. There is a cost of living crisis for them. Will this limit of three items, or four items if the child is in secondary school and a tie is included, make a difference to the people in my city?",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "We are absolutely confident that this limit will make a difference to many families up and down the country, including in Portsmouth North. Some schools already operate within these limits; I know that many schools have gone to great lengths to operate within the spirit of the guidance already in place, to try to minimise uniform costs for families. However, that is not universal, and we think that the clarity this measure will bring will ensure that those benefits are not just for some children in some schools, but for all children in all schools right across England. We also believe that the measure balances reducing costs for parents with ensuring that schools, parents and pupils can continue to experience all the benefits that a uniform that includes a number of branded items can bring. This is not about the state interfering in the day-to-day running of schools. Schools can still choose which items to brand as long as they adhere to the legislative limit. They will also still be able to include the optional tie, if they wish. School uniforms should be designed to make pupils look and feel smarter, not to make families poorer. Schools will still be able to set and enforce appro",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I intend to press only amendment 91 to a vote. We have had an interesting and thoughtful debate this afternoon. I note again that we have heard from the Association of School and College Leaders, Government Back Benchers, the Liberal Democrat Front Bench and the Conservatives about the danger that these measures will backfire and that, in the real world, what will replace cheap, standard PE kit is more expensive, branded sportswear. That is why we wanted to exclude PE kit. I will not press the new clause to a vote—we do not have time to press every single thing to a vote—but I would like to press amendment 91.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "When we get to that amendment, I will ask you to formally move it.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I pay tribute to the hon. Member for Bournemouth East for the powerful way in which he shared his personal story. I thank him for that genuinely. I was quite saddened before lunch, because there was quite a lot of discord in the room on an issue where there is actually quite a lot of unanimity. We all genuinely want to bring down the cost of school uniforms. I am still slightly perplexed by the Minister’s response to amendment 87; her point that it would reduce choice is a red herring. There is nothing to stop parents going to high street shops for shirts, trousers, skirts and all that. We are just saying that there should be a cost cap. In the arguments I heard from the Back Benches, the hon. Member for Derby North even made the point that we should consider a cost cap and, in an intervention on the right hon. Member for East Hampshire, the hon. Member for Portsmouth North said that at the moment, schools can charge £100 for a blazer—well, under this legislation, they still could. That is precisely why a cost cap makes much more sense than an item cap. I take on board the Minister’s point about regional variation; that is something that could be addressed, but regional variation e",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I beg to move amendment 33, in clause 24, page 46, line 3, leave out from beginning of line to “a” in line 10.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "With this it will be convenient to discuss the following: Amendment 46, in clause 24, page 46, line 4, leave out subsection (3). Amendment 35, in clause 24, page 46, line 18, at end insert “or, “(c) providing services to the child or their family under section 17 of the Children Act 1989.”",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Amendment 33 would delete the requirement for children in special schools to secure local authority consent to be home educated. In contrast, amendment 35 would widen the scope of required consent from just those children subject to section 47 investigations to those under a slightly lower level of concern with social services, which are section 17 children in need. I will turn to the widening amendment first. We support the Government’s intention with this clause to give local authorities the power to withhold consent to home educate a child where it is subject to a section 47 investigation or a child protection plan, or where it is a section 17 child in need. However, we worry that the clause as drafted might not fully achieve the Government’s aims and create a bit of a conflict of interest for a local authority, so our amendment would broaden the criteria to include children in need under section 17. The Government spoke rightly of the tragic case of Sara Sharif, but my understanding is that unfortunately she would not have been protected by the Bill as drafted, as she was not the subject of a section 47 child protection plan. As the Children’s Commissioner wrote in December: “D",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Ian Sollom (St Neots and Mid Cambridgeshire) (LD)",
+   "member_id": 5096,
+   "type": "Contribution",
+   "text": "Amendment 46 is very similar to amendment 33, in the name of the hon. Member for Harborough, Oadby and Wigston, in that it removes subsection (3) and condition A, and for much the same reasons. We are extremely concerned that a parent wanting to remove their child with special educational needs and disabilities from a special school will be subject to this extra bureaucracy. We know that we have a SEND crisis. There are so many parents, even when their child is in a special school, who feel that the school is not meeting their child’s educational needs and that their child is better served through a home education. I would point out that the local authority does not always have the best information on children in special schools. They will be turning to the schools themselves for a view, maybe more so than to the parents. There may be a bit of iniquity there. I would like to question the Minister on the circumstances in which the local authority can refuse permission. Condition A implies almost an equivalence between children with special educational needs and children where there are safeguarding concerns, which seems quite a parallel to draw in legislation. The other question I h",
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire"
+  },
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "It is a very long-standing right in England for a parent to choose to send their child to school or to educate at home. It is a right that the vast majority of parents never take up, but which nevertheless could be considered a fundamental parent’s right. The condition is always that the child must be receiving a suitable education. That phrase, “a suitable education”, has never been defined in law, and on occasion that creates some tensions. School should be right for the vast majority of children. A school system is designed to apply to the vast majority of children. The Bill is right to introduce a register of children not in school. That was also our policy when in government, but I think the balance is wrong between the detail of information required of parents and the support on offer. Although the number of children in elective home education has been growing, the data collection is relatively new and has been mandatory only since autumn 2024, so some of that growth—as the DFE statisticians themselves say—will be because of that effect. It had been rising even before covid, and then there was a distinct covid effect, which we can see in the numbers. There are multiple reason",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Stephen Morgan)",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I, too, pay tribute to my hon. Friend the Member for Bournemouth East for his thoughtful contribution, speaking from the heart on why the measures in this landmark Bill are so important. Amendments 33 and 46 seek to amend the clause to remove the requirement for parents to obtain local authority consent to home educate should the child attend a special school arranged by the local authority. It is necessary to have that requirement. It provides a check to ensure that home education is in the best interests of the child, and that there are no education suitability issues resulting from no longer attending a special school. A similar requirement has existed in secondary legislation for many years. I consider it appropriate for such a requirement to be in primary legislation to ensure consistency as part of the new package of consent requirements. I do not consider that children in those circumstances are necessarily at greater risk, but they will have a higher level of need when it comes to ensuring a suitable education. Therefore, no longer attending a special school may impact educational provision and is vital to ensure that it is in the best interests of the child to be home educ",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Does the Minister recognise—as Dr Homden said in her oral evidence, when I questioned her on this matter—that given such a fundamental lack of provision in the state sector, which I think is recognised in all parts of the House, in particular for special school provision, for some children, whatever provision is prescribed in the EHCP is just not available? Therefore, it sometimes is in the best interest of the child to withdraw them to home educate. The fact that parents may be penalised or stopped from doing that could be much more detrimental to a child.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for raising those issues. She is a real champion, certainly on SEND issues and the challenges that parents face. I will say a bit more about the points that she made shortly. My hon. Friend the Minister for School Standards is also a real champion of these issues and will set out our reform plans later this year.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Will the Minister give way?",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I will just make some progress. Amendment 35 seeks to expand the eligibility of the home education consent process to include those children and families receiving support and services under section 17 of the Children Act 1989. The Government are investing £500 million to support the national roll-out of family help and multi-agency child protection reforms from April 2025, and our ambition is that families can access the right support from the right person as soon as they need it. The family hub model combines targeted early help and section 17 support into a seamless, non-stigmatising approach focused on the whole family through a single plan and consistent worker, even as a family’s needs change. Bringing children in need into scope of the home education consent process is likely to prevent families from seeking support when they need it, the opposite of what we want. Parents and families might well be reluctant to accept support from the local authority under section 17 if it meant that their ability to home educate was called into question and, potentially, permission to home educate was refused. Furthermore, not all children will receive support and services, because of safeg",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I wonder whether there is some tension between the Minister saying that one reason we should not include section 17 children is that some of them are disabled, and then rejecting amendment 33 because it is right that all pupils in special schools should have to go through this consent mechanism because a lot of them will be disabled. Those two arguments seem to be very much in tension there. To press him a little bit on this point about not excluding those in special schools, can the Minister say roughly how long a timeline we are talking about? What sort of information will special school parents have to provide in order to win the right, as it were, to home educate? What is he going to do to stop this from being a long process in which parents of special school pupils do not have their children where they want them, with them at home, even when ultimately that is going to be the decision?",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank the shadow Minister for his response. He makes a number of points with regard to section 17 support and services for children and families. I want to reassure him that we have already strengthened and clarified multi-agency guidance around early help and section 17 through the working together legislation and through the families first for children pathfinder. We are testing new ways to reform every part of the children’s social care system. The Government have already nearly doubled direct investment in preventive services for children and families, including the roll out of the family help and multi-agency child protection reforms from April this year. Taken together, we believe these reforms will drive fundamental shifts in the way we help, support and protect children and families in every part of the system. There are a number of questions and contributions I will now specifically respond to in the debate on this group. On the tragic case of Sara Sharif, of course we cannot say for sure what might have made a difference, but we will learn lessons from the future conclusion of the local child safeguarding practice review. The Government are taking action to reform every",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I beg to ask leave to withdraw the amendment. Amendment, by leave, withdrawn. Amendment proposed : 46, in clause 24, page 46, line 4, leave out subsection (3).— (Munira Wilson.) Question put, That the amendment be made.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I beg to move amendment 34, in clause 24, page 47, line 6, at end insert— “(8A) Where a local authority refuses consent in respect of a child who meets the criteria for Condition A, the local authority must provide the parents or carers of the relevant child with a statement of reasons for the decision. (8B) A statement of reasons provided under subsection (8A) must include an assessment of the costs and benefits to the child.” This amendment would require a local authority to submit a statement of reasons when they do not agree for a child who meets Condition A to be home educated.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "With this it will be convenient to discuss clause stand part.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "This is a very straightforward amendment. It adds that where a local authority refuses consent, it must provide the parents or carers of the relevant child with a statement of the reasons for the decision, including an assessment of the costs and benefits to the child. Of course, we hope that would happen anyway, but we are just making good practice part of the legislation.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "The amendment, tabled in the name of the shadow Minister and the hon. Member for Central Suffolk and North Ipswich, seeks to establish that, when local authorities refuse a parent’s request for consent for a child who attends a special school under local authority arrangements to be home educated, they must provide a statement of reasons for that refusal to the parent. The statement must include an assessment of the potential costs and benefits to the child. As part of their existing public law duties, local authorities need to provide reasons as to why they have decided to grant or refuse consent for home education when notifying the parent of their decision. We will make that clear in the relevant statutory guidance, which will need to be updated so that relevant professionals know what is required of them. We are also committed to engaging with local authorities, home educators and other stakeholders following Royal Assent to inform guidance and implementation. Therefore, for the reasons I have outlined, I kindly ask the shadow Minister to withdraw the amendment. Turning to clause 24 stand part, every child has the right to a suitable education in a safe environment, which will ",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I beg to ask leave to withdraw the amendment. Amendment, by leave, withdrawn. Clause 24 ordered to stand part of the Bill. Clause 25 Registration",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I beg to move amendment 62, in clause 25, page 49, leave out lines 20 to 21. This amendment would remove a requirement for the register of children not in school to include details of how much time a child spends being educated by parents.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "With this it will be convenient to discuss the following: Amendment 63, in clause 25, page 49, line 23, after “parent” insert “in respect of each individual or organisation which provides such education for more than six hours a week”. This amendment would ensure that information relating to short activities such as those operated by museums, libraries, companies and charities, as well as individual private tutoring activities, would only need to be recorded on the register of children not in school if they are provided for more than six hours a week. Amendment 64, in clause 25, page 49, line 36, at end insert— “(1A) The requirements of subsection (1)(e) do not apply to provision provided on weekends or during school holidays.” Amendment 86, in clause 25, page 49, line 36, at end insert— “(1A) The requirement to provide information under subsection (1)(b) does not apply where a safeguarding concern in respect of either parent has been identified.” Amendment 65, in clause 25, page 50, line 41, at end insert— “(2A) The Secretary of State may only require further information about children to be included on the register by introducing regulations subject to the affirmative procedure.”",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "The principle of having a register for children not in school has long-held cross-party support. However, as I outlined in the debate on clause 24, there are very different groups of children who may be educated at home. In our eagerness to safeguard vulnerable children, we must also make every effort not to stigmatise or treat as suspicious parents who make a positive choice to home educate their children. In clause 25, subsections (c) to (e) of proposed new section 436C of the Education Act 1996 require a lot of very specific details from parents, such as the amount of time they spend providing education for their child. In the Bill that we brought forward when in Government, we used a rather broader approach, citing such details as the means by which the child is being educated. The drafting of the proposed the new section seeks to make all home schoolers provide a pretty extraordinary level of detail, on pain of breaking the law. We understand the intent, but our amendments seek to make that a bit more proportionate and a bit less intensely onerous for legitimate home-schooling parents. Amendment 62 would take out the requirement on parents to specify how much time a child spen",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I rise to speak in support of clause 25 and to amendment 86 in my name. As I said on Second Reading, the Liberal Democrats strongly support the introduction of a register of children not in school; it is an overdue measure which is supported by all parties, and I am very glad to see this Government introducing it. I know from my own inbox, as well as from the many pieces of written evidence the Committee has received, that many parents of home-educated children feel that the register is an attack on them, so I want to reiterate—it is certainly my own party’s position—that we fundamentally support parents’ right to choose to home educate. This is about keeping children safe. We have had so many reports, not least from the Children’s Commissioner about children just disappearing from the system, and about how important this register is. The National Society for the Prevention of Cruelty to Children and other children’s organisations also support it. I share the concerns of the hon. Member for Harborough, Oadby and Wigston around how much information is being asked of families to provide for this register, as stated on the face of the Bill. As I sat during Christmas recess reading it,",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I worry that local authorities are going to drown in a sea of information; rather than having simple information they can use to make a decision; they will have so much that they will be wading through it and everything will be slowed down.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Absolutely—I agree completely. I was talking to the director of children’s services in my own borough earlier this week about it, and read the provisions to him. I think he was shocked as well, and wondered how they would be implemented. I say this very much in the spirit of making the measure workable, but I urge Ministers to think again about the amount of information being collected. We think that a number of the amendments tabled by His Majesty’s Opposition are sensible and proportionate, and would mean that the measure is less intrusive. Amendment 86, which stands in my name and that of my hon. Friend the Member for St Neots and Mid Cambridgeshire, is a simple safeguarding provision. Where both parents are required to give their details, if there is a safeguarding reason that it would be bad for one parent’s address to be revealed to the other, for example because it would make the child or the other parent unsafe in a case of domestic abuse, the amendment would mean that that requirement did not apply. It would make sure that everybody is kept safe. I have a couple of other comments on the level of detail required. Have Ministers thought about whether the measure will have a ",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I join colleagues in finding troubling the level of detail to be required of home-educating parents. The amendment tabled by my hon. Friend the Member for Harborough, Oadby and Wigston would make sensible adjustments to that, for example by deleting the requirement to show the split between how many hours are done by parent 1 and how many by parent 2. The Government could also amend the frequency of reporting to something more reasonable—or, handily, there is a piece of text ready and waiting, because a private Member’s Bill last year from my then hon. Friend the Member for Meon Valley contained the text for a proposed new section 436C. Proposed new section 436E concerns providers. Did Ministers consider approaching this measure in a completely different way? They could have said that the onus should be on the provider to say who they are and to demonstrate their bona fides, with Disclosure and Barring Service checks and so on, as part of a light-touch registration regime. I am not necessarily advocating such a scheme, but what other models were thought about? On proposed new section 436G, Ministers will know that a gripe of home-educating parents is that a lot is asked of them but",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I will just register this point again for Ministers to consider. A lot of people are surprised to learn that although a school will pay for a child to enter GCSEs and the like, home educators do not enjoy that benefit. If we want to make it easier for people to home school their children properly, rather than their children just being out of school, we need to address that long-standing issue. I wonder whether Ministers will consider that point?",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "My hon. Friend’s intervention brings me to my final point. Apart from the cost issue, there is the simple question of access and of children being able to sit the GCSE. As there is a vast amount of detail involved, it would be helpful to say that local authorities should ensure that entry to examination centres is possible for those children.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Amendments 62, 63 and 64, in the names of the shadow Minister and the hon. Member for Central Suffolk and North Ipswich, and amendment 86, which was tabled by the hon. Members for Twickenham and for St Neots and Mid Cambridgeshire, would remove requirements for parents to provide certain information for children not in school registers. Section 7 of the Education Act 1996 makes it clear that it is the responsibility of parents to ensure that their children “receive efficient full-time education suitable” for them. We know that many parents work hard to do so, including parents who home educate. However, some children not in school are not receiving a full-time education that allows them to achieve and thrive. Where that is the case, it is essential that local authorities can identify and support them. This is a fundamental objective of the children not in school register. Information on the amount of time that a child receives education from their parents, combined with information on where the child receives education other than with their parent, is a crucial part of building the picture of home-educated children’s circumstances. Amendment 62 would mean that that picture could no",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I would have thought it was pretty clear that our intent was to provide information on the aggregate rather than the individual. Of course we do not publish individuals’ GCSE results anywhere, but does the Minister have a disagreement in principle with the idea of publishing aggregate data on the achievement of this group of young people?",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "That is not something that we are currently considering, but the shadow Minister’s point will be recorded in Hansard . The Department for Education is responsible for driving high and rising standards in state schools across the country. DFE headline data is therefore focused on pupils at the end of key stage 4 attending state-funded schools in England. To hold state-funded schools to account, the Department publishes performance data for schools and colleges. The purpose of that performance data is not to provide information about the attainment or achievement of individual pupils. The Department publishes performance data at a regional and national level, so that it can track the performance of the state-funded sector. Including children not educated in the state school system would distort these figures and make it more difficult to monitor the performance of state schools. In choosing to home educate, parents are opting out of this system and assuming responsibility and accountability for the education of their child, whether they choose GCSEs or any other type of qualification. I also recognise that some home-educating children choose not to take any public examinations. This ",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Amanda Martin",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "I know that parents who are home educators have faced a tough decision on this. Looking at the information provided, I think it is clear from the Government that we are not lambasting or judging those parents for taking their children out of school. Does the Minister agree that we must ensure that we know who and where every single adult is who comes into a child’s education? The listing that we are providing will enable us to do that, to ensure that children aresafe whether they are being home educated by a parent or using another provider within their home education setting.",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for her intervention. These measures are proportionate and are to ensure that every child is kept safe. I welcomed the comments from the shadow Minister earlier; we seek cross-party support on these measures to keep all children safe. Where a child is eligible for inclusion on the children not in school register, the local authority will have a duty to provide support to the parents of that child if the parent requests it. By focusing support on advice and information, we can ensure that local authorities give a consistent baseline level of support to those who request it. We know that some authorities are already offering carefully considered support packages that go beyond the baseline to meet the needs of families in their local areas. Authorities will continue to have the discretion to offer that additional support. The measures set out how local authorities in England may share information from their registers with other relevant local authorities and specified bodies, and how they are required to share information with the Secretary of State on request. Appropriate information sharing will create a more complete picture of individual children, and where",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Amanda Martin",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "On that point, we know that at the moment, not all local authorities provide support to our home-educating parents. Will these measures allow for some best practice to be shared, and place a duty on local authorities to provide help and support if requested?",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I know that my hon. Friend has been meeting home educators in her own local authority area who have had a difficult relationship with Portsmouth city council. I know that she will take those concerns to that local authority and feed back to home-educating parents. To address a point that was raised earlier, local authorities may also be able to analyse information from the registers and take action, should that be deemed necessary—should families feel forced into home education due to dissatisfaction with schools or mental health concerns, for example. The hon. Member for Twickenham also raised a number of points about the disproportionate impact on SEND families. We have undertaken a thorough equality impact assessment, and this information will allow local authorities to provide more tailored support to those children.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "We will withdraw our amendment today, but overall, we are still not persuaded that the objectives that we all share for this Bill could not be met in a more proportionate and less bureaucratic way. I hope that their lordships will have further thoughts on that. I beg to ask leave to withdraw the amendment. Amendment, by leave, withdrawn.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "I think the hon. Member for Twickenham gave notice that she wished to move amendment 86.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "No, I do not wish to move it. I just wanted to make one comment on the last sentence from the Minister.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Sorry, but we have debated it now. It would be time to move amendment 86. Sorry, I misunderstood the hon. Lady.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I would like to speak on the impact assessment.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Imminently.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Imminently? Okay. Clause 25 ordered to stand part of the Bill. Clause 26 School attendance orders",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Neil O'Brien (Harborough, Oadby and Wigston) (Con)",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I beg to move amendment 69, in clause 26, page 63, line 18, at end insert— “(7) A school may submit an appeal against a school nomination notice to the School Admissions Adjudicator for the reasons given in this part and for any other reason. (8) During the appeal period, the school will be responsible for the education of the child.” This amendment allows schools to appeal nomination notices.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "With this it will be convenient to discuss clause stand part.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "The amendment would set up a right of appeal. A lot of other measures in the Bill have rights of appeal—we have discussed some of them in earlier sittings—and such an appeal would not hold up an order because the amendment specifies that “During the appeal period, the school will be responsible for the education of the child.” However, the amendment would give the school the right to an appeal where a completely inappropriate child is ordered to attend it. Although we support the principle of the clause, we have a number of concerns. First, subsection (2) of the proposed new section 436I of the Education Act 1996 sets out points that the local authority must consider when deciding if a school attendance order is appropriate. Those points include considering “how the child is being educated and what the child is learning, so far as is relevant in the particular case”. I hope the Minister agrees that this needs careful thought, in consultation with families. There is a slightly Orwellian ring to the idea of a local authority deciding what it is appropriate for a parent to teach their child. In practice—as Members have said—many parents of children with special needs do not home educa",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "The amendment seeks to provide a route of appeal to the adjudicator for a school named in a nomination notice for a school attendance order. It is unnecessary because there is an existing route of appeal in proposed new section 436M of the Education Act 1996. That new section provides that a school can request a direction from the Secretary of State within 10 days of being told of the local authority’s intention to name them in a nomination notice. That reflects the existing legislation, as the same right is contained in section 439 of the 1996 Act.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "To be clear, instead of having an appeal to, say, the adjudicator, the only appeal would be to the Secretary of State, who would be acting in a judicial capacity in that respect.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Yes, that is my understanding. The provision proposed by the Bill strikes the right balance between giving schools a say and protecting a child’s right to a safe and suitable education. The amendment is therefore not only unnecessary but would disadvantage children. By placing no time limit on when an appeal may be brought, it means that a school could appeal at any time after being named in a notice. That could result in a child’s education being disrupted unexpectedly and impact the child’s sense of security and belonging in the school. I therefore kindly ask that the hon. Gentleman withdraw the amendment. I will now speak to the clause. Parents of every child of compulsory school age must secure efficient and full-time education that is suitable to that child’s age, ability, aptitude and special educational needs. When children are not receiving a suitable education, the school attendance order process addresses that through requiring regular attendance at a named school. The clause amends the school attendance order process in England to extend and strengthen it. In addition to addressing instances when a child is not in receipt of suitable education, as school attendance order",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Although we still think it would be better to have an appeal to an independent adjudicator rather than the Secretary of State, I beg to ask leave to withdraw the amendment. Amendment, by leave, withdrawn. Clause 26 ordered to stand part of the Bill. Clause 27 Data Protection Question proposed, That the clause stand part of the Bill.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "With this it will be convenient to discuss the following: Clause 28 stand part. Clause 29 stand part. Schedule 1.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Clause 27 ensures that the processing of personal information, as required or enabled by this Bill, does not contravene the Data Protection Act 2018. I recognise that many parents want reassurance that the data held on local authority children not in school registers will be protected and shared in accordance with data protection legislation and the UK GDPR principles. This clause helps ensure that high standards of information security, privacy and transparency are adhered to when personal information is processed as part of the new duties and powers connected to children not in school registers, as well as when parents of some children are required to receive local authority consent to home educate. I commend the clause to the Committee. Clause 28 provides for statutory guidance to be issued to local authorities on how they should carry out their duties in relation to keeping the children who are not in school registered, and the associated school attendance order process. That guidance will be crucial in supporting local authorities to exercise their new duties in a clear and consistent manner. For example, we expect it to include further advice on how local authorities should d",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  }
+ ],
+ "fetched": "2026-10-21T20:25:02Z"
+}

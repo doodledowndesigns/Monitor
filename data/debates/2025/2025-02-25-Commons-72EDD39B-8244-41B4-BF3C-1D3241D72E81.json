@@ -1,0 +1,1061 @@
+{
+ "ext_id": "72EDD39B-8244-41B4-BF3C-1D3241D72E81",
+ "date": "2025-02-25",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [Lords]",
+ "parents": [
+  "Commons Chamber"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2025-02-25/debates/72EDD39B-8244-41B4-BF3C-1D3241D72E81/InstituteForApprenticeshipsAndTechnicalEducationTransferOfFunctionsEtcBillLords",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 4460
+  },
+  {
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education",
+   "member_id": 4046
+  },
+  {
+   "name": "Sir Ashley Fox",
+   "party": "Con",
+   "seat": "Bridgwater",
+   "member_id": 5101
+  },
+  {
+   "name": "Sir John Hayes",
+   "party": "Con",
+   "seat": "South Holland and The Deepings",
+   "member_id": 350
+  },
+  {
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow",
+   "member_id": 5237
+  },
+  {
+   "name": "Mr Perkins",
+   "party": "Lab",
+   "seat": "Chesterfield",
+   "member_id": 3952
+  },
+  {
+   "name": "Gareth Snell",
+   "party": "Lab/Co-op",
+   "seat": "Stoke-on-Trent Central",
+   "member_id": 4595
+  },
+  {
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East",
+   "member_id": 5210
+  },
+  {
+   "name": "Luke Taylor",
+   "party": "LD",
+   "seat": "Sutton and Cheam",
+   "member_id": 5103
+  },
+  {
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks",
+   "member_id": 4780
+  },
+  {
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood",
+   "member_id": 4510
+  },
+  {
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire",
+   "member_id": 5096
+  },
+  {
+   "name": "Andrew Pakes",
+   "party": "Lab",
+   "seat": "Peterborough",
+   "member_id": 5243
+  },
+  {
+   "name": "Lee Barron",
+   "party": "Lab",
+   "seat": "Corby and East Northamptonshire",
+   "member_id": 5315
+  },
+  {
+   "name": "Luke Murphy",
+   "party": "Lab",
+   "seat": "Basingstoke",
+   "member_id": 5248
+  },
+  {
+   "name": "Gurinder Singh Josan",
+   "party": "Lab",
+   "seat": "Smethwick",
+   "member_id": 5059
+  },
+  {
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire",
+   "member_id": 3969
+  },
+  {
+   "name": "Anna Gelderd",
+   "party": "Lab",
+   "seat": "South East Cornwall",
+   "member_id": 5353
+  },
+  {
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East",
+   "member_id": 5152
+  },
+  {
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen",
+   "member_id": 5270
+  },
+  {
+   "name": "Leigh Ingham",
+   "party": "Lab",
+   "seat": "Stafford",
+   "member_id": 5290
+  },
+  {
+   "name": "Lee Pitcher",
+   "party": "Lab",
+   "seat": "Doncaster East and the Isle of Axholme",
+   "member_id": 5233
+  },
+  {
+   "name": "Tom Collins",
+   "party": "Lab",
+   "seat": "Worcester",
+   "member_id": 5087
+  },
+  {
+   "name": "Josh Dean",
+   "party": "Lab",
+   "seat": "Hertford and Stortford",
+   "member_id": 5187
+  },
+  {
+   "name": "Dan Aldridge",
+   "party": "Lab",
+   "seat": "Weston-super-Mare",
+   "member_id": 5172
+  },
+  {
+   "name": "Lauren Edwards",
+   "party": "Lab",
+   "seat": "Rochester and Strood",
+   "member_id": 5298
+  },
+  {
+   "name": "Maya Ellis",
+   "party": "Lab",
+   "seat": "Ribble Valley",
+   "member_id": 5228
+  },
+  {
+   "name": "Steve Yemm",
+   "party": "Lab",
+   "seat": "Mansfield",
+   "member_id": 5194
+  },
+  {
+   "name": "Kirith Entwistle",
+   "party": "Lab",
+   "seat": "Bolton North East",
+   "member_id": 5095
+  },
+  {
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North",
+   "member_id": 5294
+  },
+  {
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell",
+   "member_id": 5165
+  },
+  {
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North",
+   "member_id": 5143
+  },
+  {
+   "name": "Antonia Bance",
+   "party": "Lab",
+   "seat": "Tipton and Wednesbury",
+   "member_id": 5048
+  },
+  {
+   "name": "Adam Thompson",
+   "party": "Lab",
+   "seat": "Erewash",
+   "member_id": 5044
+  },
+  {
+   "name": "Alison Hume",
+   "party": "Lab",
+   "seat": "Scarborough and Whitby",
+   "member_id": 5254
+  },
+  {
+   "name": "Amanda Hack",
+   "party": "Lab",
+   "seat": "North West Leicestershire",
+   "member_id": 5149
+  },
+  {
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston",
+   "member_id": 4679
+  },
+  {
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education",
+   "member_id": 4698
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "The reasoned amendment in the name of Ian Sollom has been selected.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Secretary of State for Education (Bridget Phillipson)",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I beg to move, That the Bill be now read a Second time. We are a country of incredible talent and enterprise; a country of industry and invention. Our universities lead the world. Our colleges deliver excellence to hundreds of thousands up and down the country. British companies founded on great ideas export their products across the globe. Our strengths range from research to manufacturing and from professional services to creative industries, yet there remains a wide and growing gap between where we are now and what I know our great country is capable of, because, despite our many strengths, there are skills missing from our workforce. There are skills missed by people who want to get on in life, get better training to land that great job and earn a decent living; skills missed by our employers, with businesses, hospitals, labs and factories held back; skills missed by so many of our communities, with towns and cities left behind as industry has moved on; and skills missed by our country. Those skills are vital to the security and growth that this Labour Government are so determined to deliver. Our latest data shows us that half a million vacancies sit empty simply because employ",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sir Ashley Fox (Bridgwater) (Con)",
+   "member_id": 5101,
+   "type": "Contribution",
+   "text": "Would the Secretary of State agree that one of the difficulties is that employers cannot spend the money from the apprenticeship levy easily, and that too much of that money is retained by the Treasury? Will she undertake to speak to the Chancellor to see whether she could make it easier for employers to spend that money on training?",
+   "name": "Sir Ashley Fox",
+   "party": "Con",
+   "seat": "Bridgwater"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I can assure the hon. Gentleman that the Chancellor is as committed as I am to ensuring that we have the right skills within the economy, because without them we will not be able to deliver the economic growth that is the No. 1 mission of this Labour Government. But we are committed to reforming the failing apprenticeship levy, reforming the system and converting it into a growth and skills levy with more flexibility for employers. As a first step, this will include shorter-duration and foundation apprenticeships in targeted sectors, making sure that we are working more effectively with employers in order for our economy to grow.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sir John Hayes (South Holland and The Deepings) (Con)",
+   "member_id": 350,
+   "type": "Contribution",
+   "text": "I welcome the commitment to skills that the Secretary of State is articulating, but will she recognise that too often the advice given to young people, particularly from schools, is to pursue an academic career—I use the word “academic” in the loosest possible sense—rather than to engage in practical learning? That means that while the shortages she describes are profound, there are also many people who are graduates in non-graduate jobs owing a lot of money and with pretty useless degrees.",
+   "name": "Sir John Hayes",
+   "party": "Con",
+   "seat": "South Holland and The Deepings"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I was almost on the point of saying that I agreed with much of what the right hon. Gentleman had to say, but unfortunately he went and ruined it at the end with that comment about the value of university education and of having the chance to gain a degree. Where I do share common cause with him is that I want to make sure that all young people have a range of pathways available to them, including fantastic technical training routes, including through apprenticeships, but I also want to make sure that young people with talent and ability are able to take up a university course if that is the right path and the right choice for them. As we were recently celebrating National Apprenticeship Week, I took the opportunity to see across the country some of the fantastic routes that are available in areas such as construction and nuclear, with really wonderful job opportunities and careers where young people are able to make fantastic progress.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Chris Vince (Harlow) (Lab/Co-op)",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "I had the opportunity to visit Harlow College during National Apprenticeship Week, and I really agree with the points that my right hon. Friend is making. Does she agree that if we are to achieve the new homes targets that we really want to achieve and get people off the streets and into those homes, we need to train those apprentices now and that Skills England can be part of that future?",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I agree with my hon. Friend, and I know how much he champions, in his constituency and in the House, opportunities for young people to have the chance to take on new skills, including through apprenticeship routes. Where it comes to construction, he is right to say that there are fantastic opportunities out there. It was heartening, during some of my visits during National Apprenticeship Week, to see the fantastic contribution that women play in construction, breaking down some of the stereotypes that exist about the right opportunities, and to meet some amazing engineering apprentices and bricklaying apprentices. Those women are really trailblazing in an industry that is often very male-dominated.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Toby Perkins (Chesterfield) (Lab)",
+   "member_id": 3952,
+   "type": "Contribution",
+   "text": "On the subject of construction, does my right hon. Friend agree that a huge amount of the construction industry is made up of small employers and that one of the biggest failings of the apprenticeship levy approach has been that small and medium-sized enterprises have been shut out? We have had a 50% reduction in the number of SMEs offering apprenticeships since the introduction of the levy. How will she increase the number of SMEs that are able to offer apprenticeships? If the major employers are the ones that have all the budget, how do we ensure that we increase the number of SME apprenticeships?",
+   "name": "Mr Perkins",
+   "party": "Lab",
+   "seat": "Chesterfield"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend has a long-standing interest in this area and has consistently raised not only the challenges faced by small businesses but the opportunities to create more apprenticeship starts and more training routes for people across our country. One of the changes that we set out during National Apprenticeship Week was to the maths and English requirements for adult apprentices, which will make a big difference to employers large and small and was welcomed by business, but he is right to say that much more is needed to help smaller employers and small contractors to take on apprentices. That is the work that Skills England will drive forward and that is why this Bill is such a crucial development. The skills gaps that we face in our country deny people the opportunity, the power and the freedom to choose the life that they want to live. But it is not just today that we count the cost; those gaps limit our power to shape the careers, the economy and the society of tomorrow as well. Only with the right skills can people take control of their future, and only with the right skills system can we drive the growth that this country needs. It is time this country took skills seriously",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Gareth Snell (Stoke-on-Trent Central) (Lab/Co-op)",
+   "member_id": 4595,
+   "type": "Contribution",
+   "text": "The figure in Stoke-on-Trent is even more stark, with 22% of young people not in education, employment or training. We have a wonderful ecosystem of colleges, with Stoke sixth form college, Stoke-on-Trent college and the University of Staffordshire, but as my hon. Friend the Member for Chesterfield (Mr Perkins) said, we also have small and medium-sized organisations. Can the Secretary of State set out how this Bill will help an organisation such as the Spark Group, run by Dan Canavan, to tap into opportunities in order to spread his ability to help those young people into well-paid jobs in my community?",
+   "name": "Gareth Snell",
+   "party": "Lab/Co-op",
+   "seat": "Stoke-on-Trent Central"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend names a fantastic business in his constituency and the contribution that it makes. There is a lot more that we need to do to support smaller employers to be in a stronger position to benefit from apprenticeships. This Bill will bring together the many disparate parts of a very fragmented system, which employers, particularly smaller employers, often find hard to navigate the right way through, and are not always clear about the best training and qualification routes in order to find the people that they need. Also, the changes we have made to English and maths in particular will support employers to create 10,000 additional apprenticeships every single year. [ Official Report , 26 March 2025; Vol. 764, c. 6WC.] (Correction) This was a call that we heard loud and clear from employers, and it is a simple, straightforward change that will open up opportunities for people across our country. They will still have the English and maths standards as part of their apprenticeship, but they will no longer be held back by some of the red tape that has denied them the chance to get on in life. The skills system that we have right now is too fragmented, too confusing and too tang",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Tom Hayes (Bournemouth East) (Lab)",
+   "member_id": 5210,
+   "type": "Contribution",
+   "text": "I represent a coastal community. Coastal communities have been forgotten over the past 14 years almost as much as the skills agenda. In my constituency, Bournemouth and Poole college led by Phil Sayles, who is doing incredible work, is about to open the green energy construction campus in April, which will enable solar, heat pump and rainwater capture skills to be taught to apprentices and trainees. Will my right hon. Friend join me in congratulating the college, and does she agree that colleges like that one are critical to achieving clean power by 2030?",
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am delighted to hear my hon. Friend’s experience from Bournemouth. Our colleges are a crucial part of how we ensure that we have the skills we need in our economy, but also how we will drive forward our agenda on clean energy. He is also right to identify the enormous opportunities for jobs, growth and training, as well as, crucially, the imperative of ensuring that we have stability and security in our energy supply, so that never again are we so exposed to the fluctuations of energy markets that happened because of the invasion of Ukraine.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Luke Taylor (Sutton and Cheam) (LD)",
+   "member_id": 5103,
+   "type": "Contribution",
+   "text": "I want to amplify the valuable skills that our colleges are teaching in renewable technologies. I recently visited South Thames college in Wandsworth, where I saw the labs it has set up to teach the installation of heat pumps and other renewable technologies. The main challenge that the college faces is finding staff to teach the classes and to take on the apprentices and all the other learners. What support will the Government give to colleges to ensure that they can recruit experienced individuals to pass on those skills to the apprentices, so that we can provide the workforces that we dearly need?",
+   "name": "Luke Taylor",
+   "party": "LD",
+   "seat": "Sutton and Cheam"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "The hon. Gentleman is right about the challenges across the further education sector. Sadly, we know those challenges all too well after 14 years of failure under the Conservatives. We recognise the enormous opportunity that comes from investing in our fantastic colleges. That is why at the Budget we announced an extra £300 million of additional revenue for further education and £300 million of new capital investment. That also builds on our investment to extend targeted retention incentive payments of up to £6,000 after tax to eligible early career FE teachers in key subject areas. Our FE sector will have a crucial role to play in our mission for growth and opportunity, and he is right to draw attention to that. Skills England will be ready to give employers the fast and flexible support they need. While updates to courses in the past have been sluggish and left behind by new technology, the Bill will help us keep up with the pace of change. Skills England will draw on high-quality data. It will design courses that are demand-led and shaped from the ground up by employers. Employers should be in no doubt that they will have a critical role in course design and delivery. That is wh",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Perkins",
+   "member_id": 3952,
+   "type": "Contribution",
+   "text": "I am grateful to the Secretary of State for giving way again. She is speaking incredibly powerfully and passionately about the role of Skills England, and I share her commitment and excitement about it, but as she knows, this IfATE Bill abolishes IfATE rather than creating Skills England. There were those who believed that putting Skills England on a statutory footing as an independent body, rather than keeping it in the Department, might have been the way to go. Will she explain to the House why she has taken this approach, and why she believes that Skills England will, as a body in her Department rather than as a truly independent body, have the strength and respect in the sector that it so badly needs?",
+   "name": "Mr Perkins",
+   "party": "Lab",
+   "seat": "Chesterfield"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I will set out the reason primarily and then say a little about the way in which Skills England will operate. First, the need to do it in this way is one of time and speed. As I hope I have set out to the House, the need to act is urgent; we must get on with this and ensure that we tackle the chronic skills shortages right across our country—there is no time to waste. The Government are determined to drive opportunity and growth in every corner of our country. Further delays to that will hold back not just growth but opportunities. When it comes to the function of Skills England and how it will operate, it will be an Executive agency of the Department for Education. It will have the independence that it needs to perform its role effectively, with a robust governance and accountability framework and a chair who brings an enormous wealth of experience from business. A strong, independent board, chaired by Phil Smith, will balance operational independence with proximity to Government. It will operate in the same way that many Executive agencies, such as the Driver and Vehicle Licensing Agency, already operate. As with any new arm’s length body, in the next 18 to 24 months we will revi",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Gareth Snell",
+   "member_id": 4595,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for being so generous with her time. I absolutely support her ambition of ensuring that we have the skills for the jobs of the future. Will she say a little about how Skills England will support foundational manufacturing industries, such as ceramics in Stoke-on-Trent, which will not be prioritised in the industrial strategy but still have a lot to offer our economy and are crying out for skills from local people? If we can get that right, we can grow our own economy, and that is true levelling up in my opinion.",
+   "name": "Gareth Snell",
+   "party": "Lab/Co-op",
+   "seat": "Stoke-on-Trent Central"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend always champions the ceramics industry in his constituency. We have had many conversations on that topic, and he is absolutely right to put it into context. Skills England will benefit the ceramics industry and his constituents because we will be able to move much more rapidly to make changes to qualifications and training requirements in order to meet the needs of employers, with further flexibility, shorter courses, and foundation apprenticeships for young people for the chance to get on, including in long-standing traditional industries as well as in future jobs and opportunities. The Bill is a crucial leap forward, bringing the different parts of the skills system closer together, and it paves the way for Skills England. It transfers the current functions of the Institute for Apprenticeships and Technical Education to the Secretary of State, not to exercise power from Westminster, but to empower the expert leadership of Skills England to drive the change we need. Bringing those functions to Skills England will place the content and design of technical qualifications at the heart of our skills system, where they belong. Skills England has existed in shadow form si",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the shadow Secretary of State.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Laura Trott (Sevenoaks) (Con)",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "I rise to speak on a piece of legislation that poses more risks than benefits and proves that there is not parity of esteem for technical and academic qualifications within the Government. The Secretary of State is putting forward a Bill that allows her personally to write each apprenticeship assessment. Just in case you think I am exaggerating, Madam Deputy Speaker, we can see it in the explanatory notes. The Bill provides “the option for each standard and apprenticeship assessment plan to be prepared by the Secretary of State”. Madam Deputy Speaker, can you imagine the outcry if this was done with history GCSEs? If it were a Conservative Government taking these powers, there would be howls of outrage from the Labour party. It is extraordinary that the Government are, contrary to the words of the Secretary of State today, cutting out employers and giving sole discretion to the Secretary of State. They would not allow it with academic qualifications; we must not allow it with vocational ones. I acknowledge the statement made in the other place about clarifying the situations when the Government envisage the Secretary of State intervening, but the specific criteria for using this po",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Mr Perkins",
+   "member_id": 3952,
+   "type": "Contribution",
+   "text": "I am listening carefully to the right hon. Lady. She seems to be evangelising the role of IfATE, but I have heard far stronger criticisms of it than she appears to make. Is her position that IfATE does not have many faults and should carry on the way it is, or does she think that the organisation’s remit has grown and is vague, and most employers feel that it is a block to getting the standards they need, rather than the vehicle for that, as she seems to suggest?",
+   "name": "Mr Perkins",
+   "party": "Lab",
+   "seat": "Chesterfield"
+  },
+  {
+   "who": "Laura Trott",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "I have huge respect for the hon. Gentleman and thought his earlier question was spot on. There is much that needs to be improved, but that is much less vague than Skills England, which is what we have in front of us at the moment. There are risks of distraction, with the time and cost involved in creating a new agency in the Department for Education. If the Government were serious about progressing quickly with the urgent strategic issues that I accept are needed in skills reform, the most effective step would be to build on the success of IfATE, rather than dismantling it. Instead, the Bill threatens to undo much of the progress made under successive Conservative Governments in building a world-class apprenticeships and technical education system. It is fiddling for no reason, change for no purpose and, as is so often the case with this Government, the opposite of what is required.",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the Chair of the Education Committee.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Helen Hayes (Dulwich and West Norwood) (Lab)",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "The further education and skills sector is of strategic importance, and equipping our workforce with the skills that employers need is critical for economic growth. Ensuring that there are opportunities for young people and those mid-career to access high-quality training in order to enhance and develop their skills is vital for breaking down the barriers to opportunity that hold back far too many people. For far too long, the further education and skills sector has been the Cinderella service of our education system, patronised with lip service about how important it is, always regarded as second best, and never allocated the level of funding needed to really deliver. Despite the fact that at the very peak only around one third of 18-year-olds go on to university, our school system is overwhelmingly orientated to communicate to young people that university is the option they should all aim for, rather than supporting a plurality of education options post-18, all of which can equip them well for a successful career. That has created a postcode lottery in which the high-quality further education and training opportunities that are available in some parts of the country are not avail",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Sir John Hayes",
+   "member_id": 350,
+   "type": "Contribution",
+   "text": "The hon. Lady is making a profoundly important point that reinforces what I said earlier about careers advice and guidance. When I was skills Minister, I introduced a statutory duty on providers to make available free and independent advice. The problem is that that is often done by means of the internet. Schools will refer students to the internet, rather than bring people such as independent advisers into the school to guide them. She is right that the best solution to the problem she sets out is exactly that kind of involvement from careers advisers with students.",
+   "name": "Sir John Hayes",
+   "party": "Con",
+   "seat": "South Holland and The Deepings"
+  },
+  {
+   "who": "Helen Hayes",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "I thank the right hon. Member for his intervention. I was delighted recently to visit a school in my constituency, and a careers fair that gave young people the opportunity to meet many employers and providers of further education face to face, in order to give real meaning and reality to what such opportunities might provide in the future. It is important that young people have those opportunities. Recently, I was delighted to visit the Lambeth college campus in Vauxhall, which is part of the Southbank University group, with my hon. Friend the Member for Vauxhall and Camberwell Green (Florence Eshalomi). We met young people engaged in cutting-edge training in robotics, renewable energy installation, dental technology and game design and production. They were being equipped with valuable skills to help them to access high-quality jobs, with the possibility, in some cases, of progressing their training all the way to degree level at the university. The college is a good example of a strategic vision being applied to skills at a local level to ensure that employers’ needs are being met, and that the best possible opportunities are made available to young people, but not everywhere ca",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the Liberal Democrat spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Ian Sollom (St Neots and Mid Cambridgeshire) (LD)",
+   "member_id": 5096,
+   "type": "Contribution",
+   "text": "I beg to move an amendment, to leave out from “That” to the end of the Question and add: “this House declines to give a Second Reading to the Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill because, while acknowledging the importance of reforming the delivery of skills and technical education, it fails to establish Skills England as a statutory independent body; because it centralises decision-making power in the hands of the Secretary of State; because it provides for the abolition of the Institute for Apprenticeships and Technical Education without ensuring a legally defined replacement; and because it lacks provisions to ensure that Skills England is directly accountable to Parliament.” The Government are right that our skills system needs reform. The Liberal Democrats agree with the Secretary of State that our current fragmented and confusing skills landscape lets down learners, frustrates businesses and holds back growth, as she made clear in her foreword to Skills England’s first report in the autumn. I and my hon. Friends on the Liberal Democrat Benches share the ambition to build a high-skill, high-productivity workforce that can meet ",
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire"
+  },
+  {
+   "who": "Sir John Hayes",
+   "member_id": 350,
+   "type": "Contribution",
+   "text": "The hon. Gentleman is making a powerful case for the independence of Skills England. He will know that Government Departments resist independence like most people resist disease, but his point is important because to get the kind of lateral action he describes in respect of the nuclear industry or other industries, it will be necessary for the body created to have a reach that Government Departments do not tend to have.",
+   "name": "Sir John Hayes",
+   "party": "Con",
+   "seat": "South Holland and The Deepings"
+  },
+  {
+   "who": "Ian Sollom",
+   "member_id": 5096,
+   "type": "Contribution",
+   "text": "I agree. That cross-departmental and cross-industry working is a critical reason for the need for a truly independent body. The implication for standards development is also concerning. Where we have had employer-led trailblazer groups setting standards, the Secretary of State can now bypass employers entirely. In limited circumstances and for minor changes, that will have the benefit of speeding up the review process, which has been frustrating for employers. There are, however, no safeguards to prevent ministerial control becoming the default approach. Instead of giving businesses a structural role, maximising responsiveness, the Bill makes engagement merely consultative. That speaks to a broader point: Skills England’s credibility with employers will be key if those employers are to buy into the Government’s skills vision for the country. Has the Secretary of State not at least considered the possibility that the proposed structure, whereby programmes can be driven at her whim or those of her successors, undermines that much-needed credibility from the start? The Government’s own impact assessment worries that there will be a “slowdown in the growth rate of new apprenticeships a",
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire"
+  },
+  {
+   "who": "Mr Perkins",
+   "member_id": 3952,
+   "type": "Contribution",
+   "text": "I see that the hon. Gentleman has received the briefing from the Association of Employment and Learning Providers. He appears to be reading it virtually word for word; I do not know whether he contributed anything to the speech, but it has been very interesting to hear what he has said. With the Bill having been through the House of Lords, the hon. Gentleman is proposing a wrecking amendment that would kill it. Although I sympathise with some of the points in his amendment, does he not think that with the reassurances that we have heard from the Secretary of State—which can be scrutinised over the course of this Bill’s progress—we can at least get Skills England set up at speed, so that it can take on the shape he is suggesting in future? The hon. Gentleman’s proposed approach would cancel all this reform. It would go right back to square one and stop reform dead in its tracks.",
+   "name": "Mr Perkins",
+   "party": "Lab",
+   "seat": "Chesterfield"
+  },
+  {
+   "who": "Ian Sollom",
+   "member_id": 5096,
+   "type": "Contribution",
+   "text": "I have looked beyond the AELP briefing, thank you very much. This is a critical area of Government policy, and it is important to get it right from the start. That is just a difference of approach. As my noble Friend Baroness Garden said in the other place, this looks like an innocuous little Bill, but there is so much more to it than meets the eye. It represents a fundamental shift away from employer leadership in our skills system towards ministerial whim, a shift away from statutory independence towards departmental convenience, and a shift away from proper parliamentary accountability towards rule by regulation. The Government may argue that this is just an enabling Bill to pave the way for Skills England, but that is precisely the problem. It enables the wrong thing—it enables centralisation when we need independence, it enables ministerial control when we need employer leadership, and it enables opacity when we need accountability.",
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire"
+  },
+  {
+   "who": "Andrew Pakes (Peterborough) (Lab)",
+   "member_id": 5243,
+   "type": "Contribution",
+   "text": "The hon. Member and I share a county, and he will be aware that in a place such as mine, we have seen the decimation of level 2 and 3 apprenticeships. Does he not recognise that the biggest concern I hear from employers is that the current system is centralised and letting down working-class families in seats like mine? What they want is Skills England. No employer has been to see me to speak against Skills England, but many have been to speak to me against the current system, because it does not give us flexibility. What might be all right for academic policy in Cambridge will not be all right in Peterborough. We need the change delivered now.",
+   "name": "Andrew Pakes",
+   "party": "Lab",
+   "seat": "Peterborough"
+  },
+  {
+   "who": "Ian Sollom",
+   "member_id": 5096,
+   "type": "Contribution",
+   "text": "I point out that I represent St Neots, which is not Cambridge, and many employers have spoken to me about their concerns about Skills England and the lack of clarity on its future. We cannot support this Bill. That is not because we oppose reform—we desperately need it—but because centralising power in the hands of Ministers, removing proper scrutiny and weakening employer involvement in our skills system will make things worse, ultimately. Learners, employers and our economy deserve better than this overcentralisation of power.",
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire"
+  },
+  {
+   "who": "Gareth Snell",
+   "member_id": 4595,
+   "type": "Contribution",
+   "text": "Will the hon. Member give way?",
+   "name": "Gareth Snell",
+   "party": "Lab/Co-op",
+   "seat": "Stoke-on-Trent Central"
+  },
+  {
+   "who": "Ian Sollom",
+   "member_id": 5096,
+   "type": "Contribution",
+   "text": "I am going to finish now. Learners and employers deserve a properly independent Skills England with the authority and accountability to drive real change. I urge the Government to think again and bring forward legislation that delivers the genuine reform that our skills system needs.",
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire"
+  },
+  {
+   "who": "Lee Barron (Corby and East Northamptonshire) (Lab)",
+   "member_id": 5315,
+   "type": "Contribution",
+   "text": "I speak today in support of this much-needed Bill, and I ask Members to do the same. This Bill is not just a piece of legislation, but the foundation for an English skills revolution. It will give our workforce the right tools to boost our economy, fix the skills shortages and provide real opportunities for millions across the country. I started off as an apprentice when I left school at 16. The academic school did not work for me as far as my education was concerned, but the apprenticeship gave me opportunities that I could not have otherwise reached. It got me into the world of work. It got me active and away from a desk, and it led me on to a path that, frankly, the classroom could not provide. For too long—this has already been said today—vocational qualifications have been looked down on and seen as second-rate, but they allow people to reach their full potential in a way that fits in with them. This Bill is a crucial step in delivering the Government’s manifesto promise to set up Skills England, which will take a smart, joined-up approach to ensuring our workforce has the skills our economy needs. By bringing businesses, training providers, unions and local leaders together u",
+   "name": "Lee Barron",
+   "party": "Lab",
+   "seat": "Corby and East Northamptonshire"
+  },
+  {
+   "who": "Sir Ashley Fox (Bridgwater) (Con)",
+   "member_id": 5101,
+   "type": "Contribution",
+   "text": "This Bill is important for the future of technical education and apprenticeships in our country, and I accept that the Government’s intention is to streamline the governance and management of skills. However, I believe that, in its current form, the Bill threatens to centralise the system to such an extent that it may undermine the independence and effectiveness of our skills system. The Institute for Apprenticeships and Technical Education was established with the clear purpose of ensuring that apprenticeship standards and assessments were determined with the input of employers, education providers and industry experts. I fear that by abolishing this body in favour of a group of civil servants appointed by the Secretary of State, the Government will make technical education less responsive to the needs of the labour market. The Bill removes the requirement to publish regular reviews of occupational standards and apprenticeship assessment plans. The Government say that removing this duty allows for much greater flexibility, but they are doing so without ensuring that the views of employers, educators and other relevant bodies will continue to be heard and considered. The Bill grant",
+   "name": "Sir Ashley Fox",
+   "party": "Con",
+   "seat": "Bridgwater"
+  },
+  {
+   "who": "Luke Murphy (Basingstoke) (Lab)",
+   "member_id": 5248,
+   "type": "Contribution",
+   "text": "I am afraid the hon. Member and the shadow Secretary of State speak as if the Institute for Apprenticeships and Technical Education was an unblemished success. Between 2018-19 and 2023-24, apprenticeship starts in England per capita dropped by 16%, so how is it a responsive system? I think the House would be better served if Opposition Members acknowledged that. I understand why he is focused on structures, because that is in part what the Bill focuses on, but surely we should also be focused on outcomes, on which the previous Government were not delivering.",
+   "name": "Luke Murphy",
+   "party": "Lab",
+   "seat": "Basingstoke"
+  },
+  {
+   "who": "Sir Ashley Fox",
+   "member_id": 5101,
+   "type": "Contribution",
+   "text": "The pandemic clearly had something to do with that reduction. I would not say the system is perfect, but I fear that replacing it with a committee of civil servants appointed by the Secretary of State is likely to be less successful still. Amendments have been made in the other place to address some of these concerns. Specifically, a one-year delay was added between the establishment of Skills England and the commencement of the Bill, which would allow for a more effective transition and give Skills England a better chance of getting up and running. It is crucial that we do not damage the very real progress that was made on technical education under the last Government. During the general election, my party pledged to raise the number of people in high-skilled apprenticeships by 100,000 per year, representing a 30% rise. This was to recognise that, for many young people, apprenticeships represent a better way to enter the workplace than some university degrees. Bridgwater and Taunton College, based in my constituency, is the UK’s largest provider of apprenticeships, supporting thousands of learners in achieving their career ambitions. With over 120 apprenticeship programmes, the co",
+   "name": "Sir Ashley Fox",
+   "party": "Con",
+   "seat": "Bridgwater"
+  },
+  {
+   "who": "Gurinder Singh Josan (Smethwick) (Lab)",
+   "member_id": 5059,
+   "type": "Contribution",
+   "text": "I am pleased to speak on Second Reading of this Bill, which I welcome for its focus on overhauling the skills system in England, particularly in relation to apprenticeships and technical education. The creation of the Institute for Apprenticeships in 2017, with the subsequent addition of oversight for technical education, undoubtedly helped to create a system that increasingly includes higher-quality apprenticeships and increases the accessibility of these pathways to all. However, there are still too many in our country for whom unlocking their full potential remains a distant dream, which is fundamental to everything this Government have set out to achieve and to the future of our country. The missions driving this Government—the incredible plan for change, the drive to become self-sufficient as a nation on energy, defence and security, the need to increase growth in our economy, and the drive to improve the lives of all our citizens—all require a comprehensive plan for improving skills. The basic provisions of the Bill will abolish the Institute for Apprenticeships and Technical Education and transfer its functions ultimately to Skills England; there are also proposed changes to",
+   "name": "Gurinder Singh Josan",
+   "party": "Lab",
+   "seat": "Smethwick"
+  },
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "We cannot just wish it into being, we cannot assume it or assert it, and we cannot legislate for it: esteem is in the eye of the esteemer and parity of esteem is earned. In technical and vocational education and training, that requires a clear and understandable set of qualifications with high standards and specifications that people know cannot be fiddled because they have been set independently. It also requires equipping the individual with what they need to know and what they need to be able to do to succeed in a trade, craft or sector because those standards have been set by employers in that trade, craft or sector. Those things were at the heart of the blueprint set out for technical and vocational education in this country, which has been followed for the last number of years. I say the blueprint, but it was also a red print, because it was the vision of Lord Sainsbury, a Labour peer. In his landmark report, he set out that we needed to reform the system so that we had a streamlined set of qualifications with clear paths to vocations. His recommendations included: a minimum length of time for apprenticeships, along with a minimum length of time off the job; for T-levels, a m",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Anna Gelderd (South East Cornwall) (Lab)",
+   "member_id": 5353,
+   "type": "Contribution",
+   "text": "I welcome the Bill’s commitment to broadening educational opportunities and skills training, which is so urgently needed. As one of those young people who undertook my qualifications in the early 2000s, I assure the right hon. Member for East Hampshire (Damian Hinds) that they were rigorous and got me where I am today. Areas such as South East Cornwall have felt forgotten and left behind, cut off from the opportunities of economic growth in other parts of the UK. Labour understands the link between an individual’s education and training and the wider economic prosperity of our country. The Bill is an example of how we are rebuilding the country from the ground up, focusing on our young people. Where university or academic routes are not the right fit, apprenticeships offer vital, valuable alternatives not only for those enrolled, but for training providers, local businesses and the economy. Where someone is born and the circumstances in which they grow up should not limit where they go or what they achieve. This mission-driven Labour Government are making education a priority. It is a far cry from the previous Government, which saw apprenticeships collapsing, businesses pleading fo",
+   "name": "Anna Gelderd",
+   "party": "Lab",
+   "seat": "South East Cornwall"
+  },
+  {
+   "who": "Sir John Hayes (South Holland and The Deepings) (Con)",
+   "member_id": 350,
+   "type": "Contribution",
+   "text": "Much of this debate has been about the purpose of learning—the Secretary of State began in that spirit—and I think we can all agree that the purpose of learning is both to deliver personal fulfilment, through the acquisition of understanding and competencies, and to fulfil a social purpose by providing for economic needs. John Ruskin said: “The first condition of education is being able to put someone to wholesome and meaningful work.” Apprenticeships embody—indeed, they epitomise—that purpose. A trainee learns from a mentor a skill that has use in a workplace. The value of apprenticeships is why, when I was shadow Minister for universities, further education and skills, and subsequently the Minister in 2010, I set about revitalising the apprenticeships system. I knew that apprenticeships were well understood by employers, were widely recognised by the public and could be attractive to trainees. I will make a point on adult learning, provoked by the excellent contribution by the Liberal Democrat spokesman, the hon. Member for St Neots and Mid Cambridgeshire (Ian Sollom). It is vitally important to understand that in order to skill our workforce and provide it with the necessary com",
+   "name": "Sir John Hayes",
+   "party": "Con",
+   "seat": "South Holland and The Deepings"
+  },
+  {
+   "who": "Mrs Sureena Brackenridge (Wolverhampton North East) (Lab)",
+   "member_id": 5152,
+   "type": "Contribution",
+   "text": "Will the right hon. Gentleman give way?",
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East"
+  },
+  {
+   "who": "Sir John Hayes",
+   "member_id": 350,
+   "type": "Contribution",
+   "text": "I will happily give way. The hon. Lady is now going to test me on my practical incompetence.",
+   "name": "Sir John Hayes",
+   "party": "Con",
+   "seat": "South Holland and The Deepings"
+  },
+  {
+   "who": "Mrs Brackenridge",
+   "member_id": 5152,
+   "type": "Contribution",
+   "text": "I have a couple of points to make. Does the right hon. Member acknowledge the important role that universities play in supporting technical advanced education? Does he also agree that, under the stewardship of the last Government, we saw a decimation of specialist careers guidance in schools?",
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East"
+  },
+  {
+   "who": "Sir John Hayes",
+   "member_id": 350,
+   "type": "Contribution",
+   "text": "Yes, of course I acknowledge that role. It is important to point out that many of the universities do great work. I would not want to disparage that work, and the hon. Lady is right to draw the House’s attention to it. The point I was really making is that, sadly, many people are driven down a pathway that is just not right for them. That is because of the underestimation of the significance of practical accomplishment, both at an intellectual level—the unwillingness to recognise that practical accomplishment is of a high order—and at a practical level in terms of the advice that people are often given and may later regret. It is not easy for a young person to know quite what path to take, and if the advice they get skews them towards one route or another, it is fairly likely that they will be ill equipped to make a considered judgment. I am simply making the argument for, at the very least, a degree of equality about the advice we give to people. This Bill is questionable in a number of respects, and in particular, as has been highlighted by my right hon. Friend the Member for East Hampshire (Damian Hinds) and others, in the way that it presents the future management and control o",
+   "name": "Sir John Hayes",
+   "party": "Con",
+   "seat": "South Holland and The Deepings"
+  },
+  {
+   "who": "Andrew Pakes (Peterborough) (Lab)",
+   "member_id": 5243,
+   "type": "Contribution",
+   "text": "Will the right hon. Gentleman give way?",
+   "name": "Andrew Pakes",
+   "party": "Lab",
+   "seat": "Peterborough"
+  },
+  {
+   "who": "Sir John Hayes",
+   "member_id": 350,
+   "type": "Contribution",
+   "text": "I am grateful to the hon. Gentleman, who has been listening attentively to my speech so far.",
+   "name": "Sir John Hayes",
+   "party": "Con",
+   "seat": "South Holland and The Deepings"
+  },
+  {
+   "who": "Andrew Pakes",
+   "member_id": 5243,
+   "type": "Contribution",
+   "text": "I am worried that I might damn the right hon. Gentleman with faint praise because when he cited the numbers from when he was the Minister, one of the determinants of his success was the involvement of trade unions in the sector skills council and the partnership. While we have talked lots about employers, he was an advocate in his party of involving trade unions. Unfortunately, Ministers after him excluded trade unions from that involvement. Is he advocating that trade unions should be involved in the new system?",
+   "name": "Andrew Pakes",
+   "party": "Lab",
+   "seat": "Peterborough"
+  },
+  {
+   "who": "Sir John Hayes",
+   "member_id": 350,
+   "type": "Contribution",
+   "text": "I am immensely flattered that the hon. Gentleman has followed my career with such assiduity. He is right: I defended Unionlearn and would continue to do so. Trade unions can play a vital part in ensuring the outcomes that the Government say that they seek and that I certainly believe in. Indeed, I went on a delegation to Germany—this is a minor digression, Madam Deputy Speaker—to look at their apprenticeship system with employers and trade unions, because I know that the combination of trade unions and employers was critical to driving the skills agenda. Again, it would be useful to hear from the Government what they think about that. How will they engage with the trade unions? Because trade unions are not mentioned in the Bill at all, we are left to wonder what will happen, as my right hon. Friend the Member for East Hampshire said in his excellent speech, when the Secretary of State seizes control of apprenticeships from the current structure. There are a number of other questions to be put. The hon. Member for Chesterfield (Mr Perkins) made a very good point about SMEs. One challenge when I was a Minister, and for subsequent Ministers and this Government, was in engaging more SM",
+   "name": "Sir John Hayes",
+   "party": "Con",
+   "seat": "South Holland and The Deepings"
+  },
+  {
+   "who": "Luke Murphy",
+   "member_id": 5248,
+   "type": "Contribution",
+   "text": "Conservative Members are making quite the noise about IfATE’s independence, but I remind the House that this is a precedented move. The Conservative Government established the Standards and Testing Agency, which is currently the Executive agency and was formerly a non-departmental body. That is exactly the same status as IfATE, which performed very similar functions for many other kinds of qualifications and tests. Why was it okay for the right hon. Gentleman’s Government to do that in 2011? It seems that the Conservatives are more focused on the process point—a process similar to that undertaken by their Government—and not on the outcomes that will deliver for working-class kids interested in learning a trade.",
+   "name": "Luke Murphy",
+   "party": "Lab",
+   "seat": "Basingstoke"
+  },
+  {
+   "who": "Sir John Hayes",
+   "member_id": 350,
+   "type": "Contribution",
+   "text": "As I say, I am not an unbridled advocate of the Institute for Apprenticeships and Technical Education, which the Bill abolishes. I did not set it up during my stewardship. As I have already described, I would have preferred a different, guild-based model. Guilds would, by their nature, have been independent from Government. If we look at the German model, the guilds are sovereign, and they are closely tied, by the way, to the trade unions of the particular sectors for which they are responsible. I am simply saying to the Government, “Here is the chance to do something better.” One learns from experience and one learns from government experience, to be honest and straightforward about that. Certainly, there is the issue of standards. How will standards be determined and delivered? Will that be done by an independent body or a series of independent bodies, perhaps in different parts of the business community, or will it be done directly by the Department? What about the figures in the impact assessment, which says that there would be a reduction in the number of apprenticeships? We are already at a pretty pitifully low level. As I described earlier, the number of apprenticeship start",
+   "name": "Sir John Hayes",
+   "party": "Con",
+   "seat": "South Holland and The Deepings"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I had not been planning to introduce a formal time limit, but Members might reflect on how many are still standing and perhaps restrain themselves to five minutes or so.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Darren Paffey (Southampton Itchen) (Lab)",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "In rising to support the Bill, I want to say, without heaping too much praise on the right hon. Member for South Holland and The Deepings (Sir John Hayes), that it is a pleasure to follow him and many of the comments he made. Like him, I have arrived at this place through the academic route, and perhaps precisely because of that, I, like him, am incredibly aware of the value of the vocational, practical and apprenticeship route. It is in that value that the power of what the Bill is seeking to achieve lies, and I hope to return to that point. I thank the Secretary of State, who is no longer in her place, for bringing forward the Bill, because seven months ago this country voted for change, and what we see today is another building block of that very necessary change. On a recent visit to Southampton college’s marine skills centre in my constituency for National Apprenticeship Week last week, when it seems we were all busy making visits, I met some apprentices learning a whole range of skills, from engineering to electronics, to carpentry and yacht making. It was truly impressive, mostly because I would be entirely useless at all those skills. It reminded me that investing in appren",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Which hoops is the hon. Gentleman looking forward to the removal of?",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Darren Paffey",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "I think the best people to answer that would be the employers who, time and again, have been telling us—and, I am pretty sure, telling the right hon. Gentleman and his colleagues—about the pure bureaucracy and complexity of the system that has been set up. They are the best advocates of the need for change. By setting up Skills England we can give apprenticeships the flexibility and durability that we need, and that those training will need. Importantly, we can take the interests of employers and young people into account. If the years since 2010 have taught us anything, it is that poor policy has consequences. Sadly, the IfATE structure set up by the previous Tory Government has failed to deliver and, alongside a lack of investment, that has left the UK with stubbornly high numbers of vacancies due to skills shortages and too many young people who are not in education, employment or training. I would welcome reflections from the Minister on how, at the same time as setting out the new framework and strategy for skills development, we can deal specifically with those not in education, employment or training, and whether a strategy specifically on that would be another jigsaw piece ",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Leigh Ingham (Stafford) (Lab)",
+   "member_id": 5290,
+   "type": "Contribution",
+   "text": "The Bill is a crucial first step in the reform of the Government’s skills system. This Government are changing the narrative around skills. When I was younger, apprenticeships were often seen as something for working-class kids and a route into traditional trades such as plumbing, bricklaying—like my dad—hairdressing or being an electrician. Although those trades remain vital—indeed, our ambitious house building targets rely on them—skills today can be about so much more. They are the foundations of our economy, our technological progress and our ability to compete on the global stage. The Bill underpins the Government’s aim for apprenticeships not to be just for 18-year-olds fresh out of college. In my constituency of Stafford, Eccleshall and the villages, many apprentices are over the age of 25. In fact, the majority of apprenticeships being taken up are advanced qualifications. Those people know what they want to do, may already have years of experience and are looking to upskill, retrain and take their career to the next level. We need exactly that kind of dynamic, lifelong learning. We cannot just talk about improving skills—we need real, structural reforms to make that happen",
+   "name": "Leigh Ingham",
+   "party": "Lab",
+   "seat": "Stafford"
+  },
+  {
+   "who": "Lee Pitcher (Doncaster East and the Isle of Axholme) (Lab)",
+   "member_id": 5233,
+   "type": "Contribution",
+   "text": "I and all my hon. Friends were elected last year on a simple promise: change. It was a promise to rebuild our country, economy, health service and infrastructure, and to lay the foundations for a brighter future where we will overcome the challenges of climate change, see the benefits of a green economy and lead the world in new technology. It will be a future of prosperity and opportunity for all. All of that—every mission the Government have set out—depends on a skilled workforce. I have recently seen the diversity of apprenticeships in my local area, from the National Horseracing College in Rossington, to the SSE business in Keadby, to Jack who cuts my hair, who I am sure hon. Members will agree is supremely talented—a phenomenon. I just ruined his career, I think—sorry, Jack! Everything this Government have promised can be created only by having the right people, with the right skills, in the right place, at the right time. Whether they are in the NHS, energy, house building or security, apprenticeships have been part of the fabric of British society for hundreds of years. They have made us the country that we are today. In the past, modern apprenticeships were met with great e",
+   "name": "Lee Pitcher",
+   "party": "Lab",
+   "seat": "Doncaster East and the Isle of Axholme"
+  },
+  {
+   "who": "Tom Collins (Worcester) (Lab)",
+   "member_id": 5087,
+   "type": "Contribution",
+   "text": "I am pleased to see that we have some young people observing us today. Before coming to this place, I worked in research and development, leading a team of talented young engineers who were creating and realising new technologies to tackle the climate crisis. Some of those team members were apprentices, and some had been apprentices earlier in their careers. We faced many challenges, not least from a regulatory environment that struggled to move quickly in innovation and in finding relevant qualifications for new and emerging fields. Some of those challenges are inherent in doing something for the first time, but they were also the result of a UK engineering and industrial sector that had been neglected and, in some places, allowed to stagnate by political leaders who simply did not get it. I am pleased that this new Government have embraced the values of purposeful, mission-led goal setting alongside agility, partnership and a willingness to act and learn fast. Just like our regulatory environment, our education ecosystem, which delivers skills and qualifications, needs to become more agile and responsive, and this Bill is an early step in that transformation and in reviving the s",
+   "name": "Tom Collins",
+   "party": "Lab",
+   "seat": "Worcester"
+  },
+  {
+   "who": "Andrew Pakes (Peterborough) (Lab)",
+   "member_id": 5243,
+   "type": "Contribution",
+   "text": "It is an honour to follow such a passionate speech about apprenticeships from my hon. Friend the Member for Worcester (Tom Collins). I was going to thank the right hon. Member for South Holland and The Deepings (Sir John Hayes) for raising John Ruskin and William Morris in the Chamber—I certainly think they should be mentioned more often—but I will amend my comments to say that it would be nice to have some Opposition Members in the Chamber for this important debate.",
+   "name": "Andrew Pakes",
+   "party": "Lab",
+   "seat": "Peterborough"
+  },
+  {
+   "who": "Laura Trott",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "Hey!",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Andrew Pakes",
+   "member_id": 5243,
+   "type": "Contribution",
+   "text": "It is nice to have some—to have some more would be quite good. Whereas we have had William Morris and John Ruskin, some colleagues seem to have been getting speechwriting advice from Lewis Carroll, because some of the speeches from Opposition Members have been through the looking glass in their description of the problems and what is happening. We are lost in a debate where people are stuck on the function of a body, rather than the purpose we are trying to achieve, which is to change and enhance people’s lives. Before I continue, I must declare my interest. Alongside my hon. Friend the Member for Chesterfield (Mr Perkins), I am co-chair of the all-party parliamentary group on apprenticeships. Apprenticeships are my passion in this House and in life, so I certainly believe that the transfer of functions and assets from the Institute for Apprenticeships and Technical Education to the new Skills England body is an overwhelmingly positive move. It was a proposal made in our manifesto—another promise made and kept by this Government. The rationale underpinning this Bill is simple enough: the scope of the institute was too limited, and it is letting too many people down. Vitally, Skills",
+   "name": "Andrew Pakes",
+   "party": "Lab",
+   "seat": "Peterborough"
+  },
+  {
+   "who": "Josh Dean (Hertford and Stortford) (Lab)",
+   "member_id": 5187,
+   "type": "Contribution",
+   "text": "My driving focus as the MP for Hertford and Stortford is to make our community an even better place to live, work and learn. I am delighted to speak in this debate today, and I have no doubt that the Bill will allow us to harness the talents of our young people through ambitious skills reform that will drive growth and unlock opportunity. Our young people in Hertford and Stortford are keen to take advantage of these opportunities, and the confidence that apprenticeships instil in our young people cannot be overstated. Earlier this month, I had the pleasure of visiting the Hertford regional college’s Ware campus to mark National Apprenticeship Week. It was great to meet some of its talented hairdressing apprentices and hear how they are starting to fill jobs at small and medium-sized businesses in our local area and to learn more about HRC’s apprenticeship offer for my constituents. In our community, we can see how apprenticeships are helping young people to find the path that is right for them, develop skills for life and drive the local economy, but for too long, those opportunities have been out of reach for too many young people in our area, leaving those for whom traditional ed",
+   "name": "Josh Dean",
+   "party": "Lab",
+   "seat": "Hertford and Stortford"
+  },
+  {
+   "who": "Dan Aldridge (Weston-super-Mare) (Lab)",
+   "member_id": 5172,
+   "type": "Contribution",
+   "text": "The Bill constitutes a significant step towards streamlining and strengthening our technical education and apprenticeship system, and, as someone who worked in the apprenticeships sector in different roles, I am a big fan. So many of us have seen at first hand how apprenticeships transform lives—how they build dignity in young people’s work, and help them to establish fulfilling careers. Joy at all this unlocked potential has, however, been continually frustrated by the decline in apprenticeships that we have seen over the past decade. This decline must be reversed, and that, surely, is an aim that can unite the House. It is what this Bill is about: delivering the step change in skills that we so desperately need if we are to rebuild our communities and our country. My constituents must be able to earn, learn and thrive because of what we do in this place, not in spite of it. In towns such as Weston-super-Mare and Worle, technical education and apprenticeships are fundamental to enterprise, prosperity and economic independence for our young people. Sadly, however, towns like mine have never been able to take full advantage of those benefits, because of red tape and because of the h",
+   "name": "Dan Aldridge",
+   "party": "Lab",
+   "seat": "Weston-super-Mare"
+  },
+  {
+   "who": "Luke Murphy (Basingstoke) (Lab)",
+   "member_id": 5248,
+   "type": "Contribution",
+   "text": "For too long, our skills system has not delivered due to policies that simply have not worked. Businesses have struggled to recruit the skilled workers they need, young people do not have the opportunities they deserve and investment in training has gone backwards. The previous Government talked a good game and introduced measures such as the apprenticeship levy with big promises, but in reality their approach was slow, bureaucratic and failed to deliver. It is worth noting, as I said in my interventions on Conservative Members, that I feel their criticism of the Bill today has focused far too much on structures, not outcomes, but since they have done that, I think it is worth reiterating this point. The Standards and Testing Agency sets the statutory assessments for school pupils, and it develops professional skills tests for trainee teachers. It is an Executive agency, just as Skills England will be, and it was formally a non-departmental public body, just as IfATE was. However, the Standards and Testing Agency was set up in October 2011, so I am not sure that criticisms of structures actually hold any merit; rather, they are a distraction from the record of the Conservative part",
+   "name": "Luke Murphy",
+   "party": "Lab",
+   "seat": "Basingstoke"
+  },
+  {
+   "who": "Mr Toby Perkins (Chesterfield) (Lab)",
+   "member_id": 3952,
+   "type": "Contribution",
+   "text": "As co-chair of the all-party parliamentary group on apprenticeships, alongside my hon. Friend the Member for Peterborough (Andrew Pakes), I welcome the Government’s focus on this crucial aspect of skills policy. They have inherited a wildly diverse and dysfunctional skills landscape. I would not go so far as to describe what we have as a skills system, which would seem to suggest something far more considered and structured than what currently exists. This Bill is the Government’s first very small legislative step towards addressing the skills crisis that is one of our nation’s biggest barriers to growth and productivity. It is almost impossible to have a meeting with an employer—private or public sector—without the issue of the UK’s skills deficit arising. Apprenticeships are a crucial but criminally underutilised dimension of providing Britain’s learners with an opportunity to earn while they learn, and provide our employers with skilled and qualified workers who contribute in the workplace as they develop the skills they will need. Indeed, the Government’s ambitious aspirations for growth will remain purely aspirations if the current failure in our skills approach is not rectifi",
+   "name": "Mr Perkins",
+   "party": "Lab",
+   "seat": "Chesterfield"
+  },
+  {
+   "who": "Lauren Edwards (Rochester and Strood) (Lab)",
+   "member_id": 5298,
+   "type": "Contribution",
+   "text": "I do not support the amendment but will speak in favour of the Bill. As many have highlighted, there is a gap between the skills needed by employers and the skills held by the UK workforce. Skills shortage vacancies have been on the rise year after year, and the latest data shows that a third of all vacancies are due to skills shortages. It is holding our country back and, therefore, the system needs to change. The immediate skills gaps need to be addressed urgently, but just as pressing is the need to have a single body that considers the skills that our businesses will need 10, 20 or 30 years from now, with 1.4 million new jobs predicted by 2035 alone. Many of those new jobs will need technical green skills, digital skills and understanding of artificial intelligence. If our Government are to achieve the changes in this country that so many people voted for—more homes, green energy and economic growth that puts money back into people’s pockets—skills are the key ingredient. The importance of apprenticeships and technical qualifications to that mission cannot be underestimated. Indeed, I was immensely proud when the Prime Minister and the Education Secretary visited MidKent Colleg",
+   "name": "Lauren Edwards",
+   "party": "Lab",
+   "seat": "Rochester and Strood"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "Before I call the next speaker, may I gently remind Members that their speeches should be no longer than five minutes?",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Maya Ellis (Ribble Valley) (Lab)",
+   "member_id": 5228,
+   "type": "Contribution",
+   "text": "Like many of my colleagues, I found that this year’s National Apprenticeship Week really brought to life the amazing work being done by businesses, organisations and students across my constituency. Listening to many of the comments from across the House about how we need to improve the culture and perception around technical education, I am minded to reflect on the experience that I had when I was in year 9 and getting quite high results in my electronics exams. I had an amazing teacher, Miss Robinson, who asked me one day whether I would consider doing a BTEC in engineering. I did not end up following that technical route, but I do wonder what our productivity would be today if, back then, our culture had promoted it more prominently, particularly for people who were very academic. I am really excited at the prospect of the Bill laying the groundwork for the new body, Skills England, to realise our ambitious missions for opportunity and growth. One of the best commitments in this Government’s manifesto was to link immigration and skills policy in an effort to tackle the UK’s reliance on international recruitment. Indeed, during the general election campaign, I was on a panel with",
+   "name": "Maya Ellis",
+   "party": "Lab",
+   "seat": "Ribble Valley"
+  },
+  {
+   "who": "Steve Yemm (Mansfield) (Lab)",
+   "member_id": 5194,
+   "type": "Contribution",
+   "text": "It is often said that the UK is increasingly a knowledge economy; a place where our growth and jobs come both from trading ideas and information as well as physical goods. This Government’s plan for growth clearly recognises that and plays to our strengths, which is why we are now the second most attractive country to invest in globally, according to a recent PWC report. However, it is vital that the benefits are felt equally across our country. Areas with a proud industrial heritage like my constituency of Mansfield did not get the investment and training programmes they needed under previous Governments, and our young people have suffered the consequences of that. Many of them face an unenviable choice between staying trapped in unstable and low-quality employment or leaving their home towns to seek opportunity elsewhere in the country. My election in July was a resounding vote for change in Mansfield, and my first mission for the constituency was to fight for a growing economy with good-quality jobs for everyone. For that reason, I will be pleased to vote for the Bill, which is a major step of progress in the Government’s reform of the skills and apprenticeships system. Apprenti",
+   "name": "Steve Yemm",
+   "party": "Lab",
+   "seat": "Mansfield"
+  },
+  {
+   "who": "Kirith Entwistle (Bolton North East) (Lab)",
+   "member_id": 5095,
+   "type": "Contribution",
+   "text": "Too many young people are being let down by a skills and training system that does not work for them. For too long, Britain has been a country where technical education has been treated as second class, skills shortages stifled success and talent went untapped. Let us be clear: the Conservatives’ legacy has failed our young people and they cannot keep using the pandemic as an excuse. Between October 2023 and September 2024, 41% of people aged 16 to 24 were economically inactive in the north-west; nationally, that number was 11.4%. I would be really interested to hear what Conservative Members have to say to young people in the north-west. In the last two years, skills shortages have left more than a third of UK vacancies unfilled while the number of 16 to 24-year-olds looking for work has doubled. That is over 420,000 young people wanting to work and to contribute to our economy, but, without the right training, they cannot get those jobs that need filling—jobs that they could thrive in if we had the right skills system. Our young people are not lazy. Rather, it is the system the Conservatives left behind that has failed them. Visiting businesses in Bolton, I know that employers ar",
+   "name": "Kirith Entwistle",
+   "party": "Lab",
+   "seat": "Bolton North East"
+  },
+  {
+   "who": "Amanda Martin (Portsmouth North) (Lab)",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "I have been proudly championing the very neglected skills and trades sector since arriving in this place because, unfortunately, one of the most toxic legacies of the previous Government is a crisis in education and training, with overwhelming barriers to opportunity for far too many young people and a real downplaying of practical vocational skills in the eyes not only of students but often of their parents and the wider community. This is in stark contrast to what we see across Europe, Australia and the USA. Apprenticeships offer young people an alternative pathway to success and one that is not only vital for our communities but practical, hands-on and deeply connected to the industries that drive our economy. We must start by ensuring that we value all pathways and people if we are to move towards a productive, highly skilled population and achieve our growth targets. Vocational training is hugely important. However, in 2022, we had nearly 340,000 apprenticeship starts, compared with 520,000 11 years before that. Young people in my city of Portsmouth are not always able to access the well-paid jobs, despite there being many opportunities on our doorstep in the defence, maritime",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "Peter Swallow (Bracknell) (Lab)",
+   "member_id": 5165,
+   "type": "Contribution",
+   "text": "A Government who are ambitious about growth need to be serious about skills, because without the workforce trained to build and insulate the homes we need, to install the next generation of electric vehicle charging infrastructure, to deliver excellent health and social care and to deliver high-quality early years education, none of the Government’s missions are achievable. Better skills mean good, often well-paid jobs. Apprenticeships are a driver of social mobility, and I am determined that my constituents feel the benefit of those opportunities. Skills England will have much to do to pull together a fractured skills landscape and deliver real change, but the Bill will enable it to make a solid start. My constituency is home to the excellent further education college Bracknell and Wokingham college, which already does so much to offer young people the chance to deliver the skills of the future in everything from social care to sustainable technologies, from pharmaceuticals to construction. The college trains over 100 electrical installation apprentices, providing them with hands-on training in state-of-the-art electrical installation workshops, which were recently renovated with ",
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell"
+  },
+  {
+   "who": "Catherine Atkinson (Derby North) (Lab)",
+   "member_id": 5143,
+   "type": "Contribution",
+   "text": "I am proud to be a Derby MP and to represent a city with incredible engineering, manufacturing and technological expertise and skills. We make things in Derby. Yes, we have industrial giants such as Rolls-Royce, Alstom and Toyota, but we also have the brilliant small and medium-sized companies in their supply chains and more broadly, from a wide range of industries including rail, defence, nuclear energy, food production, aviation and digital technology. What attracts so many businesses to Derby is our skilled workforce, but I know that even our city feels this country’s skills shortages. Under the previous Government, a third of UK job vacancies were a result of skills shortages, and the uptake of level 4 and 5 technical training in England fell to historically low levels. I warmly welcome the Bill, which lays the groundwork for the establishment of Skills England to assess and help to address our skills shortages. Larger companies in Derby have been investing in skills and apprenticeships. The Rolls-Royce nuclear skills academy, for example, offers 200 apprenticeships a year, working with the University of Derby and Derby college. The Toyota academy provides skills not just for i",
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North"
+  },
+  {
+   "who": "Mrs Sureena Brackenridge (Wolverhampton North East) (Lab)",
+   "member_id": 5152,
+   "type": "Contribution",
+   "text": "I start with a fundamental point, which is that education does not always have to happen in a classroom. That is essentially what the Bill is about. Under the last Government, we saw a failure to tackle deep-rooted skills mismatches, a stubbornly high proportion of working-age people lacking essential skills and a severe shortage of higher technical training. As a result, our workforce struggled to meet the demands of a technology-driven economy, while employers faced persistent skills shortages. This Bill is different. It abolishes the outdated Institute for Apprenticeships and Technical Education and transfers its functions to Skills England. This is a monumental shift that creates a unified, agile and responsive skills system. Can the Minister assure us that the Bill will underpin what good government is about—listening to the needs of businesses, workers and learners; that it will allow more people, young and old, to earn while they learn and develop skills that will serve them well for life; and that by improving access to these opportunities up and down the country, we will drive growth, reduce youth unemployment and improve life chances for so many people?",
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East"
+  },
+  {
+   "who": "Antonia Bance (Tipton and Wednesbury) (Lab)",
+   "member_id": 5048,
+   "type": "Contribution",
+   "text": "My hon. Friend is eloquent in setting out the skills challenges of the Black Country. My constituency neighbours hers, and locally 40% of jobs need level 4 skills, but only 16% of people have those skills. That is the challenge we face locally. Does she agree that Skills England should be set up and based in an area of the country that desperately needs a skills upgrade, such as the Black Country?",
+   "name": "Antonia Bance",
+   "party": "Lab",
+   "seat": "Tipton and Wednesbury"
+  },
+  {
+   "who": "Mrs Brackenridge",
+   "member_id": 5152,
+   "type": "Contribution",
+   "text": "I absolutely welcome that intervention and support it wholeheartedly. Communities such as ours have felt and seen the decline, and the Government are laser focused on reversing that to unlock talent and opportunities, and to give our residents a better chance to get their futures back. In the past few weeks I have been honoured to meet many impressive apprentices, from those at Wolverhampton Homes, who are ensuring that residents’ council housing is safe and well maintained, to Evie and Jake at Collins Aerospace, who are working on the future of flight and defence, as well as apprentices from Jaguar Land Rover, Halfords, BMW, Enterprise Mobility and Caterpillar. We have seen the consequences of a fragmented, outdated skills system, but with the Bill we now have a bold new direction that will empower workers, support businesses and drive economic growth across our country. The Bill will support apprenticeships now and into the future, and I urge the House to support it.",
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East"
+  },
+  {
+   "who": "Adam Thompson (Erewash) (Lab)",
+   "member_id": 5044,
+   "type": "Contribution",
+   "text": "I am pleased to speak in support of the Bill, unamended, which I believe is crucial to delivering growth and ensuring that we have a highly trained workforce that is fit for the future. As some in the Chamber will know, my job before coming to this place was teaching degree-level apprenticeships in electro-mechanical engineering. I saw at first hand the transformative power of apprenticeships in delivering high quality education while providing real world experience. Like all apprenticeships, degree-level apprenticeships are a tripartite partnership between apprentice, university and employer—a model that has proved highly effective. Our employers frequently reported back to us that apprentices were better prepared for their professional roles than their counterparts with traditional degrees, and degree-level apprenticeship programmes have widened participation, attracting more students from deprived backgrounds, and more students with learning differences who may have struggled within the traditional university system. As a Member of Parliament, I weave my background in education, advanced manufacturing, and apprenticeships into everything I do in this role. I recently visited WEB",
+   "name": "Adam Thompson",
+   "party": "Lab",
+   "seat": "Erewash"
+  },
+  {
+   "who": "Alison Hume (Scarborough and Whitby) (Lab)",
+   "member_id": 5254,
+   "type": "Contribution",
+   "text": "I warmly welcome the Bill. It clearly demonstrates the Government’s ambitious commitment to training and apprenticeships. I will concentrate on the role that Skills England will play in aligning apprenticeship opportunities with the needs of local economies. Scarborough and Whitby are beautiful places to live and to visit, but the levels of low-paid employment are not so appealing. According to the latest ONS figures, 26% of all jobs in my constituency were paid below the real living wage. On closer examination, the figures are even more alarming. For example, some 52% of part-time jobs done by women in my constituency were paid below the real living wage, while that figure for England was 32% and for Yorkshire and Humber it was 35%. The disparity between the figures for Scarborough and Whitby and the surrounding region should give us pause when we refer to local economies, because coastal communities can differ markedly from their hinterland. Skills England’s work in assessing local needs and opportunities must anticipate what those needs and opportunities may be in future, as well as now. Well-paid jobs and careers are the goal for young people in my constituency. It is a crucial",
+   "name": "Alison Hume",
+   "party": "Lab",
+   "seat": "Scarborough and Whitby"
+  },
+  {
+   "who": "Amanda Hack (North West Leicestershire) (Lab)",
+   "member_id": 5149,
+   "type": "Contribution",
+   "text": "I welcome the introduction of this Bill as a clear indication that we are giving apprenticeships the support and recognition they deserve. I started my professional career at a training and enterprise council—a TEC—and, once upon a time, I used to sign off training contracts for apprenticeships. It was always a pleasure to speak to young people at the start of their future, so I know at first hand how needed the Bill is for the FE sector, employers and young people, and it is incredibly exciting to have this back on the agenda. For the last 14 years, there has simply been no strategic direction. The partnership between Jobcentre Plus, FE colleges, employers and the workforce has been slowly eroded, and it is clear that we need a reset. The one in eight young people currently not in training, education or employment need that reset, and apprenticeships are a part of that agenda. This Bill paves the way for the establishment of Skills England, giving it the tools to perform its new role and delivering on our commitment to assess and address the existing skills gap and identify where training can be utilised for new growth. Since the apprenticeship levy was first introduced by the Con",
+   "name": "Amanda Hack",
+   "party": "Lab",
+   "seat": "North West Leicestershire"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "I call the shadow Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O’Brien (Harborough, Oadby and Wigston) (Con)",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I start by paying tribute to the work of Mr Speaker and the Deputy Speakers in driving up the number of apprenticeships in this House. Not only is that creating brilliant opportunities, but it is setting a brilliant example, so I pay tribute to them for the work they are doing. We have heard some brilliant speeches today, and not just from right hon. and hon. Friends on the Conservative Benches. We have heard really important questions from the Chair of the Select Committee, the hon. Member for Dulwich and West Norwood (Helen Hayes); from the chair of the APPG, the hon. Member for Chesterfield (Mr Perkins); and from the hon. Member for Ribble Valley (Maya Ellis). We also heard a great speech from the hon. Member for St Neots and Mid Cambridgeshire (Ian Sollom). We do not always agree with the Liberal Democrats about everything, but a strength of the liberal tradition is suspicion of centralisation, which is what is in front of us today. We have three main concerns about this Bill. First, there were good reasons why standard setting was put at arm’s length and closer to employers. As we have heard from Members across this House and in the Lords, this is centralisation, and alongside",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Peter Swallow",
+   "member_id": 5165,
+   "type": "Contribution",
+   "text": "Does the hon. Gentleman not see that the Government are doing so because this is precisely what businesses are calling for?",
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I will come on to what businesses are saying in one second. The Government are doing two things that are going to be very bad for apprenticeship numbers. First, while apprentices are exempt from national insurance, the Budget—particularly its £25 billion increase in national insurance contributions—is cutting hiring and leading to job losses across the board. What employer groups are saying about that is pretty damning; be it the Institute of Directors, the Federation of Small Businesses or the Chartered Institute of Personnel and Development, they are warning of serious job losses as a result of the Budget. That tax increase, and the damage it is doing, is focused on exactly the type of jobs that apprentices might traditionally get, so apprenticeships are being hit by the backwash from the Budget. Secondly, the Government are planning to move funding from apprenticeships to other areas. In opposition, Labour talked about allowing employers to spend 50% of their apprenticeship levy funds on other things. As the election drew nearer, that commitment seemed to be disappearing. On 20 November, the Minister said that the commitment to 15% was “currently being reviewed”, but just weeks ",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Luke Murphy",
+   "member_id": 5248,
+   "type": "Contribution",
+   "text": "May I ask the hon. Gentleman a question that I asked some of his colleagues earlier? In 2011 the last Government set up the Standards and Testing Agency, whose predecessor was a non-departmental public body that became an Executive agency, like IfATE. It sets statutory assessments for school pupils and develops professional skills tests for trainee teachers. The last Government did something very similar to this. Why was it okay then, but is not okay now?",
+   "name": "Luke Murphy",
+   "party": "Lab",
+   "seat": "Basingstoke"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "That is an important question. The hon. Gentleman is tempting me to go into the history of apprenticeship regulation in England, which dates back to 1536. I will not detain the House with all the details, but suffice it to say that that was a move from one arms-length body to another, so it was different from this. None the less, IfATE was better than either of those things, which is why we ended up there. The very act of a further reorganisation is likely to compound the effects of the Budget and the decision to move apprenticeships money into other projects. Indeed, according to the Government’s own impact assessment, there may be a drop in apprenticeship starts while IfATE’s functions are transferred to the Secretary of State. It says: “The transfer of function from IfATE to the DfE could potentially cause a temporary slowdown in the growth rate of new apprenticeships and technical education courses due to potential delays in the approvals process resulting from the bill.” It also says: “This may disproportionately impact disadvantaged learners, who rely more heavily on these pathways for career advancement.” So there you have it, Madam Deputy Speaker. The Government are moving ",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Janet Daby)",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "It is a pleasure to close the debate. I am grateful for the contributions of Members on both sides of the House; we have heard some excellent speeches. I welcome the points and questions that have been raised, and I will go through as many as time allows. As my right hon. Friend the Secretary of State said in her opening speech, skills are essential to our missions to drive economic growth and create opportunity. To achieve that, we need a skills system that is fit for the future. In every region, it should provide training options that lead to skilled work and give businesses the skilled workers whom they need in order to grow. I was pleased to hear from Members about the apprenticeships and vocational courses in their constituencies which have led to jobs, but most Members have also referred to significant challenges in our skills system. Acute skills shortages are a particular issue in some areas. Skills supply does not match demand, and there is not enough business investment in skills. That, however, is what this Government inherited from the previous Conservative Government. We urgently need larger volumes of higher-quality training that meets employer needs, particularly in ",
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Sir John Hayes",
+   "member_id": 350,
+   "type": "Contribution",
+   "text": "I appreciate what the hon. Lady is saying about that, but will she in quick order set out how that will be directed either by the Secretary of State or by Skills England? We need to know not just the detail at the point of publication, but the structural needs in advance of that, so how will that be set out? Will it be set out in guidance—statutory guidance perhaps?",
+   "name": "Sir John Hayes",
+   "party": "Con",
+   "seat": "South Holland and The Deepings"
+  },
+  {
+   "who": "Janet Daby",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "The right hon. Member is absolutely right that these things need to be set out, and they will be set out. This Bill is about transferring the role of IfATE to the Secretary of State and enabling the delivery of Skills England. Skills England will work with key partners, including employers, training providers, mayoral strategic authorities and unions to form a national picture of where skills gaps exist and how they can be addressed. It will ensure employers have the skills they need to drive economic growth while creating opportunities across the country and building a highly skilled workforce. During this debate, I have heard Members question the need to close IfATE and establish Skills England. This Government have committed to delivering for the skills sector, and we are listening to the needs of employers. This can be seen in our reformed growth and skills offer, but we must go further to address the fragmentation of our skills system so that we can close the most persistent skills gaps. The Bill paves the way for the full establishment of Skills England by enabling the new body to take on and build out from IfATE’s work to shape apprenticeships and technical qualifications to",
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  }
+ ],
+ "fetched": "2026-10-21T20:25:22Z"
+}

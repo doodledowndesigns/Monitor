@@ -1,0 +1,786 @@
+{
+ "ext_id": "EEA605E0-726D-4E40-BD6F-982D6339669A",
+ "date": "2025-01-22",
+ "house": "Commons",
+ "section": "WestHall",
+ "title": "Education, Health and Care Plans",
+ "parents": [
+  "Westminster Hall"
+ ],
+ "location": "Westminster Hall",
+ "url": "https://hansard.parliament.uk/Commons/2025-01-22/debates/EEA605E0-726D-4E40-BD6F-982D6339669A/EducationHealthAndCarePlans",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Marie Goldman",
+   "party": "LD",
+   "seat": "Chelmsford",
+   "member_id": 5073
+  },
+  {
+   "name": "Imran Hussain",
+   "party": "Ind",
+   "seat": "Bradford East",
+   "member_id": 4394
+  },
+  {
+   "name": "Sarah Dyke",
+   "party": "LD",
+   "seat": "Glastonbury and Somerton",
+   "member_id": 4995
+  },
+  {
+   "name": "Mr Tanmanjeet Singh Dhesi",
+   "party": "Lab",
+   "seat": "Slough",
+   "member_id": 4638
+  },
+  {
+   "name": "Andrew George",
+   "party": "LD",
+   "seat": "St Ives",
+   "member_id": 227
+  },
+  {
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon",
+   "member_id": 5122
+  },
+  {
+   "name": "Pam Cox",
+   "party": "Lab",
+   "seat": "Colchester",
+   "member_id": 5042
+  },
+  {
+   "name": "Dr Rupa Huq",
+   "role": "Chair",
+   "member_id": 4511
+  },
+  {
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood",
+   "member_id": 4510
+  },
+  {
+   "name": "John Milne",
+   "party": "LD",
+   "seat": "Horsham",
+   "member_id": 5329
+  },
+  {
+   "name": "Navendu Mishra",
+   "party": "Lab",
+   "seat": "Stockport",
+   "member_id": 4811
+  },
+  {
+   "name": "Anna Sabine",
+   "party": "LD",
+   "seat": "Frome and East Somerset",
+   "member_id": 5286
+  },
+  {
+   "name": "Alistair Strathern",
+   "party": "Lab",
+   "seat": "Hitchin",
+   "member_id": 5000
+  },
+  {
+   "name": "Mike Martin",
+   "party": "LD",
+   "seat": "Tunbridge Wells",
+   "member_id": 5219
+  },
+  {
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale",
+   "member_id": 5225
+  },
+  {
+   "name": "Dr Al Pinkerton",
+   "party": "LD",
+   "seat": "Surrey Heath",
+   "member_id": 5288
+  },
+  {
+   "name": "Andy MacNae",
+   "party": "Lab",
+   "seat": "Rossendale and Darwen",
+   "member_id": 5134
+  },
+  {
+   "name": "Liz Jarvis",
+   "party": "LD",
+   "seat": "Eastleigh",
+   "member_id": 5040
+  },
+  {
+   "name": "Phil Brickell",
+   "party": "Lab",
+   "seat": "Bolton West",
+   "member_id": 5128
+  },
+  {
+   "name": "Sarah Green",
+   "party": "LD",
+   "seat": "Chesham and Amersham",
+   "member_id": 4918
+  },
+  {
+   "name": "Leigh Ingham",
+   "party": "Lab",
+   "seat": "Stafford",
+   "member_id": 5290
+  },
+  {
+   "name": "Alison Bennett",
+   "party": "LD",
+   "seat": "Mid Sussex",
+   "member_id": 5283
+  },
+  {
+   "name": "Danny Beales",
+   "party": "Lab",
+   "seat": "Uxbridge and South Ruislip",
+   "member_id": 5339
+  },
+  {
+   "name": "Monica Harding",
+   "party": "LD",
+   "seat": "Esher and Walton",
+   "member_id": 5299
+  },
+  {
+   "name": "Alison Hume",
+   "party": "Lab",
+   "seat": "Scarborough and Whitby",
+   "member_id": 5254
+  },
+  {
+   "name": "Jessica Toale",
+   "party": "Lab",
+   "seat": "Bournemouth West",
+   "member_id": 5202
+  },
+  {
+   "name": "Charlotte Cane",
+   "party": "LD",
+   "seat": "Ely and East Cambridgeshire",
+   "member_id": 5182
+  },
+  {
+   "name": "Laurence Turner",
+   "party": "Lab",
+   "seat": "Birmingham Northfield",
+   "member_id": 5234
+  },
+  {
+   "name": "Helen Maguire",
+   "party": "LD",
+   "seat": "Epsom and Ewell",
+   "member_id": 5336
+  },
+  {
+   "name": "Clive Jones",
+   "party": "LD",
+   "seat": "Wokingham",
+   "member_id": 5207
+  },
+  {
+   "name": "Rachel Gilmour",
+   "party": "LD",
+   "seat": "Tiverton and Minehead",
+   "member_id": 5252
+  },
+  {
+   "name": "Steff Aquarone",
+   "party": "LD",
+   "seat": "North Norfolk",
+   "member_id": 5164
+  },
+  {
+   "name": "Ben Maguire",
+   "party": "LD",
+   "seat": "North Cornwall",
+   "member_id": 5350
+  },
+  {
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole",
+   "member_id": 5327
+  },
+  {
+   "name": "Olly Glover",
+   "party": "LD",
+   "seat": "Didcot and Wantage",
+   "member_id": 5318
+  },
+  {
+   "name": "Ms Julie Minns",
+   "party": "Lab",
+   "seat": "Carlisle",
+   "member_id": 5094
+  },
+  {
+   "name": "Jack Abbott",
+   "party": "Lab/Co-op",
+   "seat": "Ipswich",
+   "member_id": 5131
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks",
+   "member_id": 4780
+  },
+  {
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards",
+   "member_id": 4125
+  },
+  {
+   "name": "Adrian Ramsay",
+   "party": "Green",
+   "seat": "Waveney Valley",
+   "member_id": 5320
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Marie Goldman (Chelmsford) (LD)",
+   "member_id": 5073,
+   "type": "Contribution",
+   "text": "I beg to move, That this House has considered Government support for education, health and care plans. I thank everybody for coming along to this really important Westminster Hall debate on a subject that fills our inboxes. The Government Benches are very full, and some of the Opposition Benches are reasonably full. I will try to keep my speech as short as possible, because so many people want to speak, but there are various points that I want to make. The debate is about Government support for education, health and care plans. For the benefit of anybody watching the debate who does not understand the system, EHCPs are a fundamental part of the special educational needs system. They are responsible for providing the additional support that children need in school to help them through their educational life and beyond. The big problem is that children and parents do not get the support they need through the EHCP system. Even when EHCPs are granted, schools are sometimes unable to deliver the support set out in them, so parents end up in a ridiculous situation and in many cases have to take their local authority to court. Local authorities lose 99% of cases, but that delays and delay",
+   "name": "Marie Goldman",
+   "party": "LD",
+   "seat": "Chelmsford"
+  },
+  {
+   "who": "Imran Hussain (Bradford East) (Ind)",
+   "member_id": 4394,
+   "type": "Contribution",
+   "text": "I thank the hon. Lady for bringing forward this important debate to the Chamber, as she is right to mention the timescales. As she knows, in 2023 only half of EHCPs were issued within the statutory 20 weeks, and whether children receive support depends too much on their postcode and how well their parents can navigate what can only be described as a chaotic system. Does she agree that the special educational needs and disabilities system is failing families? We cannot have a sticking-plaster solution; we need a root-and-branch review.",
+   "name": "Imran Hussain",
+   "party": "Ind",
+   "seat": "Bradford East"
+  },
+  {
+   "who": "Marie Goldman",
+   "member_id": 5073,
+   "type": "Contribution",
+   "text": "I wholeheartedly agree that the system is completely broken and needs complete reform. I gently say to the Minister and anybody listening to the debate that the longer that reform takes, the more harmful it will be for children. Children are suffering right now because they are not getting the support they need. Children keep getting older; they do not wait for Governments to decide what they are going to do or for root-and-branch reforms. Children and their parents need the support right now. Although I would absolutely welcome a wholesale review and change, there are things we can do now to alleviate the problems. If the Minister takes away only one thing from the debate, I hope it is the plea for more to be done now and for the reform and implementation to be sped up. I will come in a bit to the things we can do.",
+   "name": "Marie Goldman",
+   "party": "LD",
+   "seat": "Chelmsford"
+  },
+  {
+   "who": "Sarah Dyke (Glastonbury and Somerton) (LD)",
+   "member_id": 4995,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for securing this vital and important debate. She talks about inequality, and SEND funding is unequal across the country. Somerset council is part of the f40 group, which includes a number of the most poorly funded councils across the country. It received less than £8,000 in gross dedicated grant funding per mainstream pupil in 2024-25, which is more than £5,000 less than the best-funded local authorities. Does my hon. Friend agree that we must tackle this postcode lottery and urgently provide better support for some of our nation’s most vulnerable pupils?",
+   "name": "Sarah Dyke",
+   "party": "LD",
+   "seat": "Glastonbury and Somerton"
+  },
+  {
+   "who": "Marie Goldman",
+   "member_id": 5073,
+   "type": "Contribution",
+   "text": "Of course, and my hon. Friend raises an important point. We must tackle that inequality. The Government will say, “We put £1 billion of extra funding into special educational needs.” That is great—it is much better than no extra money for special educational needs—but it will not touch the sides. Local authorities are saying that they have a deficit in the high needs block of £3 billion, and some estimates say that that will go up to £8 billion in the near future. We are looking at a massive funding shortfall.",
+   "name": "Marie Goldman",
+   "party": "LD",
+   "seat": "Chelmsford"
+  },
+  {
+   "who": "Mr Tanmanjeet Singh Dhesi (Slough) (Lab)",
+   "member_id": 4638,
+   "type": "Contribution",
+   "text": "I congratulate the hon. Lady on securing today’s important debate. In Slough, attainment outcomes for children with special educational needs and disabilities were below the national average, and that is precisely why we need more funding and resources for Slough children. As a parent, I can only imagine the anguish of parents who have to navigate the complex and time-consuming process of gaining an EHCP, particularly given that only half of EHCPs are issued within the statutory 20-week limit and 98% of appeals are successful. Does the hon. Lady agree that, to improve EHCPs, we need first to regain the trust and confidence of parents?",
+   "name": "Mr Tanmanjeet Singh Dhesi",
+   "party": "Lab",
+   "seat": "Slough"
+  },
+  {
+   "who": "Marie Goldman",
+   "member_id": 5073,
+   "type": "Contribution",
+   "text": "Absolutely. Parents’ trust in the system is important, so we need to show that we are listening to them. We also need to show that we are giving them the information they need to alleviate their stress. Someone who has a child with special educational needs knows that their child needs extra support. This is already a stressful time in their life; they then have to sit and wait for an EHCP to land in their inbox, perhaps in week 19 —it is supposed to be 20 weeks, so of course it should land in week 19—but then it does not turn up, and keeps on not turning up. That is incredibly stressful, and it takes away parents’ trust in the system. We should be more transparent about that. We talk about an EHCP being issued within 20 weeks, but across England 37.4% of decisions took six months or longer—that is just ridiculous—and 5.7% took a year or longer. That is completely unacceptable, and it leaves parents in a very difficult place. We need to be more honest with parents and to make that information much more available to them. My new clause 3 to the Children’s Wellbeing and Schools Bill would help to make the system much more transparent for parents by making local authorities publish ho",
+   "name": "Marie Goldman",
+   "party": "LD",
+   "seat": "Chelmsford"
+  },
+  {
+   "who": "Andrew George (St Ives) (LD)",
+   "member_id": 227,
+   "type": "Contribution",
+   "text": "I must congratulate my hon. Friend on her preparation for this debate, which has attracted so many people to Westminster Hall today—except, of course, from the party that created a lot of the problems we now face. On her point about mainstreaming and special school education, does she agree not only that many rural areas are underfunded but that people in those areas face the additional challenge of expensive home-to-school transport to access specialist provision, because there is insufficient budget for that transport? That issue needs to be addressed if we are to have an even playing field across the country.",
+   "name": "Andrew George",
+   "party": "LD",
+   "seat": "St Ives"
+  },
+  {
+   "who": "Marie Goldman",
+   "member_id": 5073,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for that really important point. I do not live in a rural area, so it is easy for me to overlook issues such as this. However, I do know that many councils have raised it; indeed, to be fair to Essex county council, it has raised it with me. When we talk about root-and-branch reform of the system, we need to make sure that we address the whole system and everything that goes with it, including transport. My hon. Friend raises an important point, and I thank him very much for that. What is the impact on the school budget? One primary school is funding 90 hours of learning support assistant time a week because there is no EHCP, and it is having to find that funding out of its own budget. That is not through lack of trying to get EHCPs. The school said that it had applied for an ECHP for one child in January 2024, but that child has not even seen an educational psychologist yet. Schools tell me that they do not have the buildings and the other resources to be able to safely look after these children using ordinarily available provision.",
+   "name": "Marie Goldman",
+   "party": "LD",
+   "seat": "Chelmsford"
+  },
+  {
+   "who": "Manuela Perteghella (Stratford-on-Avon) (LD)",
+   "member_id": 5122,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for securing this important and timely debate. Even when plans are eventually put in place, children and young people struggle to get suitable school places. They face hours of travel each day, especially in rural areas, or they are left at home without appropriate education. Does my hon. Friend agree that funding needs to ensure that provision is local, meets needs and is well resourced?",
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon"
+  },
+  {
+   "who": "Marie Goldman",
+   "member_id": 5073,
+   "type": "Contribution",
+   "text": "Yes, and it is very hard to disagree with that point. Of course provision needs to recognise what the local challenges are, and those differ in different localities. I thank my hon. Friend for making that point. Let me return to LSAs and the support they provide in schools. Often, there are several children with EHCPs in a class, so it is sometimes necessary to have more than one LSA to support them. However, it is hard to recruit LSAs, because, as schools have told me, the salaries do not match the skills that LSAs require. Also, LSAs are not suitable in all cases, because young people with severe special educational needs can—through no fault of their own; I want to make that very clear—be very disruptive and, unfortunately, endanger other children if they are not properly supervised. That is why it is really important that we have LSAs, teaching assistants and all the support staff necessary to support these children. One special educational needs co-ordinator told me: “As much as the LSA children don’t need 1:1 support full-time, there are some children that really do require 1, or sometimes 2, adults with them throughout the day if everyone is to be kept safe and for the child",
+   "name": "Marie Goldman",
+   "party": "LD",
+   "seat": "Chelmsford"
+  },
+  {
+   "who": "Pam Cox (Colchester) (Lab)",
+   "member_id": 5042,
+   "type": "Contribution",
+   "text": "It was good to hear yesterday from the all-party parliamentary group on special educational needs and disabilities about the importance of early intervention. We heard from the Lancashire and South Cumbria integrated care board, which showcased its really interesting work. On the back of that, I reached out to my ICB in Suffolk and North East Essex and I understand that the health response there on early interventions is quite good. Bearing in mind that the hon. Lady and I both represent Essex constituencies, it would be worth her looking at the ICB connected to her area. Perhaps we could work together on improving outcomes for parents and kids in Colchester and Chelmsford.",
+   "name": "Pam Cox",
+   "party": "Lab",
+   "seat": "Colchester"
+  },
+  {
+   "who": "Marie Goldman",
+   "member_id": 5073,
+   "type": "Contribution",
+   "text": "Of course, I would be delighted to work with the hon. Lady on that sort of issue. I was also at that APPG on SEND meeting, although I could not stay for the whole thing. I am glad she raised it, because at that APPG meeting, an example was given to us of a child who had situational mutism. The intervention they received early on meant that they were able to progress and achieve their full potential, which I thought was fabulous. Unfortunately, I have an example of exactly the opposite in my constituency, where a child with selective mutism did not receive that support and is now not in school at all. The importance of that support cannot be overstated. We could talk a lot about why there has been an increase in EHCP applications, about covid and its impact, about the lack of socialisation and what that has led to and about the lack of early intervention. Maybe some parents are asking for EHCPs because it is the only way to get the support that might ordinarily have been available if schools were not feeling the pressure so much. Ultimately, this is a systemic failure, and I want to move on to some solutions. We need to do this quickly—remember, every single day that children grow u",
+   "name": "Marie Goldman",
+   "party": "LD",
+   "seat": "Chelmsford"
+  },
+  {
+   "who": "Dr Rupa Huq (in the Chair)",
+   "member_id": 4511,
+   "type": "Contribution",
+   "text": "We are going to work out the time limit for everyone, because 34 names were submitted to speak, but I think there may be even more Members in this room now. The Clerk has done the calculation and it is 75 seconds each—one minute 15 seconds. We will start, as a model of brevity, with the Chair of the Education Committee.",
+   "name": "Dr Rupa Huq",
+   "role": "Chair"
+  },
+  {
+   "who": "Helen Hayes (Dulwich and West Norwood) (Lab)",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "Thank you, Dr Huq. With such limited time, I simply reiterate that we have a SEND system in crisis. It is letting down children and their families. It is a contested and embattled system and is no way to decide and deliver on what is in the best interest of children. As Chair of the Committee, I welcome some of the measures that the Government are bringing forward, but I also believe that there is further to go. That is why, as the Committee, we have prioritised SEND as our first substantial new inquiry of this Parliament. I have good news for Members with constituents who are interested in and concerned about this subject: today we have extended the deadline for the submission of written evidence to 6 February. We are serious about looking at the evidence of what is happening across the country, but also at where there is good practice, both in this country and overseas. We will do our best to assist the Government to set out a programme of reform that delivers for children and their families. I urge all Members who have an interest in this topic to encourage their constituents to submit evidence to our inquiry.",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "John Milne (Horsham) (LD)",
+   "member_id": 5329,
+   "type": "Contribution",
+   "text": "I congratulate my hon. Friend the Member for Chelmsford (Marie Goldman) on calling this vital debate. EHCP provision is a national crisis, but how it plays out locally varies enormously. In East Sussex, 87% of EHCPs are issued within the 20-week target, but hop across the border to my area of West Sussex and it is just 3.6%—I thought that was the worst statistic out there, until I heard what is going on in Essex. This crisis is destroying people’s lives. Take the example of Sarah—not her real name—from my Horsham constituency. Sarah’s son was offered a place at Crawley college, where it was claimed the post-16 SEND provision would be just right for him. Within weeks, the college said that they did not have the resources to support him and that he did not meet the minimum grades. He was excluded. Desperate to rescue his future, Sarah is now paying almost £500 a month for private tuition, and that is not the only cost; her son’s removal from full-time education means she no longer qualifies for the child element of universal credit, despite being his main care provider. Sarah is a single parent on a low, part-time income, and these are almost impossible obstacles to overcome. I recog",
+   "name": "John Milne",
+   "party": "LD",
+   "seat": "Horsham"
+  },
+  {
+   "who": "Navendu Mishra (Stockport) (Lab)",
+   "member_id": 4811,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Huq. I am limited by time, so I will congratulate the hon. Member for Chelmsford (Marie Goldman) on securing this debate, and thank all the teachers, parents and pupils who are struggling with this system, and in particular the Brinnington SEND group in my constituency, who I have met on a couple of occasions. Unfortunately, Stockport is one of the lowest-funded school systems in England. Stockport has a higher proportion of EHCPs than the national average, and that is causing a lot of issues in our constituency. I receive regular correspondence on that. The number of EHC plans in Stockport has increased by 60.4% since 2019, and Stockport is part of the f40 group, which represents the 40 local authorities with the lowest level of school funding. I highlight that, currently, the lowest-funded authority for SEND receives £950 per pupil, while the highest-funded receives £3,250 per pupil. Stockport receives around £1,100 per pupil for SEND—among the lowest funding nationally. The £1 billion of extra funding announced by the Chancellor in the Budget is very welcome, and we should reflect on the 14 harsh years of the previous Administra",
+   "name": "Navendu Mishra",
+   "party": "Lab",
+   "seat": "Stockport"
+  },
+  {
+   "who": "Anna Sabine (Frome and East Somerset) (LD)",
+   "member_id": 5286,
+   "type": "Contribution",
+   "text": "It is a pleasure to contribute to this debate. With limited time, I would like to raise a very specific issue. My constituency of Frome and East Somerset falls under both Bath and North East Somerset council and Somerset council, and there have been instances in which children’s specific cases, claims or tribunals have fallen between two different systems. One of my constituents wrote to me about their child, who is 14 and has central nervous system lupus, epilepsy, attention deficit hyperactivity disorder and visual and sensory processing disorder. All the child’s needs were documented by an educational psychologist, who recommended an EHCP. Despite the medical recognition of the need for an EHCP and despite the diagnoses, Bath and North East Somerset council and Somerset council went back and forth for over a year about which local authority should take responsibility for the EHCP, because the child’s parents were separated, with one living in each authority, and the child’s time was split evenly between the two. That cannot be an uncommon occurrence, yet there were delays and stress for the family while they waited for their case to come to tribunal. The child’s mother estimates",
+   "name": "Anna Sabine",
+   "party": "LD",
+   "seat": "Frome and East Somerset"
+  },
+  {
+   "who": "Alistair Strathern (Hitchin) (Lab)",
+   "member_id": 5000,
+   "type": "Contribution",
+   "text": "I congratulate the hon. Member for Chelmsford (Marie Goldman) on securing this important debate. When a child lacks, for a single day, the support that they need to thrive at school, that is a day’s potential that will forever be wasted. The sad reality for too many children in my constituency is that too many days’ potential is being wasted. This Government recognise the need to move urgently on this issue, and the investment of £1 billion into the high-needs block in the Budget and the £750 million for school adaptations must be welcomed, but it is clear, looking at ECHP performance, that specific and focused work is needed. Across the country, just 50% of ECHPs were delivered within the statutory timeframe last year, so this is far from an isolated problem. We need to ensure that we have robust improvement plans for local authorities so that all are achieving the best outcomes and not allowing that national challenge to be an excuse to tolerate failure. We also need to build out the workforce strategy; I welcome the recent news from the Minister of research commissioned to make sure that we have a good understanding of the drivers of the problem, and of investment in more educat",
+   "name": "Alistair Strathern",
+   "party": "Lab",
+   "seat": "Hitchin"
+  },
+  {
+   "who": "Mike Martin (Tunbridge Wells) (LD)",
+   "member_id": 5219,
+   "type": "Contribution",
+   "text": "Since I was elected as the Member for Tunbridge Wells, my inbox has been inundated with cases of children who are not having their needs met because Kent county council is failing in almost every regard. In 2020, 33% of EHCPs made the deadline; in 2023, only 13% did. I wanted to go through some examples, but we do not have time. In September 2022, Kent county council was put into special measures because of significant weaknesses in its SEND services. Those measures were lifted in September 2024, but the Minister for School Standards told me that KCC needs to make further progress and that the Department for Education must still keep a close watch on the council. The next formal review of KCC and its SEND services will happen at the end of this month. I remind the Minister that KCC breaches time limits in 87% of cases, misses out key pieces of information, arranges SEND transport too late and refuses to communicate effectively with parents. In November, I called for KCC to be put back in special measures and I reiterate that call today, not only for the children of Tunbridge Wells, but for all our children across the land.",
+   "name": "Mike Martin",
+   "party": "LD",
+   "seat": "Tunbridge Wells"
+  },
+  {
+   "who": "Lizzi Collinge (Morecambe and Lunesdale) (Lab)",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Huq. I draw the House’s attention to my entry in the register of interests as a corporate parent in Lancashire. In the past six months, I have had to intervene in dozens of EHCP cases. Children in Morecambe and Lunesdale are being held back by the abject failures of the system. We know we cannot fix this in six months—it is a problem that has been building for 14 years—but it is fair to say what the Labour Government are doing, because we are taking action. Stable, longer term funding for local government is absolutely vital to making sure that systems work and changes can be implemented properly. We are changing the Education Department so that SEND sits with the Schools Ministers, increasing education spending and earmarking £1 billion specifically for SEND and working on public health, including on early intervention and the wider determinants of health and poverty. All these things together will help the SEND ecosystem. I hope to goodness we can get it done quickly enough for my constituents because they are suffering right now.",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Dr Al Pinkerton (Surrey Heath) (LD)",
+   "member_id": 5288,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for Chelmsford (Marie Goldman) for securing the debate. Parents in my constituency of Surrey Heath will know all too well the failures of Surrey county council to deliver an effective SEND system. In 2023, only 16.2% of EHCPs were issued in the statutory 22-week period. Even though Surrey county council now celebrates a frankly miraculous rise to 70% issuance of EHCPs in the statutory 22 weeks in the latter half of 2024, parents tell me that those EHCPs are coming back with the wrong name or date of birth, describing the wrong conditions and offering inappropriate packages of support. It is, of course, parents, families and children who suffer the consequences of that. My constituents tell me that some of their children have attempted to take their own lives. Other parents have had to leave full-time employment in order to become permanent carers for their children, which is bad for them, their family, their family finances and the economy. Timeliness and quality are not mutually exclusive, and they are essential components of good EHCPs. Our children deserve better, as do the families, the educators and the professionals who are becoming permanent",
+   "name": "Dr Al Pinkerton",
+   "party": "LD",
+   "seat": "Surrey Heath"
+  },
+  {
+   "who": "Andy MacNae (Rossendale and Darwen) (Lab)",
+   "member_id": 5134,
+   "type": "Contribution",
+   "text": "In the interests of time, I will just endorse so many of the comments made today. It is fantastic to see the passion and commitment of so many Members here, as well as the passion and commitment that the Government have shown since day one of our coming into office. In the interests of time, I will focus down on just one issue. My constituency of Rossendale and Darwen spans two local authority areas: one is the small unitary authority of Blackburn with Darwen, and the other is the shire county of Lancashire. One hundred per cent of my EHCP cases are in Lancashire, which demonstrates a stark and completely unacceptable postcode lottery. There is no doubt that money is a fundamental issue, but we also have to raise a question about to what extent culture, attitudes and systems matter. Time and time again I hear from families who feel that the whole system is set up to fail and to stop them from getting these plans. As well as addressing those fundamental funding issues, I hope that, as a Government, we will address the cultural, systemic issues by giving our families, in Rossendale and Darwen and in all of our constituencies, the support they desperately need.",
+   "name": "Andy MacNae",
+   "party": "Lab",
+   "seat": "Rossendale and Darwen"
+  },
+  {
+   "who": "Liz Jarvis (Eastleigh) (LD)",
+   "member_id": 5040,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Huq. I am grateful to my hon. Friend the Member for Chelmsford (Marie Goldman) for securing this important debate. Every time I talk to a parent whose child has special educational needs in my constituency of Eastleigh, they tell me that they spend a huge amount of time fighting for the support their child needs, including EHCPs. One mum told me about the difficulties she was experiencing trying to get an EHCP for her nine-year-old son. She said she felt powerless battling a system that was slow, unresponsive and incredibly difficult to navigate. In the end, after doing everything she could to get her son back in school, she had to take her case to a tribunal, adding to the stress on her family. Thankfully, her son was granted an EHCP, but it should not be the case that parents have to fight a broken system and go through a tribunal just to get their children the education that they deserve. EHCPs were designed to provide tailored support, but they can only succeed if there is an end to the postcode lottery and the system is properly funded, staffed and focused on the needs of children and their families.",
+   "name": "Liz Jarvis",
+   "party": "LD",
+   "seat": "Eastleigh"
+  },
+  {
+   "who": "Phil Brickell (Bolton West) (Lab)",
+   "member_id": 5128,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Huq. From visiting schools across my Bolton West constituency, I know how much concerns around special educational needs and disabilities play on the minds of teachers, teaching assistants, parents and school governors. Only last week I was with Chris Howarth, the head at Washacre primary academy in Westhoughton, and Phil Orth, the chair of governors. They took me through a tour of their school and outlined the work they are doing to support children with special educational needs, and the challenges that staff manage in the classroom. I want to put on the record my thanks to Chris and Phil, plus all the staff and governors at Washacre primary, for their hard work. Bolton has 8,961 children and young people diagnosed with SEND, which is a 20% increase over the past seven years. The number of ECHPs has nearly doubled since 2018 to nearly 3,645 across the borough. The council’s compliance in issuing EHCPs within 20 weeks has increased from 38% in 2023 to 71% in 2024. Although the direction of travel is positive, that means one third of parents and children are being still being let down. With that in mind, I welcome the Government’s ",
+   "name": "Phil Brickell",
+   "party": "Lab",
+   "seat": "Bolton West"
+  },
+  {
+   "who": "Sarah Green (Chesham and Amersham) (LD)",
+   "member_id": 4918,
+   "type": "Contribution",
+   "text": "Only 49% of children in Buckinghamshire receive their EHCP plan within the statutory limit, which means that more than half are waiting way beyond that time frame. There are hidden impacts to those delays: one family in my constituency faces a three-year waitlist for autism spectrum disorder and ADHD assessments. They have serious concerns about their current accommodation, but the lack of diagnosis for their son is delaying their eligibility for suitable housing. That is three years in unsuitable housing with no additional support. I have spoken to schools in my area that say they have children with EHCPs who would be better served in a specialist setting. The demand for places means that they remain in mainstream education, where, in the words of one local headteacher, that the SENCO workload is unsustainable for staff. The Department for Education’s own survey showed that only 63% of classroom teachers felt able to meet the needs of pupils with SEND. I am keen to hear from the Minister on what work is ongoing to help give the current teaching workforce the training and confidence they need to meet the demand in our mainstream schools.",
+   "name": "Sarah Green",
+   "party": "LD",
+   "seat": "Chesham and Amersham"
+  },
+  {
+   "who": "Leigh Ingham (Stafford) (Lab)",
+   "member_id": 5290,
+   "type": "Contribution",
+   "text": "The last Conservative Education Secretary described SEND as a “lose, lose, lose” situation and, under the previous Government, she was right. I have a case in Stafford, now my constituency, where two parents are moving house to a different area with their two children who have additional needs. One child has an EHCP and the other is in a mainstream school. For their child with an EHCP, they are being told that, although they are moving from Stafford to Cheshire, they will have to retain a place in their current school, which is around an hours’ drive each way. The other child, who attends a mainstream school, has had her pick of schools, has chosen where she would like to go, and is looking forward to her future. The child with an EHCP has been left in limbo. The difference in experience for those children is night and day and the stress it has caused their parents is completely unnecessary. That is precisely why we need to change the way that EHCPs are handled. This Government cannot undo the last 14 years of disruption to our SEND system in six months, but the investment we have seen recently is incredibly welcome, and I look forward to the Minister telling us more about that.",
+   "name": "Leigh Ingham",
+   "party": "Lab",
+   "seat": "Stafford"
+  },
+  {
+   "who": "Alison Bennett (Mid Sussex) (LD)",
+   "member_id": 5283,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for Chelmsford (Marie Goldman) on securing this important debate. I will not repeat what colleagues have said about the impact on children, but will instead talk about the impact on teachers. The current EHCP system is grossly unfair to teachers who are expected to cope. I recently visited the Gattons infant school in Burgess Hill. As an infant school, it has only three school years. Four-year-olds arrive there with clearly unmet needs, and they quite often leave the school before the EHCP has been processed by West Sussex county council. That is clearly unfair on those children, and it is clearly unfair on the children who do not have special educational needs or are not yet diagnosed. It is unfair to expect teachers to be able to cope with a classroom of 30 children, a significant number of whom have needs that are not being met. In conclusion, it is absolutely essential that is this is turned around with urgency, and I thank the Government for all that they are doing.",
+   "name": "Alison Bennett",
+   "party": "LD",
+   "seat": "Mid Sussex"
+  },
+  {
+   "who": "Danny Beales (Uxbridge and South Ruislip) (Lab)",
+   "member_id": 5339,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Huq. I thank the hon. Member for Chelmsford (Marie Goldman) for securing this important debate today. To be frank, SEND support in Hillingdon is poor and getting worse. In Hillingdon, there has been a 40% drop in the number of families getting their determination for an ECHP within the 20-week statutory limit since 2015. The situation is worsening. Conservative funding cuts locally, a lack of planning for specialist school places, rising demand and a shortage of specialists have all contributed to increasing waiting times and poor provision. Unfortunately, the situation is only going to get worse. Hillingdon council is proposing a £7 million cut to local schools this year and potentially next year, which goes against the principles of mainstream inclusion and collaboration in the education system. It will undoubtedly make the deficit worse. I hope Hillingdon council thinks again and that the Department holds it to account to do so. I want to raise the issue of homeless and displaced families. I have been contacted recently by a number of families fleeing domestic violence or experiencing homelessness who have moved with an EHCP int",
+   "name": "Danny Beales",
+   "party": "Lab",
+   "seat": "Uxbridge and South Ruislip"
+  },
+  {
+   "who": "Monica Harding (Esher and Walton) (LD)",
+   "member_id": 5299,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Dr Huq. I pay tribute to my hon. Friend the Member for Chelmsford (Marie Goldman) for securing this debate. My surgeries are full of distraught parents of SEND children. In Surrey, 1,800 children are missing education because they cannot get provision. Children are waiting an average of two years for an ADHD diagnosis. Surrey is at the bottom for getting EHCPs in on time and near the top for the number of parents going to a tribunal. Educational psychologists are assessing children by Zoom, sometimes not even meeting the child. Children are in the wrong tier and in tribunals possibly because it costs less in the short term. There is a lack of places in both specialist and mainstream environments. Money is diverted from schools’ budgets, and therefore from all children. So, yes to root and branch reform, and proper funding. Surely there must be Government accountability for local authority provision when we are so poorly served in Surrey.",
+   "name": "Monica Harding",
+   "party": "LD",
+   "seat": "Esher and Walton"
+  },
+  {
+   "who": "Alison Hume (Scarborough and Whitby) (Lab)",
+   "member_id": 5254,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Huq. I congratulate the hon. Member for Chelmsford (Marie Goldman) on securing this debate. In my constituency, more than 100 children and young people classified as in elective home education, which includes 30 with EHCPs. We know there are many more who are unaccounted for. There must be a question mark as to whether home education is a genuine choice, or is due to the child not getting the support they need. One family in Scarborough reluctantly withdrew their child from a mainstream school as their needs were not being met, despite their having an EHCP. The child’s mother had to give up work to home school, which took a toll on her health and the family finances. I warmly welcome the Government’s commitment to address the SEND crisis, but I would like to encourage the Minister to use the register of children and young people not in school, proposed in the Children’s Wellbeing and Schools Bill, to gather the evidence we need to understand why those children and young people are not in school.",
+   "name": "Alison Hume",
+   "party": "Lab",
+   "seat": "Scarborough and Whitby"
+  },
+  {
+   "who": "Jessica Toale (Bournemouth West) (Lab)",
+   "member_id": 5202,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Dr Huq. I thank the hon. Member for Chelmsford (Marie Goldman) for bringing this important debate. Like many, I have spent considerable time with leaders of local schools and parents who have told frankly harrowing stories about children’s needs not met and resources at breaking point. In my constituency, 23% of children have special educational needs. Although the council has made great strides to get children on to the EHCPs they need, at one stage 88% were waiting more than 20 weeks. I want to bring up two things that parents have brought to me. Even once they get the EHCPs in place, they are poorly constructed. One parent said that they are not worth the paper they are written on. Parents are told that there are no resources to deliver the support that their children need. One parent was told she needed £25,000 a year of one-to-one support for her child but was offered only £6,000 a year by the council. They lack planning and the follow-up that parents need to deliver the support in their local schools. A second significant feature is the impact on the educational outcomes and mental health of the children who are not receiving",
+   "name": "Jessica Toale",
+   "party": "Lab",
+   "seat": "Bournemouth West"
+  },
+  {
+   "who": "Dr Rupa Huq (in the Chair)",
+   "member_id": 4511,
+   "type": "Contribution",
+   "text": "Order. I call Charlotte Cane.",
+   "name": "Dr Rupa Huq",
+   "role": "Chair"
+  },
+  {
+   "who": "Charlotte Cane (Ely and East Cambridgeshire) (LD)",
+   "member_id": 5182,
+   "type": "Contribution",
+   "text": "I congratulate my hon. Friend the Member for Chelmsford (Marie Goldman) on securing this debate. Like many others, I am horrified by the amount of correspondence I get about this issue. Just this month I was contacted by a constituent with a child who was well supported in school and was looking to do well in their GCSEs, but the school can no longer provide for them and they now get only 11 hours of tuition. The school asked three times for them to get an EHCP assessment, and they were always refused. My constituent went to a tribunal, at which point the council finally said it would do the assessment. That was last September, and it has still not been done. That child is now unable to access the education they need to achieve their full potential. Parents and other responsible adults spend time, energy and even money trying to get the support that their child needs. Local authorities deliver what they can, building up vast debts that are currently hidden from their accounts, and their staff feel under siege. The correspondence often lacks clarity and transparency, let alone empathy. Most importantly, children and young people are let down day in, day out by the very structures th",
+   "name": "Charlotte Cane",
+   "party": "LD",
+   "seat": "Ely and East Cambridgeshire"
+  },
+  {
+   "who": "Dr Rupa Huq (in the Chair)",
+   "member_id": 4511,
+   "type": "Contribution",
+   "text": "Order. I remind hon. Members to bob if they wish to speak so that I can work out exactly how long they have.",
+   "name": "Dr Rupa Huq",
+   "role": "Chair"
+  },
+  {
+   "who": "Laurence Turner (Birmingham Northfield) (Lab)",
+   "member_id": 5234,
+   "type": "Contribution",
+   "text": "In the seconds available to me, I cannot do justice to the cases I have heard of pupils and parents who are stuck in the system. Ten years on from the passing of the Children and Families Act 2014, it is time to look at where the current system is failing. Local authorities had additional responsibilities loaded on to them, and at the same time they had powers and resources taken away. It has become harder for them to plan shared resources, and that is a major cause of delays and cost increases in the system. I draw attention to my declaration in the Register of Members’ Financial Interests: I am a member of the GMB. We cannot lose sight of the role of school support staff in this equation. I appeal to the shadow Minister to please rethink the opposition to reinstating the school support staff negotiating body. Classroom-based school support staff spend the majority of their time supporting SEND learners. We cannot resolve the SEND crisis without resolving the workforce problems. I am proud to have been a SEND pupil. I am open about my differences as an MP. I hope that, on a cross-party basis, we can look back at the end of this Parliament and say, “We found a system in crisis, and",
+   "name": "Laurence Turner",
+   "party": "Lab",
+   "seat": "Birmingham Northfield"
+  },
+  {
+   "who": "Helen Maguire (Epsom and Ewell) (LD)",
+   "member_id": 5336,
+   "type": "Contribution",
+   "text": "This crisis is failing children, exhausting parents and overwhelming schools, not least in my constituency of Epsom and Ewell. Over the past six years, Surrey county council’s timeliness in issuing EHCPs within 20 weeks has plummeted from 57% in 2017 to 16.2% in 2023. An excessive focus on meeting deadlines appears also to have undermined the quality of the EHCPs. Decisions are increasingly being appealed, and parents in Surrey won 98.3% of appeals last year. Local headteachers have highlighted to me that EHCPs often do not accurately reflect the children’s needs, leading to inappropriate placements. The children often become dysregulated and disruptive, which affects staff wellbeing and the learning environment for other pupils. The headteachers also reported that some assessments are being conducted remotely; how can a child’s needs be accurately captured through an online assessment? Parents are increasingly asking headteachers to exclude their children, believing that that might be the only way to secure appropriate care. That is a devastating indictment of the system. The system is failing at every single stage, leaving children and families in absolute crisis. Without urgent ",
+   "name": "Helen Maguire",
+   "party": "LD",
+   "seat": "Epsom and Ewell"
+  },
+  {
+   "who": "Pam Cox (Colchester) (Lab)",
+   "member_id": 5042,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for Chelmsford (Marie Goldman) for securing this debate. As she said, Essex county council is one of the worst-performing local authorities in the country for delivering on EHCPs. It is vital that we hear from the frontline—from parents, teachers, educators and assessors. I recently held a roundtable on these issues in Colchester with those groups, and I am delighted to say that the participants are now sharing their experiences through an Education Committee inquiry. I urge the Minister to pay close attention to that evidence and those voices, and to make the change that we so badly need.",
+   "name": "Pam Cox",
+   "party": "Lab",
+   "seat": "Colchester"
+  },
+  {
+   "who": "Clive Jones (Wokingham) (LD)",
+   "member_id": 5207,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Huq. Well done to my hon. Friend the Member for Chelmsford (Marie Goldman) for securing this debate. The cost of SEND provision for Wokingham borough council is incredibly high. This has a huge impact on our council’s budget and frequently contributes to parents’ expectations and, sometimes, elements of the EHCP not being met, with all the consequences that come with that. Despite costs rising, Wokingham borough council is set to lose another £1 million of funding under the current draft local government settlement scheme, when Wokingham is already the lowest-funded unitary authority in England. What are Ministers’ thoughts on how the Government can help councils like Wokingham? Will the Minister meet with me and representatives from Wokingham borough council to discuss the challenges we face locally when it comes to funding SEND provision? Are there any plans to review the process of producing EHCPs to make them more user-friendly, thereby leading to greater efficiency and effectiveness?",
+   "name": "Clive Jones",
+   "party": "LD",
+   "seat": "Wokingham"
+  },
+  {
+   "who": "Rachel Gilmour (Tiverton and Minehead) (LD)",
+   "member_id": 5252,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Dr Huq. I commend my hon. Friend the Member for Chelmsford (Marie Goldman) for securing this debate. It is very encouraging to see so many parliamentary colleagues present, although I must comment on the notable absence of those who should be here and be held accountable. I am a member of the Public Accounts Committee, which recently published a report on support for children with educational needs. I observed the process closely and was deeply saddened by what we found over the course of that inquiry. I represent a constituency that is 69% Somerset and 31% Devon. The Somerset side, with a Liberal Democrat-controlled council, issues 42.1% of EHCPs within the 20-week requirement. The Devon side, which has a Conservative-controlled council, only manages less than 5%. The Government, in consultation with local authorities and those who use and rely on the system, need to urgently review the infrastructure to support EHCPs, the systems available to assess and issue them, and what future provision in the system will look like, so that we can start to get this right on a regional and national level.",
+   "name": "Rachel Gilmour",
+   "party": "LD",
+   "seat": "Tiverton and Minehead"
+  },
+  {
+   "who": "Steff Aquarone (North Norfolk) (LD)",
+   "member_id": 5164,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for Chelmsford (Marie Goldman) and refer hon. Members to my entry in the Register of Members’ Financial Interests. Conservative-controlled Norfolk county council is failing too many SEND children—moreover, the Conservative Government failed SEND children—but the system is also failing children and families, and Norfolk wants to be part of the solution. There are many settings that are worthy of national best practice exemplification for the way they support a high incidence of SEND without needing to refer to EHCPs. The council is keen for the Department for Education to use Norfolk as a test bed for innovative solutions to the crisis in SEND, and our county is keen and eager to be a big player in the national conversation about the important transformation that must come to the way in which these services currently function. I would be incredibly grateful if the Minister took the time to meet with me, Norfolk county council and others to discuss the challenges we face and, more importantly, how we can help. I have pledged to those who have got in touch to tell me their stories and challenges in the SEND system that I will keep fighting for them.",
+   "name": "Steff Aquarone",
+   "party": "LD",
+   "seat": "North Norfolk"
+  },
+  {
+   "who": "Ben Maguire (North Cornwall) (LD)",
+   "member_id": 5350,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Huq. I thank my hon. Friend the Member for Chelmsford (Marie Goldman) for securing this important debate. I welcome the drive for diversity in our mainstream schools, but we also need to make sure that we provide specialist provision for our children. I draw the Minister’s attention to a primary school in my North Cornwall constituency that has had to repurpose its staff room for two year 7 SEND students who currently do not have a school place. I do have some good news, though: we have a new SEND school coming to Bodmin, which will hold between 60 and 70 students. But with hundreds on the wait list that will barely touch the sides. Briefly, I want to mention one student on that list, James. He has endured delay after delay, with no clear answers, no certainty and very little support. His mother got in touch with me in a desperate plea for help, saying: “The system is utterly devasting for young people”, adding that her son “has been completely let down.” James’s parents are now looking to see whether they will have to sell their house to pay for private schooling provision. Funding is key to this. Cornwall ranks 142 out of 151 in ",
+   "name": "Ben Maguire",
+   "party": "LD",
+   "seat": "North Cornwall"
+  },
+  {
+   "who": "Vikki Slade (Mid Dorset and North Poole) (LD)",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Huq. The current system is creating a horrendous conflict environment and a depressing, stressful professional working experience for teachers and support staff. Parents are spending their lives fighting, costing their own mental health and livelihoods, and councils are on the brink of resisting because they simply cannot cope with more. Far from early diagnosis adding to the strain, we believe that more investment can save money, reassure parents and ensure that schools and councils understand better the needs of the children who come through the system. I have been contacted by so many parents, but I want to share what Rachel from Wimborne told me. She said: “As a preschooler, there is a chance to give my daughter a full education, but the Dorset Child Development Centre is drowning in referrals, with a two-year wait for speech and language referrals.” Her mum is a teacher, and she said: “The red tape around autism and other neurodivergent conditions is ridiculous. Why do they have to go to the CDC when their needs are so severe that it is obvious to other educational and health professionals?” I have sent the Minister details of",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Olly Glover (Didcot and Wantage) (LD)",
+   "member_id": 5318,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Huq. I join my colleagues in commending my hon. Friend the Member for Chelmsford (Marie Goldman) on securing a debate on this important topic. I agree that it is good to see so many people here from the Labour and Liberal Democrat Benches but, as they say on Radio 4, it creates a challenge of delivering my remarks in just a minute. According to Oxfordshire county council, in the last 10 years in the county of my constituency the number of EHCPs has doubled from 3,000 to 7,000. The deficit of high-needs funding in Oxfordshire is estimated at £21.3 million, but that is in the wider national context of an estimated £3.16 billion deficit in England. Although the £1 billion extra allocated by the Chancellor in the Budget is welcome, it clearly does not go far enough. I will use the example of St Blaise primary school in Milton to show the wider context of some of these problems. The school was bitterly disappointed to hear that it could not access mental health support teams, but, in an example of the postcode lottery, children just a few minutes up the A34 are able to access that support. The child and adult mental health waiting list ",
+   "name": "Olly Glover",
+   "party": "LD",
+   "seat": "Didcot and Wantage"
+  },
+  {
+   "who": "Manuela Perteghella (Stratford-on-Avon) (LD)",
+   "member_id": 5122,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dr Huq. In my constituency of Stratford-on-Avon, I have heard from numerous parents and carers how they are constantly battling to get their children assessed for EHCPs. Some are waiting years. That leaves families in limbo, often forcing them into lengthy and stressful tribunal processes. With schools unable to meet the needs of children, they are left without educational support while they wait for their assessment. We urgently need a long-term funding plan for the whole SEND process from early years to post-16 education. We need robust accountability for local authorities and sufficient school places supported by well-trained staff to ensure that all children, no matter where they live, can access the education they deserve.",
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon"
+  },
+  {
+   "who": "Ms Julie Minns (Carlisle) (Lab)",
+   "member_id": 5094,
+   "type": "Contribution",
+   "text": "Thank you for accommodating me, Dr Huq. Education should not be this devastating or exhausting, but that is what all our constituents feel when it comes to finding adequate provision for their children with specialist needs. I will talk about one specific aspect. It is not about the exhaustion of actually getting an EHCP, although that is devastating for families. When armed with an EHCP, as in the case of one of my constituents, the exhaustion began in trying to get the school where their child was enrolled to agree to the one-day-a-week provision they had identified as being suitable for their child. It was the first step in getting their child back into that school, yet the school could not or would not agree to allow that provision to be paid for under the EHCP. This is about not just fixing the bureaucracy around EHCPs, but ensuring that the support and encouragement are there for our schools to meet the educational needs that parents know are right for their children.",
+   "name": "Ms Julie Minns",
+   "party": "Lab",
+   "seat": "Carlisle"
+  },
+  {
+   "who": "Jack Abbott (Ipswich) (Lab/Co-op)",
+   "member_id": 5131,
+   "type": "Contribution",
+   "text": "Thank you, Dr Huq, for your excellent chairship, which has allowed everybody to contribute. This is a national issue, but SEND services in Ipswich and Suffolk have been in a desperate state for more than a decade. Like everywhere else, we need specialist places and specialist professionals. We welcome the massive boost in funding provided by the Government. However, as hon. Members from across the room have said, culture and accountability are crucial. One way in which we can start to inject a bit more accountability and scrutiny into the system is to hold a review of the ombudsman process, which Members have described today as combative, complex and exhausting for so many families. In particular, tribunal hearings are held in public only in exceptional circumstances. Given that around 95% of tribunal hearings, if not more, find in favour of the families, all cases should now be heard in public. I urge the Minister to look not only at the ombudsman process, but at those tribunal hearings.",
+   "name": "Jack Abbott",
+   "party": "Lab/Co-op",
+   "seat": "Ipswich"
+  },
+  {
+   "who": "Dr Rupa Huq (in the Chair)",
+   "member_id": 4511,
+   "type": "Contribution",
+   "text": "I call the Liberal Democrat spokesperson.",
+   "name": "Dr Rupa Huq",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Dr Huq. I warmly congratulate my hon. Friend the Member for Chelmsford (Marie Goldman) on securing this important debate. Parliament has had a number of debates on SEND since the general election, and every one I have attended has been a blockbuster—an absolute sell-out, with people struggling to get in. I say to the Minister that that is a testament to the fact that pretty much every Member—this is why I am so shocked that there are no Conservative Back Benchers present—has an inbox full of heartbreaking stories of families up and down the country who are trying to access the support that they deserve and need. These are some of the most vulnerable children in our society, and it is incumbent on us to ensure that they get the support they need. Today’s debate is specifically about education, health and care plans, which were introduced in 2014. The vision behind them was to bring health and care together into one plan that would follow the child up to the age of 25, while being regularly renewed and updated. It would set out the support needed and provide assurances to the parents and the pupil involved. However, as we know far to",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Laura Trott (Sevenoaks) (Con)",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship as ever, Dr Huq. I congratulate the hon. Member for Chelmsford (Marie Goldman) on securing this debate and on her excellent speech. It is obvious from everybody who has spoken how much distress the delay in EHCPs is causing across the system. What is equally striking is the postcode lottery. We know that 15 local authorities completed less than 10% of their new EHCPs within the 20-week time limit, while 27 local authorities completed over 90% within 20 weeks. That is a stark difference, which I have not seen properly explained anywhere. I hope that as part of the work the Minister is doing in the Department there is some analysis of why the differences are so big. They cannot be explained away just by volume. Obviously covid has had a huge influence, but the problems we are discussing are not new. In 2009, in the final report of his inquiry, Brian Lamb called for a “radical overhaul” of the SEND system. He cited a culture of low expectation and a system that failed to deliver what children needed. The coalition Government, who have been referred to by a couple of Members, brought forward the Children and Families Act in 2014, which ",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Laurence Turner",
+   "member_id": 5234,
+   "type": "Contribution",
+   "text": "Will the hon. Member acknowledge that the CST said it is the right time to take school support staff pay out from under the local authority umbrella, and that its concern was that a ceiling would be set on school support staff pay? It has been clarified in the Employment Rights Bill Committee that that is not the case; the policy is about establishing a floor, not a ceiling.",
+   "name": "Laurence Turner",
+   "party": "Lab",
+   "seat": "Birmingham Northfield"
+  },
+  {
+   "who": "Laura Trott",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "I acknowledge absolutely that pay was part of that, but it was also about terms and conditions and flexibility, which I do not think we have seen adequately addressed to date. I am grateful for the engagement on these issues from the hon. Member and the Minister. It is really important that we get this right, because we will need extra flexibility as we go through with the reforms that the Government will, I hope, be bringing forward. The hon. Member for Chelmsford discussed the Minister’s approach to mainstream education and the recognition that mainstream education is not right for every child. While it is always right and proper, if parents want to send their child to a mainstream school, to give them the opportunity to do that and there should be the facilities there for that to take place, parents should also have the option of a special school if that is what they prefer. We have heard a lot about mainstream schooling; I completely understand that and I support it where it is the parents’ wish. But can the Minister confirm that the Government support special school places and will increase their number if that is the parents’ wish? Some groups are concerned about being forced",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Helen Hayes",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "Will the shadow Minister give way?",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Laura Trott",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "I was about to wrap up because I am conscious of time and I want to ensure that the hon. Member for Chelmsford has time to speak at the end of the debate, so I will close my remarks there.",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "The Minister for School Standards (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under you as Chair, Dr Huq. I congratulate the hon. Member for Chelmsford (Marie Goldman) on securing this important debate and commend all hon. Members for their powerful contributions. They are great in number and their time was short, but their voices were very much heard, and they have been listened to. They have done their constituents, who I know are facing significant challenges on this issue, justice today. Improving the special educational needs and disabilities system across the country is a priority for this Government. That includes improving the experience of the education, health and care plan process for children and young people and their families. We are clear that the SEND system requires reform, and we are working with families, schools, local authorities and partners to deliver improvements so that children and their families can access the support they need. There are no quick fixes; some of the issues are very deep-rooted in our system, but we absolutely agree that change is needed urgently. As a Government who are absolutely committed to breaking down barriers to opportunities for all children and young people—indeed, all people—we b",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Adrian Ramsay (Waveney Valley) (Green)",
+   "member_id": 5320,
+   "type": "Contribution",
+   "text": "I appreciate the work that the Minister is doing to address this issue and that there are no quick fixes, but given the terrible cases we have heard today—I have constituent who had to wait two years for an assessment, which spanned the whole length of their GCSE courses—does she agree with those who point out that the funding allocated so far will, given council debts, hardly touch the sides in terms of the SEND capacity that is needed?",
+   "name": "Adrian Ramsay",
+   "party": "Green",
+   "seat": "Waveney Valley"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I will talk about how we are seeking to address this. I appreciate the extent of the challenge that the hon. Gentleman raises. The fundamental point here is that the additional funding being spent is not actually achieving the outcomes that children deserve. That is why we need to reform the system fundamentally, to improve both the process for families and children and the outcomes for children. The number of education health and care plans has increased year on year since their introduction in 2014. As of January last year, nearly 600,000 children and young people had an EHCP. The plans were introduced as a way of minimising the bureaucracy and time-consuming nature of accessing vital support for children and young people with special educational needs and disabilities, to allow them the opportunities they deserve to achieve and thrive. Over time, however, flaws and lack of capacity in the system to meet lower level needs has added to the strain on specialist services and had a detrimental impact on those who are trying to access support through the EHCP process. As many hon. Members described, that has led to late identification of need and intervention, low parental confidence ",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Dr Rupa Huq (in the Chair)",
+   "member_id": 4511,
+   "type": "Contribution",
+   "text": "I call Marie Goldman to respond briefly to this epic debate.",
+   "name": "Dr Rupa Huq",
+   "role": "Chair"
+  },
+  {
+   "who": "Marie Goldman",
+   "member_id": 5073,
+   "type": "Contribution",
+   "text": "Thank you, Dr Huq. I am not sure I thanked you for your chairmanship earlier, so I thank you now. I also thank all hon. Members who took part in this important debate and contributed, in some circumstances, harrowing stories. I do not have time to go through them all. I will simply say this. I first heard about this subject and the terrible state that special educational needs provision was in at around this time last year. A parent raised it with me and told me what was going on. When I started digging into it, I learned that parents just did not feel heard; they felt that nobody was listening to them. Any parent and anybody involved in education who has been battling this issue can see in the debate here today that we are listening now. We will keep holding the Government’s feet to the fire and making sure that they make progress. I very much hope they do—indeed, I have faith that they do indeed want to make progress. I thank Members again for taking part. I hope we make progress very soon. Question put and agreed to. Resolved, That this House has considered Government support for education, health and care plans.",
+   "name": "Marie Goldman",
+   "party": "LD",
+   "seat": "Chelmsford"
+  }
+ ],
+ "fetched": "2026-10-21T20:24:50Z"
+}

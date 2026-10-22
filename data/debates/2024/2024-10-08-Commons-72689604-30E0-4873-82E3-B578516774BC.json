@@ -1,0 +1,995 @@
+{
+ "ext_id": "72689604-30E0-4873-82E3-B578516774BC",
+ "date": "2024-10-08",
+ "house": "Commons",
+ "section": "WestHall",
+ "title": "Independent Schools: VAT and Business Rates Exemptions",
+ "parents": [
+  "Westminster Hall"
+ ],
+ "location": "Westminster Hall",
+ "url": "https://hansard.parliament.uk/Commons/2024-10-08/debates/72689604-30E0-4873-82E3-B578516774BC/IndependentSchoolsVatAndBusinessRatesExemptions",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove",
+   "member_id": 5186
+  },
+  {
+   "name": "Dame Caroline Dinenage",
+   "role": "Chair",
+   "member_id": 4008
+  },
+  {
+   "name": "Rachael Maskell",
+   "party": "Lab/Co-op",
+   "seat": "York Central",
+   "member_id": 4471
+  },
+  {
+   "name": "Priti Patel",
+   "party": "Con",
+   "seat": "Witham",
+   "member_id": 4066
+  },
+  {
+   "name": "Christine Jardine",
+   "party": "LD",
+   "seat": "Edinburgh West",
+   "member_id": 4634
+  },
+  {
+   "name": "Mims Davies",
+   "party": "Con",
+   "seat": "East Grinstead and Uckfield",
+   "member_id": 4513
+  },
+  {
+   "name": "Ayoub Khan",
+   "party": "Ind",
+   "seat": "Birmingham Perry Barr",
+   "member_id": 5357
+  },
+  {
+   "name": "Dame Harriett Baldwin",
+   "party": "Con",
+   "seat": "West Worcestershire",
+   "member_id": 4107
+  },
+  {
+   "name": "Richard Fuller",
+   "party": "Con",
+   "seat": "North Bedfordshire",
+   "member_id": 3912
+  },
+  {
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford",
+   "member_id": 4131
+  },
+  {
+   "name": "Sir Alec Shelbrooke",
+   "party": "Con",
+   "seat": "Wetherby and Easingwold",
+   "member_id": 3997
+  },
+  {
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon",
+   "member_id": 5216
+  },
+  {
+   "name": "Helen Maguire",
+   "party": "LD",
+   "seat": "Epsom and Ewell",
+   "member_id": 5336
+  },
+  {
+   "name": "Mr Gideon Amos",
+   "party": "LD",
+   "seat": "Taunton and Wellington",
+   "member_id": 5250
+  },
+  {
+   "name": "Jerome Mayhew",
+   "party": "Con",
+   "seat": "Broadland and Fakenham",
+   "member_id": 4739
+  },
+  {
+   "name": "Mr Peter Bedford",
+   "party": "Con",
+   "seat": "Mid Leicestershire",
+   "member_id": 5330
+  },
+  {
+   "name": "Lewis Cocking",
+   "party": "Con",
+   "seat": "Broxbourne",
+   "member_id": 5050
+  },
+  {
+   "name": "Dr Pinkerton",
+   "party": "LD",
+   "seat": "Surrey Heath",
+   "member_id": 5288
+  },
+  {
+   "name": "Iqbal Mohamed",
+   "party": "Ind",
+   "seat": "Dewsbury and Batley",
+   "member_id": 5268
+  },
+  {
+   "name": "Ben Coleman",
+   "party": "Lab",
+   "seat": "Chelsea and Fulham",
+   "member_id": 5344
+  },
+  {
+   "name": "Dr Ben Spencer",
+   "party": "Con",
+   "seat": "Runnymede and Weybridge",
+   "member_id": 4785
+  },
+  {
+   "name": "Blake Stephenson",
+   "party": "Con",
+   "seat": "Mid Bedfordshire",
+   "member_id": 5100
+  },
+  {
+   "name": "Aphra Brandreth",
+   "party": "Con",
+   "seat": "Chester South and Eddisbury",
+   "member_id": 5241
+  },
+  {
+   "name": "Dr Neil Hudson",
+   "party": "Con",
+   "seat": "Epping Forest",
+   "member_id": 4853
+  },
+  {
+   "name": "Richard Tice",
+   "party": "Reform",
+   "seat": "Boston and Skegness",
+   "member_id": 5161
+  },
+  {
+   "name": "Alison Griffiths",
+   "party": "Con",
+   "seat": "Bognor Regis and Littlehampton",
+   "member_id": 5203
+  },
+  {
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner",
+   "member_id": 4872
+  },
+  {
+   "name": "Robin Swann",
+   "party": "UUP",
+   "seat": "South Antrim",
+   "member_id": 5319
+  },
+  {
+   "name": "Dr Neil Shastri-Hurst",
+   "party": "Con",
+   "seat": "Solihull West and Shirley",
+   "member_id": 5197
+  },
+  {
+   "name": "Ben Obese-Jecty",
+   "party": "Con",
+   "seat": "Huntingdon",
+   "member_id": 5089
+  },
+  {
+   "name": "Peter Fortune",
+   "party": "Con",
+   "seat": "Bromley and Biggin Hill",
+   "member_id": 5209
+  },
+  {
+   "name": "Mr Paul Kohler",
+   "party": "LD",
+   "seat": "Wimbledon",
+   "member_id": 5321
+  },
+  {
+   "name": "Sarah Olney",
+   "party": "LD",
+   "seat": "Richmond Park",
+   "member_id": 4591
+  },
+  {
+   "name": "Nigel Huddleston",
+   "party": "Con",
+   "seat": "Droitwich and Evesham",
+   "member_id": 4407
+  },
+  {
+   "name": "James Murray",
+   "role": "The Exchequer Secretary to the Treasury",
+   "member_id": 4797
+  },
+  {
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire",
+   "member_id": 3969
+  },
+  {
+   "name": "Mr Adnan Hussain",
+   "member_id": 5231
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Bradley Thomas (Bromsgrove) (Con)",
+   "member_id": 5186,
+   "type": "Contribution",
+   "text": "I beg to move, That this House has considered the removal of VAT and business rates exemptions for independent schools. It is a pleasure to serve under your chairmanship, Dame Caroline. This debate matters for various reasons. I have always been and will remain committed to supporting education across the board, including our excellent state schools. I want all schools to be adequately funded to present opportunities for children from all backgrounds. I say that as someone who was proudly educated in state schools and who cares about the life chances of everyone. I have secured this specific debate to highlight how Labour’s ideologically driven plan to remove VAT and business rate exemptions for independent schools is an inherently flawed policy. If Labour will not abandon the education tax I will also suggest some improvements that the Government could make to lessen the impact of the policy on pupils, parents and school staff in Bromsgrove and across the country.",
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove"
+  },
+  {
+   "who": "Dame Caroline Dinenage (in the Chair)",
+   "member_id": 4008,
+   "type": "Contribution",
+   "text": "Order. We seem to have a problem with the sound—it seems to be everybody’s microphones. I encourage the hon. Gentleman to plough on while we see whether we can change a few plugs and get it rolling again. In case he was put off by the tinny quality of the sound, we are trying to get it rectified. Please plough on.",
+   "name": "Dame Caroline Dinenage",
+   "role": "Chair"
+  },
+  {
+   "who": "Bradley Thomas",
+   "member_id": 5186,
+   "type": "Contribution",
+   "text": "Thank you, Dame Caroline. Education is an investment in our future. It is in everyone’s best interests that children are well educated so that they can make an engaged and positive contribution to our society. We do not charge VAT on many types of private healthcare, as that is beneficial when people use their own money to pay for a service that the state would otherwise provide. We do not charge VAT on university or nursery fees, so why should schooling be any different? There are approximately 2,500 independent schools in the UK educating more than half a million children. They are often small schools: more than 40% of independent schools have fewer than 100 pupils according to Department for Education data. The reality is that the policy will not fulfil its aims and will displace children mid-education. State education must be funded by the state, supported by taxpayers. The VAT exemption encourages greater use of independent education, reducing the number of state school pupils, meaning more money available per pupil in the state sector. The Times recently stated that 71% of parents felt that rising school fees would influence their future decision about independent schooling. ",
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove"
+  },
+  {
+   "who": "Rachael Maskell (York Central) (Lab/Co-op)",
+   "member_id": 4471,
+   "type": "Contribution",
+   "text": "Will the hon. Member give way?",
+   "name": "Rachael Maskell",
+   "party": "Lab/Co-op",
+   "seat": "York Central"
+  },
+  {
+   "who": "Bradley Thomas",
+   "member_id": 5186,
+   "type": "Contribution",
+   "text": "I will not give way. Independent schools should be seen as a British success story, both culturally and economically, instead of being discouraged and punished with the imposition of an education tax for socialist ideological principles. Most importantly, the human impact of the policy is stark. The failure of this education tax will not just be academic or financial; it will have a serious impact on families. One parent wrote to me: “As a widowed single mother who works full-time, I make enormous financial sacrifices to ensure my child can attend the same school from age 3 to 18. This stability is not only essential for my child’s development but also enables me to work and contribute to society. This proposed VAT would be devastating for families like mine.” Another mother wrote to me and said, “We also have a daughter who will need to start secondary school in two years. We had hoped for her to attend the same school as her brother but, with no scholarship likely and the addition of VAT, it is simply impossible. This is a painful realisation, and I worry that she will resent the opportunities that we couldn’t give her (but we could give her older sibling).” We have yet to talk a",
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove"
+  },
+  {
+   "who": "Priti Patel (Witham) (Con)",
+   "member_id": 4066,
+   "type": "Contribution",
+   "text": "I congratulate my hon. Friend on securing this important debate. On special educational needs, this measure will devastate many families around the country who make huge sacrifices. When the Minister sums up, will he tell us what mitigations and support will be given to local authorities to cover the cost and the pressures they face, particularly with shortages in special educational needs provision across the country?",
+   "name": "Priti Patel",
+   "party": "Con",
+   "seat": "Witham"
+  },
+  {
+   "who": "Bradley Thomas",
+   "member_id": 5186,
+   "type": "Contribution",
+   "text": "My right hon. Friend makes a valid point, which I will touch on later, and I hope the Minister will address it. Independent schools provide additional value-adding capacity to SEND education, as has been acknowledged, and VAT on fees risks their ability to do that. There is simply not the capacity in the state sector to accommodate all those extra pupils, particularly when SEND services are already under pressure.",
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove"
+  },
+  {
+   "who": "Christine Jardine (Edinburgh West) (LD)",
+   "member_id": 4634,
+   "type": "Contribution",
+   "text": "I congratulate the hon. Member on securing this important debate. My city of Edinburgh has the highest proportion of independently educated children in the country, at between 20% and 30% every year. According to the local Labour authority, 16 schools will already be over capacity at the end of this year. If the predicted percentage of children drop out of independent education into the state sector, it will not be able to cope. Does the hon. Gentleman agree that this measure is ill thought-through and that the Labour Government must come up with a way to support education, particularly as the matter is devolved in Scotland and VAT is reserved?",
+   "name": "Christine Jardine",
+   "party": "LD",
+   "seat": "Edinburgh West"
+  },
+  {
+   "who": "Bradley Thomas",
+   "member_id": 5186,
+   "type": "Contribution",
+   "text": "I agree with the hon. Member. The examples she cites highlight the situation perfectly. The Government have failed to consider that the capacity is not there. We have already seen, in the few months since this Parliament began, several debates highlighting issues of SEND capacity. Another mother wrote to me to outline the benefit that independent schools can have for children with SEND needs: “We moved our autistic child to a small independent school and the transformation was immediate. Classes are small and quiet, and the school is very nurturing and family oriented. It has been wonderful to see her blossom and slowly get more and more involved in school life. We would not have chosen for our daughter to go to private school but there was no suitable state provision available. We are paying a significant amount of money to be able to do this. Adding VAT on top feels like we are being punished twice for having a child that doesn’t fit into the state system, either in mainstream or specialist schools.”",
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove"
+  },
+  {
+   "who": "Mims Davies (East Grinstead and Uckfield) (Con)",
+   "member_id": 4513,
+   "type": "Contribution",
+   "text": "Nobody here is not interested in a positive educational experience for all children in all our constituencies, in all establishments. My own youngsters have enjoyed brilliant learning in both private and state schools, while one is currently in an independent school. Would my hon. Friend agree that the heart of this policy of bringing in taxation on education is stoking division, creating harm to aspiration, and stopping the sharing of facilities and opportunity? It is exemplified by the Education Secretary’s proclamation on social media. Despite the impact on jobs and community harm, the Government still want to introduce this policy.",
+   "name": "Mims Davies",
+   "party": "Con",
+   "seat": "East Grinstead and Uckfield"
+  },
+  {
+   "who": "Bradley Thomas",
+   "member_id": 5186,
+   "type": "Contribution",
+   "text": "I wholeheartedly agree with my hon. Friend. The comments made by the Education Secretary on Twitter over the weekend epitomise the way in which the mask of this Government is slipping—socialism is revealing its true face—and how reprehensible the policy is. Adjacent to SEND schools, we must consider faith education. This education tax will make independent faith schooling unaffordable for many families, hurting the 370,000 pupils who attend independent faith schools in England according to Department for Education figures. It is important that the House notes that fees at those schools are frequently below the independent school average, and sometimes below state per-pupil funding levels. Often the schools have a suggested fee, but the community supports those who cannot afford the full fee by themselves.",
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove"
+  },
+  {
+   "who": "Ayoub Khan (Birmingham Perry Barr) (Ind)",
+   "member_id": 5357,
+   "type": "Contribution",
+   "text": "I congratulate the hon. Member on securing this debate. In Birmingham Perry Barr there is an all-girls faith school where parents earning just above minimum wage secure places for their children. We already have an enormous problem in the constituency with the secondary school sector, where waiting lists are somewhere in the region of 100 places. Does the hon. Member agree that not only does it not stack up financially but we simply have not got the infrastructure to deal with this policy?",
+   "name": "Ayoub Khan",
+   "party": "Ind",
+   "seat": "Birmingham Perry Barr"
+  },
+  {
+   "who": "Bradley Thomas",
+   "member_id": 5186,
+   "type": "Contribution",
+   "text": "I agree wholeheartedly with the hon. Member. We have yet to talk about military and diplomatic families, who need boarding schools to provide a stable education while parents are deployed overseas; 4,700 children are funded by the Government under the continuity of education allowance, which assists service personnel and diplomatic families in educating their children at boarding school.",
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove"
+  },
+  {
+   "who": "Dame Harriett Baldwin (West Worcestershire) (Con)",
+   "member_id": 4107,
+   "type": "Contribution",
+   "text": "I congratulate my hon. Friend on securing this important debate. The Government say that they are pursuing economic growth. In his excellent speech I hope that my hon. Friend will highlight the value of export earnings to the United Kingdom from the fantastic independent school sector, which is a key part of growth. No other western economy taxes education.",
+   "name": "Dame Harriett Baldwin",
+   "party": "Con",
+   "seat": "West Worcestershire"
+  },
+  {
+   "who": "Bradley Thomas",
+   "member_id": 5186,
+   "type": "Contribution",
+   "text": "My right hon. Friend echoes the point that I made earlier that this is about not just a service that is provided but a key segment of the UK economy that bolsters the value of UK plc and UK GDP.",
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove"
+  },
+  {
+   "who": "Rachael Maskell",
+   "member_id": 4471,
+   "type": "Contribution",
+   "text": "Will the hon. Member give way?",
+   "name": "Rachael Maskell",
+   "party": "Lab/Co-op",
+   "seat": "York Central"
+  },
+  {
+   "who": "Bradley Thomas",
+   "member_id": 5186,
+   "type": "Contribution",
+   "text": "I will not; I will make progress. Labour committed in the House of Commons in 2023 that armed forces families need not be concerned about proposals to charge VAT. With the current retention crisis in the armed forces, and the current volatile state of world affairs, the Government need to confirm what impact analysis has been carried out on the effect of taxing education on military personnel. We then get into issues around the implementation of the policy. Implementation in January will put pressure on local authorities to find rare and academically disruptive in-year placements. Those will be difficult, as state schools will be full and many will be oversubscribed, with areas that have a high number of pupils attending independent schools having some of the busiest state schools.",
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove"
+  },
+  {
+   "who": "Richard Fuller (North Bedfordshire) (Con)",
+   "member_id": 3912,
+   "type": "Contribution",
+   "text": "My hon. Friend is speaking eloquently about the impact on children’s education, on children with special educational needs and on children being ripped out of their schools, perhaps in the year of their GCSEs or A-levels. This is obviously a debate about education. There are Members of Parliament in the Chamber from the Conservative party and the Liberal Democrats, as well as independent MPs and Members from Reform—",
+   "name": "Richard Fuller",
+   "party": "Con",
+   "seat": "North Bedfordshire"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "And the DUP.",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Richard Fuller",
+   "member_id": 3912,
+   "type": "Contribution",
+   "text": "And the DUP.",
+   "name": "Richard Fuller",
+   "party": "Con",
+   "seat": "North Bedfordshire"
+  },
+  {
+   "who": "Jim Shannon",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "I am always here, by the way.",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Richard Fuller",
+   "member_id": 3912,
+   "type": "Contribution",
+   "text": "It is not always about the hon. Member for Strangford (Jim Shannon). The Labour party has marshalled all but two of their MPs, one of whom hates the policy—I do not know what the other thinks. Does my hon. Friend the Member for Bromsgrove (Bradley Thomas) think that it is shocking that not a single member of the Education ministerial team of the Labour Government has bothered to show up today, yet they continue to use the airwaves to spew out spiteful and divisive messages about this Labour policy? The Minister present, the hon. Member for Ealing North (James Murray), does not care about education; he cares about money—he is a Treasury Minister. He knows that the policy will not raise any money, but it is going to cost taxpayers.",
+   "name": "Richard Fuller",
+   "party": "Con",
+   "seat": "North Bedfordshire"
+  },
+  {
+   "who": "Bradley Thomas",
+   "member_id": 5186,
+   "type": "Contribution",
+   "text": "I agree wholeheartedly with my hon. Friend. The Government have shown the true intent of the policy over the weekend with the divisive, “us and them” mentality that was revealed on social media. I call on the Government to pause and reconsider this education tax, with a view to abandoning it. It is unethical and will damage a British success story. It will not fulfil its stated aims. The policy will not raise significant money, but is being forced through at the expense of state and independent schoolchildren to further the Government’s divisive ideological agenda that so many in this House have recognised. If the Government refuse to abandon the policy, there are some sensible and practical steps that they can take to minimise the impact that it will have on parents and children. First, delay the imposition of VAT until September and the start of the next academic year. There has been no proper impact assessment of these policies on state schools, SEND provision or faith schooling; a full consultation and impact assessment is needed before changes are announced. Secondly, assess how very small schools can be protected from VAT and tax changes. They are a vital community resource a",
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove"
+  },
+  {
+   "who": "Dame Caroline Dinenage (in the Chair)",
+   "member_id": 4008,
+   "type": "Contribution",
+   "text": "Order. A lot of people want to take part in this debate, so I remind everybody that they need to bob if they wish to be called. Given the nature of the debate, I recommend that Members declare any interests if they have them. I am going to kick us off with a three-minute limit on contributions because 19 people are down to speak.",
+   "name": "Dame Caroline Dinenage",
+   "role": "Chair"
+  },
+  {
+   "who": "Sir Alec Shelbrooke (Wetherby and Easingwold) (Con)",
+   "member_id": 3997,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Dame Caroline. The Government are about to realise the reality of governance over manifesto ideology. Fundamentally, this policy will remove the ability of people to send their children to local primary schools as places get filled by those who currently can just about afford to use private schools. As there is limited time, I have a series of questions that I would like to put to the Minister. To be fair to him, this is not his Department—education Ministers are running away from their policy—so I doubt he will be able to answer them today, but perhaps he can take them away. Some of them have been covered, but I think it is important to get them on the record. Will the Minister confirm whether a low-income family whose child is in receipt of a bursary would be liable for VAT on the total school fees? Would a staff member in receipt of an employee discount on fees also be liable? With boarding schools already at 86% capacity and some already withdrawing from the market, will the continuity of education allowance for military families still be able to house the 4,200 who currently use it? Will arts schools be exempt? If so, and we a",
+   "name": "Sir Alec Shelbrooke",
+   "party": "Con",
+   "seat": "Wetherby and Easingwold"
+  },
+  {
+   "who": "Caroline Voaden (South Devon) (LD)",
+   "member_id": 5216,
+   "type": "Contribution",
+   "text": "My constituency of South Devon is home to several small independent schools that offer an alternative education from the mainstream offer from state schools: education that caters brilliantly for pupils who struggle to fit in with the demands of the mainstream curriculum. I have heard from several parents whose children could not cope in state schools—they live with autism or other mental health challenges—but are thriving in those small private settings. These small independent schools, whose fees are as low as they can make them, offer smaller class sizes, fewer class transitions during the day and more emphasis on wellbeing and creativity. The parents who have contacted me in desperation over this proposed change are not wealthy. They are scraping together the fees so that their children can attend a school where they can thrive. One told me that she had sold her house and given away the family pet in order to move into a flat. She changed job to be able to afford the fees, and she now buys everything second hand. Another said that they had also sold their home and moved house to afford the fees at their local Steiner school as their children had also failed to cope with mainstr",
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon"
+  },
+  {
+   "who": "Helen Maguire (Epsom and Ewell) (LD)",
+   "member_id": 5336,
+   "type": "Contribution",
+   "text": "My hon. Friend raises a good point, and I was glad to hear that Labour is giving consideration to cases in which independent school provision has been specified in education, health and care plans. However, as has already been raised, many children have special educational needs and do not require an EHCP; that means that many children with SEN are currently being educated in independent schools as there is insufficient support in the state school system. As such, the families are having to bear the fee increase. Does my hon. Friend agree that the Government must ensure that those vulnerable children are not disadvantaged by this policy?",
+   "name": "Helen Maguire",
+   "party": "LD",
+   "seat": "Epsom and Ewell"
+  },
+  {
+   "who": "Caroline Voaden",
+   "member_id": 5216,
+   "type": "Contribution",
+   "text": "I absolutely agree with my hon. Friend that those children are going to be most affected by this policy. For those families, the tax change is a regressive step that will force them into an impossible situation and have a devastating impact on children who have already had a difficult start in life—many of whom have experience of the care system, our failing mental health system and a state school system completely unable to cope with all their additional or complex needs. Yes, the state school system desperately needs investment—we know that. We know that the provision for SEND is in a disastrous state, nowhere more so than in Devon, and the chronic underfunding of councils by the previous Government has decimated SEND provision.",
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon"
+  },
+  {
+   "who": "Mr Gideon Amos (Taunton and Wellington) (LD)",
+   "member_id": 5250,
+   "type": "Contribution",
+   "text": "I congratulate the hon. Member for Bromsgrove (Bradley Thomas) on securing this important debate. In my constituency, Taunton school, Wellington school, King’s college and Queen’s college make a massive contribution to the local economy. Beyond that, they also cater for many children with special educational needs and disabilities. Does my hon. Friend agree that the Minister should consider resources for local authorities to cope with the wave of applications for support from SEND children currently being supported in independent schools? They are not applying for EHCPs now but will doubtless need to in future, if they are no longer able to get the care and support they need at their schools. Does she also agree that the Minister should secure a rise in the armed forces allowance to cope with the 20% increase?",
+   "name": "Mr Gideon Amos",
+   "party": "LD",
+   "seat": "Taunton and Wellington"
+  },
+  {
+   "who": "Caroline Voaden",
+   "member_id": 5216,
+   "type": "Contribution",
+   "text": "It is interesting that nobody is here from the Department for Education to defend the policy and that we have heard nothing about the contribution it will make to increasing SEND provision in state schools. I certainly know that the state schools in my area cannot cope with any additional need, and we have heard nothing about that. Dare I say that the Liberal Democrats had several suggestions for tax-raising options in our election manifesto that do not seem to have been considered yet by this Government? I humbly suggest that a tax on social media companies might be a good place to start, given the impact that they have on the mental health of our young people. I implore the Minister to rethink how the VAT policy will damage families who have tried so hard to find the right setting so that their children can thrive. If he would like to come to South Devon and see for himself what some of these brilliant schools offer, I will be delighted to show him around.",
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon"
+  },
+  {
+   "who": "Jerome Mayhew (Broadland and Fakenham) (Con)",
+   "member_id": 4739,
+   "type": "Contribution",
+   "text": "We have been told by the Government that the rationale for this policy is not class hatred or class warfare; it is a revenue-generation mechanism for state schools. It is a sort of novel, hypothecated tax: education has always been tax free in this country and, in fact, around the world. Even going back to the last flowering of Labour’s socialism in the 1970s, when there was beer and sandwiches in No. 10, there was no suggestion that we should take socialism into the classroom in the way that this Government are. If tax take is in fact the rationale, where is the impact assessment? How much will actually be raised by this policy, and what costs will be associated with its implementation? We have already heard that some 10,000 students have left the private sector and are going into the state sector just this September. What impact will there be on the education of those children? On Friday I went to see a local headmaster at a private school in my constituency—the only one that I am aware of. At this stage, I should register my interest: I have one child at a fee-paying school. The headmaster said that there are primary schools locally that are totally full and there is no space fo",
+   "name": "Jerome Mayhew",
+   "party": "Con",
+   "seat": "Broadland and Fakenham"
+  },
+  {
+   "who": "Rachael Maskell",
+   "member_id": 4471,
+   "type": "Contribution",
+   "text": "I am grateful to the hon. Member for giving way. I have always had great concern about segregation in our education system, but parents in York say that due to the different pedagogy environment and culture, certain independent schools provide the only way that their children with SEN, anxiety or care experience can currently access education. It is through necessity, not choice. Does he agree that the Government should publish an impact assessment not only for this, but for the Budget, so that we can assess the full analysis of this policy?",
+   "name": "Rachael Maskell",
+   "party": "Lab/Co-op",
+   "seat": "York Central"
+  },
+  {
+   "who": "Jerome Mayhew",
+   "member_id": 4739,
+   "type": "Contribution",
+   "text": "I am grateful to the hon. Lady, and I am sorry that she waited so long to intervene. I quite agree with the point that she makes. We need to have an impact assessment on another issue, which is the provision of boarding facilities for children in care, which again are provided in my constituency. The school provides full boarding for not just children in care, but the boarding pathway programme put forward by Norfolk county council for children on the edge of care. Their education is the single point of continuity in their lives, and this policy has a real risk of reducing that support and removing them from their school and their friends halfway through an educational year. What assessment have the Government undertaken before the Budget on these policies and their costs, and what mitigation will they put in place? We have already heard about the impact on military families. Is it right to target the children of our servicemen for this hypothecated tax? Was targeting poor pensioners not enough for this Government?",
+   "name": "Jerome Mayhew",
+   "party": "Con",
+   "seat": "Broadland and Fakenham"
+  },
+  {
+   "who": "Mr Peter Bedford (Mid Leicestershire) (Con)",
+   "member_id": 5330,
+   "type": "Contribution",
+   "text": "Does my hon. Friend agree that the policy disproportionately affects families on lower and middle incomes, which the vast majority of these students come from? Parents I have spoken to in my constituency are really concerned. They have forgone foreign holidays, a new car and a bigger home because they have chosen to invest in their children’s education. Should the Government not encourage people to make those right decisions on behalf of their families, rather than penalising them?",
+   "name": "Mr Peter Bedford",
+   "party": "Con",
+   "seat": "Mid Leicestershire"
+  },
+  {
+   "who": "Jerome Mayhew",
+   "member_id": 4739,
+   "type": "Contribution",
+   "text": "My hon. Friend is absolutely right. It feels as though the Government have a cartoonish characterisation of what a private education looks like—top hats and tails—but that is not the real experience of the modern private educational sector. That brings me nicely on to the impact on bursaries. At the school in my constituency, 20% of fee revenue goes on bursaries. It is exactly that level of support for people with greater financial disadvantage that will be the first casualty of this unfair and ill thought-out policy. Again, it is an odd target for a tax take. What about the impact on local businesses? The school employs 286 people of all different types in my constituency, and job cuts are already under way. I ask the Government to think again. Surely the introduction of this ill thought-out policy halfway through the academic year needs to be revisited. Then there is the impact on children who are sitting for public examinations. It is always bad when children have to change schools because of circumstances that are forced on them, but even more so when they are sitting for their GCSEs or A levels. At the very least, the policy should not be implemented for people in those years.",
+   "name": "Jerome Mayhew",
+   "party": "Con",
+   "seat": "Broadland and Fakenham"
+  },
+  {
+   "who": "Dame Caroline Dinenage (in the Chair)",
+   "member_id": 4008,
+   "type": "Contribution",
+   "text": "I am desperately trying to squeeze everybody in, but, as we can see, a lot of people want to speak, so I will now take the time limit down to two minutes.",
+   "name": "Dame Caroline Dinenage",
+   "role": "Chair"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "To provide an example of the two minutes, I will speak at a very speedy rate. I thank you, Dame Caroline, for allowing me to speak, and I congratulate the hon. Member for Bromsgrove (Bradley Thomas) on bringing forward the debate. I will make two points. I have a large number of independent schools in my constituency, but I want to speak about our local grammar school, Regent House. It is one of the top schools in Northern Ireland and has a preparatory school attached. I have been contacted by parents of children in the school, who have succinctly outlined their view: this is clearly yet another blow to the working family who are trying their best for their children and making sacrifices, which become more difficult with every passing Budget. Our schooling system in Northern Ireland is different, and I agree with my party colleague, the Education Minister Paul Givan, who has outlined reasons why the change cannot go ahead. Some 2,500 pupils in Northern Ireland attend grammar school preps, Christian schools and other independent schools, and their parents top up to allow them to have this privilege. Let us be clear about what is happening: these are not people with lots of money. Th",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Lewis Cocking (Broxbourne) (Con)",
+   "member_id": 5050,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Dame Caroline. The Turnford school was a secondary school in decline in my constituency of Broxbourne: academic standards were poor, and the school had never received a satisfactory rating from Ofsted. But thanks to a unique partnership with Haileybury, an independent school also in my constituency, the tide began to turn. In 2015, the Turnford school was relaunched as Haileybury Turnford school, with Haileybury the sole sponsor. A generous annual improvement grant worth £200,000 a year was established —to date, £1.2 million has been given to the state school—and other wraparound support was provided, including for teaching staff and kids with SEND. In 2022, for the first time in its history, Haileybury Turnford School was judged to be good. Ministers think this policy will impact only on the rich, but, for nearly a decade, a genuinely working-class community in the Cheshunt and Turnford area has benefited from the state and independent sectors working together. I therefore urge the Government—I would like to hear from the Minister today on this—to allow independent schools to offset the financial support and resources they provide",
+   "name": "Lewis Cocking",
+   "party": "Con",
+   "seat": "Broxbourne"
+  },
+  {
+   "who": "Dr Al Pinkerton (Surrey Heath) (LD)",
+   "member_id": 5288,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Dame Caroline. I thank the hon. Member for Bromsgrove (Bradley Thomas) for securing this important debate. In my constituency, there are six small independent schools, two of which are dedicated to special educational needs, serving a total of 820 students. I have heard from each of those schools, from families of current students and from teachers in the state sector about the potential impacts of imposing VAT on private education provision. I want to highlight two issues that relate particularly to the educational ecosystem of Surrey Heath, but which will, I think, also resonate widely across the country. The first is special educational needs. Of the 820 students in private schools across Surrey Heath, 230 have special educational needs of varying degrees of severity, and, of those, 138 are not in possession of an EHCP. That figure indicates the disproportionate service and choice that small, local private schools provide children and families with special educational needs. For those children and families, private provision is more than just an alternative to the state sector; it is a crucial lifeline for children who struggle ",
+   "name": "Dr Pinkerton",
+   "party": "LD",
+   "seat": "Surrey Heath"
+  },
+  {
+   "who": "Iqbal Mohamed (Dewsbury and Batley) (Ind)",
+   "member_id": 5268,
+   "type": "Contribution",
+   "text": "The state schools in my constituency are already bursting at the seams, and we have hundreds of children who are outside of education, many of whom are unable to receive homeschooling. There are six private schools in my constituency, educating more than 1,000 children. The lowest fees start at £1,800, with the highest at around £3,300. We are talking about working-class, low-income families with children who have special educational needs. If enacted, the policy would be hugely damaging to those families’ financial situation and their children’s education. I strongly urge the Government to assess the impact of that and put in place protection mechanisms for such schools.",
+   "name": "Iqbal Mohamed",
+   "party": "Ind",
+   "seat": "Dewsbury and Batley"
+  },
+  {
+   "who": "Dr Pinkerton",
+   "member_id": 5288,
+   "type": "Contribution",
+   "text": "I agree with the hon. Gentleman entirely. My second point relates to military families. As we have close ties to Sandhurst, Pirbright and nearby Aldershot, around 10% of pupils in my constituency come from military families. Those families already report that they are struggling with fees because of the increasing gap between the continuity of education allowance paid by the Ministry of Defence and the rising cost of private education, and adding 20% would widen that gap further still. Many families would reach their tipping point and be forced to withdraw their children from their current schools, with all the attendant risks.",
+   "name": "Dr Pinkerton",
+   "party": "LD",
+   "seat": "Surrey Heath"
+  },
+  {
+   "who": "Helen Maguire",
+   "member_id": 5336,
+   "type": "Contribution",
+   "text": "My hon. Friend raises an excellent point. As the Liberal Democrat defence spokesperson and as a veteran myself, I can only reiterate the importance of a stable environment for the children of armed forces personnel. Does he agree that the Government must continue to support a stable environment for our armed forces personnel as they continue to protect our country, both at home and overseas, and that the Government must explain exactly how they will achieve that?",
+   "name": "Helen Maguire",
+   "party": "LD",
+   "seat": "Epsom and Ewell"
+  },
+  {
+   "who": "Dr Pinkerton",
+   "member_id": 5288,
+   "type": "Contribution",
+   "text": "I agree entirely with my hon. Friend. I know that residents in my constituency face having to leave the armed forces because of the disruption that the added VAT would cause and the difficulty of procuring educational offerings. I ask the Government to think again about this policy—this education tax—and its timing and application, especially now, when SEND provision is already broken in counties such as Surrey and requires fundamental reform; when local independent schools are already struggling, having borne many of the costs associated with inflation, lived through the pandemic and endured many of the costs attached to that; and when state schools are already struggling to provide the education that they want to provide.",
+   "name": "Dr Pinkerton",
+   "party": "LD",
+   "seat": "Surrey Heath"
+  },
+  {
+   "who": "Ben Coleman (Chelsea and Fulham) (Lab)",
+   "member_id": 5344,
+   "type": "Contribution",
+   "text": "I am amazed by the Conservative Opposition’s chutzpah when they talk about special educational needs. No one would have thought that they had been in power for the last 14 years and overseen the running down of the system so that it is almost impossible to get an education, health and care plan—these days, 98% of tribunals award plans against councils. We have a system without special educational needs co-ordinators. We have a special educational needs system that, thanks to the legacy of the Conservative Government—14 years of decline— is failing. I speak as someone who was for 14 years the governor of two special schools near my constituency. I am proud of what the last Labour Government achieved: £1 billion into services for disabled children and young people and their families, and lots of new rights for those people. Under the Conservatives, we have gone backwards, and the situation in the special educational needs sector is dire. As a result, young people cannot get the EHCPs they need.",
+   "name": "Ben Coleman",
+   "party": "Lab",
+   "seat": "Chelsea and Fulham"
+  },
+  {
+   "who": "Dr Ben Spencer (Runnymede and Weybridge) (Con)",
+   "member_id": 4785,
+   "type": "Contribution",
+   "text": "Will the hon. Gentleman give way on that point?",
+   "name": "Dr Ben Spencer",
+   "party": "Con",
+   "seat": "Runnymede and Weybridge"
+  },
+  {
+   "who": "Ben Coleman",
+   "member_id": 5344,
+   "type": "Contribution",
+   "text": "Let me make a little bit more progress. Cash-strapped councils are having to send their constituents’ children to private schools because state provision is not available. Parents from my constituency have written to me saying that their only reason for sending a child to a private school to meet their dyslexia, neurodivergence or other needs is not that they are ideologically in favour of doing so, but that they cannot do anything else. The provision is not there locally, and that is because of 14 years of Conservative decline. It is absolutely extraordinary.",
+   "name": "Ben Coleman",
+   "party": "Lab",
+   "seat": "Chelsea and Fulham"
+  },
+  {
+   "who": "Dr Spencer",
+   "member_id": 4785,
+   "type": "Contribution",
+   "text": "Bearing in mind that around 15% of children in independent schools have special educational needs and only around 5% have an EHCP, given the move back into the state sector that this policy will cause and given the hon. Gentleman’s experience and personal concern about EHCPs, will he be voting against the policy?",
+   "name": "Dr Ben Spencer",
+   "party": "Con",
+   "seat": "Runnymede and Weybridge"
+  },
+  {
+   "who": "Ben Coleman",
+   "member_id": 5344,
+   "type": "Contribution",
+   "text": "The one thing I did not hear from the hon. Gentleman was an apology for what his party did to the special educational needs system in this country over 14 years. We do have a problem as a result of the policy, however. Parents who cannot easily afford to send their children to private schools are digging deep into their pockets, as my constituents in Chelsea and Fulham have written to me. That is the situation we are faced with. Local councils are sending kids to private schools because they cannot do otherwise, and the schools are small and cannot easily absorb the VAT. I am pleased that the Government recognise the particular challenges facing children with additional needs and have agreed to exempt those with EHCPs from VAT. I am pleased that the Government have committed, as the Minister said when discussing SEND in a debate before the recess—",
+   "name": "Ben Coleman",
+   "party": "Lab",
+   "seat": "Chelsea and Fulham"
+  },
+  {
+   "who": "Mr Amos",
+   "member_id": 5250,
+   "type": "Contribution",
+   "text": "I appreciate the point the hon. Member is trying to make, but given that children simply cannot get an EHCP, how does he expect them to get the support they need?",
+   "name": "Mr Gideon Amos",
+   "party": "LD",
+   "seat": "Taunton and Wellington"
+  },
+  {
+   "who": "Ben Coleman",
+   "member_id": 5344,
+   "type": "Contribution",
+   "text": "I am glad the hon. Member appreciates the point I am trying to make. I will make the point it absolutely clear: because children cannot get an EHCP thanks to the failures of the Conservative Government, local councils and parents who can ill afford it are having to send their kids to private schools. I am concerned that the use of EHCPs as a criterion for VAT exemption is too limited, but I do not think that any Conservative Member here has a right to talk about SEND without first saying, “I am sorry.” I support the suggestion of my hon. Friend the Member for York Central (Rachael Maskelll) that before we go ahead with this policy, we undertake a proper assessment of the impact on the education of children with special educational needs who do not have EHCPs. That is a perfectly reasonable point to make, given the hideous, cruel and inept situation in which the Conservative party has left this country’s special educational needs system.",
+   "name": "Ben Coleman",
+   "party": "Lab",
+   "seat": "Chelsea and Fulham"
+  },
+  {
+   "who": "Blake Stephenson (Mid Bedfordshire) (Con)",
+   "member_id": 5100,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Dame Caroline. I thank my hon. Friend the Member for Bromsgrove (Bradley Thomas) for securing this debate. I should declare that I am a governor at Shillington and Stondon Federation, and a Central Bedfordshire councillor. Labour Members are notable by their absence. I can only imagine that they are ashamed of this policy to charge VAT on education. Parents across the country and in Mid Bedfordshire deserve to be able to send their child to the best school for them. Parental choice is crucial to ensuring that our children get the best start in life, but too many parents in Bedfordshire are already struggling to get that for their children. The Department for Education has acknowledged that Bedford borough’s secondary schools are effectively full. A new school will not come along until 2027, and it is anticipated that even that school will be filled by future housing growth. Just over 15% of children in Bedford borough, and nearly 10% of children in central Bedfordshire, did not receive an offer for their first choice secondary school. That situation will get worse as our population grows. Across Bedfordshire, 19 independent schools",
+   "name": "Blake Stephenson",
+   "party": "Con",
+   "seat": "Mid Bedfordshire"
+  },
+  {
+   "who": "Aphra Brandreth (Chester South and Eddisbury) (Con)",
+   "member_id": 5241,
+   "type": "Contribution",
+   "text": "I am grateful to my hon. Friend the Member for Bromsgrove (Bradley Thomas) for securing this important debate. Just last week, I held a roundtable with headteachers, school governors and bursars from five independent schools in and around my constituency. I am grateful to Abbey Gate college for hosting. The message from everyone at that meeting was clear: the child is not at the centre of this policy. This is not just about the more than 1,600 pupils attending independent schools in my constituency; it is about the education of every single child, because every pupil who leaves the independent sector as a result of this ill-thought-through policy will mean further pressure put on the state system. As independent schools try to absorb rising costs to minimise the impact of these taxes, they are faced with difficult choices about how to continue the important charitable work they do, including fully-funded bursary places—as many as one in 14 pupils at one senior school in my constituency. Like others here, I am particularly concerned about the impact on children with special educational needs.",
+   "name": "Aphra Brandreth",
+   "party": "Con",
+   "seat": "Chester South and Eddisbury"
+  },
+  {
+   "who": "Dr Neil Hudson (Epping Forest) (Con)",
+   "member_id": 4853,
+   "type": "Contribution",
+   "text": "Hard-working families sacrifice huge amounts to put their children into independent schools. There are more than 2,000 pupils in Epping Forest independent schools. Does my hon. Friend agree that the Labour policy of removing VAT and business rates exemption from independent schools will impact pupils right across the country, including SEND pupils, and will also impact our fantastic local state schools, which will be hit with serious capacity issues when pupils are forced to transfer? This policy is about the politics of envy, rather than the politics of evidence.",
+   "name": "Dr Neil Hudson",
+   "party": "Con",
+   "seat": "Epping Forest"
+  },
+  {
+   "who": "Aphra Brandreth",
+   "member_id": 5241,
+   "type": "Contribution",
+   "text": "Absolutely. The policy will impact all children across our country, and needs to be taken seriously. I have spoken previously about the challenges of SEND provision in my constituency, where families wait months for an EHCP. They are already being let down, so I am deeply concerned about the added pressure of this policy. Finally, the policy is simply unworkable. The Government are asking staff and bursars to rethink how they operate invoicing and fee processing halfway through an academic year. At the very least, I urge the Government to move the start to the beginning of the next academic year. This is not about embossed stationery, swimming pools and astroturf; it is about children and their education. I urge the Government to think very carefully about this decision and to do as the headteachers at my roundtable on Friday suggested: put children at the centre of this policy.",
+   "name": "Aphra Brandreth",
+   "party": "Con",
+   "seat": "Chester South and Eddisbury"
+  },
+  {
+   "who": "Dame Caroline Dinenage (in the Chair)",
+   "member_id": 4008,
+   "type": "Contribution",
+   "text": "This is a reminder that there is a two-minute time limit and, in order to get through the remaining speakers, I am now not going to add an additional minute for each intervention.",
+   "name": "Dame Caroline Dinenage",
+   "role": "Chair"
+  },
+  {
+   "who": "Richard Tice (Boston and Skegness) (Reform)",
+   "member_id": 5161,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Dame Caroline. What irony that the Government have sent a Minister to listen to these debates who went to a private school. I wonder whether his parents would have been able to afford the extra 20%. However, as the hon. Member for Chester South and Eddisbury (Aphra Brandreth) said, this is about the education not just of those at independent schools, but of the hundreds of thousands in the state system. Their education will also be damaged because of the capacity crisis. Class sizes will grow. There is an SEN crisis everywhere. Local authorities are in panic; headteachers are in panic; parents are in panic and, most shamefully of all, children are panicking. Will they be removed from their school in the middle of a school year, be taken from their friends and have their education damaged? It is extraordinary. I give one example: I have had a letter from a constituent who has two children with SEN provision. She cannot afford the extra 20% so she has to put her children into the state system. There is no capacity within an hour’s drive, so she has a quote from the local taxi firm. The cost to the local authority will be over £20,000",
+   "name": "Richard Tice",
+   "party": "Reform",
+   "seat": "Boston and Skegness"
+  },
+  {
+   "who": "Alison Griffiths (Bognor Regis and Littlehampton) (Con)",
+   "member_id": 5203,
+   "type": "Contribution",
+   "text": "The Institute for Fiscal Studies predicts that even a modest migration of 3% to 7% of private school students to the state sector will cost the Government hundreds of millions of pounds a year, wiping out much of the projected revenue from VAT. Far from improving the education system, the policy will add stress to state schools already grappling with limited resources and overcrowded classrooms. It is a tax on aspiration, which disproportionately impacts hard-working families already making sacrifices. Perhaps most importantly, this policy will damage the significant contribution that independent schools make to special educational needs and disabilities provision. A constituent of mine is worried about this exact issue. She got in touch to say: “My son has been diagnosed with ADHD and high-functioning ASD…he has already been let down by the state education system. His first school reported us to social services, rather than offering the support he needed. His second school refused to help us secure an EHCP, and instead suggested we monitor his intake of E-numbers. Given these challenges, we made the difficult decision to enrol him in private education. We are not part of the elite",
+   "name": "Alison Griffiths",
+   "party": "Con",
+   "seat": "Bognor Regis and Littlehampton"
+  },
+  {
+   "who": "David Simmonds (Ruislip, Northwood and Pinner) (Con)",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Dame Caroline. After 20 years’ experience in local authorities on education and children’s services and as a father of young children, I have had the opportunity to see the best in both the private and state sectors. I declare an interest as someone who will be impacted by the policy. I agree with everything that has been said about the educational impact, so I will focus my remarks on the financial angle of the Government’s proposals. Representing a constituency with six mainstream independent schools and numerous small SEND providers, I can clearly see that there is a huge amount of anxiety among mums and dads and school teachers about the impact the policy will have. The first key factor is that where private schools are full, the state schools are usually also full. Parents are finding that if they need to move, there is simply not the capacity in the state system locally because of the demographics of pupils. We have to ask ourselves: does the harm done by this policy produce a benefit in the state sector that would justify it to our constituents? The Government’s proposal amounts to less than half of the cost of a single clas",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "Robin Swann (South Antrim) (UUP)",
+   "member_id": 5319,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for Bromsgrove (Bradley Thomas) for securing this debate. I want to bring up a specific Northern Ireland and constituency-based concern. When the addition of VAT to special schools was first proposed, I was contacted by the administrator of Newtownabbey Independent Christian school. I want to quote what he informed me: “We receive no revenue or capital funding from the Department of Education to run our school therefore our parents have no choice but to pay fees when, out of religious conviction, they chose to send their children to our school. We are not an elite school, nor do we practise academic selection in any form. We believe this policy lacks fairness. Some of our school parents are on low incomes, demonstrated by pupils being entitled to free school meals. An added cost of 20% will deprive them of their religious based choice to send them to a Christian School.” That is important not only in a Northern Ireland context, but in the context of this Government’s intention to add VAT to independent school fees, because under section 75 of the Northern Ireland Act 1998, public authorities must “have due regard to the need to promote equality of opportunit",
+   "name": "Robin Swann",
+   "party": "UUP",
+   "seat": "South Antrim"
+  },
+  {
+   "who": "Dame Caroline Dinenage (in the Chair)",
+   "member_id": 4008,
+   "type": "Contribution",
+   "text": "Order. We have to move on to the next speaker.",
+   "name": "Dame Caroline Dinenage",
+   "role": "Chair"
+  },
+  {
+   "who": "Dr Neil Shastri-Hurst (Solihull West and Shirley) (Con)",
+   "member_id": 5197,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Dame Caroline. At the outset, I must declare a personal financial interest in relation to this issue. There is a multiplicity of reasons why the Government plan to impose a 20% VAT levy on private education is a fundamentally poor choice. It plays to the idle trope that independent schools are the preserve of the privileged and the wealthy when, as many of my own constituents will attest, that is simply not the case. It is a policy that lacks nuance in its pursuit of an ideological desire to level down rather than lift up the standard of education across the board. The detrimental effect of this ill-conceived policy is nowhere better illustrated than in the cohort of pupils whose parents are in receipt of continuity of education allowance. CEA is critical for military and diplomatic service families, who need boarding schools to provide a stable education. A societal and moral contract exists between the state and our military, a golden thread that runs through our society and binds the two together. The Government’s proposals threaten not just to shake that bond, but to break it. To date, the Government have provided no assurances",
+   "name": "Dr Neil Shastri-Hurst",
+   "party": "Con",
+   "seat": "Solihull West and Shirley"
+  },
+  {
+   "who": "Ben Obese-Jecty (Huntingdon) (Con)",
+   "member_id": 5089,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Dame Caroline, and I thank my hon. Friend the Member for Bromsgrove (Bradley Thomas) for securing this important debate. My constituency of Huntingdon has three independent schools and the issue we are debating today will significantly affect Kimbolton school in the west of the constituency. The absence of any secondary school places at schools within a commutable distance of Kimbolton has caused concern for many of the parents who have contacted me. Cambridgeshire, and specifically Huntingdonshire, has grown significantly in recent years; with large areas of development already approved, as well as changes to planning regulations and the Government’s commitment to greater Cambridge, we will see tens of thousands of homes built in the county during this Parliament alone. As secondary schools in Huntingdonshire already have waiting lists for every year group, and local parents are troubled by the governance and educational environment at the three schools within the Astrea multi-academy trust, an exodus from the independent sector might exacerbate existing issues and create unnecessary pressures. Thus far, the Government have done noth",
+   "name": "Ben Obese-Jecty",
+   "party": "Con",
+   "seat": "Huntingdon"
+  },
+  {
+   "who": "Dr Ben Spencer (Runnymede and Weybridge) (Con)",
+   "member_id": 4785,
+   "type": "Contribution",
+   "text": "It is a pleasure, Dame Caroline, to serve under your chairmanship and I thank my hon. Friend the Member for Bromsgrove (Bradley Thomas) for securing this important debate. I am so pleased to speak in it. I support all our schools and I am proud to have a range of independent schools in the Runnymede and Weybridge constituency. I declare an interest: my children, like one in five children in my constituency, go to an independent school. I want to take the opportunity that we have today with a Treasury Minister responding to the debate, because Treasury Ministers are all over numbers and impacts. I am pleased to see that it would seem that, following the election, the Treasury has looked at Labour’s manifesto commitments and actually thought about them, to the extent that we are starting to get various leaks and stories that it will abandon them. I hope that the Treasury will do the same thing with this awful policy. I know that a Treasury Minister will not make a decision without an impact assessment and I am sure that the Exchequer Secretary will express his concerns about the absence of an impact assessment for this policy. However, while he is considering what the impact of the c",
+   "name": "Dr Ben Spencer",
+   "party": "Con",
+   "seat": "Runnymede and Weybridge"
+  },
+  {
+   "who": "Peter Fortune (Bromley and Biggin Hill) (Con)",
+   "member_id": 5209,
+   "type": "Contribution",
+   "text": "I should be clear that both my children attend independent schools. Like many parents who make the same choice, my wife and I, with the support of our families, made sacrifices to enrol them. We did so because, with that support, we could. Make no mistake: I recognise it is a privilege to have that opportunity. Like many parents, I want to give my children something I did not have growing up—an excellent education. My schooling in Lambeth, where I grew up on a council estate, left a lot to be desired. As I grew older, I realised that an excellent education was the way out. With my children, I spent what I had to give them the best possible education. Crucially, our decision for our family did not impact anyone else. Sending children to independent school—a personal and privileged choice—is not a bad thing that should be taxed and regulated out of existence, as Labour also want to do with smoking or by introducing a two thirds of a pint measure. It does not mean that state schools are poorer. In fact, we pay our taxes and opt out, leaving more space and school resources for others. Independent schools also offer bursaries and donate the use of their facilities to other local schools",
+   "name": "Peter Fortune",
+   "party": "Con",
+   "seat": "Bromley and Biggin Hill"
+  },
+  {
+   "who": "Mr Paul Kohler (Wimbledon) (LD)",
+   "member_id": 5321,
+   "type": "Contribution",
+   "text": "It is a pleasure to speak under your chairmanship, Dame Caroline. As the MP for Wimbledon, I am proud to represent a constituency with such a rich and diverse education offering, including fantastic primary and secondary schools in both the independent and state sectors. I am deeply concerned about the impact that the removal of the VAT exemption will have on many of these schools. Private school enrolments have already dropped in expectation of the tax hike, and there is growing concern that the numbers leaving the private sector and entering the state system will be much higher than the Government estimate. As the right hon. Member for Islington South and Finsbury (Emily Thornberry) made clear when she said it did not matter if imposing VAT resulted in state school class sizes increasing, this decision is ideological, not practical—levelling down, not up, with red meat to show that the red flag is still flying, or at least fluttering. It will be rushed through in just three months’ time, in the middle of the academic year, giving institutions with no tax expertise little time to register for VAT, let alone assess and adapt. Labour can only do this because the UK left the EU. Who ",
+   "name": "Mr Paul Kohler",
+   "party": "LD",
+   "seat": "Wimbledon"
+  },
+  {
+   "who": "Dame Caroline Dinenage (in the Chair)",
+   "member_id": 4008,
+   "type": "Contribution",
+   "text": "I thank all Members for their forbearance and efficiency this morning. We have managed to get through everybody. I also thank the Front-Bench spokespeople for forgoing a little bit of their summing up time. I call Sarah Olney for the Liberal Democrats.",
+   "name": "Dame Caroline Dinenage",
+   "role": "Chair"
+  },
+  {
+   "who": "Sarah Olney (Richmond Park) (LD)",
+   "member_id": 4591,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Dame Caroline. I congratulate the hon. Member for Bromsgrove (Bradley Thomas) on securing this important debate and thank all Members who contributed so eloquently. The Liberal Democrats do not support imposing VAT on private school fees. We do not support treating independent schools differently to other independent education providers for VAT purposes. VAT is a complicated tax with many quirks and exemptions. Goods and services that are outwardly similar can be given different tax treatments based on the smallest of variations and those different tax treatments can have a large impact on the eventual cost borne by the consumer. Administering VAT and negotiating its various intricacies creates a huge burden for organisations that provide VAT-able goods and services to the public, and that burden is expensive. All forms of education have always been exempt from VAT for the simple reason that taxing education services would disincentivise people from purchasing them. As with healthcare services—also exempt from VAT—it has never before been considered good public policy to discourage people from purchasing education. Additionally, ex",
+   "name": "Sarah Olney",
+   "party": "LD",
+   "seat": "Richmond Park"
+  },
+  {
+   "who": "Nigel Huddleston (Droitwich and Evesham) (Con)",
+   "member_id": 4407,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship today, Dame Caroline. May I first congratulate my hon. Friend and constituency neighbour, the Member for Bromsgrove (Bradley Thomas) on securing this important debate? I thank all those who have participated today; we have heard some very insightful contributions. I am also glad to have the shadow Secretary of State for Education, my right hon. Friend the Member for East Hampshire (Damian Hinds), sitting beside me today. We can see from the large number of contributions, particularly from Opposition Members, how important this issue is to Members and their constituents, many of whom are greatly distressed by the Government’s proposals. We believe they are flawed in both design and execution, or at least planned execution, which is perhaps why so few Members from the Government party are here to defend them today. The policy will move away from a long-held principle that educational services are not taxed in this country, or in most developed economies. We have five broad categories of concern: the impact on state schools, the impact on overall Government finances, the timing of the proposals, consideration of exemptions, and the imp",
+   "name": "Nigel Huddleston",
+   "party": "Con",
+   "seat": "Droitwich and Evesham"
+  },
+  {
+   "who": "Sir Alec Shelbrooke",
+   "member_id": 3997,
+   "type": "Contribution",
+   "text": "This will clearly be open to legal challenge, which stands very little chance of being in the courts within the next three months. As it gets held up, will this policy not cause mass disruption by being introduced in the middle of the academic year?",
+   "name": "Sir Alec Shelbrooke",
+   "party": "Con",
+   "seat": "Wetherby and Easingwold"
+  },
+  {
+   "who": "Nigel Huddleston",
+   "member_id": 4407,
+   "type": "Contribution",
+   "text": "My right hon. Friend raises another important point, and I believe some legal challenges are already in place. Regarding timing, is the Minister truly confident that the policy could be implemented within weeks? Is His Majesty’s Revenue and Customs adequately resourced and prepared for it? Is the legislation ready? Is the legislation and guidance sufficiently clear? Even if the answer to all of the above is yes, is it fair on independent schools to expect them to suddenly get their heads around new legislation, register for VAT, implement new systems and processes, and logistically carry out the execution of this policy, all before Christmas? The answer is clearly no. I implore the Minister at least to delay the implementation, and carefully consider some exemptions and special considerations, my fourth category of concerns, which have been raised by many hon. Members today. The rushed policy appears not to have properly considered carve-outs for pupils from military families, students on the music and dance scheme, children attending small or small faith schools, those paying low fees or who are on bursaries, or children in exam years who may have to move to another school that do",
+   "name": "Nigel Huddleston",
+   "party": "Con",
+   "seat": "Droitwich and Evesham"
+  },
+  {
+   "who": "Ben Coleman",
+   "member_id": 5344,
+   "type": "Contribution",
+   "text": "Given that the situation confronting the Government is entirely of the previous Government’s making, will the hon. Member apologise for the terrible state of the SEND system?",
+   "name": "Ben Coleman",
+   "party": "Lab",
+   "seat": "Chelsea and Fulham"
+  },
+  {
+   "who": "Nigel Huddleston",
+   "member_id": 4407,
+   "type": "Contribution",
+   "text": "I applaud the hon. Gentleman for his bravery, given that 2,500 pupils attend independent schools in his constituency. I think they will have a different view from his.",
+   "name": "Nigel Huddleston",
+   "party": "Con",
+   "seat": "Droitwich and Evesham"
+  },
+  {
+   "who": "Ben Coleman",
+   "member_id": 5344,
+   "type": "Contribution",
+   "text": "Will he apologise?",
+   "name": "Ben Coleman",
+   "party": "Lab",
+   "seat": "Chelsea and Fulham"
+  },
+  {
+   "who": "Dame Caroline Dinenage (in the Chair)",
+   "member_id": 4008,
+   "type": "Contribution",
+   "text": "Order.",
+   "name": "Dame Caroline Dinenage",
+   "role": "Chair"
+  },
+  {
+   "who": "Nigel Huddleston",
+   "member_id": 4407,
+   "type": "Contribution",
+   "text": "As for provision, as my right hon. Friend will articulate this afternoon, more than 200,000 EHCPs were issued with SEND provision. We provided more support than the Labour Government ever did. If, as many predict, there is displacement of children with SEND and EHCPs into the state sector, is there capacity? Is there adequate additional financial support for local authorities to deal with the predicted surge in demand? If the answer is no, or I do not know, to any of those questions, the Government must delay this policy. Before I conclude, I ask the Minister to have the decency to recognise the apparent hypocrisy of so many Members on the Government Benches, including himself, who attended independent schools or send their children to one, yet are now determined to increase the costs on others, depriving many families of the choice that they benefited from. I also ask him to apologise on behalf of the Secretary of State for Education for her appalling divisive tweet over the weekend, which betrays her lack of awareness of the realities of independent schools across the country. Headteachers, teachers and parents in both the state and independent sectors, unions, tax experts and th",
+   "name": "Nigel Huddleston",
+   "party": "Con",
+   "seat": "Droitwich and Evesham"
+  },
+  {
+   "who": "The Exchequer Secretary to the Treasury (James Murray)",
+   "member_id": 4797,
+   "type": "Contribution",
+   "text": "It is a pleasure to speak in this debate with you in the Chair, Dame Caroline. I start by congratulating the hon. Member for Bromsgrove (Bradley Thomas) on securing this debate, and thanking all hon. Members for their contributions. I have listened carefully and, although I do not have much time, I will attempt to address as many of the points raised as possible. Every member of the Government cares deeply about education, and we are committed to breaking down barriers to opportunity. We are determined to fulfil the aspirations of every parent in our country to get the best education for their children. We are committed to doing so by improving state schools, and by making sure that every child has access to high-quality education. We will start to make that happen by expanding early years childcare for all, by opening 3,000 new nurseries across England. We will recruit 6,500 new teachers, alongside improving teacher and headteacher training. We will roll out breakfast clubs to all primary schools, so that no child starts class too hungry to learn. Those improvements to the state education system will begin our work to make sure that every parent’s aspiration for their child can be",
+   "name": "James Murray",
+   "role": "The Exchequer Secretary to the Treasury"
+  },
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Will the Minister give way?",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "James Murray",
+   "member_id": 4797,
+   "type": "Contribution",
+   "text": "I will make some progress first. That is why, to help fund those improvements to our state schools, we have made the tough but necessary decision to end tax breaks for private schools. At the July statement, the Government announced that as of 1 January 2025, all education services and vocational training provided by a private school in the UK for a charge will be subject to VAT at the standard rate of 20%. Any fees paid from the date of the 29 July statement, relating to the term starting in January 2025 onwards, will be subject to VAT. As hon. Members know, the Government also announced that private schools in England with charitable status would lose their eligibility for business rates charitable rate relief from April 2025, subject to parliamentary passage of the legislation. Those changes were set out in a technical note published online, alongside draft VAT legislation, which formed a technical consultation. As part of that consultation, the Government, at both official and ministerial level, engaged with a broad range of stakeholders, including the devolved Governments, to make sure that we understand the impact of the policy in each nation of the UK. We have listened caref",
+   "name": "James Murray",
+   "role": "The Exchequer Secretary to the Treasury"
+  },
+  {
+   "who": "Mr Adnan Hussain",
+   "member_id": 5231,
+   "type": "Contribution",
+   "text": "Will the Minister give way?",
+   "name": "Mr Adnan Hussain"
+  },
+  {
+   "who": "James Murray",
+   "member_id": 4797,
+   "type": "Contribution",
+   "text": "I am going to make some progress. Those recovered costs can be used to offset the increases to feepayers. We are already seeing that some schools have committed to absorbing the VAT liability entirely, while others are choosing to cap fee increases at 5% or 10% to keep fees as low as possible for parents. Members have asked today why we will introduce this policy in January 2025. The reason for doing so is simple: we want to raise the funding we need as soon as possible to deliver our education priorities to state schools across the country.",
+   "name": "James Murray",
+   "role": "The Exchequer Secretary to the Treasury"
+  },
+  {
+   "who": "Dr Ben Spencer",
+   "member_id": 4785,
+   "type": "Contribution",
+   "text": "Will the Minister give way on that point?",
+   "name": "Dr Ben Spencer",
+   "party": "Con",
+   "seat": "Runnymede and Weybridge"
+  },
+  {
+   "who": "James Murray",
+   "member_id": 4797,
+   "type": "Contribution",
+   "text": "I do not have much time and I need to address the other points that hon. Members have made in this debate. Importantly, a January 2025 start date means that schools and parents will have had five months to prepare for the VAT change. HMRC is ready to ensure that schools are supported in delivering this change. To respond to the shadow Minister’s comment, HMRC will put in place a number of measures to ensure that all private schools can be registered ahead of 1 January 2025, including publishing bespoke guidance on gov.uk ahead of 30 October, updating registration systems and putting additional resource in place to help process applications. Ahead of the policy being implemented, the Government have carefully the considered the impact the changes will have on pupils and their families across both the state and private sectors, as well their impact on state and private schools. The Government’s costings of this policy are currently being scrutinised by the independent Office for Budget Responsibility. The Chancellor will confirm our approach to the measures at Budget, where we will set out our assessment of the expected impacts of the change in the normal way. We recognise, as some h",
+   "name": "James Murray",
+   "role": "The Exchequer Secretary to the Treasury"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Will the Minister give way?",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "James Murray",
+   "member_id": 4797,
+   "type": "Contribution",
+   "text": "I have only a few moments left to address a number of points, so I will make some progress. Several hon. Members in their contributions today also raised their concern about the impact of the policy on pupils in private schools with special educational needs. We have carefully considered that element of the policy. Our proposed approach makes sure that pupils will not be impacted where they have acute additional needs and an education, health and care plan—in England, or its equivalent in other nations—specifies that those can be met only in a private school. In such cases, where a pupil’s needs can be met only in a private school, local authorities will fund their places and will be able to reclaim VAT. Similarly, on business rates, the Government are developing an approach to address the potential impact of the changes in cases where private school provision has been specified for pupils through an EHCP. More widely, as a Government, we are committed to transforming the system for supporting children and young people with SEND in all schools. We need to deliver better outcomes in a financially sustainable way. I close by again thanking all hon. Members for taking part in this deb",
+   "name": "James Murray",
+   "role": "The Exchequer Secretary to the Treasury"
+  },
+  {
+   "who": "Dame Caroline Dinenage (in the Chair)",
+   "member_id": 4008,
+   "type": "Contribution",
+   "text": "Bradley Thomas has one minute to wind up.",
+   "name": "Dame Caroline Dinenage",
+   "role": "Chair"
+  },
+  {
+   "who": "Bradley Thomas",
+   "member_id": 5186,
+   "type": "Contribution",
+   "text": "I thank every single Member who has spoken today in this debate, and I particularly thank the families in attendance who are affected by this policy. We have heard Members talk about the concerns of the impact of the policy on capacity, SEND and simply the element of choice, as well as human stories of how this policy will impact many families and children across the country. I am disappointed that an Education Minister has not attended and instead a Treasury Minister has. The Minister has demonstrated that he can read Labour’s political script but has sadly lacked the courage to answer the points that have been raised in this Chamber. To sum up, we have heard words such as “cruel”, “sacrifice” and “disruptive”, as well as concerns from families that their children’s performance will suffer in schools. In short, this is a joyless, mean-spirited policy from a joyless, mean-spirited Government, and I think it is evident from the lack of Labour Members present that they probably agree with the sentiments expressed on this side of the Chamber. Motion lapsed (Standing Order No. 10(6)).",
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove"
+  }
+ ],
+ "fetched": "2026-10-21T20:23:54Z"
+}

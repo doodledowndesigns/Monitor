@@ -1,0 +1,1062 @@
+{
+ "ext_id": "EF045580-77BE-4340-8B56-3AE90848504B",
+ "date": "2025-05-01",
+ "house": "Lords",
+ "section": "Debate",
+ "title": "Children’s Wellbeing and Schools Bill",
+ "parents": [
+  "Lords Chamber"
+ ],
+ "location": "Lords Chamber",
+ "url": "https://hansard.parliament.uk/Lords/2025-05-01/debates/EF045580-77BE-4340-8B56-3AE90848504B/ChildrenSWellbeingAndSchoolsBill",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education",
+   "member_id": 269
+  },
+  {
+   "name": "The Earl of Effingham",
+   "party": "Con",
+   "member_id": 4958
+  },
+  {
+   "name": "Lord Addington",
+   "party": "LD",
+   "member_id": 3453
+  },
+  {
+   "name": "Lord Bichard",
+   "party": "CB",
+   "member_id": 3863
+  },
+  {
+   "name": "The Lord Bishop of Manchester",
+   "member_id": 4878
+  },
+  {
+   "name": "Baroness Morgan of Huyton",
+   "party": "Lab",
+   "member_id": 2168
+  },
+  {
+   "name": "Baroness Shephard of Northwold",
+   "party": "Con",
+   "member_id": 132
+  },
+  {
+   "name": "Baroness Kidron",
+   "party": "CB",
+   "member_id": 4258
+  },
+  {
+   "name": "Lord Blunkett",
+   "party": "Lab",
+   "member_id": 395
+  },
+  {
+   "name": "Lord Baker of Dorking",
+   "party": "Con",
+   "member_id": 1028
+  },
+  {
+   "name": "Baroness Tyler of Enfield",
+   "party": "LD",
+   "member_id": 4231
+  },
+  {
+   "name": "Baroness Morris of Yardley",
+   "party": "Lab",
+   "member_id": 305
+  },
+  {
+   "name": "Lord Aberdare",
+   "party": "CB",
+   "member_id": 3898
+  },
+  {
+   "name": "Baroness Morgan of Cotes",
+   "party": "Non-Afl",
+   "member_id": 4027
+  },
+  {
+   "name": "Baroness Longfield",
+   "party": "Lab",
+   "member_id": 5392
+  },
+  {
+   "name": "Lord Mohammed of Tinsley",
+   "seat": "Maiden Speech",
+   "member_id": 5401
+  },
+  {
+   "name": "Lord Scriven",
+   "party": "LD",
+   "member_id": 4333
+  },
+  {
+   "name": "Noble Lords"
+  },
+  {
+   "name": "Lord Hampton",
+   "party": "CB",
+   "member_id": 4951
+  },
+  {
+   "name": "Lord Layard",
+   "party": "Lab",
+   "member_id": 2540
+  },
+  {
+   "name": "Lord Biggar",
+   "seat": "Maiden Speech",
+   "member_id": 5380
+  },
+  {
+   "name": "Lord Hannan of Kingsclere",
+   "party": "Con",
+   "member_id": 4905
+  },
+  {
+   "name": "Baroness Grey-Thompson",
+   "party": "CB",
+   "member_id": 3862
+  },
+  {
+   "name": "Lord Harris of Peckham",
+   "party": "Con",
+   "member_id": 2669
+  },
+  {
+   "name": "Baroness Blackstone",
+   "party": "Lab",
+   "member_id": 3561
+  },
+  {
+   "name": "Lord Young of Cookham",
+   "party": "Con",
+   "member_id": 57
+  },
+  {
+   "name": "The Lord Bishop of Derby",
+   "member_id": 4714
+  },
+  {
+   "name": "Lord Hill of Oareford",
+   "party": "Con",
+   "member_id": 4144
+  },
+  {
+   "name": "Baroness Wolf of Dulwich",
+   "party": "CB",
+   "member_id": 4347
+  },
+  {
+   "name": "Lord Nash",
+   "party": "Con",
+   "member_id": 4270
+  },
+  {
+   "name": "Lord Crisp",
+   "party": "CB",
+   "member_id": 3783
+  },
+  {
+   "name": "Lord Watson of Invergowrie",
+   "party": "Lab",
+   "member_id": 1241
+  },
+  {
+   "name": "Baroness Garden of Frognal",
+   "party": "LD",
+   "member_id": 3842
+  },
+  {
+   "name": "Lord Agnew of Oulton",
+   "party": "Con",
+   "member_id": 4689
+  },
+  {
+   "name": "Baroness Cass",
+   "party": "CB",
+   "member_id": 5369
+  },
+  {
+   "name": "Lord Frost",
+   "party": "Con",
+   "member_id": 4879
+  },
+  {
+   "name": "Baroness Wilcox of Newport",
+   "party": "Lab",
+   "member_id": 4730
+  },
+  {
+   "name": "Lord Carlile of Berriew",
+   "party": "CB",
+   "member_id": 1138
+  },
+  {
+   "name": "Baroness Bousted",
+   "party": "Lab",
+   "member_id": 5385
+  },
+  {
+   "name": "Baroness Berridge",
+   "party": "Con",
+   "member_id": 4218
+  },
+  {
+   "name": "Baroness Bennett of Manor Castle",
+   "party": "GP",
+   "member_id": 4719
+  },
+  {
+   "name": "Lord Lemos",
+   "party": "Lab",
+   "member_id": 5382
+  },
+  {
+   "name": "Lord Fink",
+   "party": "Con",
+   "member_id": 4219
+  },
+  {
+   "name": "Baroness Lister of Burtersett",
+   "party": "Lab",
+   "member_id": 4234
+  },
+  {
+   "name": "Baroness Wheatcroft",
+   "party": "CB",
+   "member_id": 4199
+  },
+  {
+   "name": "Baroness Eaton",
+   "party": "Con",
+   "member_id": 4184
+  },
+  {
+   "name": "Baroness Benjamin",
+   "party": "LD",
+   "member_id": 4167
+  },
+  {
+   "name": "Lord Browne of Belmont",
+   "party": "DUP",
+   "member_id": 3801
+  },
+  {
+   "name": "Lord Moynihan",
+   "party": "Con",
+   "member_id": 924
+  },
+  {
+   "name": "Baroness Whitaker",
+   "party": "Lab",
+   "member_id": 2510
+  },
+  {
+   "name": "Lord Farmer",
+   "party": "Con",
+   "member_id": 4321
+  },
+  {
+   "name": "Baroness Blower",
+   "party": "Lab",
+   "member_id": 4724
+  },
+  {
+   "name": "Baroness Fraser of Craigmaddie",
+   "party": "Con",
+   "member_id": 4906
+  },
+  {
+   "name": "Lord Carter of Haslemere",
+   "party": "CB",
+   "member_id": 4732
+  },
+  {
+   "name": "Viscount Eccles",
+   "party": "Con",
+   "member_id": 2447
+  },
+  {
+   "name": "Baroness Burt of Solihull",
+   "party": "LD",
+   "member_id": 1567
+  },
+  {
+   "name": "Lord Jackson of Peterborough",
+   "party": "Con",
+   "member_id": 1551
+  },
+  {
+   "name": "Baroness Brown of Silvertown",
+   "party": "Lab",
+   "member_id": 1583
+  },
+  {
+   "name": "Baroness McIntosh of Pickering",
+   "party": "Con",
+   "member_id": 384
+  },
+  {
+   "name": "Lord Hacking",
+   "party": "Lab",
+   "member_id": 3580
+  },
+  {
+   "name": "Lord Wei",
+   "party": "Con",
+   "member_id": 4145
+  },
+  {
+   "name": "Baroness Finlay of Llandaff",
+   "party": "CB",
+   "member_id": 3609
+  },
+  {
+   "name": "Baroness Cash",
+   "party": "Con",
+   "member_id": 5387
+  },
+  {
+   "name": "Baroness Fox of Buckley",
+   "party": "Non-Afl",
+   "member_id": 4887
+  },
+  {
+   "name": "Lord Moynihan of Chelsea",
+   "party": "Con",
+   "member_id": 5007
+  },
+  {
+   "name": "Lord O'Donnell",
+   "party": "CB",
+   "member_id": 4255
+  },
+  {
+   "name": "Lord Knight of Weymouth",
+   "party": "Lab",
+   "member_id": 4160
+  },
+  {
+   "name": "Lord Young of Acton",
+   "party": "Con",
+   "member_id": 5379
+  },
+  {
+   "name": "Baroness Walmsley",
+   "party": "LD",
+   "member_id": 2547
+  },
+  {
+   "name": "Lord Gilbert of Panteg",
+   "party": "Con",
+   "member_id": 4543
+  },
+  {
+   "name": "Baroness Young of Hornsey",
+   "party": "CB",
+   "member_id": 3696
+  },
+  {
+   "name": "Baroness Meyer",
+   "party": "Con",
+   "member_id": 4699
+  },
+  {
+   "name": "Lord Russell of Liverpool",
+   "party": "CB",
+   "member_id": 2134
+  },
+  {
+   "name": "Baroness Thornton",
+   "party": "Lab",
+   "member_id": 1782
+  },
+  {
+   "name": "Baroness Fleet",
+   "party": "Con",
+   "member_id": 4889
+  },
+  {
+   "name": "Lord Hannay of Chiswick",
+   "party": "CB",
+   "member_id": 2167
+  },
+  {
+   "name": "Lord Storey",
+   "party": "LD",
+   "member_id": 4238
+  },
+  {
+   "name": "Baroness Finn",
+   "party": "Con",
+   "member_id": 4567
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Baroness Smith of Malvern",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "That the Bill be now read a second time. Relevant document: 21st Report of the Delegated Powers Committee . Welsh Legislative Consent sought.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "The Minister of State, Department for Education (Baroness Smith of Malvern) (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My Lords, while I might have felt offended by the exodus of so many people at the end of Oral Questions, I am reassured by the large number of people who want to contribute to this debate today. It is an honour to move the Second Reading of the Children’s Wellbeing and Schools Bill, for there are few topics that unite Members of both Houses more deeply than the well-being of children. The numbers of contributors demonstrate that today. This Bill has been ably steered through the other House by my ministerial colleagues, and I want to acknowledge those across political parties and from key external organisations who have spoken so passionately and sensitively in support of child safeguarding and ensuring that every child has the opportunity to thrive. Their voices have been invaluable in shaping this debate, and their commitment to protecting children’s present and future is deeply appreciated. I am also particularly pleased to be working alongside my noble friend Lady Blake, whose expertise and dedication in social care and education is invaluable. I am grateful for her support as we take this Bill forward together in this House. This Bill represents an enormously important opportu",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "The Earl of Effingham (Con)",
+   "member_id": 4958,
+   "type": "Contribution",
+   "text": "My Lords, I thank the Minister for the comprehensive way in which she has set out the purpose of this key legislation. His Majesty’s Official Opposition welcome the Government’s ambition to protect children and ensure that they have the best opportunities in life, regardless of any challenges they may have faced during their childhood. As your Lordships’ House is aware, this Bill comprises two halves. While both parts focus on the well-being and future of children across the country, there are some real and distinct differences between them. The former seeks to improve the children’s social care system. Noble Lords know that outcomes for children in the care system remain stubbornly poor, despite efforts from repeated Governments to improve them. Part 1 includes many elements that were recommended by the Independent Review of Children’s Social Care , commissioned by the last Government and published in 2022. As noble Lords are aware, it was ably led by the now honourable Member for Whitehaven. There are areas in Part 1 where we will seek to probe, develop and clarify the practical implementation of the Bill, but, in the round, the importance of this part is recognised and the need ",
+   "name": "The Earl of Effingham",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Addington (LD)",
+   "member_id": 3453,
+   "type": "Contribution",
+   "text": "My Lords, I agree with a couple of things the noble Earl, Lord Effingham, said, including that we have the great and the good of education gathered in this House today. There are many here who have been involved in education, and in the current education system’s construction, for a long time, and I look forward to hearing what they have to say. I have worked against some of them and I have worked successfully with others; they may have cursed me or praised me, but we have striven forward. Part 1 of the Bill reads like the Government dealing with the hardy perennials of the care system. There is much in there that has already provided us with debate after debate, many of which were quite depressing. I thank the Government for bringing this forward so that we can all have a look at them. There are many issues which we have heard about in an untold number of debates, and they have not gone that well. The way that the Government choose to implement the passing on of information might be one of the most interesting issues, because often mistakes have arisen due to a lack of co-ordination. I look forward to seeing how we can advance and check that, as far as we can by debate, to make su",
+   "name": "Lord Addington",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Bichard (CB)",
+   "member_id": 3863,
+   "type": "Contribution",
+   "text": "My Lords, by any measure, this is a landmark Bill and I welcome very many of its provisions. However, in the very short time available today, I will focus only on the part of the Bill that concerns child protection and safeguarding, in particular in Clauses 2 to 4. I will do that because child safety remains the first priority of schools, the education system and the Government, and we should never forget that. Schools themselves are safer places than they were back in the days when I chaired the Soham inquiry. The vetting and barring scheme, more rigorous staff interviews, designated safeguarding leads and better training for all staff have played their part in that. But, as the Children’s Commissioner said recently, schools also play a wider and “fundamental role in keeping children safe and protecting them from harm”. Children simply trust schools; they trust teachers and they trust teachers’ assistants, and those teachers are often the first to know if children are facing challenges in their lives. So it is important that we ensure that the knowledge that schools have is available to all who are tasked with protecting children. That is why the Bill places a duty on safeguarding",
+   "name": "Lord Bichard",
+   "party": "CB"
+  },
+  {
+   "who": "The Lord Bishop of Manchester",
+   "member_id": 4878,
+   "type": "Contribution",
+   "text": "My Lords, I begin by expressing my thanks to all noble Lords who have reached out to me following the announcement that I will be taking up the role of Convenor of the Lords Spiritual next month. I look forward to working with all noble Lords. I also look forward to hearing today the maiden speeches from the noble Lords, Lord Mohammed of Tinsley and Lord Biggar, the latter a fellow clergyman and a theological mind of some high repute. Debate during the recent passage of my own Private Member’s Bill through this House highlighted the severe disadvantages faced by many care leavers. Research by Barnardo’s showed that 39% of care leavers aged 19 to 21 are not in education, employment or training, compared with 13% of young people in general. We are failing almost two in five of those who have care experience. Moreover, care leavers I met through the charity Become highlighted how much depends on the whim of their particular local authority. Young people who move away for work or further education are especially prone to losing support. We need a universal offer for young people leaving care that local authorities are obliged to meet. At a later stage, I will be seeking to explore the ",
+   "name": "The Lord Bishop of Manchester"
+  },
+  {
+   "who": "Baroness Morgan of Huyton (Lab)",
+   "member_id": 2168,
+   "type": "Contribution",
+   "text": "My Lords, I draw attention to my interests as set out in the register. I just want to talk very briefly about schools today. I say clearly that I have seen at first hand the transformative power of academies to deliver excellent education where there has been failure. When academies were introduced—and I was involved enthusiast—they were a tool for the urgent improvement of schools, not an ideological symbol. The idea was simple but radical: open up to new energy and expertise, allow great leaders the freedoms to create enthusiastic teams and raise standards and, crucially, to make sure there was accountability so that schools that were failing children, particularly from the most disadvantaged backgrounds, could not carry on failing the next cohort. It worked, and many of us around this House were involved in that mission. I fear that we have lost sight of the original purpose. The debate in recent times has shifted from standards to structures, outcomes to ideology. Today, over 80% of secondary schools are academies—the landscape has fundamentally changed. Academisation alone cannot be the answer when it is already the dominant model. In some cases it has delivered hugely, but it",
+   "name": "Baroness Morgan of Huyton",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Shephard of Northwold (Con)",
+   "member_id": 132,
+   "type": "Contribution",
+   "text": "My Lords, there is much to commend in the Bill, not least because it seeks—as did the last Government—to strengthen collaboration between education and social services for the benefit of the life chances of all our children. However, it is regrettable that, while the Government claim their enthusiasm for driving up school standards, the Bill attacks the very freedoms of academies which have achieved just that since their introduction. In that time, as has already been said, the UK has moved from 21st to seventh in international league tables in maths, and in science from ninth to seventh. In the many cases where academies have replaced failing schools, they have given fresh hope to children, often in disadvantaged areas. I also question the wisdom of loading local authorities with so many obligations to set up new bodies and practices at this very moment when they themselves are facing massive change and uncertainty through the Government’s plans for devolution. Those changes will of course be necessary; it is just the timing that seems to be a bit questionable, especially as some of them are due to come into force within two months after the Act is passed, according to the Library",
+   "name": "Baroness Shephard of Northwold",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Kidron (CB)",
+   "member_id": 4258,
+   "type": "Contribution",
+   "text": "My Lords, my remarks will focus primarily on technology in school, but I want to take this opportunity to say that, over the time I have spent in your Lordships’ House, I find myself increasingly in situations where children’s needs are being now balanced with the proportionality principle of others’ adult freedoms, with no recognition of the broad swathe of rights that we are obligated to give them. I start by saying that the well-being Bill should represent that broad swathe of children’s rights and meet their needs in that sense. It strikes me that one of the easiest and cheapest things we could do is to give them a break from the well-documented intrusions of digital tech while at school, which, as a 15 year-old earlier this week said to me, “gives us brain rot, prevents us sleeping and stops us talking to each other”. Ministers cite excessive device use at home as the greater culprit, rather than the smartphone disruption at school, for the decline in children’s well-being and attainment, but that logic normalises smartphones’ constant presence in a child’s life and actually does nothing at all to tackle phone use at home. Evidence that I will bring to Committee shows that res",
+   "name": "Baroness Kidron",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Blunkett (Lab)",
+   "member_id": 395,
+   "type": "Contribution",
+   "text": "My Lords, it is a privilege to follow the noble Baroness. I offer a very warm welcome to and look forward to the speech of the noble Lord, Lord Mohammed of Tinsley. I know that he will remind me of just how old I am by reflecting on his childhood when I was leader of Sheffield. Over the last four months, there has been the most misleading rhetoric about Part 2 of this Bill. It is our job in the House of Lords to lower the temperature and get to the reality. If there are amendments to be made to clarify it, we should do so. That is our role, and I hope we can do that in the spirit of coming together in the interests of children. I take up the point made by the noble Baroness, Lady Shephard, that what goes on in the school and in the classroom is what really matters. I pay tribute to the noble Lord, Lord Baker, and the noble Baronesses, Lady Shephard, Lady Morris and Lady Morgan—I will not pay tribute to myself—but I think they would accept immediately that we did not transform the ability of children to succeed or develop their talent, or their ability to shine through. It was the world-class leadership in schools and the first-class teaching and support staff who did that job. That",
+   "name": "Lord Blunkett",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Baker of Dorking (Con)",
+   "member_id": 1028,
+   "type": "Contribution",
+   "text": "My Lords, I am delighted to follow my friend, the noble Lord, Lord Blunkett. He was an outstanding Education Secretary who enormously improved literacy and numeracy in primary schools, but what endears him to me is that his two grandsons are going to the University Technical College that I established in Sheffield for a high-quality technical education. We now have another one on the outskirts. This Bill threatens the existence of UTCs, but I will come on to that in a moment. Clause 47 is very radical. It would mean a major change of power in this country. The clause makes this a constitutional Bill, because it gives powers to the Secretary of State and the department that the noble Lord, Lord Blunkett, and I never had and never wanted. It moves all the power from local areas to the centre. There has been no consultation on this. There have been no research papers. It has just been plucked out of the air and added to this Bill. I think it is very harmful indeed. Schools have done very well by being academies. I established the first early ones in the 1980s. When I introduced the national curriculum in the 1980s, my Permanent Secretary said to me, “You can’t instruct schools to foll",
+   "name": "Lord Baker of Dorking",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Tyler of Enfield (LD)",
+   "member_id": 4231,
+   "type": "Contribution",
+   "text": "My Lords, so much to say, so little time to say it. I welcome this Bill and many of its measures, but there is plenty of scope for further strengthening and improvement. I am also very much looking forward to hearing the two maiden speeches. Although my main interest is in Part 1, I want to emphasise the interrelated nature of the two parts of the Bill. In order to attend, attain and thrive at school, a child needs to feel safe, secure and well supported and have good mental health and emotional well-being. Despite having the word “well-being” in its title, in my view, the Bill currently lacks measures that will improve the mental health and well-being of children. It is of real concern that, according to the latest PISA data, England’s young people have the lowest level of well-being in Europe. Evidence increasingly shows the link between school absences and poor mental health. There is also growing recognition of a gap in mental health support for children and young people who need a greater level of support than is currently available in school mental health teams, but do not require or are not eligible for specialist treatment from CAMHS. I intend to press to rectify this gap, ",
+   "name": "Baroness Tyler of Enfield",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Morris of Yardley (Lab)",
+   "member_id": 305,
+   "type": "Contribution",
+   "text": "My Lords, I shall restrict my comments to the clauses in the Bill on schools. By my reckoning, we are probably entering our third decade of discussing the structure of schools in England. Interesting and important though that may be, it has not been the easiest of discussions. There have been a lot of piecemeal changes. Two government Bills on this subject have been completely withdrawn because of differences of opinion within the Conservative Party. Throughout all that time, teachers have managed to keep the school system going and raise standards. I hope most of all that this can be a turning point when we put behind us this debate on the structure of schools and begin to focus on what makes the real difference: what happens in the classrooms. We have got to learn from those decades of discussion and years of change, and without doubt, there are more good schools than there were before. Without doubt, the birth and growth of academies has contributed to that. Academies have brought something new to the system. The noble Baroness, Lady Morgan, referred to them as a disruptor. They brought outside expertise that it was not always easy to get into schools, they have brought an energ",
+   "name": "Baroness Morris of Yardley",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Aberdare (CB)",
+   "member_id": 3898,
+   "type": "Contribution",
+   "text": "My Lords, I support much of the Bill but will raise some issues about the schools part of it. We rightly emphasise the need for a broad and balanced curriculum, but we also need a broad and balanced education policy. It is clearly important to ensure that every school meets certain minimum standards. The report of the Education for 11-16 Year Olds Committee, on which I sat, speaks positively of a “mandatory national curriculum that ensures a common entitlement for all pupils”. At the same time, there needs to be scope for teachers to bring their own passions and predilections to their teaching if they are to inspire pupils with a love of learning in a spirit of discovery and enjoyment which all too often seems to be lacking. Many of us will recall teachers who made the most positive impact on our own learning. I was lucky enough to be taught by three remarkable classics teachers, from whom I gained, and have retained, an enduring love of classical languages, art and civilisation, which affect our lives in so many ways. I continue to attempt the Times ’s Latin crossword on Saturdays. I also learned that, often, the most inspiring teachers are those who seem least constrained within ",
+   "name": "Lord Aberdare",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Morgan of Cotes (Non-Afl)",
+   "member_id": 4027,
+   "type": "Contribution",
+   "text": "My Lords, it is a pleasure to speak in this debate on such important topics. I declare my interest as chair of the national Careers & Enterprise Company. It is a great pleasure to follow the noble Lord; I agreed with his comments and those made by all the speakers so far. Unsurprisingly, I will start with Clauses 47 and 50, in relation to academies. I entirely agree with the sentiments expressed by the noble Baroness, Lady Morris, and the noble Lord, Lord Blunkett, and my namesake, the other Baroness Morgan, who exhorted us to remember that we should look for a debate about quality, rigour and standards in our schools. I think we are going to have a good debate in your Lordships’ House. With the expertise here, I hope the House is going to help to improve the Bill and ask the right questions of the Government in relation to both academies and maintained schools. In my experience, the challenges of maintaining two systems are in relation to both funding and accountability. One of the questions we will explore as part of Clause 50 and school improvement is: if academisation is not the answer in particular situations, then what is? How is school improvement, which has, after all, been",
+   "name": "Baroness Morgan of Cotes",
+   "party": "Non-Afl"
+  },
+  {
+   "who": "Baroness Longfield (Lab)",
+   "member_id": 5392,
+   "type": "Contribution",
+   "text": "My Lords, it is a huge pleasure to take part in this important debate, and I draw attention to my interests in the register. All of us in this Chamber want the children of our country to succeed, but I think we also know that many will not do so without extra help. If we are in any doubt about that, we should look at what has happened in recent years since and during the pandemic, when it was revealed that systems consistently failed vulnerable children. I have been arguing for decades that we need to have bold reform from the top to the bottom, and we need to close those gaps in systems that have leaned away and continue to lean away from vulnerable children, and put those children at the very centre of our systems, protecting them from harm and boosting their life chances. This Bill is a commitment and an opportunity to do just that. The measures to improve our safeguarding and education systems are very welcome. I really welcome the conversations we have already started in this Chamber today about the importance of putting children and children’s outcomes at the centre of these debates—not the structures or the systems, which are all means to an end that we need to make work. It",
+   "name": "Baroness Longfield",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Mohammed of Tinsley (LD) (Maiden Speech)",
+   "member_id": 5401,
+   "type": "Contribution",
+   "text": "My Lords, it is with profound humility and sincere gratitude that I rise to make my maiden speech in your Lordships’ House. Never did I imagine, as a child born in Kashmir to parents from a humble farming background, that I would stand here among your Lordships, not as an observer but as an equal, entrusted with responsibilities to speak up for communities like the ones that raised me. I arrived in the United Kingdom in 1977 at the age of four with my mother, Khadija Bi, to join our family in Tinsley, Sheffield—a proud community, poor in material wealth but rich in spirit. The contrast could not have been greater: from the clear, ice-cold streams of the valleys of Kashmir to the smoky steel mills of the Lower Don Valley. Yet it was here that I learned resilience, solidarity and the value of opportunity. My journey here has not followed the traditional path that one might expect of a Member of this House. My father, Mohammed Saddique, grew up working small pieces of land with his siblings. They all lived in a simple, fragile house made of mud, straw, rock and wood. Life was harsh—often, food would consist of a chapatti and a raw onion—while they harvested the wheat by hand in the gr",
+   "name": "Lord Mohammed of Tinsley",
+   "seat": "Maiden Speech"
+  },
+  {
+   "who": "Lord Scriven (LD)",
+   "member_id": 4333,
+   "type": "Contribution",
+   "text": "My Lords, it is truly with joy and pleasure that I follow the speech of my noble friend Lord Mohammed of Tinsley, someone whom I have known for over half a century and whom I am proud to call not just a political colleague but a personal friend. It is not often that the noble Lord, Lord Blunkett, and I find ourselves in agreement—in fact, it usually signals that something truly extraordinary has happened in Sheffield. So I say to my noble friend, “You have really raised the bar on who you can bring together in your first speech, so I look forward to you solving the Ukraine crisis in your second”. I met my noble friend back in the early 2000s, when he was standing for what can only be described—I am being generous here—as a no-hope council seat. I was dispatched to give him a bit of morale boosting, which is always a delicate task when you know full well that the poor soul is likely to come a very distant runner-up. Even then, his spark was obvious—his passion, persistence and, most of all, the principles that have stayed with him throughout his remarkable career. As it turned out, our political journeys have continued in tandem. My noble friend was eventually elected as a councillo",
+   "name": "Lord Scriven",
+   "party": "LD"
+  },
+  {
+   "who": "Noble Lords",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Oh!",
+   "name": "Noble Lords"
+  },
+  {
+   "who": "Lord Scriven (LD)",
+   "member_id": 4333,
+   "type": "Contribution",
+   "text": "I am used to having him behind me, heckling, but now he sits beside me in your Lordships’ House. I wish him well in his endeavours and I am sure he will add to our work here in this Parliament. Turning to the Bill, I want to talk about the provisions that address the issue of illegal, unregistered schools. A liberal society can and must accommodate a wide range of educational settings, including independent schools and properly regulated home education as well as, of course, state schools. However, in accommodating such education, the wishes of parents and religious groups need to be balanced against the rights of the child. I therefore broadly welcome the measures within the Bill that are aimed at ensuring that all children can have their right to a broad education, adequately protected. Although no precise figures are known for the number of children currently in unregistered schools, the former chief inspector of Ofsted, Amanda Spielman, estimated it was likely to be in the “tens of thousands”. She described conditions in some that “you wouldn’t want to put a dog in, let alone a child”. Earlier this year, a report from the Jewish Policy Research Institute found that over 6,600 c",
+   "name": "Lord Scriven",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Hampton (CB)",
+   "member_id": 4951,
+   "type": "Contribution",
+   "text": "My Lords, I congratulate the noble Lord, Lord Mohammed of Tinsley, on his excellent and inspiring maiden speech, and I greatly look forward to that from the noble Lord, Lord Biggar. As ever, I declare my interest as a teacher in an academy in Hackney. I am an unpaid trustee of the Elephant Group education charity, a kinship carer of twin 13 year-olds and a parent of two teenagers. I am also a hereditary Peer and this could well be my last major piece of legislation in your Lordships’ House. So, as you might say, I am quite invested in this Bill. What a Bill it is: 137 pages, 67 clauses and four minutes to talk about it. As everyone has said, it is a Bill of two halves. On well-being, there are many things to like—the Bill needs a lot of amendments, but basically there is a lot to like. Sadly, it misses out on the ending of the defence of reasonable punishment—what better place to put that in than a Bill that talks about children’s well-being? The evidence from Wales is pretty conclusive on that one. However, if we are to describe the “schools” part as a curate’s egg, if I were the curate, I would just eat the toast. Head teachers should be the best people to make decisions about th",
+   "name": "Lord Hampton",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Layard (Lab)",
+   "member_id": 2540,
+   "type": "Contribution",
+   "text": "My Lords, children’s well-being is referenced in the title of this Bill, and so it should be. Obviously, children’s well-being matters, but it is also the best predictor of how happy the child will be in their subsequent life, predicting it far better than the qualifications which they obtain. However, the only outcome of education which we measure is those qualifications—and, of course, what you measure becomes what you treasure. Exam results have become the only touchstone of a school’s success, which is a catastrophe. There is only one way to change this, and that is to measure well-being as well, to put something else into the balance. That is what happens in many countries. It happens in the Netherlands and in South Australia, and in England it now happens in Manchester, as has been mentioned, and in Hampshire. The system is quite simple, and I think it is what we need. The Government design the questionnaire and hold it on a central platform. If a school wants to participate, it arranges once a year for the students in the school to complete the questionnaire, which takes about 20 minutes. The results are analysed centrally, and the findings are sent back from the centre to t",
+   "name": "Lord Layard",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Biggar (Con) (Maiden Speech)",
+   "member_id": 5380,
+   "type": "Contribution",
+   "text": "My Lords, I begin with the customary round of thanks, which I give with my whole heart. Black Rod, the doorkeepers and all the administrative and service staff I have encountered in this House have been extraordinarily helpful and patient. Mr Thomas there just brought me a glass of water without me asking for it, and I thank him very much. I thank my noble friend Lord Griffiths of Fforestfach and the noble and right reverend Lord, Lord Harries of Pentregarth, who are long-term mentors of mine, who introduced me to this House at the end of January. I hope that, in due course, the noble and right reverend Lord, Lord Harries, will forgive me for having chosen to sit on the Conservative Benches. When I tell the House that I am a retired professor of Christian ethics, I imagine some of your Lordships may mutter to yourselves, “That’s nice, but what’s he doing here?” If so, I would sympathise since I think that intellectuals, especially from the arts and humanities, are best kept well clear of politics, since we tend to suffer grievously from the virus of wishful thinking. Being conservative, however, I have long sought to educate my moral ideals with reality. In 1998, the year of the Be",
+   "name": "Lord Biggar",
+   "seat": "Maiden Speech"
+  },
+  {
+   "who": "Lord Hannan of Kingsclere (Con)",
+   "member_id": 4905,
+   "type": "Contribution",
+   "text": "My Lords, what a privilege and a pleasure to follow two such outstanding maiden speeches, one from my former Euro colleague, the noble Lord, Lord Mohammed of Tinsley, and one from my former college chaplain, the noble Lord, Lord Biggar. Even 35 years ago, as an undergraduate and prey to the slight self-absorption that we have when we are teenagers, I was able to recognise the qualities that will so enrich our counsels here—his humility, his intellectual curiosity and above all that generosity of spirit, that largeness of soul that makes him consider other arguments and other people on their own merits. It was not obvious that he had such intellectual diversity and future controversy inside him. I remember when I first came across him, he looked like any other scruffy academic—he read the Guardian , had a short little beard and dressed like every other academic—and I would have been surprised had I been told then that out of him was going to come this extraordinary ethical balance sheet of colonialism. I think it surprised a lot of his colleagues too, and because he brought to bear that empiricism and that calm curiosity, which should be valued, above all in academic settings, it tr",
+   "name": "Lord Hannan of Kingsclere",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Grey-Thompson (CB)",
+   "member_id": 3862,
+   "type": "Contribution",
+   "text": "My Lords, I draw noble Lords’ attention to my entry in the register of interests: I am president of the LGA, chair of Sport Wales, chair of the Duke of Edinburgh Awards and a trustee of the Foundation of Light. I thank ALLFIE, the Alliance for Inclusive Education, for its briefing and for its commitment to improving education for disabled children. The Bill before us presents a valuable opportunity to enhance the well-being of our children and ensure that no child falls through the gaps—sadly, too many do. However, there are many missed opportunities in the Bill and an ongoing failure to address deep-rooted barriers for disabled children. If the Government are serious about getting disabled people into work, education is a key part of that. In 2024, 55% of children cited school failings as a reason for starting home-schooling. It works for many but should not be a last resort due to incorrect provision or used in a way that further segregates disabled children. The National Audit Office has revealed that funding for SEND support has risen by 58% over the past decade to £10.7 billion. It is not sustainable and needs urgent reform. In the same report, published in October 2024, the N",
+   "name": "Baroness Grey-Thompson",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Harris of Peckham (Con)",
+   "member_id": 2669,
+   "type": "Contribution",
+   "text": "I thank the noble Earl, Lord Effingham, for his kind words, but it is not about me. It is because of our principals, teachers, support staff and children that we are so successful. We have many academy groups that really do well and get fantastic results such as good GCSE results. They are run well because they have the freedom to run schools how they should be run. Since 26 November, five months ago, we have had 11 schools rated outstanding; four more might be outstanding, but the rule is now that if you are good you cannot become outstanding until the inspectors come back a second time; and two schools were rated good. On Friday this week we got another outstanding, which I cannot mention, and yesterday we had another outstanding—so the record is pretty good, with over 85% of our schools rated outstanding. We are grateful to all our staff and what they do. I would like to talk about one school. I come from Peckham, which has a school that in 75 years has never been rated outstanding. It takes in the bottom 3% of the country. On the last inspection, four weeks ago, it was awarded outstanding by Ofsted. The inspectors said: “The education provided by this school is transformational",
+   "name": "Lord Harris of Peckham",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Blackstone (Lab)",
+   "member_id": 3561,
+   "type": "Contribution",
+   "text": "My Lords, I welcome this Bill as an important beginning to remedying a number of long-standing problems in childcare and the safeguarding of children, the operation of home-schooling, the registration of illegal schools and the strengthening of Ofsted’s powers in this area. The failure of the previous Government to tackle these issues and their decision to withdraw legislation that would at least have made a start is disappointing. I do not propose to cover today the second part of the Bill concerning academies and how they compare with local authority schools in the way that they are run, but I will say that local authorities should be able to establish new maintained schools where they can make a well-argued case, particularly on demographic grounds. They are in a position to assess this and to identify appropriate sites where new schools can be established. In some areas where the population is declining, they may need to merge schools to create a new institution where falling rolls have made existing schools unviable. Such decisions are for local authorities. I turn to Part 1 of the Bill. The fact that many children in care suffer terribly is a scar on our society. As the Minis",
+   "name": "Baroness Blackstone",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Young of Cookham (Con)",
+   "member_id": 57,
+   "type": "Contribution",
+   "text": "My Lords, when I was in the other place, I went round a primary school in Andover whose catchment area was from the less well-off part of the town. The year 1 teacher had been there for 20 years, and she was also a local JP. She told me that, within a few weeks of the beginning of term, she could tell which children were likely to end up in trouble. There are many other primary school teachers like her. So early intervention for children who need support is crucial. That brings me to SEND. The current system is failing too many children, too many parents and too many other children in the class. One statistic makes the case. Councils won just 1.3% of appeals in 2023-24. So, to underpin what is in the Bill, we will need a comprehensive SEND reform plan to give the children who need the support the support when they need it, without all the current delays. Because of some of the problems with SEND, many families are home-educating. Along with the noble Lord, Lord Hampton, and the noble Baroness, Lady Garden, I sit on the Social Mobility Policy Select Committee. Last week, we heard from witnesses that, within the cohort of children educated at home, there are a few for whom it was not",
+   "name": "Lord Young of Cookham",
+   "party": "Con"
+  },
+  {
+   "who": "The Lord Bishop of Derby",
+   "member_id": 4714,
+   "type": "Contribution",
+   "text": "My Lords, I welcome this Bill and the Government’s commitment to improve children’s lives and their outcomes. My faith teaches me that, in this work, we echo Jesus’s commitment to place children at the heart of God’s transforming work— “of such is the kingdom of God”. As Nelson Mandela said: “There can be no keener revelation of a society’s soul than the way in which it treats its children”. I declare an interest as the chair of the board of trustees of the Children’s Society. I register my support for the calls for better data sharing to protect children, including with and from faith communities. As we await publication of the child poverty strategy, I commend provisions to reduce the cost of school uniforms and to expand the availability of sustainable, healthy and accessible free school breakfasts. Poverty is a primary factor in the well-being of children. I am pleased to hear that the noble Lord, Lord Bird, who cannot be in his place today, will be tabling an amendment seeking to introduce a new clause to place a new duty on the Government to set targets for the reduction of child poverty. I add my voice in support of the Our Wellbeing, Our Voice coalition in its calls for the",
+   "name": "The Lord Bishop of Derby"
+  },
+  {
+   "who": "Lord Hill of Oareford (Con)",
+   "member_id": 4144,
+   "type": "Contribution",
+   "text": "My Lords, 15 years ago, almost to the day, I had the privilege of standing at that Dispatch Box to introduce the then Academies Bill. I thought it might be helpful, as we think about this new Bill and what it will mean for academies in future, to set out what we were trying to achieve back in 2010. First, and very much our starting point, we aimed to build on the foundations laid by the previous Government. We could not have been clearer at the time about the debt we owed to the noble Lord, Lord Adonis, and to many other noble Lords we have heard about today, reaching all the way back in the apostolic succession to my noble friend Lord Baker of Dorking. Secondly, we were trying to extend professional independence and give schools more freedom to run their affairs as they thought best. Thirdly, we were seeking to increase parental choice. For at least 20 years, successive Governments have sought to defend and extend academy freedoms—freedoms that were entrenched in what were supposed to be legally binding funding agreements. By contrast, this Bill breaks that consensus. It sets out explicitly to reduce academy freedoms and professional independence, with less freedom over the hiring",
+   "name": "Lord Hill of Oareford",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Wolf of Dulwich (CB)",
+   "member_id": 4347,
+   "type": "Contribution",
+   "text": "My Lords, I declare an interest as deputy chair of governors at King’s College London Maths School, which is a high-achieving 16 to 19 academy. We are very grateful to this Government and previous Governments for their support, and we are aware that the school’s existence, and that of other university maths schools, was made possible by academy freedoms. In that context, while welcoming much of this Bill, I echo concerns raised by other noble Lords about reducing these freedoms. Academies’ funding agreements already give the Secretary of State major powers, so I do not really understand why, for example, the Secretary of State needs major new statutory powers to intervene just because they are satisfied that the proprietor of an academy is “likely” to breach a relevant duty at some unspecified time in the future. I hope very much that we will return to this in depth in Committee and get some clearer understanding of why these powers are being introduced. My main concern is the Bill’s emphasis on ensuring that teachers are all qualified—which of course does not in any way refer to their mastery of their subject but only to whether they have a teaching qualification. The vast majorit",
+   "name": "Baroness Wolf of Dulwich",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Nash (Con)",
+   "member_id": 4270,
+   "type": "Contribution",
+   "text": "My Lords, I declare an interest as the chair of Future Academies. I strongly support the child protection measures in the first part of the Bill, and I commend the Government for bringing them forward. The addition to this part that I would like to see is a ban on social media before the age of 16—no measure could enhance our children’s well-being more than this. I support the measures in Part 2 on home education, but I have one major concern. Ten to 15 years ago, there were probably 20,000 to 30,000 children being home educated, many by parents perfectly capable of doing so—the so-called home education lobby. These are not the children or parents I am concerned about. There are now probably up to another 100,000 children apparently being educated at home, many of whom are not receiving any suitable education, or any education at all, and some of whom are involved in gangs and crime. Particularly for children not known to social services, how is the local authority to know that they are not receiving a suitable education without a right of inspection? I am sure LAs would not use this power very often—many would not be staffed to do so—but I think they should have it. If an LA was, ",
+   "name": "Lord Nash",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Crisp (CB)",
+   "member_id": 3783,
+   "type": "Contribution",
+   "text": "My Lords, I will speak briefly and positively about good home education. I disagree with some of the assumptions that the noble Lord, Lord Nash, has just made about the majority of people being home educated, and I will come to that in a moment. I absolutely understand and—like all other noble Lords—support the Government’s ambition to protect children and deal with the very real problems of non-attendance, disappeared or abused children, and children at risk. However, these laudable intentions as presented in the Bill will risk damaging the education of thousands of children who are currently receiving good home education. There are two distinct populations here: those children at risk who need protection and those who are being lovingly cared for and educated by their parents, whose efforts deserve support. The Bill treats both groups in the same way. Several parents in the second group said to me, “We are already too often treated with suspicion, as though we are criminals, even before the provisions in the Bill are introduced”. More than 110,000 children are being home educated, of which about 60% have special needs. Many are diagnosed or non-diagnosed autistic or have learning",
+   "name": "Lord Crisp",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Watson of Invergowrie (Lab)",
+   "member_id": 1241,
+   "type": "Contribution",
+   "text": "My Lords, I very much welcome this Bill. It reminds me of that Frank Sinatra song about New York—so good they named it twice. The Bill has in effect been named twice, because it contains two very good and distinct parts, which merit being Bills in their own right. There are so many elements that I want to comment on, but through lack of time will not be able do more than namecheck some of them. Keeping families together and making children safe should not even need stating as aims, but, sadly, of course, they do. Multi-agency protection teams will help to avoid children falling between the cracks in terms of the support that they require, but there needs to be clarity as to the difference between children in need and child protection. The Bill has much to say that is positive on children in care, leaving care and kinship care. It has less to say on the value of fostering and nothing at all to say on adoption, which I do not understand. Children in foster care should have the same support to the age of 25 as those in residential care, but the Bill does not provide that. I believe it should. Proposals for regulating unregistered children’s homes are most welcome—in fact, we might ask",
+   "name": "Lord Watson of Invergowrie",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Garden of Frognal (LD)",
+   "member_id": 3842,
+   "type": "Contribution",
+   "text": "My Lords, at speaker 32, it is already quite challenging to find something new to say, and my sympathy goes out to the speakers towards the end of this debate. I am sure we will be tolerant if they find themselves repeating something that has already been said. I very much welcome the maiden speeches today of my noble friend Lord Mohammed and the noble Lord, Lord Biggar. They will both bring great talents and skills to this House, and we look forward very much to hearing them speak in future. I have to say that in the heady days of the coalition Government, I was the education Whip to the noble Lords, Lord Hill, Lord Nash and Lord Agnew. I am delighted to see that I did not manage to put them all off education entirely, and to see them back speaking on this Bill. A Bill calling itself “Children’s Wellbeing” should surely merit the support of all of us, but there are elements in the Bill which the Government have included which are going to be contentious. I mention to start with, in Clause 4, the consistent identifier. I thought that this was proposed many, many years ago. The simplest solution obviously seemed to be the NHS number, which is given to every child at their birth, whi",
+   "name": "Baroness Garden of Frognal",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Agnew of Oulton (Con)",
+   "member_id": 4689,
+   "type": "Contribution",
+   "text": "My Lords, I refer to my interests in the register, in particular as the founder and chairman of an academy trust with 11,000 children and 18 schools. In the short time I have available, I will focus on one specific area in the schools Bill. In Part 1, I broadly agree with the move to improve scrutiny of home education—it has become a very worrying issue. Many parents, clearly unable to educate their children, are taking them out of school and we cannot do anything about it. The Government are to be commended on their action, and we will no doubt get into the details as the Bill progresses. However, if unaltered, the schools part of the Bill will plunge the English education system back into the badlands of 20 years ago, before the previous Labour Government had the courage to begin the reforms that we had built on. I will focus on one area: the watering down of academisation of failing schools. The proposals introduce ambiguity on whether a failing school should be academised. This will present a “get of jail” card for the incompetent management of those schools. Organisations rot from the head down: schools do not fail because of the teachers but because of the people who manage t",
+   "name": "Lord Agnew of Oulton",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Cass (CB)",
+   "member_id": 5369,
+   "type": "Contribution",
+   "text": "My Lords, I am pleased to take part in this important debate. I draw attention to my interests set out in the register. In bringing forward this Bill, the Government should be commended on their many laudable objectives in strengthening the safeguarding of children, removing barriers to opportunities in schools and improving the safety of the education system. However, any legislation addressing the subject of safeguarding children, and opportunity and safety in schools, cannot ignore the impact of digital technology on the lives of children and young people. Safety and opportunity—and, indeed, risk—have to be seen in relation to the contemporary world of 2025 and not the world as it was well over a decade ago. We all appreciate the many benefits that the online world can bring to children and young people, so we do not need to rehearse those here. However, a visit to the NSPCC website provides a helpful listing of harms that children can suffer. It expands beyond the four classic categories of abuse to list 13 types of abuse. Most of these, including cyberbullying, emotional abuse, sexual abuse and exploitation, and grooming can be carried out online and even during school hours. ",
+   "name": "Baroness Cass",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Frost (Con)",
+   "member_id": 4879,
+   "type": "Contribution",
+   "text": "My Lords, it is a pleasure and an honour to follow the noble Baroness, Lady Cass, who has done so much, of course, for the rights and well-being of children in her work. It will probably not surprise colleagues to hear that I do not think that this is a good Bill. As other noble Lords have said, it is shot through with the spirit of “the state knows best”, of state control, of seeing education as a vehicle for indoctrination and children almost as the ward of state rather than as the property of their parents. The centralisation that the Bill is going to bring in will squeeze out good performance in schools and undo the progress that has been made over the past 20 years. However, others have said that, and I do not want to dwell on it. I want to spend a moment or two speaking about the provisions in the Bill for home education, which are in Clauses 32 to 35. These are represented as pragmatic changes to the current set-up, but actually they are not; they are going to be a major change to the current home-education arrangements and a big change in practice to what happens currently under the 1996 Act. The core provision in the Bill is a register for children who are being educated a",
+   "name": "Lord Frost",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Wilcox of Newport (Lab)",
+   "member_id": 4730,
+   "type": "Contribution",
+   "text": "I declare that I am a vice-president of the LGA. My 35 years as a teacher, working in such diverse areas as south London and south Wales, give me a little insight into this subject. Despite the differences in the demographics of London and Wales, there is a golden thread that runs through that experience. Teachers arrive at school every day to do the best for the pupils in their care, and children and young people, on the whole, want to learn and enjoy their school experience. We saw how that was profoundly impacted by the pandemic, and the road to recovery continues. The Bill brings important changes that this Labour Government want to provide for our children and young people. I am pleased that the Government are acting on a long-standing call by the LGA for councils to have and maintain children not in school registers, something we almost achieved in opposition during the passage of the now abandoned Schools Bill. Unique identifiers for children are a very welcome step, facilitating better information sharing and, most importantly, adding to the security and safety of the child. It is positive that, within the responsibilities of corporate parenting, there is now a legal undert",
+   "name": "Baroness Wilcox of Newport",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Carlile of Berriew (CB)",
+   "member_id": 1138,
+   "type": "Contribution",
+   "text": "My Lords, I thank the Government for introducing what I hope will leave this House as an improved example of vital legislation for children. Every generation owes it to the next to give them better life chances than were experienced by their parents. Nowhere is this more important than in the area of special educational needs legislation and provision. I applaud the excellent speech made earlier in this debate on that issue by the noble Lord, Lord Addington. When she was opening this debate, the Minister cited some excellent reports that have appeared in recent times. I am about to add an additional report that was launched last week in this building by the Michael Sieff Foundation, with which I have worked for a number of years, on issues related to children’s justice. The launch was attended by two government Ministers. The report seeks to show how to provide the best life for children with SEND and neurodivergence issues which, in many cases, bring them in front of the criminal justice system. In England and Wales, 80% of children cautioned or sentenced within the youth justice system are from the SEND cohort. That is a shocking figure, and it is carefully measured. Children wit",
+   "name": "Lord Carlile of Berriew",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Bousted (Lab)",
+   "member_id": 5385,
+   "type": "Contribution",
+   "text": "My Lords, the party opposite claims that education was transformed during its period in office and that this Bill will undo many of the gains made. In the short time I have available, I would like to set some of the record straight. During that period I was general secretary of the Association of Teachers and Lecturers and, from 2017, joint general secretary of the National Education Union, which represents 500,000 members—teachers, leaders and support staff—who, as many Members in this House have affirmed, are the professionals who teach and support our children and young people, and I commend their work today. Under the party opposite, there was the scandal of “the forgotten third”—the third of all 16 year-olds who failed to get a grade 4 at GCSE English and maths. Under the party opposite, they were denied the help and support they so desperately needed in order to take their place as productive members of society. They were condemned to endless resits of GCSE English and maths, with very low pass rates, unable to get an apprenticeship or to access other routes into training and learning to turn their fortunes around. The party opposite left the most deprived young people strand",
+   "name": "Baroness Bousted",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Berridge (Con)",
+   "member_id": 4218,
+   "type": "Contribution",
+   "text": "My Lords, the Bill contains a first step, possible underreach, possible overreach and, I think, a bonus. Clause 11 is a good first step as it brings about 1,000 vulnerable young people who are deprived of their liberty under the inherent jurisdiction of the courts into a statutory framework. High Court DoLS, as they are referred to, have developed when there is no secure children’s home place under Section 25 of the Children Act, or that is not an appropriate placement for them. However, that section will still refer to only looked-after children and the report by the Children’s Commissioner on this vulnerable group makes it clear that it is not only looked-after children who are under this regime. Could the Minister clarify whether the inherent jurisdiction will still have to be used for those children? Before statutory instruments are laid, can we have some more details about the definition of “relevant accommodation”? On the underreach, it seems that under Clause 32 a preliminary school attendance order can be made only when a child is under a Section 47 Children Act inquiry, not for a child in need or a child protection plan. It is my understanding that Sara Sharif was actually",
+   "name": "Baroness Berridge",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Bennett of Manor Castle (GP)",
+   "member_id": 4719,
+   "type": "Contribution",
+   "text": "My Lords, I rise in the middle of a long, important and well-informed debate. I first felt it was getting to the heart of what this Bill really should be about with the contribution from the noble Lord, Lord Blunkett. He showed appropriate preparedness to accept responsibility for the state of childhood in the UK today, with many children being failed by expulsion, off-rolling and schools that in no way meet their needs, suppress their energy and enthusiasm and fail to value their talents. We are so keen on league tables, but why are we not focusing every day on the fact that the UK is ranked lowest in Europe in children’s well-being? That reflects the poverty, poor housing and poor food that so many children are forced to survive—the kind of systemic obstacles the Minister referred to in her introduction. I am very keen to see the Government doing a lot more about that—see the two-child benefit cap—but I am also sad to say that it reflects the very structure, nature and direction of our schools. The two parts of this Bill, sadly, are working against each other. Schools are damaging well-being, and that is not how it should be. I stress that I am blaming not teachers—who are forced",
+   "name": "Baroness Bennett of Manor Castle",
+   "party": "GP"
+  },
+  {
+   "who": "Lord Lemos (Lab)",
+   "member_id": 5382,
+   "type": "Contribution",
+   "text": "My Lords, I declare my interest: from 2018 to 2025 I was the lead non-executive director of His Majesty’s Prison and Probation Service, which includes the Youth Custody Service. I welcome the Bill for its important ambitions on children’s social care, in particular to improve the supply and quality of accommodation for children under deprivation of liberty orders. The number of children under these orders has more than doubled in five years. In 2024, 1,280 children were subject to deprivation of liberty orders, either because they are a risk to others or because others are a risk to them—principally the risk of grooming and exploitation. These children are all over the country, they are equally boys and girls, and 90% of them are over 15 years old. All these children are well known to local authority children’s services, and often to criminal justice and mental health services. Many have moved more than 10 times while in care. They have faced trauma, violence, crime, sexual exploitation, parental neglect, rejection, abandonment and criminal exploitation. There are many other problems: county lines, gang affiliation, substance misuse and, inevitably, long periods out of school. It i",
+   "name": "Lord Lemos",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Fink (Con)",
+   "member_id": 4219,
+   "type": "Contribution",
+   "text": "My Lords, I refer to my entry in the register of interests, especially as a director of Ark and Ark Schools. I find this Bill a bit like the curate’s egg, as it has been described already—very good only in parts, sadly. The clue to my views on the Bill is in its name: the Children’s Wellbeing and Schools Bill. Wherever it genuinely deals with the short-term and long-term well-being of children, I support it. I regret to say, though, that in several areas it seems to try to reduce the freedoms offered to academies and free schools, which today make up over 80% of secondary schools as well as a large number of primary schools. Truthfully, I believe that some of these curtailments are absolutely not in the best interests of children, hence I will support amendments in these areas. As my noble friend Lord Hill of Oareford said, a number of provisions in the Bill destructively strike at the absolute heart of the wonderful academy movement, which throughout the last 20 years has, in general, delivered improved outcomes and innovation and raised aspiration across communities that had long been underserved by our education system. Indeed, 20 years ago, when I began my journey into schools,",
+   "name": "Lord Fink",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Lister of Burtersett (Lab)",
+   "member_id": 4234,
+   "type": "Contribution",
+   "text": "My Lords, I welcome what the Secretary of State has described as “child-centred legislation through and through ”,—[ Official Report , Commons, 8/1/25; col. 854.] brought by a “truly child-centred Government”. The emphasis has been on the Bill’s contribution to the opportunity mission, but the well-being framing points also to the importance of action to improve children’s childhoods—children as beings as well as “becomings”. An holistic measure of child well-being could play a valuable role here. The Bill promises to remove barriers to opportunities in schools through action on free breakfast clubs and school uniforms. There may be some debate on the details—for example, around the number of branded items permitted, whether breakfast clubs could be more flexible and why there is no action on free lunches—but broadly, these measures have been widely applauded in the context of the shocking level and depth of child poverty. Evidence from charities and teachers underlines how educational opportunity is stunted by hardship and hunger, which also damage children’s well-being. But as Action for Children and others emphasise, these measures can represent only a minor element in the much-",
+   "name": "Baroness Lister of Burtersett",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Wheatcroft (CB)",
+   "member_id": 4199,
+   "type": "Contribution",
+   "text": "My Lords, a Bill that has at its heart the aim of improving children’s well-being can only be welcomed, and its good intentions are clear. I support most of the measures in the Bill, particularly in Part 1, but I have some qualms about Part 2, not least that it will fail to generate the improvements to opportunities that should be its driving force. Let me start with the moves to safeguard children and young people who spend time in social care. Currently, the outcomes for far too many of these youngsters are desperately poor and the only qualifications they end up with are a criminal record. There are initiatives to improve the outcomes, and I welcome them, particularly the provisions in Clause 7 for staying close where necessary. Those who, for one reason or another, do not have any family to rely on need to know that there is someone watching and caring. However, that need goes far beyond what is covered in the Bill. Equally, the Bill boasts the concept of family group decision-making, and makes it a right in most cases that, before crucial decisions are taken about the future care arrangements for a child, parents or other family members should be offered a meeting. Ensuring th",
+   "name": "Baroness Wheatcroft",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Eaton (Con)",
+   "member_id": 4184,
+   "type": "Contribution",
+   "text": "My Lords, I declare my interests as a vice-president of the Local Government Association and as a member of the Beckfoot multi-academy trust in West Yorkshire and of the Leeds Diocesan Learning Trust. The Bill before us today is, in part, a disappointment. While some parts go some way towards further protecting children through additional safeguarding requirements, it is unfortunate that great amounts of the Bill are in danger of driving down standards in our education system and of winding back many of the successful education reforms introduced by the last Conservative Government. As the Shadow Secretary of State remarked in the other place, this Bill can be seen as “nothing less than educational vandalism ”.—[ Official Report , Commons, 8/1/25; col. 863.] The last Conservative Government left office with educational standards on the up. As we have already heard, within international league tables, England rose from 21st to seventh-best in mathematics, while Labour-controlled Wales slumped to 27th. That Government left us with an educational system that was working for students. But I worry that this Government have weaponised this Bill, based on ideology as opposed to what is be",
+   "name": "Baroness Eaton",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Benjamin (LD)",
+   "member_id": 4167,
+   "type": "Contribution",
+   "text": "My Lords, I congratulate my noble friend Lord Mohammed on his passionate maiden speech; he makes a great addition to our Benches. I welcome the Children’s Wellbeing and Schools Bill because legislation to improve children’s happiness, health and well-being is well overdue, and this Bill intends to deliver on transforming childhoods. However, Barnardo’s and other children’s charities believe we must go further, and I declare an interest as vice-president of Barnardo’s. We believe that enhancing obligations on local agencies to provide early support for families before they reach crisis point is crucial. Public finances are tight, but investing in our children—especially early years—is an investment worth making. Every year, some 13,000 young people leave care without the support they need. Outcomes for these young people remain much lower than for their peers. We believe there should be a new minimum standard of support for care leavers—a national offer regardless of where they live, which should include measures recommended by Barnardo’s. The charity First Star Scholars, of which I am a patron, has a high success rate of getting care leavers into university. We want to work with th",
+   "name": "Baroness Benjamin",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Browne of Belmont (DUP)",
+   "member_id": 3801,
+   "type": "Contribution",
+   "text": "My Lords, I thank the Minister for the care and sensitivity that she has displayed in introducing this important Bill. Balance is very important. I must declare two interests: first, I was for many years a grammar school teacher; secondly, I have a grandchild who was exclusively home educated from the ages of five to 14. For those reasons, I wish to comment on some aspects of the Bill that touch on home education. I am concerned that an unintended consequence of the Bill will be a reduction in educational diversity. That would be damaging to children’s well-being, purely because children themselves are diverse. The register of children not in school is presented as a research tool, enabling the Department for Education and local authorities to better understand the different learning strategies used in home education. For example, many home-educated children learn to read and write when they feel ready, with some learning at three and others at seven. However, if officials compare these children to their counterparts in British primary schools, it may appear that only half of them are receiving a suitable education. The risk of officials viewing the data through a pro-school lens h",
+   "name": "Lord Browne of Belmont",
+   "party": "DUP"
+  },
+  {
+   "who": "Lord Moynihan (Con)",
+   "member_id": 924,
+   "type": "Contribution",
+   "text": "My Lords, the Minister in her opening sentence stated that there are few subjects which unite people more than the well-being of children. I fully agree, and for that reason I believe there will be a constructive approach across the Committee when it comes to seeking ways to strengthen the Bill and achieve that objective. The Roman poet Juvenal coined the famous phrase: “Mens sana in corpore sano”— a healthy mind in a healthy body. That emphasises the eternal interconnectedness of physical and mental well-being. It suggests that prioritising both is crucial for overall health, happiness and well-being. A healthy body can support a healthy mind by providing the physical energy and resilience needed for children to navigate life’s challenges. Conversely, a healthy mind can positively influence physical health for children by reducing stress, promoting better sleep and enhancing immune functions. In the educational context, physical exercise is an essential part of mental and psychological well-being, yet here we have a Children’s Wellbeing and Schools Bill in which, if you run a word search through it, there is not one mention of sport, physical activity or even physical education. I",
+   "name": "Lord Moynihan",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Whitaker (Lab)",
+   "member_id": 2510,
+   "type": "Contribution",
+   "text": "My Lords, it is a pleasure to follow the noble Lord, Lord Moynihan. Nevertheless, this Bill is wholeheartedly welcomed. It tackles issues which have been neglected for 14 years, as well as new ones such as the devastating drop in attendance following the pandemic. I will focus on the all-important provisions for children not in school, Clauses 30 to 35. I also briefly commend the further crackdown on unregistered schools, whose so-called teaching is damaging the fabric of our society. While it is still of prime importance to make it easy for children to thrive in school—learning together, making friends and benefiting from pathways to further education and satisfying work—there is at present a significant number who do not get there. There are some parents who cope well with, or choose, home education and carry it out well. They will not be interfered with by the obligation to register their child. But I strongly agree that many of the reasons why children drop out of school show that a managed system of home education is vital. Children may find school intolerable, but their parents may well not have the time or the capacity to teach them. Particularly among Gypsy, Traveller and R",
+   "name": "Baroness Whitaker",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Farmer (Con)",
+   "member_id": 4321,
+   "type": "Contribution",
+   "text": "My Lords, I will focus my comments on Part 1, particularly on areas recommended or inspired by Josh MacAlister MP’s independent review of children’s social care. I was on his design group, and Josh’s emphasis throughout was on relationships and prevention: preventing children going into local authority care in the first place or being further damaged in the care process. Enabling them to maintain or develop good relationships while in care is a key protective factor to that end. I welcome Clause 1 on family group decision-making, but will the Government strengthen it? The Family Rights Group points to the impact of the 2016 Scottish legislation mandating every local authority to offer family group decision-making. Its lack of clarity and precision meant that a third of local authorities in Scotland still do not offer FGDM. The requirement to offer this is based on evidence from family group conferencing, so reproducing its benefits requires implementation fidelity to this model. For example, older children and their families must be in the driving seat when determining who is involved. Neighbours and family friends can be fictive kin, referred to as aunties and uncles. Others in th",
+   "name": "Lord Farmer",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Blower (Lab)",
+   "member_id": 4724,
+   "type": "Contribution",
+   "text": "My Lords, there are certainly many welcome aspects of this Bill, not least the proper recognition of the importance of children’s well-being. What plans do the Government have to ensure that all schools are alert to the issue of bereavement and have access to resources beyond themselves to support any child or young person—perhaps as many as one in 29, as the Childhood Bereavement Network notes—who suffer a bereavement? On the question of the curriculum and assessment, I earnestly hope that the review currently under way will address in full the narrowness of the existing curriculum, provide for much greater access for all children to arts and technical subjects, and allow for local curricular initiatives. It was always wrong that only academies had these curricular freedoms, as my noble friend Lady Morris said. I ask my noble friend the Minister when we can expect to see the final report and what she expects to be the lead time for what I hope will be welcome changes in both curriculum and assessment. We have a lot to learn on this from other jurisdictions and, clearly, from my noble friend Lord Layard. In relation to the pay and conditions of teachers, the Bill in its original fo",
+   "name": "Baroness Blower",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Fraser of Craigmaddie (Con)",
+   "member_id": 4906,
+   "type": "Contribution",
+   "text": "My Lords, if the Bill is to succeed in breaking down barriers to opportunity and severing the link between background and success, let me give the Government a warning from Scotland. These aims have also been a much-publicised priority of the Scottish Government. However, over the past decade, despite a 13% increase in funding, the SNP’s centralising of control has seen falling educational standards, as evidenced—as other noble Lords have said—by the OECD’s PISA league tables. What went wrong? The amalgamation of the inspectorate with Learning and Teaching Scotland to form Education Scotland removed its independence; it became answerable to government. There is no bulwark against falling standards and no voice to be raised against ineffective teaching methods, inadequate curriculum content or restrictive curriculum structures. The implementation of our new curriculum for excellence—as it is called—was ill thought out. One of its original purposes was to broaden the secondary school curriculum, but evidence reveals that students in S4—the equivalent of GCSE level—are studying fewer subjects, and enrolment in non-compulsory subjects such as modern languages and expressive arts contin",
+   "name": "Baroness Fraser of Craigmaddie",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Carter of Haslemere (CB)",
+   "member_id": 4732,
+   "type": "Contribution",
+   "text": "My Lords, I will focus on the aspects of this Bill relating to academies, and I have two points. First, I have read the Second Reading and Committee debates in the other place very carefully, and especially the evidence given about the performance of academies. This was to the effect that 87% of them are good or outstanding, even though many were previously failing schools which became academies for that very reason. Apparently, the top five state schools in England are academies. The Labour MP Dame Siobhain McDonagh gave examples at Second Reading from her constituency. She cited the Harris academies in Merton and Morden, and the St Mark’s Academy, which are all marked “outstanding” by Ofsted. She said that one of the keys to success of the Merton academy has been the “aspirational curriculum”, which is tailored to pupils’ needs. Forcing such schools to teach the national curriculum risks undermining that. All this is evidence that academies work well as they are, and their heads know how to run schools better than the Government, so why are the Government removing their flexibility to do so? My second point is more technical and affects how future changes would be made to the way",
+   "name": "Lord Carter of Haslemere",
+   "party": "CB"
+  },
+  {
+   "who": "Viscount Eccles (Con)",
+   "member_id": 2447,
+   "type": "Contribution",
+   "text": "My Lords, I am not sure that I am really the right person to talk about the Bill, but I thought it might be worth giving a few reflections. I cannot even count how many education Acts have taken place during my lifetime, but it is a very considerable number. It is absolutely clear that there is no final solution. The reason why is that each child is unique, and when we talk about children in the plural, we have a tendency to forget that what actually faces us is each individual child. I was brought up with a classical education, and know that education means to draw out, not to shove in—educare being the Latin word. That is a great challenge. Education starts extremely early, and, as my noble friend Lord Young of Cookham said, it is better to get into it straightaway. Indeed, parents are the primary educators. By the time a child reaches the age of five, something is being delivered that is pretty well formed already. We are talking about the journey of a child finding out who they are and of what they are capable. Very often, when we talk about, for example, the care system, which has 86,000 looked-after children at the present moment, we are talking about a time when, to a large ",
+   "name": "Viscount Eccles",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Burt of Solihull (LD)",
+   "member_id": 1567,
+   "type": "Contribution",
+   "text": "My Lords, I declare my interest as vice-chair of the All-Party Parliamentary Humanist Group—I guess I am on my own today. Given the scope of the Bill and the number of speakers, I will restrict myself to issues of inclusion and community cohesion within our schools. I have twice introduced to the Chamber a Bill to repeal the legal imposition of collective worship in all publicly funded schools. I first introduced it more than three years ago, when it passed the Lords but fell in the other place due to lack of time. I introduced it again three months ago, and it has passed Second Reading. I am hopeful, but I fear that time may not be on my side again. The amendments that I and others intend to lay before the House will work to introduce inclusivity policy and to get rid of the bizarre position where the UK is the only sovereign western democracy to enforce mandatory worship. The School Standards and Framework Act requires all state schools that are not of a religious nature to hold daily acts of collective worship that must be of a wholly or mainly Christian nature. Children cannot withdraw themselves from prayers without parental consent. This contravenes children’s rights under th",
+   "name": "Baroness Burt of Solihull",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Jackson of Peterborough (Con)",
+   "member_id": 1551,
+   "type": "Contribution",
+   "text": "My Lords, this portmanteau Bill has its strengths, which I concede and welcome, particularly on child protection and safeguarding, pupil absence and kinship care—an area close to my heart that I campaigned on in the other place. It is also deeply flawed, particularly in Part 2, which is ideological and divisive, written at the behest of the teaching unions and careless of fundamental priorities around standards, parental choice, teacher recruitment and retention, local autonomy, innovation and independence. As more sensible Labour figures have rightly noted, it is a betrayal of the laudable record of not just the 2010 coalition Government but the first two Blair Administrations from 1997 onwards. It may well result in poor outcomes, social immobility and worse life chances, particularly for children from modest backgrounds. My focus today is squarely on some troubling aspects of Part 2, which is predicated on the misguided belief that micromanagement by officials, whether in Whitehall or the town hall, will somehow enhance child safety or education standards. This may be the natural direction of travel of a bureaucracy, but it is one that this House must firmly resist. To echo the ",
+   "name": "Lord Jackson of Peterborough",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Brown of Silvertown (Lab)",
+   "member_id": 1583,
+   "type": "Contribution",
+   "text": "I started my working life as a residential social worker, and I am godmother to a beautiful boy being cared for by his wonderful grandparents. Kinship care is a great solution for many young people whose parents are unable to take on parenting, and this Bill will, thankfully, finally define kinship care in legislation, recognising the tremendous work of so many carers whose dedication is often overlooked and underappreciated. I am delighted. While I am on the topic of being delighted, I was also delighted to see that the needs of children leaving care are contained within this Bill. I am delighted that care leavers will no longer be classified as intentionally homeless and that local authorities must publish more information on the services available to care leavers. I am also delighted that Staying Close support will be rolled out universally or nationally. That is all good, but we know that many children in care face challenges adjusting to their new life and 41% have emotional and behavioural assessment scores which are a cause for concern, so I was saddened to hear that the Government have reduced the grant available for assessment and therapy each year to £3,000. I am hopeful ",
+   "name": "Baroness Brown of Silvertown",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness McIntosh of Pickering (Con)",
+   "member_id": 384,
+   "type": "Contribution",
+   "text": "My Lords, I welcome the opportunity to debate the Bill. I take this opportunity to thank the Minister and the Secretary of State for the briefing they gave us and the opportunity to express, in my case, the concerns I have about the resources and funds available to run the breakfast clubs. I declare my interest as a patron of the National Association of Child Contact Centres. I welcome the provisions in the Bill setting out child protection and safeguarding and working towards keeping families together as far as possible. I also welcome the kinship care provisions. In my capacity shadowing early years in the other place, I was acutely aware of the role that grandparents and other close family members wished to play but in many instances were not able to do so. In Committee, I would like to explore the opportunity and the increasing role that could be played by child contact centres and other venues, which offer space for parents to meet and spend time with their children in the event of a family break-up. I urge and encourage the Government to promote and support child contact centres and the vital role they play. My other main comment at this stage relates to admissions policy—in ",
+   "name": "Baroness McIntosh of Pickering",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Hacking (Lab)",
+   "member_id": 3580,
+   "type": "Contribution",
+   "text": "The pleasure, my Lords, in speaking quite late in a debate such as this one—I think I am listed as the 59th speaker—is the opportunity of hearing excellent earlier speeches. In that regard, I refer to the speeches of the four former Secretaries of State: the noble Baroness, Lady Shephard of Northwold, the noble Lords, Lord Blunkett and Lord Baker of Dorking, and my noble friend Lady Morris of Yardley. I am so glad that three of them are here to hear this praise. I wish to address the subject of home schooling. This is covered in Clauses 30 and 31 of the Bill, covering pages 50 to 64. Clause 30 is directed to “Local authority consent for withdrawal of certain children from school” and Clause 31 is directed to registration of children not in state school education. These provisions cover altogether 14 pages of the Bill and are, I suggest, too long and too complicated. Regrettably, we no longer legislate on principle but in tight definitions. As a result, we have before us a very detailed Bill of some 137 pages—not as long as other Bills that your Lordships are currently considering, but still, I suggest, too long. I first got to know about home schooling during the ill-fated passage ",
+   "name": "Lord Hacking",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Wei (Con)",
+   "member_id": 4145,
+   "type": "Contribution",
+   "text": "My Lords, it is with a heavy heart that I rise to speak today—heavy because the legislation before us cuts to the very fabric of our democratic society, which was built on freedom of thought, parental responsibility and the rights of citizens not to be monitored by an overreaching state. Our forebears fought two world wars, at unimaginable cost, to secure the freedoms we now risk throwing away so casually. They fought to defeat totalitarian ideologies that sought to control not only public life but private conscience and, crucially, the upbringing of the next generation. They knew, as we should know, that the surest route to tyranny is to hand the state unchecked power over the education of children. It is a matter of historic record that, when Parliament passed the Education Act 1944, it deliberately safeguarded the right of parents, not the state, to determine their children’s education. Those drafters had seen the rise of fascism and Stalinism and understood that a truly free society must trust its citizens to raise their children in accordance with conscience, not dictate their upbringing through bureaucratic edict. Yet here we are. I am a parent of home-educated children, and ",
+   "name": "Lord Wei",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Finlay of Llandaff (CB)",
+   "member_id": 3609,
+   "type": "Contribution",
+   "text": "Children are the fabric of the future, to paraphrase the excellent maiden speech from the noble Lord, Lord Mohammed. Legislating for the welfare of children is crucial, and we must take this opportunity to provide equal protection of children in law from assault. The Royal College of Paediatrics and Child Health strongly supports such amendment. Its report last year showed that children who experience physical punishment were up to 2.6 times more likely to experience mental health problems and more than twice as likely to be victims of serious physical abuse. This is because the definition of “reasonable punishment” is unclear. Last year, Worcestershire’s safeguarding review into the murder of nine year-old Alfie flagged up the difficulty in distinguishing “between what is lawful and proportionate and what is harmful and abusive”. The preceding year, after the death of Child AK, Norfolk’s review concluded that the current law was confusing by allowing a defence of reasonable chastisement in criminal prosecutions for assault. I was glad to hear others raise this and hope the House will support this overdue change. Scotland and Wales have already tackled this; giving children equal p",
+   "name": "Baroness Finlay of Llandaff",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Cash (Con)",
+   "member_id": 5387,
+   "type": "Contribution",
+   "text": "My Lords, I declare my interests as the founder of Parent Gym and the part owner of Mind Gym. Parent Gym is a programme supporting families who have the most need across our country, and I have been advocating for parenting interventions and training for families for over a decade. I am also a commissioner at the Equality and Human Rights Commission, something I omitted to record last week when I spoke at Questions. We welcome a lot in the section of the Bill on care, particularly the encouragement of kinship care. That really has my support, as I hope to see an increase in the number of children who are kept with family when there is no provision available from their own parents. But I am sorry to say that the Bill seems to be entirely silent on three really important areas, which I hope can be rectified in Committee: breaking intergenerational cycles of dysfunction; meeting the national crisis of the shortage of foster carers; and providing real accountability in residential care, which is essential. We all need two things to ensure that we go into adulthood in a functional way: a minimal amount of trauma, and secure attachment. We can now measure the level of trauma that individ",
+   "name": "Baroness Cash",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Fox of Buckley (Non-Afl)",
+   "member_id": 4887,
+   "type": "Contribution",
+   "text": "My Lords, even though I am speaking so far down the list, I am still unsure what the purpose is of the “Schools” part of this Bill. The Bill prioritises tinkering with governance, focusing on fixing a problem that does not exist—namely, stripping academies and free schools of the autonomy that has allowed so many of them to thrive—yet it avoids problems that need fixing, such as the huge challenges of discipline and behaviour in classrooms or the growing SEND crisis. How can we scrutinise whether the Bill will fix problems when one of its key solutions is to impose a centralised new curriculum on academies before we know what that curriculum contains? It is a cart-before-horse move. The Government are not publishing their own curriculum review until the autumn, long after the Bill is due to pass. This curriculum review matters. When any Government outline what is taught, politicians reveal what they think schools are for. Are they places where we, as adults, pass on the historic body of canonic knowledge to new generations as an entitlement, regardless of background or cultural identity and notwithstanding important arguments about what constitutes the best that is known and though",
+   "name": "Baroness Fox of Buckley",
+   "party": "Non-Afl"
+  },
+  {
+   "who": "Lord Moynihan of Chelsea (Con)",
+   "member_id": 5007,
+   "type": "Contribution",
+   "text": "My Lords, I congratulate the noble Lord, Lord Mohammed, and my noble friend Lord Biggar on their excellent maiden speeches. Committee on this Bill is in a few weeks. Today we are exploring many important topics covered in the Bill yet, as quite often recently, we are getting just four minutes to speak. It is hard to cover much at all in that time, and this is two Bills in one. The first is praiseworthy because it protects children’s well-being. The second is not so much because it dismantles much of the successful educational reforms of recent decades. Squashing these two together into the same Bill mixes the message. In the rest of my short speech, I will discuss only the second part of the Bill and a few of the concerns I hope we can focus on in Committee. First, removing the academy order is baffling. We have no clue what the Government will offer as an alternative. What question was this the answer to? It attacks the successful academy concept invented by the Labour Peer, the noble Lord, Lord Adonis, who is much missed here. It fails to acknowledge the increasingly obvious superior organisation and success of multi-academy trusts, as has been shown in several speeches today by ",
+   "name": "Lord Moynihan of Chelsea",
+   "party": "Con"
+  },
+  {
+   "who": "Lord O'Donnell (CB)",
+   "member_id": 4255,
+   "type": "Contribution",
+   "text": "My Lords, this is a really important occasion for the House of Lords, and for the world to see that the House cares about children’s well-being. We have such great speakers in this debate. We have had some brilliant introductions but, in my experience, policies fail when you are not clear about the outcomes. I see the noble Baroness, Lady Morgan of Huyton, nodding—she was very clear on outcomes. The noble Lord, Lord Hill of Oareford, asked what problem the Bill is trying to face. We heard a number of former Secretaries of State, across all parties, talk about the improvements we have had. We have had significant improvement in exam results. What is the area that we have failed in? What is our problem? The same evidence base—PISA—shows that our well-being results for children are abysmal; we are bottom of Europe. That is the problem we are trying to solve—let us be clear that it is all about children’s well-being. If this were the children’s maths Bill, we would have a number of ideas about how we improve maths teaching and all the rest of it. Then we would have national testing to see who had done it and who had not. That is the doughnut: a brilliant Bill, wonderful on the outside,",
+   "name": "Lord O'Donnell",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Knight of Weymouth (Lab)",
+   "member_id": 4160,
+   "type": "Contribution",
+   "text": "My Lords, I declare my education interests as set out in the register, in particular my chairmanship of the E-ACT Multi-Academy Trust, where we are enjoying recent “outstanding” Ofsted judgments in schools, while applying the national curriculum. This is a good Bill. It is necessary legislation to tackle a legacy in which vulnerable children have become more vulnerable, and schools are struggling on multiple fronts. I will focus my time on the part related to schools. Today we have heard some argue, in effect, “If it ain’t broke, don’t fix it”, pointing to improvements in England’s PISA rankings for reading and maths as an indicator of the success of the current system. This ignores the reality facing many schools. Our absolute performance in reading and maths has stagnated in PISA, and in science it has declined. Most worryingly, as so powerfully set out by the noble Lord, Lord O’Donnell, the life satisfaction of our young people has plummeted. Persistent absence remains high, teacher retention is poor and NEETs are way too high. As others have said, we must use this Bill to drive ambition on standards and well-being, regardless of structures. Academies have, by and large, worked ",
+   "name": "Lord Knight of Weymouth",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Young of Acton (Con)",
+   "member_id": 5379,
+   "type": "Contribution",
+   "text": "My Lords, I declare my interest as a member of the Knowledge Schools Trust and a trustee of the Knowledge Schools Foundation Trust. It is a great privilege to follow the excellent maiden speeches of the noble Lord, Lord Mohammed, and my noble friend Lord Biggar. The education reforms that the Government are seeking to reverse in the second part of this Bill have been a great success. It has been a natural experiment, because education is a devolved area of policy. The way to measure the success of the educational reforms, dating back at least to 2000 and beyond, is to compare the performance of schools in England, where the reforms have been embedded, with those of Scotland and Wales, where they have not. I will not repeat the PISA data that has been cited by numerous people on this side of the House, but it shows very clearly that the education reforms embedded in the English state school system have been a success. Given how successful they have been, I am astonished that the party opposite, and indeed the Lib Dems, do not want to share some credit for it. As several noble Lords have pointed out, the education reforms that began with the creation of city technology colleges by my",
+   "name": "Lord Young of Acton",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Walmsley (LD)",
+   "member_id": 2547,
+   "type": "Contribution",
+   "text": "My Lords, I too congratulate my noble friend Lord Mohammed, and the noble Lord, Lord Biggar, on their maiden speeches. The noble Lord, Lord O’Donnell, is absolutely right about the child well-being problem, which is why I focus my interventions on the well-being aspects of the Bill, including children’s rights and voices and physical, mental and emotional well-being—specifically, their nutrition and protection against physical or sexual violence. Research shows strong links between poor well-being and child poverty. Children from low-income homes often go hungry or have a very poor diet. That is why the Government must use all their levers to ensure that children are properly nourished. The Healthy Start scheme has helped young families buy fruit, veg and milk for their children. However, uptake is low as many eligible families have never heard of it, let alone applied for it. The value of the vouchers has not kept up with food inflation, and this must change. Will the Government welcome an amendment from me to auto-enrol eligible families to ensure that children get their entitlement? The second lever is the food served in schools. I welcome the new school breakfast clubs, but the",
+   "name": "Baroness Walmsley",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Gilbert of Panteg (Con)",
+   "member_id": 4543,
+   "type": "Contribution",
+   "text": "My Lords, most measures that come before your Lordships’ House are a curate’s egg: good can always be found. There is wide, cross-party support for many of the measures in this Bill that aim to improve child protection and safeguarding. Some of these measures, such as introducing a single, unique identifier, will be significant if they enable much more effective, timely and joined-up multi-agency work. I suspect there is much work to be done to get this right, and there is a wealth of experience in this House that the Government would be wise to draw on. On the second half of the Bill, I share all the concerns of my noble friend Lord Effingham and other noble Lords across the House about the rolling back of academy freedoms. I appreciate that Tony Blair is not the flavour of the month on the Benches opposite. For me, the most important of his many achievements was heralding an era of education reform that abandoned dogma. The work of successive Education Secretaries of both parties, many of whom we have heard from today, in improving schools and driving standards is a real example of a long-term approach across Governments and decades. I hope the Government will take seriously and ",
+   "name": "Lord Gilbert of Panteg",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Young of Hornsey (CB)",
+   "member_id": 3696,
+   "type": "Contribution",
+   "text": "My Lords, I welcome the Government’s intention to improve the lives of young people in the care system, which is where I am going to focus my attention. As other noble Lords have pointed out, we are familiar with the negative outcomes arising from being in care. Systemic inadequacies not only affect the individuals and families directly involved, but the ripples spread across society. Fostering is a critical component of the care system, but as the noble Lord, Lord Young of Cookham, and the noble Baroness, Lady Cash, said earlier—and by the way, I support all three points that the noble Baroness, Lady Cash, made about what is not in the Bill—the situation is stark. We do not have enough foster carers, especially from minoritised communities. The deficiencies in this part of the care system result in a damaging lack of options for children who cannot live with their birth families. Children’s homes are a potential alternative, but it has recently been acknowledged that, “the quality and safety of children’s homes in England is simply not good enough”, and that there was, “much more that we need to do together to put the rights and needs of vulnerable children at the heart of our pol",
+   "name": "Baroness Young of Hornsey",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Meyer (Con)",
+   "member_id": 4699,
+   "type": "Contribution",
+   "text": "My Lords, education in this country has always been about shaping free minds and raising thoughtful, moral citizens who can think for themselves. The Bill threatens that proud tradition. It does not modernise education; it centralises it. It strips away the freedoms that have helped so many schools succeed, handing power to bureaucrats. It is the children from working families who will lose the most—less choice, lower standards, fewer chances to break through. I support the Government’s aim to protect children, but I fear that the Bill overreaches. As it stands, the state is grabbing sweeping powers, especially over home-educating families, demanding personal data, club attendance and anything local authorities consider appropriate. My concern behind this is the mindset that the state knows best, and that parents cannot be trusted and need to be managed. Authoritarian regimes always start by inserting themselves between parents and children, and demanding conformity of thought and value. Is this really the path we want to take? Many parents turn to home education because the system failed them, or because of special needs, safety concerns or different values. They are doing what th",
+   "name": "Baroness Meyer",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Russell of Liverpool (CB)",
+   "member_id": 2134,
+   "type": "Contribution",
+   "text": "My Lords, I declare my interests as a governor of Coram and a trustee of the Foundling Museum, both of which institutions work across adoption, fostering and, particularly, the care system. Overall, I welcome the Bill. I have one cause for regret and sadness, which is that my great friend, the late Lady Massey of Darwen is not here to take part. I do not intend to get involved in Part 2, I think, but if I sense that children’s well-being and best interests are being drowned out by political and ideological skirmishing, I may not find myself able to remain silent. In particular, I say to the Minister that I wonder what her ex-headmaster, Bill Lucas, whom I believe she and her college colleagues called “Batman”, would think about the tenor and temper of some of the debate about schooling and what is in the best interests of children. I will concentrate mainly on Part 1, and the simplest way to declare my interest is to say that I will be all over it like a rash. There are some issues with SEND, and I particularly commend the noble Lord, Lord Addington, and my noble friend Lord Carlile on their knowledge, focus and passion for that issue, which I am sure we will hear much more of in C",
+   "name": "Lord Russell of Liverpool",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Thornton (Lab)",
+   "member_id": 1782,
+   "type": "Contribution",
+   "text": "My Lords, do not worry about cross-party co-operation between the noble Lord, Lord Russell, and me. We hope to influence the Bill in some ways. I am delighted to welcome this early Bill and the priority that my Government have given to this issue. I also congratulate the noble Lords who made today’s maiden speeches. I want to raise two matters. One is about what is not in the Bill and one is about what is. I agree with Coram’s brief that babies, infants and early years are missing from the Bill. I know it is not because there is not work being done on early years, but the Bill contains “Children’s Wellbeing” in its title so surely we need to address baby, infant and early years well-being. I declare an interest as a trustee of the charity Roots of Empathy UK, whose programmes are about reducing aggression, increasing sharing, caring and inclusion, and promoting resilience, well-being and positive mental health. Its work would be an appropriate matter for discussion during the passage of this Bill. While I applaud free breakfasts to start the day, ensuring the school readiness of our youngest must include more—for example, speech and language development, particularly for those who ",
+   "name": "Baroness Thornton",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Fleet (Con)",
+   "member_id": 4889,
+   "type": "Contribution",
+   "text": "My Lords, it is an honour to speak in this debate. I declare my interest as a governor of the Shoreditch Park academy in Hackney. I will focus on the proposed measures that I think threaten academies. Many noble Lords have already made brilliant, passionate speeches based on deep knowledge and expertise, not least our academy hero, my noble friend Lord Harris of Peckham. What is the problem that the Government are trying to solve? Academies have been one of the most successful education reforms of our generation. Why are the Government intent on sabotaging that success, other than to please militant trade unionists? Significant parts of the Bill are inspired by ideologues in hock to the unions, putting the interests of the allies of the Marxist Jeremy Corbyn ahead of children—yes, the very working-class children who would benefit from an excellent academy education. As a governor of a secondary school in Hackney—a pretty tough area—that is part of CoLAT, the City of London Academies Trust, I have seen the power that an academy has to change lives. Shoreditch Park was set up in 2017 in a portakabin with just 180 pupils and 20 staff. We now have 870 pupils in a brilliant new building",
+   "name": "Baroness Fleet",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Hannay of Chiswick (CB)",
+   "member_id": 2167,
+   "type": "Contribution",
+   "text": "My Lords, this Bill is a complex and sensitive one which will deserve careful and detailed scrutiny in Committee and on Report. I intend to concentrate my remarks at this stage to those parts of the Bill that relate to kinship care, an often overlooked and underestimated aspect of the state’s responsibility for children in difficulties in their earlier years. In so doing, I declare an interest as a member of the All-Party Group on Kinship Care. Several parts of the present Bill touch on kinship care, but not always, I suggest, as clearly or as decisively as is desirable. First, I thank the Minister who opened the debate today for the very wholehearted contribution she made on kinship care when replying to a question on 3 April. That was very welcome, and so were the supportive remarks made on the same subject by the noble Baroness, Lady Barran, who at the time was a Minister, when she replied from the Dispatch Box some months earlier. So there is an element of bipartisanship—demonstrated by the noble Earl, Lord Effingham, in the reference in his speech to kinship care—about that aspect of the subject, although perhaps not some others, which I suggest ought to continue. Why is kinsh",
+   "name": "Lord Hannay of Chiswick",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "My Lords, I start by congratulating my noble friend Lord Mohammed of Tinsley and the noble Lord, Lord Biggar, on their maiden speeches. I also of course welcome them to the House. Today is an important day and this is an important opportunity to make the lives and well-being of our children and young people, and their families, so much better. I have listened to all 77 speeches, which give me great hope that this opportunity will not be missed by your Lordships. The Bill gives us the opportunity to put right important issues that affect children and families in all sorts of different circumstances. In our schools, it gives us the opportunity to build on the successes already achieved, tackle new problems that have arisen and ensure that all children get the best possible schooling. Of course, we all want the best education for our children and to see them thrive at school. We want our schools to be places of learning where children learn, discover and play, and where we ignite the joy of learning. We want children and young people, whatever their background and circumstances, to want to come to school, to learn and to discover. The Bill builds on the successes that have been achiev",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Finn (Con)",
+   "member_id": 4567,
+   "type": "Contribution",
+   "text": "My Lords, I congratulate my noble friend Lord Biggar on his excellent maiden speech on the importance of our national story in liberal schools. I also thoroughly enjoyed the maiden speech of the noble Lord, Lord Mohammed of Tinsley. I welcome them both to your Lordships’ House. We have heard many powerful and moving speeches from across the House, and they confirm that this Bill matters. It will affect the lives of the nation’s children intimately and profoundly, and it is important that we get this legislation right. We will engage constructively where the Government are intent on doing the right thing, but, as so many noble Lords have pointed out, there is work to do to improve the Bill, most particularly in its impact on schools. Every child deserves safety, dignity and a fair shot at life, and we support the aims of Part 1: to provide stronger support for children in care, to build a child protection system that protects and to end the unchecked profiteering from services meant to nurture, not exploit. These are not just policy goals but moral imperatives, and they speak to the kind of country we ought to be. Much was done by previous Governments—most conspicuously under the co",
+   "name": "Baroness Finn",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My Lords, we have had a long, interesting and well-informed debate. Given the number of noble Lords who contributed, I will do my best to cover the key issues, but I will not necessarily be able to name-check all those who raised them. I welcome the maiden speech of the noble Lord, Lord Mohammed of Tinsley, who told us about his journey to Sheffield, education and youth work. I am sure that that will be important for our debates in this House, and we are all very glad that he got in safely. I also recognise the maiden speech of the noble Lord, Lord Biggar. He will bring his historical perspective—as he has done today—his free thinking and his challenge to this House, and I look forward to future debates and engagement with him. The discussion we have had today has been both thoughtful and well informed, reflecting the depth of expertise in this House. It is also clear that there is a shared commitment among Peers to work collaboratively in improving our children’s social care and education systems. The Bill makes a significant contribution to this Government’s mission to dismantle barriers to opportunity. Reforming children’s social care and education systems is a key part of this ",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Smith of Malvern",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "That the Bill be committed to a Committee of the Whole House, and that it be an instruction to the Committee of the Whole House that they consider the Bill in the following order: Clauses 1 to 21, Schedule 1, Clauses 22 to 35, Schedule 2, Clauses 36 to 51, Schedule 3, Clauses 52 to 60, Schedule 4, Clauses 61 to 67, Title.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  }
+ ],
+ "fetched": "2026-10-21T20:25:56Z"
+}

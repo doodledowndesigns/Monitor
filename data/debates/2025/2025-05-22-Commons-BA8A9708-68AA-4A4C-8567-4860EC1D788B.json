@@ -1,0 +1,870 @@
+{
+ "ext_id": "BA8A9708-68AA-4A4C-8567-4860EC1D788B",
+ "date": "2025-05-22",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "School Teachers’ Review Body: Recommendations",
+ "parents": [
+  "Commons Chamber"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2025-05-22/debates/BA8A9708-68AA-4A4C-8567-4860EC1D788B/SchoolTeachersReviewBodyRecommendations",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks",
+   "member_id": 4780
+  },
+  {
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards",
+   "member_id": 4125
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 467
+  },
+  {
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood",
+   "member_id": 4510
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Mark Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley",
+   "member_id": 5166
+  },
+  {
+   "name": "Dr Caroline Johnson",
+   "party": "Con",
+   "seat": "Sleaford and North Hykeham",
+   "member_id": 4592
+  },
+  {
+   "name": "Dame Meg Hillier",
+   "party": "Lab/Co-op",
+   "seat": "Hackney South and Shoreditch",
+   "member_id": 1524
+  },
+  {
+   "name": "Sir Oliver Dowden",
+   "party": "Con",
+   "seat": "Hertsmere",
+   "member_id": 4441
+  },
+  {
+   "name": "James Naish",
+   "party": "Lab",
+   "seat": "Rushcliffe",
+   "member_id": 5047
+  },
+  {
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon",
+   "member_id": 5216
+  },
+  {
+   "name": "Laurence Turner",
+   "party": "Lab",
+   "seat": "Birmingham Northfield",
+   "member_id": 5234
+  },
+  {
+   "name": "Tom Tugendhat",
+   "party": "Con",
+   "seat": "Tonbridge",
+   "member_id": 4462
+  },
+  {
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell",
+   "member_id": 5165
+  },
+  {
+   "name": "Marie Goldman",
+   "party": "LD",
+   "seat": "Chelmsford",
+   "member_id": 5073
+  },
+  {
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow",
+   "member_id": 5237
+  },
+  {
+   "name": "Dr Andrew Murrison",
+   "party": "Con",
+   "seat": "South West Wiltshire",
+   "member_id": 1466
+  },
+  {
+   "name": "Mr Bayo Alaba",
+   "party": "Lab",
+   "seat": "Southend East and Rochford",
+   "member_id": 5097
+  },
+  {
+   "name": "Calum Miller",
+   "party": "LD",
+   "seat": "Bicester and Woodstock",
+   "member_id": 5346
+  },
+  {
+   "name": "Rachael Maskell",
+   "party": "Lab/Co-op",
+   "seat": "York Central",
+   "member_id": 4471
+  },
+  {
+   "name": "Ben Obese-Jecty",
+   "party": "Con",
+   "seat": "Huntingdon",
+   "member_id": 5089
+  },
+  {
+   "name": "Luke Myer",
+   "party": "Lab",
+   "seat": "Middlesbrough South and East Cleveland",
+   "member_id": 5147
+  },
+  {
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate",
+   "member_id": 5140
+  },
+  {
+   "name": "Andy McDonald",
+   "party": "Lab",
+   "seat": "Middlesbrough and Thornaby East",
+   "member_id": 4269
+  },
+  {
+   "name": "John Glen",
+   "party": "Con",
+   "seat": "Salisbury",
+   "member_id": 4051
+  },
+  {
+   "name": "John Slinger",
+   "party": "Lab",
+   "seat": "Rugby",
+   "member_id": 5127
+  },
+  {
+   "name": "Mr Richard Holden",
+   "party": "Con",
+   "seat": "Basildon and Billericay",
+   "member_id": 4813
+  },
+  {
+   "name": "John Milne",
+   "party": "LD",
+   "seat": "Horsham",
+   "member_id": 5329
+  },
+  {
+   "name": "Greg Smith",
+   "party": "Con",
+   "seat": "Mid Buckinghamshire",
+   "member_id": 4778
+  },
+  {
+   "name": "Charlie Maynard",
+   "party": "LD",
+   "seat": "Witney",
+   "member_id": 5325
+  },
+  {
+   "name": "Shockat Adam",
+   "party": "Ind",
+   "seat": "Leicester South",
+   "member_id": 5120
+  },
+  {
+   "name": "Richard Foord",
+   "party": "LD",
+   "seat": "Honiton and Sidmouth",
+   "member_id": 4942
+  },
+  {
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford",
+   "member_id": 4131
+  },
+  {
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston",
+   "member_id": 4679
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Laura Trott (Sevenoaks) (Con)",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "(Urgent Question): To ask the Secretary of State for Education if she will make a statement on whether the Government will be accepting the school teachers’ review body’s pay recommendation for 2025-26.",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "The Minister for School Standards (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "May I start by thanking our teachers, school leaders and school staff for all they are doing right now to ensure a successful exam season for students, and indeed for all their hard work throughout the year? Rather than scaremongering with fantasy statistics, the Government are getting on and delivering. We are already seeing positive signs that our plan for change is working. Teacher recruitment is up, with 2,000 more people in training than last year. Teacher retention is up, with thousands more teachers forecast to stay in the profession over the next three years. This Labour Government are getting on and delivering. Unlike the Opposition, who last year sat on the STRB report, hid from their responsibility and left it to Labour to sort out, this afternoon we will announce the teachers’ pay award, which will be the earliest announcement for a decade. We understand the importance of giving schools certainty, giving them time to plan their budgets, and ensuring that they can recruit and retain the expert teachers our children need. The Secretary of State’s written ministerial statement will be coming out this afternoon— [ Interruption. ] It will show once again that this Labour Gov",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "Order. I have granted the urgent question, so please will Members on the Opposition Front Bench wait for the Minister to finish her answer. I do not want you, Ms Trott and Mr O’Brien, to be a bad example of this school class.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The written ministerial statement is laid before the House and will be coming out this afternoon, showing once again that this Labour Government are getting on and delivering on our plan for change.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the shadow Secretary of State.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Laura Trott",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "Mr Speaker, this is absolutely outrageous. It is astonishing that we have had to summon the Government to the House today, but the Minister cannot even tell us what pay rise teachers will get and whether it is going to be funded. That does not allow us to scrutinise the matter in this House. The Government said that they would tax private schools to fund 6,500 more teachers, but the reality is that state schools have not got any of that money. Instead, we have had broken promises on compensating schools for the jobs tax, confirmation from the Department for Education itself that there will be a shortfall in teacher pay funding, which we are not allowed to discuss here today in this urgent question, and uncertainty as to what the actual pay rise for teachers will be. That is a disgrace, and it is the opposite of what people who voted for Labour expected. All that is in the final two weeks when headteachers up and down the country have to decide whether to make teachers redundant in time for September—in fact, sadly, many schools will already have made the difficult decision to let good teachers go. These are job losses on the Minister’s watch, due to her inability to provide schools",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Neither I nor any Minister in this Government will take lessons from Conservative Members, who, after 14 long years in power, had still not restored real-terms spending in our schools to the level that they inherited. The brass neck of the Opposition is quite extraordinary. Conservative Members would also do well to remember the difficult decisions that this Government have had to take because of the utter mess that they left behind. The right hon. Lady was in the Treasury, creating the mess—she knows very well what happened. Recruiting, retaining and supporting expert teachers is central to our vision for delivering high and rising standards in our schools. Despite the challenging financial context and years of missed recruitment targets under the previous Government, this Administration are prioritising education and ensuring that every child has access to a high-quality teacher. We are working at pace to ensure excellence for every child. That is why we remain committed to our manifesto pledge for 6,500 teachers and to ensuring that it responds to the demand in secondary schools, special schools and further education. We know that high-quality teaching is the in-school factor th",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the Chair of the Education Committee.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Helen Hayes (Dulwich and West Norwood) (Lab)",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "Teacher pay is absolutely vital for the status of the profession, for the quality of life of teachers and for recruitment and retention of the vital skilled and qualified staff who are the backbone of our education system. It is really important that the Government’s response this afternoon begins the work of restoring teacher pay after the last 14 years, when we saw, by any objective measure, a shocking erosion in teacher pay under the previous Government. That has affected recruitment and retention and had a devastating impact on teacher morale. Those on the Conservative Benches should take note of that, because we would all benefit from a little more humility in the context of the legacy that they left behind. Can I press the Minister on the extent to which the pay award will be funded? We know that there are already extensive pressures on school budgets, and schools are very anxious about that matter. Also, will this afternoon’s statement include support staff pay, and will it begin the process of restoring that pay? We know how vital our teaching assistants and other support staff in our schools are.",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for her thoughtful contribution. I find it somewhat disconcerting that she is being barracked by Conservative Members, when she performs a really important function for this House and is very assiduous in holding the Government to account—rightly so, as that is her role. She was right to reflect on the degradation of teachers’ pay over the past 14 years; indeed, the first thing this Government did was get last year’s STRB recommendation out of the drawer and process it—a recommendation that the last Government hid and, frankly, ran away from. We implemented the 5.5% pay award. We absolutely recognise that pay is a really important part of ensuring we have the high-quality teachers that we need. The starting salary for teachers is now at least £31,650 outside of London and at least £38,766 in inner London. We are making progress; we are seeing the green shoots of more teachers joining the profession and staying in it, and we will continue to support that trajectory in any way we can. My hon. Friend has also rightly highlighted the vital work of support staff in schools. The Government’s approach in that regard will be confirmed in this afternoon’s written mini",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the Liberal Democrat spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Each and every week, I hear from teachers and school leaders in my constituency and across the country. In my time in this place, never has their outlook been as gloomy as it is right now. After years of underfunding and neglect from the Conservatives, schools now face a double blow of underfunded national insurance increases and unfunded teacher pay rises, if the reports are to be believed. Together, these represent massive cuts to school budgets. Frankly, schools expected better from Labour. School governors in my constituency recently told me that they are all setting deficit budgets, which one described as “beyond imagining”. That is why teachers are so desperately worried. Parents are, too, because ultimately it is our children who will suffer—and the most vulnerable, at that. The Government’s claim that schools can find the money through efficiencies simply does not stack up; budgets are already cut to the bone, with schools relying on parents to buy them the basics, such as glue sticks, through Amazon wish lists. They are already cutting back subjects, cancelling trips and cutting back on teaching assistants—meaning that children with special educational needs and disabiliti",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "There was an awful lot of imagining in the hon. Lady’s question, and understandably so—less understandable, though, in relation to some of her comments. The statement is due today, and the hon. Lady will have to await it, as will all Members of this House and those who are keenly looking at their schools’ budgets to ensure they can provide the best education possible. I know that is what schools are rightly focused on doing, and we are focused on supporting them to do that. I gently remind Opposition Members that this is the earliest STRB announcement in a decade, because we recognise how important budgeting is for schools and how important it is that they have this information in a timely way. That was not respected under the previous Government. We want to provider this information in good time and give notice as early as possible, so that schools can plan the excellent outcomes for children that I know they are striving for. We will also support them to use their funding as efficiently as possible. The Department has worked on a whole suite of productivity initiatives, as well as support for schools to manage energy costs and banking costs and to minimise any expenditure that is",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mark Sewards (Leeds South West and Morley) (Lab)",
+   "member_id": 5166,
+   "type": "Contribution",
+   "text": "I reiterate what the Chair of the Select Committee, my hon. Friend the Member for Dulwich and West Norwood (Helen Hayes), said: teaching assistants are the glue that keep our classrooms together and they should be paid adequately. I am pleased to hear the Minister state that retention is up, with 2,000 more teachers in training. As a former teacher, I understand that workload is often cited as a reason that we do not retain teachers. Marking, lesson planning, admin and data entry all keep teachers away from spending time with their students. Can the Minister update us on what work her Department is doing with respect to artificial intelligence and its roll-out in our classrooms to reduce teacher workload and get them in front of students?",
+   "name": "Mark Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I welcome the constructive nature of my hon. Friend’s question, because regardless of any announcement this afternoon, we know that schools are working hard to deliver for children. As a Government, we need to work our hardest—and we are—to support them to do so. That means a whole range of productivity measures to support teachers with their workload, to support schools with their costs, and to ensure we grab the opportunity of technological developments so that any teacher’s time is maximised with children in the classroom, helping them with their learning and being supported with technology to maximise children’s outcomes. We will continue to work; we are very much looking forward, and unfortunately those on the Opposition Benches seem constantly to be looking back.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Dr Caroline Johnson (Sleaford and North Hykeham) (Con)",
+   "member_id": 4592,
+   "type": "Contribution",
+   "text": "For the Government to come here today, fulling knowing their pay rise intentions but refusing to say so until this afternoon to avoid scrutiny, is disrespectful to this House, to every Member, to every constituent and to every teacher. If I may say so, it is somewhat cowardly. Schools across my constituency find themselves short of money to cover national insurance bills. Five schools in my constituency that have approached me are £176,000 short between them. Does the Minister know how many schools are short of money to pay their national insurance bills?",
+   "name": "Dr Caroline Johnson",
+   "party": "Con",
+   "seat": "Sleaford and North Hykeham"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "On the hon. Lady’s initial comments, let me say that there are processes and procedures in this House that we respect. We respect this House, and we will continue to do so. There is a process by which this statement and these announcements will be made. She will have to wait, alongside everybody, for the process that we adhere to in this House to be administered. In response to the hon. Lady’s second question, as she should know, our funding system is not designed so that every school and college receives funding that necessarily fully matches their precise spending, as that—including NIC costs—varies from institution to institution because of the decisions that each school makes on staffing. We are providing schools and high-need settings with more than £930 million in 2025-26 to support them with their increased national insurance costs. That is in addition to the £2.3 billion increase to core schools funding announced at the autumn Budget in 2024. That means that the core schools budget, which includes the core revenue funding for schools and high-need settings, will total more than £64.8 billion in 2025-26. We will continue to support schools to spend that money in the most eff",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Dame Meg Hillier (Hackney South and Shoreditch) (Lab/Co-op)",
+   "member_id": 1524,
+   "type": "Contribution",
+   "text": "I spent most of the last Government’s time in office scrutinising public spending, and grew weary of promises of pay or other Government decisions not being matched with budgets for schools, hospitals and so on. When things like changes to national insurance and pay increases are made, I hope that this Government will be very honest about the impact on school budgets, and not have headlines that are not balanced with funding. I therefore hope the Minister is making good arguments in the spending review. Could she make sure that she really leans into the issue of falling rolls in London’s schools? Any hoped-for pay rise, which is much deserved by teachers, will be a double whammy for schools in London, because rolls are falling and their income is therefore much lower; that will have an extra impact on staffing decisions.",
+   "name": "Dame Meg Hillier",
+   "party": "Lab/Co-op",
+   "seat": "Hackney South and Shoreditch"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for her question, and for the work that she has done in this House over many years in scrutinising Government budgets and holding Governments to account. We have the highest respect for schools, for school leaders, and for the teachers and support staff who work in schools. We recognise the challenges faced across the public sector to make sure that every penny of public money is spent in the most efficient way possible and maximises the public benefit. We are working incredibly hard in the Department, as I know we are across Government, to get maximum output for public money. Frankly, the public sector was neglected by the previous Government over 14 years. We are picking up the pieces of that, and we will continue to work hard to do so.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Sir Oliver Dowden (Hertsmere) (Con)",
+   "member_id": 4441,
+   "type": "Contribution",
+   "text": "I do have some sympathy for the Minister, for whom I have a great deal of respect, but surely she must feel embarrassed to come before this House knowing all the answers to these questions and not giving them, simply because No. 10 will not let her. In my constituency, schools are already facing a double whammy from an increase in costs from the national insurance rise, which is not fully funded, and the pressure on places. If the teachers’ pay settlement is not funded in full, surely she will admit that it amounts to a cut. Whenever this happened when we were in government, the first thing Labour Members would say was, “Are you matching it with funding?” If we were not, they would scream blue murder that it amounted to a cut. Will she just admit that if it is not funded, it is a cut to schools?",
+   "name": "Sir Oliver Dowden",
+   "party": "Con",
+   "seat": "Hertsmere"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The right hon. Gentleman is rather getting ahead of himself. He was in the last Government, and we were left with an appalling inheritance. We are taking tough decisions to fix the foundations and to bring back stability, because education is a priority for this Government. That is why we are rebuilding the crumbling schools that the Conservatives left. [ Interruption. ] Fiction? Crumbling schools? I suggest Opposition Members speak to the schools that are dealing with the consequences. We are rolling out free breakfast clubs, opening up school-based nurseries and, yes, providing £8 billion to give every child the best start in life through the high-quality early years and family services that the previous Government promised but provided no money to deliver. While those on the Conservative Benches continue to try to work out what they think, we are getting on with delivering real, positive change in our country.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "James Naish (Rushcliffe) (Lab)",
+   "member_id": 5047,
+   "type": "Contribution",
+   "text": "As the Minister says, we inherited a recruitment and retention crisis in the teaching industry. Data from the National Association of Head Teachers shows that one in three teachers leaves within five years, and that around one in three headteachers no longer continues as a head within five years. That is the situation we have inherited, not created. What is the Minister doing to turn the tide on the recruitment and retention crisis?",
+   "name": "James Naish",
+   "party": "Lab",
+   "seat": "Rushcliffe"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "We did inherit a dire situation. Children were not being taught by the expert teachers they should have been taught by, and teachers were stretched to the limit. That is why the first thing we did was to reset the relationship between the Government and schools, which for years had resembled some sort of combat. We want to work with schools. We recognise how hard they are working to deliver for children, and we want to work with them to support them in any way we can. That means having high-quality teachers and good-quality teacher training. It means supporting every teacher to be trained to meet the needs of children with special educational needs and disabilities. It means maximising every pound so that it can get to the frontline—to the children—by reducing other costs in schools. We will continue to work with schools to do that, so that we can ensure that every child has the expert teacher they deserve and will not be let down any more, as they have been for the last 14 years.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Caroline Voaden (South Devon) (LD)",
+   "member_id": 5216,
+   "type": "Contribution",
+   "text": "I think we would all agree that education is the best investment that any Government can make; it raises people out of poverty, improves social mobility and improves health outcomes. Sadly, it was not a priority for the last Government, and I welcome the change in tone from the new Government, although I think it will take more than breakfast clubs to fix the problem. The Devon branch of the National Association of Head Teachers has said, “We’re on our knees.” Primary schools are consolidating classes because they are having to cut spending, and one secondary school in my patch will have to pay £95,000 extra for every 1 percentage point rise in pay that is not funded. If the pay award is not fully funded, can the Minister explain exactly where schools are supposed to find this extra money?",
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The hon. Lady is—understandably so, given the calling of this urgent question despite a statement being due imminently—getting ahead of herself, and we are doing an awful lot more than breakfast clubs. I have listed just some of what we are doing, but we are working incredibly hard across the board. Schools will work very hard to make sure that their budgets maximise the outcomes for children, and we will continue to support them to do that. That means having a Department that steps up. It does not stand back and criticise; it steps up. It means supporting the buying that schools do, and making sure they are getting the best value for money in all the purchasing they do. It means supporting them with their maintenance and management. It means supporting them with energy costs. We know that expenditure on energy is a big cost for schools, and the Department can provide support with good contracts that get much better value for money. It is similar with banking and with teacher vacancies. Schools can save a significant amount of money using the products available from the Department for Education, which we are continuing to provide, and they can use the tools available to see how the",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "Order. This is like having a second statement. The answers are getting longer and longer, but I have to get through this urgent question as we have a lot of other business. It is important that questions are answered quickly, but also that the rest of the questions are asked. We will now have a good example of a brief question from Laurence Turner.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Laurence Turner (Birmingham Northfield) (Lab)",
+   "member_id": 5234,
+   "type": "Contribution",
+   "text": "Thank you, Mr Speaker. There has clearly been some learning loss among the Conservatives, because they were late in submitting evidence for seven years in a row, causing chaos in schools’ budgets; they announced the outcome of the School Teachers Review Body process through written statements to this House; and, shamefully, they scrapped the school support staff negotiating body. Does the Minister agree that the protestations from the Opposition will come across to teachers as false and hypocritical, because they are?",
+   "name": "Laurence Turner",
+   "party": "Lab",
+   "seat": "Birmingham Northfield"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I think my hon. Friend has put it very well.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Tom Tugendhat (Tonbridge) (Con)",
+   "member_id": 4462,
+   "type": "Contribution",
+   "text": "One of the things I think we should be proudest of in England is the success of English schools over the last 10 to 14 years. Frankly, the differences in outcomes in England from those in Labour-run Wales or SNP-run Scotland have been very striking, demonstrating that, while for sure there are brilliant teachers across the United Kingdom, the different system in England has enabled its schools to flourish. While I welcome the fact that the Minister is bringing the statement out early and I appreciate the work the Government have done on it, I am afraid that I do share the frustration of my right hon. Friend the Member for Sevenoaks (Laura Trott) and my hon. Friend the Member for Sleaford and North Hykeham (Dr Johnson), who is no longer in her place. The Minister must appreciate that frustration, given that she was sitting on the Opposition Benches only a few months ago, as no doubt she will be again in only a few years’ time. The reality is that it is very difficult to represent those who send us here if we are not given information. I was sent a letter by Simon Beamish, who runs the Leigh Academies Trust, and he told me that schools in my area of west Kent are already going to hav",
+   "name": "Tom Tugendhat",
+   "party": "Con",
+   "seat": "Tonbridge"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "That was a very long question.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "It was a very long statement that managed almost entirely to look backwards, while fantasising about the future. The right hon. Member will receive the information, as will everybody else, when the statement is published at the announced time this afternoon.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Peter Swallow (Bracknell) (Lab)",
+   "member_id": 5165,
+   "type": "Contribution",
+   "text": "I declare an interest, as I was a primary school governor right up until the election and I am the chair of the all-party parliamentary group for schools, learning and assessment. It is quite shocking to hear Opposition Members’ protestations about school funding, given the absolutely dire state in which they left school funding after 14 years of Conservative government. When I speak to school leaders in my constituency, they tell me about their real and lasting struggles to balance their budgets. I understand that the Minister cannot speak today about the outcome of the review until the statement, but can she give us information more broadly about conversations she has had as part of the spending review, so that we can get the funding we need to invest in schools and turn around the dire situation we inherited?",
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I would like to take this opportunity to put on record my thanks to school governors. My hon. Friend mentions that he was a governor up until the election. We really are grateful to school governors for everything they do on a voluntary basis to support schools to be as good as they can be. As a Government, we will always work with them and schools to support improving outcomes for children. The Department will do everything it can within the incredibly tight fiscal constraints we inherited. As a Government, we are committed to our public services, which we know will transform the lives of children and everybody in this country. We will continue to do that.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Marie Goldman (Chelmsford) (LD)",
+   "member_id": 5073,
+   "type": "Contribution",
+   "text": "The Minister, in her response to my hon. Friend the Member for Twickenham (Munira Wilson), referred to imaginings, but I do not think it is an imagining to suggest that the Secretary of State, in her response to the STRB, said that some efficiency savings would have to be found in schools to meet the additional costs. Earlier this week, I had a roundtable with headteachers from my constituency and beyond. The Minister also talked just now about “fantasising about the future”. Is she really telling me that those headteachers were fantasising about the future when they told me that they were already having to make cuts to staffing numbers for next September? One headteacher told me that just one or two more things need to go wrong and that they are on the brink of collapse. Is the Minister saying that they are fantasising about the future?",
+   "name": "Marie Goldman",
+   "party": "LD",
+   "seat": "Chelmsford"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "No. We recognise how important it is for schools to plan their budgets and we know that they are keenly awaiting the announcement this afternoon. That is why we have made the announcement as quickly as possible, and much quicker than at any point over the past 10 years. We will continue to work with schools to help them deliver for the children in their care. We know that that is their priority and it is our priority, too.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Chris Vince (Harlow) (Lab/Co-op)",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "For 14 years, I saw my profession treated like dirt by the Conservative party: undervalued, underpaid and undermined at every single turn. Does the Minister agree that not only should we be paying our teachers fairly, but we should be treating them with respect, and that the only decent teacher recruitment the Conservative party did was to recruit former teachers to the Labour Benches?",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend rightly remarks on his service as a teacher. It is incredibly valued. The one message we want to send to the school system is about the extent to which we value the teachers and the headteachers who support their schools to thrive, and the extent to which we support the support staff who are the beating heart of schools in every community. We will continue to do so.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Dr Andrew Murrison (South West Wiltshire) (Con)",
+   "member_id": 1466,
+   "type": "Contribution",
+   "text": "The schools in my constituency tell me that any efficiencies they could possibly make have already been made. Therefore, the result of what the Minister is announcing—the national insurance increase that is underfunded and this welcome but unfunded increase in teacher pay—can only be that teacher numbers are cut. As the father of a primary school teacher who works really hard and is absolutely committed, that impacts on me personally, and it will impact on every child and every parent in my constituency. Is that not the reality, and should the Government not be up front and admit that this will mean that teachers will lose their jobs?",
+   "name": "Dr Andrew Murrison",
+   "party": "Con",
+   "seat": "South West Wiltshire"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The right hon. Gentleman will have to wait for the statement this afternoon for the details of what the Government are proposing. He really should have more awareness of the situation that teachers and schools, and indeed our entire public sector, have faced over the past 14 years. We are working hard to clean up that mess, and we will continue to do so.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Bayo Alaba (Southend East and Rochford) (Lab)",
+   "member_id": 5097,
+   "type": "Contribution",
+   "text": "I declare that I am also a school governor. I have spent many months in my constituency meeting teachers, governors and stakeholders within the community, so I welcome the Government’s announcement of 2,000 additional teachers. Can the Minister tell us how the Government are turning the tide in the teacher recruitment and retention crisis, which reached unprecedented levels over the past decade?",
+   "name": "Mr Bayo Alaba",
+   "party": "Lab",
+   "seat": "Southend East and Rochford"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "This is a key priority for us. We want to ensure that we have the teaching workforce that children deserve, but that teachers deserve, too—they deserve to have a full fleet of teachers teaching the specialist subjects that they love, are committed to and are trained to teach. We know that key to unlocking the outcomes for children is having good, qualified teachers in every classroom, which is what we are legislating to achieve. It is also key for children with additional learning needs or disabilities that we ensure that every teacher is a teacher for special educational needs and disabilities, so that more children can be educated in their local school with their peers and get the outcomes they deserve.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Calum Miller (Bicester and Woodstock) (LD)",
+   "member_id": 5346,
+   "type": "Contribution",
+   "text": "I was a school governor for 13 years and served as a finance governor, so I know these issues well. I want to draw the Minister’s attention to the plight of small, rural primary schools. There are many such schools in my constituency, and they are really up against it with the costs that they face. In the school that I served, 86% of the budget was spent on staffing, so a significant unfunded increase in staffing costs, whether through national insurance or salary contributions, has a huge impact. Will the Minister meet me to discuss sparsity funding and the equalisation of per capita funding so that primary schools in small, rural areas are not so serially disadvantaged?",
+   "name": "Calum Miller",
+   "party": "LD",
+   "seat": "Bicester and Woodstock"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I thank the hon. Gentleman for his thoughtful question and for his years of service as a governor. I cannot reiterate enough how much we value the work that governors do in schools, and we need more people to step up and take the rewarding opportunity to support schools in that capacity. He rightly raises the challenges, which we know differ across schools, and that is why school funding is not uniform across schools; it varies according to circumstances. We are looking at the funding formula to ensure that it does allocate resource where it is most needed and where it can give the greatest outcome and the greatest benefit.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Rachael Maskell (York Central) (Lab/Co-op)",
+   "member_id": 4471,
+   "type": "Contribution",
+   "text": "Rather than the synthetic outrage from the former Chief Secretary to the Treasury, the right hon. Member for Sevenoaks (Laura Trott), who served in a Government that brought cuts to schools, I really welcome that the Government are serious about addressing the regression teachers faced in their pay, as well as the fact that support staff were pushed on to the minimum wage. I trust that in the statement there will be sufficiency in the funding for schools, but will the Minister also get a grip of escalating chief executive pay, which is doubling, meaning they have six-figure salaries? It is really important that they are not taking more out of the funds that should be invested in children’s education.",
+   "name": "Rachael Maskell",
+   "party": "Lab/Co-op",
+   "seat": "York Central"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend speaks with great insight; I know she cares passionately about maximising outcomes for children. I know that every school leader—indeed, those at any level within a school, but particularly those at the senior level—will want to ensure that in any decisions they make on pay, they are prioritising outcomes for children.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Ben Obese-Jecty (Huntingdon) (Con)",
+   "member_id": 5089,
+   "type": "Contribution",
+   "text": "Schools in my constituency tell me they are struggling. Serious pressure is being put on their staffing budgets by the national insurance contributions increase, and that is exacerbated by the appallingly slow approval rate of special educational needs inclusion funding and education, health and care plans by the now Lib Dem-run Cambridgeshire county council. What is the Minister doing to address that extra strain on staffing costs and to ensure that schools are properly resourced for the right level of staff in order to allow teachers to give all children the best education, rather than forcing efficiency savings on them that will make the job even harder, and possibly even ultimately put children at risk?",
+   "name": "Ben Obese-Jecty",
+   "party": "Con",
+   "seat": "Huntingdon"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The hon. Gentleman raises an important matter and does so thoughtfully and constructively. Although there is synthetic outrage from some Members on the Conservative Benches, we recognise that schools are grappling with the challenge of ensuring that they achieve the greatest outcomes from their budgets. That is a challenge that they rise to year on year, and a challenge that we will continue to set, because we will not shy away from ensuring that every penny of public money that is spent delivers on the frontline for children and teachers. We need to ensure that we have the right teaching capacity in schools, and that teachers are trained to support children with special educational needs. We are determined to ensure that more children are educated with their peers, but we recognise that schools need support to deliver that, and we are working on reforms at pace. We are also getting on with delivering a whole range of interventions to support schools in making progress.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Luke Myer (Middlesbrough South and East Cleveland) (Lab)",
+   "member_id": 5147,
+   "type": "Contribution",
+   "text": "I had not planned to ask a question, but I have to say that I was pretty surprised by the tone that the Opposition struck. I did a postgraduate degree in education, and I will never forget finding one of my professional mentors, who had been a teacher for years, crying at her desk because of the pressure that the then Government had put on her and other teachers. Is it not the case that the Conservatives left our teachers overstretched and undervalued, and this Government are taking a different approach?",
+   "name": "Luke Myer",
+   "party": "Lab",
+   "seat": "Middlesbrough South and East Cleveland"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I could not have put it better myself.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Claire Young (Thornbury and Yate) (LD)",
+   "member_id": 5140,
+   "type": "Contribution",
+   "text": "The Minister has admitted that not all schools will be fully funded, but blames that on the choices that schools have made about their staff. Does she accept that schools cannot fully control the profile of their staff, and that in some cases—I make this point in a letter to the Minister—schools choose to pay people in higher bands because of the increasingly high needs that they are expected to support? Will she meet me to discuss how she will protect schools with particularly high staffing budgets from having to make excessive cuts?",
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I am not really sure about the premise of the hon. Lady’s question, or what she thinks may or may not have been said ahead of publication of the written ministerial statement, which is due at 1 pm today. I have made it clear that schools are funded not in a uniform manner, but according to a whole range of requirements that they may have within their school population and their area. It is a complex formula that is intended to ensure fairness across the school funding system. Indeed, we are looking at the system to ensure that it is as fair as it can be, but it is not without its complexities, so we are taking the time to get this right. We will continue to do so, because we recognise that schools need the autonomy to decide how they spend their budget, how they best deploy their resources, and how they maximise the outcomes for children, using the resources allocated by the Government. We also recognise that schools need support to do that, and we will continue to ensure that they have the tools to maximise the outcomes for children.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Andy McDonald (Middlesbrough and Thornaby East) (Lab)",
+   "member_id": 4269,
+   "type": "Contribution",
+   "text": "May I declare my interest as the very proud father of Rosie, a foundation stage teacher? This Government showed what Labour is about when they came in and immediately awarded an above-inflation 5.5% pay rise to teachers, to start clawing back after the demeaning and disrespectful public sector cuts of around 20% in real terms delivered by the Tories. The Government’s 2.8% submission to the pay review body is below inflation, and that increase would not be funded through additional finance; it would come at the expense of other provision. It has been reported that the School Teachers’ Review Body is recommending close to 4%, so will the Government commit to a long-term plan of restoring teachers’ pay in real terms, and to addressing the recruitment and retention crisis in education?",
+   "name": "Andy McDonald",
+   "party": "Lab",
+   "seat": "Middlesbrough and Thornaby East"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend tempts me down all sorts of paths, in ways that would anticipate the statement that is due later today, but he rightly states the importance of ensuring that teachers are recognised, valued and rewarded, that we have sufficient teachers, and that we have an attractive profession that bright people like Rosie want to join and contribute to. We will continue to work to deliver that for the children and schools in this country.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "John Glen (Salisbury) (Con)",
+   "member_id": 4051,
+   "type": "Contribution",
+   "text": "One of the biggest drivers of satisfaction in any profession is settlements in line with inflation and expectations of inflation. Will the Minister assure the House that the settlement to be announced later today will take account of the fact that inflation is vastly higher than was anticipated when the settlement was reached?",
+   "name": "John Glen",
+   "party": "Con",
+   "seat": "Salisbury"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I am afraid that the right hon. Member will have to wait for the statement this afternoon. I appreciate that it is keenly anticipated. We are committed to ensuring that schools can deliver for children. That is our top priority.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "John Slinger (Rugby) (Lab)",
+   "member_id": 5127,
+   "type": "Contribution",
+   "text": "I am proud to declare an interest as the son of a teacher. While the Tories often wax lyrical about how business adds value to our economy, which of course it does, they often omit to say that it is our teachers who educate those who go on to work in business. Teachers add huge value, and teaching should be the most esteemed of professions. Can the Minister explain how Labour is overturning the teacher recruitment and retention crisis that we inherited from the Tories?",
+   "name": "John Slinger",
+   "party": "Lab",
+   "seat": "Rugby"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend is right to say that we inherited a teaching profession in crisis. Immediately on entering Government, we instituted a 5.5% pay award. We continue to help schools to find ways to support teachers in managing their workload and wellbeing, and in making teaching the attractive profession that it should be. As my hon. Friend rightly points out, teaching is the springboard to so many bright futures for children. We want to ensure excellence for every child, not just some children, as we saw over the last 14 years.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Richard Holden (Basildon and Billericay) (Con)",
+   "member_id": 4813,
+   "type": "Contribution",
+   "text": "In Education questions, I raised the concerns of headteachers in Basildon and Billericay about school funding, and I directly asked about school support staff, who are already being told that they are being made redundant because of the national insurance jobs tax. Can the Minister explain to those staff and me why the Government have gone back on their promise to cover all the costs of the jobs tax?",
+   "name": "Mr Richard Holden",
+   "party": "Con",
+   "seat": "Basildon and Billericay"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "As I have already set out, the Government have given a significant settlement in recognition of the national insurance costs. We will continue to work with schools to ensure that they can deliver for children in their areas, and we will continue to listen to the sector to ensure that we work in partnership to deliver for children—a partnership that was sadly lacking in the last 14 years. The right hon. Gentleman was very much part of the Government who delivered the desperate situation in which we found schools and teachers, and that we are working very hard to turn around.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "John Milne (Horsham) (LD)",
+   "member_id": 5329,
+   "type": "Contribution",
+   "text": "Over the last six months, I have visited most of the schools in my constituency, and the message I am getting loud and clear is that they are on the brink, especially over special educational needs and disabilities provision. That threatens to throw into sharp reverse any progress on educational standards. I ask the Government to be honest about the real state of funding, and not to make statements that are not fully funded. That applies to statements on existing services, such as SEND provision, and on the cost of school dinners. I hold the new Government to a higher standard, and I ask the Minister to be completely honest about the real state of affairs.",
+   "name": "John Milne",
+   "party": "LD",
+   "seat": "Horsham"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I recognise the challenges that the hon. Gentleman sees in the school system. We did, without doubt, inherit a SEND crisis. It was described by the previous Secretary of State for Education as “lose, lose, lose”, and she was not wrong. We are working at pace to fix it, and we recognise that schools are grappling with many challenges. We will continue to work at pace, because that is how we deliver for children in this country, which we are committed to doing.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "Order. The right hon. Member for South West Wiltshire (Dr Murrison) has just walked right across the Floor of the House while the Minister was answering. I cannot believe it. [ Interruption. ] We are not going to have an argument. I would have hoped that you, as a member of the Panel of Chairs, would respect the rules of the House better.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Greg Smith (Mid Buckinghamshire) (Con)",
+   "member_id": 4778,
+   "type": "Contribution",
+   "text": "I am full of admiration for all the hard-working teachers across my constituency, and indeed the whole country, and my sister-in-law is a secondary-school English teacher, but I have no doubt that every teacher and headteacher watching our proceedings, either live or later, will have had their jaw on the floor when they heard the Minister say that she wants to give them time to plan, but will not tell them what funding they will get to pay for this. It is inconceivable that she does not know the answer to that question, given that a statement on the issue will be published at 1 o’clock. Is she not giving the answer because, as my right hon. Friend the Member for Hertsmere (Sir Oliver Dowden) said, No. 10 has told her not to? Better still, is it because the Department is in a live negotiation—some might say a row—with the Treasury to get that settlement for our teachers?",
+   "name": "Greg Smith",
+   "party": "Con",
+   "seat": "Mid Buckinghamshire"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "What a ridiculous question. As the hon. Member has a family member who is a teacher, he should have more respect for the profession and the work that teachers do. He should acknowledge that the time we give schools to plan their budget is way beyond anything that his Government delivered in the last 10 years.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Charlie Maynard (Witney) (LD)",
+   "member_id": 5325,
+   "type": "Contribution",
+   "text": "The Minister and many hon. Members have mentioned teaching support staff, who make up half the school workforce but have no statutory pay body to represent them. Many support staff are left without a voice in discussions on their pay, terms and working conditions; I hear that time and again in schools throughout my constituency. Will the Minister give assurances, through the written ministerial statement, that school support staff will get a fair pay deal?",
+   "name": "Charlie Maynard",
+   "party": "LD",
+   "seat": "Witney"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Pay negotiations for support staff are done through the National Joint Council for Local Government Services. We recognise the challenge that the hon. Member identified, and the strong role that support staff play in our schools. We have legislated for the school support staff negotiating body, which the last Government abolished, to be re-established, to ensure that they have a strong voice in these conversations.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Shockat Adam (Leicester South) (Ind)",
+   "member_id": 5120,
+   "type": "Contribution",
+   "text": "May I raise concerns about our further education college teachers? There is a real shortage of skilled workers in this country, and one of the reasons for that is that we have undervalued and under-invested in our FE college teachers, who are paid £9,000 less than their peers. No wonder 50% of them leave within the first three years of employment. Does the Minister recognise the vital role of FE college teachers in our education system? Will they be in the Government’s plans for a fairer and better future for everybody?",
+   "name": "Shockat Adam",
+   "party": "Ind",
+   "seat": "Leicester South"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "We absolutely recognise, respect and value the vital role of all those who work with 16 to 19-year-olds and people of all ages, whether in a school, college or FE setting; they provide that springboard to launch people into their future careers. We will continue to recognise and support the sector.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Richard Foord (Honiton and Sidmouth) (LD)",
+   "member_id": 4942,
+   "type": "Contribution",
+   "text": "The Minister mentioned maintenance contracts and Department for Education support. Schools have seen steep increases in the cost of sustaining themselves. One school leader in Devon whom I spoke with said that the cost of maintaining grounds, bins and toilets grew by 69% over the last four years. Given that schools’ budgets have barely grown over that period, does she really expect that staff pay rises will come out of existing school budgets?",
+   "name": "Richard Foord",
+   "party": "LD",
+   "seat": "Honiton and Sidmouth"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The hon. Gentleman tempts me into issues that may well be addressed in the statement that is due very shortly. He recognises that schools have a whole range of costs to manage. As a Department, we want to maximise every penny that schools have, and to minimise outlays that do not reach children or the frontline—those who work with children. We will continue to do that. There is a whole range of tools available at the Department. We really encourage schools to use those tools in any way they can in the management of their budgets, and to support really smart accounting to maximise the impact of their budgets for their children.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "I thank the Minister for her answers to the urgent question. Nobody can doubt her commitment to the change that is necessary to keep schools working and teachers in place. I always try to be helpful in the Chamber. Northern Ireland has come through a period of teacher strike action, which led to years of no school inspections, and to altered classroom practices, so there is a need to re-engage with teachers. The Minister knows well that engaging with teachers at all stages is essential, or the losers will undoubtedly be the parents and, of course, the pupils. How will she ensure a spirit of co-operation to ensure in-depth education? We all hope that co-operation will be reciprocated by unions and senior leadership teams in all schools.",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The hon. Gentleman is always helpful and thoughtful in his contributions. As a Department, we inherited a school system that was in crisis: school buildings crumbling, teachers leaving in their droves and children not getting the start in life that they deserve. We are working on a number of fronts, but we recognise that the outcomes are not ones that the Government alone can deliver; we need to deliver them in partnership with schools, teachers and those who represent them. We speak and work regularly right across the board to maximise those outcomes for children, and I know the hon. Gentleman shares our determination to see that across the country.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Neil O’Brien (Harborough, Oadby and Wigston) (Con)",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "On a point of order, Mr Speaker.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "Is it relevant to this UQ?",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "It is, Mr Speaker. Earlier, the Minister said that funding had remained below 2010 levels. I am sure that was an innocent verbal slip. However, according to the widely respected Institute for Fiscal Studies, “Coming on the back of an 11% real-terms increase in spending per pupil between 2019–20 and 2024–25, this allows spending per pupil to return to, and exceed, its previous high point in 2010.” How can we encourage the rapid correction of the record when innocent mistakes are made?",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I think you have just corrected the record; that is not a point of order. We can leave it at that, unless the Minister wants to come in.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "indicated dissent.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  }
+ ],
+ "fetched": "2026-10-21T20:26:10Z"
+}

@@ -1,0 +1,804 @@
+{
+ "ext_id": "CC7F604C-A65F-42A1-992F-FD0FB2BBB12F",
+ "date": "2025-10-20",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Post-16 Education and Skills Strategy",
+ "parents": [
+  "Commons Chamber"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2025-10-20/debates/CC7F604C-A65F-42A1-992F-FD0FB2BBB12F/Post16EducationAndSkillsStrategy",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education",
+   "member_id": 4046
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 4460
+  },
+  {
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks",
+   "member_id": 4780
+  },
+  {
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood",
+   "member_id": 4510
+  },
+  {
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire",
+   "member_id": 5096
+  },
+  {
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East",
+   "member_id": 5152
+  },
+  {
+   "name": "Stuart Anderson",
+   "party": "Con",
+   "seat": "South Shropshire",
+   "member_id": 4742
+  },
+  {
+   "name": "Steve Race",
+   "party": "Lab",
+   "seat": "Exeter",
+   "member_id": 5064
+  },
+  {
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon",
+   "member_id": 5122
+  },
+  {
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire",
+   "member_id": 5195
+  },
+  {
+   "name": "Mr Louie French",
+   "party": "Con",
+   "seat": "Old Bexley and Sidcup",
+   "member_id": 4932
+  },
+  {
+   "name": "Mohammad Yasin",
+   "party": "Lab",
+   "seat": "Bedford",
+   "member_id": 4598
+  },
+  {
+   "name": "Sir Julian Lewis",
+   "party": "Con",
+   "seat": "New Forest East",
+   "member_id": 54
+  },
+  {
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock",
+   "member_id": 5056
+  },
+  {
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale",
+   "member_id": 1591
+  },
+  {
+   "name": "Andrew Pakes",
+   "party": "Lab",
+   "seat": "Peterborough",
+   "member_id": 5243
+  },
+  {
+   "name": "Blake Stephenson",
+   "party": "Con",
+   "seat": "Mid Bedfordshire",
+   "member_id": 5100
+  },
+  {
+   "name": "Jessica Toale",
+   "party": "Lab",
+   "seat": "Bournemouth West",
+   "member_id": 5202
+  },
+  {
+   "name": "Ann Davies",
+   "party": "PC",
+   "seat": "Caerfyrddin",
+   "member_id": 5177
+  },
+  {
+   "name": "Abtisam Mohamed",
+   "party": "Lab",
+   "seat": "Sheffield Central",
+   "member_id": 5142
+  },
+  {
+   "name": "Alison Bennett",
+   "party": "LD",
+   "seat": "Mid Sussex",
+   "member_id": 5283
+  },
+  {
+   "name": "Lauren Edwards",
+   "party": "Lab",
+   "seat": "Rochester and Strood",
+   "member_id": 5298
+  },
+  {
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole",
+   "member_id": 5327
+  },
+  {
+   "name": "Sam Carling",
+   "party": "Lab",
+   "seat": "North West Cambridgeshire",
+   "member_id": 5308
+  },
+  {
+   "name": "Shockat Adam",
+   "party": "Ind",
+   "seat": "Leicester South",
+   "member_id": 5120
+  },
+  {
+   "name": "Jacob Collier",
+   "party": "Lab",
+   "seat": "Burton and Uttoxeter",
+   "member_id": 5077
+  },
+  {
+   "name": "Steve Darling",
+   "party": "LD",
+   "seat": "Torbay",
+   "member_id": 5066
+  },
+  {
+   "name": "Amanda Hack",
+   "party": "Lab",
+   "seat": "North West Leicestershire",
+   "member_id": 5149
+  },
+  {
+   "name": "Monica Harding",
+   "party": "LD",
+   "seat": "Esher and Walton",
+   "member_id": 5299
+  },
+  {
+   "name": "Dr Lauren Sullivan",
+   "party": "Lab",
+   "seat": "Gravesham",
+   "member_id": 5269
+  },
+  {
+   "name": "Mr Adnan Hussain",
+   "party": "Ind",
+   "seat": "Blackburn",
+   "member_id": 5231
+  },
+  {
+   "name": "Gareth Snell",
+   "party": "Lab/Co-op",
+   "seat": "Stoke-on-Trent Central",
+   "member_id": 4595
+  },
+  {
+   "name": "Douglas McAllister",
+   "party": "Lab",
+   "seat": "West Dunbartonshire",
+   "member_id": 5057
+  },
+  {
+   "name": "Anneliese Midgley",
+   "party": "Lab",
+   "seat": "Knowsley",
+   "member_id": 5038
+  }
+ ],
+ "contributions": [
+  {
+   "who": "The Secretary of State for Education (Bridget Phillipson)",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "With permission, Mr Speaker, I will make a statement to update the House on the Government’s work to transform further and higher education in this country. The House should be in no doubt: transformation is what we need, because the world is changing, with artificial intelligence, machine learning, green energy and new and exciting technologies. Global forces are reshaping the world of work more and more quickly. They bring fresh and exciting chances for growth and opportunity. However, unless education and training in this country also change, we risk missing those chances and our young people risk being left behind. We have seen that before. Under the previous Government, who thought that colleges and technical education were for other people’s children, apprenticeship starts for our young people plummeted. They talked down our universities and were more interested in headlines for culture wars than in head-starts for students. We will never take that path. I know that Members on both sides of the House will agree that we in this country have a duty—to our people, to our businesses and to our great history—not just to keep up but to lead the way. Today we publish our post-16 edu",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the shadow Secretary of State.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Laura Trott (Sevenoaks) (Con)",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for advance sight of her statement. I will start with V-levels. If they are a continuation of the reforms that we began to simplify the post-16 qualification landscape, I welcome it, but without the White Paper it is hard to understand whether that is the case. There are fundamental questions regarding the announcement that the statement does not answer, so I hope the Secretary of State will be able to shed some light on them today. Are V-levels simply a rebranded continuation of the reforms that we began, or are they a completely new qualification that will take years to develop? What is happening with BTECs, Cambridge technicals and other applied general qualifications? Are they all being scrapped? If so, what is the timeline for that? The Secretary of State says that she will consolidate 900 qualifications, but into how many? How will employers be involved in shaping the new courses? As I said in oral questions earlier, I am deeply concerned by reports today about the introduction of the so-called lower-level qualifications aimed specifically at white working-class people. There has long been a term for that in education policy: the soft bigotry of",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "It is a real shame that the right hon. Lady cannot bring herself to welcome anything that we have announced today. It is par for the course; that is how she likes to do things. In government, the Conservatives talked about how they valued post-16 education. Their record was very different, of course. The difference between record and rhetoric is the difference between our parties, and it is clear for all to see. We are investing £800 million more in further education, while colleges were cut to the bone under the Tories. We are putting a real focus on vocational education and FE, restoring their esteem, giving them proper respect and simplifying the qualification landscape that the Tories made even more muddled, and we are securing the future of our world-renowned universities. I did not hear whether the right hon. Lady accepted, disagreed, welcomed or did not support what I have set out today about university funding. If she does not support it, I would like to know how she intends to safeguard our world-leading universities into the future. As usual, we heard plenty from the right hon. Lady about debt-trap degrees. We often hear a lot of talk about low-value courses or Mickey Mou",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the Chair of the Education Committee.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Helen Hayes (Dulwich and West Norwood) (Lab)",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for her statement. I welcome the Government’s focus on further education and skills, which have been overlooked for far too long and are critical to the delivery of the Government’s missions. My Committee has recently undertaken an inquiry into FE and skills, and I am pleased to see a number of our recommendations reflected in the statement, particularly in the commitment to address the vortex of failure in which the current system of English and maths resits traps far too many young people. I welcome the priority of increasing the quality of further education, but there are two key contributors to quality that the Secretary of State did not mention in her statement. The first is the 15% pay gap between teachers in schools and teachers in FE colleges, which is a barrier to recruitment and retention for colleges. The second is the inability of FE colleges to reclaim VAT, a situation for which my Committee found no justification and which City College Norwich told us made the difference of a whole floor to a new building that it had recently completed. How does the Secretary of State plan to ensure that the further education sector has not only the poli",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to the Chair of the Education Committee. We continue to keep all such matters under review, and I can be clear with her that we believe that further education colleges are engines of growth and opportunity in our communities. This White Paper is about ensuring a prestigious, world-class system in which we will reform initial training in further education, continue to invest in whole-career professional development for FE teachers and build ties with industry to ensure that FE teachers have the greatest opportunity to develop their teaching skills and subject expertise to help young people to achieve and thrive. Alongside that, we will match that support with appropriate challenge, so that we continue to raise the bar on standards through the new Ofsted system with the backstop of the FE Commissioner.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the Liberal Democrat spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Ian Sollom (St Neots and Mid Cambridgeshire) (LD)",
+   "member_id": 5096,
+   "type": "Contribution",
+   "text": "I too thank the Secretary of State for advance sight of her statement. There is far too much in this White Paper to respond to comprehensively in two minutes, so let me focus on three critical issues. The first issue is V-levels. The Secretary of State talks about ending confusion, yet she is introducing a new qualification that sounds remarkably like BTECs—they are flexible, sector-based and can mix with A-levels. BTECs already work: 200,000 students took them last year, 99% of universities accept them and one in five UK workers have one. If we are recreating BTECs, why scrap them first? We should keep both until 2030, so that we can compare outcomes. T-levels reached 1% uptake after five years, so let us not repeat that mistake. The second issue is lifelong learning. The Secretary of State rightly speaks about the working mother needing to upskill, but will the support be sufficient to make that real? The lifelong learning entitlement is welcome, but the Government have cut over-21 apprenticeships, including those in shortage professions such as nursing and social work. What confidence do the Government have that their LLE can cover the costs of providing that vocational educatio",
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to the hon. Gentleman for his questions. V-levels will replace around 900 qualifications for 16 to 19-year-olds at level 3. The current system is fragmented, with a vast array of qualifications that are too difficult for employers and young people to navigate, so we will introduce new V-levels. That is a new vocational option that will sit alongside A-levels and T-levels at level 3, to make sure we have the right qualification mix available for young people. We will keep funding for most existing qualifications in place until new V-levels and other qualifications come in, but funding for all qualifications in other T-level areas under review will continue on the current timeline. We will confirm the list of qualifications that will have funding removed soon. Turning to the lifelong learning entitlement, this is an important change that will transform the student finance system in England. It will broaden access to high-quality, flexible education, including for adults who want to go back into education. It will launch in academic year 2026-27 for learners studying courses that start on or after 1 January 2027. This will allow learners to use the new entitlement more f",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "Order. We will have just another 30 minutes or so of questions, because we have a big debate later, so colleagues must keep their questions short.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Mrs Sureena Brackenridge (Wolverhampton North East) (Lab)",
+   "member_id": 5152,
+   "type": "Contribution",
+   "text": "The previous Government tried hard to take a hatchet to many vocational courses, reflecting how little they valued those hugely important subjects and skills. Can the Minister confirm that the new V-level qualifications show that this Government have listened to the education sector, employers and students, and will allow more young people greater choice in achieving their pathway to a successful future?",
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Yes, that is right. V-levels will offer a genuine choice for young people to pursue several interests before specialising. They will sit alongside T-levels and A-levels, and will be linked to the skills and knowledge that employers tell us they need and the careers that young people wish to pursue. This is an important step forward, one that will ensure all of our young people have a good range of options available to them.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Stuart Anderson (South Shropshire) (Con)",
+   "member_id": 4742,
+   "type": "Contribution",
+   "text": "Having five children, I understand that not everybody learns the same way, as all my children are different. However, what consideration has been given to the position of students with special educational needs and disabilities and the ruralities of constituencies such as mine, which can pose challenges?",
+   "name": "Stuart Anderson",
+   "party": "Con",
+   "seat": "South Shropshire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Yes on both points. I recognise the challenges that people in rural communities sometimes face in accessing work placements, and we continue to work with businesses and colleges to make sure they are available for T-level courses. On support for children with SEND, many of our FE colleges already lead the way on what good provision looks like. They are an important step for many young people making that transition at 16, including from specialist provision into mainstream provision. As part of our wider SEND reforms, we want to make sure that children’s journey from early years through the school system and into further education and beyond works with those moments of key transition. Our FE colleges have a critical role to play in that.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Steve Race (Exeter) (Lab)",
+   "member_id": 5064,
+   "type": "Contribution",
+   "text": "Exeter has a fantastic tertiary college—Exeter college—which, thanks to this Government, will be a technical excellence college for construction. We also have an exceptional specialist maths school that provides excellent maths, physics and computing education, which are skills we really need in the south-west. How will these reforms raise standards for every child in Exeter, to help make sure they reach their full potential?",
+   "name": "Steve Race",
+   "party": "Lab",
+   "seat": "Exeter"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Technical excellence colleges, including those in my hon. Friend’s community, will act as hubs of excellence that will raise standards across the FE sector. Each TEC hub will offer advanced facilities, expert staff, and high-quality curricula developed with the industry. This will also allow other providers and businesses to meet the needs of high-growth sectors, including construction.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Manuela Perteghella (Stratford-on-Avon) (LD)",
+   "member_id": 5122,
+   "type": "Contribution",
+   "text": "The Government say that they want to simplify the post-16 system, but the reality is that funding for further education remains chronically low. Will the Secretary of State look again at further education funding streams—for example, letting colleges reclaim VAT, as schools with sixth forms do, and extending the pupil premium to post-16 levels?",
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to the hon. Lady for her suggestions. For further education, we will invest nearly £800 million extra in 16 to 19 funding next year, alongside capital investment of over £2 billion to support the expansion of capacity, modernisation of college estates, and delivery of training in the areas of greatest need. However, there is more that we need to do, especially in providing support for young people who are NEET. That is why today’s White Paper sets out our direction for making sure that all young people have good routes into employment, education and training.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Andrew Cooper (Mid Cheshire) (Lab)",
+   "member_id": 5195,
+   "type": "Contribution",
+   "text": "This is a timely set of proposals in an area that is too often overlooked by Government. In my constituency, further education has not functioned properly since the Tories’ failed top-down review of post-16 education in Cheshire led to the closure of the main FE campus. NEET levels in Winsford are now five percentage points higher than the borough-wide average. To this end, the proposed enhanced support for 16 and 17-year-olds to take up education or training and stay engaged will be critical. What role can the Secretary of State see the mayoral combined authorities having in setting the strategic direction and providing governance for post-16 education in places such as Mid Cheshire?",
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We do think there is an important role for our mayoral strategic authorities, especially when it comes to supporting colleges and making sure we have good link-up between colleges and businesses. I would be happy to look in more detail at the situation my hon. Friend outlined.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Louie French (Old Bexley and Sidcup) (Con)",
+   "member_id": 4932,
+   "type": "Contribution",
+   "text": "The Secretary of State has claimed today that she is expanding opportunities, while raising tuition fees and cutting international baccalaureate funding for sixth forms in Bexley with little notice. Who did she consult on the decision to cut IB funding? What analysis was undertaken, and will she apologise to the schools across the UK left in limbo by her reckless approach to education?",
+   "name": "Mr Louie French",
+   "party": "Con",
+   "seat": "Old Bexley and Sidcup"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "As I said, next year, we will invest £800 million extra in 16-to-19 funding. We have sought to refocus the large programme uplift that sits alongside that investment on maths and STEM for those studying four or more A-levels, because we think that is important for our industrial strategy priorities, but there will be transitional protections for those schools affected. Students will still be able to study for the IB, and schools will be welcome and able to offer it through the funding streams they receive.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mohammad Yasin (Bedford) (Lab)",
+   "member_id": 4598,
+   "type": "Contribution",
+   "text": "I am delighted that Bedford college has been named one of 10 new construction technical excellence colleges, backed by £100 million of Government investment, to train the skilled professionals that the UK needs for housing and infrastructure. I also welcome today’s measures to strengthen vocational qualifications. The new qualifications to better prepare students for GCSE English and maths resits are positive, but can the Secretary of State confirm that those qualifications will be fully funded, given the current financial pressures on FE colleges?",
+   "name": "Mohammad Yasin",
+   "party": "Lab",
+   "seat": "Bedford"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We are investing more in further education, with £800 million extra next year. We are also committed to establishing 19 more technical excellence colleges on top of the 10 construction TECs launched in August—including Bedford, as my hon. Friend mentions. Those technical excellence colleges will act as hubs of excellence, raising standards across the sector and providing more opportunities for young people to move into careers such as those in construction-related fields. That is why we have also brought in new foundation apprenticeships, to give more young people the chance to understand a broad range of offers within an area before deciding to specialise.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sir Julian Lewis (New Forest East) (Con)",
+   "member_id": 54,
+   "type": "Contribution",
+   "text": "As young people will now have to choose between T-levels and the new V-levels, can the Secretary of State explain what are the main distinguishing features of the two qualifications, and what in broad terms are the likely differences in career outcomes?",
+   "name": "Sir Julian Lewis",
+   "party": "Con",
+   "seat": "New Forest East"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "The new system will involve A-levels, T-levels and V-levels. T-levels represent three A-levels; A-levels are already well understood by many people in this country, while T-levels are a relatively new addition, but a very high-quality technical route. Alongside A-levels, there will be V-levels. These will not replace the large-scale programmes that T-levels offer, but will provide opportunities for young people to combine study of both academic and vocational qualifications, particularly those young people who are not quite clear at 16 exactly which area they wish to specialise in. This will allow for a combination of study.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Jen Craft (Thurrock) (Lab)",
+   "member_id": 5056,
+   "type": "Contribution",
+   "text": "I strongly welcome this strategy today, particularly the commitment that the Prime Minister and the Secretary of State have made to guarantee all 16-year-olds a college place. However, will she commit to working towards closing the legislative gap, where children between the ages of five and 16 with SEND can access home-to-school transport, as can those with SEND from age 19 to 25, but between the ages of 16 and 19 there is currently no statutory provision for them to have home-to-school transport. An estimated one in seven disabled young people, equating to 13,500 people, were unable to access college this year alone as a result.",
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I recognise the passion and expertise that my hon. Friend brings to this subject, and I would be happy to discuss that issue with her in more detail.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Tim Farron (Westmorland and Lonsdale) (LD)",
+   "member_id": 1591,
+   "type": "Contribution",
+   "text": "Perhaps the biggest single barrier that prevents young people from rural communities such as mine accessing vocational studies through FE colleges is that they live so far away and travel costs a fortune. For a student living in Appleby, Kirkby Stephen, Coniston or Windermere, it can cost them £1,000 a year to get to Kendal, Barrow, Lancaster or Penrith. What will the Secretary of State do to put an end to that barrier to young people staying in further education?",
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I recognise the additional barriers that exist around transport, which are a particular challenge in rural communities, sadly, although not uniquely in rural communities. That is part of the reason why this Government are bringing forward wide-ranging reforms, including to our bus network, to make sure that it serves the interests of communities, businesses and students much more effectively. I gather from my hon. Friend the Member for Whitehaven and Workington (Josh MacAlister) sitting next to me on the Front Bench that extra investment is going into rural bus services in his and the hon. Gentleman’s part of the world.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Andrew Pakes (Peterborough) (Lab)",
+   "member_id": 5243,
+   "type": "Contribution",
+   "text": "I warmly welcome this statement. One of the most shameful legacies of the last 14 years in Peterborough has been the rising number of young people leaving school with no qualifications and no hope, with NEETs up and apprenticeships down. Skills are not just good for growth, but good for hope, good for young people, good for their parents and good for communities. One of the most difficult parts in the whole vocational network is the navigation that employers and young people have to do with career services, which have been broken over the past 14 years. Can my right hon. Friend tell us more about how career services and good quality advice will be at the heart of reinvigorating vocational qualifications in Peterborough and the country?",
+   "name": "Andrew Pakes",
+   "party": "Lab",
+   "seat": "Peterborough"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend always champions young people in Peterborough and the need to take action in this area. We will ensure that young people have good careers guidance and work experience. The White Paper also sets out an automatic backstop for all 16-year-olds that guarantees them a further education place in reserve. That will ensure that young people at risk of dropping out of education are given a place and wraparound support, because we know that the faster we work with young people, the more likely it is that that will be effective. That runs alongside strengthening requirements on schools to make sure that their pupils have places in post-16 provision.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Blake Stephenson (Mid Bedfordshire) (Con)",
+   "member_id": 5100,
+   "type": "Contribution",
+   "text": "The Secretary of State says that she wants to see empowered NHS staff with the right skills to deliver a transformed service, with which I absolutely agree. Level 7 apprenticeships, such as those provided by Cranfield University in Mid Bedfordshire, are so important to delivering that, but the Department for Education has cut funding to level 7 apprenticeships, meaning that the Department of Health and Social Care will be funding ongoing provision. Does the Secretary of State think it is responsible for her to balance the books of her Department on the back of the NHS?",
+   "name": "Blake Stephenson",
+   "party": "Con",
+   "seat": "Mid Bedfordshire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "It is right that we refocus our skills system on young people, and that is what we have done through the changes that the hon. Member mentions. We have also made sure that under-22s continue to be eligible for the level 7 funding that he talks about, but I make no apology for refocusing the system on young people and their opportunities, and I am making sure they have every chance to get on.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Jessica Toale (Bournemouth West) (Lab)",
+   "member_id": 5202,
+   "type": "Contribution",
+   "text": "My constituency is blessed with two world-class universities and an excellent further education college that provide a range of degrees, apprenticeships and qualifications. I recently met the Samee charity, which provides a structured training programme for young people with learning difficulties to get into self-employment. Can the Secretary of State tell me how this White Paper supports those types of training programmes and supports those young people to thrive?",
+   "name": "Jessica Toale",
+   "party": "Lab",
+   "seat": "Bournemouth West"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "It is good to hear about the provision that exists in her community in Bournemouth. We know that we need a range of options for young people, whether through further education or independent training providers. I also recognise the critical role that many who sit outside of formal systems can play in supporting young people, whether through mentoring or ongoing support, particularly those who have had difficult experiences in life and are furthest away from the labour market.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Ann Davies (Caerfyrddin) (PC)",
+   "member_id": 5177,
+   "type": "Contribution",
+   "text": "The Education Secretary’s focus today is on the new vocational qualification training, which will be welcome for students in England. In Wales, however, where her party has led the Government for the past 25 years, the apprenticeship budget has been cut by 14%. Will she be lobbying the Chancellor ahead of the Budget to ensure that Wales has a fair funding settlement that would support apprenticeships?",
+   "name": "Ann Davies",
+   "party": "PC",
+   "seat": "Caerfyrddin"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Wales and Scotland both secured the biggest post-devolution settlements that we have ever seen, yet they still continue to be against them.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Abtisam Mohamed (Sheffield Central) (Lab)",
+   "member_id": 5142,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for her announcement today, particularly the planned increase in tuition fees and maintenance loans, which will be warmly welcomed by students and the two world-class universities on my patch, the University of Sheffield and Hallam University. Will the Secretary of State join me in affirming that the Government are committed to ensuring equal access and full support for the disadvantaged? Will they explore whether we can address adequate maintenance support for children by increasing it in line with the cost of living? Will no specific pathway be excluded, allowing students to have opportunities and driving economic growth?",
+   "name": "Abtisam Mohamed",
+   "party": "Lab",
+   "seat": "Sheffield Central"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend always champions the fantastic institutions in her community, and I know the important role that they play in Sheffield and the wider region, providing jobs, training and opportunities not just for our young people, but for adults returning to education. That is why we have today taken the decision to increase fees, giving institutions the certainty they need while providing more support around maintenance loans and starting the process of introducing new targeted maintenance grants for less well-off students. I should add that, as part of this reform, we are also announcing additional support for care leavers. They will be automatically eligible for the maximum maintenance loan. That welcome step will provide a big support to some of the most vulnerable children in our country.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Alison Bennett (Mid Sussex) (LD)",
+   "member_id": 5283,
+   "type": "Contribution",
+   "text": "The Secretary of State praises the fantastic FE staff and describes FE colleges as “no longer a Cinderella service, but rather a system of high esteem”. How does she propose to do that while still maintaining the pay gap for FE staff compared with teachers in other educational settings?",
+   "name": "Alison Bennett",
+   "party": "LD",
+   "seat": "Mid Sussex"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I recognise the challenge there. It developed over many years, and we as a Government inherited that. We are investing more this year in further education, and there will be £800 million more next year into 16-to-19 education, which will make a big difference. But I recognise the ongoing need to support our brilliant staff working in FE, whether they are teaching staff or support staff. Through our “improving education together” partnership in the Department for Education, we are ensuring that their voices are heard as part of the reforms we are taking forward.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Lauren Edwards (Rochester and Strood) (Lab)",
+   "member_id": 5298,
+   "type": "Contribution",
+   "text": "I welcome the Secretary of State’s statement and the Government’s continued commitment to promoting vocational and technical education, which is welcome. Can she outline how the White Paper will address the capacity issues that a lot of colleges and sixth forms are experiencing, including in my constituency? That will help us get that NEET rate down.",
+   "name": "Lauren Edwards",
+   "party": "Lab",
+   "seat": "Rochester and Strood"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I recognise the challenge that we have seen, in part because of the big numbers of 16 to 19-year-olds we have coming through the system. That is why we are prioritising investing in 16-to-19 funding for our colleges and ensuring we have more capital available to create the places that are necessary, working with local areas. Running alongside that are our technical excellence colleges, which will drive up standards, spread best practice and be hubs of excellence in their regions working with other colleges.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Vikki Slade (Mid Dorset and North Poole) (LD)",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "Media reports, but not the statement, talked about the resit regime for English and maths, and I hope that the young people who fail to achieve the grades but who thrive with functional skills were not listening to the shadow Minister dismiss their achievements. Was the Secretary of State aware that young people achieving a 3 in year 11 are forced to retake, but if they achieve a 2, they are allowed to take functional skills? Where a young person fails a second time, there is no funding for colleges to move them across into that other pathway. I recognise what is coming up, but the young people in the system now need some urgent attention, so that they do not fall into a doom loop. Will she comment on that?",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We want to ensure that more young people secure a good, strong GCSE in English or maths, but we recognise that if someone secures a grade 1 in August and is then expected to resit a full GCSE a matter of months later, that is not likely to lead to the best outcomes that we want to see. We have focused on improving the teaching of English and maths in further education, and we have issued new guidance to give institutions a clearer direction. However, I think it right for us to help young people to secure a firmer foundation in the basics through the new qualification, and then move on to a GCSE. That sits alongside the changes we are making for adults in respect of occupational standards, to allow more of them to complete their apprenticeships as well.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sam Carling (North West Cambridgeshire) (Lab)",
+   "member_id": 5308,
+   "type": "Contribution",
+   "text": "A constituent has written to me to highlight that they have successfully completed a level 3 BTEC diploma in musical theatre. To go on to university, they need an extended diploma—a third year—but their college will not let them do it because they have not achieved a grade 4 in GCSE maths, which their university course would not require anyway, so my constituent is being held back from a degree and a career as a result of not passing an exam in an unrelated subject. How can we break down these barriers so that young people are not held back in life?",
+   "name": "Sam Carling",
+   "party": "Lab",
+   "seat": "North West Cambridgeshire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We do want to ensure that more young people obtain that strong GCSE pass at grade 4 or above, but about a third of 16-year-olds do not achieve that at present, and sadly the number is even higher among white working-class pupils, who are more than twice as likely as their more affluent peers to need to resit their exams. That is something that we absolutely must tackle, but if my hon. Friend will give me some more information, I will be happy to look at the case in that wider context.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Shockat Adam (Leicester South) (Ind)",
+   "member_id": 5120,
+   "type": "Contribution",
+   "text": "I welcome the announcement that the Government are enhancing their provision of post-16 vocational qualifications, but when will the Secretary of State outline a dedicated post-16 strategy for young people with learning difficulties and disabilities? I recently held a heartbreaking roundtable with young people with learning disabilities in Eyres Monsell, in my constituency. Although they had been doing work experience for years, when it came to giving them full-time work, our corporate supermarkets let them down. They want to work, they are able to work, and with the right support they will work.",
+   "name": "Shockat Adam",
+   "party": "Ind",
+   "seat": "Leicester South"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I recognise what the hon. Gentleman has said, and I have heard of similar experiences from my constituents and families across the country who have spoken about the need to reform the SEND system across the board, throughout education. We want to build on what is already working well in post-16 provision, to ensure that more of that successful transition can happen for young people with SEND. We will provide more details in the schools White Paper, but I want to acknowledge the incredible work that many FE colleges already do in supporting that transition. We are continuing to invest through the internships work consortium to ensure that supported internships are there for young people who need them.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Jacob Collier (Burton and Uttoxeter) (Lab)",
+   "member_id": 5077,
+   "type": "Contribution",
+   "text": "In my constituency, major employers offer excellent apprenticeships, but the number of places is limited. They have told me that they would welcome the ability to share unsuccessful applications with similar employers, such as small and medium-sized enterprises in their supply chains, rather than their being lost to the system. What can the Education Secretary do to encourage such collaboration between employers to boost the take-up of high-quality apprenticeships?",
+   "name": "Jacob Collier",
+   "party": "Lab",
+   "seat": "Burton and Uttoxeter"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend sets out what sounds like an interesting and useful approach to allow employers to work together more effectively, but we also want to see more collaboration between colleges, and between colleges and universities. The White Paper sets out a vision for a more coherent system that will be easy for both students and employers to navigate, but I would be happy to hear more from my hon. Friend about the work that is going on in his constituency, and to establish whether there are any wider lessons that we can take into the Department to look into what more can be done.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Steve Darling (Torbay) (LD)",
+   "member_id": 5066,
+   "type": "Contribution",
+   "text": "Torquay Boys’ grammar school has long delivered the international baccalaureate. My own eldest son, George, has benefited from that and, under the scheme, has volunteered in a care home. He is now on the cusp of becoming a registrar for care of the elderly. During my meeting with the head of Torquay Boys’ last Friday, he expressed particular concern about the impact of the lack of social mobility and the impact on the ability to deliver languages. Will the Secretary of State think again about these cuts to the international baccalaureate?",
+   "name": "Steve Darling",
+   "party": "LD",
+   "seat": "Torbay"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We are talking about a relatively small number of students. Colleges and schools will retain the freedom to decide what study programmes they wish to offer their students, but we as a Government have decided to reprioritise the large programme uplift on industrial strategy priorities, involving, for example, those studying for four or more A-levels in STEM subjects, including further maths. We think that is the right decision, but there will be transitional protections for institutions that currently offer the international baccalaureate.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Amanda Hack (North West Leicestershire) (Lab)",
+   "member_id": 5149,
+   "type": "Contribution",
+   "text": "I welcome the statement, including the key commitment to breaking down barriers to opportunities to enable young people to gain the education that they deserve. This new focus will also support the employers who have been consistently talking to me about the skills challenges they face, particularly those relating to vocational skills. However, kids in my constituency are often locked out of vital opportunities simply because of the lack of transport. What work is the Secretary of State doing with transport colleagues to challenge that barrier and ensure that those young people in my rural constituency have access to those technical qualifications?",
+   "name": "Amanda Hack",
+   "party": "Lab",
+   "seat": "North West Leicestershire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I recognise the challenge that my hon. Friend has mentioned. It is, of course, a challenge for rural communities in particular, but it often affects areas that are not rural, because of our fragmented transport network and the lack of join-up between transport systems and the increasing lack of bus services. We, as a Government, are taking action in respect of bus services to provide more opportunities for young people to get to college in order to study, but also to grow businesses. I have seen some fantastic work, led by many of our mayors, to bring together a better offer for young people, to allow them to travel to places of study and to work placements, and to gain access to other opportunities. That is a model that those in other areas might be able to consider in the future.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Monica Harding (Esher and Walton) (LD)",
+   "member_id": 5299,
+   "type": "Contribution",
+   "text": "I welcome the Government’s focus on vocational skills, but I fear that schools in my constituency will struggle to keep pace with qualification changes, and that 2027 is too soon for the transition to V-levels to be completed. Colleges such as Esher sixth form college deliver BTECs, and have done so successfully for many years. What assurance can the Secretary of State give to those colleges that they will be supported in that transition, and how exactly will it be implemented by 2027?",
+   "name": "Monica Harding",
+   "party": "LD",
+   "seat": "Esher and Walton"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "There will be a consultation to which businesses, representatives of the education sector and others will be able to contribute. We want to ensure that we get this right, but we believe that it is necessary to simplify the vast array of qualifications at level 3 through vocational routes, and to align those routes better with A-level study as well.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Dr Lauren Sullivan (Gravesham) (Lab)",
+   "member_id": 5269,
+   "type": "Contribution",
+   "text": "I recently had the pleasure of visiting North Kent College in Gravesend, which is one of the 10 new construction technical excellence colleges. The announcement of the new V-levels is a welcome step, giving vocational education real parity of esteem with academic and technical routes. Can the Secretary of State assure me, however, that the assessment of V-levels will involve physically demonstrating competence, such as practical or placement examinations and building a portfolio of evidence, rather than exam-based memory tests, which do not reflect real life? Will she meet me to discuss that further?",
+   "name": "Dr Lauren Sullivan",
+   "party": "Lab",
+   "seat": "Gravesham"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I would be happy to meet my hon. Friend, and I am delighted that North Kent College will be one of our first 10 new technical excellence colleges. That will give young people in her community and beyond the chance to obtain a well-paid, secure job in one of the Government’s key areas as we seek to build more homes. I would be happy to discuss further with her the reforms that we intend to introduce, and there will be a full consultation in which people will be able to take part.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Adnan Hussain (Blackburn) (Ind)",
+   "member_id": 5231,
+   "type": "Contribution",
+   "text": "I welcome the statement. In Blackburn I have been working with our college and jobcentre to help young people access real opportunities, but in towns such as mine, which is among the most deprived in the country, it is not talent but investment that is lacking. What strategy will the Secretary of State employ to ensure that skills funding truly reaches places such as Blackburn, and will she meet me to discuss the serious shortage of ESOL spaces, which is causing many constituents to wait for up to a year, out of work?",
+   "name": "Mr Adnan Hussain",
+   "party": "Ind",
+   "seat": "Blackburn"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We are investing more in further education and also in our schools system, but we recognise that one in seven young people aged between 16 and 24 are not in education, employment, or training. We urgently need to bring that figure down, because every single day we see the consequences of that failure, both for the individual young person and for our wider economy. That is why many of the measures in the White Paper are about how we can give young people the support that they need. If the hon. Gentleman writes to me, I will respond to his specific point about ESOL.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Gareth Snell (Stoke-on-Trent Central) (Lab/Co-op)",
+   "member_id": 4595,
+   "type": "Contribution",
+   "text": "I should draw the House’s attention to my entry in the Register of Members’ Financial Interests, as a governor of a sixth-form college in Stoke-on-Trent and as chair of the all-party parliamentary group on sixth form education. The V-levels provide an exciting opportunity for vocational qualifications, and the Secretary of State is right to praise colleges, but she will know that those same colleges are deeply worried about the defunding of BTECs and what that means for student choice in the 2026-27 academic year. Will she give a commitment from the Dispatch Box that BTEC funding will continue until V-levels are in place, and if she cannot, can she explain what young people accessing further education next year will be able to look to before they are in place?",
+   "name": "Gareth Snell",
+   "party": "Lab/Co-op",
+   "seat": "Stoke-on-Trent Central"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Students wishing to study for a large qualification should study for T-levels where they are on offer, but to ease the transition to V-levels, the DFE will retain funding for qualifications with 719 guided learning hours or below in T-level areas until the new V-levels are introduced for that area, so we will be keeping funding for most existing qualifications. We will keep that in place until the new V-levels and other qualifications come in, and we will confirm the list of qualifications that will have funding removed in due course.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Douglas McAllister (West Dunbartonshire) (Lab)",
+   "member_id": 5057,
+   "type": "Contribution",
+   "text": "We have new technical excellence colleges, new defence academies and new clean energy colleges, but not in Scotland, because further education and skills are devolved to the Scottish Government. The Scottish Auditor General’s report, published this month, showed that funding for Scottish colleges has been cut by 20%. Does the Secretary of State agree that only Scottish Labour can stop the SNP systemically hollowing out Scottish colleges and robbing Scots of all ages of opportunities, including in my West Dunbartonshire constituency?",
+   "name": "Douglas McAllister",
+   "party": "Lab",
+   "seat": "West Dunbartonshire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I agree very strongly with my hon. Friend. As he says, colleges in Scotland have had a 20% real-terms funding cut in this parliamentary Session, according to a new report from Audit Scotland, and the SNP Government have been accused of guillotining the sector. That goes hand in hand with fewer opportunities for apprenticeships for our young people, with starts falling by nearly a third in eight years under the SNP Government—and that is before we even get on to their terrible record on the incredibly wide attainment gap and the shocking outcomes for working-class children across Scotland. That is why Scotland, now more than ever, needs a new First Minister in the shape of Anas Sarwar.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Anneliese Midgley (Knowsley) (Lab)",
+   "member_id": 5038,
+   "type": "Contribution",
+   "text": "Nearly 6% of Knowsley’s 16 to 17-year-olds are not in employment, education or training—one of the highest rates in the country—so I very much welcome today’s statement. By the way, A-levels left not just my constituency but the whole borough of Knowsley under the last Tory Government, so we will take no lessons in aspiration for young working-class people from them. Can the Secretary of State tell me how the measures outlined in the White Paper will ensure that Knowsley’s young people get the opportunity their potential deserves?",
+   "name": "Anneliese Midgley",
+   "party": "Lab",
+   "seat": "Knowsley"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "One of the measures outlined in today’s White Paper is an automatic backstop for all 16-year-olds that guarantees them a further education place in reserve, so that young people at risk of dropping out get wraparound support to ensure that they remain in education or training. We know that if we do not get that support in place ahead of the start of the academic year, we will see a big drop-off, and we also know the damage that that does throughout people’s lives. My hon. Friend consistently champions the need for expanded provision in her constituency, and as I committed in oral questions earlier, I would be happy to discuss that further with her.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  }
+ ],
+ "fetched": "2026-10-21T20:27:13Z"
+}

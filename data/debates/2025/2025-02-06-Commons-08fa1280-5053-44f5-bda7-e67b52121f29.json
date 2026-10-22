@@ -1,0 +1,726 @@
+{
+ "ext_id": "08fa1280-5053-44f5-bda7-e67b52121f29",
+ "date": "2025-02-06",
+ "house": "Commons",
+ "section": "PBC",
+ "title": "Children's Wellbeing and Schools Bill (Twelfth sitting)",
+ "parents": [
+  "Public Bill Committees"
+ ],
+ "location": "Public Bill Committees",
+ "url": "https://hansard.parliament.uk/Commons/2025-02-06/debates/08fa1280-5053-44f5-bda7-e67b52121f29/ChildrenSWellbeingAndSchoolsBillTwelfthSitting",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston",
+   "member_id": 4679
+  },
+  {
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire",
+   "member_id": 5096
+  },
+  {
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale",
+   "member_id": 5225
+  },
+  {
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire",
+   "member_id": 3969
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen",
+   "member_id": 5270
+  },
+  {
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards",
+   "member_id": 4125
+  },
+  {
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire",
+   "member_id": 5249
+  },
+  {
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North",
+   "member_id": 5143
+  },
+  {
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East",
+   "member_id": 5210
+  },
+  {
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education",
+   "member_id": 4653
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Neil O'Brien (Harborough, Oadby and Wigston) (Con)",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I beg to move amendment 85, in clause 51, page 111, line 7, after “authorities” insert “, including academy trusts,”.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "With this it will be convenient to discuss the following: Amendment 48, in clause 51, page 112, line 4, at end insert— “(5) After section 7A (withdrawal of notices under section 7), insert— “7B New schools to allocate no more than half of pupil places on basis of faith A new school for which proposals are sought by a local authority under section 7 must, where the school is oversubscribed, provide that no more than half of all places are allocated on the basis of or with reference to— (a) the pupil’s religious faith, or presumed religious faith; (b) the religious faith, or presumed religious faith, of the pupil’s parents.””. Clause stand part.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Sir Christopher. I will begin by asking a question up front, so that the Minister has time to confer with officials if she needs to in order to reply. We learned during the debate on clause 50 that, as well as existing schools, local authorities will be able to go to the schools adjudicator regarding school openings. Will a local authority be able to object to the published admissions number of a school in another local authority, or is it limited to schools within its own area? Possible answers are: yes, they will be able to object about another authority; no, they will not be able to; or, the Government have not decided yet. As drafted, the Bill does not tell us what the Government’s intent is. I will now speak to our amendment 85 and clause 51. Local authorities can already establish local authority schools if there is really no one who wants to start a new school, although, as the Government’s notes to the Bill rightly say, the current legal framework for opening new schools is tilted heavily towards all new schools—mainstream, special, and so on—being academies. As we have discussed, clause 44 repeals the requirement to turn f",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Ian Sollom (St Neots and Mid Cambridgeshire) (LD)",
+   "member_id": 5096,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Sir Christopher. Broadly, the Liberal Democrats welcome clause 51 and its counterpart, not least because we desperately need new special schools. The previous Government approved fewer than half of the 85 applications from councils to open SEND free schools in 2022. This is a real part of unblocking that, so we agree with the Government. We tabled amendment 48 because a potential loophole is created in the now well-established rules on faith-based selection. Those rules apply to academies and will continue to do so, but under clause 51 not all new schools will be academies. The amendment would bring all new schools into line with the current established principles of faith-based selection for academies. It is a very simple amendment. I think the error was made inadvertently during drafting, and hopefully the Government will support it.",
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire"
+  },
+  {
+   "who": "Lizzi Collinge (Morecambe and Lunesdale) (Lab)",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "I rise to speak to clause 51, because there are some points I wish to raise about this part of the Bill allowing new schools to have 100% faith selection. Clause 51 allows new schools to be opened without ideological restrictions on their type; they could be academies, community schools or voluntary aided schools, which in my view is extremely welcome; but it also creates the ability to open new 100% faith-selective schools, which worries me. The current 50% cap on faith selection for academies was introduced by the Labour Government in 2007, and further embedded into free schools in 2010 by the coalition Government. The Education Act 2011 mandated that all new schools must be free schools, extending the cap’s reach. That 50% limit was supported by all three main parties. A scheme of local authority competitions similar to the one proposed in the clause operated from 2007 to 2012, in which we saw 100% faith-selective schools open. For example, Cambridgeshire county council ran a competition for a new school in which a 100% selective Church of England school won out over a proposal for a school with no religious character; the resultant school opened in 2017 and is still 100% faith ",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I rise to speak to amendment 48, which stands in the name of the hon. Member for Twickenham. There are two main reasons people seek to limit school admissions on the basis of faith. The first is that some people do not like religion, organised religion, or the involvement of the state with organised religion. That is a matter of belief for some people. The second is that it is sometimes said that faith-based admission policies shut out others from good schools. There is sometimes a sense that it is academic or social selection by the back door. The hon. Member for Morecambe and Lunesdale alluded to that. Some people—I am not saying this is the case with the hon. Lady—talk about the second issue when really they have in mind the first. One can be a proxy for the other.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Lizzi Collinge",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "Will the right hon. Gentleman give way?",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Before the hon. Lady corrects me, I did not say she was doing that.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Lizzi Collinge",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "I do not wish to correct the right hon. Gentleman. I believe he is correct that the two get confused. I have both of those beliefs.",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I know! [ Laughter. ]",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Lizzi Collinge",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "However I am very clear the evidence I am quoting is on the second of those. I would happily provide the right hon. Gentleman with the sources of evidence, should he like to peruse them.",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I understand, acknowledge and respect what the hon. Lady says but, believe me, I do not need to see any more evidence on this subject, on which I have in my time perused large volumes. It is one of those issues—we talked the other day about another one—where the answer one wants can be found in the data. Let us step back a moment. All liberal democracies permit freedom of religious belief, but the way it manifests is different in different countries. There can be an approach such as that in the United States or in France, where secularism in education is written into law or the constitution. We in this country have taken a different approach. We have always allowed denominational schools. In fact, we have not just “allowed” it; denominational schools and faith schools have always been a key part of the system. The biggest name in primary education in Britain is the Church of the England; the biggest name in secondary education in England is the Catholic Church. It is not just in education that our country has this tradition. In international development, for example, the Government work closely with organisations such as Christian Aid, World Vision and the Catholic Agency for Overs",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Lizzi Collinge",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "Does the right hon. Gentleman agree that the question of schools having a faith element, being run by a Church or by any faith group, is different from the question of whether, in their admissions policy, a school may discriminate against one child and in favour of another based on the professed faith of their parents? Does he agree that those are two separate issues?",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "They are different but related issues. For the avoidance of any confusion, when we talk about schools being “run” by a Church, there was a time when clerics ran schools, but things are not really done in that way today. Some of the top-performing schools in the country are denominational schools with faith-based admissions. There are some very poor-performing faith schools and some brilliantly performing non-faith schools, and obviously it varies from year to year, but on average, faith schools tend to slightly outperform the average. The hon. Lady can correct me if I am wrong, but there is a feeling that this is where she and others get the idea that that is possible only if there was some unfairness in the intake of children the schools accept.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Lizzi Collinge",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "Will the right hon. Gentleman give way?",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I suppose, having said that the hon. Lady can correct me, I cannot really stop her.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Lizzi Collinge",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "The right hon. Gentleman is being very generous with his time. It is not a belief that the profile of faith schools is different from other schools: it is true. If we look at the rates of free school meals and the wealth profile of parents and compare them with peers—if we compare apples with apples—the data shows that. Does he recognise that?",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "As I said earlier, there are all manner of datasets. I do not have my full Excel complement with me today, but I can trade with the hon. Lady and counter what she said with other statistics. In particular, anybody who suggests that the intake of a Catholic school is higher up the socioeconomic scale than the average does not know a whole lot about the demographics of the Catholic population in this country. We have a remarkable amount of ethnic diversity because of immigration patterns. By the way, there is no such thing as 100% faith selection; that happens only if a school is oversubscribed. If a state-funded school has spare places, at the end of the day, it is obliged to let anybody come along. However, if a school is oversubscribed and we lose the faith admissions criterion, the nature of the school will change. That goes to the heart of the hon. Lady’s question. There is something intrinsic to having a faith designation and a faith ethos in a school. Some people—I accept that the hon. Lady is not one of them—believe that such things contribute to what happens to those children, their education and their wellbeing, and they are reflected even in that small average premium in t",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I am listening carefully to the right hon. Gentleman’s excellent speech. Amendment 48 does not seek to prevent faith schools from opening. It would simply apply the cap to any type of school—academy, maintained, voluntary aided or whatever. For me, the main driver for that safeguard is social cohesion and ethnic diversity. We have talked a lot about Church schools, but there are other faiths that seek to set up schools in certain areas of the country where, without the cap in place, they would not get much racial diversity. That is worrying for community cohesion. I say that as somebody who has a strong personal faith. I send both my children to a Church of England school—mainly because it is in front of my house, so they can leave the house 30 seconds before the gate shuts—but I feel uncomfortable with its level of faith selection. As we heard in oral evidence from Nigel Genders, it is important that state-funded schools be for the whole community and be open to everyone.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "That is a view. It is a perfectly legitimate view that some people hold, but it is not a view that I hold, nor is it a view that we have held historically in this country. Going back to 1944, to 1870 and even further, we have said that we believe in diversity of provision. That includes the Church of England and the Catholic Church, but it also includes other faiths. Some of the top-performing schools in the country are Jewish schools or Muslim schools.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I think the right hon. Gentleman thinks I am arguing that we should abolish faith schools. I have not made that argument. He is saying that this is not how we have done things in this country, but since the coalition and before, we have had a 50% faith cap. All the amendment seeks is clarity in legislation that that 50% faith cap will remain in place for any new school that opens. I realise that it was the Liberal Democrats who forced the Conservatives to put the cap in place for free schools, which is probably why the right hon. Gentleman will oppose me. For me, it is about social cohesion and about honouring the fact that we should serve all our communities. I am not opposing the establishment of new faith schools; I am just saying that they should have a cap of 50% on faith-based admissions.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I assure the hon. Lady that on this occasion I am not holding her Liberal Democrat party membership card against her. That is not the basis on which I am making these points. The hon. Lady said that whatever type of school opens, it should have a 50% cap. By definition, there is no such thing as a VA school with a 50% cap, because being a voluntary aided school means having control over admissions in that way. It is not true that we have necessarily had the 50% cap all the way through; I point to the VA school that opened in her very constituency, and there have been others since then. The reason why only a small handful of VA schools have opened over the past couple of decades is that there was no money for it. To get money to open a school, it had to be a free school. In 2018-19, the then Secretary of State, fine fellow that he was, created a small capital fund for the voluntary aided schools capital scheme. The reason related to patterns of immigration, particularly Polish and eastern European immigration. In the old days, it was Irish immigration—that is where I come from—but there have been many other waves from different places. As a result of eastern European immigration, th",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Darren Paffey (Southampton Itchen) (Lab)",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Sir Christopher. I rise to support clause 51 and to question the nature of the amendments. The block on new local authority-run schools could only have been introduced for ideological reasons. Its removal is hugely welcome. If one model were of substantially better quality than the other, there might be a basis for such a block, but the facts speak for themselves: that is not the case. There is now a statistically negligible difference between the number of good and outstanding academies and the number of good and outstanding schools of other models, including local authority schools. It is plain for all to see that they are as good as each other, so the argument no longer holds water that one model is worse than the other and that legislation is therefore needed to block it. I fully relate to the experience mentioned by the hon. Member for St Neots and Mid Cambridgeshire, where the only option is a free school application that then gets shut down. In my Southampton constituency, we put forward an excellent bid—all the advice throughout the process deemed it excellent—for a free special school. We are all painfully aware of the need f",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "The Minister for School Standards (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for Harborough, Oadby and Wigston for tabling amendment 85. When a local authority thinks that a new school is needed in its area, it will be required to seek proposals for a new school from proposers other than local authorities. That includes academy trusts, as well as other bodies such as charitable foundations and faith bodies. Local authorities will be required to seek proposals for different types of school, including academy schools, foundation schools and voluntary schools. I appreciate that the hon. Member may be looking for assurance that proposals for new academies will be sought and welcomed as part of the new invitation process. I can absolutely reassure him on that. We are simply ending the presumption that all new schools should be academies and allowing proposals for all types of school, so that the proposal that best meets the needs of children and families in an area is taken forward. All types of schools have an important role to play in driving the high standards that we want to see in every school, so that all children are supported to achieve and thrive. I thank the hon. Member for Twickenham for tabling amendment 48, which seeks to res",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I beg to ask leave to withdraw the amendment. Amendment, by leave, withdrawn. Amendment proposed : 48, in clause 51, page 112, line 4, at end insert— “(5) After section 7A (withdrawal of notices under section 7), insert— ‘ 7B New schools to allocate no more than half of pupil places on basis of faith A new school for which proposals are sought by a local authority under section 7 must, where the school is oversubscribed, provide that no more than half of all places are allocated on the basis of or with reference to— (a) the pupil’s religious faith, or presumed religious faith; (b) the religious faith, or presumed religious faith, of the pupil’s parents.’”— (Ian Sollom.) Question put, That the amendment be made.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "With this it will be convenient to discuss the following: Clauses 53 and 54 stand part. Schedule 2 stand part. Clause 55 stand part.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Clause 52 requires local authorities to publish proposals when they want to open a new maintained nursery school. It also sets out the circumstances in which local authorities or other proposers can publish proposals for other new schools outside of the invitation process described in clause 51. Local authorities will be able to publish proposals for a new community, community special, foundation, or foundation special school to replace one or more maintained schools, or to establish a new pupil referral unit to replace one or more pupil referral units. They will not be required to follow the invitation process unless they choose to, or they have already launched an invitation process that they could publish the proposals in response to. It also allows other proposers to propose the establishment of a new foundation, voluntary or foundation special school at any time, unless there is a live invitation process that the proposals could be submitted in response to. Local authorities and other proposers will not need to obtain the Secretary of State’s consent before publishing proposals, as they do now in certain circumstances. The clause also enables regulations to set out the action ",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "With this it will be convenient to discuss the following: Clauses 57 and 58 stand part. Amendment 11, in clause 59, page 115, line 18, at end insert— “(2A) Section (Abolition of common law defence of reasonable punishment) comes into force at the end of the period of twelve months beginning with the day on which this Act is passed.” This amendment is consequential on NC10. Clauses 59 and 60 stand part. New clause 10— Abolition of common law defence of reasonable punishment— (1) The Children Act 2004 is amended as follows. (2) In section 58 (Reasonable Punishment: England), omit subsections (1) to (4). (3) After section 58, insert— “58A Abolition of common law defence of reasonable punishment (1) The common law defence of reasonable punishment is abolished in relation to corporal punishment of a child taking place in England. (2) Corporal punishment of a child taking place in England cannot be justified in any civil or criminal proceedings on the ground that it constituted reasonable punishment. (3) Corporal punishment of a child taking place in England cannot be justified in any civil or criminal proceedings on the ground that it constituted acceptable conduct for the purposes of a",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Clause 56 contains a provision for the Secretary of State to make changes consequential on the provisions of the Bill to other legislation, as well as to existing primary legislation. It has been drafted to allow the Secretary of State to make consequential changes to other Acts preceding this Bill or those that are passing before Parliament in this Session. It is always possible that necessary changes to legislation may be identified after a Bill’s passage. Given the breadth of legal areas that the Bill covers, it is prudent to provide a failsafe should anything have been missed. Without one, there is a risk to the coherence of the legislative landscape that the Bill creates. The clause sets out that regulations making changes to primary regulation are subject to the affirmative procedure, and that those making changes to other legislation are subject to the negative procedure. Clause 57 contains a financial provision necessary to the provisions of the Bill that require expenditure. It sets out the expectation that Parliament will fund any expenditure and any future increase in it incurred by the Secretary of State in relation to this Bill. Clause 58 sets out the territorial exten",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I rise to speak only to clause 56, which is a big old Henry VIII power. I am sure that their lordships will want to explore it in detail. In the interests of time, I have not tabled an amendment to it at this stage and I will not go into lots of detail, but it is always important to note such things. It is no small thing to give the Government the power to amend primary legislation without coming back to the House. Of course, there are certain limits to what they could do by means of such measures, but it is a big deal. I place it on the record that the Minister will be well aware of some of the concerns about the clause that are coming to us from civil society. I am sure that she will have seen the comments from Jen Persson, the director of Defend Digital Me, on the information powers in the Bill. When we make laws in this way, it relies on someone noticing and raising an objection to Parliament to get any kind of democratic debate, and we can only stop such things in hindsight. As the Minister will know, Defend Digital Me has put forward 30 different areas and proposals that it has concerns about, particularly on the information side. On previous clauses, we debated the constant ",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I rise to speak in support of new clause 10, adding the Liberal Democrats’ support for putting equal protection into law for children. I do not understand why we would have a different level of protection for adults versus children. They are the most vulnerable children in our society. The Children’s Commissioner and the National Society for the Prevention of Cruelty to Children have been very clear that children should be protected. This is not seeking to interfere with parents in terms of how they discipline their children; it is about protecting our most vulnerable. The Children’s Commissioner has strongly called for this, particularly in the wake of the tragic case of Sara Sharif. I really hope, when the Minister says that the Government will actively look at this during this Parliament, that that is the case. I suspect that there are Members in all parts of the House—I note that the new clause has cross-party support—who will continue to press her on this matter, because it is a basic issue of children’s rights and equal protection in law.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Ellie Chowns (North Herefordshire) (Green)",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Sir Christopher. I rise to speak to demonstrate the cross-party support that has already been referred to for new clause 10 and consequential amendment 11 in the name of the hon. Member for Lowestoft (Jess Asato), and I would like to start by congratulating and thanking her for her important work on this issue over many years. Giving children equal protection from assault cannot happen soon enough. Although we tabled amendment 11 as a probing amendment, I cannot urge the Government strongly enough to grasp this opportunity, in this Bill on children’s wellbeing, to take this forward and put it into law. Taking the essential step of giving children equal protection from assault has very widespread support not only among the general public, but among all sorts of organisations that advocate and work on behalf of children, including the NSPCC, the Royal College of Paediatrics and Child Health, the Parenting and Family Research Alliance and the Children’s Commissioner, to name just a few. We heard from the Children’s Commissioner herself in oral and written evidence just how strongly she feels about this matter. I share her view that it",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I will respond initially to the question raised by the hon. Member for—",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Harborough, Oadby and Wigston. “Harborough” is fine.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "On clause 56, it is always possible that necessary changes to legislation might be identified through a Bill’s passage. As I said, it is therefore prudent to have a failsafe should anything have been missed. This power is limited and narrow: it can be used only to make amendments that are consequential on the Bill’s provisions, which will be voted on, and it is in line with usual practice. Regulations made under the power that amend or repeal any provision in primary legislation will be subject to parliamentary scrutiny. We have carefully considered the power, and we believe that it is entirely justified in this case. It is needed to ensure that we are able to deal with the legislative consequences that may flow naturally from the main provisions and ensure that other legislation continues to work properly following the passage of the Bill.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Will the Minister allow me?",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Well—yeah.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I have never been so warmly welcomed. [ Laughter .] We talked a few sittings ago about the NHS number and the database of children, and there are a lot of wide-open questions about the scope of that. Is that all children? How will it be used? In turn, that could potentially affect a lot of other pieces of legislation. Bearing in mind the massive controversies we have had in this country in the past over ID cards, privacy and so on, will the Minister write to the Committee setting out specifically what some of the issues in relation to that might be? We do not want find ourselves having agreed to do something that we did not realise we were agreeing to do.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I think I can assure the right hon. Gentleman that that is not the case. The inclusion of similar powers is common and well-precedented in legislation. Powers to make consequential amendments can be found in several other Government Bills, such as the Renters’ Rights Bill and the Employment Rights Bill, as well as in Acts presented under the previous Administration, such as the Health and Care Act 2022, which I am sure the right hon. Gentleman is fully supportive of. I turn to new clause 10 and the contributions from hon. Members. I absolutely appreciate the case that is being made, which is why we are open-minded on the issue, but we do not intend to bring forward legislation imminently. The hon. Member for North Herefordshire spoke about the successful implementation in Wales. I am interested in how she knows that to be the case, because we are awaiting the publication of the impact assessment. We are very keen that legislation is evidence-based and has its intended effect. That is why we are waiting for the evidence that will come from Wales. The hon. Member mentioned a number of international examples. I have an example from New Zealand, which removed the reasonable punishment ",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Ellie Chowns",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "There are two points that I would want to make. Is the Minister really arguing that whether we should protect children from violence depends on whether an impact assessment shows that there are a certain number of prosecutions or whatever? Is this not about the fundamental equality of protecting children in the same way that we give adults legal protection against assault? Secondly, the impact of giving that equal protection is surely not something that should be measured in the sense of how many prosecutions there have been over how many years. This is not about getting more prosecutions; it is about shifting the culture as a whole to recognise that there is no justification for violence against children—none.",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Keeping children safe could not be more important, and it could not be a greater priority for this Government. The question is how that is best achieved. That is the evidence that we are awaiting from Wales—to see how impactful the change made there has been. I will give another example, from the Republic of Ireland, which removed the reasonable punishment defence in 2015. There is limited data on the impact, but a poll in 2020 suggested that a relatively high acceptance of slapping children remained. Absolute clarity and an evidence-based approach is what the Government seek to take. That is why, within this legislation, we have absolutely prioritised real, tangible measures, which we can put into practice without delay, to significantly improve the chances of any harm coming to children being minimised. I listed those measures in my opening response on this clause. As the law stands, quite frankly, any suggestion that reasonable punishment could be used as a defence to serious harm to a child, or indeed death, as has been asserted, is completely wrong and frankly absurd.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Ellie Chowns",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "The Minister cited an example from Ireland. I do not think anybody is arguing that abolition of the defence of reasonable punishment will, in and of itself, stop all violence against children, but we are arguing that it is an important component of what must be done to stop violence against children. The Children’s Commissioner and all the other people I have cited have made very powerful arguments to that effect. Professionals working in the sector have talked about how the ambiguity of the current law is actively unhelpful to them in offering support and intervention to families in which this might be an issue. Going back to the point about needing to wait for an impact assessment, does the Minister think there is any universe in which it could be more beneficial for children to keep the defence of reasonable punishment than it would be to abolish it? Surely it is logical to expect that ensuring equal protection for children will move things in a better direction, alongside all the family support required to make a sustainable long-term change.",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "As I have said, we need to wait and look at the evidence before making such a significant legislative change. The protection of children is critical. The Bill takes significant steps to improve safeguarding. The context in England is different from Scotland and Wales. Therefore, the changes would need to be considered very carefully in the light of the evidence and how they would tangibly impact the protection of children in England. We are awaiting the impact assessment and will take action accordingly. Abusive parents are caught under the existing legislative framework. The challenge in this area is that parenting is complex. I can attest that it is one of the most difficult jobs anyone can do. Parents know their children, and they want to get it right with their children. As the hon. Member for North Herefordshire acknowledges, parenting programmes and support is what we are focused on. We are putting in place support for parents to be good parents, because that is what the vast majority want to be. When that is not their intent, there are laws in place to prevent harm from coming to children. I absolutely accept the arguments being put forward today. We have an open mind and wi",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "I call the Minister to move amendment 93 to clause 59 formally.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Are you sure?",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "It is on the amendment paper—it is there for all to see. We debated it in a previous group, and I presume the Government now want to support it. If everybody is happy, I will call the Minister to move amendment 93 formally. Amendment made: 93, in clause 59, page 115, line 17, leave out paragraph (h) and insert— “(h) section (Pay and conditions of Academy teachers) and Schedule (Pay and conditions of Academy teachers: amendments to the Education Act 2002) other than paragraph 6 of that Schedule; (ha) section 46;”— (Catherine McKinnell.) This amendment is consequential on Amendment 92 and NC57. Clause 59, as amended, ordered to stand part of the Bill. Clause 60 ordered to stand part of the Bill. New Clause 6 Care leavers not to be regarded as becoming homeless intentionally “(1) In section 191 of the Housing Act 1996 (becoming homeless intentionally)— after subsection (1) insert— ‘(1ZA) But a person does not become homeless intentionally in a case described in any of subsections (1A) to (1C).’; in subsection (1A), for the words before paragraph (a) substitute ‘The first case is where—’; after subsection (1A) insert— ‘(1B) The second case is where the person is a relevant child within",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I beg to move, That the clause be read a Second time. As I am sure colleagues will be all too aware, homelessness levels are far too high. Homelessness can have a devastating impact on those affected. The Government are determined to address that and deliver long-term solutions to get us back on track to ending homelessness. Care leavers are particularly vulnerable to becoming homeless, with the number of care leavers aged 18 to 20 becoming homeless rising by a shocking 54% in the past five years. Young care leavers are also more likely to be found to have become intentionally homeless by local authorities, meaning that local authorities are not required to secure them settled accommodation. This Government take corporate parenting seriously, and recognise the key role that local authorities play in providing care, stability and support to care leavers—like any parent would. We are introducing the new clause to ensure that, where a council is their corporate parent, no care leaver can be found to have become intentionally homeless. [ Official Report, 3 March 2025; Vol. 763, c. 5WC.] (Correction) This is an essential step to ensure that those care leavers are not held back by their ",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Catherine Atkinson (Derby North) (Lab)",
+   "member_id": 5143,
+   "type": "Contribution",
+   "text": "Become, the charity for children in care and young care leavers, strongly welcomes the new clause, as does the YMCA, which supports around 1,000 care leavers a year with housing. In its written evidence to the Committee, Become pointed to a freedom of information request that it submitted to all tier 1 local authorities in England last year, which showed real variation in whether they disapplied homelessness intentionality assessments for care leavers. Become provided examples of hearing from care-experienced young people who have been assessed as intentionally homeless for moving away to university, not keeping in touch with their personal advisers or turning down offers of accommodation that was not appropriate for them. That contradicts local authorities’ duties as corporate parents, and contributes to the disproportionate risk of homelessness that care-experienced young people are subject to. I thank Become for its evidence, which provides powerful insight and an argument in support of the new clause. I hugely welcome it being added to the Bill.",
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Will the Minister confirm that the new clause will also apply to the small group of young people who are leaving the young justice system and returning to their home area?",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Darren Paffey",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "Briefly, I warmly welcome the new clause. Colleagues will be aware of my interest in this area. From years of working alongside those who fall foul of laws and principles on paper that they never see, but that make a material difference to their lives and outcomes, I know that this will be a positive change. It builds on years of work, including not only the work of various charities already mentioned by my hon. Friend the Member for Derby North, but the work of my hon. Friend the Member for Whitehaven and Workington (Josh MacAlister) and no doubt countless others, and will be warmly welcomed. I am excited to be able to report to those in my constituency on the work of this Government in making sure that care leavers have better outcomes. I look forward to working with Ministers in the future to work out how we can get from this point to other areas that will make a positive material difference to their lives.",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I thank hon. Members for their contributions, and absolutely agree on the importance of this measure and the difference it will make to children and young people as they move into the sometimes challenging transition to adulthood, having experienced care and on leaving care. In response to the question from the right hon. Member for East Hampshire, the amendment will impact children classed under the Children Act 1989 as relevant children or former relevant children who present for homelessness assistance. That would cover young people aged 16 to 24 who have been looked after by a local authority for a period of at least 13 weeks, or periods that amount to 13 weeks, since their 14th birthday, at least one day of which must have been since they attained the age of 18. [ Official Report, 3 March 2025; Vol. 763, c. 6WC.] (Correction) The answer to the right hon. Gentleman’s question would, therefore, be subject to those parameters, but I imagine that in most cases it would apply to young people leaving the criminal justice system. He is right to raise that as a concern. Indeed, the purpose of the measure is to disapply the intentional homelessness test for care leavers who are within ",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Tom Hayes (Bournemouth East) (Lab)",
+   "member_id": 5210,
+   "type": "Contribution",
+   "text": "I was struck by recent data that shows that care leavers are particularly vulnerable to homelessness, as we have heard in this Bill Committee. Latest Government data show that the numbers of care leavers aged between 18 and 20 becoming homeless have increased by 54% over the past two years. Can the Minister outline how this very welcome measure will enhance and strengthen joint working between the children’s and housing departments, and outline a bit more some of the impacts of homelessness on care-experienced people and care leavers?",
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend makes an important point. It is worth looking at the data: in 2023-24 there were up to 410 households that included a care leaver who was found to be intentionally homeless. We appreciate that disapplying the intentional homelessness test means that local authorities will have much greater scope and ability to work with these young people and to support them into a more secure adult life. That clearly involves having a secure home, so I hope that hon. Members are willing to support this clause. Question put and agreed to . New clause 6 accordingly read a Second time, and added to the Bill. New Clause 57 Pay and conditions of Academy teachers “Schedule (Pay and conditions of Academy teachers: amendments to the Education Act 2002) amends Part 8 of the Education Act 2002 (teachers’ pay and conditions etc) in relation to the pay and conditions of teachers at Academies (other than 16 to 19 Academies). Part 8 of the Education Act 2002” . — (Vicky Foxcroft.) This clause replaces Clause 45 and introduces the schedule to be inserted by NS1. Brought up, read the First and Second time, and added to the Bill. New Clause 1 Implementation of the recommendations of the Independent ",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I beg to move, That the clause be read a Second time. I rise to speak to the new clause, tabled in my name and in the name of a number of my colleagues. Briefly, it goes without saying that, on all sides of the House, we are horrified by child sex abuse and what Professor Alexis Jay uncovered through her seven-year-long investigation. We are also horrified that so little progress has been made to date in implementing the 20 recommendations she set out. The new clause therefore seeks to create a legislative commitment, with clear timescales and regular reporting to Parliament, on progress in implementing that report. It is an attempt to approach the issue constructively. I was disappointed, to put it mildly—in fact, pretty outraged—that Conservative colleagues sought to weaponise the issue on Second Reading to try to kill off the entire Bill. I hope that this is a much more constructive approach. However, I recognise that shortly after my tabling the new clause following Second Reading, the Government made further announcements, including that Baroness Casey will undertake a rapid review and that they will be setting out a timetable. On that basis, I am happy to withdraw the new cla",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Ellie Chowns",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "I rise to speak in support of the new clause, while recognising what the hon. Lady who tabled it has just said. In doing so, I am particularly mindful of a constituent of mine who came to see me in January to tell me that she had given evidence to the independent inquiry into child sexual abuse. Frustrated does not even cover how she felt—she was incredibly upset at the lack of progress on implementation under the previous Government, and she was frustrated to find that progress now is still not fast enough. We have a huge responsibility to all who suffer child sexual abuse, and in particular to those who have been brave enough to come forward and give evidence, trusting that that evidence would help to make changes. I hope that the Minister can clarify timetables for implementation.",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "As the Prime Minister has made clear, we are absolutely focused on delivering justice and change for the victims on this horrific crime. On 6 January, the Home Secretary outlined in Parliament commitments to introduce a mandatory duty for those engaging with children to report sexual abuse and exploitation, to toughen up sentencing by making grooming an aggravating factor and to introduce a new performance framework for policing. On 16 January, the Home Secretary made a further statement to the House that, before Easter, the Government will lay out a clear timetable for taking forward the 20 recommendations from the final IICSA report. Four of those were for the Home Office, including on disclosure and barring, and work on those is already under way. As the Home Secretary stated, a cross-Government ministerial group is considering and working through the remaining recommendations. That group will be supported by a new victims and survivors panel. The Government will also implement all the remaining recommendations in IICSA’s separate, stand-alone report on grooming gangs, from February 2022. As part of that, we will update Department for Education guidance. Other measures that the ",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I beg to ask leave to withdraw the motion. Clause, by leave, withdrawn. New Clause 2 Provision of free school lunches to all primary school children “(1) Section 512ZB of the Education Act 1996 (provision of free school lunches and milk) is amended as follows. (2) In paragraph (4A)(b), after ‘year 2,’ insert ‘year 3, year 4, year 5, year 6’. (3) In subsection (4C), after ‘age of 7;’ insert— ‘“Year 3” means a year group in which the majority of children will, in the school year, attain the age of 8; “Year 4” means a year group in which the majority of children will, in the school year, attain the age of 9; “Year 5” means a year group in which the majority of children will, in the school year, attain the age of 10; “Year 6” means a year group in which the majority of children will, in the school year, attain the age of 11;’” — (Ellie Chowns.) This new clause would extend free school lunches to all primary school age children in state funded schools. Brought up, and read the First time.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Ellie Chowns",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "I beg to move, That the clause be read a Second time. New clause 2 would extend the provision of free school lunches to all primary school children, from year 2 up to year 6. It was tabled in the in the name of the hon. Member for Stroud (Dr Opher)—I thank him for his work on this—and has been supported by 43 hon. Members across the House. In addition to this high level of support from MPs, the No Child Left Behind campaign, which underpins new clause 2, is backed by more than 250 civil society leaders, from unions to charities, from medical bodies to faith leaders, and from mayors to councils. This widespread backing is unsurprising, because the case for universal free school meals is, in fact, overwhelming. Let us start with the need, which is acute. I am sure colleagues remember how during the pandemic Marcus Rashford ignited the campaign for free school meals, pointing out that we could fill 27 Wembley stadiums with the 2.5 million children who were struggling to know where their next meal was coming from—a shocking indictment. That shameful legacy of child poverty from the last Government continues, with hunger in schools still endemic. University of Bristol research shows tha",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Briefly, I very much support the ambition in this new clause. After all, it was the Liberal Democrats, in Government, who introduced universal infant free school meals; we have always had the long-term ambition of extending that to all primary school children. However, I recognise the cash-constrained environment that the Government are operating in. That is why, when we get to it, I will be speaking to new clause 31, which looks at increasing the eligibility for children to receive free school meals. However, I want to put on the record that we do support the intent of this provision in the long term, for all the reasons the hon. Lady has just laid out.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Stephen Morgan)",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Sir Christopher. I turn to new clause 2, tabled by my hon. Friend the Member for Stroud (Dr Opher), on the important topic of expanding eligibility for free school meals, specifically universal provision, which the hon. Member for North Herefordshire has moved today. Under the current programmes, all pupils in reception, year 1 and year 2 in England’s state-funded schools are entitled to universal infant free school meals. That benefits around 1.3 million children, ensuring that they receive a nutritious lunch-time meal. In addition, 2.1 million disadvantaged pupils—24.6% of all pupils in state-funded schools—are eligible to receive benefits-based free school meals. Another 90,000 16 to 18-year-old students in further education are entitled to receive free school meals on the basis of low income. Those meals provide much-needed nutrition for pupils and can boost school attendance, improve behaviour and set children up for success by ensuring that they can concentrate and learn in the classroom and get the most out of their education. In total, we spend over £1.5 billion on delivering free school meal programmes. Eligibility for ben",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Lizzi Collinge",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "Does my hon. Friend agree that the value of school meals is much more than the nutrition that they give, and even more than children’s educational achievement when they are properly fed? It is also about building a set of behaviours, a sense of community and an ability to interact with others. It is absolutely vital that when children sit down for a school meal or a packed lunch, that is part of their social development.",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I know my hon. Friend is a real champion of children and young people in her constituency, and she is absolutely right. When I visit schools across the country, I see the benefits of school meals. Not only do children sit and eat together, but they learn how to use a knife and fork. She is absolutely right to point out the wider benefits that the free school meal programme brings. The number of children in poverty has increased by over 700,000 since 2010, with more than 4 million now growing up in low-income families. We are committed to delivering on our ambitious strategy to reduce child poverty by tackling its root causes and giving every child the best start in life.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Tom Hayes",
+   "member_id": 5210,
+   "type": "Contribution",
+   "text": "So eager am I to find out which schools in my area are the early adopters that I am currently on a little coach trip around all of them. I have visited four in the last seven days, and I have spoken to people about their experiences and aspirations under this Labour Government. It is brilliant to speak to teachers who now feel that there is light at the end of the tunnel—teachers who have held on for so long in recent years, hoping things will get better. With a change of Government, they now have a change of education policy, and the provision of free breakfast clubs is a true indicator of that. Teachers say that they want to go further and faster with the provision of breakfast clubs, but they also realise that they need to take time to get it right. Although I obviously welcome the intent of my hon. Friend the Member for Stroud, I believe that moving forward with free breakfast clubs and free school lunches could put too great a strain on schools at this point, because I recognise that the roll-out of free breakfast clubs is restricted to early adopters in the first phase.",
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I know my hon. Friend is a real champion of children and young people in his constituency, and of the Government’s ambitions on breakfast clubs. I hope that he will work closely with schools in his constituency as we roll out breakfast clubs in his patch and, indeed, across the country. He makes a number of really important points about the vital need to get the infrastructure in place for free school meals. We know that that is some of the learning from the work that the London Mayor has been doing.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I want to ask the Minister about two things. First, he talks about the disadvantage gap widening at the present time. Entirely coincidentally, I happen to have the numbers on key stage 2 and key stage 4. Of course, there are different ways that we can measure these things. I am looking at what is known as the “disadvantage gap index” for key stage 2 and key stage 4. I would be interested to know what definition he is using, from which he concludes that the Government inherited a widening disadvantage gap. The second thing I want to ask him about is free school meal eligibility. We all absolutely recognise the value of free school meals. The Minister mentioned some of the extensions of eligibility that happened under the previous Government. The one that he did not mention was universal credit transitional protection. Even though unemployment came down from 8% to 4.5%, and the proportion of people in work but on low pay halved as a result of the increase to the national living wage, eligibility for free school meals went up, so the incoming Government have inherited one in three children being able to get a free school meal, as opposed to one in six when Labour were last in governme",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I am referring to a persistently high disadvantage gap. I will point out that this Government take child poverty extremely seriously. It is a stain on our society. That is why I am so proud that this new Labour Government have introduced a child poverty taskforce led jointly by the Secretary of State for Education and the Secretary of State for Work and Pensions. We will end child poverty. It is a stain on our society, and we are committed to making sure that we do everything we can and are publishing a strategy in due course. With regard to transitional protections, I say to the hon. Member for North Herefordshire that my Department recognises the vital role played by free school meals and encourages all eligible families that need support to take up that entitlement. To make it as easy as possible to receive free school meals, we provide an eligibility checking service. On transitional protections specifically, we will provide clarity to schools on protections ahead of the current March 2025 end date. The new ministerial taskforce has been set up to develop a child poverty strategy, which will be published in spring 2025. The taskforce will consider a range of policies, including",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Ellie Chowns",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "I welcome what I believe I heard: that the Minister maintains a relatively open mind on this question and will continue to look into it. He said that the effectiveness of the free school meal policy would be evaluated in the light of whether it was an effective mechanism for tackling child poverty. I want to re-emphasise that my arguments are not just about impact on child poverty. In considering expansion of free school meals, will he evaluate their effectiveness in terms of the full range of their potential benefits—not just the impact on child poverty, but health benefits, wider economic benefits and so on?",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "As with all Government programmes, we will keep our approach under review and learn from what the evidence and data tell us. I can assure the hon. Lady that I met with a number of stakeholders, including the London Mayor, to understand the impact that the roll-out in London is having on not only household incomes, but children’s outcomes. The hon. Member for North Herefordshire asked about specific points on the school food standards. It is important that children eat nutritious food at school. The school food standards define which foods and drinks must be provided and which are restricted. They apply to food and drink provided to pupils on school premises and during the extended school day up to 6 pm. As with all Government programmes, we will keep our approach to school food under continued review. The hon. Member for North Herefordshire asked about the sustainable sourcing of food. This Government’s ambition is to source half of all food served in public sector settings from local producers or from growers certified to meet higher environmental standards where possible. We have committed to supporting schools to drive up their sustainable practices on food. Schools can voluntar",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Ellie Chowns",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "I thank the Minister for his response. As I said at the start, I tabled this as a probing amendment and I beg to ask leave to withdraw the clause. Clause, by leave, withdrawn. New Clause 3 Reporting of local authority performance regarding EHC plans “In the Children and Families Act 2014, after section 40 insert— “40A Reporting of local authority performance (1) Local authorities must publish regular information relating to their fulfilment of duties relating to EHC needs assessments and EHC plans under this part. (2) Such information must include— (a) the authority’s performance against the requirements of this Act and the Special Educational Needs and Disability Regulations 2014 relating to the timeliness with which action needs to be taken by the authority in relation to EHC needs assessments and EHC plans; (b) explanations for any failures to meet relevant deadlines or timeframes; (c) proposals for improving the authority’s performance. (3) Information published under this section must be published— (a) on a monthly basis; (b) on the local authority’s website; and (c) in a form which is easily accessible and understandable.”” — (Ian Sollom.) This new clause would require local ",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Ian Sollom",
+   "member_id": 5096,
+   "type": "Contribution",
+   "text": "I beg to move that the clause be read a Second time. I am moving new clause 3 on behalf of my hon. Friend the Member for Chelmsford (Marie Goldman). The Children and Families Act 2014 sets out timeframes for local authorities to decide whether to do an education, health and care plan needs assessment, and then for the resulting education, health and care plan to be issued. Local authorities have six weeks from application to decide whether to carry out an EHCNA, and a total of 20 weeks from application to issue an EHCP. Across England in 2023, however, only 50.3% of EHCPs were issued within that statutory 20-week deadline. Some places perform much worse than that—in Essex, only 0.9% were issued within the 20-week deadline. New clause 3 is about reporting that. Transparency is a first key step in accountability, so publishing local authorities’ performance in relation to those statutory deadlines is the aim of the amendment as that first step. It is essentially a free change because local authorities already have the information gathered, so there should not be any additional resources needed. It could in fact help, because it would cut down on freedom of information requests, for e",
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I totally agree it is vital there is publicly available data regarding local authority performance on EHCPs. That is why we publish annual data on each local authority’s timeliness in meeting their 20-week deadline. Local authorities identified as having issues with EHCP timeliness are subject to additional monitoring by the Department for Education, which works with the specific local authority. Where there are concerns about the local authority’s capacity to make the required improvements, we have secured specialist special educational needs and disabilities adviser support to help identify barriers to EHCP timeliness and put in place practical plans for recovery. Furthermore, when Ofsted and Care Quality Commission area SEND inspections indicate there are significant concerns with local authority performance, the Department intervenes directly. That might mean issuing an improvement notice or statutory direction or appointing a commissioner, deployment of which is considered on a case-by-case basis. We are clear that the SEND system requires reform. We are considering options to drive improvements, including on the timeliness of support and local authority performance. We do not",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I appreciate what the Minister is saying. I agree with her that this is not a silver bullet. This will not suddenly improve the system. This is about transparency and accountability where, as my hon. Friend the Member for St Neots and Mid Cambridgeshire pointed out, there are some councils that are missing the targets by such a long chalk, and is about setting out the reasons for doing so. We know in some areas that frankly NHS partners are not working constructively with local authorities to help deliver EHCPs on time. As the Minister looks at reforming the system—and I know from my discussions with her and the Secretary of State that the Government are working hard on this—could I urge that they seriously consider this provision. It is about transparency and accountability for parents, which I think is really important.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I thank the hon. Lady for that intervention and the hon. Member for St Neots and Mid Cambridgeshire for the way in which he presented this clause. We share the ambition for children with special educational needs and disabilities to get much better service, from their local authority and on their education journey. We recognise there are significant challenges for those who seek to deliver that being able to do so, which is why we are looking at reform in a whole-system way. We are looking to drive mainstream inclusion within our school system and to reduce the waiting times for assessments, which we know is led by the Department of Health and Social Care. This is a cross-departmental effort involving the Ministry of Housing, Communities and Local Government, the Department of Health and Social Care, the Department for Work and Pensions, and clearly the Department for Education has a key role in achieving a much better outcome for children with special educational needs. We absolutely take away the intentions of this amendment, but would appreciate it not being pressed to a vote as part of the Bill. The conversation about special educational needs and improving the outcomes for chi",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Ian Sollom",
+   "member_id": 5096,
+   "type": "Contribution",
+   "text": "I beg to ask leave to withdraw the clause. Clause, by leave, withdrawn. Ordered, That further consideration be now adjourned . —(Vicky Foxcroft.)",
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire"
+  }
+ ],
+ "fetched": "2026-10-21T20:25:13Z"
+}

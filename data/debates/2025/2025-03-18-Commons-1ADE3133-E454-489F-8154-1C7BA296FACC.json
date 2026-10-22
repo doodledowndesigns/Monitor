@@ -1,0 +1,1132 @@
+{
+ "ext_id": "1ADE3133-E454-489F-8154-1C7BA296FACC",
+ "date": "2025-03-18",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Children’s Wellbeing and Schools Bill",
+ "parents": [
+  "Commons Chamber"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2025-03-18/debates/1ADE3133-E454-489F-8154-1C7BA296FACC/ChildrenSWellbeingAndSchoolsBill",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards",
+   "member_id": 4125
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 4391
+  },
+  {
+   "name": "Wendy Morton",
+   "party": "Con",
+   "seat": "Aldridge-Brownhills",
+   "member_id": 4358
+  },
+  {
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness",
+   "member_id": 1482
+  },
+  {
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale",
+   "member_id": 1591
+  },
+  {
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston",
+   "member_id": 4679
+  },
+  {
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood",
+   "member_id": 4510
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire",
+   "member_id": 3969
+  },
+  {
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove",
+   "member_id": 5186
+  },
+  {
+   "name": "Steve Witherden",
+   "party": "Lab",
+   "seat": "Montgomeryshire and Glyndŵr",
+   "member_id": 5221
+  },
+  {
+   "name": "Sarah Smith",
+   "party": "Lab",
+   "seat": "Hyndburn",
+   "member_id": 5117
+  },
+  {
+   "name": "Abtisam Mohamed",
+   "party": "Lab",
+   "seat": "Sheffield Central",
+   "member_id": 5142
+  },
+  {
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner",
+   "member_id": 4872
+  },
+  {
+   "name": "David Baines",
+   "party": "Lab",
+   "seat": "St Helens North",
+   "member_id": 5092
+  },
+  {
+   "name": "Gideon Amos",
+   "party": "LD",
+   "seat": "Taunton and Wellington",
+   "member_id": 5250
+  },
+  {
+   "name": "Ms Julie Minns",
+   "party": "Lab",
+   "seat": "Carlisle",
+   "member_id": 5094
+  },
+  {
+   "name": "Adrian Ramsay",
+   "party": "Green",
+   "seat": "Waveney Valley",
+   "member_id": 5320
+  },
+  {
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale",
+   "member_id": 5225
+  },
+  {
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon",
+   "member_id": 5351
+  },
+  {
+   "name": "Zarah Sultana",
+   "party": "Ind",
+   "seat": "Coventry South",
+   "member_id": 4786
+  },
+  {
+   "name": "Nick Timothy",
+   "party": "Con",
+   "seat": "West Suffolk",
+   "member_id": 5062
+  },
+  {
+   "name": "Steve Yemm",
+   "party": "Lab",
+   "seat": "Mansfield",
+   "member_id": 5194
+  },
+  {
+   "name": "Joe Robertson",
+   "party": "Con",
+   "seat": "Isle of Wight East",
+   "member_id": 5255
+  },
+  {
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow",
+   "member_id": 5237
+  },
+  {
+   "name": "Tim Roca",
+   "party": "Lab",
+   "seat": "Macclesfield",
+   "member_id": 5287
+  },
+  {
+   "name": "Rebecca Smith",
+   "party": "Con",
+   "seat": "South West Devon",
+   "member_id": 5301
+  },
+  {
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole",
+   "member_id": 5327
+  },
+  {
+   "name": "Kim Johnson",
+   "party": "Lab",
+   "seat": "Liverpool Riverside",
+   "member_id": 4824
+  },
+  {
+   "name": "Jodie Gosling",
+   "party": "Lab",
+   "seat": "Nuneaton",
+   "member_id": 5036
+  },
+  {
+   "name": "Mrs Emma Lewell-Buck",
+   "party": "Lab",
+   "seat": "South Shields",
+   "member_id": 4277
+  },
+  {
+   "name": "Richard Foord",
+   "party": "LD",
+   "seat": "Honiton and Sidmouth",
+   "member_id": 4942
+  },
+  {
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education",
+   "member_id": 4046
+  },
+  {
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks",
+   "member_id": 4780
+  }
+ ],
+ "contributions": [
+  {
+   "who": "The Minister for School Standards (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I beg to move, That the clause be read a Second time.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "With this it will be convenient to discuss the following: New clause 1— Free school meals: automatic enrolment of eligible children — “In section 512ZB of the Education Act 1996 (provision of free school lunches and milk), omit subsection (2)(b).” This new clause would remove the requirement in the Education Act 1996 for eligible children to request free school meals of their local authority. New clause 6— Establishment of national school food monitoring scheme — “(1) Within 12 months of the passing of this Act, the Secretary of State must institute a scheme for monitoring school food standards in England (‘the national school food monitoring scheme’). (2) The purpose of the national school food monitoring scheme will be to determine whether applicable food standards duties are being met in the provision of all food in schools in England. (3) The national school food monitoring scheme may from time to time publish reports containing such information as it sees fit relating to school food standards in England.” This new clause would establish a national school food monitoring scheme, to ensure that the breakfast club provision included within this bill, along with all other school f",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I start by thanking hon. Members in all parts of the House for their valuable contribution to the debate so far. The Bill is for children—the clue is in the name. It is for their safety, their education and their future that we bring it forward. This Government are on a mission to break down barriers to opportunity for each and every child, and the Bill is a significant step on that path. I welcome the debate that the Bill has sparked. After a decade in which education was left on the sidelines, Labour is once again bringing it to the fore, and to the centre of national life—the place it always occupies under a Labour Government. Education is at the heart of how we ensure opportunities for the next generation.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Wendy Morton (Aldridge-Brownhills) (Con)",
+   "member_id": 4358,
+   "type": "Contribution",
+   "text": "On the Minister’s point about the last 10, 12 or even 14 years, would she join me in acknowledging that the schools in Walsall borough—a very diverse borough, with areas of real deprivation—outperformed national figures for the first time at the end of last year, with 91% of Walsall schools being graded good or better? That figure has steadily increased under not just a Conservative Government, but a fantastic Conservative-led council.",
+   "name": "Wendy Morton",
+   "party": "Con",
+   "seat": "Aldridge-Brownhills"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I will always share in the celebration of schools that are doing well, and the right hon. Lady is absolutely right to celebrate the schools in her area. I do question, however, the shameless pride we sometimes see in the record of her Government; when they left office, England’s schools were getting worse, standards in reading, maths and science were down, roofs were crumbling, children were struggling, and a generation of children were absent from school. We are determined to tackle those challenges head-on. The education that we provide for our children is not just for their future, but for all of our futures. It shapes society today and the society that we want for tomorrow.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Graham Stuart (Beverley and Holderness) (Con)",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "It is good of the Minister, for whom I have a great deal of respect, to give way. As I know her to be an honest person, will she at least share with the House the fact that schools in England are better today than they were in 2010? Picking some tiny subset of time to make out that schools are deprived is not a fair assessment. Schools are demonstrably better in England today than they were in 2010. Please, Minister, at least acknowledge that.",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I thank the right hon. Gentleman for his kind words and his assumption of my honesty. The fact is that one in three children starting school is not school ready. More than a third of children leave primary school without a firm foundation in reading, writing and maths. The disadvantage gap is widening. I will come on to what we want to achieve as a Government, but we are not satisfied, as Conservative Members appear to be, with leaving some of our children without the start in life that they deserve. We want the best for all our children, and that is what our changes will achieve.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "Will the Minister give way?",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I have given way to the right hon. Member. I will do so again later. It is essential that every child and family has certainty that they can access a good local school—a school that will set high expectations and standards for all our children, enabling them to achieve and thrive. We are bringing forward legislation to achieve our reforms, but there are reforms that we can make for which no legislation is required. We are designing a school system that supports and challenges all schools to deliver for our children. We want a rich and broad curriculum, delivered by expertly trained teachers, who have a good pay and conditions offer that attracts and retains the staff that our children need.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Tim Farron (Westmorland and Lonsdale) (LD)",
+   "member_id": 1591,
+   "type": "Contribution",
+   "text": "In that spirit, will the Minister look at my new clause 30, which calls on the Government to review the effectiveness and value of outdoor education and learning for young people in both primary and secondary schools? We have a mental ill health pandemic in this country and are trying to put that right. Will she acknowledge that building young people’s resilience through outdoor education is good not just for dealing with that, but for building young people’s ability to rely on others and themselves? That helps them in situations in which they are not comfortable, and when they go back to the classroom, they are more willing to learn. Does she see this as a moment in which to invest in outdoor education, in every part of the country?",
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The hon. Gentleman is incredibly committed to that cause—understandably so, as he comes from a part of the country that boasts incredible outdoor scenery, and activities that many of us, I am sure, have taken part in. He is right to want that for all our children. That forms part of the changes that we are introducing today, which will unlock opportunity for all children up and down the country. We want to create a floor, but no ceiling, for what schools can offer, and to enable healthy competition and innovation beyond a core set of frameworks and standards, so that we can improve all schools, and give them the freedom and ability to deliver the enrichment programme for which he so rightly advocates. We want high and rising standards for all children.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Wendy Morton",
+   "member_id": 4358,
+   "type": "Contribution",
+   "text": "Does the Minister not understand that freedom and flexibility can come from allowing a school flexibility over its curriculum?",
+   "name": "Wendy Morton",
+   "party": "Con",
+   "seat": "Aldridge-Brownhills"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Try as the Opposition might to make their straw man argument, this Labour Government will demand high and rising standards for all our children. Recent polls of the profession show that, despite all the scaremongering, trust chief executive officers agree that there is nothing to fear from our sensible, pragmatic and common-sense measures, which will drive standards up in every school. Academies have grown from a Government-backed insurgency in our schools, and now make up well over 50% of our school system. That is not about to change. The shadow Minister will be pleased to hear that conversions to academy status are progressing faster under Labour Ministers than at any time since she joined this House, but it is right to look forward and consider how we will build a system fit for the next 20 years. The Bill is a step on that path. It recognises, in the words of one multi-academy trust leader, that parents deserve clarity and confidence in the standards that their children’s school upholds, and that is what this Government will secure. The Under-Secretary of State for Education, my hon. Friend the Member for Portsmouth South (Stephen Morgan), led yesterday’s debate on part 1 of t",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "Will the Minister reassure home-educating parents that the requirements in the Bill will not be overly onerous? For instance, there is a requirement to record the time that each parent spends educating their child. Is that 24 hours a day, seven days a week, 365 days a year? How exactly would that work? Can she give us some reassurance that this measure can be made manageable and sensible, and will not be disproportionate?",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Parents who are doing the right thing—home-educating their children and providing a suitable education in a safe environment—have nothing to be concerned about in relation to these measures. They are intended to ensure that no child falls through the cracks, and that is what we are delivering.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "I am sure that the Minister intends to ensure that this does not happen, but would someone have to record all the hours and places in a week? I do not know how much the Minister knows about home education, but children are educated in all sorts of places. She has an opportunity at the Dispatch Box to say that she will come forward with regulations to ensure that they do not have to write down every time that they stop at an ice cream shop for some education about the vanilla flavour.",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The amendments that I am addressing relate particularly to information sharing, which clearly the right hon. Gentleman has concerns about. Members on both sides of the House will be all too aware of the succession of tragedies that we have seen when children have fallen between the cracks in services that should be there to support them. The changes in the Bill are a reflection of this Government’s determination to bring that era of state failure to a close. New clause 17 relates to the measures on opening new schools. Part 2 of the Education and Inspections Act 2006, which the Bill is amending, includes a number of relevant duties and powers where personal data might be processed—for example, where a proposal for a new school includes details of the relevant experience of the individual proposers. It makes clear that these powers and duties to give or publish information do not give anyone the right to give or publish personal data in a way that would breach data protection legislation. It applies a data protection override to the whole of part 2 and schedule 2 to the 2006 Act to cover all the information-related powers and duties in relation to opening, closing and altering schoo",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the shadow Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O’Brien (Harborough, Oadby and Wigston) (Con)",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "The Bill does not set out any kind of clear plan or vision for our schools. It does not address the big challenges that need addressing. It is silent on discipline and behaviour—one of the biggest issues. It comes after the Government scrapped simple Ofsted judgments and will be followed by moves to dumb down the curriculum and lower standards further. The Secretary of State has no positive vision. She has axed programmes for advanced maths, physics, Latin and computing because she thinks that they are elitist. She has axed behaviour hubs with no replacement, even though schools that went through the scheme were twice as likely to be good or outstanding. Yet, somehow, she is able to find £90 million for advertising. The Bill is the worst of all. We have tabled numerous amendments to it. It takes a wrecking ball to 40 years of cross-party reform of England’s schools. Those reforms worked. There is much more to do, but England has risen up the international league tables even as Labour-run Wales has slumped down. Under successive Governments of all colours, England’s schools have been improved by the magic formula of freedom plus accountability. The Bill attacks both parts of that fo",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "Like me, my hon. Friend finds these proposals tragic because of the removal of the curriculum freedoms that have allowed schools such as Michaela and Petchey and others all over the country to tailor their curriculum specifically to reach disadvantaged pupils so that they can engage better with their learning and have an achievement that previously they did not have. That door is being closed. I hope that Government Members reflect on this and seek a change of policy, if not in this House, then at least in the House of Lords.",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "My right hon. Friend is completely correct. Some Government Members have reflected on this: the hon. Member for Mitcham and Morden (Dame Siobhain McDonagh) said that the proposal to make it compulsory for academies to teach the national curriculum was of particular concern to her, and she is right. Ministers have never explained what they are trying to solve with this change, but the unions like it, so into the Bill it goes. We have tabled further amendments on qualified teacher status. The Government are getting rid of academy freedoms over recruitment and the freedom to employ non-QTS teachers. Sir Martyn Oliver from Ofsted gave us a good example of how these freedoms are used. He said: “In the past, I have brought in professional sportspeople to teach alongside PE teachers, and they have run sessions. Because I was in Wakefield, it was rugby league: I had rugby league professionals working with about a quarter of the schools in Wakefield at one point..” –– [ Official Report, Children's Wellbeing and Schools Public Bill Committee, 21 January 2025; c. 49, Q108.] Brilliant. The Government’s own impact assessment to the Bill says of this change: “some schools may struggle to find th",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "Does my hon. Friend, like me, reflect on the irony that the success from 2010 to 2024, which we on the Conservative Benches would naturally celebrate, was only possible because of the Labour visionaries who drove the academies programme forward, made changes, developed the argument, rolled the pitch and allowed us to lift our schools to much higher levels of performance and our children from deprived backgrounds to much better results. Labour Members were the creators of that, and now this Government are disowning it.",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "It is tragic. It is not us criticising the Bill; it is the professionals—the people who have given their lives to education. I will give another example. Gareth Stevens, leader of Inspiration Trust, another high-performing trust, gives the example of his local council wanting to halve places at an outstanding school to prop up other schools. He says that “the idea that we could have the rug pulled out from under us and the number of places in our high performing school cut is the most worrying thing…It will mean fewer places at high performing good or outstanding schools”.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Madam Deputy Speaker",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the Chair of the Education Committee.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Helen Hayes (Dulwich and West Norwood) (Lab)",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "I rise to speak in support of new clause 1, new clause 2 and amendment 2, all in my name. The amount of time afforded to the Education Select Committee to undertake detailed scrutiny of the Bill was very limited. We were able to undertake just one evidence session on part 2, and we deliberately sought not to duplicate the evidence taken by the Public Bill Committee. We therefore took limited evidence on the changes to the role of local authorities in school place planning and admissions. I speak, however, as an MP whose constituents have suffered the consequences of the fragmentation of admissions policies and place planning over the past 14 years. That has resulted in school places sometimes being delivered in areas where they were not needed, undermining other local schools; our councils struggling to ensure the delivery of school places that were needed, particularly for children with special educational needs and disabilities; and local places at a very popular local school being allocated not to local families but to children across a wide area of south-east London. I therefore wholeheartedly support the attempts in the Bill to restore coherence to admissions and place plannin",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the Liberal Democrat spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "A number of measures in part 2 of this Bill are to be welcomed. However, after a decade of neglect by the Conservatives, I want to ask Ministers this: when our schools are crumbling, when we cannot find specialist teachers, when special needs provision is in crisis and when we have a huge persistent absence problem, why have the Government chosen to tinker with academies and governance arrangements as their priority education policy? The one strong message coming through from education leaders, including those who have no ideological axe to grind, is that the way that the Government have gone about part 2 of the Bill shows a lack of coherent vision for the school system, with no White Paper and no consultation with those on the frontline or in leadership positions across the sector. I turn to some of the new clauses tabled in my name. With all the pressures on family finances, new clause 7 would ensure that free school meals were available to children from households earning less than £20,000 per year and automatically enrol eligible children into this provision. Liberal Democrats have long believed that this is an effective, targeted intervention that would help children in povert",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "The hon. Member mentions answers to written parliamentary questions. Would she have been as surprised as I was to see the answer to a written PQ of mine saying that if a school specified that a badge be sewed on to an otherwise generic blazer, that badge would count as an item of branded uniform?",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I am shocked, because I was about to come to that as a possible solution to staying within the price cap. Apparently that will not be allowed either—",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "Order. If the statement that the hon. Lady has made about a potential drafting error is indeed the case, has she made arrangements to ensure that the correct version of the amendment has been published?",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Yes, we have been in touch with the Clerks, who have corrected the amendment online. The printed version is incorrect, but in the online version amendment 1 amends clause 24 instead of clause 23.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Madam Deputy Speaker",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "We will ensure that that process has indeed taken place.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Thank you, Madam Deputy Speaker. In Committee, the Minister said that a cost cap, rather than an item cap, would be too complex and risked reducing choice for parents by increasing schools’ reliance on specific suppliers. She also suggested that there would be regional variation in uniform pricing. Again, having tabled a PQ, it is clear that there has been no analysis by the Government to show regional variation in uniform prices. I was going to suggest that schools that wanted more branding on items under a cost cap could sew or stick logos on plain jumpers and other items bought cheaply in supermarkets. I believe the Government want parents to have choice. My suggestion would give parents the choice of going to a well-known supermarket brand and then applying the school logo. I am shocked to hear about the answer to the PQ tabled by the right hon. Member for East Hampshire (Damian Hinds), and I will have a look at it afterwards. Our amendment 1 would put pounds and pennies back into parents’ pockets and avoid top-down meddling from Whitehall on school uniform policy. Also on school uniforms, new clause 12 concerns a simple matter of fairness. The zero rate of VAT applies only on ",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Bradley Thomas (Bromsgrove) (Con)",
+   "member_id": 5186,
+   "type": "Contribution",
+   "text": "On home education, does the hon. Lady agree that not only is it a case of getting the balance right between privacy and the right to educate at home, but it is important that home educators do not feel stigmatised by the ability of the state to enter private property under less-than-forthcoming means that enable it subsequently to make an assessment of home education that is completely contrary to the reality experienced by the child in their own home?",
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "The hon. Gentleman expresses concerns that those of us on the Bill Committee found in the written evidence we received from families who home educate. My inbox certainly has such correspondence from home educators in my constituency. There is a real fear that this legislation, which is seeking to safeguard children who go missing from education, will over-police home educators, most of whom are doing a great job. In fact, a lot of them home educate their children not because they want to but because they feel forced to. That comes back to what I was saying about the crisis in our special needs system, and the fact that so much special needs provision just does not meet the needs of children, so parents give up work to be able to home educate their child. By virtue of their children’s needs, parents tend to be much more flexible in how they home educate. The very onerous reporting mechanisms will interfere with the flexibility that parents need to provide to their children. In conclusion, I say respectfully to Ministers that part 2 of the Bill is a bit of a muddle, because the second half of it was bolted on to some well-trailed measures that largely have cross-party support. I hope",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "Order. Before I call the next speaker, I refer back to the point made by Munira Wilson about the corrected online version of her amendment 1, for the benefit of Members who are in the Chamber. In case there is any confusion, the correct version should begin: “Clause 24, page 44, leave out lines 34 to line 4 on page 45 and insert”.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Steve Witherden (Montgomeryshire and Glyndŵr) (Lab)",
+   "member_id": 5221,
+   "type": "Contribution",
+   "text": "It is a pleasure to speak in this important debate and express my support for the Bill. For far too long, school children have borne the brunt of academisation. Fortunately, the Labour Government in Wales rejected this model, but, having been a teacher on the border for most of my working life and a national executive member of the NASUWT, I have seen at first hand the negative impact of academies becoming the default model, while local authorities have been sidelined. Since the introduction of the Academies Act 2010, the freedom for academies and free schools to set their own pay, terms and conditions has led to the exploitation of teachers. For example, teachers at Ark schools are expected to work 1,657 hours—more annually than a maintained school teacher, while earning £7 less per hour. The lack of national consistency not only allows these schools to undervalue and overwork staff but undermines basic rights such as pension schemes, maternity and sick pay. Our Bill will tackle those disparities by extending the statutory pay and conditions framework to all teachers in academies, ensuring greater consistency and fairness between academies and maintained schools. There is also the",
+   "name": "Steve Witherden",
+   "party": "Lab",
+   "seat": "Montgomeryshire and Glyndŵr"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "It is a pleasure to take part in this debate and to follow the hon. Member for Montgomeryshire and Glyndŵr (Steve Witherden), who has done us and the nation a great service with the clarity of his speech. The Labour party is often accused of working to serve the producer interest rather than the consumer interest, looking after the needs of the trade unions and not those of the ordinary citizen or, in this case, the child. But rarely does any Labour Member make it quite so explicit as the hon. Gentleman just did, with a total betrayal of the child and a total focus on the needs of the professional, their interests, their pay, their disparities and their conditions. There was nothing about the child, nothing about the standards of education. Never have I seen a Labour Member speak up so honestly about what this Bill is really about. We should be enormously grateful to him for doing that, and for doing it so clearly—and in not many words. This Bill contains 38 policy proposals all linked by a troubling theme: the misguided notion that the bureaucrat knows best. In advocating for new schools to be opened and controlled by local authorities, the Government choose to ignore the evidence",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Sarah Smith (Hyndburn) (Lab)",
+   "member_id": 5117,
+   "type": "Contribution",
+   "text": "Under the current system, a third of our children leave school without the basic qualifications to succeed in life, so does the right hon. Gentleman not agree that that shows that the current system is failing and needs change? Furthermore, in the communities with the most disadvantaged—I mean those outside of London—the academisation approach has not made an impact and has not turned around the life chances of children growing up in the most deprived wards. I have worked in those communities and with those schools and seen the impact of trust after trust failing those children. I will not accept that. Does the right hon. Gentleman agree that that is unacceptable and that we have to move forward from this day to make greater improvements to make sure that the most disadvantaged students genuinely get the opportunities they deserve?",
+   "name": "Sarah Smith",
+   "party": "Lab",
+   "seat": "Hyndburn"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "I thank the hon. Lady for her speech, if not intervention, and I certainly applaud her passion for the interests of children, disadvantaged children in particular, and her rage at failings in the system and her desire to see improvements, which might need to be radical, but we have not heard how the mechanics of the changes proposed in this Bill will raise standards. They will in fact dismantle them. The hon. Lady’s intervention comes in the context of my following the hon. Member for Montgomeryshire and Glyndŵr talking about Wales, and it is clear that the system being created by this Bill is much more akin to that in Wales, exactly as the hon. Gentleman so honestly said. Does the hon. Lady suggest that deprived children in Wales have better outcomes than they do in England? [Interruption.] She moved to stand up but then thought better of it, which was wise because she knows that the situation in Wales—which, as the hon. Gentleman said, is exactly what this Bill is trying to create—is infinitely worse than it is in England. Whatever the failings of the system in England, it is demonstrably better than it was 15 or indeed 25 years ago, and it is demonstrably better than it is in Wa",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Sarah Smith",
+   "member_id": 5117,
+   "type": "Contribution",
+   "text": "rose —",
+   "name": "Sarah Smith",
+   "party": "Lab",
+   "seat": "Hyndburn"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "I happily give way to the hon. Lady again.",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "Order. I remind hon. Members that interventions should be short.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Sarah Smith",
+   "member_id": 5117,
+   "type": "Contribution",
+   "text": "I thank the right hon. Gentleman for giving way once again. In my most recent conversation with a group of my headteachers, not one of them raised concerns about this section of the Bill and the reforms. For them, the question of academisation and how the amendments have been made will not limit them in their capabilities to do the best for their children. They are concerned about issues that will come forward as a result of the Bill around SEND, which have been mentioned by hon. Members from across the House, and other things that are restricting them from making progress.",
+   "name": "Sarah Smith",
+   "party": "Lab",
+   "seat": "Hyndburn"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "I thank the hon. Lady, but she again could not explain anything about the Bill. Her passion for improvement is great—we would all applaud that—but her linkage to anything in the Bill that will improve matters was distinctly missing. Many people, including Sir Jon Coles of United Learning, have criticised the proposals in the Bill; he said they will effectively destroy the academy system. I could not tell where the hon. Lady is on that, but the hon. Member for Montgomeryshire and Glyndŵr spoke with great clarity. Where once Labour promised us “education, education, education,” it now promises us bureaucracy, bureaucracy, bureaucracy. Tragically, it is our children who will bear the consequences. The outcomes of the last Labour Government serve as a stark warning of where the Bill will lead. In 2010, notwithstanding the nascent academy movement, we inherited a country where our children ranked 27th globally in reading. We spent more on education than Germany, yet achieved results that lagged behind nations like Poland. By the time we left office, England’s students were ranked as the best readers in the western world. In 2010, just 68% of schools were rated good or outstanding, but t",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Abtisam Mohamed (Sheffield Central) (Lab)",
+   "member_id": 5142,
+   "type": "Contribution",
+   "text": "I commend the Minister on all the excellent work that has taken place so far on the Bill. My representations will be on home education. I recognise the importance of safeguarding and making sure that vulnerable children do not fall through the net; however, the home-educating community is growing, diverse and caring, and those involved are fiercely passionate about their children’s education and learning. Amendments 4, 13 and 14, which stand in my name, would add to the Bill the definition of “suitable education” that already appears in section 7 of the Education Act 1996. Without these amendments, it would be left to individual local authority officers to decide what they think is suitable education.",
+   "name": "Abtisam Mohamed",
+   "party": "Lab",
+   "seat": "Sheffield Central"
+  },
+  {
+   "who": "David Simmonds (Ruislip, Northwood and Pinner) (Con)",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "The debate on this Bill has been comprehensive. I rise to support a number of amendments to this Bill that hon. Friends have tabled, but I open on a point that has already been much debated, not only yesterday but during the Bill’s earlier stages. The Minister has said from the Dispatch Box that she regards the safety of children as being the Government’s highest priority, but the Government’s absolute refusal to countenance the amendments and proposals on equal protection demonstrates a lack of will to follow most other countries in implementing laws that provide that level of protection to children. That remains enormously disappointing, and will be an outstanding issue, in terms of child protection, for the foreseeable future. The measures before the House are primarily concerned with schools. I would like to back up a number of colleagues who have set out the long-standing cross-party nature of the measures that underpin the success of the education system in England. I was a governor at one of the first schools to ever become an academy. It was sponsored by a significant Labour party donor, who came forward to support a Conservative local authority that engaged with that progr",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I chose my words carefully. I talked about the past decade, during which the Liberal Democrats were not in government. The Conservatives had seven or eight Education Secretaries in that period. That carousel of constant change demonstrates how little those Education Secretaries valued education. The state of our school buildings, and of our special educational needs and disabilities system, tells us all we need to know about how much the Tories value education.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "David Simmonds",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "It is important that we pay tribute to the work that David Laws did. As a key part of that coalition, he shaped the legislation that underpinned all the actions that followed, by the coalition and by Conservative Education Secretaries in majority Conservative Governments. We all need to recognise not only that education is a shared priority, but that all parties contributed to driving things forward and creating these structures over the years. I have a degree of sympathy with the Government on an issue that they are trying to address. It has always been a legal conundrum that successive education Acts have place detailed, specific legal obligations on local authorities regarding the provision of school places in general, and the provision of education to individual children to whom they owe a duty, but there are times when that is in conflict with the fact that academy schools are their own admissions authorities. That is not new; it has been true of faith schools for many years. Most of us in this House will have had casework arising from parents being frustrated about the difficulties in their relationship with their child’s school. However, a number of my hon. Friends have made",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Intervene and tell us!",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "David Simmonds",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "I invite the Minister to say how often she has been meeting those school leaders. We have also seen a move to re-establish the school support staff negotiating body. I had the privilege of chairing the employers’ side of that body. Its purpose was not only to give the teaching unions a voice on every aspect of education, but to support staff. One of the big challenges for the last Labour Government was the fact that the teaching unions hated the idea that school support staff would have that voice when it came to what went on in the classroom. It is, again, a cause for concern that the priority for the new Government is not to ask themselves, “How can we build on the progress that we have made with policies that we established and principles that we introduced?”, but to ask themselves, “How can we revert to giving control to those with a vested interest in how much money is spent, rather than those with a vested interest in the attainment of the children in all our schools?” That is why it is so important for us to support new clause 38. In government, we should have taken the opportunity to “extend freedoms over pay and conditions to…maintained schools”, but the present Government",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "David Baines (St Helens North) (Lab)",
+   "member_id": 5092,
+   "type": "Contribution",
+   "text": "I rise to support this Bill in its entirety, and I will speak about part 2 in particular. It is a pleasure to follow the hon. Member for Ruislip, Northwood and Pinner (David Simmonds), who spoke about people hanging their heads in shame. It is not in scope of the Bill, but I could talk about the fact that more children are coming to school not ready to learn. I could talk about the SEND crisis, the rise in child poverty or the number of young people who are not in education, employment or training. We could talk about the Conservatives’ legacy and hanging our heads in shame, but I do not think he would want to hear that.",
+   "name": "David Baines",
+   "party": "Lab",
+   "seat": "St Helens North"
+  },
+  {
+   "who": "Gideon Amos (Taunton and Wellington) (LD)",
+   "member_id": 5250,
+   "type": "Contribution",
+   "text": "There are good elements in this Bill. In line with Professor Jay’s recommendation, I agree that the House must urgently make it a duty to report abuse. As new clause 50 in the name of my hon. Friend the Member for Twickenham (Munira Wilson) sets out, we also want a new authority established to deliver national and local inquiries into rape gang culture and the like. I fully support breakfast clubs, especially following the invention of free school meals—a few years ago—by a Liberal Government. These are good measures because they put the interests of the child at the centre of everything, and the Bill goes wrong where it puts ideology ahead of the interests of the child and loses sight of those interests. I do not support adding taxes to education, which is outside the scope of the Bill, and I am concerned about the effects on academies as well. Any conflation of children being educated other than at a traditional school with safeguarding concerns is not borne out by the evidence. It is also an ideological position that is an insult to the parents and families of the 110,000 children—our constituents up and down the country—who are doing a great job in ensuring that their children ",
+   "name": "Gideon Amos",
+   "party": "LD",
+   "seat": "Taunton and Wellington"
+  },
+  {
+   "who": "Sarah Smith",
+   "member_id": 5117,
+   "type": "Contribution",
+   "text": "It is a privilege to stand again in support of the Bill. If we are to improve our school system for the benefit of all children, regardless of their background or educational needs, their welfare and interests need to be at the heart of any reform. Opposition Members’ suggestions that that cannot be done without sacrificing standards in education could not be further from the truth. It is because the Government are ambitious for all children that the commitment to excellence in education is the driving force behind the measures in the Bill. Labour knows that when standards in schools drop, it is working-class children and those whose attainment levels may already be lower on paper but who are no less impressive due to overcoming additional learning challenges, who will suffer. The Bill represents a cultural shift in how Government approach educational reform through delivering change in the sector through partnership and child-centred policy. The prioritisation of a child’s wellbeing and a focus on inclusion are not woolly concepts, but the bedrock of stability that will enable all children to thrive educationally. It is not contentious to say that we currently have a fragmented sc",
+   "name": "Sarah Smith",
+   "party": "Lab",
+   "seat": "Hyndburn"
+  },
+  {
+   "who": "Ms Julie Minns (Carlisle) (Lab)",
+   "member_id": 5094,
+   "type": "Contribution",
+   "text": "One point that headteachers in my constituency report is that, sadly, too many children with SEND are being offered access rather than inclusion in mainstream settings. Does my hon. Friend agree that we need to get to grips with the SEND crisis that, sadly, we inherited from those on the Opposition Benches?",
+   "name": "Ms Julie Minns",
+   "party": "Lab",
+   "seat": "Carlisle"
+  },
+  {
+   "who": "Sarah Smith",
+   "member_id": 5117,
+   "type": "Contribution",
+   "text": "I absolutely agree. We look forward to what is going to happen on that, and particularly to what we will do to tackle those challenges and ensure that we offer truly inclusive settings and that the needs of every child are at the centre of all the decisions that we take. I look forward to working with colleagues and discussing with Ministers how we can continue to drive high and rising standards in all our schools.",
+   "name": "Sarah Smith",
+   "party": "Lab",
+   "seat": "Hyndburn"
+  },
+  {
+   "who": "Adrian Ramsay (Waveney Valley) (Green)",
+   "member_id": 5320,
+   "type": "Contribution",
+   "text": "Today, I will concentrate on the important arguments for new clause 34 and amendment 173. New clause 34 would extend the provision of free school lunches to all primary school children. I pay tribute to the hon. Member for Stroud (Dr Opher), who tabled this important new clause for consideration in Committee, with the backing of 42 hon. Members, and to my hon. Friend the Member for North Herefordshire (Ellie Chowns), who moved it. To set the context for new clause 34, the children’s charity Barnardo’s is clear that we are seeing epidemic levels of poverty among children in the UK. Across the country, families are facing a desperate struggle to put food on the table, keep the lights on and heat their homes. Nationally, 4.3 million children are in poverty; in my constituency, 3,920 children are growing up in poverty—that is 21% of children. This shocking state of affairs was a political choice made by the previous Government and those who backed austerity, and we should not repeat it. The No Child Left Behind campaign, which underpins new clause 34, is backed by more than 250 civil society leaders, from unions to charities, medical bodies to faith leaders and mayors to councils. This",
+   "name": "Adrian Ramsay",
+   "party": "Green",
+   "seat": "Waveney Valley"
+  },
+  {
+   "who": "Lizzi Collinge (Morecambe and Lunesdale) (Lab)",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "As a member of the Bill Committee, I have had detailed oversight of the measures in the Bill. They are vital for safeguarding children across the country, as well as supporting children and families with measures such as free breakfast clubs, reduced school uniform costs and extra support for kinship carers. I am thrilled that three schools in my constituency have been chosen to pilot free school breakfast clubs. They will put more money back in parents’ pockets and ensure that all children start the day right with a healthy meal. The Bill has been subject to healthy debate, both in this place and in Committee. It is a strong piece of legislation and one that has been strengthened through the parliamentary process. Looking through the amendment paper, I was interested to read new clause 1, tabled by my hon. Friend the Member for Dulwich and West Norwood (Helen Hayes), on auto-enrolment for free school meals. Parents have contacted me who are eligible for free school meals but are finding the application process difficult and are being passed between the school and the council. Auto-enrolment would help those children and families get the support that they are entitled to from day o",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Gideon Amos",
+   "member_id": 5250,
+   "type": "Contribution",
+   "text": "Does the hon. Lady accept that, in the tragic case of Sara Sharif, which my hon. Friend the Member for Woking (Mr Forster) has been pursuing, the murder happened in the school holidays and Sara was already known to social services? There is not much evidence that the parents said they were going to home-educate in the first place. Given all those facts, does the hon. Lady accept that there is actually no correlation in the data between home-educated children and children who are ultimately judged to need a care plan?",
+   "name": "Gideon Amos",
+   "party": "LD",
+   "seat": "Taunton and Wellington"
+  },
+  {
+   "who": "Lizzi Collinge",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "I acknowledge the complexity of that case and that the absolutely unacceptable failings before Sara’s death were abject across many organisations. However, she was removed from school partly so that her parents could prevent the detection of the abuse. I have recognised, and will continue to recognise, that that obviously does not speak to the vast majority of people who home-educate their children. However, as parliamentarians, we have a duty to protect the most vulnerable, and sometimes that includes regulating the majority, who are decent, honest people. I want to reassure parents that the new regulations, such as registers for children not in school and the capacity to compel school attendance in certain cases, are not aimed at limiting home education as a whole or about policing how people choose to educate.",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "The intention is not the thing; it is the actual impact that counts. Let us take the example of someone who has taken their child out of school for the reasons that the hon. Lady has mentioned. Perhaps they have an autistic child who is miserable every day, and after letters to the headteacher and the local authority and failure after failure, they are forced to go into home education. Can she understand why parents are fearful of a representative of—as far as the parents are concerned—that failing local authority having the right to enter their home and sit in judgment over the child that they have been forced to home-educate? Can she understand why they would be fearful of the imposition a hard, top-down register, especially after so many years of successive Governments failing to provide any proper support for home educators?",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Lizzi Collinge",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "I accept wholeheartedly the amount of parents of children, particularly with SEND, who have been absolutely failed by our system and by 14 years of Conservative Government. What I do not accept is that the proposal is somehow a major imposition. I do not believe that checking that children are receiving a decent education and are safe and well cared for is a major imposition on parents, and I think all good parents would welcome that. These measures are being put in place to protect and safeguard vulnerable children. Having no oversight of children not in school is an unacceptable risk to children’s welfare. The Children’s Wellbeing and Schools Bill is crucial, and cannot come too soon to protect our most vulnerable children and to support families up and down the country with rising costs. It has the welfare of children at its heart, and I am proud to have served on the Bill Committee and to have played a role in shaping this vital legislation.",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Gregory Stafford (Farnham and Bordon) (Con)",
+   "member_id": 5351,
+   "type": "Contribution",
+   "text": "Like VAT on independent schools and putting up costs through national insurance contributions, this Bill is yet another example of Labour turning children’s education into an ideological battleground. I have said it before, but I will say it again: Labour clearly hates any form of education that is not state-controlled, local authority-run schooling, and this Bill is another example of that. Under the Conservatives, pupils soared up international league tables, ensuring that every child, regardless of postcode—except if they lived in Wales—received the best start in life. Labour is intent on reversing that progress, attacking academic freedoms and dismantling a system that has delivered demonstrable results for young people. Indeed, it was a system that Labour used to champion, but now it has come back to power and is looking to dismantle it. Most of this Bill is trying to solve a problem that does not exist. Like the Employment Rights Bill last week, it is bodged and being rushed through without proper scrutiny, and behind it all is the cold, dead hand of the union paymasters that fund Labour. I commented on it during debate on the Employment Rights Bill, and we have heard again t",
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon"
+  },
+  {
+   "who": "Lizzi Collinge",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "Will the hon. Gentleman give way?",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Gregory Stafford",
+   "member_id": 5351,
+   "type": "Contribution",
+   "text": "I will finish my analogy. It is not Jeff Goldblum who is going to be savaged by the dinosaurs; it is our children.",
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon"
+  },
+  {
+   "who": "Lizzi Collinge",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "Does the hon. Gentleman accept that my hon. Friend the Member for Montgomeryshire and Glyndŵr, to whom he referred and who has actually worked in schools as a teacher, might have a really good grasp of what happens in schools?",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Gregory Stafford",
+   "member_id": 5351,
+   "type": "Contribution",
+   "text": "It would be totally wrong of me to cast any aspersions on the hon. Gentleman’s teaching ability. I have not sat through one of his classes, but if it was anything like his speech an hour ago, I would perhaps be looking to find some other educational outlet for myself or my child. While I acknowledge that some of the child protection aspects of this Bill are important, much of it represents a dangerous and unnecessary centralisation of power that will harm schools, teachers and, most importantly, pupils. In recent meetings I have had with the Last Wednesday SEND group, as well as with home education groups across Surrey and Hampshire, there has been overwhelming concern about the proposed legislation. Many of those I have spoken to feel vilified for choosing to remove their children from mainstream education in favour of alternative specialised provision tailored to the individual needs of their children. I will take this opportunity to highlight five key amendments that I think are particularly important; I urge Members to give them their full consideration. The first is amendment 206, which would remove the requirement for all academies to follow the national curriculum. Clearly, ",
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon"
+  },
+  {
+   "who": "Zarah Sultana (Coventry South) (Ind)",
+   "member_id": 4786,
+   "type": "Contribution",
+   "text": "I rise in support of new clause 23, tabled in my name, which seeks to extend mandatory relationships, sex and health education to all young people aged 16 to 18 in further education, sixth form and apprenticeship settings. RSHE is currently compulsory only to the end of key stage 4, when students are 16 years old, but young people remain in education or training until the age of 18. That creates a dangerous gap, in which thousands of young people are left without the vital education they need to stay safe and informed during a crucial and vulnerable period of their lives. Government data paints a stark picture. Figures from the Office for National Statistics show that 16 to 19-year-olds experience the highest rates of domestic abuse of any age group, with 8% reporting incidents in the past year. That is precisely the age when young people are beginning to explore intimate relationships—a time when they need guidance on recognising coercive control, domestic abuse and harmful behaviours. We all know the tragic consequences of ignoring that gap. The recent case of Kyle Clifford, who murdered Carol, Louise and Hannah Hunt after reportedly being influenced by the misogynistic views of ",
+   "name": "Zarah Sultana",
+   "party": "Ind",
+   "seat": "Coventry South"
+  },
+  {
+   "who": "Nick Timothy (West Suffolk) (Con)",
+   "member_id": 5062,
+   "type": "Contribution",
+   "text": "I must confess I am worried about the Education Secretary and her future employment prospects. She may share the confusion of the public and wonder whether the Prime Minister is a socialist or a pragmatist, a tax-and-spend lefty or a quango cutter, a human rights lawyer or a war leader, but Education Ministers seem to have missed the latest McSweeney memo. While the reformer in the Department for Work and Pensions says she wants to get people off welfare and into work, and the reformer in the Department of Health and Social Care holds up school reform and academies as the model for his changes to the NHS, the luddites in the Education Department are taking a hammer to the machinery that has made English schools the best in the west. This Bill—along with the curriculum review, a weakened Ofsted, the threat to SATs in primary schools, the end of free schools and weaker discipline policies—undoes decades of hard-won reform and higher standards. It should be obvious that the objective for our school system is higher standards. Of course, Ministers pay lip service to that idea, but their actions belie their words, not just with this Bill but with the appointment of an academic to run th",
+   "name": "Nick Timothy",
+   "party": "Con",
+   "seat": "West Suffolk"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "indicated dissent .",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Nick Timothy",
+   "member_id": 5062,
+   "type": "Contribution",
+   "text": "The Minister gave me a frown but she can intervene and admit the success of English schools in those rankings if she wishes. It is why, when Michaela was once again selected— [Interruption.] Would the Minister like to intervene? No, apparently not. It is why, when Michaela was once again the best-ranked school in the country for progress, the Secretary of State could not bring herself even to congratulate Katherine Birbalsingh when I invited her to do so from these Benches. It is why the Education Secretary’s special adviser briefed the newspapers that Ms Birbalsingh is a liar, and why he briefed the newspapers against Amanda Spielman, former head of Ofsted, attacking her very personally as a “failure” and a Conservative. As Margaret Thatcher, not just a former Prime Minister but a former Education Secretary, once said: “If they attack you personally, it means they have not a single political argument left.” And this is the truth: the Education Secretary does not have a single political argument for this disgraceful act of policy vandalism, but she is determined to ignore those who know better than her and push on. And the people who lose out, I am afraid, will be the children, fro",
+   "name": "Nick Timothy",
+   "party": "Con",
+   "seat": "West Suffolk"
+  },
+  {
+   "who": "Steve Yemm (Mansfield) (Lab)",
+   "member_id": 5194,
+   "type": "Contribution",
+   "text": "It is an absolute pleasure to speak in support of the Bill, which delivers on the Government’s mission to break down barriers to opportunity. The Bill will drive high and rising standards in school, cut the cost of sending children to school for my constituents and make life easier for families in my area. Its landmark reforms to safeguarding and children’s social care will stop children from falling through the cracks.",
+   "name": "Steve Yemm",
+   "party": "Lab",
+   "seat": "Mansfield"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I am grateful to be called to speak in the debate. It has been an honour to be a member of the Bill Committee. Over many days, we considered the Bill in detail, providing line-by-line scrutiny. Today, there are many amendments before us, many of which I support, and there are important issues to discuss, including elective home education. My right hon. Friend the Member for Beverley and Holderness (Graham Stuart) made some excellent points, and the hon. Member for Sheffield Central (Abtisam Mohamed) also made important points. It is important that we discuss the breakfast club provision. In principle, schools providing breakfast to children is a good thing—why not?—but as we get closer to implementation, colleagues on the Labour Benches may find themselves getting more mail from headteachers in their constituencies, noting that the Government say that the pilot scheme will save parents £450 per child, but the amount of money that the Government are giving to schools goes down as low as £114 per child. That is clearly quite a gap for schools to make up, and we will see how they intend to do that. We had some good debates on uniform in Committee. I gently say to Labour colleagues tha",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Joe Robertson (Isle of Wight East) (Con)",
+   "member_id": 5255,
+   "type": "Contribution",
+   "text": "My right hon. Friend has referred not only to the previous Government, but to the new Labour Government before that. Does he share my concern, and perhaps my confusion? I thought there was consensus on the huge benefits of academies, which were brought in by new Labour and advanced by the previous Conservative Government, but this Government seem to be ripping up that consensus through this Bill.",
+   "name": "Joe Robertson",
+   "party": "Con",
+   "seat": "Isle of Wight East"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "My hon. Friend is certainly right that over the years, there have been many brilliant, far-sighted people in the Labour party who have overlooked their political tradition and said, “We must just do what is best for the children.” I do not think there has ever been a universally accepted consensus on academies; until very recently, there have been groups actively organising against schools becoming academies, with leading members of the Labour party involved in those movements. There has always been a strand, which turns out to be wider than we realised, of the Labour party that believes that unless there is control from the top, through councils, and unless schools are told what to do, the system is inconsistent. Some consistency in education is very important, but that is not the same as uniformity, and certainly not the same as top-down control. It turns out that Government Ministers do not want transparency and choice. They do not want diversity. In particular, they seem to want to curtail the improvement in school performance that has been made possible through academy trusts. The Government have already stopped new free schools. This Bill can not only stop academies growing i",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "Has my right hon. Friend seen Tim Leunig’s article in Schools Week talking about Ofsted’s new report card system following the Labour manifesto commitment? One danger is that, if my right hon. Friend is right and we see a reduction in standards, the Bill could switch off the light that allows us to see that, because “reliability and validity are in tension”, as Tim Leunig puts it. Does my right hon. Friend share my concern that Ofsted must ensure that it continues to put a bright and reliable light on the education system, so that we can see whether the policies in this Bill work?",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I do, and my right hon. Friend gives me two valuable opportunities. The first is to pay tribute to the great Tim Leunig. We do not often talk about him in this House. He has friends here, and he is a perceptive thinker. I will look up his article. The other opportunity that my right hon. Friend gives me is to highlight the discrepancy we can get when things appear to be getting better, when in fact they are not. That is what happened under the last Labour Government when, in spite of us falling down the international comparisons, they managed to find 11 different ways in the system to make it look like our GCSE results were improving year after year. We do not want that to happen again. There were those champions in the new Labour years who made these great reforms happen and would want to continue them now, so I say to those on the Government Benches: where are the champions today? Where are those in the modern Labour party who will say, “No, we will not be bound by ideology. We are going to do what is in the best interests of the children”? I hope there will be some of those champions in the other place. To be fair, I was mildly encouraged this morning to hear the Chancellor of t",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Chris Vince (Harlow) (Lab/Co-op)",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "I thank the Ministers for their contributions. It is an honour to have an opportunity to speak on behalf of my constituents and my former colleagues in the teaching profession on the Children’s Wellbeing and Schools Bill. Quality of teaching is the single biggest driver of standards in schools. The Bill will ensure that all teachers have or are working towards qualified teacher status. As a former teacher, I welcome that. It is fair to say from the chuntering I have been doing from this Bench that I feel passionately about education. I find it difficult, listening to Opposition Members—I recognise that they generally care passionately about education, but sadly my experience of teaching under their Government was different from how they describe it. I once again ask the Minister to recognise that she is inheriting a workforce in the education system that is absolutely at rock bottom. Let me stress, however—I want to make this clear to Conservative Members—that I put the wellbeing and education of children above any politics. When I talk about the education of young people, I talk not just about examinations but what is described in the teaching profession as the hidden curriculum: ",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Carry on, then!",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Chris Vince",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "I was going to say that he was probably one of the better ones. I should also recognise, as should we all, that the young people who are going through the education system now have been impacted negatively by something even worse than a Conservative Government, namely the terrible pandemic. We know that they are less resilient. We also know that more and more young people are having to be carers for their parents and other family members and loved ones. Members will be aware that I am very passionate about this subject, and I thank the Minister and other Members for attending and contributing to my Westminster Hall debate on it last Thursday. On average, young carers are likely to miss more school than their peers, and I welcome the proposal in the Bill to record absences to ensure that no young people fall through the gaps, including those who are home educated. I said earlier that I did not want to be too political about this. I went through the education process and became a teacher because of Sir Tony Blair’s remark about “education, education, education”. When he said that teaching was a valuable and noble profession, I thought, “He’s right: it is.” The former Member of Parlia",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Tim Roca (Macclesfield) (Lab)",
+   "member_id": 5287,
+   "type": "Contribution",
+   "text": "Will my hon. Friend accept an intervention?",
+   "name": "Tim Roca",
+   "party": "Lab",
+   "seat": "Macclesfield"
+  },
+  {
+   "who": "Chris Vince",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "I will!",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Tim Roca",
+   "member_id": 5287,
+   "type": "Contribution",
+   "text": "At several points today, we have been transported by Conservative Members to the educational nirvana that supposedly existed under the Tory Government. That is not the memory I have, or the memory that many parents and children have. They, I think, remember the real-terms funding cuts that happened for much of the last 14 years, increasing class sizes, the millions of days lost to industrial action by unions who were fed up with the hectoring nature of previous Conservative Governments, and the 11% of children who were going hungry compared with the 8% OECD average. PISA rankings are all very well and good, but PISA scores were going down; they were just not going down as fast as those in other countries.",
+   "name": "Tim Roca",
+   "party": "Lab",
+   "seat": "Macclesfield"
+  },
+  {
+   "who": "Chris Vince",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for painting a better picture than the one painted by Conservative Members. Shortly after the election, in August, I met a couple of former teacher colleagues who were still in the profession, and they just looked broken. It was really difficult to see, because they have been maths teachers for a long period of time. When I first became a teacher, they inspired me to persevere, to reflect on the bad days and to have better lessons. To see them so fed up and so disenchanted with being a teacher was really difficult, and we have to change that. I emphasise again to the Minister that it is really important that we ensure that we support teachers’ mental health. I was going to intervene on the right hon. Member for Beverley and Holderness (Graham Stuart) to ask him whether he recognises that happy and supported teachers lead to happy and supported young people, which is really important.",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Rebecca Smith (South West Devon) (Con)",
+   "member_id": 5301,
+   "type": "Contribution",
+   "text": "Will the hon. Gentleman give way?",
+   "name": "Rebecca Smith",
+   "party": "Con",
+   "seat": "South West Devon"
+  },
+  {
+   "who": "Chris Vince",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "I will not. I will briefly mention Government amendments 166 and 167, which talk about data protection never getting in the way of safeguarding. One of my most difficult days as a teacher—the House will be pleased to know that it has nothing to do with the Conservative Government—was when a young person in my class came to me at the end of a lesson and said those terrible words that every teacher dreads: “I need to tell you something.” Despite my explaining to her that it could not be confidential, she made a disclosure—I will not go into it, obviously—and then begged me not to tell anyone, which is not an option for teachers or anyone in a similar position. It was heartbreaking to see how upset she was, but I reported it in the correct and proper way. Clearly, safeguarding is really important, and all professionals—not just those in education—who work with young people take it very seriously. General data protection regulation, or myths about GDPR and data sharing, should not get in the way of ensuring that our young people are safe in education and outside it. I will finish on a lighter note, because I appreciate that I have got a little bit deep. The right hon. Member for Beverl",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Vikki Slade (Mid Dorset and North Poole) (LD)",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for Harlow (Chris Vince) for schooling me in maths—I am not very good at that. I begin by expressing my strong support for the Bill, particularly its efforts to enhance child protection and ensure better collaboration between professionals involved in children’s care. I welcome the measures in part 2 that seek to harmonise admissions and provide cost of living support for families, especially those from deprived backgrounds. Parents whose children are in state-funded education deserve transparency. They should have access to clear information about their child’s education and be assured that schools and trusts are operating fairly, and I look forward to measures coming forward that are not in the Bill but which will really make a difference for children, such as the child poverty strategy, the SEND review and the curriculum review. However, there is one part of this Bill that I believe needs to be amended: the level of unnecessary scrutiny that is being imposed on parents who choose to home-educate their children. Rather than protecting them, elements of the proposed register risk putting such families in danger. Let me be clear: I support the principle of t",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Gideon Amos",
+   "member_id": 5250,
+   "type": "Contribution",
+   "text": "In that vein, does my hon. Friend accept that, as I mentioned, grandparents reading to their grandchildren could be considered as providing home education and should be inspected and reported on, and vital home education groups providing services free of charge could be driven out of business by the scale and weight of reporting they will have to provide?",
+   "name": "Gideon Amos",
+   "party": "LD",
+   "seat": "Taunton and Wellington"
+  },
+  {
+   "who": "Vikki Slade",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "I think a lot of people who do not know anything about home education miss the fact that there is a whole community of home educators, and home-educated children spend plenty of time with their peers, but they are just different peers—others who prefer to have their education outside a school environment—and there is a risk of such organisations being driven underground or lost altogether. Under section 7 of the Education Act 1996, parents already have a duty to ensure that their child receives a suitable education, whether through school or otherwise, and local authorities can already conduct informal inquires and issue school attendance orders if they believe a child is not receiving an appropriate education, so this is simply overkill. A formal register would help to ensure accountability, but this is overreach. My amendment 221 proposes a more practical solution of requiring only those who provide more than six hours per week of education or activity to be included in the register. That strikes a reasonable balance by ensuring that key educators are identified without overwhelming families or local authorities. While there are genuine safeguarding concerns, local authorities al",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "I hope colleagues in the other place will follow up on the hon. Lady’s excellent speech. To focus in on that point, if a register does go ahead—the hon. Lady supports that; I do not—it should start with the minimum requirements, and then it could be expanded if that is needed, rather than be spread out in this way. To reinforce the point she makes, local authorities already have the power to intervene if it appears to them that someone is not having a suitable education, and they have all the powers required if there are concerns about welfare. Conflating welfare and education in the way this Bill does particularly irritates and upsets home educators.",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Vikki Slade",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "I thank the right hon. Gentleman for his intervention. In fact, Kathryn from my constituency wrote me a very long email talking about welfare versus education—two totally separate issues. People are really upset and would have been devastated and distraught to hear the hon. Member for Morecambe and Lunesdale (Lizzi Collinge) effectively make them feel like they were some sort of pariah. I was really upset to hear that, especially as I asked home educators in my constituency to listen to the debate and give me their feedback. I support amendments 195 and 197, tabled by the right hon. Member for Sevenoaks (Laura Trott), which seek clarity that educational activities outside regular school terms should not be subject to this overreach. My children are not subject to them, and children in home education should not be subjected to anything more than the rest of us. Children receiving education out of school should have the same rights to take their public examinations as their peers. It should not be based on a parent’s ability to fund that. After all, the Treasury already saves many thousands of pounds for every home-educated child. New clause 53, tabled by my hon. Friend the Member fo",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Kim Johnson (Liverpool Riverside) (Lab)",
+   "member_id": 4824,
+   "type": "Contribution",
+   "text": "I rise in support of the Bill and in support of the amendments that seek to increase access to free school meals, a policy that would make a world of difference to the one in two children living in poverty in my constituency, the most deprived in the country. I also want to pay tribute to the amazing teachers in all the schools in Liverpool Riverside who go above and beyond every single day, not only for the children but for their parents. Research last summer showed that nearly one in five households with children were suffering from food insecurity. That is made worse by cruel and punitive policies, such as the two-child cap on benefits. Universal free school meals would go a huge way towards immediately alleviating the pressures that these families are facing. In the sixth richest country in the world, no child should go to school hungry and all children should be supported to achieve their full potential. Some 47% of children in my constituency now live in poverty. If those children lived in London, Scotland or Wales, they would have access to universal free schools meals at primary school. However, because they live in Liverpool, many are forced to learn on an empty stomach. T",
+   "name": "Kim Johnson",
+   "party": "Lab",
+   "seat": "Liverpool Riverside"
+  },
+  {
+   "who": "Jodie Gosling (Nuneaton) (Lab)",
+   "member_id": 5036,
+   "type": "Contribution",
+   "text": "I rise today in support of amendments 27 and 43 and new clause 1, as proposed by the Chair of the Education Committee, my hon. Friend the Member for Dulwich and West Norwood (Helen Hayes). I agree with her, because the truth of my experience in education over the past 20 years is far different from the experiences and views that we hear from those on the Opposition Benches. At this point, I must refer to my entry on the Register of Members’ Financial Interests, and to my partner’s interests. In a previous life, I raised a motion at North Warwickshire borough council to convene a multi-agency meeting to tackle knife crime in our schools. In one school, 17 sharps had been found in a school bag in a search that I am told saw school “bouncers”—large men in black suits and ties—stripping through students’ bags and removing sanitary products from girls’ bags in public corridors. I appreciate that we need strong measures on knives in schools, but what really baffled me, and the reason why we moved a motion at the council, was that there was no police involvement, no oversight and no accountability from school authorities. At that time, the school also had one of the highest rates for excl",
+   "name": "Jodie Gosling",
+   "party": "Lab",
+   "seat": "Nuneaton"
+  },
+  {
+   "who": "Mrs Emma Lewell-Buck (South Shields) (Lab)",
+   "member_id": 4277,
+   "type": "Contribution",
+   "text": "I rise to speak to new clause 6 tabled by children’s food champion, my hon. Friend the Member for Washington and Gateshead South (Mrs Hodgson), and to amendments 212 to 220 in my name. I also put on record my support for new clause 1 tabled by my hon. Friend the Member for Dulwich and West Norwood (Helen Hayes), new clause 7 tabled by the hon. Member for Twickenham (Munira Wilson) and new clause 49 tabled by my hon. Friend the Member for Liverpool West Derby (Ian Byrne). It will come as no surprise that I am also a fan of new clause 34 because, thanks to the last Government, over 4 million children are in poverty, and I will always support anything that makes their little lives and that of their families more bearable. New clause 6 would introduce a much-needed national monitoring system for school food. Of course, school food standards already exist, but not all schools are meeting them. There is far too much variance. There are some brilliant examples of heart-healthy, nutritious meals that fuel children for the rest of the school day. Then, there are examples where unhealthy fizzy drinks and fried food are the norm. Some 60% of secondary schools have been found not to follow the",
+   "name": "Mrs Emma Lewell-Buck",
+   "party": "Lab",
+   "seat": "South Shields"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "With the leave of the House, we have had an excellent debate this afternoon, as we did in Committee. I will pick out only a few of the contributions. We had important words from the Chair of the Education Committee, the hon. Member for Dulwich and West Norwood (Helen Hayes), who pointed out how quickly the Bill had been prepared and pushed through. That is why we have so many amendments on Report and, to be honest, one reason that the Bill has run into such trouble. My right hon. Friend the Member for Beverley and Holderness (Graham Stuart) gave a great speech, drawing on his experience as the Chair of the Select Committee, and the hon. Member for Sheffield Central (Abtisam Mohamed) gave an excellent speech, laying out why the provisions on home schooling are an excessive burden and go too far. We all agree that it is about making sure that children are not just “not in school”; however, the provisions really are overly burdensome. The hon. Members for Taunton and Wellington (Gideon Amos) and for Mid Dorset and North Poole (Vikki Slade) and lots of Conservative colleagues pointed out the same thing. I have to say that my jaw hit the floor when I first read the Bill and saw the prov",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Richard Foord (Honiton and Sidmouth) (LD)",
+   "member_id": 4942,
+   "type": "Contribution",
+   "text": "I agree with the shadow Minister on the point about special schools. Additionally, in Committee in January, he raised the point about local authority consent for some children to be withdrawn from school, and how that should be extended from children who are subject to a child protection plan to children who are regarded as a child in need. Why are the Opposition not pushing that to a vote today?",
+   "name": "Richard Foord",
+   "party": "LD",
+   "seat": "Honiton and Sidmouth"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "We have a limited number of things that we can press to a vote, but I hope, as we go to the debate in the other place, that we are in complete agreement on the excessive nature of some of the requirements being made of home schoolers, who we must not treat as illegitimate just because they choose to educate their children in a certain way. My hon. Friend the Member for Ruislip, Northwood and Pinner (David Simmonds) used his huge experience to take us on a rather bleak journey from the reforming agenda of the early Blair years to the regress that we are seeing now. My hon. Friend the Member for Farnham and Bordon (Gregory Stafford) explained why this was such a mistake and took us through the Bill in bleak detail. I do not always agree with the hon. Member for Coventry South (Zarah Sultana), but I do agree with her on Andrew Tate, whom I regard as totally abhorrent. I am glad that my right hon. Friend the Member for Newark (Robert Jenrick), the shadow Justice Secretary, is leading the charge to get the Tates deported to this country so that they can face justice here. I find their work utterly, utterly abhorrent. My brilliant hon. Friend the Member for West Suffolk (Nick Timothy) co",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I thank all hon. Members for their contributions, some of which have been well considered and delivered powerfully—others less so. This Government’s mission is to break down barriers to opportunity by driving high and rising standards. That has to be the right of every child, delivered through excellent teaching and leadership, a high-quality curriculum, and a system that removes the barriers to learning that hold too many children back, all underpinned by strong and clear accountability. This Bill delivers the legislative elements of the broader vision that we are determined to deliver. As part of that, from next term free breakfast clubs will start being rolled out in early adopter schools across the country, including special schools and alternative provision settings. Members who tabled amendments 2, 219 and 220 are right that it is critical that the new breakfast clubs are accessible for children with special educational needs and disabilities. All pupils, including those with SEND and those in special schools, are already in the existing drafting of the clause. The need to get this right is why we are testing, and learning through, the early adopter programme. On amendments 2",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Helen Hayes",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "The Minister has set out the Government’s commitment to increasing the take-up of free school meals for children who are already eligible, as well as a number of practical measures the Government are taking to make registration easier. On the basis of what she has said today, I am content not to push my new clause 1 to a vote. However, the Select Committee will continue to closely monitor the take-up of free schools meals. Should the progress that the Minister expects to see be lacking, we will come back and press the issue of auto-enrolment again with her and expect that she looks at it again.",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for her diligence both in her role as Chair of the Select Committee and on this issue in particular. We want children to receive the entitlements that will transform their life chances. Indeed, we will work closely with her Committee to ensure that we communicate well with the House on those important issues. Our determination to deliver better life chances for our children does not stop there. As well as free breakfast clubs, we are delivering the holiday activities and food programme, enabling disadvantaged children and children identified by their local authorities to access healthy food and enriching activities in the school holidays. We will go further by supporting every child to achieve and thrive, including those with special educational needs and disabilities, and by putting money back in their parents’ pockets. Another part of that picture is the sad increase in childhood obesity, which, unfortunately, the Conservative party did very little to address. We must ensure that, alongside clubs and activities, the food that children have at school is healthy and balanced, and embeds healthy eating habits. We must ensure compliance with school food standar",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "The Secretary of State for Education (Bridget Phillipson)",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I beg to move, That the Bill be now read the Third time. This is legislation that belongs to children. The clue is in the name—the Children’s Wellbeing and Schools Bill. It is for them. It is because this Government are for them. We are on a mission to break down the barriers to opportunity for each and every child, to sever the link between background and success, and this Bill sits at the centre of that mission. Let me start by thanking Members from across the House for their contributions, especially members of the Bill Committee for their scrutiny. I say a particular thank you to the ministerial team—my hon. Friend the Minister for School Standards and the Under-Secretary of State for Education, my hon. Friend the Member for Portsmouth South (Stephen Morgan)—for guiding the Bill through its Commons stages. This debate is valuable. Education is back at the forefront of national life and children are back at the centre of our national conversation. Every child in this country deserves a safe childhood and an excellent education. The action in the Bill cements in legislation the biggest reform of children’s social care in a generation, keeping children with their families wherever",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the shadow Secretary of State.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Laura Trott (Sevenoaks) (Con)",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "I had hoped that, during the Commons stages of the Bill, the Government would listen to the vast number of respected voices from the education sector who have warned repeatedly that this ill thought through Bill is nothing short of a disaster for education standards in this country. Unfortunately, the Secretary of State failed to listen to the Children’s Commissioner, who warned that children will spend longer in failing schools because of this Bill; or Katharine Birbalsingh, who argued that if passed— [ Interruption. ] That is how they treat one of the best headteachers in this country. She warned that if passed, “the impact on our children, especially our most vulnerable, will be seismic.” The Secretary of State will not listen to the former chief inspector of Ofsted, who described the Bill as a “many-pronged assault on school standards”, or to Lord Harris, who supported the party at the last election and said that the Bill will only harm “the most disadvantaged families.” Even some of her own Back Benchers have asked the Secretary of State to think again. Why does she think she knows better? Instead of engaging constructively with that criticism, the approach from the Secretary ",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  }
+ ],
+ "fetched": "2026-10-21T20:25:33Z"
+}

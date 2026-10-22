@@ -1,0 +1,742 @@
+{
+ "ext_id": "EF4E8290-86EC-40E9-8CFB-89AE4CFF848D",
+ "date": "2025-05-20",
+ "house": "Lords",
+ "section": "Debate",
+ "title": "Children’s Wellbeing and Schools Bill",
+ "parents": [
+  "Lords Chamber"
+ ],
+ "location": "Lords Chamber",
+ "url": "https://hansard.parliament.uk/Lords/2025-05-20/debates/EF4E8290-86EC-40E9-8CFB-89AE4CFF848D/ChildrenSWellbeingAndSchoolsBill",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Baroness Barran",
+   "party": "Con",
+   "member_id": 4703
+  },
+  {
+   "name": "Lord Young of Cookham",
+   "party": "Con",
+   "member_id": 57
+  },
+  {
+   "name": "Lord Carter of Haslemere",
+   "party": "CB",
+   "member_id": 4732
+  },
+  {
+   "name": "Baroness Thornton",
+   "party": "Lab",
+   "member_id": 1782
+  },
+  {
+   "name": "Lord Farmer",
+   "party": "Con",
+   "member_id": 4321
+  },
+  {
+   "name": "Lord Blunkett",
+   "party": "Lab",
+   "member_id": 395
+  },
+  {
+   "name": "Lord Wigley",
+   "party": "PC",
+   "member_id": 547
+  },
+  {
+   "name": "Lord Nash",
+   "party": "Con",
+   "member_id": 4270
+  },
+  {
+   "name": "Lord Knight of Weymouth",
+   "party": "Lab",
+   "member_id": 4160
+  },
+  {
+   "name": "Lord Meston",
+   "party": "CB",
+   "member_id": 1940
+  },
+  {
+   "name": "Baroness Finlay of Llandaff",
+   "party": "CB",
+   "member_id": 3609
+  },
+  {
+   "name": "Lord Balfe",
+   "party": "Con",
+   "member_id": 4302
+  },
+  {
+   "name": "Baroness Andrews",
+   "party": "Lab",
+   "member_id": 2534
+  },
+  {
+   "name": "The Earl of Effingham",
+   "party": "Con",
+   "member_id": 4958
+  },
+  {
+   "name": "Baroness Meyer",
+   "party": "Con",
+   "member_id": 4699
+  },
+  {
+   "name": "Lord Sentamu",
+   "party": "CB",
+   "member_id": 3762
+  },
+  {
+   "name": "Lord Johnson of Marylebone",
+   "party": "Con",
+   "member_id": 4039
+  },
+  {
+   "name": "Baroness Cass",
+   "party": "CB",
+   "member_id": 5369
+  },
+  {
+   "name": "Lord Moynihan of Chelsea",
+   "party": "Con",
+   "member_id": 5007
+  },
+  {
+   "name": "Lord Agnew of Oulton",
+   "party": "Con",
+   "member_id": 4689
+  },
+  {
+   "name": "Baroness D’Souza",
+   "party": "CB",
+   "member_id": 3709
+  },
+  {
+   "name": "Baroness Fleet",
+   "party": "Con",
+   "member_id": 4889
+  },
+  {
+   "name": "Baroness O’Neill of Bexley",
+   "party": "Con",
+   "member_id": 4967
+  },
+  {
+   "name": "Baroness Coffey",
+   "party": "Con",
+   "member_id": 4098
+  },
+  {
+   "name": "Lord Lucas",
+   "party": "Con",
+   "member_id": 1879
+  },
+  {
+   "name": "Baroness Eaton",
+   "party": "Con",
+   "member_id": 4184
+  },
+  {
+   "name": "Baroness Spielman",
+   "party": "Con",
+   "member_id": 5404
+  },
+  {
+   "name": "Baroness Fraser of Craigmaddie",
+   "party": "Con",
+   "member_id": 4906
+  },
+  {
+   "name": "Lord Storey",
+   "party": "LD",
+   "member_id": 4238
+  },
+  {
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education",
+   "member_id": 269
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 3179
+  },
+  {
+   "name": "Baroness Evans of Bowes Park",
+   "party": "Con",
+   "member_id": 4329
+  },
+  {
+   "name": "Baroness Butler-Sloss",
+   "party": "CB",
+   "member_id": 3804
+  },
+  {
+   "name": "Baroness Berridge",
+   "party": "Con",
+   "member_id": 4218
+  },
+  {
+   "name": "Baroness Stedman-Scott",
+   "party": "Con",
+   "member_id": 4174
+  },
+  {
+   "name": "Baroness Armstrong of Hill Top",
+   "party": "Lab",
+   "member_id": 4150
+  },
+  {
+   "name": "Baroness Walmsley",
+   "party": "LD",
+   "member_id": 2547
+  },
+  {
+   "name": "Baroness Longfield",
+   "party": "Lab",
+   "member_id": 5392
+  },
+  {
+   "name": "Baroness Bennett of Manor Castle",
+   "party": "GP",
+   "member_id": 4719
+  },
+  {
+   "name": "Baroness Lister of Burtersett",
+   "party": "Lab",
+   "member_id": 4234
+  },
+  {
+   "name": "Lord Hampton",
+   "party": "CB",
+   "member_id": 4951
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, Amendment 1 in my name seeks to clarify the purposes of the Bill. While the Government’s intentions, to improve children’s safety, well-being and education, have widespread support, I tabled this amendment because I believe there is currently an unbridgeable gap between these aims and several of the provisions within the Bill. I must express profound concerns regarding both parts of the Bill. There is a troubling pattern throughout it of an unclear definition of the problem it seeks to solve, insufficient evidence for the proposed solutions, a lack of successful piloting to give us confidence these changes will achieve their intended outcomes, no clear implementation plan, insufficient resources to implement and important gaps in areas including children’s well-being, special educational needs and disabilities, smartphones, social media and more. So, our job across this House, as the scrutinising Chamber, is to do just that, and to ensure that the Bill leaves this House stronger and in a state where we can all feel confident that it will work in practice and not just on paper. In recent weeks, I have spoken to a number of directors of children’s services and practitioners",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Young of Cookham (Con)",
+   "member_id": 57,
+   "type": "Contribution",
+   "text": "My Lords, I declare an interest as a member of the Marlow Education Trust, which is a multi-academy trust. This amendment, so ably moved by my noble friend, is necessary to confirm and clarify the objectives of the Bill, but also to stop the Government doing anything that is outside those objectives. I recall a similar purpose amendment being moved at the beginning of the Renters’ Rights Bill by my noble friends; a similar amendment was tabled at the beginning of the then Terrorism (Protection of Premises) Bill, and indeed the noble Lord, Lord Fox, from the Lib Dem Benches, proposed an identical purposes amendment to the then Non-Domestic Rating (Multipliers and Private Schools) Bill. It therefore seems that such so-called purpose amendments are becoming a feature of the process of legislative scrutiny, made more necessary when the time for Second Reading, which also deals with the purpose of the Bill, was so short. The amendment sets out the ambitions of the Bill, and the only point I want to make in a brief intervention is that these ambitions do not seem to take account of the many challenges facing the education sector. The Bill is in a sort of vacuum, detached from the real wo",
+   "name": "Lord Young of Cookham",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Carter of Haslemere (CB)",
+   "member_id": 4732,
+   "type": "Contribution",
+   "text": "My Lords, I strongly support the purpose clause, particularly where it describes the purpose of the Bill as being to “improve … standards and remove barriers to opportunity in schools in England and Wales”. I will be very brief and focus on Part 2, dealing with schools. For me, Part 2 should be first and foremost about promoting parental choice, because only parents really know what sort of education is best for their children: not the state, but parents. There should be choice—as much as possible—since children are all different, and what can be better than an education which enhances the unique talents and personalities of each child? This also chimes with Article 2 of Protocol 1 to the European Convention on Human Rights, which states in terms: “In the exercise of any functions which it assumes in relation to education and to teaching, the State shall respect the right of parents to ensure such education and teaching in conformity with their own religious and philosophical convictions”. So choice should be enshrined in any Bill purporting to promote children’s well-being. Is this the Bill’s aim? Looking at Part 2, I rather fear that the opposite is the case. To take just two exa",
+   "name": "Lord Carter of Haslemere",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Thornton (Lab)",
+   "member_id": 1782,
+   "type": "Contribution",
+   "text": "My Lords, here we go in Committee and here we have had, probably, our first Second Reading speech from a colleague. I will not make a Second Reading speech; I will address this amendment, which I think is unnecessary. We have a perfectly sensible, comprehensive description of what this Bill seeks to do. We do not need another list in the Bill.",
+   "name": "Baroness Thornton",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Farmer (Con)",
+   "member_id": 4321,
+   "type": "Contribution",
+   "text": "My Lords, I welcome the opportunity that the purpose clause from my noble friend Lady Barran has given us to range far more freely than the tightly timed Second Reading allowed. I could only comment on what was in the Bill and pay scant attention to what I sensed was lacking. Part 1, and therefore the first half of the purpose clause, is where my sights are set in this Bill: improving the safety and well-being of children and improving the regulation of children’s homes, fostering agencies and other settings where looked-after children are accommodated. We heard from my noble friend about Professor Eileen Munro’s letter to the Times yesterday. She robustly supports the expansion of early help. It is in the provision of this where the Bill needs strengthening and greater specificity: for example, about the role of family hubs, which are not even mentioned. A complex system of professionals and safeguarding arrangements is being restructured and key processes changed or removed, without it being clear what functions they are already performing or their place in the bigger picture. I was on the design group of the Independent Review of Children’s Social Care —I mentioned that at Secon",
+   "name": "Lord Farmer",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Blunkett (Lab)",
+   "member_id": 395,
+   "type": "Contribution",
+   "text": "My Lords, we have heard some highly respected voices this afternoon, and I want to put two or three things on the record. The noble Lord, Lord Young of Cookham, rightly draws attention to the fact that this kind of clause is now becoming commonplace at the beginning of Committees on Bills. I understand why people might want to raise specific issues, or even flag the amendments that they want to move in Committee, but if we prolong this stage to the point where our debates lose their purpose or we go on into the night—when, frankly, it is impossible to have rational and sensible debate—we will lose the purpose of the Committee itself. I understand what the noble Lord, Lord Young of Cookham, who I respect as a friend, said about Second Reading. I was frustrated to have only four minutes, and I know that the noble Baroness, Lady Barran, was deeply frustrated because she was trying to get back to Britain and could not. But we cannot have Second Reading debates at the beginning of every Committee. I make an appeal. I have amendments down, and I understand that we need to listen and learn. On Second Reading, my noble friend the Minister did just that, and listened to what I and the noble",
+   "name": "Lord Blunkett",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Wigley (PC)",
+   "member_id": 547,
+   "type": "Contribution",
+   "text": "My Lords, I sat through almost all the Second Reading but deliberately did not intervene in it because I was trying to ascertain how much of the Bill was to do with Wales and how much was not. In the context of her amendment, I ask the noble Baroness, Lady Barran, to clarify subsection (1)(c) of the proposed new clause, where it says, and I select the words deliberately, “improve … standards … in schools in … Wales”. Education in Wales is a totally devolved subject. I know that the Welsh Government and the Senedd have asked for certain provisions to be made via the Bill for application to Wales. I am sure the Minister can confirm that. Those are specific provisions that have been asked for and not a matter of generality. As I read the proposed new clause, there is a suggestion that it applies to the generality of standards in schools in Wales. The noble Baroness spoke of autonomy and accountability. That goes to the heart of the administration and provision of education in Wales, which is a devolved matter, and we must be clear in our minds why we are choosing those words. Clearly, the term “England and Wales” can arise quite rightly when we are talking about the jurisdiction or th",
+   "name": "Lord Wigley",
+   "party": "PC"
+  },
+  {
+   "who": "Lord Nash (Con)",
+   "member_id": 4270,
+   "type": "Contribution",
+   "text": "My Lords, I will not repeat my Second Reading speech. I draw attention to my interests on the register, particularly the fact that I am chair of a multi-academy trust. Regarding subsection (1)(a) of this proposed new “Purpose” clause, the Long Title states that it is to make “provision about the safeguarding and welfare of children”. Nothing that we could do to further that endeavour could be greater than to restrict access to social media to those aged over 16. That is why I have tabled Amendment 177 to that effect. Despite what the noble Lord, Lord Blunkett, for whom I have a huge amount of respect, said, this is so central to the overriding purpose of the Bill that I will take a few moments to elaborate. I think we all know naturally that social media is very harmful to our children, but there is now an overwhelming body of evidence to support this. I recommend that anybody who has not done so reads the excellent book The Anxious Generation by Jonathan Haidt. We want our children to be brought up confident, able to engage in deep thought, reflective and able to concentrate, to exercise judgment, to see the other side’s point of view, to be compassionate et cetera. We also want t",
+   "name": "Lord Nash",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Thornton (Lab)",
+   "member_id": 1782,
+   "type": "Contribution",
+   "text": "This is a Second Reading speech, but it is very interesting. Does the noble Lord accept that the charitable sector and social enterprises probably have quite an important role to play in the delivery of residential care for children and that flexibility will help with the finances of that because they are not in the business of making excess profits?",
+   "name": "Baroness Thornton",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Nash (Con)",
+   "member_id": 4270,
+   "type": "Contribution",
+   "text": "There are many in the charity sector that are professional, but there are many others. I do not think we disagree about this. Turning to other settings, I am an adviser to the Royal National Children’s SpringBoard Foundation, which works with more than 200 independent and state boarding schools across the country to support care-experienced and vulnerable children into often fully funded school bursary places. A significant proportion of the almost 300 children supported since 2021 are either with foster carers or in kinship care arrangements. Those in kinship care arrangements have achieved a 100% stability rate, which means that they have not needed to change carers, and those in foster care a 98% stability rate. Independent research by the University of Nottingham shows that they are four times more likely to achieve good GCSEs when compared with a matched control group, and 75% of them are going to university versus just 13% of care-experienced young people nationally. RNCSF is working hard to expand this provision, and I would be grateful if the Government could consider meeting its representatives to discuss how they can help it to do this further. Perhaps the Minister could ",
+   "name": "Lord Nash",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Knight of Weymouth (Lab)",
+   "member_id": 4160,
+   "type": "Contribution",
+   "text": "I am sorry to interrupt the noble Lord, whom I respect and enjoy debating with, but does he accept that if all 80 of us who made Second Reading speeches—and I enjoyed his four minutes—speak for nine minutes, as he has done, ranging across the whole of the Bill, it will make a nonsense of the work of this House?",
+   "name": "Lord Knight of Weymouth",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Nash (Con)",
+   "member_id": 4270,
+   "type": "Contribution",
+   "text": "I have a great deal of respect for the noble Lord, Lord Knight. I do not think all of us are going to make a nine or 10-minute speech, but I will wrap up now and hope that keeps him happy.",
+   "name": "Lord Nash",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Meston (CB)",
+   "member_id": 1940,
+   "type": "Contribution",
+   "text": "My Lords, I was unable to speak at Second Reading and I will resist the temptation to make a Second Reading speech now. Rather, I wish to concentrate on Amendment 1. Any consideration of a proposed purpose clause should take us all back to the Renton report, in which it was said that sometimes such clauses can be useful and sometimes they can be unnecessary, and that they should be used selectively and with caution. On one view, the scope and effects of this Bill are clear enough and there does not appear to me, at least, to be any complexity for which a purpose clause would help interpretation. However, there is perhaps some value in this amendment, which uses the word “improve” three times, emphasising the intention of the Bill—and the Bill as amended in due course—to achieve improvement in the areas specifically mentioned, and not to maintain or simply tweak the status quo. For that limited reason, I would support Amendment 1.",
+   "name": "Lord Meston",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Finlay of Llandaff (CB)",
+   "member_id": 3609,
+   "type": "Contribution",
+   "text": "My Lords, in responding I hope the Minister will be able to point out that the purpose of the Bill has a golden spine running through it, and that is the UN Convention on the Rights of the Child. The different clauses should be able to read across to the convention, and wherever the child is and whatever group they are in—and we have lots of groups in this Bill—fate can be extremely cruel, and we know that every day around 127 children lose a parent. Bereavement is a major issue and hits different groups in different places at different times and affects their outcomes. I hope that we will have a statement from the Minister in responding to this which is about the principle of what we are really trying to do for children across the whole nation, everywhere.",
+   "name": "Baroness Finlay of Llandaff",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Balfe (Con)",
+   "member_id": 4302,
+   "type": "Contribution",
+   "text": "My Lords, I do not intend to make a Second Reading speech, but I am probably fairly unique in this House in that I was brought up in a children’s home. Indeed, the noble Lord, Lord Bird, who is not in his place, and I have a joke that he got to prison and I ended up in a children’s home but we both somehow ended up here. What I find lacking in the Bill is that I have never felt that it is dealing with children; it is dealing with administration, with very worthy things. I do not feel that, when I was in a children’s home, I would have benefited from the feelings in the Bill. It just does not seem to take me anywhere. One of the problems we have to face is the attitude of society to children. I am not going to tell a long sob story, but I was extremely badly treated by my parents. A lot of people tried to help—teachers, social workers, neighbours—but there was an air of embarrassed indifference. People wanted to help but did not feel they could; they did not know how to. One of the things we have to get away from is the idea that it is someone else’s job. For about five years I was chair of an outfit called the association of Labour social workers. That was when I was in the Labour ",
+   "name": "Lord Balfe",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Andrews (Lab)",
+   "member_id": 2534,
+   "type": "Contribution",
+   "text": "The noble Lord has made an important and timely intervention about the focus of the Bill, which is indeed on children. It is the first Bill of its kind that has the phrase “well-being” in its Title. He reminded us why we are here. In the context of the debate we have been having across the House about the nature of this debate, and about Second Reading interventions that would more appropriately be presented as amendments, I say to the noble Lord that there is a series of amendments that we could get on to quite quickly and which would give us the opportunity to discuss the child at the very heart of improved systems of engagement and communication about the future of children, in the context of childcare services and the family. The next two groups of amendments give opportunities for the whole family, in a new way, to be engaged in determining the future of the child in the extended family, rather than in institutions or by way of administration. These are very important debates. They require and invite a long and a proper discussion in the Committee, and many people would want to contribute. It would be welcome if we could now hear the Minister wind up in response to this genera",
+   "name": "Baroness Andrews",
+   "party": "Lab"
+  },
+  {
+   "who": "The Earl of Effingham (Con)",
+   "member_id": 4958,
+   "type": "Contribution",
+   "text": "My Lords, perhaps I could make a small contribution. This is about a purpose clause. It is a broad amendment, and noble Lords are speaking to the amendment, whether that be proposed new paragraphs (a), (b), (c) or (d). It is on the Marshalled List and has been checked with the Clerk of Procedural Practice. If it were not right and appropriate, it would not be on the list today. So all contributions from all noble Lords are welcome, whatever their contribution might be. There are noble Lords in your Lordships’ Committee who still wish to make a contribution, which they will keep as brief as they can. The amendment is on the Marshalled List.",
+   "name": "The Earl of Effingham",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Meyer (Con)",
+   "member_id": 4699,
+   "type": "Contribution",
+   "text": "My Lords, I, too, would like to speak to Amendment 1. I realise that it is a broad amendment, so I shall concentrate on proposed new Clause 1(1)(a), and the “safety and wellbeing of children”. Last week, I asked why His Majesty’s Government had not followed France in banning mobile phones in schools, a policy introduced seven years ago and linked to better academic results and reduced bullying. The Minister rightly pointed out that France has a more directive education system, something my party would surely not want to replicate. She is quite right: we oppose excessive central control, especially when it threatens school autonomy or family life. But this is about the well-being, safety and health of children, just as school meals and physical activity are. As my noble friend Lord Nash pointed out, phones disrupt learning, harm mental health and hinder social development, especially for young children. This brings constant pressure on schools to manage distraction, cyberbullying and the emotional toll of social media. Schools that ban phones see calmer classrooms, better behaviour and stronger results. This advantages particularly children who are disadvantaged pupils. In primary s",
+   "name": "Baroness Meyer",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Sentamu (CB)",
+   "member_id": 3762,
+   "type": "Contribution",
+   "text": "I was not going to speak, but I sat through the Second Reading and it was long. We have had some of the same speeches again—not put in the same way, but the phraseology is going in that direction. The mover of proposed new Clause 1 was actually very good at making sure that she was using active verbs. I do not like passive ones—I go for the active ones. What are they? “Improve”, “improve”, “improve” and “make provision”. If you are dealing with children, the legislation needs to tell us that there are some things that we want to do—and of course, with them, not alone. For that reason, I want to support the Bill. I say to my dear friend, the noble Lord, Lord Wigley, that I love his way of speaking and he is very persuasive, but I do not understand why he thinks that paragraph (c) applies simply to Wales. The improvement will be in England and Wales, because the legislation will apply to England and Wales. Of course, there will be questions in the Parliament there and they will be talking about it, but the Bill as it stands is for schools in England and Wales.",
+   "name": "Lord Sentamu",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Wigley (PC)",
+   "member_id": 547,
+   "type": "Contribution",
+   "text": "My Lords—",
+   "name": "Lord Wigley",
+   "party": "PC"
+  },
+  {
+   "who": "Lord Sentamu (CB)",
+   "member_id": 3762,
+   "type": "Contribution",
+   "text": "I will soon sit down, so the noble Lord need not worry; I will tell him when I am about to sit down so that he can speak before I stop. I love the new clause and I support it, but the noble Lord, Lord Blunkett, gave us a warning, and I hope we heard his experience, not only in Sheffield but when he was Secretary of State for Education. There are things we could do throughout the Bill without laboriously going through 200 pages of amendments. This amendment paper is as big as the Bill itself. On the football Bill, I nearly lost the will to live because there were so many amendments. The guy or woman who is actually going to do the work at my little club, York, has my sympathy. I used to support Manchester United, but I told noble Lords at Second Reading why I no longer do so. Friends, could we not do better than laboriously go through every amendment that is proposed? Some of the amendments are good. I definitely support those of the noble Baroness, Lady Barran, because there are things in them that I can take away, but I am not so sure where some of the others are going. I am about to sit down, so the noble Lord can have his say.",
+   "name": "Lord Sentamu",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Wigley (PC)",
+   "member_id": 547,
+   "type": "Contribution",
+   "text": "I am very grateful. The point I was making was about the application of this legislation to a subject that is devolved. We need clarity in the Senedd in Cardiff, which nominally has responsibility—and factually has had responsibility up to now—for education in schools in Wales. If an introductory clause like this brings in the whole gamut of being governed from Westminster, there is a lack of clarity which must undermine devolution. All I am looking for is clarity, and I think the noble and right reverend Lord will understand that.",
+   "name": "Lord Wigley",
+   "party": "PC"
+  },
+  {
+   "who": "Lord Sentamu (CB)",
+   "member_id": 3762,
+   "type": "Contribution",
+   "text": "I do—I do not doubt it at all. Certainly, bits are devolved, but just looking at education in Wales and education here, we have to say that there are improvements already happening in England, and areas where Wales wants to catch up. People will have to be very careful. I am absolutely in favour of devolution, so do not misunderstand me, but looking at what is happening to England, you would not want it to happen in Wales, although the matter is devolved. It simply talks about improving. Would you not want to learn? Would you not want to know? The good thing is, as Donne said, “No man is an island, Entire of itself;” Nor is Wales, entire of itself.",
+   "name": "Lord Sentamu",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Johnson of Marylebone (Con)",
+   "member_id": 4039,
+   "type": "Contribution",
+   "text": "My Lords, proposed new paragraph (c) in this amendment touches on the Bill’s purpose of removing barriers to opportunity. It raises my concern about the Bill in general that, as my noble friend Lord Young said in his excellent remarks, we are being encouraged to consider this legislation somewhat blind and flying in the dark. That is because we have not yet had either the full final report of the Becky Francis review into curriculum and qualifications or the Government’s response to it. This is essential for a fair and full consideration of this legislation. This review is not just another consultation or call for evidence but the Government’s flagship review of curriculum and qualifications which is examining exactly this matter of how we remove barriers to opportunity in our system. We already know, however, that the relentless narrowing of options at age 16 is clearly not helping learners in this transition to level 3 study. Some 5% of 16 to 17 year-olds are NEET, up from 3.9% in 2015. This is an exceptionally worrying trend, and the Department for Education’s relentless quest to further narrow options through the defunding of applied general qualifications such as BTECs will no",
+   "name": "Lord Johnson of Marylebone",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Cass (CB)",
+   "member_id": 5369,
+   "type": "Contribution",
+   "text": "My Lords, as we have discussed at length, this is a multifaceted Bill, so I would welcome our achieving greater clarity of purpose. Without purpose, there is no focus, and we can get very lost in complexity. As we progress through Committee, I ask noble Lords to consider the opportunities offered in this Bill to improve well-being through healthier young lives. Let us not lose sight of health, because without good, healthy young people there is no opportunity for learning or well-being. I am talking about both physical and mental health. When I was president of the Royal College of Paediatrics and Child Health between 2012 and 2015, we had slipped over the preceding 15 years to being one of the worst-performing countries in Europe for infant and child mortality. Mortality, in particular infant mortality, is used globally as a sensitive indicator of the health of a nation. It is the canary in the coal mine for how we are looking after children and young people; it signals alarm if that is not going well. Since then, we have seen infant mortality rise among infants born to poor families while it continues to fall among the wealthy. We are looking at a variety of public health issues ",
+   "name": "Baroness Cass",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Moynihan of Chelsea (Con)",
+   "member_id": 5007,
+   "type": "Contribution",
+   "text": "I support this amendment, and I hope to illustrate to the Government that this proposed purpose clause will help them and will be of benefit to the debate in reaching an effective and clear Bill. Like the noble Lord, Lord Meston, I do not have a Second Reading speech; I am focusing only on this amendment. The noble Baroness on the Government Back Bench, the noble Lord, Lord Blunkett, for whom I have the greatest respect, and other noble Lords seemed to be saying, “We don’t need no education Bill purpose clause”. I suggest that many Bills, including this one, would benefit from a purpose clause. It provides clarity, as the noble Baroness, Lady Cass, said, and the ability to check each clause against it to ensure that they would indeed meet the purpose of the Bill. It also provides needed clarity to the debate. The principle can be seen in any organisation that is trying to think through a change in direction and how to implement it. It starts with the strategy, which is the purpose. Having decided the strategy, it moves on to the tactics—the other clauses are the tactics that fulfil the purpose. Otherwise, you are not quite sure why a whole range of clauses are there. You cannot fit",
+   "name": "Lord Moynihan of Chelsea",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Agnew of Oulton (Con)",
+   "member_id": 4689,
+   "type": "Contribution",
+   "text": "My Lords, I speak in support of the purpose clause, in particular, subsection (1)(a) and (c), improving “the safety and wellbeing of children”, and improving “standards”, to “remove barriers to opportunity”. I also refer to my interests in the register. As the Minister will have gathered from some 188 pages of amendments, there are serious concerns with the Bill. I am sure she will dismiss many of these as distractions, but I want to assure her that having spent nearly 15 years trying to improve the education of young people, mostly from areas of deprivation, and therefore the opportunities for them, that is not my purpose. I first give credit to the Government for tackling the issue of kinship care. The educational outcomes for children in care are shockingly bad. If there is any cohort of children in our society that has been dealt a cruel hand, it is those children. Kinship care is often an obvious and decent solution; however, many of these children have been traumatised by several years in severely dysfunctional families, and the task facing the new carer is formidable. That is why I have always been such a strong advocate for offering boarding school places for those children",
+   "name": "Lord Agnew of Oulton",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness D’Souza (CB)",
+   "member_id": 3709,
+   "type": "Contribution",
+   "text": "My Lords, as a non-contributor to the Bill so far, it seems to me that the amendment is not being spoken to. I wonder whether I could support those who have enjoined contributors, on this day 1 of Committee, to speak to the amendment and to limit the length of their speeches. I also ask the Government Front Bench whether they would monitor this.",
+   "name": "Baroness D’Souza",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Fleet (Con)",
+   "member_id": 4889,
+   "type": "Contribution",
+   "text": "My Lords, I speak to the intended purpose of the Bill, which includes improving the well-being of children, as given in subsection (1)(a) of the proposed new clause, and removing barriers to opportunity, as given in subsection (2)(c) of the proposed new clause. I declare my interests as governor of Shoreditch Park Academy, former chair of the national plan for music education and co-founder and chair of the London Music Fund. We are debating the future of our schools and children, and the well-being of our children. What could be more important than that? This Government were elected on a mandate of change, but on so many issues Ministers cannot explain the reason, in this Bill particularly, for the change. What is the problem the Government are trying to solve? On this Bill, the bewilderment about the reason for change is now greater than ever. As my noble friend Lord Johnson of Marylebone said, we will be voting on a Bill that includes a curriculum that all schools will be obliged to follow—a curriculum about whose content neither we nor, it seems, the Government have any idea. This is absurd. This is not change to benefit children and improve their well-being but simply ideologi",
+   "name": "Baroness Fleet",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness O’Neill of Bexley (Con)",
+   "member_id": 4967,
+   "type": "Contribution",
+   "text": "My Lords, as your Lordships will know from my register of interests, I am currently the leader of the London Borough of Bexley. That means I have an involvement with both the Local Government Association and London Councils. What my entry does not say that I am now the longest-serving leader of the London Borough of Bexley and that, before I was leader, I was the first cabinet member for children’s services in our borough. Your Lordships might ask why that is important. Over that period, during which we were the first authority in London and only the second to Leeds in the country—as the noble Baroness, Lady Blake, will attest—to achieve two outstanding ILACS Ofsted inspections. We also have a very good reputation for our local schools, which include four grammar schools, and we take in many young people from neighbouring Labour boroughs whose parents aspire to a better education for their young people. In this contribution, I will focus my comments on the children’s social care aspects of the proposed Bill. Over the years, I have had the absolute pleasure to work with some fantastic local authority officers, including some superb directors of children’s services, or deputy directo",
+   "name": "Baroness O’Neill of Bexley",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Coffey (Con)",
+   "member_id": 4098,
+   "type": "Contribution",
+   "text": "My Lords, I rise to speak to the proposed new clause and to support, in particular, subsections (1)(a) and (1)(c). As the noble Lord, Lord Meston, pointed out, it contains the key word “improve”. One of the purposes of a purpose clause is to set out very clearly for the courts how legislation should be applied and to what end it is achieved. It will be a matter of debate—I am sure the debate already happened at Second Reading—whether measures in here will improve things: that is a matter for debate. But if we have this, I hope that my noble friend Lady Barran will put it to a vote on Report, so that all the House in its conscience, when it is determining what parts of the legislation we retain, change or drop entirely, comes back to the central purpose: what is this doing to improve the outcomes for children? I say to my noble friend Lord Balfe that the Title of the Bill should really be “Some Children’s Wellbeing”, because clearly it does address well-being for some children. I suppose I am sharing my frustration—not that I am challenging the guidance of the clerks, although we can have a debate about it—that the scope of the Bill is actually pretty narrow in considering how to im",
+   "name": "Baroness Coffey",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Lucas (Con)",
+   "member_id": 1879,
+   "type": "Contribution",
+   "text": "My Lords, I hope that my noble friend Lord Balfe made a very good case for a purpose clause that puts children at the front of the Bill. I will make a rather more restricted case to use a purpose clause to support the home education clauses in the Bill. The first virtue of a purpose clause, when it comes to home education, is that we are trying to give local authorities guidance on how they conduct themselves towards the home education community. To have something clear at the beginning of the Bill would make that much easier for them. Secondly, we are dealing with a diverse community in home educators; for them clearly to see the effect on them, in a complicated Bill, and the Government’s underlying purpose would be a great help in moderating and steering their interaction with the Bill after it is introduced. So I strongly urge the Government to consider a purpose clause when it comes to home education. It does not need to be much longer than “to support children not in school, and their parents”. Something like that would make a substantial difference to the way the Bill is read. I will pick up on some difficulties that I have with the Bill and the way it is drafted, and in unde",
+   "name": "Lord Lucas",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Eaton (Con)",
+   "member_id": 4184,
+   "type": "Contribution",
+   "text": "My Lords, I too speak in support of the purpose clause tabled by my noble friend Lady Barran. I declare my interests as a member of Beckfoot multi-academy trust and of the Leeds Diocesan Learning Trust. It surprises me greatly that adoption does not form part of the Bill. Despite improvements in the adoption system, evidence highlights significant gaps in support. Last year’s Adoption Barometer showed that the proportion of adoptive families facing severe challenges increased from 30% in 2022 to 38% in 2023, which is the highest over the six years of reporting. Also, the number of prospective adopters has declined. There are particular issues with support for contact between adoptees and members of their birth family, and with transition to adulthood. Some 4,000 children per annum are adopted—of those, 80% have suffered abuse, neglect or violence, and 11% come from dysfunctional families. Many spend up to 15 months in care with several foster families before being adopted. Adopted children are more than twice as likely as other children to have special educational needs. The virtual school has different remits for different cohorts. Adoption UK evidence shows that where virtual sch",
+   "name": "Baroness Eaton",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Spielman (Con)",
+   "member_id": 5404,
+   "type": "Contribution",
+   "text": "My Lords, I will speak very briefly and will save most of what I want to say for the specific amendments. I listened to the entire Second Reading debate below the Bar, but at that point I was not able to speak in this House. I support my noble friend Lady Barran, who has rightly drawn attention to the need to have express purposes linking through to the improvement of provision for children. I support all four proposed new paragraphs and I share some of the concerns that have been expressed, especially by my noble friend Lord Balfe and the noble Baroness, Lady Cass, for example, about conceiving this from the starting point of children and thinking about their experience in the round. When I read the Bill I was struck that the Long Title does not mention the word “well-being”, despite the title, and I could find no thread through to explain what it meant. For me, it is the likely outcome of loving a child, caring for them, looking after their health, educating them and making sure they have peers, good relations with the adults around them and the opportunities to discover where their strengths lie. Many such things contribute ultimately to well-being. We need this test around impr",
+   "name": "Baroness Spielman",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Fraser of Craigmaddie (Con)",
+   "member_id": 4906,
+   "type": "Contribution",
+   "text": "My Lords, I rise very briefly in support of the proposed new purpose clause from the noble Baroness, Lady Barran. This is an enormous Bill on children’s well-being and schools. It could be two enormous Bills. What we have seen in this House with many other Bills is that, when we have an enormous Bill, all sorts of people and organisations want to hang things on it like Christmas tree baubles and it becomes unworkable, so I welcome this proposed new purpose clause to give us some sort of sustainable and impactful legislation, hopefully, at the end. Nobody has mentioned children with special educational needs, which, as the noble Baroness knows, is my special interest in this. I support the proposed new purpose clause because it brings us back to the interests of all children, including those with profound needs and disabilities, who are very difficult to accommodate in the usual school system. We are not alone in that. I can point to studies from Sweden, Denmark and all across the world about the difficulty of grappling with this challenge. Profound disability remains strongly associated with poor educational outcomes. We know from experience—although sadly not from data, because we",
+   "name": "Baroness Fraser of Craigmaddie",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "Nobody has spoken from these Benches because we did not expect to be talking in generalities. We welcome this very important Bill. As I listened to some important contributions, I found that those people who spoke about a particular issue, were short in their comments and stuck to the point made an incredibly valuable contribution. The more I listened, the more I thought that maybe there is a case for having a purpose clause where you set out where you are going. This is a large Bill, and the amendment paper is bigger than the Bill itself. That does not happen often. The last Bill was the famous Schools Bill from the previous Conservative Government. Had they had a purpose clause in that Schools Bill, maybe it would not have been abandoned in the way it was. Maybe they would have thought that they were going to be hijacked by the academy lobby, with the few minor changes that were suggested in that Bill, and the purpose would have been thought through. Had it not been abandoned, we would have already sorted and carried through many of the issues that we have grappled with over the past couple of years, such as unregistered schools, hundreds of thousands of children missing, home ed",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "The Minister of State, Department for Education (Baroness Smith of Malvern) (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My Lords, I thank noble Lords, not only those who have contributed today but those who have already contributed to the discussions on this important Bill at Second Reading. In fact, people enjoyed Second Reading so much that they decided they would have another go today. The noble Lord, Lord Agnew, accused me of wanting to dismiss any amendments. That is wholly wrong; I want to get on to discuss the detail of those amendments in this Committee, as is the function of this stage. On this occasion, I fear that Amendment 1 not only is unnecessary but has been tabled to delay our detailed consideration of the significant legislation before us. First, from a legal perspective, the proposed new clause would not have meaningful, practical effect. Secondly, on the point that many noble Lords have referred to about being clear about the purpose, intent and the outcome of this Bill, Ministers in the other place and at the Bill’s Second Reading in this place have been clear about the purpose of this critical legislation. I will use this as an opportunity to remind the Committee of what the Bill will achieve. This is a landmark Bill that will reform both children’s social care and education to ",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, I thank all noble Lords for their contributions on this amendment. It feels curious that the Minister started her remarks by questioning my integrity in tabling the amendment, suggesting that it is a delaying tactic. I think I raised extremely serious concerns that are being put forward. She does not need to believe me, but I respectfully suggest that she should listen to those with the greatest expertise in this area. I said, and I commit to this again, that I will approach this Bill in absolute good faith and, particularly regarding Part 1, there should be nothing political in it. I hope we can build a bridge to make positive change in the Bill. I would also just like to reassure the noble Lord, Lord Wigley, that we did not in any sense intend to overturn any of the powers held by the Senedd. I am sure, if the purpose clause had intended to remove the devolution of education powers in Wales, that would have deserved at least one bullet point in the amendment. This debate was also a reminder of the expertise in this House. I would like to mention a few of the points that were made and invite the Government to think about drafting their own purpose clause if they do not l",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, I will speak to my Amendments 2, 15, and 16, which concern the mandatory implementation of family group decision-making processes. While I broadly support the intention behind these provisions, there are several important issues which need to be considered carefully if we are to achieve the best outcomes for vulnerable children. First, I will place this proposal in context. As the Minister knows, most local authorities already implement some form of family group conferencing—in old language—or “decision-making” processes in the Bill. That is set out in the statutory guidance to the Children Act 1989, which says that, where there are court orders and in pre-proceedings, children’s services should consider making a referral for a family group conference “if they believe there is a possibility the child may not be able to remain with their parents … unless this would be a risk to the child”. I want to understand why the Government think this needs to be mandatory, perhaps rather than other approaches. Is there a specific problem that the Government want to solve by doing that?",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "The Deputy Chairman of Committees (Baroness Pitkeathley) (Lab)",
+   "member_id": 3179,
+   "type": "Contribution",
+   "text": "I should advise your Lordships that, if Amendment 2 is agreed to, I will be unable to call Amendment 3 for reasons of pre-emption.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Baroness Evans of Bowes Park (Con)",
+   "member_id": 4329,
+   "type": "Contribution",
+   "text": "My Lords, I rise to support Amendment 2 in the name of my noble friend Lady Barran. As we have just heard, it has a simple purpose: to allow families access to a family group decision-making meeting at the earliest possible opportunity in the child protection process. As I am sure noble Lords have seen, the Family Rights Group briefing, for instance, noted that, when a local authority issues parents with a pre-proceedings letter, concerns around a child’s welfare will already be serious and could mean that an intervention at this stage through a family group decision-making meeting is, unfortunately, already too late. The British Association of Social Workers and Coram have expressed similar worries that waiting could mean that opportunities to bring families together are lost, with difficulties having escalated too far to be addressed. I believe that research on the ground shows that family group conferences can be effective whenever the time is right for the family—in most cases, that may well be the sooner the better. Indeed, some local authorities are already successfully offering family group conferences earlier on in the child protection process. As my noble friend outlined i",
+   "name": "Baroness Evans of Bowes Park",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Butler-Sloss (CB)",
+   "member_id": 3804,
+   "type": "Contribution",
+   "text": "My Lords, I was a family judge for about 35 years, and I tried mostly care cases. I very much support this amendment and will make three points. First, I entirely agree with the previous speakers: hold the meeting as soon as possible, because it is unlikely that the decision to make a make an application for a care order or an interim care order comes at a very early stage. One hopes that the social workers would have been working with the family before this becomes inevitable. Consequently, the sooner the discussions can be had—and the other members of the family identified where possible—the better it will be, and it may not be necessary to have the care application before the magistrates’ court in any case. Secondly, not only is it important to have the meeting early but there must be a degree of ability for the local authority to deal with members of the family—because, not in every case but in some cases, as the noble Baroness, Lady Barran, has said, there will be very unhappy divorce proceedings pending, whereby the parties will use the children as the arena for their attacks on each other. That is the typical sort of unhappy divorce case—fortunately not frequent, but one tha",
+   "name": "Baroness Butler-Sloss",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Meston (CB)",
+   "member_id": 1940,
+   "type": "Contribution",
+   "text": "My Lords, I, too, have laboured long in the family courts. I think that we are all basically aiming in the same direction, but the detail is important. Family group conferences or meetings, as described in this Bill and in the amendments, are a valuable process, often best used as the pre-proceeding stage rather than after a formal application has been issued. I cannot help wondering whether there is not some lack of clarity in the drafting, at least of the amendment. The Bill as I read it is clear enough; it says that the local authority must include the offer of such a meeting in a letter before proceedings. That is entirely desirable in my view, whereas the amendment says: “When a local authority starts formal child protection proceedings”, which to my mind reads as if it means “Once it has actually issued the formal application”. In some cases, that may be too late. I think that there is a mistake, possibly unintended, in the drafting of the amendment. The general thrust of what the noble Baroness said—that the meetings should be initiated as soon as possible—is clearly right. These meetings are valuable for three main reasons. First, they enable family members to be informed o",
+   "name": "Lord Meston",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Berridge (Con)",
+   "member_id": 4218,
+   "type": "Contribution",
+   "text": "I speak in support of this amendment and wish the Government to explore whether it is possible at an earlier stage for these meetings to be considered. My noble friend referred to the delay, with parents saying that there was going to be a meeting and not turning up to it. As I read the amendment, it includes “parents or any other person with parental responsibility for the child”, who must be offered the meeting. There may be circumstances in which the court has previously made a special guardianship order that leaves the parents with only aspects of parental responsibility, which are to be told of a name change or to be told that the child will be leaving the jurisdiction. That is a very limited amount of parental responsibility. If for whatever reason—often due to illness of the special guardian—the risks rematerialise and you are back into care proceedings, is it envisaged that such parents, who may not have heard anything for a number of years because the child has not left the jurisdiction and not had their name changed, will be included in the mandatory duty to be offered to be part of this decision-making process? If that is the case, if the logic is correct, you are stacki",
+   "name": "Baroness Berridge",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "Good. I mean that it is good that we are now into the detail of what it is that we are here to consider. I am very pleased at the support and welcome for the process of family group decision-making, which I know is behind all the amendments and contributions that have been made today. This measure places a duty on local authorities to offer a family group decision-making meeting to the child’s parents, or any other person with parental responsibility for the child, before an application for a care or supervision order is made. This Government want to help more families to stay together by mandating the offer of a family group decision-making meeting for every family at the point before it is necessary to initiate care proceedings for a child. I very much appreciate the intentions of the amendments that have been tabled, which tally with the Government’s aim to maximise the impact of family group decision-making. But I hope, therefore, that I can reassure noble Lords that these amendments are not necessary to achieve that. I know that the amendments seek to balance the provision of family group decision-making with the need to avoid delay to child arrangements proceedings or permane",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Berridge (Con)",
+   "member_id": 4218,
+   "type": "Contribution",
+   "text": "Before the noble Baroness sits down, I would be grateful if she would outline the response—maybe she needs to write to me—on the specific situation that I raised in relation to special guardianship orders. I recognise that there is a best-interest test, but, as the main clause of the Bill reads at the moment, parents with that limited parental responsibility are covered by the duty and it would be good to have some clarification.",
+   "name": "Baroness Berridge",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I cannot answer that today, but I certainly undertake to write to noble Lords on that important point and that juxtaposition in relationship.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, I thank the Minister for her response and all noble Lords who contributed to this debate. It is a privilege to have the experience of the noble and learned Baroness, Lady Butler-Sloss, and others around the House on this. In response to the comments of the noble Lord, Lord Meston, on our drafting, I feel I need to make a general plea for noble Lords to listen to the intent of what we are trying to do rather than focus on the specific wording. We were not intending to change the spirit of the Bill on pre- proceedings.",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Stedman-Scott (Con)",
+   "member_id": 4174,
+   "type": "Contribution",
+   "text": "My Lords, I will speak to Amendment 3 in my name, which is cosigned by my noble friend Lord Effingham. The Bill states that “the authority must offer a family group decision-making meeting to the child’s parents or any other person with parental responsibility for the child”. In moving this amendment, I seek to extend the right to family group conferences to children, young people and young adults so that, most importantly, they can contribute to and ultimately agree their own care plan. The purpose is as simple as that. Why should they not be able to do this? I thank all the organisations that work tirelessly to support families, children and young people every day, including for their briefings on this important subject. I am only sorry that I cannot refer to them all. Research commissioned by County Councils stated that there would be nearly 100,000 children in care, representing a 36% rise in a decade. By including 16 and 17 year-olds in the family group conferencing, we may be able to reduce the number going into care —where it is safe to do so—and staying, with the support of their family or those with parental responsibility, reducing the trauma they may face and ensuring th",
+   "name": "Baroness Stedman-Scott",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Armstrong of Hill Top (Lab)",
+   "member_id": 4150,
+   "type": "Contribution",
+   "text": "My Lords, I have five amendments in this group, all of which come from my knowledge and understanding of evidence-based work. I declare my interest as a trustee of the Foundations What Works Centre for Children and Families. I have been involved in this even longer than the noble Baroness opposite. My first job in this country was in 1970 in Newcastle, at what was then the first of the children’s departments after the Seebohm report. I had just qualified as a social worker specialising in family casework. You do not get anything like that these days. I was keenly aware that this country, in its legislation on children, responds to tragedies, and I have seen this all my working life. We do not start by asking what we need to give children the very best. We start from: “This child died in dire circumstances and we must make sure that it never happens again”. Of course, we have to do that, but we need legislation that starts by asking: what are the best ways to support families to enable their children to have the very best in life? We get things the wrong way round, so I am pleased that the Government are trying to start by asking what we mean by the well-being and best interests of ",
+   "name": "Baroness Armstrong of Hill Top",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Walmsley (LD)",
+   "member_id": 2547,
+   "type": "Contribution",
+   "text": "My Lords, as one of the many qualified teachers in your Lordships’ House, I will speak to Amendment 14 in the names of my noble friend Lady Tyler—who cannot be with us today—me and others. Before I do so, I warmly welcome the noble Baroness, Lady Longfield, to this Committee. I know that as the Children’s Commissioner she was so very committed to all these issues, and I know she is supporting the amendments of the noble Baroness, Lady Armstrong, today. I was involved with the legislation that set up the UK Children’s Commissioner in the first place and was involved in making sure that the commissioner “must” have regard to the UN Convention on the Rights of the Child, not “may”, as was in the original version. That is relevant to what I will say about Amendment 14. The intention of Amendment 14 is very simple: to ensure that those making decisions affecting children and young people seek and take into account their wishes and feelings, if they wish to give them, and to support them to do so. I welcome the Government’s ambition to be a child-centred Government and support the important steps taken in the Bill to strengthen the systems intended to keep children safe, yet there is mor",
+   "name": "Baroness Walmsley",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Farmer (Con)",
+   "member_id": 4321,
+   "type": "Contribution",
+   "text": "My Lords, I rise to speak to Amendment 18 in my name and to Amendments 7 and 14, which have just been ably spoken to by the noble Baronesses, Lady Armstrong and Lady Walmsley. Amendment 7 is also supported by the noble Baronesses, Lady Longfield and Lady Drake, and Amendment 14 by the noble Baronesses, Lady Bennett of Manor Castle and Lady Tyler of Enfield, who is not in her place. This group is primarily about family group decision-making, so I will speak to Amendments 7 and 14 first. The Government have avoided referring to family group conferencing per se, presumably because they want to allow for evolution of good practice of the family group decision-making model. But as I said at Second Reading, the evidence base on which they are relying for this legislation assumes faithful implementation of what we know makes a difference. One key aspect of family group decision-making is that it is not a one-off meeting. If it were, this could become a token effort to bring together all those with family or other close relationships to the child. Currently, however, the Bill makes provision only for the offer of a family group decision-making meeting. Rather, family group decision-making ",
+   "name": "Lord Farmer",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Longfield (Lab)",
+   "member_id": 5392,
+   "type": "Contribution",
+   "text": "I support the amendments tabled by my noble friend Lady Armstrong. I appreciate having this opportunity to discuss in more detail family group decision-making. I welcome the measures in the Bill that seek to offer families the chance to build solutions together that can secure their children’s welfare and give them agency. I am pleased that we are seeing support across the House for family group decision-making; that is a very positive start. My interest in supporting these amendments is about ensuring that the process is strong enough to drive and deliver the outcomes that we all want to see, so that children have better outcomes and more can safely stay with families. We have heard about that at length because of the evidence surrounding it. I declare an interest as the executive chair of the Centre for Young Lives; I also share an office building with foundations of which my noble friend Lady Armstrong is a trustee. My experience with this, and my relationship with those organisations, goes back decades. Over that time, I have been convinced of the benefits of family group conferencing, having spoken to and worked with professionals, families and children who have gone through t",
+   "name": "Baroness Longfield",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Bennett of Manor Castle (GP)",
+   "member_id": 4719,
+   "type": "Contribution",
+   "text": "My Lords, I have attached my name to Amendment 14, already very ably introduced by the noble Baroness, Lady Walmsley, and supported by the noble Lord, Lord Farmer. I want to widen the political breadth of support for the family group decision-making process by strongly offering the Green Party’s support. Amendment 14 differs from the amendment of the noble Baroness, Lady Stedman-Scott, which refers just to 16 and 17 year-olds. It is more expansive than the amendment from the noble Baroness, Lady Armstrong, in that it stresses the need to make every effort to ascertain the child’s wishes and feelings and give due consideration to them. However, it is worth noting that all the amendments in this group and the associated amendments reflect, as others have said, briefings from the Children’s Charities Coalition and the Family Rights Group, which are saying, as other noble Lords have said, that the Government are going in the right direction but the Bill needs to be strengthened and made clearer, which is what this amendment and others seek to do. In backing this amendment, I am reflecting statements I have been making in your Lordships’ House and amendments I have been tabling and sign",
+   "name": "Baroness Bennett of Manor Castle",
+   "party": "GP"
+  },
+  {
+   "who": "Baroness Butler-Sloss (CB)",
+   "member_id": 3804,
+   "type": "Contribution",
+   "text": "My Lords, it is a particular pleasure to hear from the noble Baroness, Lady Longfield, and to have the former Children’s Commissioner in this House. This is a good Bill but, like all Bills, it could be better. I support Amendments 3, 13, 14 and 18. In 1988, I wrote a report, having been chairman of the Cleveland child abuse inquiry. In my report, I said that children should be listened to. I also said that children were people and not objects of concern. I remember talking as recently as last year to a young person whom nobody had told what was happening to him. He had no idea until he was moved. This is very serious. It is not just that nobody took any notice of what I said; the fact is, everybody else has been saying it. The noble Baroness, Lady Walmsley, referred to the voice of the child. The voice of the child is crucial at all stages of what happens to children.",
+   "name": "Baroness Butler-Sloss",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Lister of Burtersett (Lab)",
+   "member_id": 4234,
+   "type": "Contribution",
+   "text": "My Lords, I will be very brief indeed. I just remind noble Lords that in considering the first amendment, which went on rather a long time, the noble Baroness, Lady Finlay, who is not in her place, talked about children’s rights being the “golden spine running through” the Bill, but that is not explicit in the Bill. Amendment 14, so ably introduced by the noble Baroness, Lady Walmsley, is a very good example of how we could be promoting children’s rights much more explicitly in the Bill. I very much support the amendments. I will be introducing amendments myself at the very end—if anyone is still standing at that point. I had hoped to do it at the beginning. The more we can come back to this thread of children’s rights throughout the Bill, the better. I hope noble Lords will realise the importance of the amendments on children’s rights, which will be introduced at the end of the Bill.",
+   "name": "Baroness Lister of Burtersett",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Hampton (CB)",
+   "member_id": 4951,
+   "type": "Contribution",
+   "text": "My Lords, I will speak very briefly to Amendment 8, to which I have added my name. In this, I declare that I am one of the school of qualified teachers in this Chamber. I am also a kinship carer of twin 13-year-olds. This is a very small but important amendment. As we have heard, the Bill attaches great importance to family decision-making. I recently had a cup of tea with my noble friend Lord Laming to ask his advice about the Bill. Sadly, he is unable to take part, but if there is one person in the House who is an absolute expert in this field, it is he. His concern—which I share, having been in decision meetings that have gone wrong—is that a badly handled meeting can do more harm than good. The wrong timing of a meeting, the participants not realising the aims or bad chairing can lead to a breakdown of trust and irreparable harm being done to a child’s future. This amendment goes a long way to making sure that the importance of an FGDM meeting is acknowledged, with the fact that it can be facilitated only by an independent, suitably trained person, and I urge the Government to accept it.",
+   "name": "Lord Hampton",
+   "party": "CB"
+  },
+  {
+   "who": "The Earl of Effingham (Con)",
+   "member_id": 4958,
+   "type": "Contribution",
+   "text": "My Lords, I will speak to Amendment 3 in the name of the noble Baroness, Lady Stedman-Scott, which I have co-signed. Family group conferencing was born out of the Children, Young Persons, and Their Families Act 1989 in New Zealand, whereby families became key participants in a process of decision-making. Family group conferences are now used in approximately 30 countries worldwide and in at least 22 countries in Europe. Indeed, research has shown that children whose families were referred to a family group conferencing at the pre-proceedings stage were significantly less likely to be in care 12 months later than those whose families were not so referred. This should not be a surprise to your Lordships, as such preparation and discussions offer a compelling opportunity for families to come together and unite around important decisions for their child, which has the benefit of making that child feel loved and wanted, as well as the ability to address with professionals any glaring gaps in the child’s well-being. Amendment 3 is a simple amendment that seeks to extend the right to family group decision-making meetings to children aged 16 and 17. It is surely important that we allow chi",
+   "name": "The Earl of Effingham",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My Lords, perhaps I might say how both interesting and informative I found the contributions on this group of amendments. It is something to be in this House and be able to hear the experiences of those, like my noble friend Lady Armstrong, who has experience as a social worker and a long history of campaigning and policy-making in this area, my noble friend Lady Longfield, who, of course, was an important and impactful Children’s Commissioner, and the noble and learned Baroness, Lady Butler-Sloss, who just gave us a small exposition of the enormous experience that she has in this area—and many others, as well, who have made important points.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Lister of Burtersett (Lab)",
+   "member_id": 4234,
+   "type": "Contribution",
+   "text": "I very much welcome my noble friend’s recognition of the importance of the voice of the child, but the point was made from around the Committee that the principle derives from the UN Convention on the Rights of the Child. She did not mention children’s rights in the UN convention, so it would be reassuring if she put on the record that she acknowledges that this is an important thread that runs through many of the provisions in the Bill.",
+   "name": "Baroness Lister of Burtersett",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "We recognise that the UN Convention on the Rights of the Child is an important thread, but that does not necessarily mean that it can be used as a trump card on every future occasion, which I am sure my noble friend would not choose to do. I think I clearly said that the rights and voice of the child have to be absolutely at the heart not only of the Bill but of the way in which it is implemented throughout children’s social care.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "I just wonder whether the Minister was referring to my Amendment 17, rather than my Amendment 19, in her response. She talked about not making an assumption that a child would need a child protection plan if they were going into kinship care, which is linked more to Amendment 17. Amendment 19 is about the plan not being dropped for a child under five who is already on a child protection plan and goes into care proceedings. I am very happy for her to pick that up in another group, if we are allowed, but I wonder whether there has been some confusion.",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "It may be that in part of my response I pre-empted the point that the noble Baroness is making in Amendment 17, but I did recognise the point about Amendment 19, which I think the noble Baroness made, about the process in place to discharge that particular child protection plan. On that, I outlined that we are confident that the current system and the strengthened focus on multiagency child protection are robust and that there is sufficient accountability around discharging child protection plans. If I have not sufficiently reassured the noble Baroness about that, I am willing to write to clarify the points I was trying to make on that amendment.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Stedman-Scott (Con)",
+   "member_id": 4174,
+   "type": "Contribution",
+   "text": "I thank the Minister for her reply, which was very encouraging, as especially was the spirit in which the debate happened. Things seem to have calmed somewhat. I did not quite get what I wanted, so I will reserve the right to think about it for Report, but I hope we can keep the dialogue going. For now, I beg leave to withdraw my amendment.",
+   "name": "Baroness Stedman-Scott",
+   "party": "Con"
+  }
+ ],
+ "fetched": "2026-10-21T20:26:07Z"
+}

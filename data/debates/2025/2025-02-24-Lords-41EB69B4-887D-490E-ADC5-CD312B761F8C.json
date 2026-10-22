@@ -1,0 +1,806 @@
+{
+ "ext_id": "41EB69B4-887D-490E-ADC5-CD312B761F8C",
+ "date": "2025-02-24",
+ "house": "Lords",
+ "section": "GrandCommittee",
+ "title": "Non-Domestic Rating (Multipliers and Private Schools) Bill",
+ "parents": [
+  "Grand Committee"
+ ],
+ "location": "Grand Committee",
+ "url": "https://hansard.parliament.uk/Lords/2025-02-24/debates/41EB69B4-887D-490E-ADC5-CD312B761F8C/NonDomesticRatingMultipliersAndPrivateSchoolsBill",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Lord Fox",
+   "party": "LD",
+   "member_id": 4322
+  },
+  {
+   "name": "Lord Thurlow",
+   "party": "CB",
+   "member_id": 4353
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 2595
+  },
+  {
+   "name": "Baroness Scott of Bybrook",
+   "party": "Con",
+   "member_id": 4553
+  },
+  {
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government",
+   "member_id": 4913
+  },
+  {
+   "name": "The Earl of Lytton",
+   "party": "CB",
+   "member_id": 1864
+  },
+  {
+   "name": "Baroness Pinnock",
+   "party": "LD",
+   "member_id": 4341
+  },
+  {
+   "name": "Lord Jamieson",
+   "party": "Con",
+   "member_id": 5019
+  },
+  {
+   "name": "Lord de Clifford",
+   "party": "CB",
+   "member_id": 4997
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Lord Fox (LD)",
+   "member_id": 4322,
+   "type": "Contribution",
+   "text": "My Lords, I welcome the Minister back to his place and say that the whole House was sorry to hear of his family’s loss. We on these Benches welcome this Bill as a narrow tinkering of a broken system. It may have some beneficial effects, but I remind your Lordships that the non-domestic rates system has been broken for years, and if this tinkering distracts from a full and proper review of the system, then it is a malign influence rather than a benefit. From scrutinising the Commons debate on this Bill, it seems that the Government sought to limit debate by asserting that its purpose was to use multipliers to manipulate the non-domestic rates of a subset of businesses in what it calls high streets. This measure is focused on retail, hospitality and leisure hereditaments. Having done this, the broad government claim is that our high streets will somehow be protected and that investment will be encouraged. In wording Amendment 1, we attempted to include words that spelled out the spirit of the Government’s Commons claims, but I have to say that the Public Bill Office resisted all attempts to include the concept of protecting high streets and encouraging investment in the purpose state",
+   "name": "Lord Fox",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Thurlow (CB)",
+   "member_id": 4353,
+   "type": "Contribution",
+   "text": "My Lords, I stand to introduce the second group, in which, conveniently, there are three amendments, all in my name—",
+   "name": "Lord Thurlow",
+   "party": "CB"
+  },
+  {
+   "who": "The Deputy Chairman of Committees (Lord Geddes) (Con)",
+   "member_id": 2595,
+   "type": "Contribution",
+   "text": "We are still on group 1. We will come to group 2 in the fullness of time.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Lord Thurlow (CB)",
+   "member_id": 4353,
+   "type": "Contribution",
+   "text": "My apologies.",
+   "name": "Lord Thurlow",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Scott of Bybrook (Con)",
+   "member_id": 4553,
+   "type": "Contribution",
+   "text": "My Lords, I will speak to Amendment 1 and to my notice opposing the Question that Clause 1 stand part of the Bill. I was pleased and interested to see that the Liberal Democrats had tabled a purpose clause, given that they have criticised purpose clauses tabled by my Conservative colleagues on other Bills. On the purpose clause tabled by my noble friend Lord Davies of Gower—",
+   "name": "Baroness Scott of Bybrook",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Fox (LD)",
+   "member_id": 4322,
+   "type": "Contribution",
+   "text": "As a point of information, I have proposed purpose clauses for at least six Bills in the last three years.",
+   "name": "Lord Fox",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Scott of Bybrook (Con)",
+   "member_id": 4553,
+   "type": "Contribution",
+   "text": "I will continue. When my noble friend Lord Davies of Gower tabled a purpose clause on the Terrorism (Protection of Premises) Bill, the noble Baroness, Lady Suttie, argued that it was unnecessary because it restated some of the language in the Long Title of the Bill. In contrast to the amendment that we are debating today, my noble friend Lord Davies’s amendment included a legal duty on the Secretary of State, as well as establishing a purpose clause giving it legal effect. This is all water under the bridges, though, and we hope that our friends on the Benches to my left will not criticise our use of purpose clauses when scrutinising future Bills. As I say, we on these Benches are very comfortable with purpose clauses which seek to probe the intentions of the Bills that this Government are bringing forward, so I welcome the noble Lord’s amendment. As the noble Lord, Lord Fox, says in his explanatory statement, there is a real question mark over the Bill’s impact on the Government’s plan to deliver on their stated aims of protecting our high streets and encouraging investment. Later in this Committee, I will seek to probe the impact of the Bill on larger anchor stores, which are oft",
+   "name": "Baroness Scott of Bybrook",
+   "party": "Con"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government (Lord Khan of Burnley) (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "My Lords, let me start by expressing my gratitude for the kind words from the noble Lord, Lord Fox, in relation to my not being present for the Second Reading because of the tragic loss of my mother, and I extend my gratitude to everyone in the House. I had a good look at the Second Reading, and I appreciate all the tributes that were made during this difficult time of my life. It has been a lively start to this afternoon’s proceedings, but I thank the noble Lord, Lord Fox, and the noble Baroness, Lady Pinnock, for tabling Amendment 1. It will be appropriate alongside this amendment to consider whether Clause 1 should stand part of the Bill. I understand that there is concern that the Bill before us does not deliver on the Government’s stated intentions. I am grateful for the contributions of the noble Lord, Lord Fox, and the noble Baroness, Lady Scott, but I must disagree with their position. The Bill delivers on the Government’s commitment, as announced at the Autumn Budget, to introduce from 2026-27 permanently lower tax rates for retail, hospitality and leisure properties and, as also announced at the Autumn Budget, the introduction of a higher tax rate on the most valuable pro",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "Lord Fox (LD)",
+   "member_id": 4322,
+   "type": "Contribution",
+   "text": "My Lords, I thank the Minister for his detailed response. The nature of this debate has set the scene for some of the groups that we will debate later—the £500,000 limit will certainly come up shortly, as will the other issues. The overall point suggested by the Minister—that we must have this move, or that this move is a helpful precursor to wider reform—is one that I would question. I do not see why this must happen without the wider reform; it is not needed unless it is in the context of something that is more total around the system. Let me repeat myself: there are so many puts and takes in this system that it is hard to know how individual businesses and their competitors are going to be affected simply on the basis of where they stand on a particular road. There is much to be done but, on that basis, I beg leave to withdraw Amendment 1.",
+   "name": "Lord Fox",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Thurlow (CB)",
+   "member_id": 4353,
+   "type": "Contribution",
+   "text": "My Lords, after my practice run, for which I apologise, I rise to address this second group. Conveniently, it consists of three amendments, all in my name. Before doing so, I should mention that I was formerly a chartered surveyor and spent several decades working in the realms of commercial property. This included a certain amount of rating, so I have considerable experience. I also beg the Committee’s leave inasmuch as I was unable to take part at Second Reading, but I have read Hansard and spoken to colleagues. The purpose of Amendments 2 and 4—the latter is consequential on the former—is to remove the power to introduce higher multipliers for the more valuable RHL properties on the valuation list. There is a fundamental flaw in the Government’s proposal to pay for the reduced multiplier, hereditament or—I cannot remember what it used to be called—poundage by taxing the larger organisations. To understand this, we must look for a moment at what characterises a successful high street and distinguishes it from one that withers and fades. Although a high street that has withered will continue trading, it will have lost its heart as a retail centre and lost the social cohesion that ",
+   "name": "Lord Thurlow",
+   "party": "CB"
+  },
+  {
+   "who": "The Earl of Lytton (CB)",
+   "member_id": 1864,
+   "type": "Contribution",
+   "text": "My Lords, I am very grateful to my noble friend Lord Thurlow for introducing this point. I support the general thrust of what he said, although I do not see any great likelihood that this will move the government position at all.",
+   "name": "The Earl of Lytton",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Pinnock (LD)",
+   "member_id": 4341,
+   "type": "Contribution",
+   "text": "My Lords, at this point in our first day in Committee, I ought to remind the Committee of my relevant interests as a councillor—we are reliant on business rates for what we do—and as a vice-president of the Local Government Association. I also remind the Committee, given the further amendment that I have, that I am a vice-chair of the University of Huddersfield’s council. I very much thank the noble Lord, Lord Thurlow, and the noble Earl, Lord Lytton, for speaking to this group of amendments. The thrust of the amendment in the name of the noble Lord, Lord Thurlow, is to remove the higher multiplier. Without really understanding the combination of potential higher multipliers and the loss of what we could call the Covid business relief, because we do not have an impact assessment from the Government, it is difficult to understand the financial impact on businesses of both those changes. I will urge the Minister at every opportunity to provide for the Committee the financial impact on businesses; otherwise, we are debating in the dark a bit because we do not know exactly what the totality of the impact will be on different sectors of the business community. One of the comments from t",
+   "name": "Baroness Pinnock",
+   "party": "LD"
+  },
+  {
+   "who": "The Earl of Lytton (CB)",
+   "member_id": 1864,
+   "type": "Contribution",
+   "text": "My Lords, if I may, I will intervene a second time, first with an apology because I should have properly declared my interests as a chartered surveyor and a member of the Rating Surveyors’ Association and of the Institute of Revenues, Rating & Valuation. That apart, I will follow up on what the noble Baroness, Lady Pinnock, has said. First, we are of course dealing with either the rental or the imputed rental value of properties. I get that point that this is reflecting much lower figures per square foot for some giant distribution centre somewhere upcountry, as opposed to a high-value shop in a sought-after city centre location. However, if that is not the right basis, then we cannot go on slavishly following that. We then have to start thinking about how we split the basis, so that the rental value forms one part of the thing only and something else happens to top the thing up. It cannot be beyond the wit of man to do that, and it cannot be beyond the wit of the Labour Party in opposition to have thought of something when it said in its manifesto commitment that it would replace business rates and “level the playing field between the high street and online giants”— and I think I ",
+   "name": "The Earl of Lytton",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Fox (LD)",
+   "member_id": 4322,
+   "type": "Contribution",
+   "text": "The noble Earl alluded to a balloon being squeezed; we should remind ourselves that this is an expanding balloon. The costs faced by local authorities, of which a huge proportion—well over 50% and approaching 80% in some areas—is adult social care, are a rapidly expanding balloon that we are seeking to get our hands around and fill. This has enormous ramifications for not just high streets but the other services that local authorities are required and able to deliver on the budgets they get from rates and central government.",
+   "name": "Lord Fox",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Scott of Bybrook (Con)",
+   "member_id": 4553,
+   "type": "Contribution",
+   "text": "My Lords, I will speak to all the amendments in the name of the noble Lord, Lord Thurlow. I understand that he may be concerned by the lack of transparency surrounding the higher multipliers. We share this concern. We need to hear more detail from the Government. They are wrong to seek legislative powers to implement the higher multipliers without giving Parliament—and, more importantly, businesses—any clarity on what they are likely to be. We do not have an estimate of the revenue from the new multipliers. This is clearly not a satisfactory situation. In principle, we are open to and understand the big concerns surrounding online giants, but more details are needed on this Bill, which we do not believe meets the policy aims. The principle of higher multipliers for certain ratepayers is a sensible idea when done well, so I cannot support the noble Lord’s Amendments 2 and 4. This Bill does not do it well with its arbitrary £500,000 threshold, but the principle of a higher multiplier for businesses that tend to pay less of other taxes can benefit small independent shops. I cannot support the noble Lord’s Amendment 45—although I understand the sentiment—because, in the way the Bill is",
+   "name": "Baroness Scott of Bybrook",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Khan of Burnley (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "My Lords, I will address Amendments 2, 4 and 45 from the noble Lord, Lord Thurlow, which concern provisions relating to the new higher multiplier and the funding of the new lower multipliers. At the Autumn Budget 2024, the Chancellor set out a Budget to fix the foundations—a Budget that took the difficult but necessary decisions on tax, spending and welfare to repair public finances, to increase investment in public services and the economy, to rebuild Britain and to unlock long-term growth. Part of that agenda included transformation of the non-domestic rating or business rates system, including delivering on the Government’s manifesto pledge to support the high street. Support for the high street is an area on which I know that the noble Lord, Lord Thurlow, and others in this House have spoken passionately in prior debates on business rates legislation. I appreciate the depth of knowledge and experience that both he and the noble Earl, Lord Lytton, bring to these debates. The Government have made clear that supporting the high streets is a priority. They are a focal point of economic activity and a point of local pride, and they can often reflect the unique character of a communi",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "Baroness Pinnock (LD)",
+   "member_id": 4341,
+   "type": "Contribution",
+   "text": "Several times already we have queried the decision to make the dividing line £500,000. It would be good to know why that number was chosen. Why not £600,000 or £400,000?",
+   "name": "Baroness Pinnock",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Khan of Burnley (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "I will come to the noble Baroness’s points when I come back to the valuations, rest assured. The Government have been clear that they intend to fund new lower multipliers by raising revenue within the business rates system. The lower multipliers are a necessary tax cut, but a tax cut that must be funded. By limiting it to properties with a rateable value of £500,000 and above, the Government are asking those with the most valuable 1% of properties to pay more to support the viability of high streets. Moreover, by including all sectors within this group, they are doing so equitably and will capture the majority of large distribution warehouses, including those used by online giants—a cohort that I know the noble Lord, Lord Thurlow, has previously raised in relation to imbalances in the business rates system. We are trying to make sure that we have prudent financial management of the economy and a system that is sustainable. I come back to some particular points. First, the noble Earl, Lord Lytton, spoke in relation to the potential rise of £39 billion, as indicated by the OBR’s Budget report. The OBR forecast assumes that business rates income will vary in line with forecast CPI inf",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "Lord Fox (LD)",
+   "member_id": 4322,
+   "type": "Contribution",
+   "text": "Coming back immediately on that point, what criteria will the Government be using for that revaluation? In other words, what are they seeking to confirm or otherwise from it? Can the Minister recognise that the point made by my noble friend, which I am sure will be made otherwise, is that when you multiply two numbers together, if one side of the equation is substantially smaller, the sum becomes low? If the valuations are 100 times less out of town, versus those in town, you can mess around with the other number as much as you like, but it will still be a tiny number out of town relative to town centres. Does he recognise that valuations are crucial to this and that, while this is all well and good, until valuations are sorted out, we really are fiddling around?",
+   "name": "Lord Fox",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Khan of Burnley (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "My Lords, on that specific point about criteria, I want to be clear that we have had a one-year ad hoc system and we are trying to build a sustainable system, which will have a three-year rating on non-domestic properties. We want to see how we will get there when we see what the situation is in the fiscal climate; that will be a big part of addressing how the Treasury will set the multipliers. The Bill is not about setting multipliers. It is up to the Treasury to set those. I will come back to the impact in a moment. In relation to the different level of multipliers, of course it is a complex system. However, the highlight of what we are trying to do is to have a sustainable system that funds itself and, by asking less than 1% of properties to shoulder a bit more, ensures that we support the high street and properties of low valuation. We are trying to have an equitable system that is sustainable and can pay for itself. We recognise that there are different scenarios and situations but, ultimately, we want to ensure that the system is much fairer than it is now and creates more certainty.",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "Lord Thurlow (CB)",
+   "member_id": 4353,
+   "type": "Contribution",
+   "text": "I thank noble Lords who have taken part in this group. The most important takeaway is that it would be too little, too late to postpone until 2027. The acute pain felt in the high street is great enough for there to be substantial loss of retail presence if we do not move more swiftly. We have heard from all sides of the Committee that the lack of impact assessments on the specific, granular issue of definitions is of very serious concern. It needs only another 12-month delay for consultations with experts to take place. The noble Baroness, Lady Pinnock, revealed with clarity—the noble Lord, Lord Fox, referred to it as well—that there is a harsh difference between an Amazon warehouse with a rental value, on which rateable values are based, of £4.50 per square foot, versus £45 on the high street. That is a massive difference. Amazon are paying 10%. We are tinkering with the deckchairs if the rate poundage is increased for these larger retailers because it cannot be increased—as the noble Lord, Lord Fox, pointed out—to anything near what will be required to provide balance. The difficulty is one of definitions. I would be grateful if we could speak to the Bill team before the next st",
+   "name": "Lord Thurlow",
+   "party": "CB"
+  },
+  {
+   "who": "The Deputy Chairman of Committees (Lord Geddes) (Con)",
+   "member_id": 2595,
+   "type": "Contribution",
+   "text": "Amendment 3 leads a substantive group. I suggest that the Opposition might want to move it.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Baroness Scott of Bybrook (Con)",
+   "member_id": 4553,
+   "type": "Contribution",
+   "text": "It is not me.",
+   "name": "Baroness Scott of Bybrook",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Jamieson (Con)",
+   "member_id": 5019,
+   "type": "Contribution",
+   "text": "May I deputise? Before I do, I declare my interest as a councillor in Central Bedfordshire. In moving Amendment 3, I shall speak to Amendments 18, 37 and 43 in the name of my noble friend Lady Scott, and in favour of Amendment 32 in the name of the noble Lord, Lord Thurlow. Amendment 3 seeks to introduce discretion for billing authorities in the application of the higher multiplier. The other amendments in the name of my noble friend Lady Scott—Amendments 18, 37 and 43—question whether the Treasury is the right authority to define these hereditaments. The purpose of these amendments is to seek the Government’s reaction to the proposal that local authorities should have a role in deciding which businesses pay the newer, higher multiplier. Local authorities are in a unique position to comprehensively understand the challenges and circumstances faced by their local businesses, which a centralised body certainly is not. For all its strengths, we know that His Majesty’s Treasury does not have the local knowledge and in-depth understanding of the needs of individual high streets to make informed decisions on business rates that work in the best interests of the local areas. Local authori",
+   "name": "Lord Jamieson",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Thurlow (CB)",
+   "member_id": 4353,
+   "type": "Contribution",
+   "text": "My Lords, the noble Lord, Lord Jamieson, has taken the words out of my mouth. I support much of what he has said. The starting place for my comments on this group is that the Bill seems to reverse the attempts to regionalise power from the centre; it would take the ability to define these hereditaments back to central government. As the noble Lord, Lord Jamieson, said clearly, the definition of RHL properties needs local expertise. There are regional disparities, to which he referred; it is terribly important to understand that. Regional disparities are huge. This measure is a generic product, but it is subject to huge regional variations. One size does not fit all hereditaments. That is an important starting place. It is no accident that the government guidelines allow local authorities to define RHL in accordance with the existing government guidance. That is very sensible. They are the people on the ground. They understand the give and take, as well as the commercial flows, involved. A large supermarket on a high street may be the only anchor present in that town, being vital to the health of the high street, probably with a car park or a bus stop, and the only source of suffici",
+   "name": "Lord Thurlow",
+   "party": "CB"
+  },
+  {
+   "who": "The Earl of Lytton (CB)",
+   "member_id": 1864,
+   "type": "Contribution",
+   "text": "My Lords, it may save time later if I rise to make a comment in the context of these amendments. I can quite see that there is an objection in principle to some of what is being put forward here, because of the Treasury need to predict the yield, if it is going to be able to explain to the Chancellor what announcement has got to be made in the Autumn Budget with regard to the multipliers. That said, this raises the question of the complication that has arisen from the fact that, by virtue of the Bill, the discretion to define RHL properties, which has rested hitherto with billing authorities, will be taken away under the Bill and, as we have heard, the definition will be set centrally. How will central government make the relevant decisions in applying this as between a small seaside town at one end and a bustling urban metropolis at the other? Will it be by reference to the road name—high street or non-high street, depending on whether you want to dance on that glass pinhead—its predominant use or position vis-à-vis the town itself, never mind the range of uses as between different geographical locations? I am entirely unsure what the outcome of this shift will be, but I am pretty",
+   "name": "The Earl of Lytton",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Pinnock (LD)",
+   "member_id": 4341,
+   "type": "Contribution",
+   "text": "My Lords, I thank the noble Lords, Lord Jamieson—also known as the noble Baroness, Lady Scott—and Lord Thurlow, for the amendments in this group. I have always in principle supported more powers and influence for local authorities. What I have always said should go without saying, but I repeat it. However, I am nervous about the amendments from the noble Baroness, which seek to enable local authorities to have discretion over whether the higher multiplier should impact on businesses in their area. This is because, if you look at the Valuation Office Agency’s billing lists, you find that the vast majority—I have not worked out the percentage—of businesses in the £500,000-plus bracket are based in the south-east and London. Therefore, the income from the application of the higher multiplier in those areas is essential for the totality of the business rate take, which is then distributed to fund local authorities across the country. Areas of the country where valuations are much lower absolutely depend on the business rates raised from the south-east and London, and that has been the situation for ever. If I were a London or south-east authority, I would see anything to encourage busi",
+   "name": "Baroness Pinnock",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Khan of Burnley (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "My Lords, Amendments 3,18, 32 and 37, which were spoken to by the noble Lord, Lord Jamieson, on behalf of the noble Baroness, Lady Scott of Bybrook, and Amendment 43, tabled by the noble Lord, Lord Thurlow, are concerned with the role of local authorities in determining the application of the higher and lower multipliers. Amendment 3 seeks to provide local authorities with discretion over the application of the higher multiplier, and Amendments 18, 32, 37 and 43 are concerned with who sets the definition of a qualifying RHL hereditament. Currently, the Bill includes a power for qualifying RHL hereditaments to be defined in regulations by the Treasury, as I have said. Our intention is for the definition broadly to follow that currently used in the retail, hospitality and leisure relief scheme. The criteria for the current relief scheme are contained in guidance from this department and are implemented by local authorities. Ultimately, under the current relief scheme, local authorities have the final say over and discretion about who should be awarded the relief. I understand that that is the type of arrangement that the amendments are seeking to reinstate from April 2026 for the low",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "Lord Thurlow (CB)",
+   "member_id": 4353,
+   "type": "Contribution",
+   "text": "Does the Minister have any comments to make on the possibility of redefining the use classes for the purposes of rating, which would focus on the Amazon generic problem?",
+   "name": "Lord Thurlow",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Khan of Burnley (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "I forgot to mention this to the noble Lord, Lord Thurlow; it would be helpful for him to sit down with me to discuss that, as well as his previous request, as soon as he has time in his diary. This is a discussion that we should have to engage on that particular point.",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "Lord Jamieson (Con)",
+   "member_id": 5019,
+   "type": "Contribution",
+   "text": "My Lords, I thank all noble Lords who contributed to our debate on this group of amendments, which deals with the role of billing authorities and the definition of hereditaments. During the debate, I listened closely to the noble Lord, Lord Thurlow, whom I thank for his support in raising yet again the impact on anchor stores on the high street, which is quite fundamental. I fully support the sentiment of Amendment 32 in his name. It seems plainly obvious that we are closely aligned; I hope that we can work collaboratively before and during Report and that the Minister will both listen to this argument carefully and see what can be done to improve the Bill’s provisions on the definition of hereditaments. I thank the noble Earl, Lord Lytton, for his support for discretion. The noble Baroness, Lady Pinnock, was concerned that it may mean somewhat less funding for councils in the north of England. That is absolutely not the intention; I would be delighted to look at this matter further and have a conversation outside this Room. The Minister made a couple of points about certainty. All businesses like certainty but they also want equity. Our concern is about equity and what is reasonab",
+   "name": "Lord Jamieson",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Khan of Burnley (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "I think the noble Lord is saying “Let’s have some conversations to follow this up”. As I have said to all here, I am happy to sit down with any noble Lord or noble Baroness to discuss any point, in particular post Committee, before we get to Report. I would absolutely welcome a conversation with the noble Lord.",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "Lord Jamieson (Con)",
+   "member_id": 5019,
+   "type": "Contribution",
+   "text": "I thank the Minister. We must steer away from blanket definitions issued centrally by the Treasury, which does not have the thorough oversight of local businesses in all parts of the UK. Local authorities have a particular understanding of the business landscape in their areas, so while the definition of hereditaments introduced by the Treasury may work in some places, it will not work everywhere or be appropriate to others. This can be avoided if local authorities are issued with a power to determine a hereditament or other type of property. As the noble Lord, Lord Thurlow, rightly pointed out in his Amendment 32, local authorities already determine what constitutes a retail, hospitality and leisure relief property. We must therefore ask why the drafting of this legislation provides complete power to the Treasury to define a retail property or a hereditament. Would it not be more suitable for local authorities to define property types? I would argue that, with their first-hand local knowledge, local authorities are best placed to define terms in a way that reflects the realities and suits the needs of their local areas. Unsurprisingly, many questions have been raised in the debate",
+   "name": "Lord Jamieson",
+   "party": "Con"
+  },
+  {
+   "who": "The Earl of Lytton (CB)",
+   "member_id": 1864,
+   "type": "Contribution",
+   "text": "My Lords, in moving Amendment 5, I will also speak to Amendments 13, 19, 22, 30 and 38 in my name. I thank the noble Baroness, Lady Pinnock, for putting her name to Amendments 5 and 22. The RHL sector was particularly badly hit as a result of Covid and it has been used, quite reasonably, as a proxy for the challenges facing urban core economies and town-centre trading. The previous Government introduced reliefs in the form of financial support to ameliorate rate bills for this sector, but that has been progressively reduced. I think I have it correct that the figure currently stands at 40% until April this year, reducing to 25% thereafter until April 2026. But at that point there is a cliff-edge readjustment to zero, as I understand it. If I am correct in thinking that Governments past and present still believe that RHL properties should be accorded some relief going forward, because of their function, inter alia, in town-centre and urban core activity economies, it seems odd that hereditaments with a rateable value of £500,000 and over that are none the less in that RHL category and are still challenged by the longer-term changes in spending patterns should not be capable of maint",
+   "name": "The Earl of Lytton",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Pinnock (LD)",
+   "member_id": 4341,
+   "type": "Contribution",
+   "text": "My Lords, I have tabled Amendments 7 and 24 in this group and have added my name to Amendments 14, 31 and 41 in the name of my noble friend Lord Fox. I have also added my name in support of Amendments 5 and 22 in the name of the noble Earl, Lord Lytton, to which he has just spoken. This is an important group of amendments because it seeks to expose the problem that the Government have in applying a higher multiplier to some businesses without targeting them, as we heard on an earlier group this afternoon. Searching through the Valuation Office Agency’s information reveals, for instance, that about 60 civic centres or town halls, and 80 police headquarters or very large city centre police stations, are included in this higher rate. If the top end of the higher multiplier is applied to these properties, that will add 20% to the business rates bills of those local authorities or police authorities, at a time when both have severe problems with their finances and are struggling to make ends meet. It is not just police headquarters, police stations and town halls: 80 courts, from the Supreme Court at one end to large magistrates’ courts at the other, are included in the rateable values ",
+   "name": "Baroness Pinnock",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Scott of Bybrook (Con)",
+   "member_id": 4553,
+   "type": "Contribution",
+   "text": "My Lords, I rise to speak to my Amendments 12, 15, 29 and 33 and, in doing so, I apologise to the Committee that I omitted to declare my interest as a vice-president of the LGA. I keep forgetting it. My amendments seek to exempt manufacturing businesses from the higher multiplier. The manufacturing industry is exceptionally important to the British economy, and to place an additional financial burden on this sector is unsatisfactory. In 2023, the total value of UK manufacturers’ product sales was £456 billion, which demonstrates the value of the sector to the UK economy. The sector accounts for 8.1% of UK employment and, in July to September 2024, accounted for 8.8% of the total UK economic output. Ministers never tire of telling us that growth is this Government’s number one mission, so can the Minister give the Committee a cast-iron guarantee that the Bill will not have a negative impact on the growth of our UK manufacturing sector? Recently, the global political situation demonstrated the importance of being self-reliant with the rise in energy prices we have seen in the wake of Putin’s illegal war in Ukraine. My amendments seek to protect this vital sector, which has an importa",
+   "name": "Baroness Scott of Bybrook",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Fox (LD)",
+   "member_id": 4322,
+   "type": "Contribution",
+   "text": "They are not from the noble Baroness, Lady Fox. They are in my name.",
+   "name": "Lord Fox",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Scott of Bybrook (Con)",
+   "member_id": 4553,
+   "type": "Contribution",
+   "text": "Once again today, I apologise to the noble Lord.",
+   "name": "Baroness Scott of Bybrook",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Fox (LD)",
+   "member_id": 4322,
+   "type": "Contribution",
+   "text": "For the Committee’s information, there is a misprint. It should have read “grassroots music venues and larger venues”. If I had spoken before the noble Baroness, I would have explained. The Royal Albert Hall is clearly not a grass-roots venue.",
+   "name": "Lord Fox",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Scott of Bybrook (Con)",
+   "member_id": 4553,
+   "type": "Contribution",
+   "text": "That confused me, but I thank the noble Lord. Amendments 7, 13, 19, 24, 30 and 38 all seek a similar thing: to allow the Treasury the power to exempt other hereditaments from the higher multiplier as it sees fit. While I understand the desire to introduce flexibility into a Bill that does not seem to have been fully thought through, it is important that we empower local authorities rather than afford the Treasury further powers. I look forward to the Minister’s response.",
+   "name": "Baroness Scott of Bybrook",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Fox (LD)",
+   "member_id": 4322,
+   "type": "Contribution",
+   "text": "I will speak for myself rather than the noble Baroness. What we have seen in the various themes in this group is the malign effect of a blunt instrument. My noble friend Lady Pinnock raised the important issue of public sector buildings that fall into the trap of high value and therefore the higher multiplier. Clearly, we need to understand the overall financial effects on those organisations. The noble Baroness, Lady Scott, spoke well about manufacturing. We tabled the same amendments in the Commons, where one of the implications of what the Government said was that manufacturing does not have to be in a town centre, on the basis that there is somehow an ability to up sticks and go without huge capital implications and lots of other things. If we are talking about a mixed economy in town centres, things such as light engineering and printers, as well as other businesses such as accountants, design agencies and all sorts of things, add to their plurality and success. When you remove from a town centre the people who work or live there, you remove a huge proportion of the trade that the sector that the Government are seeking to boost relies on. Not everybody has to come in a car to ",
+   "name": "Lord Fox",
+   "party": "LD"
+  },
+  {
+   "who": "Lord de Clifford (CB)",
+   "member_id": 4997,
+   "type": "Contribution",
+   "text": "I speak in support of this group of amendments. I declare my interest that I do not have the expertise that I have listened to this afternoon, so I will just do my little bit. I thank the Minister for his reply to the questions I sent him on the multiple retail shops that will be affected by this increase due to the larger rate for valued properties. I support Amendment 5 in the name of the noble Earl, Lord Lytton, and the noble Baroness, Lady Pinnock. There will be 3,260 retail shops affected by these changes, many of which are supermarkets. If the Government increase the multiplier by 0.1%, this would increase costs by about £3.7 million per year on these properties. This would be passed directly on to customers who shop in these shops, supermarkets and hypermarkets, and would also damage the large anchor stores in shopping centres, which are under pressure already from the online warehouses which this Bill tries to target. The noble Lord, Lord Thurlow, has already detailed the value of these large retail stores to the high street and shopping centres much more expertly than I. Therefore, I ask the Minister to consider these amendments urgently, because they will add costs to the",
+   "name": "Lord de Clifford",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Khan of Burnley (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "My Lords, the amendments in this group and the three groups that follow seek to change the Bill in two broad respects. They seek to carve out properties from the higher multiplier and to widen those hereditaments eligible for the lower multipliers. These amendments and those that follow would have a significant impact on the scope of Clauses 1 to 4, the potential cost of the lower multipliers and the revenue flowing from the higher multiplier. They would therefore reduce the Treasury’s ability to set sustainable and worthwhile higher and lower multipliers. As such, it is important that we consider these amendments—and those in the three groups that follow—in the overall context of the wider purpose of Clauses 1 to 4. In the Budget, the Government announced their intention to introduce a permanent tax cut for retail, hospitality and leisure properties from 2026-27 by introducing two permanent lower multipliers for these properties. It is important that any tax cut is sustainably funded, which is why the Government also announced their intention to introduce a higher multiplier for the most valuable properties—those with a rateable value of £500,000 and over—from 2026-27.",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "Lord Fox (LD)",
+   "member_id": 4322,
+   "type": "Contribution",
+   "text": "I think I clarified that there were two issues. If the Minister looks in his data, he will find that the Royal Albert Hall is classed as being over £500,000, and I specifically asked about the Royal Albert Hall, so we require an answer to that. The point about grass-roots venues was not about the £500,000; it is about the loss of the relief, from 70% to 40% in the coming financial year, which will put them below the waterline, on average. That was a specific and different question that the Minister may want to answer separately.",
+   "name": "Lord Fox",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Khan of Burnley (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "I did say that I would come back to the noble Lord on his specific question.",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "Lord Fox (LD)",
+   "member_id": 4322,
+   "type": "Contribution",
+   "text": "I apologise.",
+   "name": "Lord Fox",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Scott of Bybrook (Con)",
+   "member_id": 4553,
+   "type": "Contribution",
+   "text": "Will the extra burdens on local authority budgets that might come be funded by the new burdens policy?",
+   "name": "Baroness Scott of Bybrook",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Khan of Burnley (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "Yes, that is right.",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "The Earl of Lytton (CB)",
+   "member_id": 1864,
+   "type": "Contribution",
+   "text": "I have just looked up the Royal Albert Hall. It has a £1.9 million rateable value.",
+   "name": "The Earl of Lytton",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Khan of Burnley (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "I thank the noble Earl very much for that clarification, but if he looks at my remarks later, he will see that I said that we do not expect “many”—not any—grass-roots music venues to fall above the £500,000 threshold. As I said, although we do not hold data specifically on music venues, we know, for example, that pubs, which often play an important role in the grass-roots music scene, have an average rateable value of only £16,800. The noble Earl, Lord Lytton, asked how the lower multipliers will affect vacant property. The Bill allows for the lower multipliers to apply to vacant RHL properties. I assure the noble Earl that we intend to apply these new multipliers to occupied properties in the same way as we do to vacant properties. That will be consistent. The noble Lord, Lord de Clifford, and the noble Baroness, Lady Pinnock, touched on the important point of why an impact assessment has not been prepared. Let me be absolutely clear and repeat my previous points on this: policies and legislation concerning tax and the administration of tax fall outside the meaning of regulatory provisions and are therefore not required to be accompanied by an impact assessment. However, His Majes",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "Lord Fox (LD)",
+   "member_id": 4322,
+   "type": "Contribution",
+   "text": "I think I heard the Minister say, on a different group, that this will apply for three years. On that basis, we cannot really expect a root-and-branch change of the system until either the end or beyond the end of this Parliament. Would that be a reasonable assessment?",
+   "name": "Lord Fox",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Khan of Burnley (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "The noble Lord makes an interesting point. This will come into force in 2026-27; we are talking about the revaluation and review being three years after that. Again, this provides more certainty, because we do not want year-on-year unpredictability in an ad hoc system. This is a sustainable process, and it will give us a chance to see what the environment and fiscal climate will be at that time. Again, it is for the Treasury to set the multipliers. Against the current fiscal backdrop, widening the scope of properties eligible for the lower multipliers would potentially reduce the level of tax cut that could then be provided to that cohort. Similarly, widening the scope may require a higher tax rate on those properties paying the higher multiplier to enable the Government to deliver a permanent tax cut. The amendments for manufacturing could, of course, widen the lower multipliers somewhere beyond the town-centre and high-street environment. As we have heard from stakeholders, retail, hospitality and leisure businesses tend to occupy properties in higher-value locations with higher footfall, which in turn drives up the rateable value and rates bill. The Bill will rebalance this. The",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "Lord Fox (LD)",
+   "member_id": 4322,
+   "type": "Contribution",
+   "text": "I am sorry; I am just trying to process that. Are you saying that, going forward, they would continue to benefit from the lower multiples as RHL-qualified businesses?",
+   "name": "Lord Fox",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Khan of Burnley (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "In terms of over £500,000, we are going to have the same policy applied to all sectors. We are not doing carve-outs, but in terms of any relief that music venues are having below that, the definition of the new multipliers will broadly follow the current definition and will be set out in secondary legislation later this year. I think I have answered the question asked by the noble Baroness, Lady Pinnock, but I will make a few points again about the impact on the public sector. The fiscal inheritance demands tough choices in order to fix our public services to create long-term growth and investment that will support businesses, but we have sought to mitigate the worst impacts of these choices. It would not be fair on businesses if we excluded the public sector from the higher multiplier. In relation to the points made by noble Lord, Lord Fox, and the noble Baroness, Lady Pinnock, I repeat, in particular, that the Government will work to ensure that, as far as practically possible, local government income from business rates is unaffected by business rates tax rate changes. The Government are making good on the promise to reform the local government funding system. I talked about thi",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "The Earl of Lytton (CB)",
+   "member_id": 1864,
+   "type": "Contribution",
+   "text": "My Lords, I thank all noble Lords who have spoken to this group of amendments for the support, some of it qualified, for the amendments that I have put forward. I do not wish to labour the point, especially as the temperature in this Room seems to continue to drop and my feet are getting extremely cold. To pick up the point that was made by the noble Lord, Lord Fox—that the size of hereditament does not equate with ability to pay—some of our most marginal and most valuable operations operate right on the limit. I hear what the Minister says about the difficulties of dealing with this; I have to say that I do not share his view. We already have two lists: we have a general rating list, and we have a central rating list, and there is no reason why the Government could not split it into more than that if they chose to do so. As I said earlier, when it comes to a digitised list, one can fiddle around with it in all sorts of ways. We are talking about 16,500, or some such number, of entries with a rateable value of £500,000 and above. I would have liked to have had a pointer that the Government sort of get this and want to move more rapidly to, first, making the present system more flex",
+   "name": "The Earl of Lytton",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Pinnock (LD)",
+   "member_id": 4341,
+   "type": "Contribution",
+   "text": "My Lords, this group of amendments focuses on the impact of the higher multiplier on hospitals, clinics and other larger health institutions. Amendment 6 is in my name and that of my noble friend Lord Fox, and the other three amendments, Amendments 20, 23 and 39, are consequential amendments. The Minister has spoken several times this afternoon about being “fair and sustainable” and also, just latterly, about “tough choices”. I have looked down the list shared by the Minister of those properties with rateable values above £500,000. There are some notable exceptions. I could not find Buckingham Palace. Tough choices? Are Parliament and the Parliamentary Estate exempt? I could not find them in the list. Maybe the list is not complete; if that is the case, it would be good to hear from the Minister how much extra the Government expect the higher multiplier to cost the Parliamentary Estate.",
+   "name": "Baroness Pinnock",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Jamieson (Con)",
+   "member_id": 5019,
+   "type": "Contribution",
+   "text": "I thank the noble Baroness, Lady Pinnock, for moving this amendment and outlining the unintended consequences of this Bill. The proposal to exempt healthcare from the higher multiplier is an issue that has sparked considerable debate in the wider community. The amendments in this group propose two key changes: to exempt healthcare from the higher multiplier; and to expand the definition of healthcare to include hospitals and medical and dental schools. These changes seek to address the concern that critical services in the healthcare sector could be disproportionately affected by the Bill’s provisions. These amendments address very real concerns that services could be disproportionately affected through this legislation, revealing further unintended consequences of this Government’s Bill. Amendment 6 is particularly important as it seeks to remove healthcare from the higher multiplier, directly responding to concerns raised by hospitals and other healthcare providers that are already under significant financial strain. Exempting healthcare from this additional tax burden could protect vital services, ensuring that they can continue delivering essential care without being further im",
+   "name": "Lord Jamieson",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Khan of Burnley (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "My Lords, these amendments seek to change the Bill to remove healthcare hereditaments from the higher multiplier. In the previous debate on the amendments in group 4, just a few moments ago, I explained why the Government have taken a sector-agnostic approach to the higher multiplier and not excluded any sector or type of property. Of course, the same considerations apply here. This Government fully support the healthcare sector, but it would not be fair to exclude some and not others. To sustainably fund the lower multipliers, we must ensure that we can raise money from higher multipliers; the only fair way to do this is to apply it to all hereditaments at £500,000 and above. As I said in the debate on the previous group, it is important to look at the facts. The Valuation Office Agency’s statistics show that, of the 16,780 properties caught by the £500,000 threshold, based on the current rating list, only 350 are in the health subsector. Of these, 290 are NHS hospitals and only 30 are doctors’ surgeries or health centres. These numbers are rounded to the nearest 10 and we do not have separate data on medical or dental schools. The impact on this sector is therefore limited and, w",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "Baroness Pinnock (LD)",
+   "member_id": 4341,
+   "type": "Contribution",
+   "text": "My Lords, I thank the noble Lord, Lord Jamieson, for his support for the amendments that I have tabled to try to persuade the Government to think again. The Minister talked about an agnostic approach to the application of the higher multiplier. Now, agnostic approaches are all very well until we see what we catch in the trap. What we have exposed this afternoon is that the Government intend to apply higher costs to the very public services for which they are desperate to have higher funding. They cannot, on the one hand, say that they wish to provide higher funding for some of these important public sector services when, on the other hand, they take some of the funding away. That is the consequence of an ill-considered agnostic approach. I urge the Government to think about having a more targeted approach that includes in its catch more warehouse distribution services and fewer public sector providers of important and valuable public services. At the minute, that is not what is happening.",
+   "name": "Baroness Pinnock",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Scott of Bybrook (Con)",
+   "member_id": 4553,
+   "type": "Contribution",
+   "text": "My Lords, in moving Amendment 8 I will also speak to the rest of the amendments in this group. They focus on protecting the essential services that are provided up and down the high street. Amendments 8 and 25 in my name seek to exempt community shops that are open for more than 18 hours a day. Within local communities, there is often a shop that is open for longer hours than general retail premises. Often, this can be a garage forecourt which is open 24 hours and has essential things for people working in the night-time economy, who may be on a different clock to us. These shops provide essential services for those living in that surrounding community. Without them, there may be fewer customers on that high street, which we believe would begin to damage the surrounding shops and businesses. People often rely on these stores with longer opening hours, so exempting them from the higher multiplier would ensure that they can continue to provide a vital service to local people. My Amendments 9 and 26 seek to exempt hereditaments that have a post office on the premises from qualifying for the higher multiplier. A post office does not make the same level of profit as the shop, but it pro",
+   "name": "Baroness Scott of Bybrook",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Fox (LD)",
+   "member_id": 4322,
+   "type": "Contribution",
+   "text": "My Lords, this is another example of the blunt instrument in operation. We have talked about increasing tax on public services, some of which have the ability to recover the money via new burdens, while some do not. But these services are offered by private sector organisations, and we know for a fact that they will not get recompense from the Government for this, which will increase their costs, reduce their profit and may eliminate their viability altogether. When post offices and Crown offices are retreating from the high street, this is not a good time for those businesses. In a moment we will talk about flagship operations. I put it to noble Lords that banks and post offices are flagship operations. People travel to towns to visit a post office and banks, and then they spend their money on other things, so by denuding or putting in peril those sorts of operations, we are removing the attraction of town centres. We are making sure that they do worse rather than better. That is the first point. Secondly, I have a relative who owns a shop in a country town—I do not have an interest in that shop—and one of their biggest difficulties is banking their money. They have to drive 20 mi",
+   "name": "Lord Fox",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Thurlow (CB)",
+   "member_id": 4353,
+   "type": "Contribution",
+   "text": "I will say a few words in support of the excellent Amendments 8, 9 and 10 in the name of the noble Baroness, Lady Scott. It had not occurred to me but is worth saying here that, just as an anchor is critical to the economic health of the high street and the social contribution that comes with it, so are these very small and vital retailers—if that is the right word—for banking facilities, as well as the small facilities open all hours, 18 hours a day or whatever it may be. They are critical. In fact, they should perhaps be considered in a conversation about revising the use classes order because, as we heard with the good examples given, they are essential to the health of the local community.",
+   "name": "Lord Thurlow",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Khan of Burnley (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "My Lords, in her contribution, the noble Baroness, Lady Scott, said that she hoped the Minister listens very carefully. Just to reassure her, I always listen very carefully and with great interest to everything that the noble Baroness says, as is the case for all noble Lords in this debate. Six of these eight amendments seek to change the Bill to remove certain high street services from the higher multiplier. In the previous debates on the amendments in groups 4 and 5, I explained why the Government have taken a sector-agnostic approach to the higher multiplier and have not excluded any sector or type of property. The same considerations apply here and I will not repeat them. As regard detail, it is worth being clear what type of retail properties on the current rating list would be caught in the higher multiplier. The Valuation Office Agency’s published data shows that, of the subsector of shops that are at or above the £500,000 threshold, 72% are supermarkets, large food stores or retail warehouses. That leaves only 900 other shops at or above £500,000 across England, and of these 630 are in London and the south-east. For most regions, the number of shops affected, excluding supe",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "Baroness Scott of Bybrook (Con)",
+   "member_id": 4553,
+   "type": "Contribution",
+   "text": "My Lords, I thank all noble Lords who have supported these amendments. This group has dealt with high street services, in particular, post offices and banking hubs. While it goes unnoticed, a post office remains an essential street service, as we heard from the noble Lord, Lord Thurlow. Its use extends well beyond a mail service, and for many, particularly those without internet access, it plays a critical role in ensuring that individuals can pay their bills, collect their pension or access other financial services that a bank would traditionally offer. Indeed, they are the backbone of many of our British high streets, notably those in rural areas. As we enter a digital age, physical banking services offered by bank branches are incredibly hard to come by. When branches close, the impact extends far beyond just customers. It impacts on the whole local economy, as we heard from the noble Lord, Lord Fox, and the noble Baroness, Lady Pinnock. Many small retailers—farmers and other independent traders—continue to rely on cash transactions. When a bank closes, cash withdrawals become harder, credit becomes less accessible and many face greater financial insecurity. In fact, bank closur",
+   "name": "Baroness Scott of Bybrook",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Scott of Bybrook (Con)",
+   "member_id": 4553,
+   "type": "Contribution",
+   "text": "My Lords, I rise to speak to Amendments 11, 28 and 36 in my name, which seek to exempt anchor stores from the scope of the proposed changes in the Bill. These amendments are crucial for safeguarding the health and vitality of our high streets particularly in the context of the ongoing challenges facing retailers and small businesses. I thank all noble Lords who, throughout this debate, have acknowledged the importance of these businesses. As we are aware, anchor stores play a vital role in the commercial ecosystem of any high street. They act as a significant draw for foot traffic, attracting customers not only to their own establishments but to the surrounding smaller retailers and businesses. It is no exaggeration to say that, without anchor stores, many high streets would be devastated. They are the backbone that supports the smaller independent shops that contribute to the unique character of our local economies. However, while the higher threshold for non-domestic rates is a well-intentioned measure to ensure that out-of-town warehouses and large-scale online retailers contribute their fair share, we must pause and consider the unintended consequences of this approach. The so-",
+   "name": "Baroness Scott of Bybrook",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Pinnock (LD)",
+   "member_id": 4341,
+   "type": "Contribution",
+   "text": "My Lords, I thank the noble Baroness, Lady Scott of Bybrook, for this group of amendments which seeks to exempt so-called anchor stores from high streets. We could do with a definition of an anchor store and, indeed, of a high street, but we will come to that in a later group. High streets vary enormously from small town high streets and market town high streets to larger town centres and city centres. When there is a new retail development in a town or city centre, the phrase “anchor store” often comes into play. It is very clear in the business sector that retail works better if there is one major store, which is a sun around which the satellites of smaller shops and businesses operate. This is the description that the noble Baroness, Lady Scott, provided. However, that is just for a group of retail businesses, often in a new situation—such as an out-of-town retail park, a new retail development within a larger town centre or an existing large business in a town centre, for example a Marks & Spencer or a John Lewis store that has a multitude of operations within it. That enables other businesses to exist and thrive from the footfall that the big name store attracts. I agree with ",
+   "name": "Baroness Pinnock",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Thurlow (CB)",
+   "member_id": 4353,
+   "type": "Contribution",
+   "text": "I will briefly add a few comments. I wholeheartedly support Amendment 11 from the noble Baroness, Lady Scott, in principle. The noble Baroness, Lady Pinnock, has clearly illustrated what happens to a town centre when the anchor departs and the economic health of the shopping environment dies. The problem we have is that of definitions. When a comprehensive town centre development is designed by developers, it contains, without fail, something called an MSU—a major space unit. That is the anchor, the John Lewis or the Marks & Spencer. When that goes, the only possible replacement, generally speaking, is a supermarket. If the supermarket becomes the anchor of the economic health of the high street, at the back of a shopping centre, filling the space of the department store that was there before, the supermarket really has to be described as an anchor. I do not disagree with the concept, but it makes the problem one of definitions and gets back to the question of use classes, which we will perhaps be able to speak about with the Bill team at another time. I agree with the principle of this amendment, but I think it is more complicated. We need to get to the bottom of it, but it is one",
+   "name": "Lord Thurlow",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Khan of Burnley (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "My Lords, these amendments seek to change the Bill to remove anchor stores from the higher multiplier. I apologise for being repetitive, but as I explained in the debates on the previous three groups of amendments, we have taken a sector-agnostic approach to the higher multiplier and not excluded any sector or type of property. This is the fairest option. We have also ensured that the Valuation Office Agency has published data on those properties currently falling within the threshold for the higher multiplier. This shows that the impact on high street shops is very limited. I will not repeat those numbers at this time but encourage noble Lords to look at that information. Alongside noble Lords, we of course appreciate the role anchor stores can play in the high street, but it should be acknowledged that anchor stores are often part of large retail chains that will also have a number of properties with a rateable value of below £500,000. Where retail properties’ rateable value is below £500,000, they will benefit from the lower tax rates for qualifying retail, hospitality and leisure from April 2026. The amendment would also be difficult to operationalise and would require the Gove",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "Baroness Scott of Bybrook (Con)",
+   "member_id": 4553,
+   "type": "Contribution",
+   "text": "My Lords, I thank the noble Baroness, Lady Pinnock, the noble Lord, Lord Thurlow, and all others who have mentioned this issue throughout the afternoon. There is an important role for anchor stores. To the definition, with the greatest respect to the noble Lord, I suggest that they should ask communities and their residents what would be an anchor store in their local town centre and ask the sector to discuss that as well. As a former leader of a council for many years, and knowing many council leaders, as I do, I know that they know exactly what an anchor store at any one time would be for the size and type of the high street they are trying not only to protect but to keep being a high street for any length of time. Many leaders of councils across this country have spent many hours working with the sector to get exactly that in order to make sure that they have a good thriving and surviving high street for their local communities. As we have said, we all agree that these stores play a crucial role in the vitality of high streets and town centres. We know that they drive footfall, support local businesses and contribute significantly to the economic and social fabric of our communi",
+   "name": "Baroness Scott of Bybrook",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Pinnock (LD)",
+   "member_id": 4341,
+   "type": "Contribution",
+   "text": "“Fair and sustainable”.",
+   "name": "Baroness Pinnock",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Scott of Bybrook (Con)",
+   "member_id": 4553,
+   "type": "Contribution",
+   "text": "And equitable. We must not overlook the specific need, as we have all said—across parties—to protect our high streets for our communities for the future. We believe that exempting anchor stores from these changes is a measured and practical way of safeguarding the future of our town centres. I hope to have further discussions with the Minister on this before Report but, at this point, I beg leave to withdraw my amendment.",
+   "name": "Baroness Scott of Bybrook",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Pinnock (LD)",
+   "member_id": 4341,
+   "type": "Contribution",
+   "text": "My Lords, Amendments 16, 34 and 42 in my name and that of my noble friend Lord Fox seek to provide a much-needed definition for retail, hospitality and leisure businesses, which is sadly missing from the Bill. We keep being told by the Minister that one will be provided, but here is one that he might like to use. These three amendments propose that the hereditaments defined as retail, hospitality and leisure should be “shops, restaurants, cafes, drinking establishments, cinemas or live music venues”, and those used “for assembly and leisure, or … as hotels, guest and boarding premises or self-catering accommodation”. We believe that that probably covers the gamut of RHL hereditaments and hope that the Minister will agree that it is an inclusive list. We hope that he will accept it so that the Treasury does not have to define one. We have to understand that it is really important to local businesses to have certainty about their costs. This aspect of the Bill has not been touched on yet today. I speak to businesses in my locality, and they are concerned about potential increases in their costs. They need to plan ahead—not just one year but a couple of years at least, and, for cafés ",
+   "name": "Baroness Pinnock",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Jamieson (Con)",
+   "member_id": 5019,
+   "type": "Contribution",
+   "text": "My Lords, I will speak to the amendments in this group in the name of the noble Baroness, Lady Pinnock, all of which address the lack of detail provided by the Government on their intentions with this Bill. Amendments 16, 34 and 42 probe what types of hereditaments will be included in the definition of retail, hospitality and leisure. I am inclined to assume that the definition will remain the same as that which we used to define the requirements for the retail, hospitality and leisure relief scheme, and these are indeed the criteria listed in the noble Baroness’s amendments. These may be unnecessary amendments, given that eligibility for retail, hospitality and leisure relief is already set out in the Government’s guidance for the scheme. However, we discussed our concerns about the power of the Treasury to define this in an earlier group. Crucially, businesses that are already worried about this Government’s plans need certainty and to be able to plan for the future. The Minister said that they need certainty; would not putting a clear definition in the Bill be a good way of delivering that? I will listen with interest to the Minister’s response, as we are likely to return to thi",
+   "name": "Lord Jamieson",
+   "party": "Con"
+  },
+  {
+   "who": "Lord de Clifford (CB)",
+   "member_id": 4997,
+   "type": "Contribution",
+   "text": "I rise quickly to support Amendments 16, 34 and 42 tabled by the noble Baroness, Lady Pinnock, and to reiterate my point about clarity for businesses. Businesses want to plan two or three years ahead but cannot. We have a limbo at the moment for about 18 months to two years, and this Bill leaves us in that position. I ask the Minister to go back to the Government and ask for some clarification—that is, some sorts of figures so that businesses can plan for the future.",
+   "name": "Lord de Clifford",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Khan of Burnley (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "My Lords, I thank the noble Baroness, Lady Pinnock, and the noble Lord, Lord Fox, for their Amendments 16, 34, 42 and 51. I understand the intention of these amendments is to understand further, first, what hereditaments will be included in the definition of qualifying retail, hospitality and leisure properties; and, secondly, the intended application of the new multipliers to high streets. The definition of qualifying retail, hospitality and leisure properties will be set out via secondary legislation later this year, as I repeated earlier. However, I can confirm that the Government’s intention is for this broadly to follow the definition that is used for the current RHL relief; I note that the noble Lord and the noble Baroness are familiar with this definition, as their amendment draws on the guidance published by the Government. When introduced from 2026-27, the new multipliers that this Bill makes provision for will apply to all relevant hereditaments, regardless of their geographical location. It is the Government’s intention to introduce two lower RHL multipliers: one for RHL properties with a rateable value of between £51,000 and £499,999; and another one for RHL properties ",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "Lord Fox (LD)",
+   "member_id": 4322,
+   "type": "Contribution",
+   "text": "I thank the Minister for introducing the use of the relief definitions. If I have got this wrong, I am very happy for him to tell me so, but my understanding is that the bottom level of below £49,000, I think, were not paying business rates at all. Is that correct? Will they now be classified along with everyone else and pay business rates with the appropriate reduction put on to them, in which case they will go from paying no rates to some—albeit less than the full rate, as we would have seen it?",
+   "name": "Lord Fox",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Khan of Burnley (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "Just to clarify, the noble Lord, Lord Fox, has got it wrong because the zero, as in no business rates, is for rateable values—£12,000 in particular—and it is then tapered, so the relief decreases as it goes to £15,000.",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "Lord Fox (LD)",
+   "member_id": 4322,
+   "type": "Contribution",
+   "text": "Do they now come into the system or do they continue to have a zero rate under the proposals of this Bill?",
+   "name": "Lord Fox",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Khan of Burnley (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "Just to clarify for noble Lords, there will be no change to small business rate relief—that is not changing—so they will still pay tax. It is the Government’s view that this is the fairest approach and that trying to restrict the application of the different multipliers based on geography would create unintended consequences and would likely drive perverse incentives. It is also extremely difficult to draw a line around a town centre. I note that the noble Baroness, Lady Pinnock, made a suggestion around using the understanding of the term as per the National Planning Policy Framework, but that framework does not set a definition of a town centre. It should be noted that the framework suggests those centres identified in development plans, but this does not represent a requirement that all centres are identified. We also know that many areas do not have up-to-date development plans and that, therefore, centres that are identified may not reflect current realities. Such an approach would essentially give local planning authorities the power to determine where multipliers should apply and could restrict their application from smaller retail centres that might be essential to particul",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "Baroness Pinnock (LD)",
+   "member_id": 4341,
+   "type": "Contribution",
+   "text": "I thank the Minister. I thank the noble Lords, Lord Jamieson and Lord de Clifford, for their supportive comments, as the Minister was not so helpful. Businesses require clarity and certainty. To tell us that secondary legislation will be needed to set out the definition of RHL means that clarity and certainty will be pushed further down the line. The Minister shakes his head, but I wrote down what he said: secondary legislation will set out the definitions. By definition, that will be after this Bill has gone through its processes.",
+   "name": "Baroness Pinnock",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Khan of Burnley (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "My Lords, in the very same sentence I said: “However, I can confirm that the Government’s intention is for this to broadly follow the definition that is used for the current RHL”.",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "Baroness Pinnock (LD)",
+   "member_id": 4341,
+   "type": "Contribution",
+   "text": "In which case, I apologise to the Minister. I must have missed that bit of his explanation. We have been saying right from the start that Covid relief would be the definition for RHL, and that is the clarity people need. I hope the Government will inform businesses that, if they currently get Covid relief, they will qualify under this Bill. Equally, we will be pushing the Government to expand that definition. It is not as inclusive as some of us think it should be if the aim is for small businesses to thrive or have reduced costs, as opposed to distribution warehouses and online retailers. On the last amendment, I disagree with the Minister because the National Planning Policy Framework—which I have read—sets out what a town centre is. Local planning authorities have the responsibility to form a local plan. The Minister is right: far too many local planning authorities have failed in that responsibility. However, the Government have said that they expect local planning authorities to produce a local plan. In that case, all local planning authorities would produce a local plan in which they can define what is included within the boundaries of several town centres within their purvie",
+   "name": "Baroness Pinnock",
+   "party": "LD"
+  },
+  {
+   "who": "The Deputy Chairman of Committees (Baroness Garden of Frognal) (LD)",
+   "member_id": 3842,
+   "type": "Contribution",
+   "text": "My Lords, this will be the last group today. Amendment 21",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Baroness Scott of Bybrook (Con)",
+   "member_id": 4553,
+   "type": "Contribution",
+   "text": "My Lords, Amendments 21, 40 and 44 in this group seek to introduce a statutory index-linked uplift in the threshold for the higher multiplier in line with inflation. These specific amendments relate to the level of the threshold in future years, so I am grateful for this opportunity to have a brief and specific debate on the threshold. We have already probed the Government over their arbitrary threshold of £500,000, but I hope that, in response to this group, the Minister will be able to explain the Government’s current plans for uprating the threshold in future. There are no measures in the Bill to prevent more businesses being caught by this threshold over time. We are told that it is not the Government’s intention for smaller high street businesses to be hit by the higher multiplier, but inflation and a fixed threshold mean that that will be an inevitable result of this policy. I remind the Committee at this point that, thanks to the Government’s Budget measures, inflation rose by 3% in the 12 months to January 2025, up from 2.5% in the 12 months to December 2024. As the hereditament valuations rise over time, more and more businesses will be paying higher business rates. If the",
+   "name": "Baroness Scott of Bybrook",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Fox (LD)",
+   "member_id": 4322,
+   "type": "Contribution",
+   "text": "My Lords, I think this might be the last group today; I would say that we have done very well to get this far. I shall speak to these four amendments. The first three make an assumption that the £500,000 threshold was right in the first place. Of course, that is really addressed by the fourth amendment, so I am going to speak to it. It is right that there should be some form of uprating, but I am more intrigued about how the figure of £500,000 was alighted on in the first place. If we were looking at something that was broadly financially neutral, I do not know how we would know, because we do not know how the flexible upper rate will be applied, so we do not know how much money that will raise. We therefore do not know whether £500,000 was the right number to make it financially neutral. Was it chosen for a business reason? Are businesses of that size particular sorts of business that we need to factor in, in a different way, or was there some other sociological plan involved in choosing £500,000? My big question for the Minister is who chose the number. Was it DHCLG or the Treasury?",
+   "name": "Lord Fox",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Khan of Burnley (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "It is not DHCLG these days; it is MHCLG.",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "Lord Fox (LD)",
+   "member_id": 4322,
+   "type": "Contribution",
+   "text": "Whatever it is called these days—they keep changing it, and I never normally address this particular crowd. Was it the Minister’s ministry or was it the Treasury? If it was the Treasury, I rather think we should have a Treasury Minister here to answer the question of why it was a £500,000 limit, because it seems to me that it is a very round, arbitrary number. It would have been more convincing had it been £550,000; it might have looked like some thought had gone into it. This looks like a dart-throwing exercise. So can the Minister explain what was behind the number? Is it trying to balance the money raised? If so, how can you know when your top rate is a top rate and is not necessarily applied? If it is the nature of a business, what is it about the nature of the business? If it is from an analysis of every single £500,000 business, what criteria were used to make that analysis? In other words, where did it come from?",
+   "name": "Lord Fox",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Khan of Burnley (Lab)",
+   "member_id": 4913,
+   "type": "Contribution",
+   "text": "My Lords, Amendments 21, 40 and 44 concern the rateable value threshold above which the higher multiplier may apply. This is set in the Bill at no less than £500,000, as we have heard repeatedly in contributions by noble Lords. The Bill allows the Government to set a higher threshold through regulations if they wish, but the amendments would require this threshold to be increased annually in line with CPI. Alongside the amendments, the noble Baroness, Lady Scott of Bybrook, has given notice of her intention to oppose Clause 3 standing part of the Bill. It would therefore be appropriate at this point if I set out why Clause 3 should stand part. The noble Baroness, Lady Scott of Bybrook, raises a reasonable question as to whether, and if so how, the £500,000 threshold should change over time and other noble Lords have also raised this point. Of course, we would expect that, over time, the value of properties and therefore their rateable values will increase as the economy grows. As these rateable values grow, the current threshold in the Bill of £500,000 will, relatively speaking, be smaller and more properties may be drawn into that category. That is the issue that the noble Barones",
+   "name": "Lord Khan of Burnley",
+   "party": "Lab",
+   "role": "The Parliamentary Under-Secretary of State, Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "who": "Baroness Scott of Bybrook (Con)",
+   "member_id": 4553,
+   "type": "Contribution",
+   "text": "My Lords, I thank the noble Lord for speaking in this debate. He actually brought today’s debate right back to the beginning: where did the £500,000 figure come from? If we could get that from the Minister, it would be very useful for our debates as we enter Report. The answer to whether there will be any further uplifts, is, I understand, the revaluation, which is in three years, but three years could go on. I go back to the difficulty that this makes for businesses to plan when they know they are going to hit that cliff edge of £500,000 and that their business rates are going to go up considerably. I go back to the example of my noble friend Lord Jamieson, who gave the example of the health centre that wants to build an extension, which could possibly move it across; the health centre would need to think very seriously about doing that extension, and this will happen across all investment in different types of businesses, which I think is worrying. This is something that we could resolve together by a relatively straightforward amendment to the Bill, and I hope that the Government will do the right thing in protecting these smaller businesses from being hit with higher business r",
+   "name": "Baroness Scott of Bybrook",
+   "party": "Con"
+  },
+  {
+   "who": "The Deputy Chairman of Committees (Baroness Garden of Frognal) (LD)",
+   "member_id": 3842,
+   "type": "Contribution",
+   "text": "My Lords, well done—I think we have finished just before the vote.",
+   "name": "Chair",
+   "role": "Chair"
+  }
+ ],
+ "fetched": "2026-10-21T20:25:21Z"
+}

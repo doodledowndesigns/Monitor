@@ -1,0 +1,850 @@
+{
+ "ext_id": "0B24552D-2905-48EC-90F3-E1D850038227",
+ "date": "2025-02-24",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Breakfast Clubs: Early Adopters",
+ "parents": [
+  "Commons Chamber"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2025-02-24/debates/0B24552D-2905-48EC-90F3-E1D850038227/BreakfastClubsEarlyAdopters",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education",
+   "member_id": 4046
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 4048
+  },
+  {
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston",
+   "member_id": 4679
+  },
+  {
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood",
+   "member_id": 4510
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock",
+   "member_id": 5056
+  },
+  {
+   "name": "Simon Hoare",
+   "party": "Con",
+   "seat": "North Dorset",
+   "member_id": 4494
+  },
+  {
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen",
+   "member_id": 5270
+  },
+  {
+   "name": "Iqbal Mohamed",
+   "party": "Ind",
+   "seat": "Dewsbury and Batley",
+   "member_id": 5268
+  },
+  {
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East",
+   "member_id": 5152
+  },
+  {
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford",
+   "member_id": 4131
+  },
+  {
+   "name": "Mark Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley",
+   "member_id": 5166
+  },
+  {
+   "name": "Florence Eshalomi",
+   "party": "Lab/Co-op",
+   "seat": "Vauxhall and Camberwell Green",
+   "member_id": 4870
+  },
+  {
+   "name": "Josh Fenton-Glynn",
+   "party": "Lab",
+   "seat": "Calder Valley",
+   "member_id": 5295
+  },
+  {
+   "name": "Peter Dowd",
+   "party": "Lab",
+   "seat": "Bootle",
+   "member_id": 4397
+  },
+  {
+   "name": "Nesil Caliskan",
+   "party": "Lab",
+   "seat": "Barking",
+   "member_id": 5180
+  },
+  {
+   "name": "Matt Rodda",
+   "party": "Lab",
+   "seat": "Reading Central",
+   "member_id": 4654
+  },
+  {
+   "name": "Perran Moon",
+   "party": "Lab",
+   "seat": "Camborne and Redruth",
+   "member_id": 5208
+  },
+  {
+   "name": "Rachel Hopkins",
+   "party": "Lab",
+   "seat": "Luton South and South Bedfordshire",
+   "member_id": 4873
+  },
+  {
+   "name": "Adam Thompson",
+   "party": "Lab",
+   "seat": "Erewash",
+   "member_id": 5044
+  },
+  {
+   "name": "Tulip Siddiq",
+   "party": "Lab",
+   "seat": "Hampstead and Highgate",
+   "member_id": 4518
+  },
+  {
+   "name": "Alex Baker",
+   "party": "Lab",
+   "seat": "Aldershot",
+   "member_id": 5173
+  },
+  {
+   "name": "Alistair Strathern",
+   "party": "Lab",
+   "seat": "Hitchin",
+   "member_id": 5000
+  },
+  {
+   "name": "Pippa Heylings",
+   "party": "LD",
+   "seat": "South Cambridgeshire",
+   "member_id": 5078
+  },
+  {
+   "name": "Josh Simons",
+   "party": "Lab",
+   "seat": "Makerfield",
+   "member_id": 5060
+  },
+  {
+   "name": "Mr Richard Quigley",
+   "party": "Lab",
+   "seat": "Isle of Wight West",
+   "member_id": 5144
+  },
+  {
+   "name": "Lewis Atkinson",
+   "party": "Lab",
+   "seat": "Sunderland Central",
+   "member_id": 5028
+  },
+  {
+   "name": "Ms Julie Minns",
+   "party": "Lab",
+   "seat": "Carlisle",
+   "member_id": 5094
+  },
+  {
+   "name": "Alice Macdonald",
+   "party": "Lab/Co-op",
+   "seat": "Norwich North",
+   "member_id": 5133
+  },
+  {
+   "name": "Alison Hume",
+   "party": "Lab",
+   "seat": "Scarborough and Whitby",
+   "member_id": 5254
+  },
+  {
+   "name": "Sojan Joseph",
+   "party": "Lab",
+   "seat": "Ashford",
+   "member_id": 5247
+  },
+  {
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire",
+   "member_id": 5195
+  },
+  {
+   "name": "Tom Collins",
+   "party": "Lab",
+   "seat": "Worcester",
+   "member_id": 5087
+  },
+  {
+   "name": "Jim Dickson",
+   "party": "Lab",
+   "seat": "Dartford",
+   "member_id": 5223
+  },
+  {
+   "name": "David Baines",
+   "party": "Lab",
+   "seat": "St Helens North",
+   "member_id": 5092
+  },
+  {
+   "name": "Luke Myer",
+   "party": "Lab",
+   "seat": "Middlesbrough South and East Cleveland",
+   "member_id": 5147
+  }
+ ],
+ "contributions": [
+  {
+   "who": "The Secretary of State for Education (Bridget Phillipson)",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "With permission, I will make a statement updating the House on the Government’s work to deliver free breakfast clubs and give every child the best start in life. This is a Government who act on their principles, deliver on their promises and drive the change that the country needs—change that is felt in our villages, towns and cities; change that will help families with the cost of living; and change that lifts the life chances of our children across the country. Change begins and the biggest difference can be made during those early years of life, and on into primary school, when the possibilities still stretch out. Our action is urgent. Far too many children growing up in this country are held back by their background and denied the opportunity to go on to live happy and healthy lives, with the bad luck of a tough start weighing down their life chances. I will not stand by while those children are let down, because I believe that background should not mean destiny. Every single child deserves the very best start in life. To achieve and thrive at school is the right of all children. Our manifesto outlined the action a Labour Government would take, and now, not yet eight months on ",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I call the shadow Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O’Brien (Harborough, Oadby and Wigston) (Con)",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for advance sight of the statement. The previous Government substantially expanded access to breakfast clubs in primary and secondary schools, and crated the holiday activities and food programme. The national school breakfast programme has been running since 2018, and 85% of schools now have a breakfast club, with one in eight having a taxpayer-funded breakfast club. In March 2023, the previous Government announced £289 million for the national wraparound childcare funding programme, some of which is being used to fund breakfast clubs. That was part of a much wider expansion of free childcare that saw spending on entitlement to free childcare more than double in real terms between 2010 and 2024. I was struck by the comments made by Mark Russell from the Children’s Society during the evidence sessions for the Children’s Wellbeing and Schools Bill. Given the resource constraints, he said taxpayer money should be focused on rolling out free breakfasts to a greater number of deprived secondary schools, rather than providing a universal offer in primary schools. He said: “I would like to see secondary school children helped, and if the pot is limited, I w",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "The shadow Minister asks a number of questions, but at no point did he welcome the massive investment and the benefits that this provision will bring to children across our country, including in his own constituency—not a word of support. I hope when the breakfast club in his constituency opens, he might take time to visit that school and see the massive benefits being delivered to children and families. Before I respond to the number of detailed questions that the hon. Gentleman asked, I note once again how disappointing it was that the Conservatives voted to block the Children’s Wellbeing and Schools Bill. Let us remind ourselves what that would have meant. It would have completely stopped the roll-out of free breakfast clubs we are announcing today; they will be rolled out across England subject to the progress of the Bill. It would have stopped us limiting the number of branded uniform items that schools can demand, which again will save families hundreds of pounds at a time when we know that they are under real pressure. Most shamefully of all, the hon. Gentleman knows full well that it would have stopped dead some of the most far-reaching child protection measures in a genera",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I call the Chair of the Education Committee.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Helen Hayes (Dulwich and West Norwood) (Lab)",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for her statement today. I welcome the news that St Luke’s Church of England primary school in my constituency will be one of the early adopters of a universal breakfast club under the programme. All too often, children with special educational needs and disabilities are excluded from extracurricular activities, and it is the parents of children with SEND who often find it the hardest to access childcare. It is essential that children with SEND have equal access to breakfast clubs in both mainstream and specialist schools. What steps are being taken to ensure that that is the case, that schools have the capacity to provide specialist staff where needed and that any additional home-to-school transport costs, which are often essential in enabling children with SEND physically to access a breakfast club, will be met?",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Some 754 schools have been selected to take part in the early adopters scheme, of which 704 are mainstream schools and 50 are special schools and alternative provision settings. That is important, because we want to make sure that all children in time are able to benefit from the roll-out of breakfast clubs. We will work closely with schools and sector experts to develop the programme as we intend to roll it out. I really want to learn through the early adopter schools how we can best create a truly universal and inclusive breakfast school provision. I recognise that delivering breakfast clubs may be particularly challenging for special and alternative provision schools. We have invited them to take part in the early adopters scheme so that we can make sure that, as we roll out across the country, including in mainstream schools, the needs of all children are properly catered for as part of the programme.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I call the Liberal Democrat spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "With three in 10 children growing up in poverty, any measure to tackle child hunger is to be welcomed to enable them to learn and flourish, so I congratulate the 750 schools selected as breakfast club early adopters. The learnings from those pilots will be absolutely critical as the Government seek to scale up the programme. A number of questions that I have previously put to Ministers still stand, and I hope that the Secretary of State will address some of them. Many school leaders have raised concerns about the proposed funding rates, which are reportedly around 60p per child per day. If the pilots clearly show that those rates are insufficient, will Ministers commit to reviewing and increasing them? Schools simply cannot afford to make savings elsewhere, such as in teaching budgets. Will Ministers review school food standards to ensure that breakfasts are specifically addressed, as the recent House of Lords report on childhood obesity recommended? What consideration has been given to how the 30 minutes of universal free childcare provision will interact with existing breakfast club provision? Most commuting parents need more than 30 minutes of childcare in the morning. The Child",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to the hon. Lady for her questions. Turning first to the question of funding, there has sadly been some misunderstanding about the funding rates, so I will set those out for the benefit of the House. In the summer term, funding will be paid in two parts: an up-front, one-off payment of £500 to cover initial set-up costs and, alongside that, a lump sum payment of £1,099 to cover fixed staffing costs for the summer term. That is in addition to the per pupil funding rates that exist in both mainstream and specialist provision; of course, rates will be higher in special schools, recognising the additional needs and staffing requirements that exist there. Schools will receive support to manage the requirements of the scheme, and will be provided with opportunities to learn from one another. On food standards, we always seek to keep all those areas under review. We want to make sure that all the food served in our schools is healthy and nutritious, so that children are well fed and ready to learn. The school food statutory guidance, which regulates the food and drink provided in schools, already applies to breakfast. We want to ensure that healthy meals are offered as part ",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Jen Craft (Thurrock) (Lab)",
+   "member_id": 5056,
+   "type": "Contribution",
+   "text": "I warmly welcome today’s announcement of the breakfast club pilot areas, including the two schools in my constituency, which will make a massive difference to the lives of many working families. However, on the subject of breakfast clubs, as an SEN parent I would like to issue the plea, “Don’t you forget about me.” Too often, SEN parents and their children find that policy moves ahead without them, and there is a risk that we could be slightly overlooked in this area. What measures has the Secretary of State put in place to make sure that disabled children and those with additional needs can fully take part in breakfast clubs?",
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to my hon. Friend for raising this important area. She is right that breakfast clubs must be fully inclusive and take account of the needs of all children, including children with SEND. That is why, as part of this process, we have announced 50 special and AP schools that will be taking part in the early adopters scheme. They will receive a higher funding rate of £3.23 a pupil, in addition to support for set-up costs and termly payments. I recognise the need to ensure that breakfast clubs operating in mainstream schools can cater to the needs of a wide range of children. That is why we are developing a toolkit for providers of wraparound care, including breakfast clubs, so that the provision that is put in place is inclusive for all children.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Simon Hoare (North Dorset) (Con)",
+   "member_id": 4494,
+   "type": "Contribution",
+   "text": "The Secretary of State makes a compelling argument on the merits of breakfast for many of our young children and the benefits that it has for learning. Can she say a word or two on two points? First, will she answer the question being raised in the secondary sector about future funding beyond the agreed time period? Secondly, what incentives can she put in place to encourage schools to procure foodstuffs that are produced locally? That would give good support to our local food producers and our farmers.",
+   "name": "Simon Hoare",
+   "party": "Con",
+   "seat": "North Dorset"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I agree with the hon. Gentleman about the importance of supporting local providers where that is possible and the fantastic contribution of British food and wider produce. I just observe that it is my understanding that his constituency is set to benefit from the early adopters scheme. I hope that he will be able to see the fantastic benefit that it will bring to children and families in his constituency. The national school breakfast programme will continue for the next year, but that covers only 75% of food. Schools are required to fund the additional 25% of costs. Our new breakfast clubs will be about more than just food; they will be about the wider opportunities that children in primary school will have at the start of the school day, and the costs will cover staffing, delivery and food.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Darren Paffey (Southampton Itchen) (Lab)",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "I warmly welcome this statement and the firm actions that my right hon. Friend is taking to make sure that we can level the playing field and boost attendance and attainment for children in Southampton Itchen and beyond. I am particularly delighted that St John’s primary and nursery school will get this investment from the Government as part of the early adopters programme. Will the Secretary of State detail what conversations she is having about how the monitoring will work, so that the national roll-out can be based on the best evidence? Ahead of perhaps 749 other invitations, may I invite her to visit St John’s to see the breakfast club in action?",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am delighted to hear about the good news for St John’s. I am sure that the Minister for Early Education, my hon. Friend the Member for Portsmouth South (Stephen Morgan), and I will receive lots of invitations to visit fantastic breakfast clubs across our country. We will do our best to service those invitations, but with more than 750, it might be a bit of a stretch. We will try our very best. My hon. Friend the Member for Southampton Itchen (Darren Paffey) is right to identify the need to develop learning and understanding about what works across the early adopters. That is why the schools taking part in this pilot cover a range of settings and serve communities with a range of different needs—both rural and urban—and of different kinds, so that we can ensure a fully representative sample ahead of full roll-out.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Iqbal Mohamed (Dewsbury and Batley) (Ind)",
+   "member_id": 5268,
+   "type": "Contribution",
+   "text": "I am grateful to the Secretary of State for her statement. As a child brought up on free milk and free school meals, I very much welcome and support the Government’s plans to set up universal breakfast clubs in all primary schools. However, concerns are reported among headteachers, unions and charities that the plans will not be properly funded and will lack the flexibility required to be successful. This weekend, the independent publication Schools Week highlighted how some headteachers in primary schools, while enthusiastic about the aims, refused to take part in the early adopters pilot scheme as volunteer schools, because only 60p was being provided by the Government per pupil. The budgets of schools in my constituency of Dewsbury and Batley, as well as those across the country, are already stretched beyond breaking point. Will the Secretary of State therefore confirm that adequate funding for healthy foods, as well as the necessary flexibilities, will be provided to all primary schools for the breakfast clubs? Will she guarantee that schools will not be left out of pocket?",
+   "name": "Iqbal Mohamed",
+   "party": "Ind",
+   "seat": "Dewsbury and Batley"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am confident that the funding being made available to schools will be sufficient to deliver on this programme. The hon. Gentleman quotes the daily per pupil funding rate, but alongside that, as I set out earlier, there will be start-up costs, as well as lump-sum payments to cover the costs of running breakfast clubs, alongside a higher daily funding rate for special schools and a higher daily funding rate based on the proportion of FSM6 pupils at the school.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mrs Sureena Brackenridge (Wolverhampton North East) (Lab)",
+   "member_id": 5152,
+   "type": "Contribution",
+   "text": "First, my congratulations go to Pool Hayes primary school in Willenhall for being one of the 750 early adopters. Will the Secretary of State outline how the free universal roll-out of breakfast clubs, alongside capping the number of branded items of uniform and expanding funded childcare, will help families in Wolverhampton North East with the cost of living?",
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am delighted that my hon. Friend’s constituency is part of the early adopters programme. Our breakfast clubs scheme is all about making sure that children get a great start to their school day—a welcoming space that provides them with valuable opportunities to play, learn and socialise. However, as she identifies, the measures we are setting out to the House today on the early adopters scheme, as well as the measures in the Children’s Wellbeing and Schools Bill, will also make a big difference to parents. They will put more money back into their pockets by limiting the costs of school uniform and providing more support around breakfast clubs. That is the difference a Labour Government make.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "I welcome very much the Secretary of State’s commitment to the scheme. I know it is an England scheme, but we have a similar scheme in Northern Ireland. Every one of us as MPs has attended Kellogg’s events in the House, and we understand the commitment that Kellogg’s can make. Has the Secretary of State considered whether other companies could do similar to what Kellogg’s does in relation to schools? For instance, bakeries and those who make jam or marmalade could do something. Indeed, we know that the superstores dump their food out or dispose of it within 24 hours. That is good food going to waste. There might be better ways. Perhaps she can help us to achieve that.",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I agree with the hon. Gentleman that there is always more that we can do, and I note that many companies already involve themselves in important charitable works in this area. He names one company. It would be remiss of me, as a north-east MP, not to give a special plug to Greggs, which does fantastic work in this space, too. Alongside the national roll-out of breakfast clubs that we intend to deliver, we continue to believe that there is an important role for organisations such as Magic Breakfast, Greggs and Kellogg’s in supporting schools and children.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mark Sewards (Leeds South West and Morley) (Lab)",
+   "member_id": 5166,
+   "type": "Contribution",
+   "text": "I welcome the introduction of free breakfast clubs for all primary schools, including Robin Hood primary school in Leeds South West and Morley. Such clubs provide £450 of savings to parents and extra childcare, and we know that children should not have to start the day hungry. What can the Secretary of State tell the primary schools in my constituency about the full roll-out? When can they expect to see breakfast clubs in their schools?",
+   "name": "Mark Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We intend to deliver the roll-out as soon as possible, because we know it is urgent, and we know the difference it will make to children’s lives. Free universal breakfast clubs will also mean that every primary school child, no matter their circumstances, is well prepared to learn. That is why we believe in that important provision being universal and available to all children. Today is an important step forward, and Robin Hood primary school will be an important part of how we develop and understand how to roll out the programme nationally.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Florence Eshalomi (Vauxhall and Camberwell Green) (Lab/Co-op)",
+   "member_id": 4870,
+   "type": "Contribution",
+   "text": "I agree with the Secretary of State that every single child deserves the best start in life, but if we are honest, we know that not every child has that. This programme will make such a big difference to so many children, including children at Van Gogh primary school, Henry Fawcett primary school and Crawford primary school in my constituency. The Secretary of State is always welcome to come and visit any of those three. We know that this programme will make a big difference for many parents, too. One of the other pushes behind the free breakfast clubs is that they are really good for children’s attainment and attendance. The early adopters start in April. What is the timeline for reviewing them, especially in light of some of the funding concerns that other Members have raised?",
+   "name": "Florence Eshalomi",
+   "party": "Lab/Co-op",
+   "seat": "Vauxhall and Camberwell Green"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I strongly agree with my hon. Friend about the need to ensure that every child has the best start in life. I am grateful for her generous invitation, and I am sure that my hon. Friend the Early Education Minister and I will consider it along with, no doubt, a great many other invitations. We intend to test and learn as we go along to ensure that the scheme is being rolled out effectively. This is a crucial part of ensuring that all children have opportunities at the start of the school day to play, to learn, to socialise and to benefit from that softer start. My hon. Friend was right to mention evidence from the Education Endowment Foundation which demonstrates the impact of breakfast clubs on attendance, attainment and behaviour, affecting not just the children who benefit but the whole school community.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Josh Fenton-Glynn (Calder Valley) (Lab)",
+   "member_id": 5295,
+   "type": "Contribution",
+   "text": "Stories of children arriving for lessons hungry are far too common in my constituency and across the country, and the issue was exacerbated by the massive rise in child poverty under the last Government. Because of the actions of this Labour Government, however, my constituency will see pilots in Cornholme junior, infant and nursery school, Scout Road academy, Elland Church of England junior, infant and nursery school, and Luddenden Church of England school. Will the Minister confirm that the child poverty strategy, when it is delivered, will build on that and make the scandal of children missing meals a thing of the past?",
+   "name": "Josh Fenton-Glynn",
+   "party": "Lab",
+   "seat": "Calder Valley"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "It is a privilege to co-chair the child poverty taskforce with my right hon. Friend the Work and Pensions Secretary. We have heard evidence across the country as a result of visits to Northern Ireland and Scotland—and will visit Wales shortly—to understand the challenges faced by so many families throughout the United Kingdom, and what is required to bring down the number of children growing up in poverty. We are considering a range of measures because of the dreadful record left by the Conservative Government: we have seen countless thousands of children grow up in avoidable poverty. The hon. Member for Farnham and Bordon (Gregory Stafford), who is sitting on the Opposition Front Bench, can shake his head all he likes, but that is a fact.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Peter Dowd (Bootle) (Lab)",
+   "member_id": 4397,
+   "type": "Contribution",
+   "text": "I welcome the statement, and it will also be welcomed by the families of children attending St Monica’s Catholic primary school and King’s Lander primary academy. We look forward to the extension and expansion of my right hon. Friend’s proposals. Does she agree that they are food for thought in the most literal and practical sense of the term?",
+   "name": "Peter Dowd",
+   "party": "Lab",
+   "seat": "Bootle"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am delighted to hear about the schools in my hon. Friend’s constituency that are taking part in the scheme. They will play a crucial role in how we find the most effective way of delivering this on a national basis. I believe it is essential for all children to arrive at school ready to learn, with full bellies and hungry minds.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Nesil Caliskan (Barking) (Lab)",
+   "member_id": 5180,
+   "type": "Contribution",
+   "text": "Parents and teachers in my constituency will welcome the statement, as will, in particular, Monteagle and Richard Alibon primary schools, which are part of the early roll-out. The Secretary of State referred briefly to the evidence-based relationship between those who attend breakfast clubs and attainment; that is particularly important in my constituency, where 19% of children are frequently absent. Can she give us some more details about the evidence of a link between attendance at breakfast clubs and long-term school attendance?",
+   "name": "Nesil Caliskan",
+   "party": "Lab",
+   "seat": "Barking"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend is right to draw attention to the significant challenges relating to attendance. Breakfast clubs are an important part of support for children in respect of behaviour, attendance and attainment, and the evidence is very clear in that regard. I pay tribute to the school leaders and staff who will be involved in this important endeavour to support children at the start of the school day: their efforts will allow us to effectively roll out a national scheme that will benefit children the length and breadth of our country, and I am grateful for their contribution.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Matt Rodda (Reading Central) (Lab)",
+   "member_id": 4654,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for her important policy announcement, and I thank her in particular for the investment in Caversham Park and St Anne’s Catholic primary schools in my constituency. Can she give any further details of the evaluation of the programme over time?",
+   "name": "Matt Rodda",
+   "party": "Lab",
+   "seat": "Reading Central"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We will update the House to ensure that Members are aware of the continuation of the roll-out and its progress, but also so that we can learn how it is progressing as quickly and effectively as possible. I am delighted to hear about the schools in my hon. Friend’s constituency.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Perran Moon (Camborne and Redruth) (Lab)",
+   "member_id": 5208,
+   "type": "Contribution",
+   "text": "Gwinear Community primary school is one of the 750 early adopters, and I am extremely pleased that they have joined in. Does the Secretary of State agree that this is part of an overall strategy to ensure that all children can gain access to the education that they deserve—a strategy that has been profoundly missing for the last 14 years?",
+   "name": "Perran Moon",
+   "party": "Lab",
+   "seat": "Camborne and Redruth"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "As my hon. Friend says, breakfast clubs are an important part of ensuring that all children are set up to succeed and every child has the best start in life, but we need to go much further, and, indeed, we are doing so as a Labour Government. We are seeking to break the link between background and success, so that more children than ever—a record proportion—are school-ready at the age of five. As we all know, the evidence points to the fact that children who slip behind at that crucial moment suffer later in life, and I want to ensure that every child in the country has the chance to get on.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Rachel Hopkins (Luton South and South Bedfordshire) (Lab)",
+   "member_id": 4873,
+   "type": "Contribution",
+   "text": "I am delighted that Denbigh primary school and Someries infant school are two of the first schools to benefit from Labour’s universal free breakfast clubs. We know that a balanced, nutritious breakfast will set children up for the school day and improve attendance and attainment. Does the Secretary of State agree that Labour’s delivery on its manifesto commitment, through our plan for change, is clear evidence that we are committed to breaking down barriers to opportunity and ensuring that all children have the best chance in life?",
+   "name": "Rachel Hopkins",
+   "party": "Lab",
+   "seat": "Luton South and South Bedfordshire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I do agree with my hon. Friend. The need for action is urgent. We know that far too many children are not achieving all that they can, and are held back by virtue of their backgrounds. We are determined to turn that around, and the announcement I have made today shows the determination of this Labour Government to ensure that background is no barrier to success. I am delighted that we have made such rapid progress, with more than 750 early adopters from April.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Adam Thompson (Erewash) (Lab)",
+   "member_id": 5044,
+   "type": "Contribution",
+   "text": "I welcome the statement, and I am very glad that Chaucer infant and nursery school in my constituency signed up to the early adopters scheme. When I had the great privilege of visiting the school recently, Miss Dawley gave me an excellent tour and I had a fantastic discussion with the smart school council about its priorities for our community. Free breakfast clubs will provide a real financial boost for families in my constituency, who have struggled greatly as a result of the cost of living crisis. Will the Secretary of State say more about how they will improve the opportunities available to children in Erewash?",
+   "name": "Adam Thompson",
+   "party": "Lab",
+   "seat": "Erewash"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I send my best wishes to Miss Dawley and to the whole school community. They are clearly doing fantastic work to support children in my hon. Friend’s area. Of course breakfast clubs in primary schools bring benefits to parents at the start of the school day, giving them choices and flexibility at work, but, critically, this is about boosting children’s life chances. The evidence is very clear about the impact on attendance, behaviour and attainment. This is a crucial part of ensuring that background is no barrier to getting on in life.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Tulip Siddiq (Hampstead and Highgate) (Lab)",
+   "member_id": 4518,
+   "type": "Contribution",
+   "text": "The Secretary of State will be well aware of the impact of covid on the wellbeing and attainment of children who are now at primary school, particularly those from disadvantaged backgrounds. This welcome intervention will make a massive difference to that covid cohort, but may I press the Secretary of State on the next steps for them, in terms of attainment but also mental health? What is her Department doing to ensure that there is more mental health provision, especially in primary schools?",
+   "name": "Tulip Siddiq",
+   "party": "Lab",
+   "seat": "Hampstead and Highgate"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I think we all recognise, both as constituency Members and from the work that we see taking place across the country, the serious impact of the pandemic on young people and their mental health and the long waiting lists for specialist support from child and adolescent mental health services. I am working closely with the Health Secretary to ensure that we roll out more mental health support throughout our schools so that children have access to the support that they need at the earliest possible point.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Alex Baker (Aldershot) (Lab)",
+   "member_id": 5173,
+   "type": "Contribution",
+   "text": "I am delighted that four schools in my constituency are taking part in the scheme—The Ferns primary academy and Farnborough Grange nursery/infant community school in Farnborough, and St Joseph’s Catholic primary school in Aldershot. What is my right hon. Friend’s message to parents in my constituency who are eager for their children’s school to join the scheme so that they can benefit from Labour’s plan for change in Aldershot and Farnborough?",
+   "name": "Alex Baker",
+   "party": "Lab",
+   "seat": "Aldershot"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My message to parents in Aldershot and across our country is that this Labour Government are on their side and delivering better work choices for them, and more support for their children at the start of the school day, when it comes to breakfast clubs and the early adopters scheme. We are also taking action to cut the cost of school uniforms—an area that I know many parents find a real pressure—and expanding childcare and early years entitlement, so that parents across our country, including in my hon. Friend’s constituency, are able to take up the places that have been promised.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Alistair Strathern (Hitchin) (Lab)",
+   "member_id": 5000,
+   "type": "Contribution",
+   "text": "As a former teacher and local authority children’s lead, I got to see at first hand the transformative impact that breakfast clubs can have in driving up attendance, attainment and young people’s wellbeing, so I am delighted that not one, not two, but three local schools will benefit from the Government’s early adopters scheme. As excited as I am for primary-age pupils at Meppershall, Shefford lower and Etonbury academy in Stotfold, I want to make sure that even more can benefit. How will the Government make sure that we learn the lessons of the pilots as quickly as possible, so that every pupil in my constituency and across the country who is eligible for the commitment can benefit from it?",
+   "name": "Alistair Strathern",
+   "party": "Lab",
+   "seat": "Hitchin"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "The schools in my hon. Friend’s constituency will play an important role in determining how we can roll out this commitment right across our country. Of course, the early adopters in his community will make a really meaningful difference to parents and children, but they will also give us the opportunity to test and learn as we go and, crucially, to demonstrate the impact of a universal breakfast club offer. We know that that is the way we can make sure that we reach some of the families that might find it more difficult to access such provision, because it is a less stigmatising way of reaching those in greatest need.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Pippa Heylings (South Cambridgeshire) (LD)",
+   "member_id": 5078,
+   "type": "Contribution",
+   "text": "I thank and congratulate the headteachers and staff at Meldreth, Great Wilbraham and Stapleford primary schools in my constituency. Will the Minister explain to them how important it is that the learning that takes place in those schools will ensure the roll-out of breakfast clubs to all schools in my constituency and across the country?",
+   "name": "Pippa Heylings",
+   "party": "LD",
+   "seat": "South Cambridgeshire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I pay tribute to the schools in the hon. Lady’s constituency, and to the workforce there, for the fantastic efforts that they have made in order to take part in this scheme. I look forward to seeing the impact it has in schools in her community and in constituencies across the country, so that we can make sure that when we roll out this scheme nationwide, we do so on the basis of the best available evidence, taken from a range of different contexts in different constituencies across England.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Josh Simons (Makerfield) (Lab)",
+   "member_id": 5060,
+   "type": "Contribution",
+   "text": "As a newly elected Member of this place, I try to visit a school in my constituency every week. Time and again, parents tell me, as they did last week at Hindley All Saints primary, that having a child in this country is too expensive and too exhausting, which is why I really welcome the programme that the Secretary of State has set out today. In a few weeks’ time, I am hosting a coffee morning at the family hub in Hindley, where parents are coming to discuss the issues that they face, particularly dads, who often do not show up to these things. Will the Secretary of State assure the House that she will tightly monitor the timeline for rolling out this fantastic programme beyond the early adopters and to other schools that will benefit, including those in my constituency?",
+   "name": "Josh Simons",
+   "party": "Lab",
+   "seat": "Makerfield"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to my hon. Friend for his work in his community to support families. He is right to suggest that all parents experience challenges at different points. Being a parent is a wonderful job, but it can also be a very challenging job at times, and the Government are determined to make sure that support is always available to families. We want to ensure that as we roll out this programme across the country as quickly as we can, we learn the lessons about what works in different parts of our country. I give my hon. Friend my commitment that the action that we are taking as a Government will benefit families right across his constituency. We are taking action on school uniform costs, rolling out childcare and early years entitlements, and making sure that children have more early and timely access to support in areas like SEND.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Richard Quigley (Isle of Wight West) (Lab)",
+   "member_id": 5144,
+   "type": "Contribution",
+   "text": "Does my right hon. Friend think that a breakfast club might have helped the attendance on the Opposition Benches and, indeed, the Conservatives’ grasp of basic maths? Does my right hon. Friend agree that Barton primary school in my constituency of Isle of Wight West has taken an important step forward in improving the outcomes for all its pupils, and that this is one of the many important first steps that she is taking to fix an education system that has been ruined by the previous Government?",
+   "name": "Mr Richard Quigley",
+   "party": "Lab",
+   "seat": "Isle of Wight West"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Attendance has been a bit slim on the Opposition Benches this afternoon. In my response to the shadow Minister, I said that one would think that Members from across the House would welcome the difference that breakfast clubs will make to communities the length and breadth of our country, because they have been selected in a range of different constituencies to ensure that we learn from what is effective and what works. I am delighted that my hon. Friend’s constituency will be part of this scheme. The work that school leaders, teachers and staff will carry out in this important endeavour will allow us to roll out breakfast clubs, making a real difference to children across our country.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Lewis Atkinson (Sunderland Central) (Lab)",
+   "member_id": 5028,
+   "type": "Contribution",
+   "text": "I know that my right hon. Friend and constituency neighbour, the Secretary of State, is personally committed to delivering the best start to life for children in Sunderland, and I warmly welcome the fact that the Richard Avenue, Hudson Road, St Joseph’s and Dame Dorothy schools in my constituency have been announced as early adopters. Will she say a little bit about regional variation in the availability of early years staff, which, as she knows, is a particular challenge in our city?",
+   "name": "Lewis Atkinson",
+   "party": "Lab",
+   "seat": "Sunderland Central"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend is right to identify the variation that exists across our country, including when it comes to early years places and provision. We have almost doubled the early years pupil premium to make sure that providers are supported to create places in communities that are in greatest need, but where places do not currently exist in the way that we would wish. When it comes to the staffing of breakfast clubs, I am delighted that schools in Sunderland Central will benefit. It will be for schools to determine how best to use the funding to staff breakfast clubs, and there is no expectation that it should be carried out by teachers. Existing breakfast clubs use a mixture of provision, which will continue, and the early adopters will allow us to test and learn, and to strengthen delivery, as part of a national roll-out.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Ms Julie Minns (Carlisle) (Lab)",
+   "member_id": 5094,
+   "type": "Contribution",
+   "text": "I thank my right hon. Friend the Secretary of State for giving families in Carlisle not one, not two, but seven reasons to be cheerful today. Those seven reasons are the schools of Yewdale, Inglewood, Blackford, Hallbankgate, Bishop Harvey Goodwin, Castle Carrock and Brook Street. These seven schools represent the full breadth, potential and diversity of Carlisle and north Cumbria, from the inner-city school of Brook Street, where many families have English as a second language and where opportunity is all too often denied to the children, to village schools such as Castle Carrick and Hallbankgate, where dropping off at school time can mean that parents cannot take advantage of the opportunities that exist in the city. Will the Secretary of State say a little more about the opportunity that will be unlocked for parents as a result of today’s announcement?",
+   "name": "Ms Julie Minns",
+   "party": "Lab",
+   "seat": "Carlisle"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend is right to highlight the fact that the early adopters scheme covers schools serving a wide range of settings and communities. We have sought to ensure that there is a representative sample—large and small—of those serving communities with higher levels of deprivation and those with lower levels. The early adopters scheme that we are introducing will have real benefits for parents in Carlisle, including by offering the flexibility at the start of the school day to drop off children a bit earlier, and to take on more hours at work or to get to work. The scheme will make a difference to children’s life chances too, because the evidence is so clear that a softer start to the school day makes a big difference to children’s attendance, their behaviour and, crucially, their attainment at school.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Alice Macdonald (Norwich North) (Lab/Co-op)",
+   "member_id": 5133,
+   "type": "Contribution",
+   "text": "I welcome today’s announcement, and I am very pleased to see that St Williams primary and Kinsale infant school in my constituency of Norwich North will be among those that benefit from the early adopters programme—they are two of the 12 schools in Norfolk that will benefit. Will the Secretary of State expand on the “test and learn” principle? As we feed that in nationally, how will we feed it back to schools on an ongoing basis so that they can make improvements, and are there opportunities for schools to join up locally in areas such as procurement?",
+   "name": "Alice Macdonald",
+   "party": "Lab/Co-op",
+   "seat": "Norwich North"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We will provide the opportunities that my hon. Friend outlines to ensure that schools work with one another to develop best practice, to learn from what works in similar settings, and to make sure that breakfast clubs in those schools are as effective and accessible as they can be. We know that breakfast clubs make a really big difference to children and their life chances, and I am delighted that the Government have been able to move so rapidly in starting the roll-out across our country.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Alison Hume (Scarborough and Whitby) (Lab)",
+   "member_id": 5254,
+   "type": "Contribution",
+   "text": "It is shameful that after the last Labour Government lifted 1.1 million children out of poverty, years of neglect by Conservative Governments saw an increasing number of children going to school hungry, which limits their learning and life chances. I warmly welcome the announcement that four schools in my constituency will be able to offer a free breakfast club from April: Ruswarp and Fylingdales, as well as St Peter’s and St George’s over in Scarborough. Does my right hon. Friend agree that these breakfast clubs show how this Government are not only supporting working parents, but delivering on our promise to tackle child poverty?",
+   "name": "Alison Hume",
+   "party": "Lab",
+   "seat": "Scarborough and Whitby"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Opposition Members never like to have it pointed out to them that on their watch we saw rising levels of child poverty in our country, which have scarred the life chances of a generation and have left families struggling. As a Labour Government, we are determined to make a difference and to ensure that background is no barrier to getting on in life. I am grateful that my hon. Friend is such a champion for her constituents in making sure that where people are from does not determine everything they can go on to achieve. The fact that we are delivering on our commitments, not even eight months into this Labour Government, demonstrates the difference that voting Labour makes.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sojan Joseph (Ashford) (Lab)",
+   "member_id": 5247,
+   "type": "Contribution",
+   "text": "I welcome this announcement, under which my constituents in Ashford will benefit from free breakfast clubs in three schools: Downs View infants school, Kingsnorth primary school and Chilmington primary school. Giving children a chance to settle down and start their day at a club with friends will have a positive long-term impact on their mental health. Does my right hon. Friend agree that this needs to be rolled out to every primary school as soon as possible?",
+   "name": "Sojan Joseph",
+   "party": "Lab",
+   "seat": "Ashford"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I agree, and we will do so as quickly as we can. My hon. Friend is right to highlight the important benefits that breakfast clubs deliver by enabling children to socialise and play at the start of the school day. I have seen so many fantastic examples of breakfast clubs already in operation that make such a profound difference to children by giving them a chance to spend time with friends, play and learn ahead of starting the school day, as well as the crucial boost that having a healthy breakfast delivers.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Andrew Cooper (Mid Cheshire) (Lab)",
+   "member_id": 5195,
+   "type": "Contribution",
+   "text": "I am delighted that five schools in my constituency—Hartford Manor, Over Hall, Winsford High Street, Victoria Road and St Joseph’s—will be among the first to offer breakfast clubs. I pay tribute to the leaders of those schools, who, by putting forward their schools, will ensure that children in my area start the day ready to learn. The evidence suggests that this will improve attainment, increase attendance and enhance wellbeing, while boosting those children’s overall life chances. To ensure that all children can benefit from free breakfast clubs, can my right hon. Friend tell me what steps are being taken to ensure that breakfast clubs are inclusive and accessible for children with SEND?",
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I join my hon. Friend in paying tribute to the school leaders in his community, who will be a part—a very important part—of our early adopters scheme. I thank them for their contribution. He is right to highlight the important need for all breakfast clubs to be inclusive, including for children with SEND, which is why, through this process, we will be able to learn from what works. It is also why, alongside announcements about breakfast clubs in mainstream schools, we are announcing specialist provision—alternative provision schools will be a part of this—so that we can learn from the best practice that exists in the specialist sector and ensure that mainstream schools can also develop it.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Tom Collins (Worcester) (Lab)",
+   "member_id": 5087,
+   "type": "Contribution",
+   "text": "There is no doubt that this Government’s introduction of free breakfast clubs will be transformative for many families. Worcester has always been a pioneering city, and as a city that trains teachers, we are a hub for education, so I am particularly pleased at today’s announcement that no fewer than three of our local schools—Oasis, Red Hill and Riversides—have been selected as early adopters of breakfast clubs. Will the Secretary of State elaborate on how this pilot contributes to ending poverty and ensuring that every child has the opportunity to thrive, achieve and succeed?",
+   "name": "Tom Collins",
+   "party": "Lab",
+   "seat": "Worcester"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "The children and families at my hon. Friend’s schools in Worcester will benefit directly from the early adopters programme, but they will also be an important part of how we roll out this scheme nationwide, allowing us to develop best practice. I pay tribute to the schools and their leaders in his community for taking part in the scheme. He is absolutely right that we want to ensure that all children are set up to succeed at the start of the school day, so that they can achieve, thrive and succeed in every way possible.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Jim Dickson (Dartford) (Lab)",
+   "member_id": 5223,
+   "type": "Contribution",
+   "text": "Parents and families of children at Knockhall primary school in Greenhithe in my constituency will be delighted to hear that it is a breakfast club early adopter. This will ensure that pupils start their day well fed and ready to learn, and it will save families money. Will the Secretary of State say a little more about how the learning, nutritional and cost-of-living benefits will be evaluated?",
+   "name": "Jim Dickson",
+   "party": "Lab",
+   "seat": "Dartford"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Through the early adopters programme, schools will be able to take part in a peer-to-peer support network, so that they can work together to share expertise and approaches at a regional level, which will be crucial to the work we take forward on the national roll-out. The school in my hon. Friend’s constituency will not just play a role in supporting families locally; it will be an essential part of how we learn what works and what is most effective. We want to ensure that best practice is spread across the country as we roll out breakfast clubs nationwide.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "David Baines (St Helens North) (Lab)",
+   "member_id": 5092,
+   "type": "Contribution",
+   "text": "I am delighted that three schools in my constituency—Ashurst primary, Garswood primary and PACE—are part of this initial roll-out, and I am delighted for them. I was also delighted to hear Carr Mill primary school in my constituency get a mention by the Secretary of State in her statement. I congratulate Mr Maley, the headteacher, and all the staff on the outstanding work they are clearly already doing—I know they are doing it, because I used to work there, and it is a great school. Like many Members, I have already been contacted today by other families and schools to ask when they can be part of this scheme. Can the Secretary of State assure me and my constituents that the Government will work as quickly as possible to roll it out to all primary schools? Can she also assure my constituents who are concerned about school funding that schools will be properly resourced to deliver this, as well as everything else they have to do?",
+   "name": "David Baines",
+   "party": "Lab",
+   "seat": "St Helens North"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I can say to my hon. Friend’s constituents and those across St Helens that we will ensure that schools have the resources they need to deliver the roll-out of breakfast clubs, both for early adopters and beyond. As we get this initial phase under way, it is essential that we learn what works ahead of the national roll-out. We are determined to roll out breakfast clubs nationwide as quickly as possible, but the fact that we can announce the early adopters scheme starting from April demonstrates the difference that a Labour Government make.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Luke Myer (Middlesbrough South and East Cleveland) (Lab)",
+   "member_id": 5147,
+   "type": "Contribution",
+   "text": "I strongly welcome my right hon. Friend’s statement, and I cannot tell her how delighted I am that four schools in my constituency, with over 1,300 children, will be early adopters under this scheme. I pay tribute to the leaders of Skelton primary, Lockwood primary, Pennyman primary and St Bernadette’s primary for their leadership. Does my right hon. Friend agree with me that, as far as children of working families are concerned, this Government are on their side and focused on making sure they have the best start in life and the best start to the school day?",
+   "name": "Luke Myer",
+   "party": "Lab",
+   "seat": "Middlesbrough South and East Cleveland"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am delighted that four schools in my hon. Friend’s constituency are taking part, and I look forward to all primary schools across Middlesbrough South and East Cleveland benefiting from the roll-out of breakfast clubs across our country. This Labour Government are on the side of working parents, putting more money back into parents’ pockets, supporting parents at the start of the school day and cutting the costs of the school day. That is the difference that a Labour Government bring, and that is the difference that electing my hon. Friend to this place brings.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for her statement.",
+   "name": "Chair",
+   "role": "Chair"
+  }
+ ],
+ "fetched": "2026-10-21T20:25:19Z"
+}

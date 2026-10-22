@@ -1,0 +1,88 @@
+{
+ "ext_id": "47E3E0A3-1AA3-4E7B-AC8B-DB4CA7CA220A",
+ "date": "2025-06-18",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Digital Exclusion",
+ "parents": [
+  "Commons Chamber",
+  "Oral Answers to Questions",
+  "Women and Equalities"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2025-06-18/debates/47E3E0A3-1AA3-4E7B-AC8B-DB4CA7CA220A/DigitalExclusion",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Zöe Franklin",
+   "party": "LD",
+   "seat": "Guildford",
+   "member_id": 5313
+  },
+  {
+   "name": "Sir Stephen Timms",
+   "role": "The Minister for Social Security and Disability",
+   "member_id": 163
+  },
+  {
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow",
+   "member_id": 5237
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Zöe Franklin (Guildford) (LD)",
+   "member_id": 5313,
+   "type": "Contribution",
+   "text": "3. What steps she is taking with Cabinet colleagues to help reduce digital exclusion for people with communication disabilities.",
+   "name": "Zöe Franklin",
+   "party": "LD",
+   "seat": "Guildford"
+  },
+  {
+   "who": "The Minister for Social Security and Disability (Sir Stephen Timms)",
+   "member_id": 163,
+   "type": "Contribution",
+   "text": "The digital inclusion action plan, published in February, sets out plans to widen access to devices, drive digital upskilling, break down barriers to participation and support people in their own communities. The plan highlights disabled people as one of five priority groups more likely to be digitally excluded, and the focus is therefore on them in particular.",
+   "name": "Sir Stephen Timms",
+   "role": "The Minister for Social Security and Disability"
+  },
+  {
+   "who": "Zöe Franklin",
+   "member_id": 5313,
+   "type": "Contribution",
+   "text": "A constituent contacted me specifically about the digital inclusion action plan, explaining that because of his voice disability, spasmodic dysphonia, he struggles to access essential services such as banking, because automated phone systems could not understand his voice. There is often no clear way of bypassing those systems, and alternatives like webchat are slow and ineffective. This is a growing issue for many people with communication disabilities. What steps is the Minister taking, with Cabinet colleagues, to ensure that services remain accessible, and will the issue be addressed through the action plan?",
+   "name": "Zöe Franklin",
+   "party": "LD",
+   "seat": "Guildford"
+  },
+  {
+   "who": "Sir Stephen Timms",
+   "member_id": 163,
+   "type": "Contribution",
+   "text": "The hon. Lady has raised some interesting points. The action plan outlines five initial actions, including the establishment of an ambitious digital inclusion innovation fund. I do not know whether some of those ideas could be used to address the concern that the hon. Lady has raised, but we do want to be ambitious in all this. In the “Pathways to Work” Green Paper, published a couple of months ago, we talked about assistive tech and the possibility of making it more widely available; maybe there are solutions there that could be taken forward. I would be interested to talk to the hon. Lady about what more we might do.",
+   "name": "Sir Stephen Timms",
+   "role": "The Minister for Social Security and Disability"
+  },
+  {
+   "who": "Chris Vince (Harlow) (Lab/Co-op)",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "Three weeks ago, I had an opportunity to visit Harlow jobcentre, meet the fantastic work coaches there, and see the important work that they are doing to help people in Harlow get back into employment. Digital inclusion was one of the issues that they raised. Does the Minister agree that we need to look at how we can support people to get back to work, give them more face-to-face appointments, and help to provide training and digital skills when they need them?",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Sir Stephen Timms",
+   "member_id": 163,
+   "type": "Contribution",
+   "text": "My hon. Friend is right. It is important to ensure that the tech that is available in jobcentres is appropriate for people’s needs. One element of the action plan is the launch this summer of an “IT reuse for good” charter, encouraging organisations to set up device donation schemes, because we think that they can play a helpful part as well.",
+   "name": "Sir Stephen Timms",
+   "role": "The Minister for Social Security and Disability"
+  }
+ ],
+ "fetched": "2026-10-21T20:26:26Z"
+}

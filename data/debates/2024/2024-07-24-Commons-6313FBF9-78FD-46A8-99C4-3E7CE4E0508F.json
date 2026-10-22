@@ -1,0 +1,1075 @@
+{
+ "ext_id": "6313FBF9-78FD-46A8-99C4-3E7CE4E0508F",
+ "date": "2024-07-24",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Education and Opportunity",
+ "parents": [
+  "Commons Chamber"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2024-07-24/debates/6313FBF9-78FD-46A8-99C4-3E7CE4E0508F/EducationAndOpportunity",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education",
+   "member_id": 4046
+  },
+  {
+   "name": "Mr Jonathan Brash",
+   "party": "Lab",
+   "seat": "Hartlepool",
+   "member_id": 5045
+  },
+  {
+   "name": "Debbie Abrahams",
+   "party": "Lab",
+   "seat": "Oldham East and Saddleworth",
+   "member_id": 4212
+  },
+  {
+   "name": "Stephen Gethins",
+   "party": "SNP",
+   "seat": "Arbroath and Broughty Ferry",
+   "member_id": 4434
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 4460
+  },
+  {
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire",
+   "member_id": 3969
+  },
+  {
+   "name": "Jamie Stone",
+   "party": "LD",
+   "seat": "Caithness, Sutherland and Easter Ross",
+   "member_id": 4612
+  },
+  {
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow",
+   "member_id": 5237
+  },
+  {
+   "name": "Mark Garnier",
+   "party": "Con",
+   "seat": "Wyre Forest",
+   "member_id": 4074
+  },
+  {
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood",
+   "member_id": 4510
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Susan Murray",
+   "party": "LD",
+   "seat": "Mid Dunbartonshire",
+   "member_id": 5157
+  },
+  {
+   "name": "Sarah Green",
+   "party": "LD",
+   "seat": "Chesham and Amersham",
+   "member_id": 4918
+  },
+  {
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen",
+   "member_id": 5270
+  },
+  {
+   "name": "Sarah Dyke",
+   "party": "LD",
+   "seat": "Glastonbury and Somerton",
+   "member_id": 4995
+  },
+  {
+   "name": "Tom Gordon",
+   "party": "LD",
+   "seat": "Harrogate and Knaresborough",
+   "member_id": 5032
+  },
+  {
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford",
+   "member_id": 4131
+  },
+  {
+   "name": "Melanie Onn",
+   "party": "Lab",
+   "seat": "Great Grimsby and Cleethorpes",
+   "member_id": 4464
+  },
+  {
+   "name": "Aphra Brandreth",
+   "party": "Con",
+   "seat": "Chester South and Eddisbury",
+   "member_id": 5241
+  },
+  {
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North",
+   "member_id": 5143
+  },
+  {
+   "name": "Dr Al Pinkerton",
+   "party": "LD",
+   "seat": "Surrey Heath",
+   "member_id": 5288
+  },
+  {
+   "name": "Olivia Blake",
+   "party": "Lab",
+   "seat": "Sheffield Hallam",
+   "member_id": 4864
+  },
+  {
+   "name": "Sorcha Eastwood",
+   "party": "Alliance",
+   "seat": "Lagan Valley",
+   "member_id": 5125
+  },
+  {
+   "name": "Dr Neil Shastri-Hurst",
+   "party": "Con",
+   "seat": "Solihull West and Shirley",
+   "member_id": 5197
+  },
+  {
+   "name": "Catherine Fookes",
+   "party": "Lab",
+   "seat": "Monmouthshire",
+   "member_id": 5291
+  },
+  {
+   "name": "Alex Sobel",
+   "party": "Lab/Co-op",
+   "seat": "Leeds Central and Headingley",
+   "member_id": 4658
+  },
+  {
+   "name": "Baggy Shanker",
+   "party": "Lab/Co-op",
+   "seat": "Derby South",
+   "member_id": 5176
+  },
+  {
+   "name": "Tony Vaughan",
+   "party": "Lab",
+   "seat": "Folkestone and Hythe",
+   "member_id": 5067
+  },
+  {
+   "name": "Jim Dickson",
+   "party": "Lab",
+   "seat": "Dartford",
+   "member_id": 5223
+  },
+  {
+   "name": "Steve Witherden",
+   "party": "Lab",
+   "seat": "Montgomeryshire and Glyndŵr",
+   "member_id": 5221
+  },
+  {
+   "name": "Laura Kyrke-Smith",
+   "party": "Lab",
+   "seat": "Aylesbury",
+   "member_id": 5341
+  },
+  {
+   "name": "Emily Darlington",
+   "party": "Lab",
+   "seat": "Milton Keynes Central",
+   "member_id": 5139
+  },
+  {
+   "name": "Sam Carling",
+   "party": "Lab",
+   "seat": "North West Cambridgeshire",
+   "member_id": 5308
+  },
+  {
+   "name": "Johanna Baxter",
+   "party": "Lab",
+   "seat": "Paisley and Renfrewshire South",
+   "member_id": 5063
+  },
+  {
+   "name": "Dr Lauren Sullivan",
+   "party": "Lab",
+   "seat": "Gravesham",
+   "member_id": 5269
+  },
+  {
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell",
+   "member_id": 5165
+  },
+  {
+   "name": "Al Carns",
+   "party": "Lab",
+   "seat": "Birmingham Selly Oak",
+   "member_id": 5235
+  },
+  {
+   "name": "John Slinger",
+   "party": "Lab",
+   "seat": "Rugby",
+   "member_id": 5127
+  },
+  {
+   "name": "Mr Mohindra",
+   "party": "Con",
+   "seat": "South West Hertfordshire",
+   "member_id": 4804
+  },
+  {
+   "name": "Mel Stride",
+   "party": "Con",
+   "seat": "Central Devon",
+   "member_id": 3935
+  },
+  {
+   "name": "Catherine McKinnell",
+   "role": "The Minister of State, Department for Education",
+   "member_id": 4125
+  }
+ ],
+ "contributions": [
+  {
+   "who": "The Secretary of State for Education (Bridget Phillipson)",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I beg to move, That this House has considered education and opportunity. It is a pleasure to see you in the Chair, Madam Deputy Speaker, and I congratulate you on your election. I am grateful for the opportunity to speak about the Labour Government’s mission to break down the barriers to opportunity. We are bringing change to this nation. However, I know that any change we deliver will be brought about in partnership with our wonderful workforces, so let me take this opportunity, at the end of the academic year, to thank them for all that they do for our children, our young people and our country. Let me begin by saying two things. First, I welcome my new opposite number, the right hon. Member for East Hampshire (Damian Hinds), to his place. In the previous Government he stood out for his commitment to his brief, his passion and dedication, and the collegiate and effective way in which he worked with colleagues in all parts of the House. We have disagreed on many things, and I am sure that we will go on to disagree on many things, but I hope that whenever we can, we will work together to build a country where children come first. Secondly, I want to make an announcement, here and n",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Jonathan Brash (Hartlepool) (Lab)",
+   "member_id": 5045,
+   "type": "Contribution",
+   "text": "I welcome the Secretary of State’s announcement; I know it will also be welcomed by colleges throughout the country. Teachers in my constituency, like teachers everywhere else, do an extraordinary job in supporting our young people, but it is vital for them to be paid properly for it. Can the Secretary of State update us on the work of the independent pay body and the Government’s response to it?",
+   "name": "Mr Jonathan Brash",
+   "party": "Lab",
+   "seat": "Hartlepool"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We take the work of the pay review body extremely seriously, but the previous Government did not act responsibly in that regard. They sat on the report, and then they called an election. I understand the frustrations that school leaders and teachers are experiencing, but as my hon. Friend knows, we are moving as quickly as we can on this important issue, and the Chancellor will set out our position before the end of the month. We understand the importance of getting this right. Let me reiterate, once more, our thanks to our brilliant teachers and support staff for their work during this academic year. We are putting education back where it belongs, at the heart of change. After years at the margins under the Conservatives, after years of ministerial merry-go-rounds, after years of opportunity for our children being treated as an afterthought, education is back at the forefront of national life. I know the power of education to transform lives, because I lived it. Standards were my story, and now I want standards to be the story for every child in the country, not just in some of our schools but in all our schools. I want high and rising standards for each and every child, but for 1",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Debbie Abrahams (Oldham East and Saddleworth) (Lab)",
+   "member_id": 4212,
+   "type": "Contribution",
+   "text": "My right hon. Friend has mentioned the inequalities experienced by children with special educational needs and disabilities. What is she able to say about what we will do, and the difference that we will make to their lives?",
+   "name": "Debbie Abrahams",
+   "party": "Lab",
+   "seat": "Oldham East and Saddleworth"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I recognise the concern expressed by my hon. Friend, and by Members throughout the House, about that important issue. I will say more about it later in my speech, but let me say now that not for a second do I underestimate the challenge that we face. I give my hon. Friend this commitment: I want to ensure that we deliver a better system for children, families and schools—one that is a long way from the broken and adversarial system that too many people experience at the moment. Young people in unregistered schools were missing out on not just the education but the childhood that they should have had, and as that generation grew older, the Government response to a once-in-a-lifetime pandemic made it clear to them that they were, quite simply, an afterthought. Pubs were reopening to punters before schools welcomed back children. Examination grading was first a farce and then a fiasco. We had a Government who forgot almost altogether about further education, and saw apprenticeship starts tumble year after year. Earlier this month, the people of this country turned the page on that Government and that era. They turned to Labour, and to the hope, which drives us and so many who work in ",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Stephen Gethins (Arbroath and Broughty Ferry) (SNP)",
+   "member_id": 4434,
+   "type": "Contribution",
+   "text": "The Secretary of State has talked about turning a page, and about opportunity. She will be aware that young people today have fewer opportunities than our generation enjoyed, owing to disastrous Tory policies that removed their freedom of movement as well as Erasmus, which included apprenticeships. Will she turn the page on that disastrous Tory policy?",
+   "name": "Stephen Gethins",
+   "party": "SNP",
+   "seat": "Arbroath and Broughty Ferry"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I can tell the hon. Gentleman that I welcomed the opportunity to meet my opposite number in Scotland recently, and I want to find areas on which we can reach agreement constructively and collaboratively. As for his specific question, I am afraid I cannot give him that commitment, but I want to ensure that all young people have the chance to travel, learn and study. The hope that I want for our young people comes from the opportunity that this Government will deliver. As Members know, opportunity is a journey that lasts a lifetime, and the first steps are in early years education, because the barriers to opportunity appear early in a child’s life. We will bring about a sea change in our early years system, beginning right now. I am fully committed to rolling out the childcare entitlements promised to parents, but I need to be frank with the House: the challenges are considerable, and the last Government did not have a proper plan. The irresponsibility that we inherited was shocking. I acted immediately to get to grips with the task at hand, but I must be honest: the disparities across the country are severe, which means that some parents will, sadly, miss out on their first-choice p",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the shadow Secretary of State.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Madam Deputy Speaker, may I first welcome you to the big Chair on behalf of the Opposition? It is great to see you there, and may you have much success. We will no doubt all enjoy serving under you. May I also welcome the Secretary of State and her entire team to their places? They have among the most important jobs in government and, without doubt, the best jobs in government. While their colleagues will be out visiting wind turbines and distribution sheds, they will be spending time with children and the inspirational adults who teach them, which is a much better way to spend a day. Although we have our differences, we do not for a moment doubt the ministerial team’s commitment to this crucial endeavour, and our exchanges across the Dispatch Boxes will always be in the spirit of seeking the very best for children, and for our society and country. We want the Government to succeed, because the success of the British Government is the success of Britain. That is true in every discipline, but it is especially true in education, where the effects of what happens are felt for many years to come and over the course of multiple changes of Government. We will scrutinise and hold them to ",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Debbie Abrahams",
+   "member_id": 4212,
+   "type": "Contribution",
+   "text": "Does the shadow Education Secretary accept the Institute for Fiscal Studies’ recent report? It says that although we have seen an improvement in average attainment, there remain educational inequalities, particularly for children on free school meals, children from ethnic minority backgrounds and disabled children. We have not seen any improvements, and the educational inequalities are stark",
+   "name": "Debbie Abrahams",
+   "party": "Lab",
+   "seat": "Oldham East and Saddleworth"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "The hon. Lady, as ever, makes important points. It was the mission of Conservative Governments from 2010 onwards always to pursue two goals: first, to raise attainment overall and, secondly, to narrow the gap between the rich and the poor—between the advantaged and the disadvantaged or those with particular needs. Although those gaps are still too big, there was a decade of progress, as she knows. I think the IFS report that she mentions will almost certainly have said that there was a decade of progress right up until covid. I am afraid that covid struck a blow— [ Interruption. ] Labour Members may shake their heads, but believe me, covid struck a blow to education right throughout the world, including in our country, and there is yet more— [ Interruption. ] I think my point stands. There is yet more work to do. The point I was making before the hon. Lady made her important intervention was that a great deal has been achieved but there are still challenges. In the aftermath of covid, we know that there are particular challenges on the attainment gap and attendance—by the way, those two things are related—but a great deal has been achieved. So my ask of the Government is that, whil",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Jamie Stone (Caithness, Sutherland and Easter Ross) (LD)",
+   "member_id": 4612,
+   "type": "Contribution",
+   "text": "First, may I congratulate you on your appointment, Madam Deputy Speaker? Further to the point that the right hon. Gentleman has just made, I think it is fair to boast that Scottish education used to be the envy of the world, yet we now have so many staff vacancies in four of our highland secondary schools—Ullapool, Kinlochbervie, Farr and Gairloch—that the kids simply are not being taught what they ought to be taught and are having to rely in some cases on online learning, which is scarcely satisfactory. That is why the parents have banded together to form the Save our Rural Schools campaign. Is that not a damning comment on the Scottish Government’s delivery of education north of the border?",
+   "name": "Jamie Stone",
+   "party": "LD",
+   "seat": "Caithness, Sutherland and Easter Ross"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "As ever, the hon. Gentleman makes an important point incisively and speaks up powerfully for rural communities—he was here the other night talking about rural health services and the challenges that they face—but this is already going to be a wide-ranging debate and I think I might try your patience, Madam Deputy Speaker, if we moved into a debate about the Scottish education system and the SNP Administration, much as he and I would relish that opportunity. However, he is quite right to say that Scottish education has had massive historical strengths but has been let down by the SNP Administration. When politicians on the left talk about a progressive agenda in education, I understand how that can sound beguiling and benign, but we must not forget that the legacy of the last Labour Government was for England to be the only country in the developed world where the generation approaching retirement was more literate and numerate than the youngest adults just entering the workforce and those who had just gone through their education under new Labour. But that is the past, and this team and this Government will be assessed and judged on the present and the future.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Stephen Gethins",
+   "member_id": 4434,
+   "type": "Contribution",
+   "text": "Will the right hon. Gentleman give way?",
+   "name": "Stephen Gethins",
+   "party": "SNP",
+   "seat": "Arbroath and Broughty Ferry"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "At the risk of widening the debate, I will very briefly give way to the hon. Gentleman.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Stephen Gethins",
+   "member_id": 4434,
+   "type": "Contribution",
+   "text": "I hope the right hon. Gentleman will welcome the Scottish success in having more children and students going on to positive destinations after school. Does he also acknowledge the damage that has been done by years and years of Tory austerity and by removing the rights and opportunities we had through freedom of movement following our withdrawal from the EU, which, according to Labour figures, has cost £140 billion? He should have some reflection on his own record.",
+   "name": "Stephen Gethins",
+   "party": "SNP",
+   "seat": "Arbroath and Broughty Ferry"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I admire the hon. Gentleman’s ability to turn everything into a discussion about Europe, but I have to tell him there are other things at play. If I were an SNP politician, I would not come to the Floor of this House boasting about the record of the SNP Government given their woeful performance on behalf of underprivileged children in Scotland. Nor, by the way, would I be complaining about the finances, when the Scottish Government are well financed for the things that they should and must do. Until recently it was us sitting on the Government Benches making these points, but now it will be Labour Members. This is a debate about opportunity, and the point of greatest leverage in spreading opportunity is what happens in the very earliest years, as the Secretary of State said. Since 2010, we have had five major extensions in early years and childcare entitlements, and a sixth is now on its way. I think I heard the Secretary of State say that she was committing fully to our plan in each of its phases. Unless she corrects me now, that is certainly how I will interpret it. She then went on to say there were some difficulties and so on— [ Interruption. ] I can assure the Secretary of Sta",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Chris Vince (Harlow) (Lab/Co-op)",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "Will the right hon. Gentleman give way?",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "If the hon. Member will forgive me, I had better press on, as I might be stretching Madam Deputy Speaker’s patience. Early in my time facing her in the Chair, I do not want to get off to a bad start. We will be looking to see exactly what the 6,500 target covers, by when and, crucially, how it will be achieved. The one subject in education that got a lot of coverage in the media and elsewhere during the election campaign was the taxation of independent schools. We recognise that that was in the Labour manifesto, but it is still wrong-headed. It will not hit the famous big-name schools, but it will hit small-town schools, families of children with special educational needs and certain religious faiths. Most of all, in the biggest way, it will hit state schools. We do not know how big the displacement effect will be of families who can no longer afford to send their children to their independent school, and we cannot know because there is no precedent, but we know that it will be a material number.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Mark Garnier (Wyre Forest) (Con)",
+   "member_id": 4074,
+   "type": "Contribution",
+   "text": "Will my right hon. Friend give way?",
+   "name": "Mark Garnier",
+   "party": "Con",
+   "seat": "Wyre Forest"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I will, with apologies.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Mark Garnier",
+   "member_id": 4074,
+   "type": "Contribution",
+   "text": "One thing that has not been discussed in this debate about extra taxation on private schools is that they generate £1 billion a year in export wins: this could have an effect on the country’s current account deficit.",
+   "name": "Mark Garnier",
+   "party": "Con",
+   "seat": "Wyre Forest"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "We must not get into a long debate on this, but my hon. Friend is absolutely right that export earnings is part of it, as is multinationals’ choice of this country to site their headquarters. All these things are considerations, including the Ministry of Defence. I inadvertently skipped over the hon. Member, so I give way to him now.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Chris Vince",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "I thank the right hon. Member for taking my question. His figures on teacher numbers are very interesting. Does he not recognise that, over the last Parliament, the teacher retention rate was at an all-time low, with a third of teachers leaving within five years of going into the profession?",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Again, I must not get into too lengthy a debate on this— [ Interruption. ] But I can. In the last couple of years, we actually found that retention was better than had been anticipated. We want teachers to stay longer in the profession, which is one of the reasons why, during my first spell in the Department for Education, we brought in the early career framework specifically to address that issue. The Secretary of State has said that the Government will continue to evolve that, which I welcome too, but the fact of the matter is that we have 468,000 teachers in the profession. Part of that is to do with retention, and part of it is to do with people returning to the profession, which at times has been better than anticipated. It is also to do with the significant programme to get people into teaching in the first place through bursaries and scholarships. Returning to taxation and independent education, I ask the Minister of State, Department for Education, the hon. Member for Newcastle upon Tyne North (Catherine McKinnell), at the very least today when she sums up, to confirm that the Government will not bring the measure further forward so that we end up with in-year disruption fo",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Helen Hayes (Dulwich and West Norwood) (Lab)",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "May I start by congratulating you, Madam Deputy Speaker, on your election, and say what a great pleasure it is to see you in your place? I also congratulate the Secretary of State on her appointment. I know how deep her commitment is to increasing opportunity and adjusting disadvantage for children across our country. Education from the early years through school and on to further and higher education is arguably the most important tool in the Government’s box for addressing disadvantage. I am therefore delighted to see that breaking down the barriers to opportunity at every stage is one of the core missions of this Labour Government. Labour has always recognised the importance of education as a route to addressing poverty, disadvantage and inequality, as well as to driving economic growth. It is at the heart of what we believe in and at the heart of what we have always delivered in government—from comprehensive schools to the Open University, from Sure Start to the London Challenge for school improvement. This new Labour Government will continue in that proud tradition of delivering for our children and young people with free breakfast clubs in every primary school; new nursery pl",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "As we have many maiden speeches to enjoy and Back-Bench contributions, may I ask those on the Front Bench to keep their speeches short? I call the Liberal Democrat spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "May I warmly welcome you to the Chair, Madam Deputy Speaker? It is a pleasure to see you. I also warmly welcome the Education Secretary and all her Ministers to their posts. As the right hon. Member for East Hampshire (Damian Hinds) said, they absolutely have the best jobs in Government. I am very jealous indeed, but I am looking forward to working with them constructively over the course of this Parliament to deliver the best possible start for children and young people. I am delighted to be speaking today on behalf of the third party in the House from the vastly expanded Liberal Democrat Benches. I am grateful for the Government making time today for a dedicated debate on education and opportunity. Over the past few years, children and young people’s education has frankly been sidelined in the political agenda. It was no surprise to me that His Majesty’s loyal Opposition did not seek to allocate specific time for this area during the King’s Speech debates, instead bundling all public services, welfare and the economy into a single evening’s debate. Today’s debate is therefore very welcome indeed. Education is the greatest investment that we can make to ensure that every child, no",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Susan Murray (Mid Dunbartonshire) (LD)",
+   "member_id": 5157,
+   "type": "Contribution",
+   "text": "Will my right hon. Friend allow an intervention?",
+   "name": "Susan Murray",
+   "party": "LD",
+   "seat": "Mid Dunbartonshire"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I am not right honourable just yet, but I give way to my hon. Friend.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Susan Murray",
+   "member_id": 5157,
+   "type": "Contribution",
+   "text": "Apologies. Given what my hon. Friend is talking about, it is important to note that applying VAT to independent schools will have a significant effect on their affordability for parents who make that choice. In my Mid Dunbartonshire constituency, not all parents will be able to afford the extra 20% per child. We hear about the pressure that the state is already under. Does she agree that there will be significant additional costs to the state in Scotland, as well as in England and Wales—",
+   "name": "Susan Murray",
+   "party": "LD",
+   "seat": "Mid Dunbartonshire"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "Order.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for her important intervention. She pre-empts what I was about to say about the issue of VAT on private school fees and the pressures that it will create for some families and schools. I have set out a range of targeted measures that I think would help tackle the disadvantage gap. They were part of an ambitious package that the Liberal Democrats put forward at the election to ensure that our education system enables every child to thrive and that the local state school is the school of choice for every family in this country. But as liberals, we champion choice, and it is important that parents can choose the best and most appropriate option for their children. Importantly, and fundamentally, we believe in the principle that education—whether we are talking about private schools, music tuition, private tutoring or childcare—should not be taxed, so we oppose the Labour Government’s policy to introduce VAT on independent school fees. I do not think the policy will do much at all to boost our state schools. In fact, it risks reducing the brilliant partnership work—the sharing of staff time and facilities, for example—that we see between so many private schools a",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Sarah Green (Chesham and Amersham) (LD)",
+   "member_id": 4918,
+   "type": "Contribution",
+   "text": "My hon. Friend is making an excellent speech. Does she agree that in many local authority areas, such as mine in Buckinghamshire, schools are already oversubscribed, so the places in the state sector simply do not exist for independent school parents who find they can no longer afford the fees?",
+   "name": "Sarah Green",
+   "party": "LD",
+   "seat": "Chesham and Amersham"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for her intervention. I hear repeatedly that there are areas across the country where schools are full and parents are wondering where on earth they will be able to send their children to school. It is simply not true that it is just the ultra-wealthy who send their kids to private school. I am particularly concerned about those parents who, for whatever reason, feel that the local state school is not best suited to their child’s needs. That particularly applies to the 100,000 children in the independent sector with special educational needs who do not qualify for an education, health and care plan and will not be exempted under the Government’s proposed policy. I have heard too often from parents, on the doorstep and in my inbox, “I really want to send my child to the local state school, and we tried it, but it just couldn’t meet my child’s needs, so we are now making all sorts of sacrifices to send them to a much smaller, more pastoral independent school, where they have been transformed.” It is those families, who will be penalised under this policy, that I am particularly worried about. The vast majority of independent schools are small, with fewer than 4",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "We come to our first maiden speech this afternoon—I call Darren Paffey.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Darren Paffey (Southampton Itchen) (Lab)",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "Thank you, Madam Deputy Speaker. May I begin by congratulating you and wishing you well as you take the Chair? I also congratulate my right hon. Friend the Secretary of State on her new position. People in my constituency—parents, teachers, pupils and professionals alike—will be heartened by the vision she set out for how this Labour Government will build opportunity once again. As I stand here as a new MP—I have to keep saying it to believe it—I want to thank the people of Southampton Itchen for the incredible privilege that they have given me. In fact, this feels like a moment heavy with lots of privileges. One is the privilege to be in the Chamber as many of my colleagues make their maiden speeches, and I congratulate them in advance on the excellent speeches we are going to hear this afternoon. Another privilege is to be one of only three Darrens ever elected to this place. Since the summoning of the first Parliament over 750 years ago, there had been no MPs called Darren, but, like buses, three of us have turned up in the last few years. The biggest privilege of all is to make my very first speech as the Member of Parliament for Southampton Itchen in this debate about educatio",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "As a former maritime Minister, I visited tropical Southampton Itchen very often. I call Sarah Dyke.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Sarah Dyke (Glastonbury and Somerton) (LD)",
+   "member_id": 4995,
+   "type": "Contribution",
+   "text": "Thank you, Madam Deputy Speaker. I welcome you to the Chamber, as I do the Secretary of State and her team. I congratulate the hon. Member for Southampton Itchen (Darren Paffey) on his maiden speech. He joins two other Darrens. I am one of many Sarahs in the House; until recently, we formed nearly 30% of the Liberal Democrats. I am happy to say that we are now more diverse in our names. I welcome the opportunity to speak about education and opportunity, but the sad reality is that many children across Glastonbury and Somerton are missing out on the opportunity to have an education, as they have additional requirements that their schools are simply unable to accommodate. After the Conservative Government’s cuts to school and council budgets, education, health and care plans have become the only avenue for families seeking to access support. They face a postcode lottery and are forced to wait months to get the support that they need. Demand for EHCPs has tripled since covid, and local authorities are struggling to meet demand. Only half of EHCPs are issued within the statutory 20-week timeframe. At this point I must declare an interest as a serving Somerset councillor.",
+   "name": "Sarah Dyke",
+   "party": "LD",
+   "seat": "Glastonbury and Somerton"
+  },
+  {
+   "who": "Tom Gordon (Harrogate and Knaresborough) (LD)",
+   "member_id": 5032,
+   "type": "Contribution",
+   "text": "Today, North Yorkshire council has moved to restrict the services that it offers for home-to-school transport, which will have a disproportionate impact on rural schools and families. The Conservatives have been swept from power in Parliament, but they are still having a damaging impact on local government in areas such as mine in North Yorkshire. Does my hon. Friend agree that we should provide rural families and schools with more support, not less, to tackle the challenges that they face?",
+   "name": "Tom Gordon",
+   "party": "LD",
+   "seat": "Harrogate and Knaresborough"
+  },
+  {
+   "who": "Sarah Dyke",
+   "member_id": 4995,
+   "type": "Contribution",
+   "text": "My hon. Friend makes a really powerful point. Likewise, Somerset council is forecast to spend £140 million this year on children and family services, including on special educational needs and disabilities provision—a 14% increase on last year. The increase in EHCPs has also increased the cost of home-to-school transport. The high costs are further exacerbated in Somerset because it is such a large, rural county, like Yorkshire. The average cost to Somerset council of travel for one passenger with SEND is over £7,000 a year. Cumulatively, the local authority high-needs budget deficit is estimated to be £2.3 billion, and the figure is ever increasing; the latest estimate is that the deficit will increase to £3.6 billion by 2025. There are many local authorities working with the Department for Education through interventions such as the safety valve programme. Those programmes demonstrate that local authorities, despite employing best practice, are still struggling to cover the deficit, and any savings made are likely to be lost through inflation. The Liberal Democrats want to end the SEND postcode lottery that families face by giving local authorities extra funding to reduce the amo",
+   "name": "Sarah Dyke",
+   "party": "LD",
+   "seat": "Glastonbury and Somerton"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "I commend the hon. Lady for what she has said. She is right to focus on SEND. In the press last week, it was indicated that if children who have autism have early diagnosis and treatment, and an education system put in place, the autism, no matter how severe, can be reduced to a level that means that the child can have an education and a job. If we get it right early, we prepare that child for the future.",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Sarah Dyke",
+   "member_id": 4995,
+   "type": "Contribution",
+   "text": "I thank the hon. Gentleman for that important and valid point. I briefly shift my focus towards the forthcoming curriculum and assessment review. I have been speaking to the principal of Strode college in Street, which has around 550 students on BTec courses that will be de-funded following that review. I know that the Government’s policy is to pause and delay the defunding of applied general qualifications; I encourage the Secretary of State, who is no longer in her place, to ensure that that remains the case, to prevent any unnecessary interruption to students’ education. I believe that every child, no matter their background, can achieve great things, and we must give them the opportunity to do so.",
+   "name": "Sarah Dyke",
+   "party": "LD",
+   "seat": "Glastonbury and Somerton"
+  },
+  {
+   "who": "Melanie Onn (Great Grimsby and Cleethorpes) (Lab)",
+   "member_id": 4464,
+   "type": "Contribution",
+   "text": "Congratulations on your election, Madam Deputy Speaker, and on taking your place. It is wonderful to see you here. I also congratulate my hon. Friend the Member for Southampton Itchen (Darren Paffey) on his maiden speech. It was very moving, informative and funny, exactly as maiden speeches as ought to be, and I hope that he has a successful time in this place. I welcome the Secretary of State’s comments on children with special educational needs, but I want to raise an issue that has already been mentioned a number of times: the lack of available school spaces for children with special educational needs. I want to talk about two schools in my Great Grimsby and Cleethorpes constituency, Cambridge Park academy and Humberston Park school. The parents of children there with special educational needs are very concerned about their education, because the schools lack capacity and the places to meet the needs of the area. The parents also have concerns that if their children cannot go to local schools, they will have to go out of area. That adds pressure to children, who will perhaps have to move away from friendship groups, and to families, because there would be additional travel time,",
+   "name": "Melanie Onn",
+   "party": "Lab",
+   "seat": "Great Grimsby and Cleethorpes"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call Aphra Brandreth to make her maiden speech.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Aphra Brandreth (Chester South and Eddisbury) (Con)",
+   "member_id": 5241,
+   "type": "Contribution",
+   "text": "I congratulate the hon. Member for Southampton Itchen (Darren Paffey) on his maiden speech. This is my maiden speech, Madam Deputy Speaker, and I must tell you that I arrive in this place fired with enthusiasm—so much so that my Whip has warned me that I need to be careful that that is not how I end up leaving this place: fired, with enthusiasm. I am a new woman representing a new constituency: Chester South and Eddisbury. It is without doubt one of the most beautiful, extraordinary and inspiring parts of the United Kingdom, encompassing the southern wards of the great city of Chester, those below the River Dee, and many and varied villages in the heart of Cheshire. Audlem, Bunbury, Wybunbury, Wrenbury, Weaverham, Lache, Handbridge, Christleton and Huntington, Tarporley, Tattenhall, Tarvin, Kelsall, Cuddington, Farndon, Malpas—those are just some of the very special places with which you, Madam Deputy Speaker, and this House are going to become quite familiar in the coming years, I hope. Much of my constituency is rural, which is one reason why I found the King’s Speech so disappointing. This Government profess an ambition for growth; if so, it is simply extraordinary that there wa",
+   "name": "Aphra Brandreth",
+   "party": "Con",
+   "seat": "Chester South and Eddisbury"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "I call Catherine Atkinson to make her maiden speech.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine Atkinson (Derby North) (Lab)",
+   "member_id": 5143,
+   "type": "Contribution",
+   "text": "Thank you, Madam Deputy Speaker. I congratulate you on your new position, and I congratulate the hon. Member for Chester South and Eddisbury (Aphra Brandreth) on her first speech. I begin mine by paying tribute to my predecessor, Amanda Solloway, who was a committed advocate for those struggling with their mental health, and part of the generation of parliamentarians who have helped to make it acceptable to talk about. I also want to pay tribute to a woman who has been an incredible inspiration to me for her work representing our city and as the first woman leader of the Labour party and the first woman Foreign Secretary, the right hon. Dame Margaret Beckett. I am very pleased that we will continue to benefit from her wisdom in the other place. Looking out from the top of the Derby cathedral tower, to the north you can see the River Derwent, which wends its way to Darley Abbey and the magnificent mills in the Derwent valley, the birthplace of the industrial revolution. You can see the communities of Mackworth, New Zealand, Mickleover, Littleover, Stockbrook, California, Chaddesden, Breadsall Hilltop, Normanton, Oakwood and Darley, each with their own distinctive character and with ",
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "I call Dr Al Pinkerton to make his maiden speech.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Dr Al Pinkerton (Surrey Heath) (LD)",
+   "member_id": 5288,
+   "type": "Contribution",
+   "text": "Madam Deputy Speaker, I am grateful to you for allowing me the opportunity to intervene in this important debate and, in so doing, to give my maiden speech. I also congratulate you on both of your recent election successes and welcome you to the Chair. It is a privilege to follow the hon. Member for Derby North (Catherine Atkinson). I was delighted in particular to hear about her recent abseiling exploits. I wondered whether she was giving a maiden speech or making a pitch to be the next Lib Dem party leader, but it was wonderful to hear her rich and powerful evocation of Derby North—I thank her very much. I also pay tribute to the other maiden speakers today and last week. The quality of speeches and the intellectual energy of those new Members suggest that this Parliament will be enhanced by a new generation of thinkers and doers who will serve this place and their constituents well. Madam Deputy Speaker, I am especially grateful to you for allowing me to catch your eye on an occasion when education is placed in the parliamentary spotlight. I have dedicated my working life to teaching and researching in higher education, most recently as a Professor of Geopolitics at Royal Hollow",
+   "name": "Dr Al Pinkerton",
+   "party": "LD",
+   "seat": "Surrey Heath"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "Order. Before I call the next speaker, Members may have noticed that this debate is very oversubscribed. Due to time constraints and to get as many people in as possible, I am now imposing a six-minute time limit on all Back Benchers who are not making their maiden speech.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Olivia Blake (Sheffield Hallam) (Lab)",
+   "member_id": 4864,
+   "type": "Contribution",
+   "text": "It is great to see you in your place, Madam Deputy Speaker—a strong Yorkshirewoman, no less, which is exactly what we need in the Chair. I thank the hon. Member for Surrey Heath (Dr Pinkerton) for his excellent maiden speech. He has done his constituents proud, and it was great to hear from him, and, indeed, from all who have made maiden speeches today. The right hon. Member for East Hampshire (Damian Hinds) mentioned the literacy hour. As a child, I was locked out of education. I had dyslexia, attention deficit hyperactivity disorder, dyspraxia, and a host of different medical needs that make it very difficult and challenging to lead a normal life. I remember not being able to read or write legibly—some may say that I still do not write legibly—and I remember the great influence that the literacy hour had on me when I was seven and eight years old. The changing model of education, involving 15 minutes of carrying out different tasks, suited me to a T, and gave me a lifelong love of literature. It meant that by the time I took my GCSEs, instead of failing and being locked out of education, I got an A in English literature. I am still proud of that today, because it happened against",
+   "name": "Olivia Blake",
+   "party": "Lab",
+   "seat": "Sheffield Hallam"
+  },
+  {
+   "who": "Sorcha Eastwood (Lagan Valley) (Alliance)",
+   "member_id": 5125,
+   "type": "Contribution",
+   "text": "I really appreciate the hon. Member’s remarks. Indeed, I am thinking about young children, possibly with a SEND diagnosis, who struggle post 19. One of the things I have learned from the Northern Ireland Assembly, where I sat, is that a much more holistic model, which combines health and education, helps young people post 19. Does the hon. Member agree that we need such a model throughout the UK, and that post-19 careers advice should be done in a holistic way?",
+   "name": "Sorcha Eastwood",
+   "party": "Alliance",
+   "seat": "Lagan Valley"
+  },
+  {
+   "who": "Olivia Blake",
+   "member_id": 4864,
+   "type": "Contribution",
+   "text": "I completely agree that we need a more holistic approach. I recently visited Whirlow Hall farm in my constituency, which provides alternative provision, but also further education, in an agricultural setting. It is great to see the opportunities for the young people who go there, especially those with emotional distress and similar issues. It is really important that we see all of this in the round and make sure that there is quality in all our services—whether that is AP, education in a local mainstream school or getting access to diagnoses, which are so important for so many young people. I must not forget SALTs, or speech and language therapists; otherwise, I will get in trouble with them. I will draw my remarks to a close. I am pleased to see the good signals and directions that we have had so far. The new approach will treat people as people, and start from the premise that whatever their need or disability, they are entitled to the same quality of education and opportunities as everyone else. I look forward to hearing from the Government what further plans they will be bringing forward to make that a reality.",
+   "name": "Olivia Blake",
+   "party": "Lab",
+   "seat": "Sheffield Hallam"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "I call Neil Shastri-Hurst to make his maiden speech.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Dr Neil Shastri-Hurst (Solihull West and Shirley) (Con)",
+   "member_id": 5197,
+   "type": "Contribution",
+   "text": "Thank you, Madam Deputy Speaker. May I start by congratulating you on your election, and on taking up the Chair today? May I also congratulate those on the Government Front Bench on taking up the burden of ministerial office? I wish them the best of success with that. It is with no little pride and a great sense of honour that I rise to give my maiden speech in this House. I am indebted to my constituents for sending me to this place, and I will do my utmost to ensure that I repay the faith that they have put in me. It is a particular pleasure to follow so many excellent maiden speeches over the last few days. I would like to commend the hon. Member for Surrey Heath (Dr Pinkerton) for his magnificent speech. His constituency is a place that I hold dear, having trained at the Royal Military Academy, and I wish him well in his stewardship of it. I think he will make a great contribution to this House. My constituency is Solihull West and Shirley. Like many others, it was newly created following the boundary review. While it is very much based on the old Solihull seat, the wards of Silhill and Elmdon have moved into the new Meriden and Solihull East constituency. In return, Blythe war",
+   "name": "Dr Neil Shastri-Hurst",
+   "party": "Con",
+   "seat": "Solihull West and Shirley"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "I call Chris Vince to make his maiden speech.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Chris Vince (Harlow) (Lab/Co-op)",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for Solihull West and Shirley (Dr Shastri-Hurst) for his excellent and very emotive maiden speech. I welcome you to your new role, Madam Deputy Speaker. Thank you for calling me to speak in this important debate. Above all, I thank the people of Harlow. It is a diverse constituency that includes not only Harlow but the villages of Roydon, Nazeing, Sheering and, following the recent boundary review, Hatfield Heath, Hatfield Broad Oak and too many others to name. I thank everybody for giving me the incredible opportunity to serve as their Member of Parliament. The new Prime Minister used the word “service” throughout the election campaign, and he has used it in this Chamber. In fact, the Leader of the Opposition even used it in his opening remarks on the Humble Address. Harlow is a constituency that demands and deserves the utmost service from its Members of Parliament, and in my direct predecessor, Robert Halfon, it had an MP who constantly championed and worked hard for the constituency. I genuinely thank him for his service. Likewise, his predecessor, Bill Rammell, who is a good friend and a mentor of mine, is still remembered fondly on the doorstep by resi",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "I congratulate you, Madam Deputy Speaker, on being elevated to the position of First Deputy Chairman of Ways and Means. Those of us who know you are very pleased to see you in that position. I believe that you will be impartial and fair to everyone, as you always are. I look forward to you calling me to speak and intervene in debates on many occasions. What a pleasure it is to see the Ministers in their place. The Secretary of State was here earlier, and the Minister of State, the hon. Member for Newcastle upon Tyne North (Catherine McKinnell), is here now; I look forward to her summing up. The contribution of the shadow Secretary of State, the right hon. Member for East Hampshire (Damian Hinds), was also excellent. We have had wonderful maiden speeches today from Conservative, Liberal Democrat and Labour Members. The House has been enriched by the combination of contributions, including the intervention of the hon. Member for Lagan Valley (Sorcha Eastwood), who will make her maiden speech at a later stage, as other Members from Northern Ireland have. I especially thank the hon. Member for Harlow (Chris Vince), whose story about young carers resonated with me in particular, as I ha",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "I call Catherine Fookes to make her maiden speech.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine Fookes (Monmouthshire) (Lab)",
+   "member_id": 5291,
+   "type": "Contribution",
+   "text": "Thank you, Madam Deputy Speaker, and llongyfarchiadau, as we say in Wales. It is wonderful to have you presiding over my maiden speech. I also thank the hon. Member for Strangford (Jim Shannon); it is a pleasure to follow him. I congratulate Members on the amazing maiden speeches we have heard this afternoon. I particularly enjoyed the story of such an inspirational maths teacher from my hon. Friend the Member for Harlow (Chris Vince). I am really pleased to speak in this debate about education, which is so important. I was a governor at my son’s primary school in Monmouthshire, Cross Ash, as well as at his secondary school. It is so important, as we come to the end of term, to say thank you to all the governors, teachers and headteachers at all the schools in Monmouthshire. I think I am the first of the new Welsh MPs to make their maiden speech, so I hope I do our country proud. I want to give one more congratulation, to Eluned Morgan MS, who has just been announced as our new Welsh Labour leader—another strong woman leading us in the Labour party. I have the honour to represent the beautiful, glorious county of Monmouthshire, and I am its first ever woman MP. As former chief exec",
+   "name": "Catherine Fookes",
+   "party": "Lab",
+   "seat": "Monmouthshire"
+  },
+  {
+   "who": "Alex Sobel (Leeds Central and Headingley) (Lab/Co-op)",
+   "member_id": 4658,
+   "type": "Contribution",
+   "text": "It is great to see another former Leeds city councillor in the Chair, Madam Deputy Speaker. The value that sports and arts have in people’s lives cannot be overstated and, in this speech, I want to talk about their importance in education. The sad reality is there are significantly fewer access points for people from lower socioeconomic backgrounds, who have a disability or who are black or from other minority groups in to sports and the arts. My constituency is home to a very special organisation called MAP, which stands for Music & Arts Production. It is an alternative provision offering access to creative subjects for young people aged 11 to 16. Students gain qualifications in art, design and music as well as in functional skills, and are welcomed into a creative community. They can see that they could make a career from pursuing something creative and are introduced to a range of role models relevant to their lives, who they would not have met without attending MAP. For young people who are struggling to fit in with our mainstream education system, that can be life changing and the effects on society overall are immense. If we can reduce school exclusion rates by providing mean",
+   "name": "Alex Sobel",
+   "party": "Lab/Co-op",
+   "seat": "Leeds Central and Headingley"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "I call Baggy Shanker to make his maiden speech.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Baggy Shanker (Derby South) (Lab/Co-op)",
+   "member_id": 5176,
+   "type": "Contribution",
+   "text": "Thank you, Madam Deputy Speaker, and congratulations on your new role. A number of us on the Labour Benches know what it is like to be on your first day at work. I thank and congratulate my hon. Friend the Member for Monmouthshire (Catherine Fookes) on her excellent maiden speech. She raised the important issue of equality, and I am sure that she will continue to press on such matters. I thank the many House staff and officials for making our start here so welcoming and informative. I also thank my colleagues, family and friends, and the residents of Derby South, for their incredible support during the campaign to get me to this place. I am immensely proud to represent the people of my home city as a Labour and Co-op MP. It means so much that the residents of Derby South placed their confidence and trust in me, and it is the honour of my life to amplify their voices in this place. I was born and raised in the constituency that I now represent, where my parents settled in the 1950s to help rebuild the country after the devastation of the second world war. My father exchanged his simple farming tools, on which he relied to feed his family in the Punjab, for overalls in a local engine",
+   "name": "Baggy Shanker",
+   "party": "Lab/Co-op",
+   "seat": "Derby South"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "I call Tony Vaughan to make his maiden speech.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Tony Vaughan (Folkestone and Hythe) (Lab)",
+   "member_id": 5067,
+   "type": "Contribution",
+   "text": "Thank you, Madam Deputy Speaker, for allowing me to make my maiden speech today. May I congratulate you on your election? It is a privilege to follow my hon. Friend the Member for Derby South (Baggy Shanker). He spoke about his constituency with eloquence and passion, and I congratulate him on his speech. I pay tribute to my predecessor, Damian Collins, who served as the Member of Parliament for Folkestone and Hythe for the last 14 years. He worked tirelessly here in Parliament, most notably as the Chair of the Digital, Culture, Media and Sport Committee, which he led for several years up to 2019. He spearheaded several significant inquiries into pressing issues, including doping in sports, football governance, combating homophobia in sports, tackling online disinformation and examining addictive technologies. As a father of two boys, I am well aware of the parenting challenges that are posed by online gaming and social media, so I know that the work Damian did to hold tech companies to account performed a vital public service, for which we are all grateful. Recognising his expertise and contribution in this area, Damian was appointed the Parliamentary Under-Secretary of State for ",
+   "name": "Tony Vaughan",
+   "party": "Lab",
+   "seat": "Folkestone and Hythe"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "I call Jim Dickson for his maiden speech.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Jim Dickson (Dartford) (Lab)",
+   "member_id": 5223,
+   "type": "Contribution",
+   "text": "Thank you, Madam Deputy Speaker, for allowing me to make my maiden speech. I welcome you to your place. I commend the brilliant speech of my hon. Friend the Member for Folkestone and Hythe (Tony Vaughan). We envy his sea views, but it is great that he and I are part of a group of 12 Kent Labour MPs—up from one before the election—and I am delighted that my speech is likely to be followed shortly by that of my hon. Friend the Member for Gravesham (Dr Sullivan), who is also one of our number; it is brilliant to see her here as well. It has been said that when Labour is strong in Kent, we are strong in the country, and I think we are proving that with our presence in Parliament. I very much welcome the new team of Education Ministers, and particularly their promise of new investment and additional teachers for Kent and Dartford schools. I welcome the priority given to education under this new Government. Investment cannot come soon enough, particularly at a time when Kent county council is looking at reducing the rights of parents of special educational needs pupils. Again, the arrival of a Labour Government could not come soon enough. I would like to say a very warm thank you to the ",
+   "name": "Jim Dickson",
+   "party": "Lab",
+   "seat": "Dartford"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "I call Steve Witherden to make his maiden speech.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Steve Witherden (Montgomeryshire and Glyndŵr) (Lab)",
+   "member_id": 5221,
+   "type": "Contribution",
+   "text": "I congratulate you on your election to your new role, Madam Deputy Speaker, and congratulate Eluned Morgan on becoming First Minister of Wales, echoing the sentiment expressed by my hon. Friend the Member for Monmouthshire (Catherine Fookes). I also thank my hon. Friend the Member for Dartford (Jim Dickson) for his speech. It is lovely to listen to someone who is so knowledgeable and passionate about their constituency. As this is my first time speaking, I would like to pay tribute to my predecessors. I say “predecessors” as my constituency is a 35%-65% split between two former constituencies. First, I pay tribute to Craig Williams for all his excellent work representing the people of Montgomeryshire. Craig was always affable, gentlemanly and respectful towards me and my wife on every occasion we met. On polling day at the count, he conducted himself with decency and dignity at what must have been an extremely difficult time for him and his family. He was a credit to both himself and his family, and that needs to be acknowledged. Secondly, I pay tribute to Simon Baynes, the last ever MP for Clwyd South, which was partitioned four ways. The largest piece, Glyndŵr, and all of south a",
+   "name": "Steve Witherden",
+   "party": "Lab",
+   "seat": "Montgomeryshire and Glyndŵr"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "I call Laura Kyrke-Smith to make her maiden speech.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Laura Kyrke-Smith (Aylesbury) (Lab)",
+   "member_id": 5341,
+   "type": "Contribution",
+   "text": "Thank you, Madam Deputy Speaker, for this opportunity to address the House, and I congratulate you on your election to the Chair. I am sure that the House will want to join me in extending our deepest sympathies to my hon. Friend the Member for Montgomeryshire and Glyndŵr (Steve Witherden). I am very sorry and sad to learn of the death of his mother. I congratulate him on a wonderful maiden speech, and on speaking with such passion about our children and the potential of the next generation. I want to pay tribute to my predecessor, Rob Butler, who I know has great affection for Aylesbury, and who served the constituency with great loyalty and good will. It is a true honour to be here as the new Member of Parliament for Aylesbury. Given that my constituency houses the county town of Buckinghamshire and has returned a long line of Conservative Members to Parliament, as might be expected from that county, I am particularly proud to be here as Aylesbury’s first ever Labour MP, and its first female MP. My constituency is very diverse geographically; it covers the rapidly growing town of Aylesbury, many lovely villages, such as Whitchurch, Wing, Cheddington and Edlesborough, historic woo",
+   "name": "Laura Kyrke-Smith",
+   "party": "Lab",
+   "seat": "Aylesbury"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I call Emily Darlington to make her maiden speech.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Emily Darlington (Milton Keynes Central) (Lab)",
+   "member_id": 5139,
+   "type": "Contribution",
+   "text": "Thank you, Madam Deputy Speaker, and I welcome you to your role. Can I also say how fantastic it is to have an all-women Deputy Speaker team? Thank you for calling me to speak in this debate on education and opportunity. In it, I would like to pay tribute to my great-grandmother, Emily Jones, who married Thomas Thomas and made sure that her seven children could read. This started our family’s journey from the mines of the Welsh valleys to her namesake standing here in the Chamber today. Malala Yousafzai told us: “One child…one book and one pen can change the world.” I pay tribute to the other Members who have made their maiden speeches here in the House today. I say to my hon. Friend the Member for Derby South (Baggy Shanker), it is great that you have Great British Railways, but if you come after Network Rail in Milton Keynes, we will have words. I say to my hon. Friend the Member for Montgomeryshire and Glyndŵr (Steve Witherden) that I know what it is like to have those strong Welsh women role models. I give him my condolences, but I am sure his mother would be so proud of him here today. My hon. Friend the Member for Aylesbury (Laura Kyrke-Smith), one of five Labour MPs now repr",
+   "name": "Emily Darlington",
+   "party": "Lab",
+   "seat": "Milton Keynes Central"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I call Sam Carling to make his maiden speech.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Sam Carling (North West Cambridgeshire) (Lab)",
+   "member_id": 5308,
+   "type": "Contribution",
+   "text": "Thank you very much, Madam Deputy Speaker, for calling me to make my first speech in this place today and in a debate on education, a subject that is very important to me. As this is my first contribution, I ought to start by thanking the people of North West Cambridgeshire for electing me to represent them in this House. I congratulate my hon. Friend the Member for Milton Keynes Central (Emily Darlington) on her maiden speech, as well as all the others we have heard today, particularly my hon. Friend the Member for Montgomeryshire and Glyndŵr (Steve Witherden), whose speech was very moving; I am sorry to hear of his loss. I have thoroughly enjoyed hearing maiden speeches from Members on all sides of the House over the past few days, and I am honoured to be part of a clearly very eloquent and passionate intake of new MPs. I look forward to the debates that we will have over the coming years. My constituency of North West Cambridgeshire has not had a new Member of Parliament in many years, as my predecessor, Shailesh Vara, was elected to represent it in 2005, when I was only three years old. Over that time, he made significant contributions to the work of this House, for example, th",
+   "name": "Sam Carling",
+   "party": "Lab",
+   "seat": "North West Cambridgeshire"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I call Johanna Baxter to make her maiden speech.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Johanna Baxter (Paisley and Renfrewshire South) (Lab)",
+   "member_id": 5063,
+   "type": "Contribution",
+   "text": "Thank you, Madam Deputy Speaker. I congratulate you on taking your place. I also congratulate all the Members who have made such eloquent maiden speeches this afternoon, particularly my hon. Friends the Members for North West Cambridgeshire (Sam Carling), for Milton Keynes Central (Emily Darlington) and for Montgomeryshire and Glyndŵr (Steve Witherden)—please accept my sincere condolences for the loss of your mother. I am grateful to have the opportunity to make my maiden speech. It is an honour to stand here as the new representative for Paisley and Renfrewshire South. I thank every person who put their faith in me at the election. The people of Paisley and Renfrewshire South have voted decisively for real change and a Government in their service, and that is what we will deliver. I also thank you, Madam Deputy Speaker, and all the staff of this House for the professionalism and kindness that they have shown to every one of us who is a new MP. I pay tribute to my predecessor, Mhairi Black. It cannot have been easy for Mhairi to enter this House as the youngest MP of her time, with the country’s press hanging on her every word. I followed her career with interest and, while we disa",
+   "name": "Johanna Baxter",
+   "party": "Lab",
+   "seat": "Paisley and Renfrewshire South"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I call Dr Lauren Sullivan to make her maiden speech.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Dr Lauren Sullivan (Gravesham) (Lab)",
+   "member_id": 5269,
+   "type": "Contribution",
+   "text": "Thank you very much, Madam Deputy Speaker, and may I congratulate you on your new post and wish you very well? I pay tribute to the excellent speech made by my hon. Friend the Member for Paisley and Renfrewshire South (Johanna Baxter); she may be small, but incredibly mighty things will come from her standing up for her constituency. I offer my deepest sympathies to my hon. Friend the Member for Montgomeryshire and Glyndŵr (Steve Witherden), and say to him, “Your mum would be so proud, and you moved many people in this Chamber today.” I also welcome my new colleagues from Kent, my hon. Friends the Members for Folkestone and Hythe (Tony Vaughan) and for Dartford (Jim Dickson), to their seats in Parliament. They spoke with passion about their constituencies and I look forward to working with each and every one of the Members who have made their maiden speeches today, and Members across the Chamber. I begin by thanking the residents of my Gravesham constituency for putting their faith in me. I will work to the very best of my abilities to raise their concerns and issues in this House. I also pay tribute to the Member for Gravesham who served before me, Adam Holloway. Adam served the r",
+   "name": "Dr Lauren Sullivan",
+   "party": "Lab",
+   "seat": "Gravesham"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I call Peter Swallow to make his maiden speech.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Peter Swallow (Bracknell) (Lab)",
+   "member_id": 5165,
+   "type": "Contribution",
+   "text": "It is a privilege and a pleasure to follow my hon. Friend the Member for Gravesham (Dr Sullivan), who, like me, worked in teaching and the university sector before entering this place. My background is in humanities while hers is in science, and I know that we will both have to resist the urge to tell anyone off for speaking at the back of the class during our time here. It is the honour of my life to rise and offer my maiden speech as the Member of Parliament for Bracknell, Crowthorne, Sandhurst and Whitegrove. I am the first ever Labour MP to represent this corner of Berkshire. I offer my thanks to my constituents who have put their trust in me, and in this new Labour Government, to serve them. It is now for me and colleagues on the Labour Benches to deliver the change that we have promised. I take that duty seriously, and although change cannot come overnight, it is time to begin the steady task of building a better future for Bracknell and for the country. My predecessor, James Sunderland, represented Bracknell through a challenging Parliament dominated by a global pandemic and two major international wars. I pay tribute to the manner in which he served during that difficult pe",
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I call Al Carns to make his maiden speech.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Al Carns (Birmingham Selly Oak) (Lab)",
+   "member_id": 5235,
+   "type": "Contribution",
+   "text": "Thank you, Madam Deputy Speaker, and congratulations on taking up such an important role. We look forward to working with you. Thank you very much for allowing me to vacate the Front Bench and come to the Back Benches to make my maiden speech; I really do appreciate it. I also thank my hon. Friends the Members for Bracknell (Peter Swallow) and for Gravesham (Dr Sullivan) for their fantastic maiden speeches. I will try to live up to them and get through the third one okay, but they were really well done, with a fantastic story to tell. Before I delve into my speech, I thought it would be worthwhile stepping back and taking a look at the position globally. First, I do not know any country in the world that has high education standards and a weak economy, and I would argue, as we sit here in this debate, that better education and having more opportunities relate directly to the economy, and that the two are mutually supporting. Secondly, I would like to say, as Veterans and People Minister in the Ministry of Defence, that the Army is one of the biggest providers of apprenticeships in the UK; there are 13,000 to 14,000 across the whole service—and that is just in the Army, not necessar",
+   "name": "Al Carns",
+   "party": "Lab",
+   "seat": "Birmingham Selly Oak"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I would like to call the Front-Benchers at 20 minutes to 7. That gives us time to get in John Slinger for his maiden speech.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "John Slinger (Rugby) (Lab)",
+   "member_id": 5127,
+   "type": "Contribution",
+   "text": "Thank you, Madam Deputy Speaker. May I warmly congratulate you on taking up your position and warmly welcome the Secretary of State and her ministerial team to their positions, too? I express my deepest condolences to my hon. Friend the Member for Montgomeryshire and Glyndŵr (Steve Witherden) for his loss. I congratulate my hon. Friend the Member for Birmingham Selly Oak (Al Carns) on his sobering and powerful words, and other colleagues across the Chamber on their speeches today. I start by thanking my family for their love and forbearance in recent months, my Labour and other friends for their support, and the people of Rugby and the villages for giving me the honour of representing my constituency, which has been my home for the last 17 years. As the MP representing the only seat with a sport named after it, I hope that the House will indulge me the occasional rugby analogy. The rugby ball has been passed to me, notwithstanding a couple of minor mauls during the election campaign, which I overcame. I want to pay tribute to Mark Pawsey, my predecessor, who ran with the ball—literally and metaphorically—as a member of the Commons and Lords rugby team. Mark is an honourable, decent",
+   "name": "John Slinger",
+   "party": "Lab",
+   "seat": "Rugby"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "Order. I now have to call the Front Benchers.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Mr Gagan Mohindra (South West Hertfordshire) (Con)",
+   "member_id": 4804,
+   "type": "Contribution",
+   "text": "Thank you for calling me, Madam Deputy Speaker. It is a real pleasure to have you in the Chair. This is a first time for both of us. I thank each and every Member for some awesome maiden speeches. I remember, four and a half years ago, how daunting it was. I still wake up today in a cold sweat thinking that I have to redo it. I will start with the hon. Member for Southampton Itchen (Darren Paffey), whose journey to this place is enlightening. This place is better when we bring our life experiences here to create better policy and to ensure that the next generation’s lives are better. I think that being honest about our own journeys helps others to feel as though they are part of our great country. One of the pleasures as a Member of Parliament is going into schools and speaking to school kids. I am dyslexic, and when I speak to them I ask, “Does anyone struggle to read or write?”—and I always stick my hand up. If someone like me can do this job, it hopefully gives the children I speak to the confidence to think high. There are a lot of Members here with an education background. I ask them to please bring that experience to the forefront. All Governments, of whatever stripe, want to",
+   "name": "Mr Mohindra",
+   "party": "Con",
+   "seat": "South West Hertfordshire"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "Not mine; those of the hon. Lady.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Mr Mohindra",
+   "member_id": 4804,
+   "type": "Contribution",
+   "text": "Oh, I am sorry. Excuse me: I am a newbie at this bit. As for the hon. Member for Surrey Heath (Dr Pinkerton), you have some big shoes to fill in replacing my old boss, Michael Gove, but you have started very well. Your experience as a lecturer will be very helpful.",
+   "name": "Mr Mohindra",
+   "party": "Con",
+   "seat": "South West Hertfordshire"
+  },
+  {
+   "who": "Mel Stride (Central Devon) (Con)",
+   "member_id": 3935,
+   "type": "Contribution",
+   "text": "Not “your”; the hon. Member’s.",
+   "name": "Mel Stride",
+   "party": "Con",
+   "seat": "Central Devon"
+  },
+  {
+   "who": "Mr Mohindra",
+   "member_id": 4804,
+   "type": "Contribution",
+   "text": "The hon. Member’s experience of being a professor will be very helpful to this place. My hon. Friend the Member for Solihull West and Shirley (Dr Shastri-Hurst) has significant experience of three separate careers, and I know he will be a strong advocate for his community. I applaud his focus on early years. I now come to the hon. Member for Harlow (Chris Vince). I was a councillor in the neighbouring area before I came to this place, so I know your patch well. Your experience as a teacher— [Interruption.] The hon. Member’s experience as a teacher will be extremely helpful. He highlighted the important issue of young carers. That is probably below the radar for many of us as constituency Members, and we all need to spend a bit more time focusing on it to ensure that our communities are supported properly. I now come to the hon. Member for Monmouthshire (Catherine Fookes). I applaud her ambition to have 50:50 in this place. When I speak to my nieces, and indeed my nephew, it is always a disappointment to us that while 51% of our great country consists of women, only about a third of my colleagues are women—although the proportion is probably greater now—and, similarly, many boardroo",
+   "name": "Mr Mohindra",
+   "party": "Con",
+   "seat": "South West Hertfordshire"
+  },
+  {
+   "who": "Madam Deputy Speaker",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I call the Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Minister of State, Department for Education (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Thank you, Madam Deputy Speaker. I warmly welcome you to your place in the Chair, and I warmly welcome the hon. Member for South West Hertfordshire (Mr Mohindra) to his place. I also welcome the shadow Secretary of State, whom I previously shadowed. I thank hon. Members who have made contributions to this afternoon’s debate, and pay tribute to those who have made their maiden speeches today. They do themselves and their communities proud. I pay tribute to my hon. Friend the Member for Folkestone and Hythe (Tony Vaughan), the first Member of Filipino heritage to stand in this Chamber; my hon. Friend the Member for North West Cambridgeshire (Sam Carling), the youngest Member of the House, who spoke about his education, which was fairly recent; my hon. Friend the Member for Birmingham Selly Oak (Al Carns), who has rightly been recognised in this place for his experience; and my hon. Friend the Member for Rugby (John Slinger), who is forgiven for all his rugby analogies after making an excellent speech. In this House, we come together with a common goal: to give every child the best start in life and equip them with an education that sets them up for their lives. We are the Department ",
+   "name": "Catherine McKinnell",
+   "role": "The Minister of State, Department for Education"
+  }
+ ],
+ "fetched": "2026-10-21T20:23:41Z"
+}

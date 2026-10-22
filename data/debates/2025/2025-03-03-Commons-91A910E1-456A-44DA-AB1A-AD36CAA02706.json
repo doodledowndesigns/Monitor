@@ -1,0 +1,727 @@
+{
+ "ext_id": "91A910E1-456A-44DA-AB1A-AD36CAA02706",
+ "date": "2025-03-03",
+ "house": "Commons",
+ "section": "WestHall",
+ "title": "Independent Schools: VAT and Business Rates Relief",
+ "parents": [
+  "Westminster Hall"
+ ],
+ "location": "Westminster Hall",
+ "url": "https://hansard.parliament.uk/Commons/2025-03-03/debates/91A910E1-456A-44DA-AB1A-AD36CAA02706/IndependentSchoolsVatAndBusinessRatesRelief",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Martin Vickers",
+   "role": "Chair",
+   "member_id": 3957
+  },
+  {
+   "name": "John Lamont",
+   "party": "Con",
+   "seat": "Berwickshire, Roxburgh and Selkirk",
+   "member_id": 4608
+  },
+  {
+   "name": "Dr Arthur",
+   "party": "Lab",
+   "seat": "Edinburgh South West",
+   "member_id": 5212
+  },
+  {
+   "name": "Christine Jardine",
+   "party": "LD",
+   "seat": "Edinburgh West",
+   "member_id": 4634
+  },
+  {
+   "name": "Richard Tice",
+   "party": "Reform",
+   "seat": "Boston and Skegness",
+   "member_id": 5161
+  },
+  {
+   "name": "Alison Taylor",
+   "party": "Lab",
+   "seat": "Paisley and Renfrewshire North",
+   "member_id": 5093
+  },
+  {
+   "name": "Aphra Brandreth",
+   "party": "Con",
+   "seat": "Chester South and Eddisbury",
+   "member_id": 5241
+  },
+  {
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon",
+   "member_id": 5351
+  },
+  {
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire",
+   "member_id": 3969
+  },
+  {
+   "name": "Dr Huq",
+   "party": "Lab",
+   "seat": "Ealing Central and Acton",
+   "member_id": 4511
+  },
+  {
+   "name": "Jack Rankin",
+   "party": "Con",
+   "seat": "Windsor",
+   "member_id": 5340
+  },
+  {
+   "name": "Rachel Gilmour",
+   "party": "LD",
+   "seat": "Tiverton and Minehead",
+   "member_id": 5252
+  },
+  {
+   "name": "Mr Gagan Mohindra",
+   "party": "Con",
+   "seat": "South West Hertfordshire",
+   "member_id": 4804
+  },
+  {
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston",
+   "member_id": 4679
+  },
+  {
+   "name": "Dr Al Pinkerton",
+   "party": "LD",
+   "seat": "Surrey Heath",
+   "member_id": 5288
+  },
+  {
+   "name": "Monica Harding",
+   "party": "LD",
+   "seat": "Esher and Walton",
+   "member_id": 5299
+  },
+  {
+   "name": "Clive Jones",
+   "party": "LD",
+   "seat": "Wokingham",
+   "member_id": 5207
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Torsten Bell",
+   "seat": "Torsten Bell",
+   "member_id": 5069
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Martin Vickers (in the Chair)",
+   "member_id": 3957,
+   "type": "Contribution",
+   "text": "Before we begin, I will make a short statement on the House’s sub judice resolution. There are legal proceedings active in relation to the policy of applying VAT to private schools. However, Mr Speaker issued a waiver on 5 February to allow reference to those cases, now and in future proceedings, on the grounds of national importance. For the record, I point out that my daughter is a teacher in a school affected by the VAT on fees.",
+   "name": "Martin Vickers",
+   "role": "Chair"
+  },
+  {
+   "who": "John Lamont (Berwickshire, Roxburgh and Selkirk) (Con)",
+   "member_id": 4608,
+   "type": "Contribution",
+   "text": "I beg to move, That this House has considered e-petition 701268 relating to VAT on independent school fees and business rates relief for independent schools. It is a pleasure to serve with you in the Chair, Mr Vickers. The petition is on an important subject and has gained over 114,000 signatures in two months. The lead petitioner, Hugh Beckinsale, is in the Public Gallery today with his daughter Amelia—someone who will be directly impacted by this policy decision. The petition has a straightforward ask of the Government: do not apply VAT to independent school fees or remove business rates relief. The petition states that “the Government needs to understand that not all independent school parents are wealthy, appreciate the benefits of independent schools and do better due diligence… We think this policy will split children from established friend networks, familiar environments and place the burden and cost on public schools.” I will build on those points throughout the debate, but those succinct statements go straight to the heart of the issue. I commend the petition organisers on being so direct and clear. I will turn to my own view on this issue. The topic is divisive; usually,",
+   "name": "John Lamont",
+   "party": "Con",
+   "seat": "Berwickshire, Roxburgh and Selkirk"
+  },
+  {
+   "who": "Dr Scott Arthur (Edinburgh South West) (Lab)",
+   "member_id": 5212,
+   "type": "Contribution",
+   "text": "The hon. Gentleman is talking with great passion about a subject that is of interest to him and to us all. He talked of many thousands of children facing displacement, but, in Edinburgh, I think the number of children being moved from the private sector to the state sector is somewhere between 50 and 60. Edinburgh has one of the largest private sectors in the UK, so where are the other thousands coming from?",
+   "name": "Dr Arthur",
+   "party": "Lab",
+   "seat": "Edinburgh South West"
+  },
+  {
+   "who": "John Lamont",
+   "member_id": 4608,
+   "type": "Contribution",
+   "text": "The hon. Gentleman represents a part of Scotland where the proportion of young people going to independent schools is among the highest, if not the highest, in the country. I have had conversations with constituents and the teaching staff at a number of schools in his constituency, so I know how concerned they are. A number of parents are now considering taking their children out of the sector because they can no longer afford to pay the fees. The hon. Gentleman knows from his discussions with those parents that they are not necessarily wealthy. During the last election, I spoke to parents who had made really tough choices about how they lead their lives to ensure that they can pay school fees—very often in schools in his constituency. They have made that choice about how they want their children to be brought up, and I think it is wrong that the Government are potentially taking that choice away or making it much more difficult for families to send children to the very good schools that he supposedly represents.",
+   "name": "John Lamont",
+   "party": "Con",
+   "seat": "Berwickshire, Roxburgh and Selkirk"
+  },
+  {
+   "who": "Christine Jardine (Edinburgh West) (LD)",
+   "member_id": 4634,
+   "type": "Contribution",
+   "text": "I represent a different part of Edinburgh, where one in four or five pupils goes to independent school. I have already received representations from parents who have had to take their children out of their schools and are concerned about where they can be placed in the city, given that the Labour council has already said that at least 15, and possibly 16, schools will be at capacity by the end of the decade even if there are no extra pupils.",
+   "name": "Christine Jardine",
+   "party": "LD",
+   "seat": "Edinburgh West"
+  },
+  {
+   "who": "John Lamont",
+   "member_id": 4608,
+   "type": "Contribution",
+   "text": "The hon. Lady makes an excellent point. Many young people, particularly in the city that she represents, go to schools in the independent sector, so the effect of this policy will be disproportionately higher in her city and the constituency of the hon. Member for Edinburgh South West (Dr Arthur), than in other parts of Scotland and the United Kingdom. It is disappointing how dismissive Labour Members are of the concerns raised by the schools that the hon. Gentleman supposedly represents. My fourth point, which really undermines Labour’s stated reasons for going ahead with this policy, is that there are huge potential costs to state schools arising from pupils moving out of independent schools. Every pupil who moves from an independent school to a state school will incur more cost to taxpayers. Those students did not cost the Government any money, but now their entire education will be met at a cost to the taxpayer. The Government think that they have been clever by raising a tax to support public services, but they have not come to the obvious realisation that they are also raising the cost of providing public services. Just look at the number of students: there are 30,000 pupils ",
+   "name": "John Lamont",
+   "party": "Con",
+   "seat": "Berwickshire, Roxburgh and Selkirk"
+  },
+  {
+   "who": "Dr Arthur",
+   "member_id": 5212,
+   "type": "Contribution",
+   "text": "It is important to remember that, although there is uncertainty with the number, and the revenue could be slightly lower or slightly higher—we do not know—the policy will none the less generate revenue. I spoke to the principal of an independent school in my constituency last week, and she outlined some of the challenges that she faces because of the policy, but the challenge that we face is that if we cancel the policy today—I know we cannot—the revenue that it generates will have to be found somewhere else. I ask the hon. Gentleman: where should we find that revenue? Perhaps we can find that money from public services in his constituency.",
+   "name": "Dr Arthur",
+   "party": "Lab",
+   "seat": "Edinburgh South West"
+  },
+  {
+   "who": "Martin Vickers (in the Chair)",
+   "member_id": 3957,
+   "type": "Contribution",
+   "text": "Order. I remind hon. Members that interventions should be short.",
+   "name": "Martin Vickers",
+   "role": "Chair"
+  },
+  {
+   "who": "John Lamont",
+   "member_id": 4608,
+   "type": "Contribution",
+   "text": "The last Government increased revenue expenditure in our schools during our time in office. If fewer pupils go into the independent sector, the Labour Government will have fewer opportunities to charge VAT, so the policy will not raise the anticipated revenue. I am intrigued to know whether, in the discussions that the hon. Gentleman has had with the multiple independent schools in his constituency, a single one indicated any support for the policy. I am more than happy for him to intervene again if he can name one school in Edinburgh that supports the policy.",
+   "name": "John Lamont",
+   "party": "Con",
+   "seat": "Berwickshire, Roxburgh and Selkirk"
+  },
+  {
+   "who": "Dr Arthur",
+   "member_id": 5212,
+   "type": "Contribution",
+   "text": "I thank the hon. Gentleman for inviting my intervention. What I will say is that more than half of voters in Edinburgh voted for the policy. Does he think that they were wrong?",
+   "name": "Dr Arthur",
+   "party": "Lab",
+   "seat": "Edinburgh South West"
+  },
+  {
+   "who": "John Lamont",
+   "member_id": 4608,
+   "type": "Contribution",
+   "text": "I would be amazed if the voters of Edinburgh endorse the policy in the way that the hon. Gentleman suggests. He should put that suggestion to some of the Facebook groups that support the directly affected Edinburgh parents—some of his constituents are directly affected by the policy—and see how many of their members say they support the policy. I suspect that very few will. If he paid any attention to those groups, he would know how much animosity there is towards the policy among parents in Edinburgh.",
+   "name": "John Lamont",
+   "party": "Con",
+   "seat": "Berwickshire, Roxburgh and Selkirk"
+  },
+  {
+   "who": "Richard Tice (Boston and Skegness) (Reform)",
+   "member_id": 5161,
+   "type": "Contribution",
+   "text": "Does the hon. Member agree that it is quite possible that this ludicrous policy raises the square root of net zero once we knock off possibly 100,000 children not going to independent schools, the recovery of input costs from schools, the closure of schools and the reduction in bursaries because the schools cannot afford to give them?",
+   "name": "Richard Tice",
+   "party": "Reform",
+   "seat": "Boston and Skegness"
+  },
+  {
+   "who": "John Lamont",
+   "member_id": 4608,
+   "type": "Contribution",
+   "text": "The hon. Member is absolutely right, and that leads me neatly to my next point. Let us look at what else the Labour Government have claimed. They said: “Ending tax breaks for private schools was a tough but necessary decision that will secure additional funding to help deliver the Government’s commitments relating to education and young people.” That supposed extra funding is far from guaranteed. The policy is unlikely to raise what has been stated, and it may well incur far greater costs to taxpayers than anticipated. Let me state it plainly: nothing about this decision was necessary. This did not need to happen now or in this manner. At the very least, it could have been considered in detail, with all the repercussions weighed up. The Government estimate that in the long term, 37,000 pupils will leave or never enter the UK private school sector as a result of the VAT charge. That number may also prove to be nonsense; if it is, the Government’s entire basis for doing this will fall apart. If the number is higher, the cost to the public finances will be higher and less revenue will be raised. That is a potentially vicious double whammy for the Treasury, inflicted entirely by Labour",
+   "name": "John Lamont",
+   "party": "Con",
+   "seat": "Berwickshire, Roxburgh and Selkirk"
+  },
+  {
+   "who": "Alison Taylor (Paisley and Renfrewshire North) (Lab)",
+   "member_id": 5093,
+   "type": "Contribution",
+   "text": "Does the hon. Gentleman agree that the policy was well documented in the 2017, 2019 and 2024 Labour manifestos? People voting in the 2024 election were well aware of Labour’s policy.",
+   "name": "Alison Taylor",
+   "party": "Lab",
+   "seat": "Paisley and Renfrewshire North"
+  },
+  {
+   "who": "John Lamont",
+   "member_id": 4608,
+   "type": "Contribution",
+   "text": "If the hon. Lady engages with the parents and schools affected, as I am sure she has, she will know that one of their criticisms is the haste with which the policy was introduced, and the inability of schools and parents to make plans to adjust to this severe tax. I cannot think of another example of a Government trying to increase a tax by 20% in one go. One of the main reasons schools and parents are so concerned is the failure to engage, discuss and properly understand the impact, as well as the suggestion that only wealthy parents will be affected. The hon. Lady will know from her constituency that people are making tough choices about whether they send their young people to one of the local independent schools; they are making choices about how they lead their lives, and budgeting accordingly. It is very sad that the lives of young people will be disrupted as a consequence of the policy. The Government also stated: “Many of the resulting moves into state schools are expected to take place at natural transition points, such as when a child moves from primary to secondary school, or at the beginning of exam courses.” That is pure assertion. It is made up. It is fantasy. The Gove",
+   "name": "John Lamont",
+   "party": "Con",
+   "seat": "Berwickshire, Roxburgh and Selkirk"
+  },
+  {
+   "who": "Martin Vickers (in the Chair)",
+   "member_id": 3957,
+   "type": "Contribution",
+   "text": "Order. I remind Members that they should, bob if they wish to take part in the debate.",
+   "name": "Martin Vickers",
+   "role": "Chair"
+  },
+  {
+   "who": "Alison Taylor (Paisley and Renfrewshire North) (Lab)",
+   "member_id": 5093,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mr Vickers. I thank the hon. Member for Berwickshire, Roxburgh and Selkirk (John Lamont) for his introduction to the petition today. I have considerable sympathy with the petitioners. I know that families make the choice to send their children to a private school for many reasons. I have been contacted by constituents who felt that their children’s needs were not being met in local state schools, and that they had no choice but to go private. I know, too, that families make sacrifices to be able to afford fees. I have been contacted by families who send their children to St Columba’s junior and senior schools in Kilmacolm in the neighbouring constituency to mine. I know that the new VAT measures, combined with other costs, have led to a 20% increase in school fees from the beginning of 2025, and that is difficult for the families and for the school. I also appreciate that for some families, and not just the 50 or so signatories to the petition in my constituency, the speed with which this measure was introduced has been difficult. I am encouraged by the extent to which schools have been able to offset VAT on capital charges against",
+   "name": "Alison Taylor",
+   "party": "Lab",
+   "seat": "Paisley and Renfrewshire North"
+  },
+  {
+   "who": "Aphra Brandreth (Chester South and Eddisbury) (Con)",
+   "member_id": 5241,
+   "type": "Contribution",
+   "text": "The UK is now the only country in Europe to tax education. Does the hon. Member recognise that this policy is about Labour’s ideology and not about improving education for all children across our country, irrespective of whether they are in the state sector or the independent sector?",
+   "name": "Aphra Brandreth",
+   "party": "Con",
+   "seat": "Chester South and Eddisbury"
+  },
+  {
+   "who": "Alison Taylor",
+   "member_id": 5093,
+   "type": "Contribution",
+   "text": "I simply do not agree. I refer to my earlier point that this policy was in Labour’s manifesto in 2017, 2019 and 2024. It is a long-standing policy of the Labour party.",
+   "name": "Alison Taylor",
+   "party": "Lab",
+   "seat": "Paisley and Renfrewshire North"
+  },
+  {
+   "who": "Gregory Stafford (Farnham and Bordon) (Con)",
+   "member_id": 5351,
+   "type": "Contribution",
+   "text": "If I understand the hon. Lady’s point, it is that because the Labour Government now have a stonking majority, this policy is therefore approved by the British people. Is she therefore saying that in 2017 they rejected this policy, in 2019 they rejected this policy, and then suddenly in 2024 the majority of the population converted to supporting this policy? Or is she really saying what we all know, namely that the British people did not vote for Labour based on this policy and they did not understand the effect that it will have, not just on the independent sector but on the state sector?",
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon"
+  },
+  {
+   "who": "Alison Taylor",
+   "member_id": 5093,
+   "type": "Contribution",
+   "text": "I think my point refers to the timing point that the hon. Gentleman has been making. I will carry on. In Scotland, it is up to the national Scottish Government to decide how to use the significant additional funds that they receive through the block grant. As expenditure on education in England increases, so do the resources available to the Scottish Government, but despite Scottish families being taxed more than families in any other part of the UK and despite Scotland receiving the largest increase in the block grant since the Scottish Parliament was formed, there is little to show for those things in state schools in Scotland. In spite of the incredible hard work of teachers and support staff in schools in Scotland, the attainment gap continues to increase, and standards and results continue to fall.",
+   "name": "Alison Taylor",
+   "party": "Lab",
+   "seat": "Paisley and Renfrewshire North"
+  },
+  {
+   "who": "Christine Jardine",
+   "member_id": 4634,
+   "type": "Contribution",
+   "text": "I agree with the hon. Lady that the state of the education system in Scotland is appalling, and the blame lies squarely with the SNP, but how does she think the state sector will be helped to recover by putting extra pressure on it through forcing parents to move their children to places that do not exist?",
+   "name": "Christine Jardine",
+   "party": "LD",
+   "seat": "Edinburgh West"
+  },
+  {
+   "who": "Alison Taylor",
+   "member_id": 5093,
+   "type": "Contribution",
+   "text": "As is well documented, this policy will raise £1.8 billion for the state sector. I will carry on. This Government have made the hard decisions, including introducing VAT on private school fees, that are necessary to improve education for all children. That is already starting to make a difference in England. I sincerely hope that the Scottish Government will take a short break from stirring up grievance within the UK and instead will focus their attention on meeting the real needs of families in Scotland. In the past, I and other members of my family have spent all or part of our education in the independent sector, but currently I have no family members in the independent sector. Given how much time has passed, I honestly do not know whether the increase in fees would have resulted in my family making different choices. My comments today are informed by what I have been told by parents in my constituency who have been impacted.",
+   "name": "Alison Taylor",
+   "party": "Lab",
+   "seat": "Paisley and Renfrewshire North"
+  },
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "As always, it is a great pleasure to see you in the Chair, Mr Vickers. I thank and commend Mr Beckinsale and the other 114,948 petitioners, including 611 in my constituency of East Hampshire, for bringing this very important subject to Westminster Hall today. After all that we have heard today, we might ask, “Why? Why would the Government do this?” The measure is a revenue-raiser, but in the grand scheme of things it is not the most enormous revenue-raiser. It is already causing all sorts of disruption in children’s education, and there is more disruption ahead. So why are the Government doing it? I think the answer is fairly straightforward. The Government were genuinely in the market for tax rises, especially tax rises that did not break the rules they had set for themselves on income tax, on VAT and—I say this with a cough—national insurance contributions; and when they looked down the list, this one looked quite popular. It is certainly popular with Labour members and it is very popular with the left wing of the Labour party. I think the Government thought the measure could be sold quite easily to the British public. They could link it to definable things—to the provision of br",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Alison Taylor",
+   "member_id": 5093,
+   "type": "Contribution",
+   "text": "Does the right hon. Gentleman agree that schools can offset some of the VAT?",
+   "name": "Alison Taylor",
+   "party": "Lab",
+   "seat": "Paisley and Renfrewshire North"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "That is what I just said.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Alison Taylor",
+   "member_id": 5093,
+   "type": "Contribution",
+   "text": "So it is not 20%, then—it is closer, probably, to 15%.",
+   "name": "Alison Taylor",
+   "party": "Lab",
+   "seat": "Paisley and Renfrewshire North"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I am coming to that. I am grateful to the hon. Lady—she can keep teeing me up. The Government’s second error was to fail to consider the cumulative effect of all the different cost pressures added on to schools; as well as VAT, there are also business rates, which are mentioned in the petition. There is also the increase in the employer contribution for the teachers’ pension scheme—before somebody says it, this was introduced by the previous Government to come in this year—which is material for schools in that scheme. Now, of course, we have employer national insurance contributions as well. The hon. Lady is right that the amount added through VAT would not be quite 20%; it might come down to 15%, but all those other things add cost as well. The third error the Government made was to ignore the existence of geography. There may well be thousands of places available in the country, but they are utterly worthless from this perspective if they are not in the right places and the right age groups for the children who will be displaced. Overall—this is a great simplification —the effect of the measure in primary schools will be relatively small because there is a lot of capacity in prim",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Dr Rupa Huq (Ealing Central and Acton) (Lab)",
+   "member_id": 4511,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Mr Vickers, and to see the newly minted Minister in his place—I think it is the first time I have been in a debate with him. It is also a pleasure to follow the right hon. Member for East Hampshire (Damian Hinds), who was the Secretary of State; I sometimes see him on the District line, because we head the same way. I rise to speak on behalf of constituents who have contacted me about this issue—in my inbox, in person at the advice surgery I do every Friday, and on the doorsteps when meeting and greeting voters in the recent general election. This issue comes alongside an array of others raised by mums and dads. I am familiar with the arguments and have read the Government’s response; it contains very compelling figures—94% of schoolchildren in the UK, including my own, attend state schools. I also know that the policy polls very well. However, there is also that 6%, and 14 of those private schools are in the constituency of Ealing Central and Act; in 2023 there were 15, in fact, but one has closed its doors since then. I want to vocalise some of their concerns to my hon. Friend the Minister. Fourteen is a higher than average number o",
+   "name": "Dr Huq",
+   "party": "Lab",
+   "seat": "Ealing Central and Acton"
+  },
+  {
+   "who": "Jack Rankin (Windsor) (Con)",
+   "member_id": 5340,
+   "type": "Contribution",
+   "text": "As the MP for Windsor, Eton is in my constituency. I appreciate, as the hon. Lady says, that not all private schools are Eton, but I point out in its defence that the sports centre she mentioned is used by local schools and community groups, and that Eton does an awful lot in my community. I accept her point that Eton is not among the schools that we necessarily want to focus on in this debate, but I suggest that some of those points are a bit unfair.",
+   "name": "Jack Rankin",
+   "party": "Con",
+   "seat": "Windsor"
+  },
+  {
+   "who": "Dr Huq",
+   "member_id": 4511,
+   "type": "Contribution",
+   "text": "It is interesting to learn that—",
+   "name": "Dr Huq",
+   "party": "Lab",
+   "seat": "Ealing Central and Acton"
+  },
+  {
+   "who": "Rachel Gilmour (Tiverton and Minehead) (LD)",
+   "member_id": 5252,
+   "type": "Contribution",
+   "text": "Will the hon. Member give way on Eton?",
+   "name": "Rachel Gilmour",
+   "party": "LD",
+   "seat": "Tiverton and Minehead"
+  },
+  {
+   "who": "Dr Huq",
+   "member_id": 4511,
+   "type": "Contribution",
+   "text": "I am not finished addressing the first point. Can we do this sequentially? I will respond to the hon. Member for Windsor (Jack Rankin) first and then I will take the hon. Lady’s intervention. It is interesting to learn that, but my point is that such schools are still going to be quids in after this.",
+   "name": "Dr Huq",
+   "party": "Lab",
+   "seat": "Ealing Central and Acton"
+  },
+  {
+   "who": "Rachel Gilmour",
+   "member_id": 5252,
+   "type": "Contribution",
+   "text": "Will the hon. Member give up on all this stuff about Eton? I speak as a mother of two Old Etonians. I was a single parent; I worked three jobs. The right hon. Member for East Hampshire (Damian Hinds) said there is more money from Old Etonian parents, but there certainly is not—not from this one. Eton hands out completely free fees to 100-plus boys a year; they do not even have to pay for their pencils. When it comes to things like Dorney Lake and the sports centre, it hands that back a thousand times to local communities across the country. Give it up!",
+   "name": "Rachel Gilmour",
+   "party": "LD",
+   "seat": "Tiverton and Minehead"
+  },
+  {
+   "who": "Dr Huq",
+   "member_id": 4511,
+   "type": "Contribution",
+   "text": "I do not know how parliamentary that language is. I am not going to join in the praise of Eton, particularly because I think the hon. Lady may have been an atypical parent. I imagine that some parents there would be able to bear a 20% increase, and for a school that is clever with its accounts, these things may just be a rounding error. I am talking about smaller schools for which that does not apply. It is interesting to see the hon. Member for Boston and Skegness (Richard Tice) here. I have a massively remain constituency, with 72% of my electorate voting remain, but, perversely for Reform, it is leaving the EU that has made this policy possible—it is a Brexit benefit. If only we had never left the EU, this would not be happening. Usually education is not a taxable luxury good, and there is a fear that if this increase happens, what could be next—nurseries or universities? I used to work in that sector. There is a slight worry that there is a loophole, because the policy contradicts the EU’s VAT directive that specifies there should be no VAT on any form of education. In Greece in 2015, the left-wing Syriza Government wanted to introduce VAT at 23%. They had to abandon that for a",
+   "name": "Dr Huq",
+   "party": "Lab",
+   "seat": "Ealing Central and Acton"
+  },
+  {
+   "who": "Mr Gagan Mohindra (South West Hertfordshire) (Con)",
+   "member_id": 4804,
+   "type": "Contribution",
+   "text": "What does the hon. Lady expect her Government to do if they will not give way on this point?",
+   "name": "Mr Gagan Mohindra",
+   "party": "Con",
+   "seat": "South West Hertfordshire"
+  },
+  {
+   "who": "Dr Huq",
+   "member_id": 4511,
+   "type": "Contribution",
+   "text": "I would suggest implementing it in a slightly different way, based on turnover—so doing it for the enormous schools that can afford it, but not for smaller ones that have been caught in the trap. There is also an argument for looking at grammar schools, which are a legacy from many years ago. We do not have them in my area, but when I was the Labour candidate in Chesham and Amersham in 2005, they came up as a hustings issue. The argument that the Labour party always gave me in those days was that we respect parental choice. At times, the Conservative party has flirted with bringing back more grammar schools, but they are even more elitist in a way because they take state funds for private school-type facilities. Dr Challoner’s grammar school in Amersham was way bigger than the school I went to; I felt very small when I went there. Perhaps something could be done about the grammar school system, because that is an inegalitarian one. I wanted to vocalise some of the concerns from my electorate and remind hon. Members that one size does not always fits all. In this case, that is far from the truth.",
+   "name": "Dr Huq",
+   "party": "Lab",
+   "seat": "Ealing Central and Acton"
+  },
+  {
+   "who": "Christine Jardine (Edinburgh West) (LD)",
+   "member_id": 4634,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve with you in the Chair, Mr Vickers, and to follow the hon. Member for Ealing Central and Acton (Dr Huq). I feel as if the speakers so far have been talking about me, because they have been talking about parents who are not rich but who send their children to independent schools. I no longer have a declarable interest, but my daughter did go to an independent school. We were not wealthy, and it was not easy, but it was our choice. We never regretted it, but we often struggled to finance it. I know that there are thousands of parents, many in my constituency, who face an even bigger challenge because of this change. My daughter went to an independent school in the west of Scotland. It was originally the town school—anyone from Glasgow knows which one I mean—and it had a tradition of awarding a large number of bursaries every year. A lot of the children who were at her school and are now doing well would not have got that place otherwise. A lot of them faced challenges, and the school helped them. We need to remember that we are talking not about the Etons and the Harrows—the big schools—but about a lot of independent schools that often provide a service in co",
+   "name": "Christine Jardine",
+   "party": "LD",
+   "seat": "Edinburgh West"
+  },
+  {
+   "who": "Dr Huq",
+   "member_id": 4511,
+   "type": "Contribution",
+   "text": "The hon. Lady and I were both girls in those schools, and she talked about her daughter. Does she accept that it is often the parents who want their daughters to have an all-girls education. There are figures from the Girls’ Schools Association. There is also the head of Dame Allan’s girls’ school, who said that girls thrive better in all subjects in all-girls environments and that they choose things such as physics and maths more when there are not boys around mucking about.",
+   "name": "Dr Huq",
+   "party": "Lab",
+   "seat": "Ealing Central and Acton"
+  },
+  {
+   "who": "Christine Jardine",
+   "member_id": 4634,
+   "type": "Contribution",
+   "text": "I accept that point and absolutely agree. It reminds me of the point that for a lot of parents, their children are in independent schools because they were struggling in the state sector. They moved their children into the independent sector, where they are thriving. Rightly or wrongly, that was the parents’ choice, and we—or, at least, the Labour Government—would be taking that choice away from them, because of the fee increase. I also find it difficult to understand a Labour Government who would support the principle of taxing education. As well as the practical issues with the policy, they are taxing education, which is surely not something that they would support. Introducing the change halfway through the school year has caused issues for many parents, who have suddenly found that all the budgeting they have done is out the window. They may have more than one child at a school that they can no longer afford due to the increase in school fees. That is why so many people are writing to me every weekend to say that they are having to think about what they will do about their child’s education and where they will find a place.",
+   "name": "Christine Jardine",
+   "party": "LD",
+   "seat": "Edinburgh West"
+  },
+  {
+   "who": "Dr Arthur",
+   "member_id": 5212,
+   "type": "Contribution",
+   "text": "I find it really interesting that Conservative and Liberal Democrat Members are talking about how wrong it is to place VAT on school fees, even though they thought nothing about introducing university fees, which place a huge cost on education, particularly for people from poorer backgrounds.",
+   "name": "Dr Arthur",
+   "party": "Lab",
+   "seat": "Edinburgh South West"
+  },
+  {
+   "who": "Neil O’Brien (Harborough, Oadby and Wigston) (Con)",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "That was 1998!",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Dr Arthur",
+   "member_id": 5212,
+   "type": "Contribution",
+   "text": "The massive rise in tuition fees came later. Hon. Members know exactly what I am talking about. [ Interruption. ] Can I speak, please? Nobody here is questioning the motives of parents—every single parent who sends their children to an independent school wants the best for their children—but what we are questioning is, if we were to scrap this policy, what would we cut instead? I am just not hearing an answer. This policy will generate additional income for the constituency of the hon. Member for Edinburgh West (Christine Jardine). Where does she want that to be cut from instead? What does she say to the majority of people in Edinburgh who voted for parties that supported this policy?",
+   "name": "Dr Arthur",
+   "party": "Lab",
+   "seat": "Edinburgh South West"
+  },
+  {
+   "who": "Christine Jardine",
+   "member_id": 4634,
+   "type": "Contribution",
+   "text": "Like the hon. Member for Berwickshire, Roxburgh and Selkirk (John Lamont), I would like to see the evidence that half of the people in Edinburgh voted for this policy. I have to tell the hon. Member for Edinburgh South West (Dr Arthur) that there are 311 signatories to this petition from his constituency. More than half of the people in Edinburgh West voted for me, so I would like to see where he is getting the figure that parents in the city have voted for the measure. Where does the hon. Gentleman think that the City of Edinburgh council will find the places, when its own figures, produced by a Labour Administration before this policy was announced, showed that 16 schools in the city will be at capacity by 2030? The problem is that where there are places, they are not necessarily convenient for the children who will be forced, by this policy, to look for a new school place. State school rolls are already stretched in Scotland because of the SNP’s cuts to local government, and this change can only make that situation worse.",
+   "name": "Christine Jardine",
+   "party": "LD",
+   "seat": "Edinburgh West"
+  },
+  {
+   "who": "Dr Arthur",
+   "member_id": 5212,
+   "type": "Contribution",
+   "text": "My goodness me. If this policy generates the £1.8 billion we heard about earlier— [ Interruption. ] It could generate more. If it generates £1.8 billion, it will benefit schools in Edinburgh—of course it will. The hon. Lady made reference to school roll analysis, and stressed that it was conducted before the policy was introduced. Since then, there has been an update, and it shows more than adequate capacity in Edinburgh, particularly as we have only 55 students moving from the private sector to the state sector. She is well aware of that analysis.",
+   "name": "Dr Arthur",
+   "party": "Lab",
+   "seat": "Edinburgh South West"
+  },
+  {
+   "who": "Christine Jardine",
+   "member_id": 4634,
+   "type": "Contribution",
+   "text": "Yes, I am aware of that analysis, and it does not show a healthier figure. The point that I was making in saying that it was conducted before the policy’s introduction is that the instant this Government came out with the policy, the Labour council went back and redid the figures. [ Interruption. ] No, I did not say that, but what I will say is that state schools across the country are stretched. If the hon. Gentleman is insisting that this £1.8 billion will go to Scotland, perhaps his Ministers will tell us how it will get to schools in Scotland, because they have no power to put that money into state education in Scotland. This is a national policy. It is affecting families up and down this country, and it is putting more pressure on the state education system everywhere from Caithness to Cornwall. It is not just about Edinburgh; it is about the entire country. I am here to speak on behalf of my constituents, but I feel that their fears are reflected elsewhere in the country. If this Labour Government can tell us how they are going to make that money effective in protecting state education, and how they will get it into schools like ones in my constituency, then we might listen. ",
+   "name": "Christine Jardine",
+   "party": "LD",
+   "seat": "Edinburgh West"
+  },
+  {
+   "who": "Mr Gagan Mohindra (South West Hertfordshire) (Con)",
+   "member_id": 4804,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mr Vickers. I thank my hon. Friend the Member for Berwickshire, Roxburgh and Selkirk (John Lamont) for presenting the petition. Out of the nearly 115,000 petitioners, 500 were from my constituency. Education has always been an important part of my purpose in coming to this place and in all my 21 years of elected office, because I know that education can change people’s potential. I am lucky enough to have been brought up in this country, and educated well at school and university. As others in the House will be aware, I am dyslexic. My dyslexia was not diagnosed until my mid to late 20s, and I take that as a reflection of the excellent education that I was able to benefit from. My concern is that the new Labour Government have come in with a strong mandate from the electorate, but I think that they are rewriting the terms of how they got that mandate. Comments have been made about previous manifestos talking about reform of the independent school sector, but I would argue that given the turnout figures, the Labour party having 411 MPs is probably the fault of my own party, rather than to the credit of the Labour party. I look forwa",
+   "name": "Mr Gagan Mohindra",
+   "party": "Con",
+   "seat": "South West Hertfordshire"
+  },
+  {
+   "who": "Richard Tice (Boston and Skegness) (Reform)",
+   "member_id": 5161,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mr Vickers. I congratulate the hon. Member for Berwickshire, Roxburgh and Selkirk (John Lamont) on securing this debate on the back of the petitioners. [Mrs Emma Lewell-Buck in the Chair ] How many of us were elected to this great place to damage the prospects of our children? I would hope that the answer is none, but that is the direct consequence of this ludicrous policy to tax education. I think we are the only country in the developed world to do so. The unintended consequences are truly shocking. Within a fortnight of the policy coming into force at the beginning of this year, some four schools announced they were closing this summer—over 1,000 children were immediately plunged into uncertainty about where they were going to school and who were going to be their friends. The anxiety that that put on them as children, let alone their parents, should shame everybody in the Government. Tens of thousands of pupils will end up leaving the independent sector—and it is independent, not private, because most independent schools are charities that reinvest their surpluses.",
+   "name": "Richard Tice",
+   "party": "Reform",
+   "seat": "Boston and Skegness"
+  },
+  {
+   "who": "Dr Arthur",
+   "member_id": 5212,
+   "type": "Contribution",
+   "text": "I have independent schools in my constituency, and the challenges we face with this policy are real, but the numbers people are citing make it difficult to talk about those challenges. People have said that tens of thousands of students are going to move from the independent sector to the state sector, but I do not think anybody really thinks that is going to happen. Those sorts of numbers make it really difficult to have a serious debate about this issue. Does the hon. Gentleman agree that “tens of thousands of students” is perhaps at the upper end of estimates?",
+   "name": "Dr Arthur",
+   "party": "Lab",
+   "seat": "Edinburgh South West"
+  },
+  {
+   "who": "Richard Tice",
+   "member_id": 5161,
+   "type": "Contribution",
+   "text": "I am grateful to the hon. Gentleman, because he has reminded me to declare a historical interest. Not only did I have children in independent schools, but I was the chairman of the finance and general purposes committee for a significant independent school over the past six or seven years; I finished just before the election. Even when this policy was announced as a prospect, I saw an immediate drop-off in applications for places at that school, so I can confirm with absolute experience that tens and tens of thousands, if not 100,000, will leave the sector. Surely, of all children, those whose prospects we want least of all to damage are those with special educational needs, yet that is where the independent sector excels. Let me give a small example from the county of Lincolnshire. I got a letter from a constituent who can no longer afford to send two children, both with special educational needs, to the independent school. They are going to have to go into the state sector, where there is a capacity crisis that we keep hearing about in the Commons. Because of the distance, she cannot provide the travel, so the county council has to provide it. For those two children alone, the an",
+   "name": "Richard Tice",
+   "party": "Reform",
+   "seat": "Boston and Skegness"
+  },
+  {
+   "who": "Dr Al Pinkerton (Surrey Heath) (LD)",
+   "member_id": 5288,
+   "type": "Contribution",
+   "text": "It is a pleasure to speak with you in the Chair, Mrs Lewell-Buck. My Surrey Heath constituency is home to many outstanding state schools and academies and to six small, extraordinary, highly performing independent schools: Hall Grove, Lyndhurst, Coworth Flexlands, Woodcote House, Knowl Hill and Fernways school. It is quite possible that no hon. Members have heard of those schools. They are not necessarily the big names, but they provide extraordinary education to an extremely loyal following. They provide not only excellent education but essential support, catering to a wide range of educational and pastoral needs. For children with special educational needs and disabilities, they offer tailored learning environments with small classes, dedicated learning assistants and specialist therapies that parents would otherwise have to battle to access through Surrey’s appalling state system—very often unsuccessfully. Beyond academic provisions, the schools foster a nurturing environment that prioritises wellbeing. That is particularly crucial for children from military families, who rely on their schools for stability and continuity of education amid the turbulence of frequent relocations ",
+   "name": "Dr Al Pinkerton",
+   "party": "LD",
+   "seat": "Surrey Heath"
+  },
+  {
+   "who": "Gregory Stafford (Farnham and Bordon) (Con)",
+   "member_id": 5351,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mrs Lewell-Buck. I congratulate my hon. Friend the Member for Berwickshire, Roxburgh and Selkirk (John Lamont) on leading today’s debate. I declare an interest as the father of children who currently attend an independent school. I am afraid it is not a pleasure to speak today about the vicious, vindictive and, ultimately, financially valueless policy that the Labour Government have brought in. As has been said, no other country—no serious country—in the world taxes education. The sorts of schools being taxed are faith schools; arts, drama and music schools; single-sex schools; and independent schools to which armed forces parents send their children. As a side note, a member of our armed forces said to me last week that, in their view, this policy was a breach of the military covenant. This is not about a tax break, as Labour Members have said. Tax has never been levied on education in this country, so this policy is an additional tax on education. It is not a tax break. As other hon. Members have said, parents who make the sacrifice to send their children to the independent sector are saving money for the state sector. Across my ",
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon"
+  },
+  {
+   "who": "Monica Harding (Esher and Walton) (LD)",
+   "member_id": 5299,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mrs Lewell-Buck. I thank the hon. Member for Berwickshire, Roxburgh and Selkirk (John Lamont), who secured this debate, and I thank those who signed today’s petition. I would like to point out, as other Members have done, the unintended consequences of this policy, which are affecting my constituents in Esher and Walton. For context, independent schools serve around 20% of pupils in Surrey. First, I am concerned that this Government’s policy will put at risk the many valued partnerships between state and independent schools, which work so well in my constituency. In Esher and Walton, the independent sector supports some of our state schools with capital projects, such as redecorating and renovating, and state primaries make use of independent schools’ playing fields to open up sport and outdoor activities. I wish that there was more of that, and I was encouraging my independent schools to do more, but they now say that the VAT increases make it unaffordable. Secondly, alongside other Members, I want to focus on how this policy will impact the more than 40,000 pupils in Surrey who receive support for special educational needs. Surre",
+   "name": "Monica Harding",
+   "party": "LD",
+   "seat": "Esher and Walton"
+  },
+  {
+   "who": "Jack Rankin (Windsor) (Con)",
+   "member_id": 5340,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mrs Lewell-Buck. In Windsor, we are very lucky to have some of the finest state and independent schools in this country, and I am proud to represent them all. One has already been mentioned; it is very prominent, but it is not very reflective of the situation in my constituency. On two constituency visits this morning before I came into Parliament, I counted the independent schools that I passed. I passed six; 23% of the pupils in my constituency attend independent schools. The caricature that my right hon. Friend the Member for East Hampshire (Damian Hinds) said was always in the papers when independent schools are discussed does not reflect 23% of the parents in my constituency. In my recent surgeries, I have had many parents who are really struggling with the proposed policy. Often, both parents are working, and one of them may have taken on a second job. In many instances, they have remortgaged their house. They have gone without. Many marriages are under pressure, and I am concerned about those parents and their children. Because we have such a high percentage of independent schools in my constituency, they are not the only on",
+   "name": "Jack Rankin",
+   "party": "Con",
+   "seat": "Windsor"
+  },
+  {
+   "who": "Dr Arthur",
+   "member_id": 5212,
+   "type": "Contribution",
+   "text": "The hon. Member is talking with great understanding about the schools in his constituency, including state and independent, which is fantastic to hear. But we have heard in this debate about full state schools in England, about overloaded schools and underfunded schools. He will acknowledge that funding had to be found somewhere to try to fix the problems. We have one solution. Is there an alternative?",
+   "name": "Dr Arthur",
+   "party": "Lab",
+   "seat": "Edinburgh South West"
+  },
+  {
+   "who": "Jack Rankin",
+   "member_id": 5340,
+   "type": "Contribution",
+   "text": "My point is that this will not raise any money. It will exacerbate the problem, because if 10% of the students are displaced, that nullifies the revenue. One thing that has not been mentioned is that all our local authorities are under some kind of financial strain, and the royal borough of Windsor and Maidenhead is under more than some others. One of the biggest exploding bills on its books is the school transport budget, which this policy harms by putting another unexpected pressure in the system that local authorities will have to pay for. I do not know whether that is in the numbers; perhaps the Minister will comment on that. I find it almost humorous that some teachers’ unions—it is not often that Conservative Members agree with them—are raising concern about the impact of this policy on staff and pupils in state schools. After only a few months, we are seeing pupils being taken out of private school at three times the previous rate. We will have to wait until September to see the full extent of the damage, as many parents are doing everything they can to get to the end of the school year before, sadly, taking their children out of the schools they love. In this country, we sh",
+   "name": "Jack Rankin",
+   "party": "Con",
+   "seat": "Windsor"
+  },
+  {
+   "who": "Rachel Gilmour (Tiverton and Minehead) (LD)",
+   "member_id": 5252,
+   "type": "Contribution",
+   "text": "It is a joy to speak under your chairmanship, Ms Lewell-Buck. I will be brief. I grew up the eldest of four children, and the only girl. My brothers and I were all grateful recipients of scholarships and bursaries to public schools. I am, believe it or not, a Cheltenham lady, and my brothers all attended King’s, Canterbury. Two served in His Majesty’s armed forces—Johnny was a half-colonel in the Grenadier Guards, and Ben still serves as a brigadier in what we still call the Black Watch. My other brother, James, worked as a heart surgeon before serving his community in Wales as a GP. In my own small way, I have tried to contribute to my country and my community. I am now serving as an MP, but I have also been a town and district councillor. I worked for international and national non-governmental organisations, and the National Farmers Union and the Environment Agency. That was made possible for all of us in large part by the education that we were fortunate enough to receive. As Members can imagine, I very often get asked by people who tend to put their cross in the blue team box why I am a Liberal, and my answer is this: I am a Liberal because I was very well educated and I have ",
+   "name": "Rachel Gilmour",
+   "party": "LD",
+   "seat": "Tiverton and Minehead"
+  },
+  {
+   "who": "Clive Jones (Wokingham) (LD)",
+   "member_id": 5207,
+   "type": "Contribution",
+   "text": "The Government’s policy will harm SEND children currently enrolled in independent schools One constituent wrote to me to say that their daughter goes to a local independent school because of her autism, and that it is an environment that is best suited for her needs. Does my hon. Friend agree that the Minister should recognise the potentially detrimental effect on children with SEND if the VAT exemption causes schools to cut scholarships and bursaries?",
+   "name": "Clive Jones",
+   "party": "LD",
+   "seat": "Wokingham"
+  },
+  {
+   "who": "Rachel Gilmour",
+   "member_id": 5252,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for his interesting and adept intervention. I will be coming to that matter in a minute. There are some shocking—shocking—statistics on this from the Conservative party in Devon. This policy will immeasurably increase the strain on the state school system, which is already bursting at the seams, through a large influx of pupils transferring across to comprehensive schools. This tax will not offset the impact. Moreover, many pupils at private schools are there because bursaries and scholarships have enabled them to be there, as was the case for me. For example, Blundell’s school, the independent school in my constituency of Tiverton and Minehead, has a proud reputation of offering a very high number of bursary places to disadvantaged children from low-income households, who would otherwise not have the opportunity of a first-class education. It also opens its doors to the community, who regularly make use of its wonderful facilities. That is the case for independent schools up and down the country—I think I referred to one earlier. What about those pupils in need of extra support with their learning? Here comes the shocking statistic about EHCP roll-out across",
+   "name": "Rachel Gilmour",
+   "party": "LD",
+   "seat": "Tiverton and Minehead"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "It is an absolute pleasure to serve under your chairmanship, Ms Lewell-Buck. I thank the hon. Member for Berwickshire, Roxburgh and Selkirk (John Lamont) for introducing this debate and setting out the argument so eloquently. I also thank the almost 115,000 people who signed the petition, of whom 873 live in Twickenham. I start by apologising to you, Ms Lewell-Buck, hon. Members and people in the Gallery if I have seemed a little distracted over the past 45 minutes. I have just found out that my daughter got her first choice of secondary school—a state school, I should say—for this September, so I have been a little distracted. All her classmates’ parents have been messaging to find out, and I was trying to communicate with my husband to let our daughter know that she will be going where she wants to go. Forgive me, but I thought it was quite appropriate to mention that, given that we are talking about schools and independent schools. I am proud that my borough of Richmond upon Thames has outstanding secondary schools—in fact, all of them are outstanding or good—and some of the best primaries in the country, but that is not necessarily the case everywhere. It goes without saying th",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Neil O’Brien (Harborough, Oadby and Wigston) (Con)",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mrs Lewell-Buck. We have had some superb speeches on all sides of the House today, starting with my hon. Friend the Member for Berwickshire, Roxburgh and Selkirk (John Lamont) who led us brilliantly. I thank the nearly 115,000 people who triggered this debate by signing a petition against the education tax, and particularly those who are here today. There is a good reason why all previous Governments of all colours have avoided taxing education. It is hard to imagine a Tony Blair Government doing what this one are now doing. In fact, we know that he slapped the idea down hard when it was suggested. Likewise, Clement Attlee did not do it, and nor did Harold Wilson or Jim Callaghan. The rest of Europe does not do it. But under this Government, schools are being hit by a triple whammy of VAT, business rates and higher national insurance. Even some Government Ministers have their doubts about this. The Chief Secretary to the Treasury, no less, told the girls at Redmaids’ high school in 2022 that he opposed his party’s policy on taxing independent schools and said that it would not bring in what his own party was claiming. What an extra",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Parliamentary Secretary to the Treasury (Torsten Bell)",
+   "member_id": 5069,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Mrs Lewell-Buck, for this debate secured not by an hon. Member, as is often the case, but by public petitioners, including some who are present in the Public Gallery. The public paying attention to an issue is good grounds for it being debated. I also thank the hon. Member for Berwickshire, Roxburgh and Selkirk (John Lamont) for introducing the debate—also, for closing it shortly—and all hon. Members who have spoken during it. There are lots of things that are not common ground on this issue, as I will come on to, but I will start by noting that we are all motivated by the same determination to support the aspirations of every parent in the UK to get the best education for their children. In that context, we should all congratulate the hon. Member for Twickenham (Munira Wilson) on her good news and agree with my hon. Friend the Member for Ealing Central and Acton (Dr Huq) that we all know people who have made a wide range of decisions about the educational choices for their children and that no one here is judging other parents’ choices. The best education for children is also what motivates the Government to break down barriers to op",
+   "name": "Torsten Bell",
+   "seat": "Torsten Bell"
+  },
+  {
+   "who": "Gregory Stafford",
+   "member_id": 5351,
+   "type": "Contribution",
+   "text": "We disagree on whether this change is going to raise any money. However, I want to understand the policy point being made here, namely that to raise the money to fund the state education sector, the Government have decided to raise tax on the independent education sector. Why did they decide to raise money from the education sector rather than from any other sector, or from any other rich individuals?",
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon"
+  },
+  {
+   "who": "Torsten Bell",
+   "member_id": 5069,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for his intervention. I might be a bit more sympathetic to Conservative Members focusing on this change if I saw them supporting any of the revenue measures that we have had to take to start turning around public services and improving the public finances. They oppose this measure, they oppose changes on national insurance, and they oppose cuts to the winter fuel payment and the rest. Now, I will make some progress. On the timing of implementation, as my hon. Friend the Member for Paisley and Renfrewshire North (Alison Taylor) pointed out, this change was clearly signposted in Labour’s manifesto. Also, His Majesty’s Revenue and Customs is working hard to support schools through this change by providing bespoke support to schools alongside comprehensive guidance on how they can register for VAT. A dedicated mailbox for queries has also been made available to schools and their tax representatives. Several hon. Members have discussed the impact that the changes will have on pupils and their families, and on state schools and private schools more widely. Many Members have understandably returned to questions that were addressed in the tax information and impact ",
+   "name": "Torsten Bell",
+   "seat": "Torsten Bell"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "On faith-based education, the Minister is quite right that there are large numbers of faith-based schools in the state sector. However, there are some denominations and particular religious traditions for which there are not large numbers of schools, and whose actually charge fees sometimes considerably below the average cost of a state school place. Does he recognise that there may be a case for an exemption in such cases?",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Torsten Bell",
+   "member_id": 5069,
+   "type": "Contribution",
+   "text": "I recognise the description of the status quo as the right hon. Gentleman describes it, but I reiterate my view and the Government’s view that a state education is suitable for all families of all faiths. A public petition has decided that we should have today’s debate. On those grounds alone, it is right that we have had it. I recognise many of the points that hon. Members have raised, even if I have attempted to set out why the Government believe that in some cases they are overdone. As we rightly debate the impact of these policies, we must recognise the reason that they have been made: the priority that we must attach to providing extra resources for our state schools—resources that I have not heard a huge number of suggestions for replacing today. These are schools where 94% of our children are educated, and where this Government will deliver an education system fit for all.",
+   "name": "Torsten Bell",
+   "seat": "Torsten Bell"
+  },
+  {
+   "who": "John Lamont",
+   "member_id": 4608,
+   "type": "Contribution",
+   "text": "I am conscious of the time and that the House of Commons is about to vote. I will not detain hon. Members much longer. I thank the petitioner for bringing forward this petition and the 115,000 people who bothered to sign it. I also thank all hon. Members who contributed to this important debate. I think it is telling that the vast majority of right hon. and hon. Members spoke against the Government’s policy regarding the VAT charge on school fees and the removal of business rates relief. The empty Government Benches are also very telling, although there were notable exceptions in the hon. Members who did come to try and defend their Labour Government’s policy. It was interesting to hear some of the caution that was also being expressed, however, most notably by the hon. Member for Ealing Central and Acton (Dr Huq), who gave a very important contribution. I was struck by all the contributions about the impact that this policy will have on young people with additional needs, and the fact that it is not simply about wealthy families choosing to send their children to independent schools. There are lots of young people who go into the independent sector to get the educational support t",
+   "name": "John Lamont",
+   "party": "Con",
+   "seat": "Berwickshire, Roxburgh and Selkirk"
+  }
+ ],
+ "fetched": "2026-10-21T20:25:24Z"
+}

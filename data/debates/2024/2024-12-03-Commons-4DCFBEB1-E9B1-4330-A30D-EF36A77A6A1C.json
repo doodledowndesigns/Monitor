@@ -1,0 +1,602 @@
+{
+ "ext_id": "4DCFBEB1-E9B1-4330-A30D-EF36A77A6A1C",
+ "date": "2024-12-03",
+ "house": "Commons",
+ "section": "WestHall",
+ "title": "Home-to-School Transport: Children with SEND",
+ "parents": [
+  "Westminster Hall"
+ ],
+ "location": "Westminster Hall",
+ "url": "https://hansard.parliament.uk/Commons/2024-12-03/debates/4DCFBEB1-E9B1-4330-A30D-EF36A77A6A1C/HomeToSchoolTransportChildrenWithSend",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Sir Mark Hendrick",
+   "role": "Chair",
+   "member_id": 473
+  },
+  {
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock",
+   "member_id": 5056
+  },
+  {
+   "name": "Melanie Onn",
+   "party": "Lab",
+   "seat": "Great Grimsby and Cleethorpes",
+   "member_id": 4464
+  },
+  {
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell",
+   "member_id": 5165
+  },
+  {
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale",
+   "member_id": 1591
+  },
+  {
+   "name": "Calum Miller",
+   "party": "LD",
+   "seat": "Bicester and Woodstock",
+   "member_id": 5346
+  },
+  {
+   "name": "Shockat Adam",
+   "party": "Ind",
+   "seat": "Leicester South",
+   "member_id": 5120
+  },
+  {
+   "name": "Jo Platt",
+   "party": "Lab/Co-op",
+   "seat": "Leigh and Atherton",
+   "member_id": 4673
+  },
+  {
+   "name": "Tom Gordon",
+   "party": "LD",
+   "seat": "Harrogate and Knaresborough",
+   "member_id": 5032
+  },
+  {
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen",
+   "member_id": 5270
+  },
+  {
+   "name": "Alistair Strathern",
+   "party": "Lab",
+   "seat": "Hitchin",
+   "member_id": 5000
+  },
+  {
+   "name": "Clive Jones",
+   "party": "LD",
+   "seat": "Wokingham",
+   "member_id": 5207
+  },
+  {
+   "name": "Paulette Hamilton",
+   "party": "Lab",
+   "seat": "Birmingham Erdington",
+   "member_id": 4938
+  },
+  {
+   "name": "Monica Harding",
+   "party": "LD",
+   "seat": "Esher and Walton",
+   "member_id": 5299
+  },
+  {
+   "name": "Daniel Francis",
+   "party": "Lab",
+   "seat": "Bexleyheath and Crayford",
+   "member_id": 5184
+  },
+  {
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon",
+   "member_id": 5122
+  },
+  {
+   "name": "Jonathan Davies",
+   "party": "Lab",
+   "seat": "Mid Derbyshire",
+   "member_id": 5256
+  },
+  {
+   "name": "Iqbal Mohamed",
+   "party": "Ind",
+   "seat": "Dewsbury and Batley",
+   "member_id": 5268
+  },
+  {
+   "name": "Jodie Gosling",
+   "party": "Lab",
+   "seat": "Nuneaton",
+   "member_id": 5036
+  },
+  {
+   "name": "Laura Kyrke-Smith",
+   "party": "Lab",
+   "seat": "Aylesbury",
+   "member_id": 5341
+  },
+  {
+   "name": "Anna Gelderd",
+   "party": "Lab",
+   "seat": "South East Cornwall",
+   "member_id": 5353
+  },
+  {
+   "name": "Anna Dixon",
+   "party": "Lab",
+   "seat": "Shipley",
+   "member_id": 5281
+  },
+  {
+   "name": "Josh Fenton-Glynn",
+   "party": "Lab",
+   "seat": "Calder Valley",
+   "member_id": 5295
+  },
+  {
+   "name": "Ben Coleman",
+   "party": "Lab",
+   "seat": "Chelsea and Fulham",
+   "member_id": 5344
+  },
+  {
+   "name": "Danny Beales",
+   "party": "Lab",
+   "seat": "Uxbridge and South Ruislip",
+   "member_id": 5339
+  },
+  {
+   "name": "John Whitby",
+   "party": "Lab",
+   "seat": "Derbyshire Dales",
+   "member_id": 5342
+  },
+  {
+   "name": "Rachel Taylor",
+   "party": "Lab",
+   "seat": "North Warwickshire and Bedworth",
+   "member_id": 5065
+  },
+  {
+   "name": "Victoria Collins",
+   "party": "LD",
+   "seat": "Harpenden and Berkhamsted",
+   "member_id": 5201
+  },
+  {
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks",
+   "member_id": 4780
+  },
+  {
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards",
+   "member_id": 4125
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Sir Mark Hendrick (in the Chair)",
+   "member_id": 473,
+   "type": "Contribution",
+   "text": "I remind hon. Members that if they wish to speak, they need to bob during the debate. This is only a one-hour debate and hon. Members can see how many people are present; you do not need to be experts in maths to know that that there are lots. Except for the Front-Bench speakers, I will allow only one minute for the speech of each Member present. When those minutes have been exhausted such that there is sufficient time for only the Front Benchers to speak, obviously any speakers who have not been called will not be called. Members may be tempted to intervene, which will take time away from other speakers, so I ask that you resist the urge to intervene unless you absolutely must.",
+   "name": "Sir Mark Hendrick",
+   "role": "Chair"
+  },
+  {
+   "who": "Jen Craft (Thurrock) (Lab)",
+   "member_id": 5056,
+   "type": "Contribution",
+   "text": "I beg to move, That this House has considered the statutory framework for home-to-school transport for children with SEND. It is a great pleasure to serve under your chairmanship, Sir Mark. I am delighted to have secured this debate on 3 December, which is the International Day of Persons with Disabilities. I am pleased to see a number of hon. Members present to speak, which truly reflects the importance of the issue. Disabled children enter the education system with the odds stacked against them. The damage and chaos wrought by 14 years of underfunding and understaffing have left a broken special educational needs and disabilities system. Parents have to fight for the entitlements of their child at every step of the way, simply to ensure that they are given the same life chances as other children. As the parent of a disabled child, I have experienced that at first hand. We know how vital each stage of the journey through education is for a disabled child. The importance of early intervention cannot be disputed, as it provides crucial support to their development and improves long-term outcomes. Similarly, the transition to adulthood is a key stage of development when disabled youn",
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock"
+  },
+  {
+   "who": "Melanie Onn (Great Grimsby and Cleethorpes) (Lab)",
+   "member_id": 4464,
+   "type": "Contribution",
+   "text": "My hon. Friend is making some excellent comments. She refers to the transportation being free; for some families it is free, but for local authorities, as we all know, it absolutely is not. My local authority, North East Lincolnshire, spent £1.4 million last year alone on transporting 114 children out of area. It is unsustainable for local authorities. Does she agree that the answer is more specialist provision in area, and combined support in mainstream school for those children?",
+   "name": "Melanie Onn",
+   "party": "Lab",
+   "seat": "Great Grimsby and Cleethorpes"
+  },
+  {
+   "who": "Jen Craft",
+   "member_id": 5056,
+   "type": "Contribution",
+   "text": "My hon. Friend makes a good point. The long-term goal must be better inclusion for disabled children in mainstream education—I would have loved to send my child to the outstanding school up the road, but it did not really want us. This is not a choice that parents want to make, and inclusion is the ultimate, long-term solution. However, disabled children should not be penalised for the financial burdens under which councils find themselves. The transport arrangements that are provided are often unsuitable, such as a bus pass for a vulnerable young person. Parents are asked to make financial contributions or are provided with travel allowances that barely cover the costs. It is hard to overstate the impact that the yearly lottery for school transport can have on disabled children. It disrupts their education, places stress and anxiety on them and their families, reduces their independence, and asks their parents to carry financial costs. I heard from one mother whose 18-year-old daughter attends a school offering specialist provision. This year, just 24 hours before her daughter was due to start her college course, she was told she would be charged a contribution for her daughter’s ",
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock"
+  },
+  {
+   "who": "Peter Swallow (Bracknell) (Lab)",
+   "member_id": 5165,
+   "type": "Contribution",
+   "text": "I congratulate my hon. Friend on securing this debate. Does she agree that in too many cases the SEND families most in need of support find they are not given it? For many families, it is therefore a question of whether they can afford to support their children. In this country, in 2024, we must end that barrier to opportunity.",
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell"
+  },
+  {
+   "who": "Jen Craft",
+   "member_id": 5056,
+   "type": "Contribution",
+   "text": "My hon. Friend makes an excellent point. It is unacceptable that disabled families are faced with choices about their children’s education that parents of children who are not disabled are not. During the election campaign, I spoke to another woman, Julia, and had the pleasure of meeting her 18-year-old son Oscar, who has cerebral palsy, which affects his right side, and epilepsy. For 10 years, he had received free home-to-school transport, but now his parents have to make the case every year for why he should continue to receive that support to reach his sixth form. Thanks to the new costs, his mum has had to withdraw Oscar from one of his sessions at his weekend care provision, because she cannot afford both. Despite the new charges, there is still no guarantee that their application will be approved. She said that life is hard enough without this discrimination and pressure. Another mother, in Thurrock, told me about her ongoing fight to secure transport for her daughter. Twice her daughter was refused passenger transport to the education setting she attended and twice the family successfully appealed. That mother said: “As parents to children with SEND we have to fight for ever",
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock"
+  },
+  {
+   "who": "Tim Farron (Westmorland and Lonsdale) (LD)",
+   "member_id": 1591,
+   "type": "Contribution",
+   "text": "Does the hon. Member acknowledge that lots of local authorities, and indeed lots of schools, seek to do the right thing? Councils in Cumbria have more than doubled their spending on SEND transport in the last five years, but is it not the worst thing about it, from a local authority perspective, that councils and schools that do the right thing get penalised? Is it not right that we instead support all local authorities and schools to support special educational needs children without disadvantaging them or their families?",
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale"
+  },
+  {
+   "who": "Jen Craft",
+   "member_id": 5056,
+   "type": "Contribution",
+   "text": "As I have said previously, the important thing is to see a long-term goal where disabled children are truly able to receive a mainstream, inclusive education, so that we get out of this cycle of families having to pay to transport their children miles and miles from where they live.",
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock"
+  },
+  {
+   "who": "Sir Mark Hendrick (in the Chair)",
+   "member_id": 473,
+   "type": "Contribution",
+   "text": "May I just say that the Member who is speaking is not obliged to take interventions? It does take time away from those who have put in to speak.",
+   "name": "Sir Mark Hendrick",
+   "role": "Chair"
+  },
+  {
+   "who": "Jen Craft",
+   "member_id": 5056,
+   "type": "Contribution",
+   "text": "I will make some headway. The requirement for free transport returns for 19 to 25-year-olds with complex needs and an education, health and care plan, to support those who need longer in education or training to achieve their outcomes. The guidance itself says: “It is critical that, from year 9 at the latest, local authorities help young people start planning for a successful transition to adulthood.” Given the importance of this transition, why does the statutory obligation for free transport fall between the ages of 16 to 19? We cannot ignore the rising costs that councils face in carrying out their duty to provide free home-to-school transport. However, those costs are not the fault of disabled children. It is not a choice by families to send their disabled child or young person to a school far from home; it is a necessity, and the only way to receive the specialist provision that meets their needs.",
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock"
+  },
+  {
+   "who": "Calum Miller (Bicester and Woodstock) (LD)",
+   "member_id": 5346,
+   "type": "Contribution",
+   "text": "Will the hon. Lady give way on that point?",
+   "name": "Calum Miller",
+   "party": "LD",
+   "seat": "Bicester and Woodstock"
+  },
+  {
+   "who": "Jen Craft",
+   "member_id": 5056,
+   "type": "Contribution",
+   "text": "I would just like to make a little more progress. When I think about my child’s journey through education, I do not see it in stages. The journey for my daughter and for every disabled child is a lifelong one. We need a statutory framework that reflects that and that provides stability, security and reassurance for disabled children throughout their development and for their families. In the context of the Government’s mission to break down barriers to opportunity for every child, the situation with home-to-school transport is damaging the life chances of disabled pupils. I encourage the Minister to consider a framework that ends the current anomalies in the system, so that local authorities have a legal obligation to ensure that no child is denied an education that will allow them to get on in life. I look forward to hearing the Minister’s comments about the existing framework, and the contributions of other Members, as we seek to develop a system that ensures that the needs of every child are met.",
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock"
+  },
+  {
+   "who": "Sir Mark Hendrick (in the Chair)",
+   "member_id": 473,
+   "type": "Contribution",
+   "text": "As I said earlier, you will get only a minute each. I encourage people not to intervene, as it will mean that we have to cut down on the total number of speakers. I call Shockat Adam.",
+   "name": "Sir Mark Hendrick",
+   "role": "Chair"
+  },
+  {
+   "who": "Shockat Adam (Leicester South) (Ind)",
+   "member_id": 5120,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for Thurrock (Jen Craft) for securing this vital debate on a subject that is of concern to many of my constituents. Education is a fundamental right for every child and should not be treated as a favour or privilege. We are witnessing at first hand how the lack of adequate travel provision can prevent children from accessing education. The consequences of not providing proper travel services extend far beyond the immediate inconvenience to parents. Without transport, children will remain at home, where they are not engaged in education or employment. The social cost of that is immense. Parents will be forced to reduce their working hours or even give to up their jobs. We must ask ourselves whether that is the kind of future we want to create for our children and communities. Travel arrangements for these children are about more than just convenience; they are about ensuring they can get to school safely and on time. Furthermore, we must ask ourselves about the reality of SEND children travelling for about two hours daily. As the hon. Member for Great Grimsby and Cleethorpes (Melanie Onn) mentioned, cost is not the issue; it is the fact that no provision is a",
+   "name": "Shockat Adam",
+   "party": "Ind",
+   "seat": "Leicester South"
+  },
+  {
+   "who": "Sir Mark Hendrick (in the Chair)",
+   "member_id": 473,
+   "type": "Contribution",
+   "text": "Order. I call Jo Platt.",
+   "name": "Sir Mark Hendrick",
+   "role": "Chair"
+  },
+  {
+   "who": "Jo Platt (Leigh and Atherton) (Lab/Co-op)",
+   "member_id": 4673,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for Thurrock (Jen Craft) for raising this important issue, and I briefly want to mention my local authority. Since 2017, the number of children and young people requiring SEND transport has surged by more than 80% in Wigan, while the costs have exploded by 103%. To put that into perspective, this year alone the council is facing a £2 million overspend against a £5.53 million budget. Over the past five academic years, demand for SEND transport has skyrocketed, and it is on an unsustainable trajectory that cannot be ignored. As my hon. Friend the Member for Thurrock rightly pointed out, the statutory framework is no longer fit for purpose. This issue extends far beyond any one council or region; the pressures we see are a national concern. Local authorities that are already stretched thin are facing mounting financial strain. If we do not act soon, we risk eroding the very support that children with SEND rely on to access their education.",
+   "name": "Jo Platt",
+   "party": "Lab/Co-op",
+   "seat": "Leigh and Atherton"
+  },
+  {
+   "who": "Tom Gordon (Harrogate and Knaresborough) (LD)",
+   "member_id": 5032,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for Thurrock (Jen Craft) for bringing forward this debate. I want to make a point—I will try to keep it brief—about the inconsistency in the implementation of the framework. That inconsistency is exacerbated in rural areas such as North Yorkshire, where my constituency is. We have had horror stories of children in taxis for up to two hours a day. That has a massive impact on their ability to learn when they make their way to school. Another problem comes from changes to the council’s policy on home-to-school transport and its inability to finance it. It is projecting a spend of £27 million on SEND transport next year. Despite the rural complexities of the North Yorkshire council area, it is only 148th out of 151 local authorities for high needs funding per head of population. Although the framework is important, there needs to be an understanding of rurality, and the funding to go with it.",
+   "name": "Tom Gordon",
+   "party": "LD",
+   "seat": "Harrogate and Knaresborough"
+  },
+  {
+   "who": "Darren Paffey (Southampton Itchen) (Lab)",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "I congratulate my hon. Friend the Member for Thurrock (Jen Craft) on securing this important and oversubscribed debate. Southampton, like many other local authorities, is struggling with the cost of meeting the need. Meeting that need is most important, but costs have trebled in the past few years and council resources are put under immense strain. I welcome the Education Secretary’s commitment to a whole-system review, with travel a crucial part of that. The Chancellor’s recent investments will have relieved some of the pressure. I would be interested in the Minister’s response on whether the Department for Transport and the Department for Education could speak together and require bus companies to work with local authorities to look at route planning and making public transport more accessible for those for whom independent travel is a possibility. This is about breaking down barriers to opportunity for SEND children; they have to be in school to open those barriers and so that we can meet their needs.",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Calum Miller (Bicester and Woodstock) (LD)",
+   "member_id": 5346,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for Thurrock (Jen Craft) for securing this debate. I will focus on the length of time that young people with SEND often spend travelling to their special settings. This weekend, a mother attended my surgery to speak of her son, who was initially offered a taxi ride taking 45 minutes to his special school outside the county. Another child was added to the journey, taking the journey time to one hour and 15 minutes. A third child has now been added, so that boy, who has special needs and struggles with travelling with other children, is now travelling an hour and 45 minutes in each direction for school. Oxfordshire is not unlike other counties, and my constituents in Bicester and Woodstock often have to send their children outside the county for education. I hope the Government will consider more capital funding for local education authorities so that they can provide more special schools in better settings. I also ask the Minister to consider a commitment that no special educational needs child should have to travel for more than 30 minutes to reach their school each day.",
+   "name": "Calum Miller",
+   "party": "LD",
+   "seat": "Bicester and Woodstock"
+  },
+  {
+   "who": "Alistair Strathern (Hitchin) (Lab)",
+   "member_id": 5000,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for Thurrock (Jen Craft) for securing this debate and for her tireless work campaigning of this issue. It is really encouraging to be joined by so many colleagues from across the House to speak about issues relating to SEND. I rise to highlight some of the shocking stories that families locally have shared with me about the challenges and pressures that special educational needs and home-to-school transport are causing for them in their day-to-day lives. It cannot be right that so many are not getting the support they need, whether they sit in or outside the statutory framework, as my hon. Friend the Member for Thurrock highlighted. In Central Bedfordshire and Hertfordshire, the rural context has been exacerbated by both authorities’ failure to appropriately place-plan at a local level. That has created difficult choices for the authorities and heartbreaking realities for families and young people, who are travelling too far at too great a cost to access the schools they need. Some are being shut out of the transport support that they need due to their age. I welcome this debate and the possible reforms to the statutory framework. I look forward to",
+   "name": "Alistair Strathern",
+   "party": "Lab",
+   "seat": "Hitchin"
+  },
+  {
+   "who": "Clive Jones (Wokingham) (LD)",
+   "member_id": 5207,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Sir Mark. I thank the hon. Member for Thurrock (Jen Craft) for securing this debate. Wokingham borough council had previously been promised two SEND free schools, yet both are waiting for approval to proceed. I would therefore be grateful if the Minister could do some digging into when the schools will be delivered, and write to me and the council, updating us on progress. I had prepared more detailed remarks. However, I ask the Minister if she will meet me, the local executive member for children’s services and the director of children’s services at Wokingham borough council to discuss the situation, and to help us understand the Government’s plans for reform and what we can do to deliver the most for our SEND children.",
+   "name": "Clive Jones",
+   "party": "LD",
+   "seat": "Wokingham"
+  },
+  {
+   "who": "Paulette Hamilton (Birmingham Erdington) (Lab)",
+   "member_id": 4938,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for Thurrock (Jen Craft) for securing this important debate. Many parents and children in my constituency are deeply frustrated because of the cuts we have seen to school transport. The situation has gone from cuts to the over-16s now getting nothing. One mother said to me that her son, a boy with Down’s syndrome, was actually forced to stay at home because he could no longer get the support he needed for transport. Transport should never be a barrier to education. I welcome the Government’s pledge of a £1 billion investment, but I ask that the funding is delivered swiftly and effectively to address the urgent needs of families and those in the community. Those families deserve the dignity, support and access to education that every child has a right to.",
+   "name": "Paulette Hamilton",
+   "party": "Lab",
+   "seat": "Birmingham Erdington"
+  },
+  {
+   "who": "Monica Harding (Esher and Walton) (LD)",
+   "member_id": 5299,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Sir Mark, and I thank the hon. Member for Thurrock (Jen Craft) for securing the debate. I will give some colour on what is happening in Surrey and my constituency of Esher and Walton. My constituent Polly is 16 years old, and because of her SEND she is unable to travel unaccompanied —something that is not disputed by the council. Until the end of last term she received travel, but now she has a place at a special needs sixth form and has been denied assistance. Her parents appealed the decision and were denied again. When it rejected the appeal, Surrey’s stage 2 panel made a financial argument, asserting that it would not be sustainable for the council to provide travel assistance on account of Polly’s parents’ work commitments. Both her parents work full time at Royal Surrey County hospital. In determining what is necessary for a child, the council takes account of their special educational needs but not their parents’ or carers’ work. The current statutory framework leads to absurd economisation under which the jobs of two NHS workers cannot be considered in the allocation of a child’s transport assistance, so the choice is there",
+   "name": "Monica Harding",
+   "party": "LD",
+   "seat": "Esher and Walton"
+  },
+  {
+   "who": "Daniel Francis (Bexleyheath and Crayford) (Lab)",
+   "member_id": 5184,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Sir Mark. My constituent Jessica has raised the case of her son. The London borough of Bexley introduced a charging policy for post-16 children in 2018. Although her son has not changed schools, they now have to pay £400 towards transport to reach his school in the London borough of Bromley, despite the fact that he is on the highest mobility component rate for personal independence payment and Jessica receives universal credit. Bromley children in the same class do not have to pay that charge and contribution. With the current system, there has been a crisis in school transport. My own local authority had seven local government ombudsman cases against it in 2017, and a further report found failings because the local authority did not remedy those cases. Because of those failings, we have situations such as the one that Jessica has raised, where she or her son must contribute £400 towards transport, and yet children in the same class with identical circumstances do not have to contribute because they live in a different London borough. The system therefore does need some reform.",
+   "name": "Daniel Francis",
+   "party": "Lab",
+   "seat": "Bexleyheath and Crayford"
+  },
+  {
+   "who": "Manuela Perteghella (Stratford-on-Avon) (LD)",
+   "member_id": 5122,
+   "type": "Contribution",
+   "text": "Thank you, Sir Mark. It is a pleasure to share under your chairship, and I thank the hon. Member for Thurrock (Jen Craft) for securing this important debate. In Stratford-on-Avon, the current system of SEND home-to-school transport is failing families. Many children were left without home-to-school transport at the beginning of the academic year, meaning that children’s educational needs were not met at a crucial time. Many children are placed in schools outside the county because there simply is not enough suitable provision locally. That has created a complex network of transport issues. We need to ensure and resource sufficient local SEND provision within mainstream education. That must be a priority if we are to create a fairer, more efficient and sustainable system that supports every child’s right to education.",
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon"
+  },
+  {
+   "who": "Jonathan Davies (Mid Derbyshire) (Lab)",
+   "member_id": 5256,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Sir Mark, and I thank the hon. Member for Thurrock for securing this debate. SEND, and the transport around it, is a massive issue in Derbyshire. A recent Ofsted report found appalling failings in the system—something that, for a very long time, parents could have told us anecdotally. I suggest that there are two things the council needs to do. First, we need better integration between the council, the public transport providers, the integrated care boards and the schools. Secondly, we need more early planning so that transport can be managed at the earliest possible stage. That will save the council money and be better for children and young people. The Government made a big investment in this area at the recent Budget. We made some tough choices to do that, but it is the right thing to do. There is £1 billion for SEND, three-year funding settlements for local authorities and further investment in councils. I urge the council to use that investment to give it the time to get this right, because it is local children and young people, and their parents, who are suffering.",
+   "name": "Jonathan Davies",
+   "party": "Lab",
+   "seat": "Mid Derbyshire"
+  },
+  {
+   "who": "Iqbal Mohamed (Dewsbury and Batley) (Ind)",
+   "member_id": 5268,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Sir Mark, and I thank the hon. Member for Thurrock for securing this important debate. In my constituency of Dewsbury and Batley, more than 300 pupils of sixth-form age with SEND are eligible to have their costs covered by the local authority. Unfortunately, council budget to cover their costs has just been slashed by £1.6 million. The result is that families will have to cover the shortfall themselves. That picture is repeated up and down the country because, as the National Audit Office warns, the current system of funding is unsustainable as a result of the crisis in local government funding. The situation will only get worse when we consider that the number of children in England with an EHCP has more than doubled over the past decade, and we can expect it to continue to rise. I welcome plans to improve existing provision and build a more integrated system that includes the NHS, but we also need the funding streams to ensure that SEND children from all socioeconomic backgrounds can access improved services. If the Government listened to the teaching unions, local authorities and families who are calling for extra SEND funding, ",
+   "name": "Iqbal Mohamed",
+   "party": "Ind",
+   "seat": "Dewsbury and Batley"
+  },
+  {
+   "who": "Jodie Gosling (Nuneaton) (Lab)",
+   "member_id": 5036,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Sir Mark. I thank my hon. Friend the Member for Thurrock (Jen Craft) for calling this important debate— [ Interruption. ] Hopefully I can manage to get through my speech. I approach this issue from the point of view of a special educational needs co-ordinator. I have been an early years special needs supporter for a number of years, and I understand just how difficult it is under the current provisions to get an EHCP for a child under five. After we manage to secure one, we then have to go from nursery to school applications. If we finally manage to secure a good provision for a child, often we cannot secure the transport arrangements or the child cannot secure a chaperone. As we are extending our childcare and early years education offer to children as young as two years old, we have to consider their transport and SEND needs. These children, who have reached the threshold for an education, health and care plan so young, are the most vulnerable, and they desperately need to be able to access the best support from the start. We need a strategy to deliver that support locally, and where we cannot, we must ensure that children have a",
+   "name": "Jodie Gosling",
+   "party": "Lab",
+   "seat": "Nuneaton"
+  },
+  {
+   "who": "Laura Kyrke-Smith (Aylesbury) (Lab)",
+   "member_id": 5341,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Sir Mark. I will highlight three suggestions that I have heard from my constituents in Aylesbury. First, information about home-to-school transport should be provided to parents in a timely and accurate way. I have heard about so many parents finally securing that school place and then falling at the final hurdle of not being given transport. Councils have to change that. Secondly, Buckinghamshire council is moving towards personal transport budgets, but £20 per day does not come close. I have heard about one case with an £84 return taxi fare to get the child to school. Councils need to allocate sufficient funding. Thirdly, councils must ensure that the transport that is provided is both safe and reliable. Unfortunately, I have heard of instances where that is not the case. Those transport providers need much tighter regulation. No one wants to send their child to school many miles away, but the broken SEND system necessitates it, and that has to change.",
+   "name": "Laura Kyrke-Smith",
+   "party": "Lab",
+   "seat": "Aylesbury"
+  },
+  {
+   "who": "Anna Gelderd (South East Cornwall) (Lab)",
+   "member_id": 5353,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Sir Mark. I thank my hon. Friend the Member for Thurrock (Jen Craft) for securing this crucial debate. Home-to-school transport for SEND children requires our urgent attention, and that is why I am planning to create a network in South East Cornwall dedicated to supporting families, parents and carers. South East Cornwall is a rural area with a challenging transport network, and difficulties arise because of longer distances to schools, a lack of good-quality local public transport and increased costs. I pay tribute to the staff at specialist provisions in South East Cornwall, such as Burraton school and Liskeard school and community college. I also want to highlight local organisations such as Cornwall’s SEND Information, Advice and Support Service and the Core, which provide vital support for families navigating these challenges. However, these groups cannot, and should not, be expected to fill gaps. The statutory framework for home-to-school travel must better account for the unique barriers in rural areas such as mine. Assumptions are often made about transport infrastructure levels, but the reality is that some of that infrast",
+   "name": "Anna Gelderd",
+   "party": "Lab",
+   "seat": "South East Cornwall"
+  },
+  {
+   "who": "Anna Dixon (Shipley) (Lab)",
+   "member_id": 5281,
+   "type": "Contribution",
+   "text": "It is an honour to speak under your chairmanship, Sir Mark, and I thank my hon. Friend the Member for Thurrock (Jen Craft) for securing this debate. As a member of the Public Accounts Committee, I have had to scrutinise the National Audit Office’s report on SEND. According to that report, local authorities spent some £1.4 billion on home-to-school transport in 2022-23—an 80% real-terms increase since 2015-16. I am delighted that this Government have brought forward an additional £1 billion in the recent Budget for SEND funding, which will go some way to covering the high costs faced by local authorities, but we know that we need to change the provision. In Bradford, the council’s travel assistance service spends £54,000 per day on home-to-school taxis alone. Those numbers are eye-watering. Only through prioritising SEND support in our mainstream local schools will we alleviate those financial pressures on local authorities, and I welcome the priority that the Government have given to that. The main point that has been made in this debate is that it would help all the many families in this situation if their children were in local schools. That would not only reduce expensive transp",
+   "name": "Anna Dixon",
+   "party": "Lab",
+   "seat": "Shipley"
+  },
+  {
+   "who": "Josh Fenton-Glynn (Calder Valley) (Lab)",
+   "member_id": 5295,
+   "type": "Contribution",
+   "text": "It is an honour to serve under your chairmanship, Sir Mark. I thank my hon. Friend the Member for Thurrock (Jen Craft) for securing this debate. While she has personal and constituency experience, this issue is a national crisis for people with SEND. That is due in no small part to the huge rise in the number of people with EHCPs over the last few years. In 2018-19 in Calderdale, where Calder Valley sits, 1,068 children had EHCPs. In the last year, 1,761 children did. That is the start of this problem. We then have the transport plans, which are put together at the last minute. That means that we end up with September stress for SEND parents, who are trying to create a stable school environment for their kids but who find out only at the last minute when they are coming in. On that point, I pay tribute to all SEND parents, who work an extra job in looking after their children, and to some of the charities that do brilliant work in supporting them, including Unique Ways in Calder Valley, which is a fantastic charity. I recently heard a particularly distressing story about SEND provision in Calder Valley. Two children had their epilepsy triggered by stress, and their parents and teac",
+   "name": "Josh Fenton-Glynn",
+   "party": "Lab",
+   "seat": "Calder Valley"
+  },
+  {
+   "who": "Ben Coleman (Chelsea and Fulham) (Lab)",
+   "member_id": 5344,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for Thurrock (Jen Craft) for securing this debate. It is fantastic to see so many hon. Members and hon. Friends sticking up for disabled children and young people and their families. That reflects the focus that we have had on SEND in this new Parliament. According to Contact, a charity for families with disabled children aged 25 or under, 79% of disabled young people are being denied or charged for school transport when they turn 16. One in 10 of them pays more than £1,000 a year, and nearly half of families experience increased stress and financial difficulties. Although I am pleased that in Fulham, which is part of my constituency, the Labour council has chosen not to charge for transport and to maintain free educational transport for disabled children and young people up to the age of 25, I recognise from all that I have heard today and all that I know that that is far from being the case elsewhere. We need to end that unfairness and change the statutory framework, and we need to make free educational transport available to all up to the age of 25. Finally, I encourage those who want to know more about the significant additional costs of caring",
+   "name": "Ben Coleman",
+   "party": "Lab",
+   "seat": "Chelsea and Fulham"
+  },
+  {
+   "who": "Danny Beales (Uxbridge and South Ruislip) (Lab)",
+   "member_id": 5339,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for Thurrock (Jen Craft) for securing such an important debate. In my casework, I have been inundated with issues around special educational needs, and transport is a major factor. I will make two quick observations that I hope the Minister will reflect on in any review of the framework. First, the nature of families today often does not reflect the assumptions of previous years. I have had cases where parents who co-parent and share equal custody across different boroughs are caught up in arguments between the two boroughs about who is the lead parent. The parents simply say, “We share custody 50:50, so we need mechanisms to overcome that barrier.” Secondly, increasing numbers of families are in temporary accommodation outside their traditional borough, and they find it very hard to get continuity in school transport for their children. They still want them to go to their hard-fought-for special educational needs school, but that would require changes in transport, and authorities are slow to make them. I hope that the framework will reflect the increasing numbers of families who are, unfortunately, homeless and in temporary accommodation.",
+   "name": "Danny Beales",
+   "party": "Lab",
+   "seat": "Uxbridge and South Ruislip"
+  },
+  {
+   "who": "John Whitby (Derbyshire Dales) (Lab)",
+   "member_id": 5342,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for Thurrock (Jen Craft) for securing this debate. Home-to-school transport is particularly important for young people living in rural areas such as Derbyshire Dales, with the average pupil in rural areas having to travel 10 miles each way to school, and one in 10 pupils in a special school needing to travel over 23 miles each way. These distances mean that, without home-to-school transport, it is often impossible for young people in rural areas to access education. For example, my constituent, who has autism spectrum disorder, attention deficit hyperactivity disorder, dyslexia and obsessive compulsive disorder, was denied home-to-school transport and was expected to take an almost three-hour bus journey just to get to school. The burden that the current post-16 system places on the time and finances of families is significant, as is the impact on a young person who is not in school.",
+   "name": "John Whitby",
+   "party": "Lab",
+   "seat": "Derbyshire Dales"
+  },
+  {
+   "who": "Rachel Taylor (North Warwickshire and Bedworth) (Lab)",
+   "member_id": 5065,
+   "type": "Contribution",
+   "text": "It is a pleasure to continue to serve under your chairmanship, Sir Mark, and I thank my hon. Friend the Member for Thurrock (Jen Craft) for securing this important debate. We must consider the reliability of transport for SEND pupils. I had casework at the beginning of term involving parents waiting for transport to turn up that never came. Teachers did not know what was happening, and the parents could not get hold of the helpline because it was closed. During those first few days, it is crucial for students to feel settled in. It is great to see other colleagues from my county of Warwickshire here; I am sure that they also experienced those problems in September. My constituency is semi-rural. It is made up of towns and villages, and it can take an hour to drive across it. It is difficult for county councils in constituencies such as mine, where pupils are often closer to schools outside the county. Different parts of my constituency border Leicestershire, Staffordshire, Birmingham, Coventry and Solihull. The problem is that the county council may allocate not the school that is nearest to pupils in terms of travel time, but the school that is nearest in Warwickshire. That means ",
+   "name": "Rachel Taylor",
+   "party": "Lab",
+   "seat": "North Warwickshire and Bedworth"
+  },
+  {
+   "who": "Sir Mark Hendrick (in the Chair)",
+   "member_id": 473,
+   "type": "Contribution",
+   "text": "I thank all Back Benchers for being very good with their timekeeping. We now move to the Front-Bench speakers.",
+   "name": "Sir Mark Hendrick",
+   "role": "Chair"
+  },
+  {
+   "who": "Victoria Collins (Harpenden and Berkhamsted) (LD)",
+   "member_id": 5201,
+   "type": "Contribution",
+   "text": "It is an honour to serve under your chairmanship, Sir Mark, and I congratulate the hon. Member for Thurrock (Jen Craft) on securing this debate. Every child, no matter their background, can achieve great things, but sadly there is currently a postcode lottery for SEND provision, which means that a lot of our children are being left behind. The previous Conservative Government failed children with SEND by not planning effectively for the increased demand for SEND school places. One parent from my constituency wrote: “Please, please help. This is unbelievable. I just can’t cope anymore. It’s looking like you are giving us no choice but to go to tribunal just to get him a school.” As has been mentioned, this is about a fundamental right to education. The need is rising and the crisis is growing. Ultimately, that means that more children need to have more specific transport. The number of students on EHCPs has doubled from 105,000 eight years ago to 230,000 in 2023. In Hertfordshire, EHCP numbers are expected to continue to grow. The number of children and young people with EHCPs has grown by 223% in Hertfordshire alone. One of my constituents, Charlotte, is a parent to three children,",
+   "name": "Victoria Collins",
+   "party": "LD",
+   "seat": "Harpenden and Berkhamsted"
+  },
+  {
+   "who": "Laura Trott (Sevenoaks) (Con)",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "It is pleasure to serve under your chairmanship, Sir Mark. I congratulate the hon. Member for Thurrock (Jen Craft) on securing this important debate and on her very good speech. This subject impacts families up and down the country every day, and I am glad that we have been able to debate it. We have heard about the need for local provision, more specialist schools and a well-funded system, with access to education a common theme. As Members have acknowledged, under the Education Act 1996, local authorities are under a duty to provide free school transport to eligible children. That was intended to mean that no child is prevented from accessing education due to a lack of transportation, a view that I believe is shared by everybody here today. However, demand is growing, and as the hon. Members for Leigh and Atherton (Jo Platt) and for Southampton Itchen (Darren Paffey) identified, the ballooning numbers really are a problem. I will run through the numbers, as they set out the problem we face. Nationally, council spending on SEND transport increased from £728 million in 2019 to £1.4 billion in 2024. It is projected to reach £2.2 billion by 2027-28, an increase of 57%. The average co",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Anna Dixon",
+   "member_id": 5281,
+   "type": "Contribution",
+   "text": "Will the right hon. Lady give way?",
+   "name": "Anna Dixon",
+   "party": "Lab",
+   "seat": "Shipley"
+  },
+  {
+   "who": "Laura Trott",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "I want to make sure that there is time for a wrap-up, and we are quite close to the end of the debate, so I will continue, if the hon. Lady does not mind. Is the Secretary of State pushing the Chancellor to extend that protection or for deficits to be written off? How are the Government supporting local authorities to explore innovative solutions, such as shared transport services or alternative models, to help to manage rising SEND transport costs more effectively? Can the Minister also update us on what the total cost will be to local government of the national insurance contributions increase announced in the Budget? What is the cost of the national insurance increase specifically for home-to-school transport? Will local authorities be fully compensated for those costs? The hon. Member for Bicester and Woodstock (Calum Miller) mentioned the need for capital funding. Many Members here will remember the 15 specialist schools pledged in the last Conservative Budget. Can the Minister confirm that those will be going ahead? I am conscious of the time, so this will be my final word. I pledge that we will be a constructive Opposition. I think everyone here today will be clear that we s",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "The Minister for School Standards (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I congratulate my hon. Friend the Member for Thurrock (Jen Craft) on securing this incredibly important debate—its importance clearly marked by the number of contributions. I know how passionate my hon. Friend is about the need to secure the right support for children with special educational needs and disabilities. Indeed, she and I made a wonderful joint visit in her constituency to a fantastic school that demonstrates what brilliant education delivered inclusively for the whole community can look like. I know she works really hard in her area to make sure that that is available to as many children as possible. That is a vision that the Government very much share with her, because as a Government we are absolutely committed to creating opportunities for all children so that they can achieve and thrive. I think we all agree that no child should struggle to get to school because of lack of transport. The testimonies that we have heard show the remarkable job that hon. Members have all done in putting forward so powerfully the voices of their constituents in only a minute. To be able to accommodate 30, or just under 30, speakers in a debate of just an hour on this incredibly importa",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Anna Dixon",
+   "member_id": 5281,
+   "type": "Contribution",
+   "text": "Will the Minister give way?",
+   "name": "Anna Dixon",
+   "party": "Lab",
+   "seat": "Shipley"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I would like to, but I also want to respond on many of the issues that have been raised, so I apologise that I am not able to take an intervention. Many local authorities offer subsidised transport and there is also the 16 to 19 bursary, which is intended to provide support to young people in households with the lowest incomes. However, we know that for far too long far too many children have been let down by a special educational needs system that is not working. We are determined to fix it and to restore parents’ trust that their child will get the support to flourish and have their needs met within the education system. As hon. Members have said today, we urgently need to improve the inclusivity and expertise of our mainstream schools, so that as many children as possible can go to their local community school with their peers. In and of itself, that would reduce some of those transport pressures. However, we must also ensure that support is available for those children who have more complex needs and need special schools. Fixing the system will also help to fix the home-to-school travel challenges that we are seeing. Ensuring that children can be educated locally will reduce th",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Jen Craft",
+   "member_id": 5056,
+   "type": "Contribution",
+   "text": "I thank Members from across the House for their contributions this afternoon, particularly those from rural areas who highlighted the additional complexities of home-to-school travel there. I thank the Minister for her considered response. I recognise that the challenges to the SEND system are immense and will take a long time to put right. My concern is that, while the ultimate goal of moving inclusive, mainstream education closer to children where they need it is an honourable one and is clearly the direction that we should be travelling in, there are children who cannot access that right now. They cannot wait for a long-term shift in policy and approach; that would have a detrimental impact on the rest of their lives. The outcomes for children aged 16 to 19, if they do not access education or training, are well documented, which is why education or training is compulsory up to the age of 18. The only people who currently have to face a financial burden to meet their child’s need and make sure that they are accessing that compulsory education or training mandate, on a general, widespread basis, are parents of disabled children. That is something that needs to be looked at. I welc",
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock"
+  },
+  {
+   "who": "Sir Mark Hendrick (in the Chair)",
+   "member_id": 473,
+   "type": "Contribution",
+   "text": "I thank everybody for their indulgence in keeping their speeches short. We have had 33 speakers in this debate, which I think is the most that anybody has ever crammed into an hour; I hope that Guinness World Records is paying attention. Question put and agreed to. Resolved , That this House has considered the statutory framework for home-to-school transport for children with SEND.",
+   "name": "Sir Mark Hendrick",
+   "role": "Chair"
+  }
+ ],
+ "fetched": "2026-10-21T20:24:27Z"
+}

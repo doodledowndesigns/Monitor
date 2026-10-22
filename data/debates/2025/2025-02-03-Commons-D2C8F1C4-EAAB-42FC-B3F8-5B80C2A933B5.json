@@ -1,0 +1,837 @@
+{
+ "ext_id": "D2C8F1C4-EAAB-42FC-B3F8-5B80C2A933B5",
+ "date": "2025-02-03",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "School Accountability and Intervention",
+ "parents": [
+  "Commons Chamber"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2025-02-03/debates/D2C8F1C4-EAAB-42FC-B3F8-5B80C2A933B5/SchoolAccountabilityAndIntervention",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards",
+   "member_id": 4125
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 4048
+  },
+  {
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks",
+   "member_id": 4780
+  },
+  {
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood",
+   "member_id": 4510
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Rachael Maskell",
+   "party": "Lab/Co-op",
+   "seat": "York Central",
+   "member_id": 4471
+  },
+  {
+   "name": "Sir Edward Leigh",
+   "party": "Con",
+   "seat": "Gainsborough",
+   "member_id": 345
+  },
+  {
+   "name": "Alistair Strathern",
+   "party": "Lab",
+   "seat": "Hitchin",
+   "member_id": 5000
+  },
+  {
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire",
+   "member_id": 3969
+  },
+  {
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow",
+   "member_id": 5237
+  },
+  {
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon",
+   "member_id": 5216
+  },
+  {
+   "name": "Helena Dollimore",
+   "party": "Lab/Co-op",
+   "seat": "Hastings and Rye",
+   "member_id": 5192
+  },
+  {
+   "name": "Dr Caroline Johnson",
+   "party": "Con",
+   "seat": "Sleaford and North Hykeham",
+   "member_id": 4592
+  },
+  {
+   "name": "Shaun Davies",
+   "party": "Lab",
+   "seat": "Telford",
+   "member_id": 5041
+  },
+  {
+   "name": "Mr Joshua Reynolds",
+   "party": "LD",
+   "seat": "Maidenhead",
+   "member_id": 5343
+  },
+  {
+   "name": "Alice Macdonald",
+   "party": "Lab/Co-op",
+   "seat": "Norwich North",
+   "member_id": 5133
+  },
+  {
+   "name": "Dr Andrew Murrison",
+   "party": "Con",
+   "seat": "South West Wiltshire",
+   "member_id": 1466
+  },
+  {
+   "name": "Gurinder Singh Josan",
+   "party": "Lab",
+   "seat": "Smethwick",
+   "member_id": 5059
+  },
+  {
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole",
+   "member_id": 5327
+  },
+  {
+   "name": "Joe Morris",
+   "party": "Lab",
+   "seat": "Hexham",
+   "member_id": 5081
+  },
+  {
+   "name": "Sammy Wilson",
+   "party": "DUP",
+   "seat": "East Antrim",
+   "member_id": 1593
+  },
+  {
+   "name": "Yuan Yang",
+   "party": "Lab",
+   "seat": "Earley and Woodley",
+   "member_id": 5267
+  },
+  {
+   "name": "Monica Harding",
+   "party": "LD",
+   "seat": "Esher and Walton",
+   "member_id": 5299
+  },
+  {
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire",
+   "member_id": 5195
+  },
+  {
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford",
+   "member_id": 4131
+  },
+  {
+   "name": "Alex McIntyre",
+   "party": "Lab",
+   "seat": "Gloucester",
+   "member_id": 5349
+  },
+  {
+   "name": "Warinder Juss",
+   "party": "Lab",
+   "seat": "Wolverhampton West",
+   "member_id": 5230
+  },
+  {
+   "name": "Sarah Smith",
+   "party": "Lab",
+   "seat": "Hyndburn",
+   "member_id": 5117
+  },
+  {
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell",
+   "member_id": 5165
+  },
+  {
+   "name": "Josh Dean",
+   "party": "Lab",
+   "seat": "Hertford and Stortford",
+   "member_id": 5187
+  },
+  {
+   "name": "Sam Rushworth",
+   "party": "Lab",
+   "seat": "Bishop Auckland",
+   "member_id": 5108
+  },
+  {
+   "name": "Anneliese Midgley",
+   "party": "Lab",
+   "seat": "Knowsley",
+   "member_id": 5038
+  },
+  {
+   "name": "Mr Luke Charters",
+   "party": "Lab",
+   "seat": "York Outer",
+   "member_id": 5199
+  },
+  {
+   "name": "David Baines",
+   "party": "Lab",
+   "seat": "St Helens North",
+   "member_id": 5092
+  }
+ ],
+ "contributions": [
+  {
+   "who": "The Minister for School Standards (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "With permission, Mr Speaker, I will make a statement on this Government’s plans to reform school accountability. Before I begin, I want to say that I am devastated to hear that a boy has died after a stabbing at a school in Sheffield. My heart goes out to his family, friends and the entire school community at this very distressing time. We are in contact with the school and the council to offer support, and investigations are under way. Nothing is more important than the safety of our children. This Government are clear about the need to secure the very best education for our young people, and we are determined that our schools are reformed to deliver that ambition to enable every child to achieve and thrive. That reform begins at the very start of a child’s journey, with an early years system that sets up our children for the best start in life. That means brilliant schools, with excellent, qualified staff, driving high and rising standards in all parts of our country. It reflects our determination to ensure that we break, in the generations ahead, the unfair link between background and opportunity. Like so many in this House, I know the value of a brilliant school because I went ",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I call the shadow Secretary of State.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Laura Trott (Sevenoaks) (Con)",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "I am grateful to the Schools Minister for advance sight of her statement, and I echo her words: our thoughts and prayers are with the parents of the 15-year-old boy whose life was so tragically cut short, and with the teachers and pupils at All Saints Catholic high school. We are promised today a better and faster approach to school improvement, but what we have in front of us is a proposed system that is slower and weaker. The Secretary of State repeatedly talked about a new era today. It is a new era: one of regression, confusion and poorly thought out policy. We have had that consistently with the Children’s Wellbeing and Schools Bill over the last few months. The Education Secretary said that the Bill did not cut pay. It did. The Government said that the Bill would not reduce school choice, yet their own impact assessment says that it does. Now we have a speech that says that academisation is a key driver of rising standards, yet the Government are taking away automatic academy orders in the Bill. Once again with the Secretary of State, there is a gap between her rhetoric and the reality. The reality is weaker accountability, weaker standards and a slower response. The Minister",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Perhaps the right hon. Lady would recognise the legacy that her Government left behind: schools crumbling, standards falling, a lose-lose-lose special educational needs and disabilities system, and a generation missing from England’s schools. It is no wonder that a shadow Minister admitted that they should hang their heads in shame over their record. In little over 100 days, this Labour Government have moved education back to the centre of national life, with breakfast clubs in primaries, savings for families on uniform costs, nurseries for families, schools being rebuilt across the country, better pay for teachers, school report cards, the development of a broader and richer curriculum, and a child poverty taskforce to clean up the Tories’ mess. Labour is delivering a new era for school standards, overhauling school inspection and accountability, and driving high and rising standards for every child in every school. We will create a one-stop-shop for parents with our new digital school profiles, and we will challenge the 600 stuck schools that have received consecutive “poor” Ofsted judgments. That is the new front in the fight against low expectations, and our RISE teams will spe",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I call the Chair of the Education Committee.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Helen Hayes (Dulwich and West Norwood) (Lab)",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "I thank the Minister for her statement, and I associate myself with her remarks about the tragic incident in Sheffield. The consultations that the Minister has announced are being launched in the context of considerable pressures in our education system, particularly the crisis in the SEND system, which has far-reaching consequences for every part of the sector, and the serious problems in the recruitment and retention of teachers. The Education Committee has heard from stakeholders that accountability pressures can encourage exclusionary practices to maintain academic performance. School leaders regularly raise concerns that the lack of resources to meet the needs of children with SEND makes it hard for them to meet the needs of every child. How does the Department plan to safeguard children with SEND to ensure that accountability pressures on schools do not lead to exclusionary practices but instead promote inclusive approaches that support the needs of students with SEND?",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend is absolutely right to focus on that issue. Improving the SEND system is clearly a focal point for delivering on our opportunity mission to break the link between background and opportunity. We have made a clear commitment to inclusive mainstream education. The Children’s Wellbeing and Schools Bill includes measures to give local authorities more levers on admissions, and Ofsted has made it clear that inclusion will be a key feature of inspection—not instead of high and rising standards, but as well as. She will know that we are keeping this matter under review. Our reform plans are in progress, and we will make further announcements on them in due course.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Madam Deputy Speaker",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I call the Liberal Democrat spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "May I associate myself with the Minister’s comments about the tragic stabbing in Sheffield? At this difficult time, our thoughts and prayers are with the family and friends of the boy who was stabbed to death. Ensuring that every child has the opportunity of an excellent education so that they can thrive is one of the most important jobs that a Government can do. School inspection and improvement have long needed reform, and we Liberal Democrats have been clear in our calls for the single-word Ofsted judgment to go. Those judgments simply do not give parents the information that they need to make well-informed decisions about what is right for their child, and they have fostered an adversarial culture that has failed schools, teachers and, in turn, our children. However, a move away from single-word to multiple-word judgments will do little to bring about change on its own. We need a culture shift so that Ofsted, teachers, school leaders and parents are partners, rather than adversaries, in the process of school improvement and assessment. Is the Minister confident that these proposals will achieve that culture shift so that the inspector is seen as a critical friend rather than so",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "Order. The hon. Lady will know that she has well exceeded the allotted two minutes.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Following the end of headline judgments in September, Ofsted undertook the big listen, and listened very carefully to feedback on the way it conducts inspections while also reviewing the format for reporting on those inspections. I note the hon. Lady’s comments in that regard. In the new system that has been designed, that work has paved the way for the roll-out of school report cards. Subject to consultations—both the Government and Ofsted are very open to the views of the profession—they will be rolled out in September. Alongside a reformed Ofsted, we are creating the RISE teams, comprised of leaders with a proven track record of improving school standards. Those teams will draw on bespoke improvement plans for stuck schools, with significant investment. The previous Government made £6,000 available for stuck schools; under this Government, it will be more like £100,000 per school to drive that improvement. [ Official Report , 11 February 2025; Vol. 762, c. 3WC.] (Correction) The hon. Lady’s comments in relation to SEND are well made. As I said to the Chair of the Select Committee, my hon. Friend the Member for Dulwich and West Norwood (Helen Hayes), that is something that Ofsted",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Rachael Maskell (York Central) (Lab/Co-op)",
+   "member_id": 4471,
+   "type": "Contribution",
+   "text": "I appreciate all the work that my hon. Friend is doing, but the governance structures of multi-academy trusts lack transparency, not least to the local community. In some areas, their executive boards are choosing members and trustees, without the rigour of accountability. Will my hon. Friend ensure that mechanisms are available to allow far more robust scrutiny of multi-academy trusts, as well as the option to return those schools to the local authority?",
+   "name": "Rachael Maskell",
+   "party": "Lab/Co-op",
+   "seat": "York Central"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "As part of its proposed reforms, Ofsted will be looking at the leadership of schools, including their governance, because good leadership is clearly the route map to children’s success within them. We are legislating for all schools to have a duty to co-operate with local authorities on place planning and admissions to ensure we have a whole schools system that works together. We encourage collaboration by outstanding, excellent, exemplary schools—trusts in particular—that can share their expertise across the board: a collaborative schools system that serves the community and, where possible, ensures that every child has access to a good local school within their community.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I call the Father of the House.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Sir Edward Leigh (Gainsborough) (Con)",
+   "member_id": 345,
+   "type": "Contribution",
+   "text": "In my experience, parents have a pretty good instinct for what is a good school, and the great generator of progress has been the academy programme, with headteachers responding to what parents want. We should be giving them more freedom, not less. Is there not a danger that if we create highly complex Ofsted reports with league tables across 40 different areas, we will replace headteachers concentrating on what parents want with a tick-box culture focused on appeasing the man in Whitehall? The solution is not endless auditing but delivering what parents want.",
+   "name": "Sir Edward Leigh",
+   "party": "Con",
+   "seat": "Gainsborough"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I find the notion that parents will not be able to understand more information about their child’s school a bit insulting to parents, who care deeply about their children and their education. Parents tell us they want more information, not less. A one-word judgment does not adequately sum up a school. The Ofsted proposal is to report on nine different areas, all of which are key ingredients of a child’s education. That may enable schools that perform in an exemplary or a very strong way on some measures to be given due credit—where they are tackling attendance or behaviour issues—so that they can share best practice. This will be a self-improving system and we will recognise good practice, but we will target—laser-focused—areas that need to improve.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Alistair Strathern (Hitchin) (Lab)",
+   "member_id": 5000,
+   "type": "Contribution",
+   "text": "In spite of the broken state of SEND provision in my constituency and across the country, I have had the real privilege of meeting some schools that are going above and beyond to support pupils with additional need, but not all schools, whether it in their approach to admissions, provision or exclusions, are being held to the same standards. As well as this Government’s welcome investment in SEND reforms, how will our changes to accountability ensure that every school is held to the highest possible standards on inclusion?",
+   "name": "Alistair Strathern",
+   "party": "Lab",
+   "seat": "Hitchin"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend is absolutely right to highlight inclusion, and that is one of the great opportunities presented. The report card system will look at a range of practice across a school, and inclusion is a part of the proposals. We need to see a more inclusive mainstream system, and better co-operation and collaboration at a local level to ensure that every child, regardless of their special educational need or disability, has access to the excellent education that will set them up to thrive.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "There seem to be a lot of narrative resets around in Government at the moment, but I must say that I for one was thrilled and refreshed to hear the hon. Lady speaking about school standards with pride. I was thrilled to hear her speaking about the role of year 6 assessments, phonics and multi-academy trusts in driving improvement. It is perhaps a good thing the Government Dispatch Box does not have wing mirrors, because not all her colleagues looked quite as excited as I was. I admire her bravery, but I say to her that with words must come deeds if she is serious about this. One thing she could do is excise from the Children’s Wellbeing and Schools Bill those large elements of part 2 that undermine the freedoms and flexibilities for academies and academy trusts that have enabled such improvements to take place. Will she do it?",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Our Children’s Wellbeing and Schools Bill is a whole package of measures that will not only deliver landmark reforms to child safeguarding, but unleash the ability of all schools to collaborate and work together in operating under this new accountability system to drive high and rising standards. This will ensure that every child has the offer of a national curriculum, a qualified teacher in every classroom, and high and rising standards in every school in England.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Chris Vince (Harlow) (Lab/Co-op)",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "I thank the Minister for her statement, particularly considering the awful news she had to convey to this House. As a former teacher, I saw at first hand the damage that high-stakes single-word Ofsted judgments had on teachers and headteachers not just in my constituency of Harlow, but across Essex. I welcome this Government’s focus on raising standards in our schools, but does she recognise that under the previous Government there was far too much focus on stick rather than carrot when it came to supporting teachers? Any change to the Ofsted framework needs to support our hard-working teachers, whose mental health and wellbeing are rock bottom at the moment.",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for that question, and I commend him for his experience in the classroom, which is clearly valuable. We always want to encourage more teachers. Indeed, the whole reasoning behind these reforms is to create an accountability system that recognises good practice and identifies where improvements can be made, but also diagnoses how such improvements can be made and ensures there is the ability to create a self-improving system among our schools, so that they can support one another to drive forward those improvements in the interests of everybody. It is not about punishing schools; it is about supporting schools to create those improvements, which we know that they want and we want to see for children.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Caroline Voaden (South Devon) (LD)",
+   "member_id": 5216,
+   "type": "Contribution",
+   "text": "Headteachers in my constituency of South Devon have expressed some disappointment today at the reform in the Ofsted regime; they said it offered the opportunity for fundamental reform but they do not see that. For example, there are no details on how inclusion will be measured, which we know is absolutely crucial for addressing the SEND crisis. As this is such a key part of the new inspection process, can the Minister assure the House that details of how inclusion will be measured will be made available while there is still time for meaningful consultation?",
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The hon. Lady raises an important point and we absolutely want to hear from schools about how issues like inclusion can be successfully measured and incentivised and held accountable as part of this system. Along with the document Ofsted has produced today it has produced toolkits that set out its inspection framework, and I urge the hon. Lady and those in her constituency who are making representations to take a look. If additional issues are outstanding, of course she should get in touch.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Helena Dollimore (Hastings and Rye) (Lab/Co-op)",
+   "member_id": 5192,
+   "type": "Contribution",
+   "text": "I thank the Minister for her statement and her commitment to driving up standards in all our schools—and I gently invite those on the Conservative Benches who seem to think that multi-academy trusts are a panacea for everything to take a look at the experience of my constituents in Hastings and Rye, where we have been spectacularly failed by some particularly bad academy chains. Nowhere is this rise in school standards more urgently needed than my constituency, where over half of young people leave school without the equivalent of a grade C in GCSE maths and English. Three out of three secondary schools in Hastings are currently rated as requiring improvement and at one of them, Ark Alexandra, 123 children left last term because they did not feel that school was meeting their needs. Will my hon. Friend urgently meet me to discuss these issues and how we can drive up school standards in Hastings and Rye?",
+   "name": "Helena Dollimore",
+   "party": "Lab/Co-op",
+   "seat": "Hastings and Rye"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I will happily meet my hon. Friend. I know she is committed to securing better outcomes for the schools and children in her area. We are making these reforms so that we can go further to make improvement better and faster. We want to add to the tools in our box to help schools improve. We are not taking anything away; we are only adding to the ability to ensure we get the change within our school system that far too many children desperately need.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Dr Caroline Johnson (Sleaford and North Hykeham) (Con)",
+   "member_id": 4592,
+   "type": "Contribution",
+   "text": "How many structural interventions does the Minister expect schools to get each year—not RISE interventions but structural interventions?",
+   "name": "Dr Caroline Johnson",
+   "party": "Con",
+   "seat": "Sleaford and North Hykeham"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "We expect the range of structural interventions to continue as currently, at least for the next 12 months, because we will continue to intervene where schools are causing concern and to mandate structural change. We will also continue to mandate it where significant improvements are required in schools. We will, however, see a doubling of the number of schools that need significant improvement through the RISE system; so we are not reducing the number of interventions that the previous Government undertook, but doubling the number of schools being helped and supported to improve.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Shaun Davies (Telford) (Lab)",
+   "member_id": 5041,
+   "type": "Contribution",
+   "text": "I welcome my hon. Friend’s statement. In Telford there are five stuck schools. The rise in investment from £6,000 to potentially £100,000 per stuck school means that up to £470,000 of extra investment is coming the way of Telford schools. From speaking to my wife, who is a primary school teacher in Telford, I know that it is about not just money, but peer support and tapping into excellence and expertise. Can my hon. Friend assure me that the money, which is game changing, will also be accompanied by that extra support?",
+   "name": "Shaun Davies",
+   "party": "Lab",
+   "seat": "Telford"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend has correctly identified that we see the future of school improvement as very much driven by a whole school self-improving system, where schools will support one another to drive that improvement. We are putting the extra money in place and we really want to be laser-focused on those 600 schools that have been stuck on far too low a rating for far too long, to ensure that the more than 300,000 children in them are supported as quickly as possible with improved outcomes. As my hon. Friend says about peer support, it is important that we tap into knowledge and expertise from trusts that we know are doing an excellent job.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Joshua Reynolds (Maidenhead) (LD)",
+   "member_id": 5343,
+   "type": "Contribution",
+   "text": "I have spoken to a number of headteachers in Maidenhead today, who have told me that what Ofsted is proposing is incredibly overcomplicated, makes “exceptional” seem out of reach and will be a blunt tool that will not allow schools’ individual identities to be taken into account. They still do not believe that anybody can accurately judge a school’s strengths and areas for improvement within two days. What does the Minister have to say to those headteachers, and will she meet me and Maidenhead heads to discuss?",
+   "name": "Mr Joshua Reynolds",
+   "party": "LD",
+   "seat": "Maidenhead"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I encourage those headteachers to feed back to Ofsted as part of the consultation process. Obviously, it is Ofsted’s consultation process. It determines the mechanisms by which it will undertake the new inspections, and it sets the framework. As the Department for Education, we are responsible for implementing the findings of an Ofsted inspection, but we are interested in making sure that it achieves what we want it to achieve, which is to drive high and rising standards. We are confident that the new framework will do that. The Department for Education also has its consultation document out on how we see the reforms working in practice. If the hon. Gentleman would like to meet and discuss that, I would be happy to do so.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Alice Macdonald (Norwich North) (Lab/Co-op)",
+   "member_id": 5133,
+   "type": "Contribution",
+   "text": "I welcome what my hon. Friend has said today. I recently visited Mile Cross primary school in Norwich, which is a shining beacon of what a local school can provide to its residents. Will she join me in paying tribute to the staff and pupils at Mile Cross? She touched on this in her statement, but how can we ensure that lessons in good practice are shared from primary schools such as Mile Cross, not just across the county, but across the country?",
+   "name": "Alice Macdonald",
+   "party": "Lab/Co-op",
+   "seat": "Norwich North"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend is right to celebrate the good work being done by schools in her local area. We recognise that many schools, both in the trust sector and in the maintained sector, are working tirelessly day in, day out to deliver excellent outcomes for their children. Report cards will clearly identify what needs to improve, and it is important that they do so, but they will also encourage schools to work together to identify the exemplary practices that should be spread more widely. She is right to highlight the many examples in her area and to look forward to schools working across the system to drive improvement across the board.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Dr Andrew Murrison (South West Wiltshire) (Con)",
+   "member_id": 1466,
+   "type": "Contribution",
+   "text": "How will the selection of colour-coded performance areas on the report card be determined by the views and needs of parents as much as by Ministers and the education establishment? How do the exceptional schools that the Minister has described differ from the beacon schools that the then Labour Government created in 1998 and abolished in 2004?",
+   "name": "Dr Andrew Murrison",
+   "party": "Con",
+   "seat": "South West Wiltshire"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The determination of the report cards is within Ofsted’s remit. It has launched its consultation. The right hon. Gentleman is invited to contribute to the consultation, and I encourage anyone within his local area to do so, too. We are open to feedback. In terms of the retro question, we are very much looking forward to how these reforms can support the Department for Education in its work to target reform where we know it is needed. Our system is not working well, and we know it needs to change. That is why we have introduced the Children’s Wellbeing and Schools Bill. It is why we are designing a school system that supports and challenges every school to deliver for every child. Between our reforms and those that Ofsted is consulting on—we welcome feedback and are open to it—we are confident that together we can deliver those high and rising standards for every child.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Gurinder Singh Josan (Smethwick) (Lab)",
+   "member_id": 5059,
+   "type": "Contribution",
+   "text": "I welcome the Minister’s statement and refer the House to my entry in the Register of Members’ Financial Interests. I have had various roles in voluntary governance, including as chair of a multi-academy trust, as well as in maintained schools, pupil referral units, a faith school and a free school—the list is quite comprehensive—and I would just comment that the argument about pushing schools into one direction or another, whether wholly maintained or wholly academised, is bogus. I congratulate the Minister on focusing on the provisions of the statement about accountability and improvement and not getting diverted by that argument. I have participated in many Ofsted inspections over the years as part of my voluntary governance roles and I can attest to the hard work of all staff across all our schools and academies, as well as the stress that often accompanies—",
+   "name": "Gurinder Singh Josan",
+   "party": "Lab",
+   "seat": "Smethwick"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "Order. The hon. Member will have to perfect putting a short question to the Minister. Perhaps another sentence will do.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Gurinder Singh Josan",
+   "member_id": 5059,
+   "type": "Contribution",
+   "text": "Does the Minister agree that the new school report cards will need to balance the important additional information needed by parents with the requirement for school improvements and protecting staff wellbeing? Will she listen to parents and the whole education sector—",
+   "name": "Gurinder Singh Josan",
+   "party": "Lab",
+   "seat": "Smethwick"
+  },
+  {
+   "who": "Madam Deputy Speaker",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "Order.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for his service, which is hugely important. We often do not recognise enough the work that governors undertake and the important role they play in our school system. We thank all school governors for their service and encourage more people to sign up. In response to my hon. Friend’s initial comment, he may be interested to know that between January 2022 and December 2024, 40% of schools in a category of concern took over a year to convert to sponsored academies. That is too long. We need to intervene more quickly, which is why we will use the opportunity of a more diagnostic Ofsted report card to identify where improvements need to happen so that we can get in there with RISE teams much earlier—as soon as a school has failed its inspection—and no longer focus solely on structural intervention, as he said, but on however school improvement can be best undertaken.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Vikki Slade (Mid Dorset and North Poole) (LD)",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "One of the most common areas of casework in Mid Dorset and North Poole involves children with special needs. Parents often cite awful experiences of children being manipulated out of school by those schools being made truly hostile places for them and by failures, often at a trust level, to provide even low-cost or no-cost changes, with parents completely ignored in the process. I am interested in understanding why the Minister has not included full accountability and judgments at multi-academy trust level in the reforms, because parents simply have nowhere to go when they need to complain and the problem is with the trust.",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The hon. Lady is right to highlight the issue and what she says sounds very concerning. We are looking at multi-academy trust level accountability and how parents can engage in the relationship with schools, ensuring that the proper lines of accountability are available. I will continue to keep that under review and will report on it in due course.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Joe Morris (Hexham) (Lab)",
+   "member_id": 5081,
+   "type": "Contribution",
+   "text": "Like the Minister, I am the product of a state school in the north-east, and I am tremendously proud of that fact. During the election, many teachers in Throckley, Hexham, Ponteland, Prudhoe and elsewhere told me on the doorstep that they felt the one-word judgment did not allow sufficient room for subtlety and nuance in the evaluation of schools, and parents felt the same. Will the Minister assure me that this is simply the first step in delivering the high and rising standards that we all need and expect for children across the country?",
+   "name": "Joe Morris",
+   "party": "Lab",
+   "seat": "Hexham"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend spoke to my heart as he referenced areas of his constituency that I represented in this place for 14 years from 2010. He went to an excellent school in the neighbouring constituency. He is right that this really is the first step on the journey of improving our schools and making sure that every child has the best start in life and the best education possible.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Sammy Wilson (East Antrim) (DUP)",
+   "member_id": 1593,
+   "type": "Contribution",
+   "text": "It is quite right that we measure the performance of schools since we spend billions of pounds on them every year and they affect the life chances of millions of children across the country. Will the Minister explain why she is introducing these new measures to improve standards in schools at the same time as jettisoning the academy system, which was designed to improve standards and disseminate changes to improve schools? What are the implications for individual schools in gathering, holding and presenting the data required to give the information for the nine sections and five different levels? How will she make all that comprehensible to parents?",
+   "name": "Sammy Wilson",
+   "party": "DUP",
+   "seat": "East Antrim"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I will answer the right hon. Gentleman’s three questions in reverse order. On the first, I think parents are perfectly capable of understanding a more complex report card than one word. I also disagree with his characterisation of the changes. We are very much about harnessing all the great things that academies have achieved, including the great reforms, improvements and innovations that they have pioneered. We want to spread that right across our school system. The purpose of the report cards is to shine a light on all that great practice so that it can be spread more widely, and to shine a particular spotlight on where improvement is needed, to deliver it as quickly as possible. How Ofsted will deliver is a matter for Ofsted, and if he wishes to respond to its consultation, I am sure his views would be welcome.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Yuan Yang (Earley and Woodley) (Lab)",
+   "member_id": 5267,
+   "type": "Contribution",
+   "text": "I thank the Minister for her remarks, particularly about the funding for regional improvement teams in schools. Two weeks ago, my constituents in Shinfield and Whitley received the devastating news that their local secondary school, Oakbank, had received its worst ever Ofsted report. Parents and former staff at that school have asked me how the Anthem schools trust, which has failed not just schools in my constituency but several others in recent years, can be held to account. Will the Minister set out how the new accountability framework will put in place safeguards against failing multi-academy trusts?",
+   "name": "Yuan Yang",
+   "party": "Lab",
+   "seat": "Earley and Woodley"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I share my hon. Friend’s concerns. I do not know the details of the specific school, but a school judged by Ofsted to require special measures will still receive structural intervention. If it is a maintained school, it will become an academy. If it is already an academy, which I believe this school is, it will be transferred to a new and stronger trust. In the shorter term, while the RISE teams are focusing on stuck schools and on building their capacity, a school requiring significant improvement will, by default, continue to receive structural intervention. We propose that from September 2026 a school in that category will receive mandatory targeted intervention from RISE. Schools will be supported much more quickly to drive those improved outcomes for children, without having to wait for structural intervention.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Monica Harding (Esher and Walton) (LD)",
+   "member_id": 5299,
+   "type": "Contribution",
+   "text": "My teachers in Esher and Walton have greeted today’s announcement with a degree of cynicism, which is to be expected after feeling ignored for the last 10 years. One wrote to me saying, “Same system, different name.” Another said, “Same old thing, just different words.” Will the Minister reassure them that this is not just business as usual? Might she expand on the levels of collaboration that she talked of?",
+   "name": "Monica Harding",
+   "party": "LD",
+   "seat": "Esher and Walton"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I encourage the teachers mentioned by the hon. Lady to feed into the consultation. Let me allay some of their concerns. Although how it conducts its consultations and reports on its inspections is for Ofsted, as a Department we are very focused on creating a self-improving system of collaboration, using the new report cards to identify exemplary practice and share that more widely. That will identify where support is required and encourage schools to work in collaboratively to deliver it. RISE teams will bolster that targeted approach, particularly for stuck schools, which we know have been ignored for far too long. I hope that the teachers she referenced will feel more confident about the system, and I encourage them to respond to the consultation.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Andrew Cooper (Mid Cheshire) (Lab)",
+   "member_id": 5195,
+   "type": "Contribution",
+   "text": "The laser focus on stuck schools will be incredibly important for the life chances of children who have been failed for too long. I am pleased that the Government are putting their money where their mouth is, with up to £100,000 for each school. Ofsted research makes the point that in some unstuck schools, the role of MATs in raising expectations and developing curriculum subject expertise has been critical, but in others that have remained stuck, the MATs have not been effective and are not providing the right quality support. Will the Minister say more about how RISE teams can work with MATs to improve the support that they offer?",
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Children get only one childhood, so it matters deeply that they get to go to a great school while they are still children, which is why we are determined to deliver faster improvement to the schools that need it. While academisation has been successful in many places, it can be a slow process, and not all schools can be matched up with strong trusts, which is why we will utilise the RISE teams to support schools to work together, drive improvement and create that whole-system reform that we know children need to see.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "I thank the Minister for her answers and welcome the Government’s decision to uplift accountability and transparency in the schooling sector. Could the Minister clarify what help and support will be offered to struggling schools to ensure that this accountability also brings about the improvements that are undoubtedly and clearly essential? Further to the question my right hon. Friend the Member for East Antrim (Sammy Wilson) asked on academy sector education, has the Minister had any discussions with her counterparts in Northern Ireland on the impact of decisions made in Westminster on the academy sector back home?",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I thank the hon. Gentleman for welcoming today’s statement. We are very much strengthening the tools we can use for faster and more effective school improvement with the introduction of the new RISE teams. In addition, as he points out, the greater transparency and diagnostic approach of Ofsted reports will enable us to identify both where great practice is and where there is room for improvement. I will take away his question about the impact on other parts of the UK.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Alex McIntyre (Gloucester) (Lab)",
+   "member_id": 5349,
+   "type": "Contribution",
+   "text": "Parents of SEND children in Gloucester will welcome today’s statement and the words of my right hon. Friend the Secretary of State on SEND and inclusion in our schools. Will the Minister confirm that the measures set out by this Labour Government will drive up standards for all children in Gloucester, and will she meet me and parents in my city, who have for years battled the broken system left behind by the previous Conservative Government?",
+   "name": "Alex McIntyre",
+   "party": "Lab",
+   "seat": "Gloucester"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I can absolutely give my hon. Friend that assurance. We wish to see a change in the drive towards an inclusive mainstream as part of this new Ofsted accountability system, and the changes in the Children’s Wellbeing and Schools Bills will obviously support those endeavours. The curriculum and assessment review will also look at how barriers to inclusion can be removed in the curriculum and assessment system, and at how we can get high standards and expectations of great progress for all children, including those with special educational needs and disabilities.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Warinder Juss (Wolverhampton West) (Lab)",
+   "member_id": 5230,
+   "type": "Contribution",
+   "text": "I associate myself with the Minister’s earlier comments about the tragic events in Sheffield, where another young life has sadly been lost to knife crime. Does the Minister agree that these landmark reforms will not only drive high and rising standards, but help in the recruitment and retention of teachers? Will she also confirm that we will engage fully with parents and teachers on the development of plans for school report cards?",
+   "name": "Warinder Juss",
+   "party": "Lab",
+   "seat": "Wolverhampton West"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I absolutely agree. High-quality teaching is the most important in-school factor for improving outcomes for children. We absolutely need to drive recruitment, but our greatest tool for recruitment is retention—we need to hold on to the fantastic teachers who are in our schools. A more holistic and broader picture of schools will shine a light on the great practice going on, the hard work and the context in which schools operate, and will deliver on the desire, which I know every teacher has, to deliver high and rising standards for the children in their care.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Sarah Smith (Hyndburn) (Lab)",
+   "member_id": 5117,
+   "type": "Contribution",
+   "text": "I have worked closely with schools in some of the most disadvantaged parts of our country, and I have seen academy trust after academy trust fail to turn around schools in some of the most challenging circumstances, leaving behind some of our most disadvantaged learners. I welcome the Government’s commitment to support the turnaround with cash, with £100,000 being made available as compared with the £6,000 that was previously provided. Does that not show the difference in the importance placed by Labour on turning around failing schools compared with the Tories?",
+   "name": "Sarah Smith",
+   "party": "Lab",
+   "seat": "Hyndburn"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend puts it very well. We absolutely need to be laser-focused on schools that have consistently underperformed but have not received the support, help or intervention they need to succeed. We will be laser-focused on supporting those schools to achieve the outcomes that we know they want to achieve for their children but just need the support to do so.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Peter Swallow (Bracknell) (Lab)",
+   "member_id": 5165,
+   "type": "Contribution",
+   "text": "I welcome the Government’s commitment to overhauling Ofsted, and particularly the commitment to ensuring that SEND is at the heart of every school, because a truly outstanding school is one that has inclusivity at the heart of everything it does. Will the Minister commit to listening, through the consultation, to the parents and carers of SEND kids, to ensure that they are at the heart of the reforms the Government are delivering?",
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend advocates very powerfully for the families in his area who have been struggling with a SEND system that is clearly in need of reform. The changes that Ofsted and the Department are proposing are designed to create a more inclusive and effective schools system for all children, including those with special educational needs and disabilities. Indeed, we will continue to listen to their voices as we plan our reforms.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Josh Dean (Hertford and Stortford) (Lab)",
+   "member_id": 5187,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for her statement. I recently met headteachers in my community who detailed the challenges they face: SEND, recruitment and retention, and persistent absence. Will the Minister set out how the Government’s reforms will start to remedy those issues and break down the barriers to opportunity for children and young people in my constituency? Does she agree that the reforms are an important step in fixing the damage inflicted on our education system by the Conservative party over the past 14 years?",
+   "name": "Josh Dean",
+   "party": "Lab",
+   "seat": "Hertford and Stortford"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I absolutely recognise the challenges that my hon. Friend sets out. Many schools right across the system, whether local authority maintained or academies, face similar challenges. The report card system will be a really important reflection of a whole school’s experience, and will laser-focus on areas such as attendance and inclusion, creating toolkits to enable schools to know the standards they need to reach, but also enabling schools to work together collaboratively, supporting one another to achieve those outcomes for children. We are not in the game of punishing schools; we are in the game of supporting them to bring about the change that we know they want to see.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Sam Rushworth (Bishop Auckland) (Lab)",
+   "member_id": 5108,
+   "type": "Contribution",
+   "text": "I have visited more than a dozen schools in my constituency since being elected, and I am always overwhelmed by the passion of the teachers who have to work in really trying circumstances. They are often very under-resourced to deal with children who are ill-prepared for school and a growing caseload of children with special educational needs, so I really welcome the additional investment with the RISE teams. As the Minister will know, Conservative Members are fond of quoting our improvement in the PISA rankings, which is the legacy of the generation who experienced Sure Start—where children had a Sure Start centre nearby, that generation achieved 0.8 grades higher at GCSE. What will the Government do to ensure that we have more children coming to school who are prepared for school?",
+   "name": "Sam Rushworth",
+   "party": "Lab",
+   "seat": "Bishop Auckland"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend has very much diagnosed the challenge. We have a persistently and stubbornly high disadvantage gap, where we know that children are leaving primary school without the fundamentals of reading, writing and maths. That goes on to impact their outcomes in secondary school, but we know that starts at the very earliest stage. That is why we are investing in the early years, speech and language therapy, and nursery provision. We are absolutely determined to improve the early learning development goal outcomes for children and give every child the best start in life.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Anneliese Midgley (Knowsley) (Lab)",
+   "member_id": 5038,
+   "type": "Contribution",
+   "text": "I welcome the Minister’s statement, but in my constituency GCSE results are among the lowest in the country and a quarter of pupils are classed as persistently absent. What message does the Minister have for children, parents and teachers about plans to drive high and rising standards to provide more and better opportunities in my constituency?",
+   "name": "Anneliese Midgley",
+   "party": "Lab",
+   "seat": "Knowsley"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend is a powerful advocate for the children in her area, and she is absolutely right to champion better outcomes. We know that the journey towards not achieving the grades that children should achieve starts at the earliest stage, which is why, as I have said, we are investing in the early years. The Ofsted report cards will shine a light on the issue of attendance—we know that children cannot get a great education if they are not at school to get it, and attendance must be a priority for schools—but we recognise the challenges, so we want to support schools to be able to achieve better attendance figures, and we will do so by diagnosing those challenges and putting in place the self-supporting schools system that can drive those better outcomes.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Luke Charters (York Outer) (Lab)",
+   "member_id": 5199,
+   "type": "Contribution",
+   "text": "The Harris Federation has just revealed that its chief executive’s pay is in excess of half a million pounds a year. Does my hon. Friend agree that we need much more transparency and accountability when it comes to the excessive pay of some multi-academy trust leaders?",
+   "name": "Mr Luke Charters",
+   "party": "Lab",
+   "seat": "York Outer"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend makes an important point, and I will take it away and look at it.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "David Baines (St Helens North) (Lab)",
+   "member_id": 5092,
+   "type": "Contribution",
+   "text": "Under the last Government, most schools in my constituency suffered real-terms funding cuts and child poverty increased by more than 50%. Reform of the inspection system is needed and is welcome, but does the Minister agree that the key to children doing well and good outcomes being measured is investment and support for the families of children from pre-birth onwards, as well as fair funding for all our schools?",
+   "name": "David Baines",
+   "party": "Lab",
+   "seat": "St Helens North"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend is absolutely right. He has not only diagnosed the problem, but recommended a solution. We have established a child poverty taskforce, chaired by the Secretary of State for Education along with the Secretary of State for Work and Pensions, to take a fundamental look at the levers that we have in Government to support children so that they no longer grow up in poverty, which we know is affecting their outcomes both in education and in life.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  }
+ ],
+ "fetched": "2026-10-21T20:25:06Z"
+}

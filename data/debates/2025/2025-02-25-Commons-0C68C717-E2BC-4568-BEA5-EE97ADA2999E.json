@@ -1,0 +1,734 @@
+{
+ "ext_id": "0C68C717-E2BC-4568-BEA5-EE97ADA2999E",
+ "date": "2025-02-25",
+ "house": "Commons",
+ "section": "WestHall",
+ "title": "SEND Education Support",
+ "parents": [
+  "Westminster Hall"
+ ],
+ "location": "Westminster Hall",
+ "url": "https://hansard.parliament.uk/Commons/2025-02-25/debates/0C68C717-E2BC-4568-BEA5-EE97ADA2999E/SendEducationSupport",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Jenny Riddell-Carpenter",
+   "party": "Lab",
+   "seat": "Suffolk Coastal",
+   "member_id": 5160
+  },
+  {
+   "name": "Leigh Ingham",
+   "party": "Lab",
+   "seat": "Stafford",
+   "member_id": 5290
+  },
+  {
+   "name": "Rachel Taylor",
+   "party": "Lab",
+   "seat": "North Warwickshire and Bedworth",
+   "member_id": 5065
+  },
+  {
+   "name": "Derek Twigg",
+   "role": "Chair",
+   "member_id": 429
+  },
+  {
+   "name": "Mr James Frith",
+   "party": "Lab",
+   "seat": "Bury North",
+   "member_id": 4637
+  },
+  {
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich",
+   "member_id": 5303
+  },
+  {
+   "name": "Sir Iain Duncan Smith",
+   "party": "Con",
+   "seat": "Chingford and Woodford Green",
+   "member_id": 152
+  },
+  {
+   "name": "Andrew Lewin",
+   "party": "Lab",
+   "seat": "Welwyn Hatfield",
+   "member_id": 5061
+  },
+  {
+   "name": "Dr Danny Chambers",
+   "party": "LD",
+   "seat": "Winchester",
+   "member_id": 5304
+  },
+  {
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire",
+   "member_id": 5195
+  },
+  {
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford",
+   "member_id": 4131
+  },
+  {
+   "name": "Joe Morris",
+   "party": "Lab",
+   "seat": "Hexham",
+   "member_id": 5081
+  },
+  {
+   "name": "Sarah Smith",
+   "party": "Lab",
+   "seat": "Hyndburn",
+   "member_id": 5117
+  },
+  {
+   "name": "Mr Gagan Mohindra",
+   "party": "Con",
+   "seat": "South West Hertfordshire",
+   "member_id": 4804
+  },
+  {
+   "name": "Ms Julie Minns",
+   "party": "Lab",
+   "seat": "Carlisle",
+   "member_id": 5094
+  },
+  {
+   "name": "Helen Maguire",
+   "party": "LD",
+   "seat": "Epsom and Ewell",
+   "member_id": 5336
+  },
+  {
+   "name": "Shockat Adam",
+   "party": "Ind",
+   "seat": "Leicester South",
+   "member_id": 5120
+  },
+  {
+   "name": "Laurence Turner",
+   "party": "Lab",
+   "seat": "Birmingham Northfield",
+   "member_id": 5234
+  },
+  {
+   "name": "Alistair Strathern",
+   "party": "Lab",
+   "seat": "Hitchin",
+   "member_id": 5000
+  },
+  {
+   "name": "Chris Hinchliff",
+   "party": "Lab",
+   "seat": "North East Hertfordshire",
+   "member_id": 5244
+  },
+  {
+   "name": "Alice Macdonald",
+   "party": "Lab/Co-op",
+   "seat": "Norwich North",
+   "member_id": 5133
+  },
+  {
+   "name": "Sonia Kumar",
+   "party": "Lab",
+   "seat": "Dudley",
+   "member_id": 5274
+  },
+  {
+   "name": "Alex McIntyre",
+   "party": "Lab",
+   "seat": "Gloucester",
+   "member_id": 5349
+  },
+  {
+   "name": "Baggy Shanker",
+   "party": "Lab/Co-op",
+   "seat": "Derby South",
+   "member_id": 5176
+  },
+  {
+   "name": "Jodie Gosling",
+   "party": "Lab",
+   "seat": "Nuneaton",
+   "member_id": 5036
+  },
+  {
+   "name": "Terry Jermy",
+   "party": "Lab",
+   "seat": "South West Norfolk",
+   "member_id": 5338
+  },
+  {
+   "name": "Jim Dickson",
+   "party": "Lab",
+   "seat": "Dartford",
+   "member_id": 5223
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon",
+   "member_id": 5351
+  },
+  {
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards",
+   "member_id": 4125
+  },
+  {
+   "name": "Melanie Onn",
+   "party": "Lab",
+   "seat": "Great Grimsby and Cleethorpes",
+   "member_id": 4464
+  },
+  {
+   "name": "Debbie Abrahams",
+   "party": "Lab",
+   "seat": "Oldham East and Saddleworth",
+   "member_id": 4212
+  },
+  {
+   "name": "Ben Maguire",
+   "party": "LD",
+   "seat": "North Cornwall",
+   "member_id": 5350
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Jenny Riddell-Carpenter (Suffolk Coastal) (Lab)",
+   "member_id": 5160,
+   "type": "Contribution",
+   "text": "I beg to move, That this House has considered SEND education support. It is a pleasure to serve under your chairmanship, Mr Twigg. I am grateful for having secured this important debate, and welcome the opportunity to discuss special educational needs and disabilities support, especially how it is failing and how it can be improved. I am pleased too that so many Members are present to contribute. I have no doubt that those MPs who, like me, are new to this House will have been blown away by the scale of the SEND crisis in their constituencies. Parents are quite literally crying out for help, and we must listen to them and act. In this debate we will hear about the national crisis, as well as the many local failures experienced right across the country, and the devastating human impacts that the crisis is having on young people and their families. But while I have the Minister’s attention, and before I get into the detail, I want to set out two important points. First, tackling our nation’s SEND crisis must be a national priority—much like rebuilding our NHS or tackling the housing crisis. We must be determined to rebuild our SEND support as a nation, and build a system that works f",
+   "name": "Jenny Riddell-Carpenter",
+   "party": "Lab",
+   "seat": "Suffolk Coastal"
+  },
+  {
+   "who": "Leigh Ingham (Stafford) (Lab)",
+   "member_id": 5290,
+   "type": "Contribution",
+   "text": "SEND children are falling through the cracks. I have been told by a school in my constituency that it is experiencing a crisis, and is self-funding its own education, health and care needs assessments. As a result, it is facing an incredible deficit in funding. Does my hon. Friend agree that it is crucial for the Department of Health and Social Care and the Department for Education to work together to deliver EHC assessments to ensure that our schools do not end up in unsustainable financial positions?",
+   "name": "Leigh Ingham",
+   "party": "Lab",
+   "seat": "Stafford"
+  },
+  {
+   "who": "Jenny Riddell-Carpenter",
+   "member_id": 5160,
+   "type": "Contribution",
+   "text": "I agree, and I will talk about those points later in my speech. Secondly, I will highlight the severe challenges for SEND that are faced in rural areas, such as my constituency of Suffolk Coastal. I am keen that the Minister visits my rural constituency to see, up close and at first hand, how rural education and the rural SEND crisis differs from that of our urban neighbours. Let me start today’s debate by setting out the scale of the SEND crisis. As the recent report from the National Audit Office highlighted, the crisis is severe and growing. There has been a 140% increase in children with education, health and care plans—or an equivalent statement of SEND needs—from 2015 to 2024. The total number of children and young people with SEND today is estimated to be 1.9 million. Despite that growth in demand, the NAO has raised real concerns that there has been no consistent improvement in outcomes for children and young people with SEND since 2019. Without drastic action, a full belt-and-braces review of SEND and a real determination to see improvements, we will only see SEND provision get even worse. Funding is one part of the problem. With growing demand we need a sustainable fundin",
+   "name": "Jenny Riddell-Carpenter",
+   "party": "Lab",
+   "seat": "Suffolk Coastal"
+  },
+  {
+   "who": "Rachel Taylor (North Warwickshire and Bedworth) (Lab)",
+   "member_id": 5065,
+   "type": "Contribution",
+   "text": "In 2023, a report by Warwickshire county council revealed that only 9% of education, health and care plans in Warwickshire go to children with special needs in North Warwickshire, compared with 31% in Warwick, which has a lower rate of child poverty. A year later, Conservative Warwickshire county councillors made derogatory comments about SEND children and their parents. I am concerned about the effect of those councillors’ attitudes on the provision of support for SEND children across the county, especially in more deprived areas such as mine. Is my hon. Friend concerned that this is an example of a trend across the country, where families in more deprived areas are unable to get the support they need?",
+   "name": "Rachel Taylor",
+   "party": "Lab",
+   "seat": "North Warwickshire and Bedworth"
+  },
+  {
+   "who": "Derek Twigg (in the Chair)",
+   "member_id": 429,
+   "type": "Contribution",
+   "text": "Order. I remind Members that they need to be succinct and short with interventions.",
+   "name": "Derek Twigg",
+   "role": "Chair"
+  },
+  {
+   "who": "Jenny Riddell-Carpenter",
+   "member_id": 5160,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for her timely intervention. I am about to give a similar example from my area. In Suffolk, the county council has failed to deliver 60% of outstanding care plans for SEND within the 20-week timeframe. Compare that with the national average of 50% and we can see that Suffolk is struggling. The recent Care Quality Commission report for Suffolk, published last year, identified “widespread and/or systemic failings” across the local area partnership. It has the lowest possible rating, which means that the inspection identified failings that have “a significant negative impact on the experiences and outcomes of children and young people”. Suffolk county council responded with a blueprint, published in January this year, which it says is a forensic road map for change, but, as we sit here, there are parents in Suffolk and across the country who have been let down and are in desperate need of help. In January, I launched a survey in Suffolk Coastal asking parents and young people to share their experiences. That survey has shown some awful and tragic statistics, laying bare the true toll on families and young people of the SEND crisis in Suffolk. More than 100 famil",
+   "name": "Jenny Riddell-Carpenter",
+   "party": "Lab",
+   "seat": "Suffolk Coastal"
+  },
+  {
+   "who": "Mr James Frith (Bury North) (Lab)",
+   "member_id": 4637,
+   "type": "Contribution",
+   "text": "I congratulate my hon. Friend on securing this important debate. She speaks to the heart of the issue. It is often only people with the means, resources and time who can become experts in the service they are trying to access, a right that is enshrined in the Children and Families Act 2014. Will she join me in encouraging the Government’s instinct that, in moving to a more inclusive mainstream education system, we cannot simply say, “Everyone in,” without protecting the necessary resources centrally when we issue those instructions?",
+   "name": "Mr James Frith",
+   "party": "Lab",
+   "seat": "Bury North"
+  },
+  {
+   "who": "Derek Twigg (in the Chair)",
+   "member_id": 429,
+   "type": "Contribution",
+   "text": "Order. As time is tight, I remind Members to keep interventions succinct.",
+   "name": "Derek Twigg",
+   "role": "Chair"
+  },
+  {
+   "who": "Jenny Riddell-Carpenter",
+   "member_id": 5160,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for his intervention. I believe it should be part of a wider conversation that includes today’s debate, and I hope the Minister will respond to it. I submitted a freedom of information request to Suffolk county council and received information back yesterday. Over the past five years, between 2019 and 2024, 920 appeals were logged against Suffolk county council. It has not told me how many of those went to tribunal, but it did supply the breakdown of the figures. Except for a drop in 2020, which I suspect can be accounted for by the covid lockdown, the numbers have risen year on year. In 2019, there were 103 cases, and by 2024, there were 286 cases. The most staggering fact my survey revealed is the cost of the crisis to families. More than one in two families told me that the SEND crisis is affecting their families’ mental health. They are struggling as they battle to provide their children with the support they are entitled to. I have two examples of families in my constituency. The first is that of Jacob, who is an example of how hard the situation is for so many parents in Suffolk Coastal. His parents are incredible, working two jobs each. They are young ",
+   "name": "Jenny Riddell-Carpenter",
+   "party": "Lab",
+   "seat": "Suffolk Coastal"
+  },
+  {
+   "who": "Patrick Spencer (Central Suffolk and North Ipswich) (Con)",
+   "member_id": 5303,
+   "type": "Contribution",
+   "text": "For those who do not know, the hon. Lady is my constituency neighbour in Suffolk, and I think she is doing a fantastic job of highlighting the complexities faced by people such as Jacob and Tiffany—I see them in my inbox too. She has done a fantastic job of talking about the problems, and she is beginning to talk about the solutions. What does she think about universal early intervention programmes, which have been demonstrated to reduce cost at the acute end of the system in the long term? Will she join me in pushing for universal access to early language programmes in schools in Suffolk?",
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich"
+  },
+  {
+   "who": "Jenny Riddell-Carpenter",
+   "member_id": 5160,
+   "type": "Contribution",
+   "text": "I thank the hon. Gentleman for his intervention. The example of Jacob, a small boy aged just four, shows that interventions need to happen in the early years—right from the very start. The model of secondary schools working with primary schools should be looked at nationally. I again call on the Minister to visit Suffolk Coastal to see that in greater detail.",
+   "name": "Jenny Riddell-Carpenter",
+   "party": "Lab",
+   "seat": "Suffolk Coastal"
+  },
+  {
+   "who": "Derek Twigg (in the Chair)",
+   "member_id": 429,
+   "type": "Contribution",
+   "text": "Order. A lot of Members want to speak, so I will have to impose a time limit. I will first call Iain Duncan Smith, and then could Members bob for a few seconds longer than they would normally so that we can get everybody’s name on the list?",
+   "name": "Derek Twigg",
+   "role": "Chair"
+  },
+  {
+   "who": "Sir Iain Duncan Smith (Chingford and Woodford Green) (Con)",
+   "member_id": 152,
+   "type": "Contribution",
+   "text": "It is very good to see you in the Chair, Mr Twigg. I will obey your strictures and try to keep this brief. I want to focus on a very narrow aspect of special educational needs. I congratulate the hon. Member for Suffolk Coastal (Jenny Riddell-Carpenter) on securing this debate. As we can see, many Members have issues with the supply of SEND education support. I want to focus on something that originated in a special educational needs school in my constituency called Whitefield, which has calming rooms. I have been to see the Education Secretary about this issue, because I discovered, thanks to a BBC programme, that there is no regulation as to the nature of calming rooms in special educational needs schools and what happens in them. For the most part, those schools are very good, but when it comes to calming rooms there is a big variety of capability and, for that matter, quality. Children in that school were locked away in calming rooms. I would have thought that that was illegal, but it is not in special educational needs schools. What happens in those rooms makes the children’s behaviour worse. If they are suffering in one way or another, that suffering gets worse, particularly ",
+   "name": "Sir Iain Duncan Smith",
+   "party": "Con",
+   "seat": "Chingford and Woodford Green"
+  },
+  {
+   "who": "Derek Twigg (in the Chair)",
+   "member_id": 429,
+   "type": "Contribution",
+   "text": "Order. Before I call Andrew Lewin, I will put an advisory two-minute limit on speeches. If that is not followed, I will impose a two-minute limit. I am sure colleagues will want to ensure that time is available for all others present.",
+   "name": "Derek Twigg",
+   "role": "Chair"
+  },
+  {
+   "who": "Andrew Lewin (Welwyn Hatfield) (Lab)",
+   "member_id": 5061,
+   "type": "Contribution",
+   "text": "It is the nature of being an MP that we are rightly expected to manage a wide range of issues, but one constant since being elected has been the frequency with which I have been contacted by constituents about the crisis in SEND provision. I congratulate my hon. Friend the Member for Suffolk Coastal (Jenny Riddell-Carpenter) on being a champion for families in her constituency, and I am pleased that she has secured this debate. The themes are consistent: extremely long turnaround times to obtain an EHCP, compounded by even longer waiting times to secure a place at a desired school, and exasperated parents who are leaving employment to care for children who have not been found a place in the system. Most important of all, far too many children are suffering because the right support is not being made available to them. Constituents told me of a case in which Hertfordshire county council allocated a family seven different officers in the time it took to finalise a place for an EHCP. Another story was of a parent who had no choice but to give up their job to become a full-time carer for their child, as they wait for an appropriate school place. I could recite countless more examples f",
+   "name": "Andrew Lewin",
+   "party": "Lab",
+   "seat": "Welwyn Hatfield"
+  },
+  {
+   "who": "Dr Danny Chambers (Winchester) (LD)",
+   "member_id": 5304,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mr Twigg. I congratulate the hon. Member for Suffolk Coastal (Jenny Riddell-Carpenter) on securing this hugely important debate. As has just been noted, this is an issue about which we all receive a huge amount of correspondence every day, from parents who are at their wits’ end. Supporting children and young people with special educational needs is not an act of charity; it is a fundamental responsibility of government, and yet we find that parents are repeatedly battling to access the complicated system. I will briefly give an overview of Dr Warwick-Sanders, a constituent I met in Winchester recently. He is a psychiatrist and his wife is also a medical professional. Their son was diagnosed with attention deficit hyperactivity disorder in 2002 and referred to the child and adolescent mental health service. Despite being medical professionals, they said that they just did not know where to turn for help. Although CAMHS is the cornerstone for child mental health services, it has a shocking 150 week wait in our area. Dr Warwick-Sanders’ son is stuck in a system where the ADHD medication he needs is out of reach until an assessment is",
+   "name": "Dr Danny Chambers",
+   "party": "LD",
+   "seat": "Winchester"
+  },
+  {
+   "who": "Andrew Cooper (Mid Cheshire) (Lab)",
+   "member_id": 5195,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mr Twigg. I congratulate my hon. Friend the Member for Suffolk Coastal (Jenny Riddell-Carpenter) on continuing to keep this important issue on the parliamentary agenda. For many of us, this is a defining issue that motivated us to stand for election; to try and bring about meaningful change on behalf of SEND families who are living with a constant fight for recognition of the challenges they face, for a diagnosis, for mental health support and for the right educational setting. I could use double or triple my speaking time today describing the cases that come across my desk week after week of children who are not just struggling to get the right support today, but whose lives could have been different if their needs had been identified and met early. Instead, I am going to go through some of the things that I believe—and that parents and professionals I have met with over the last eight months believe—will make the difference and start to bring this broken system under control. I will limit myself to two things, and I hope the Minister will respond and take it as read that I welcome the steps she has already taken to deliver a more",
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "First, I congratulate the hon. Member for Suffolk Coastal (Jenny Riddell-Carpenter) on so passionately describing the issues for her constituents—but these are replicated for all of us. I will give some statistics from Northern Ireland to add to the support that I give to the hon. Lady and others. There are some 11,000 children in special education—an increase of 70% in the past 10 years—and 8% of those children have special educational needs. I do not know how many meetings I have attended with parents who are worried about their children. It has become an incredibly important issue. It is a mammoth take for the Minister here—it is good to see her in her place and I wish her well—as it is a mammoth take for those back home as well. I honestly believe that every child is a precious gift from God, born with a unique personality and a purpose to fulfil—each is valued, is important and matters. That is why I support the Minister in coming forward. I want to put it on the record that the Education Department in Northern Ireland, which I represent, has committed to a vision where, “Every child and young person is happy, learning and succeeding.” That aspiration is no different for our c",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Derek Twigg (in the Chair)",
+   "member_id": 429,
+   "type": "Contribution",
+   "text": "Thank you for keeping to the two minutes, more or less. We should continue that trend.",
+   "name": "Derek Twigg",
+   "role": "Chair"
+  },
+  {
+   "who": "Joe Morris (Hexham) (Lab)",
+   "member_id": 5081,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Mr Twigg. Last week, I had the privilege and opportunity to meet with the parents of some students from Hexham Priory school, which supports children with severe learning disabilities in my constituency in the county of Northumberland. One thing that comes to mind when speaking to those parents—as one of them put it to me—is that they are constantly fighting for their child, not just for their education, but for their ability to access swimming pools, leisure centres and other provision that we all take for granted when we are speaking to other children in our constituency.",
+   "name": "Joe Morris",
+   "party": "Lab",
+   "seat": "Hexham"
+  },
+  {
+   "who": "Sarah Smith (Hyndburn) (Lab)",
+   "member_id": 5117,
+   "type": "Contribution",
+   "text": "On that point, I want to emphasise that the parents and carers who I speak to in Hyndburn and Haslingden are bruised and burnt out—my hon. Friend talked about the constant fight and the adversarial nature of the system. I also keep hearing concerns from the parents and teachers in the system about some fear around the reforms that are coming, because they feel that might happen without them. Would my hon. Friend agree that is really important that the Government work with parents, teachers and carers as they develop those reforms, and that there is a real two-way conversation as we bring forward what is needed?",
+   "name": "Sarah Smith",
+   "party": "Lab",
+   "seat": "Hyndburn"
+  },
+  {
+   "who": "Joe Morris",
+   "member_id": 5081,
+   "type": "Contribution",
+   "text": "My hon. Friend knows, as I think we all do, the strength of feeling from SEND parents, staff and teachers, who have been burnt out over 14 years of failure on SEND. I certainly have my frustrations with Northumberland county council’s wrong-headed, misguided and deluded approach to the SEND crisis in my county. That particularly comes across with the lack of provision in the west of Northumberland, when I am constantly confronted by families travelling from Haltwhistle, which is—for those here who are not familiar with the geography of my constituency—in the extreme west of Northumberland, all the way to the coast to Ashington, which is often a journey that exceeds 90 minutes either way. Accessing that provision is incredibly hard and draining. I want to put on record my thanks to the parents and staff at Hexham Priory school, who provide that supportive and caring environment, to local charities such as Mencap, and to individuals who constantly reach out to my office—I know that there were 11 places, for which 72 applied. This is a crisis that we must work to address.",
+   "name": "Joe Morris",
+   "party": "Lab",
+   "seat": "Hexham"
+  },
+  {
+   "who": "Mr Gagan Mohindra (South West Hertfordshire) (Con)",
+   "member_id": 4804,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mr Twigg. I congratulate the hon. Member for Suffolk Coastal (Jenny Riddell-Carpenter) on securing this really important debate. Education is, and always will be, one of my top priorities. I am lucky enough to have visited many of my schools in South West Hertfordshire to see the excellent work that teachers are doing to ensure that every one of the children in my constituency has a good or excellent education. However, the statutory framework around parent choice should be working for schools, not against them. In my constituency, 17% of children have special educational needs, and I regularly receive correspondence and surgery requests from parents and constituents who are going through the process of trying to get an education, health and care plan for their child, or are dealing with the implementation of one. I am glad that Hertfordshire county council has made progress in this area and is continuing to do so. It is important that progress continues to be made. As someone who is dyslexic, I understand at first hand the frustrations posed by special educational needs and learning disabilities, and how important it is that those",
+   "name": "Mr Gagan Mohindra",
+   "party": "Con",
+   "seat": "South West Hertfordshire"
+  },
+  {
+   "who": "Ms Julie Minns (Carlisle) (Lab)",
+   "member_id": 5094,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mr Twigg. I thank my hon. Friend the Member for Suffolk Coastal (Jenny Riddell-Carpenter) for securing this important debate. Early in my career, I had the privilege of working for the disability charity Scope, where I successfully campaigned for increased funding for the schools access initiative to improve access to mainstream education. Ever since then, I have been a strong believer that, wherever possible, children with specialist needs should have them met in mainstream schools that support them and everything should be done to facilitate that. While I still believe in mainstream inclusion, I recognise that the demand is great and the complexity of need has increased and changed.",
+   "name": "Ms Julie Minns",
+   "party": "Lab",
+   "seat": "Carlisle"
+  },
+  {
+   "who": "Helen Maguire (Epsom and Ewell) (LD)",
+   "member_id": 5336,
+   "type": "Contribution",
+   "text": "On the point about access, does the hon. Member agree that it is really important that children are able to get to school in the first place? Private providers of SEND transport have reported that the increase in national insurance contributions will greatly impact their ability to get children to school, because they will have to run at a loss and might have to relinquish some of the contracts. That will put local authorities at risk of not meeting their statutory duties to ensure that children with SEN can access that transport.",
+   "name": "Helen Maguire",
+   "party": "LD",
+   "seat": "Epsom and Ewell"
+  },
+  {
+   "who": "Ms Minns",
+   "member_id": 5094,
+   "type": "Contribution",
+   "text": "I am sure that the Minister will address that point in her closing remarks, but I want to focus on the need, and the ability to get into a specialist school in the first instance. James Rennie school in my constituency is rated outstanding and does incredible work for children aged three to 19, but not everyone who needs a school like James Rennie is able to access one. The school has seen a huge increase in demand in recent years from families whose children have specialist needs. At the moment, it is already operating well above its published admission number, something it has achieved only by converting spare space into classrooms, and there is still more demand. For this September, it already has 43 known applications—25% of the children already in the school. James Rennie is not alone. Department for Education figures from March last year show that there are approximately 4,000 more pupils on the rolls of specialist schools than their reported capacity. Will the Minister address the need that we now have for more specialist schools? Let us be clear: there are 1.5 million SEND children in this country, including the 202 at James Rennie in Carlisle. All of us, in every part of t",
+   "name": "Ms Julie Minns",
+   "party": "Lab",
+   "seat": "Carlisle"
+  },
+  {
+   "who": "Shockat Adam (Leicester South) (Ind)",
+   "member_id": 5120,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Mr Twigg. I congratulate the hon. Member for Suffolk Coastal (Jenny Riddell-Carpenter) on securing this vital debate. I refer Members to my entry in the Register of Members’ Financial Interests: I am an NHS optometrist. I rise to highlight two critical issues: the severe gap in transport provision for post-16 students, and the additional challenges faced by children with visual impairment in the SEND system. No parent of a SEND child willingly chooses to send them miles away for education. They do so because there is a lack of local provision. Until the age of 16, local authorities cover the cost of transportation, but beyond that, families are expected to finance it themselves —an expectation that is, frankly, unrealistic. I have spoken to parents who are on the brink of crisis, including Ruth and Esther from Still SEND 16+. Some are considering giving up their work to personally manage their child’s school commute, pushing them into benefits and ultimately costing the state more than simply providing transport would. A consultation has already shown that 29% of affected young people may be forced to abandon education. Will the Gover",
+   "name": "Shockat Adam",
+   "party": "Ind",
+   "seat": "Leicester South"
+  },
+  {
+   "who": "Laurence Turner (Birmingham Northfield) (Lab)",
+   "member_id": 5234,
+   "type": "Contribution",
+   "text": "I congratulate my hon. Friend the Member for Suffolk Coastal (Jenny Riddell-Carpenter) on securing today’s debate. I draw the attention of the House to my declaration in the Register of Members’ Financial Interests in respect of support from support staff unions. I also wish to make a non-financial declaration of interest, which is that my partner is a member of the Department’s expert advisory panel on SEND. However, the views I express are my own. In the House we often talk about SEND funding and funding is important, but we also need to talk about SEND spending. The reality is that much money in the system is not spent well and that there are providers who charge too much for too little. In other aspects of education —children’s homes and other parts of the sector—we look at overcharging. The pirates of the high needs exist in SEND as well. I see it in my constituency and I see it in the cases parents and families bring to the SEND surgeries I run. I hope that when legislation is brought forward in this area, those problems will be addressed. In a former role, I submitted a freedom of information request to all local education authorities. Two thirds could not answer a simple qu",
+   "name": "Laurence Turner",
+   "party": "Lab",
+   "seat": "Birmingham Northfield"
+  },
+  {
+   "who": "Alistair Strathern (Hitchin) (Lab)",
+   "member_id": 5000,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for Suffolk Coastal (Jenny Riddell-Carpenter) for securing this important debate and for powerfully setting out so many of the failures that families in my constituency will be all too familiar with. There is nothing more heartbreaking than speaking to people in my constituency who have been let down by the national failures of the SEND system: the young person who has been out of school for far too long, with all the impact that has on their mental health and development, just because there is no school suitable for them in our local area; the family who have often had to step back from work to fight for the bare minimum legal entitlement of support that their young person needs to thrive at school; or the far too many of our schools that, despite going above and beyond, know they are not being set up to succeed when it comes to supporting far too many pupils with additional needs. When she described the system as “lose, lose, lose”, the last Conservative Education Secretary could not have been more right. In my local area, those painful failures are absolutely present at the local authority level too, whether in Hertfordshire county council’s sho",
+   "name": "Alistair Strathern",
+   "party": "Lab",
+   "seat": "Hitchin"
+  },
+  {
+   "who": "Chris Hinchliff (North East Hertfordshire) (Lab)",
+   "member_id": 5244,
+   "type": "Contribution",
+   "text": "I share my hon. Friend’s concern that far too many children in our part of the world miss out on years of education as a result of this crisis. In setting out many of the reforms we need to see, will he join me in urging the Minister to bring forward those reforms as swiftly as possible and to provide a clear timeline so that parents in our constituencies can look forward to them?",
+   "name": "Chris Hinchliff",
+   "party": "Lab",
+   "seat": "North East Hertfordshire"
+  },
+  {
+   "who": "Alistair Strathern",
+   "member_id": 5000,
+   "type": "Contribution",
+   "text": "Absolutely. It is really welcome that this has been a priority, right at the heart of the Government’s early decision making on education, and we need the pace to continue. It is clear that much further work will be needed on workforce planning. It is fantastic that we finally have a Government who are taking an interest in this issue and commissioning a survey to understand where the workforce shortages are, but it will be crucial for them to put in money to support the resolution of the challenges, especially in edge-of-London constituencies like mine, where all too often the resource is dragged into other authorities as a result of London weighting. We need to make sure that health partners are playing an ambitious role, too. Deprioritising health budgets is a false economy that only leads to increased pressures on education budgets.",
+   "name": "Alistair Strathern",
+   "party": "Lab",
+   "seat": "Hitchin"
+  },
+  {
+   "who": "Alice Macdonald (Norwich North) (Lab/Co-op)",
+   "member_id": 5133,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your leadership, Mr Twigg. I thank my hon. Friend the Member for Suffolk Coastal (Jenny Riddell-Carpenter) for securing this important debate. My area of Norfolk has unique challenges as well as the common challenges we have heard about from many Members. Between 2019 and 2024, we saw a 74.5% increase in the number of EHC plans issued, and it is rising faster than the national average. I want to touch on a few of the systemic problems I see in my area. Hon. Members have mentioned health. In Norfolk there are more than 10,000 children on waiting lists for an autism or ADHD assessment, and the average waiting time is seven years. That is totally unacceptable. Can the Minister tell us what is being done with the Department of Health and Social Care to expedite that process? When members of the public contact me, whether because they are being told that, since the specialist provision is within 3 miles, they must walk there and transport will not be funded, or whether it is to tell me about the thousands of pounds being poured into tribunal processes by Norfolk county council, my feeling is overwhelmingly that the system is failing them. We have an adver",
+   "name": "Alice Macdonald",
+   "party": "Lab/Co-op",
+   "seat": "Norwich North"
+  },
+  {
+   "who": "Sonia Kumar (Dudley) (Lab)",
+   "member_id": 5274,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mr Twigg. I am grateful to my hon. Friend the Member for Suffolk Coastal (Jenny Riddell-Carpenter) for securing this important debate. This issue resonates deeply with families in Dudley and across the nation. We all know that too many families are navigating a SEND system that is too difficult. Assessments are taking too long, support is inconsistent, and local authorities are under huge pressure to meet the increasing demand. Schools are struggling with managing children with no diagnosis and supporting those with a diagnosis. In the 2024 autumn Budget, £1 billion of specifically allocated SEND funding was announced. That investment is vital to tackle the challenges that parents and schools face every day. Dudley is no exception to the issues that have been raised. The number of children with education, health and care plans has risen significantly, reflecting the growing need for specialist support. We must confront the fact that too many families and schools feel that they have to fight the system just to get the right support for their children. My constituent Catherine Beaman has had to set up her own SEND support group in Se",
+   "name": "Sonia Kumar",
+   "party": "Lab",
+   "seat": "Dudley"
+  },
+  {
+   "who": "Alex McIntyre (Gloucester) (Lab)",
+   "member_id": 5349,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Mr Twigg. I thank my hon. Friend the Member for Suffolk Coastal (Jenny Riddell-Carpenter) for securing this important debate. I have been contacted time and again by parents in Gloucester who are desperate for support for their children. They have been failed by the system and their children have been left to suffer as a result. The message from parents is clear: they want more support, a reduction in the waiting times for EHCPs, and a system where every plan is processed quickly, fairly and effectively. It is clear that the last Government failed to invest, failed to plan and failed an entire generation of our children and their parents. They created a postcode lottery whereby parents are forced to battle the system rather than being supported by it. That is one of the biggest challenges facing parents in my area: a system that denies their child’s needs and puts the presumption on saying no, rather than asking how it can best support children. The repercussions are staggering. In the past decade, decision times on EHCPs increased by 140%, with two in five taking more than six months to process. In Gloucester, only 35% of EHCP decisi",
+   "name": "Alex McIntyre",
+   "party": "Lab",
+   "seat": "Gloucester"
+  },
+  {
+   "who": "Baggy Shanker (Derby South) (Lab/Co-op)",
+   "member_id": 5176,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for Suffolk Coastal (Jenny Riddell-Carpenter) for securing this incredibly important debate. When we came into government we knew we were going to inherit a mess after years of chaos under the Conservatives. Unfortunately, special educational needs provision has been a particularly shocking example of the real consequences for families and individuals who are lost in a system that has been mismanaged, neglected and starved of funding. Put simply, SEND provision was at crisis point. I pay tribute to the incredible teachers and teaching assistants who work so hard to support every child, in every school, in every classroom. Whenever I visit schools in Derby, I see how dedicated they are to helping children, despite their limited resources. But teachers feel guilty because while they focus their attention on the children with special educational needs, they are unable to support the rest of their classes who, with a little more help, could go on to achieve so much more. Every child deserves the tools they need to succeed, but children cannot succeed when they are deprived of the basic support they need in the classroom. In my constituency, one of the ",
+   "name": "Baggy Shanker",
+   "party": "Lab/Co-op",
+   "seat": "Derby South"
+  },
+  {
+   "who": "Jodie Gosling (Nuneaton) (Lab)",
+   "member_id": 5036,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mr Twigg. I thank my hon. Friend the Member for Suffolk Coastal (Jenny Riddell-Carpenter) and congratulate her on securing this debate. I draw attention to my entry in the Register of Members’ Financial Interests, and to my partner’s interests. Given the time limit, I will focus on one case in my constituency, out of so many. It is not new, but a decade-long issue on which we have been fighting for one child. We tried to submit this child’s assessment when she was three years of age, but it was unsuccessful. Only following an Ofsted intervention at Warwickshire county council did she finally get a diagnosis of autism, six years later. No directives were made for other special needs. She is now in secondary school and, eight years on, she is still awaiting diagnosis of and support for ADHD and other complex needs. Her mum constantly has to fight, and has engaged proactively with every intervention she has been offered, such as early help. When her mum last inquired to find out how long they would have to wait, she was told the waiting list is still measured in years, not in months or weeks. After first displaying diagnosable traits ",
+   "name": "Jodie Gosling",
+   "party": "Lab",
+   "seat": "Nuneaton"
+  },
+  {
+   "who": "Jim Shannon",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "Everybody brings a personal story to this place, and the hon. Lady has brought a very personal story. It is obvious to all of us here that the hon. Lady is a compassionate MP and understands the issues for her constituents, and she has portrayed that very well. She is assiduous and honest, and we thank her for that.",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Jodie Gosling",
+   "member_id": 5036,
+   "type": "Contribution",
+   "text": "I thank the hon. Gentleman for giving me a moment to compose myself. Children should not be seen as a tick list of diagnosis criteria. We need a SEND system that deals with children and families holistically, that listens to their voices and that tackles the root causes.",
+   "name": "Jodie Gosling",
+   "party": "Lab",
+   "seat": "Nuneaton"
+  },
+  {
+   "who": "Terry Jermy (South West Norfolk) (Lab)",
+   "member_id": 5338,
+   "type": "Contribution",
+   "text": "It is an honour to serve under your chairmanship, Mr Twigg. I pay tribute to my hon. Friend the Member for Suffolk Coastal (Jenny Riddell-Carpenter) for securing this debate. I know she is doing all she can to improve SEND provision in her constituency and in the wider county of Suffolk. SEND issues in my South West Norfolk constituency are a constant in my inbox. After 14 years of neglect, families are at the end of their tether and are desperate for support. The size of the task facing the Government in repairing trust in the SEND system is clear and frankly daunting. As my hon. Friend the Member for Suffolk Coastal mentioned, we must not forget that in areas like Suffolk and Norfolk the challenges are exacerbated because of rurality and difficulties accessing services that are often miles away. I have been here before to speak about SEND, and have spoken to the Minister a number of times, but today I want to make a particular point about tribunals. Many county councils are losing scores of tribunal cases. In Norfolk, the Conservative-controlled county council is losing 98% of all tribunal cases—there seem to be no real consequences to the failure to act in the first place—and ha",
+   "name": "Terry Jermy",
+   "party": "Lab",
+   "seat": "South West Norfolk"
+  },
+  {
+   "who": "Jim Dickson (Dartford) (Lab)",
+   "member_id": 5223,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Mr Twigg. I pay tribute to my hon. Friend the Member for Suffolk Coastal (Jenny Riddell-Carpenter) for securing this important debate and for her excellent speech. As colleagues from all parties have said, the system for young people with special educational needs in England is not working for schools, for councils and, most importantly, for the young people who so desperately need support. This is yet another area where, as the commentator Sam Freedman who worked at the Department of Education put it, the previous Government “chose to go slow in coming up with solutions so as to avoid difficult or expensive decisions before the election.” It has been left to the new Labour Government to fix it. I welcome the steps taken so far, with £1 billion infused into the SEND budget in October and £740 million announced to create thousands of specialist places, including in mainstream schools. In my Dartford constituency, Kent county council has been unable to respond properly to the families seeking the help that their children need. I hear regularly of EHCP annual reviews taking many times longer than the 12 weeks they should take, including ",
+   "name": "Jim Dickson",
+   "party": "Lab",
+   "seat": "Dartford"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mr Twigg. I congratulate the hon. Member for Suffolk Coastal (Jenny Riddell-Carpenter) on securing this important debate. Another week, another debate on SEND. Since the start of this Parliament, barely a week has gone by when we have not had questions or debates, either in this Chamber or the main Chamber, on special educational needs and disability provision. From what we have heard today—I particularly thank the hon. Member for Nuneaton (Jodie Gosling) for her courage in sharing her constituent’s moving story—we know that every Member’s inbox is bulging with casework from constituents about the dire crisis in SEND, which is why these debates are so oversubscribed. We are also getting report after report. In the last few months, the National Audit Office, the Institute for Fiscal Studies and the Public Accounts Committee have all come out with the same damning verdict about a broken system, with money coming in but outcomes for children going down. These are some of our most vulnerable children and young people, and we as a society must do our best to meet their needs. We know that families face a postcode lottery, with delays th",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Mr Mohindra",
+   "member_id": 4804,
+   "type": "Contribution",
+   "text": "Is the hon. Lady suggesting that we ban private equity companies from being involved in the sector?",
+   "name": "Mr Gagan Mohindra",
+   "party": "Con",
+   "seat": "South West Hertfordshire"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "No. As a Liberal—I have said this many a time—I believe in a mixed economy in many of our public services. I was about to make the point that the Children’s Wellbeing and Schools Bill contains important measures to stop profiteering in children’s social care. When I proposed an amendment in Committee to extend the profit cap to special schools, I explained that the private equity companies that are making a ridiculous amount of profit in the children’s social care sector are also running private special schools. Some are not making a huge profit, but I do not think a 20%-plus profit margin in a taxpayer-funded system is acceptable, which is why my Liberal Democrat colleagues and I proposed an amendment to the Bill to extend the profit cap to special schools. I was disappointed that Labour Members and Ministers voted against it, but I again urge them to consider the proposal. We know we are in a cash-constrained environment—we hear every day from Ministers, not least the Chancellor, about how little money there is—but savings can be found in this area, and we can invest them back into our most vulnerable children. My final proposal for Ministers, which the Minister has heard me talk",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Gregory Stafford (Farnham and Bordon) (Con)",
+   "member_id": 5351,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mr Twigg. I congratulate the hon. Member for Suffolk Coastal (Jenny Riddell-Carpenter) on securing this important debate. As Members have said, we seem to discuss SEND in this House pretty much on a weekly basis, and rightly so. I am the vice-chairman of the all-party parliamentary group for special educational needs and disabilities, and I do cross-party work with colleagues in this Chamber and beyond to ensure the experiences of constituents are heard in this place. I, too, have a number of special schools in my constituency—both state and independent. Hon. Members will have to forgive me for not talking about every single contribution that was made today. I thank my right hon. Friend the Member for Chingford and Woodford Green (Sir Iain Duncan Smith) for his comments about sensory and calming rooms, and I hope the Minister will take them into account. Likewise, I thank my hon. Friend the Member for South West Hertfordshire (Mr Mohindra), whose commitment to education in his constituency is obvious. I hope the Minister will consider the statutory changes that he asked for. I pay tribute to the hon. Member for Nuneaton (Jodie Gosl",
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon"
+  },
+  {
+   "who": "Alistair Strathern",
+   "member_id": 5000,
+   "type": "Contribution",
+   "text": "Will the hon. Gentleman give way?",
+   "name": "Alistair Strathern",
+   "party": "Lab",
+   "seat": "Hitchin"
+  },
+  {
+   "who": "Gregory Stafford",
+   "member_id": 5351,
+   "type": "Contribution",
+   "text": "I am under a lot of time pressure, and I want the proposer of the motion to be able to get in, so I will not. I have to leave time for the Minister too, and I really want to hear her answers to my questions. As I was saying, I would therefore be grateful for the Minister’s confirmation that she has engaged with parents and teachers in this situation. And what steps is she taking to ensure that vulnerable children do not suffer the greatest because of this Government’s policy? Despite the—I have to say—utter nonsense we heard from the hon. Member for Gloucester (Alex McIntyre), the Conservative Government launched a review of the SEND system in 2019 to end the postcode lottery, and committed an extra £700 million in the year 2020-21, an 11% increase on the year prior. Moreover, to ensure that children and young people received the most appropriate support for their needs, the national SEND and alternative provision implementation board was established.",
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon"
+  },
+  {
+   "who": "Alex McIntyre",
+   "member_id": 5349,
+   "type": "Contribution",
+   "text": "Will the hon. Member give way?",
+   "name": "Alex McIntyre",
+   "party": "Lab",
+   "seat": "Gloucester"
+  },
+  {
+   "who": "Gregory Stafford",
+   "member_id": 5351,
+   "type": "Contribution",
+   "text": "I am not going to give way, sorry. That created a national system with new, clear standards under the Green Paper, and a consultation that set out the Conservatives’ commitment to delivering the support that children with SEND truly need. To oversee those vital changes, the SEND system leadership board brought together sector leaders across education, health and social care to drive improvements. The Local Government Association has warned, however, that without proper reform, SEND provision will deteriorate and become financially unviable. A 2024 National Audit Office report echoed those concerns, highlighting the 140% rise in EHCPs since 2015 and warning that the system will become financially unsustainable if unchanged. Information from the Children and Young People Select Committee last year indicated that there were 2,784 children and young people waiting for autism and ADHD assessments in East Hampshire in my constituency, with waiting times averaging around two years. During that time, children and their families are unable to access the necessary provisions, and that negatively affects their quality of life and puts pressure on local schools. That situation increases the ri",
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon"
+  },
+  {
+   "who": "Derek Twigg (in the Chair)",
+   "member_id": 429,
+   "type": "Contribution",
+   "text": "I ask the Minister to leave a minute or so at the end, so that the hon. Member for Suffolk Coastal can wind up.",
+   "name": "Derek Twigg",
+   "role": "Chair"
+  },
+  {
+   "who": "The Minister for School Standards (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I congratulate my hon. Friend the Member for Suffolk Coastal (Jenny Riddell-Carpenter) on securing this incredibly important debate, and on the way in which she set out her constituents’ case. Like many other hon. Members in the Chamber, she clearly has a keen interest in the support and services that are made available to children and young people with SEND. I also thank hon. Members from both sides of the House, including the hon. Member for Strangford (Jim Shannon), for recognising that work is needed to put right the terrible situation currently faced by far too many children in the system, and that we need to improve it. Doing so is a vital part of the Government’s opportunity mission. We want to break the link between background and opportunity, and that means giving every child, including children with special educational needs and disabilities, the very best start in life.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Melanie Onn (Great Grimsby and Cleethorpes) (Lab)",
+   "member_id": 4464,
+   "type": "Contribution",
+   "text": "On the point about giving children the best start at the earliest stage, what are the Minister’s thoughts on properly integrating family hubs into education, health and local authorities, to ensure seamless support for children with SEND?",
+   "name": "Melanie Onn",
+   "party": "Lab",
+   "seat": "Great Grimsby and Cleethorpes"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend raises an important point. The Government are committed to expanding the work of the family hubs to ensure that every community has support to create that earliest intervention. Many hon. Members have mentioned the importance of early intervention. We agree that it is vital, but I will come to that in more detail. She tempts me down a different path from the one I was going down. I reassure my hon. Friend the Member for Suffolk Coastal that addressing challenges in the SEND system is a priority for me, for the Department for Education and for the Government. We recognise that this is a whole-Government effort, including the Department of Health and Social Care, the Ministry of Housing, Communities and Local Government and the Department for Transport. Many hon. Members raised challenges around school transport. It is a priority to fix that system and get the best outcomes for every child. I also reassure my hon. Friend the Member for Suffolk Coastal that I would be delighted to visit her constituency, which I hope can be arranged.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Debbie Abrahams (Oldham East and Saddleworth) (Lab)",
+   "member_id": 4212,
+   "type": "Contribution",
+   "text": "More than one in three SEND children in Oldham is diagnosed with autism or a neurodivergent condition, which is above the national average. We know that there are implications for educational attainment and work. Has there been an assessment of the increase in children with autism or neurodivergent conditions? If so, what were its conclusions?",
+   "name": "Debbie Abrahams",
+   "party": "Lab",
+   "seat": "Oldham East and Saddleworth"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend raises an important point. The additional recognition of special educational needs and disabilities has highlighted not only the extent of the challenge to ensure the best offer for all children, including those with SEND, but that we should give every child the best education, regardless of their special educational needs and disabilities. Our ability to identify aids us to have the infrastructure and support in place to ensure that every child has the best start in life. I will talk in more detail about how we do that, as many hon. Members have asked. We have reached the point of recognising the challenge, although the surprising contribution of the Conservative Front Bencher, the hon. Member for Farnham and Bordon (Gregory Stafford), was a caveat to that. In the context of this debate, where we recognise that there is a shared challenge, his contribution seemed to skip from 2014 to the present day, as though the previous 10 years had not happened. It bore no recognition of that, despite his former Secretary of State for Education, Gillian Keegan, acknowledging that the system presided over in the10 years prior to 2024 was “lose, lose, lose”. I agree that we should",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Alex McIntyre",
+   "member_id": 5349,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Minister for having the confidence and courage to accept interventions, unlike some hon. Members. Does she agree that the shadow Minister’s comments showed how out of touch the Conservative party is? Parents have been in tears in my surgeries due to the system that the Conservatives left behind.",
+   "name": "Alex McIntyre",
+   "party": "Lab",
+   "seat": "Gloucester"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I appreciate what my hon. Friend says. I am happy to take interventions, but I have to cover a lot of issues that hon. Members have raised. I hope that, in the time we have left, I have the opportunity to do so. I know we all agree that every child deserves the opportunity to achieve, thrive and succeed. Where possible, as highlighted by a number of hon. Members, including my hon. Friend the Member for Carlisle (Ms Minns), that should be within a mainstream setting with their friends. However, we are aware that there are significant challenges currently in achieving that. That is why we are prioritising early intervention, which a number of hon. Members have raised, and inclusive provision within mainstream settings. We know that providing early intervention prevents unmet needs from escalating and supports children to achieve their goals and thrive alongside their peers. We are really committed to working to deliver that for every child in every community. We are doing so by increasing high needs funding by £1 billion, which brings the total funding to £11.9 billion. Suffolk county council is allocated £124 million through the high needs funding block. That is an increase of £10.3",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Ben Maguire (North Cornwall) (LD)",
+   "member_id": 5350,
+   "type": "Contribution",
+   "text": "Will the hon. Member give way?",
+   "name": "Ben Maguire",
+   "party": "LD",
+   "seat": "North Cornwall"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I am sorry; I will not be able to respond to hon. Members’ queries and concerns if I give way again. EHCP timeliness was raised by a number of hon. Members, including by my hon. Friends the Members for Hitchin (Alistair Strathern) and for Dartford (Jim Dickson), whose contribution was excellent, and the hon. Member for South West Hertfordshire (Mr Mohindra). We monitor the timeliness of ECHPs, but there is a balance to be struck between issuing them within the timeframes required, which we need to see, and making sure that they achieve the outcome that we want—namely, better opportunities for the children that they are intended to serve. We will continue to monitor that and work with local authorities to improve it. My hon. Friend the Member for Suffolk Coastal will be aware of the key role that alternative provision settings such as pupil referral units play in supporting vulnerable children and young people with SEND. We want them to work together with mainstream settings to make sure that we have targeted interventions and support to improve behaviour and attendance and to reduce the risk of exclusions, which my hon. Friend the Member for Hitchin raised. Speech and language is a",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Jenny Riddell-Carpenter",
+   "member_id": 5160,
+   "type": "Contribution",
+   "text": "I thank the Minister for her comments. It is great to hear that this issue continues to be a national priority. Members on both sides of the House will continue to work with the Government to ensure that each of our regions can deliver and help to fulfil that goal. I thank all hon. Members for contributing and look forward to welcoming them to Suffolk Coastal to see it at first hand. Question put and agreed to. Resolved, That this House has considered SEND education support.",
+   "name": "Jenny Riddell-Carpenter",
+   "party": "Lab",
+   "seat": "Suffolk Coastal"
+  }
+ ],
+ "fetched": "2026-10-21T20:25:22Z"
+}

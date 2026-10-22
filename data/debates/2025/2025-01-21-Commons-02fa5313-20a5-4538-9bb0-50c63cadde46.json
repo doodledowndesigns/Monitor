@@ -1,0 +1,1878 @@
+{
+ "ext_id": "02fa5313-20a5-4538-9bb0-50c63cadde46",
+ "date": "2025-01-21",
+ "house": "Commons",
+ "section": "PBC",
+ "title": "Children's Wellbeing and Schools Bill (Second sitting)",
+ "parents": [
+  "Public Bill Committees"
+ ],
+ "location": "Public Bill Committees",
+ "url": "https://hansard.parliament.uk/Commons/2025-01-21/debates/02fa5313-20a5-4538-9bb0-50c63cadde46/ChildrenSWellbeingAndSchoolsBillSecondSitting",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale",
+   "member_id": 5225
+  },
+  {
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston",
+   "member_id": 4679
+  },
+  {
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education",
+   "member_id": 4653
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North",
+   "member_id": 5294
+  },
+  {
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire",
+   "member_id": 3969
+  },
+  {
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen",
+   "member_id": 5270
+  },
+  {
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards",
+   "member_id": 4125
+  },
+  {
+   "name": "Matt Bishop",
+   "party": "Lab",
+   "seat": "Forest of Dean",
+   "member_id": 5323
+  },
+  {
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich",
+   "member_id": 5303
+  },
+  {
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North",
+   "member_id": 5143
+  },
+  {
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire",
+   "member_id": 5249
+  },
+  {
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East",
+   "member_id": 5210
+  },
+  {
+   "name": "David Baines",
+   "party": "Lab",
+   "seat": "St Helens North",
+   "member_id": 5092
+  },
+  {
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire",
+   "member_id": 5096
+  },
+  {
+   "name": "Vicky Foxcroft",
+   "party": "Lab",
+   "seat": "Lewisham North",
+   "member_id": 4491
+  }
+ ],
+ "contributions": [
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Before we take evidence from further witnesses, we have a declaration of interest.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Lizzi Collinge (Morecambe and Lunesdale) (Lab)",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "I want to make the Committee aware that I am the chair of the all-party parliamentary humanist group. That may become relevant because of evidence submitted to the Committee.",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Thank you. I am a vice-president of the Local Government Association, but as I will not be making any comments, that may not be relevant. Examination of Witness Dame Rachel de Souza gave evidence.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O’Brien (Harborough, Oadby and Wigston) (Con)",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q 89 Thank you for coming—welcome. I want to ask for your view on the second half of the Bill, on schools. We have heard a lot of criticism of it from the Confederation of School Trusts, some of our leading trusts and, indeed, a couple of Labour MPs. What is your view on the schools, rather than the wellbeing, part of the Bill? Dame Rachel de Souza: I am the Children’s Commissioner and have been since 2021, and before that I was a school leader in the most disadvantaged areas for 20 years, so I am very interested. I am pleased to see a Bill on children’s wellbeing; it is great that we are getting some legislation on that. I was well consulted around the first part of the Bill, on wellbeing, and I was able to take the children’s voice through. I worked closely with the Department for Education and others to ensure that it was honed, refined and made really good, as I did on some bits of the schools part. But I do not think that anybody got to see the schools bit until it was published. On the schools bit, what I feel more than anything is that we now have a period of time when we need to see a vision for a new, vibrant and transformative schools system—how it will work locally, with",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q What do you think of the curtailment of academy freedoms in the Bill? It has now been published, so you have seen it, albeit that you were not talked to before. What do you think about the moves to scale back the academy programme, the end of academy orders, and LAs setting up new schools? If you were doing this, is that the direction you would want to go in? Dame Rachel de Souza: Look, I need the school system to be as ambitious for children—as Children’s Commissioner, I represent children—as they are for themselves. I had hoped that we would get to a point where we were not talking about old binaries—academies or council schools—but talking about schools, families of schools and building up our local authorities so that everyone can play their part to support standards in the post-lockdown period. I have two issues with the academies provisions. First, I cannot let children remain in failing schools, so if those are going, I need to know what is going to happen. Childhood lasts a very short time, so if a child is in a failing school, how will those schools be improved, immediately and effectively? Secondly, as well as a real vision for the schools system—I know that it is there",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q The hon. Member for Mitcham and Morden (Dame Siobhain McDonagh) has raised some concerns, as has the Confederation of School Trusts, about the end of academy orders and the fact that because academisation is no longer automatic, there will once again be the prospect of legal action, lots of community campaigns against these things, and potentially quite long delays. She said on Second Reading that children in those schools do not have time to wait. Do you agree with her? Dame Rachel de Souza: I think, Neil, that you have given quite a thoughtful comment, which people new to education might not quite get. Probably the main reason for academy orders was to try to expedite improvement quickly against a backlash. Would it not be great if we could get everyone on side to be able to act really quickly, together, to improve schools that need improving? I am not going to get hung up on this bit. What I want to see is the vision for how we are going to work together with the best knowledge we have about school improvement, and with a sense of absolute urgency about making sure that no child is sitting in a failing school, because childhood lasts such a short time. What makes a great schoo",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Stephen Morgan)",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Q Dame Rachel, thank you for giving evidence to the Committee today. Returning to the benefits of the Bill, can you explain what you think the benefits of introducing a single unique identifier will be to the safeguarding of all children? Dame Rachel de Souza: Yes. Before I do, I want to praise the fact that the children’s bit of the Bill really listens to children, because it has tried to do that. I want the schools bit to do the same. Since Minister Morgan is asking the question, I will say that he was the first person to speak to my ambassadors and actually try to take on board their views. That is important for all of us—we need to hear from children all the time. I have been obsessed with the unique identifier from the second I got into my role. I do not need to spell out why—well, maybe I do. In my first couple of weeks in the role, I visited a violence reduction unit—a police crime reduction unit—in Bedfordshire, and it had a spreadsheet of children that were on nobody’s roll. They were not on any GP system or school roll; they were known by nobody. We cannot, in this century, with the tech capacity we have, find ourselves in that position. I spoke to Professor Jay yesterday",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q Dame Rachel, you said that you are meant to be the voice of children. I know you have made it your mission, through your various reports and surveys, to make sure that you amplify the voices of children. To what extent do you think their priorities and concerns are reflected in the Bill, and what more could we be doing to reflect them? Dame Rachel de Souza : On the children’s social care side, I can absolutely assure you that vulnerable children’s voices have been taken through. On deprivation of liberty orders, I did research with children deprived of their liberty and took their voices through. On many of the multi-agency points, and lots of other things, their voices have gone through. We have an opportunity to take children’s voices through on the schools side, but I do not think it has been done. I have had a million responses from school-aged children about what they want from their schools. The top things that they tell me they want are to study and to have a curriculum that they are really interested in and motivated by. They know they have to do the core, but they want all those things that they are really interested by in there too. They also want proper mental health s",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q Coming back to child protection, you mentioned Professor Jay, whom I also met last week. The unique identifier will help with data sharing if we can get the systems right, but she also felt that a child protection agency that had national standards for lots of bodies and made sure that children did not fall through the gaps was really important. The Bill does not include that. Would you support such a measure? Dame Rachel de Souza : What I said to her yesterday was, “Stop thinking of it like the Health and Safety Executive and start thinking of it like the National Crime Agency.” I think there is a debate to be had about whether we should do it. Look, my job came in 20 years ago when Victoria Climbié was brutally murdered by those who should have loved her most. Nobody murdered her but them, but the agencies around her did not talk. Every time a child dies, we give exactly the same set of recommendations, including better multi-agency working and better join-up, yet time and again—Arthur Labinjo-Hughes, Sara Sharif—we find ourselves saying the same things. The positive in that idea is having some way of making sure that social care and the other agencies really work together. The",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Several Members want to be called. I cannot call everybody. Dame Rachel de Souza : I will try to be brief.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "If I do not call you in this session, I will call you in a future one. Can we have questions to the point, so we can get on, please?",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Amanda Martin (Portsmouth North) (Lab)",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "Q I am sorry if this is a blunt question, but on 18 April 2022, you wrote an opinion piece for the Telegraph alongside Nadine Dorries, who was then the Culture Secretary. In that article, you said that the Conservative manifesto was “our manifesto”. Are giving evidence here today from your personal opinion or in your role, given that you called the 2019 Conservative manifesto “our manifesto”? Dame Rachel de Souza : I really do not remember that word, but I did that article with Nadine Dorries because I was absolutely desperate for the Online Safety Bill to get through. I spoke to Lucy Powell and Bridget about it. I felt that there were forces in the Government at the time that were trying not to let the Bill go through, because of freedom of speech issues. I knew that the NSPCC was working with Labour, and I stuck my neck out in that article to try to convince everybody that the Online Safety Bill should go through. I am totally independent. I do not think that any Government or person I have worked with thinks otherwise. I challenge you to find anywhere—I mean, this is a word in an article. I think you will find that I have been strong and robust on online safety. Sometimes I use ",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "Amanda Martin",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "Q So, to answer my question, you are giving evidence as the commissioner. Dame Rachel de Souza : Always. I would not come to Parliament and do anything else.",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q Dame Rachel, can you talk a little about the register of children not in school? What is the irreducible core of what we need to know and what information should be gathered in those cases? Dame Rachel de Souza : We have always been worried, and successive Governments have felt that maybe there was a need for this—I think you, Damian, did the first consultation on it a long while back—and there has been a debate going on about whether we should have a register of children not in school. I am delighted to see it in this Bill. The number of children missing from education is getting worse. We know that post-lockdown, there was a massive rise in children persistently absent and severely absent, and a massive number of children missing from education. I have made it my business to look into who those children are; I did that in 2021. We have three pots of children: children with special educational needs who went off in 2019 and have not come back; children with mental health/anxiety concerns; and children who really have just gone, who are at risk of CSE. We really need a register. We have another problem, which I have investigated. I looked at last year’s roll and compared it with ",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We will have one final, brief question—hopefully with a brief answer—from Darren Paffey.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Darren Paffey (Southampton Itchen) (Lab)",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "Q The Bill seeks to move on from a fixation on structures and get back to outcomes and wellbeing. If I have understood your earlier comments, you welcome that. Do you think the Bill will sufficiently break that link between a child’s background and their future success? Do you believe that the measures will move us closer to that? Dame Rachel de Souza : I am delighted with the measures for vulnerable children. I am hopeful for the measures on the schools side, but we need to see a bit more of a vision before I can answer. What is that system going to look like? My recommendation would be focusing on how, in local areas, we can build up and strengthen our local authorities so that they can be the champions of children, particularly vulnerable children, and convene the trusts and the schools so that everyone can work together to share their expertise. If we do that, we will have a great shot at it, and I think it could be really good.",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "That brings us to the end of this session. I know there are other Members who want to get in; I will try to call you during the next session. Examination of Witnesses Sir Martyn Oliver, Lee Owston and Yvette Stanley gave evidence.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Will the witnesses from Ofsted please introduce themselves? Sir Martyn Oliver : I am Sir Martyn Oliver, His Majesty’s chief inspector at Ofsted. Yvette Stanley: My name is Yvette Stanley, Ofsted’s national director for early years regulation and social care inspection and regulation. Lee Owston: I am Lee Owston, one of His Majesty’s inspectors and Ofsted’s national director for education.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Thank you for coming. I have some short questions that do not need particularly long answers. Have you found evidence that academy schools are not teaching a broad and balanced curriculum? Are you finding lots of academies not doing that? Sir Martyn Oliver: No, we do not find that.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Is there a major problem with schools employing teachers without qualified teacher status? Are non-QTS teachers not up to scratch? Would you regard it as a red flag if a school were employing non-QTS teachers? Would it make you think, “We’re probably heading towards a bad result here”? Sir Martyn Oliver: We do not actually look at the backgrounds of teachers and check to that level of detail, so I could not give you a quantitative answer. I do know that increasingly, as schools are finding it difficult to recruit and retain staff, they are looking at alternative measures. It is massively important that people be qualified to teach children to the highest possible standard in the specialism in which they are delivering.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Do you recognise that sometimes a school can bring someone in who might be at a later point in their career and be highly specialised—perhaps a great sportsman, an IT person or a scientist—and that if the headteacher takes the view that they would be a good person for teaching, as an alternative to having no teacher, that can be the right decision? Sir Martyn Oliver: Speaking as a previous headteacher, absolutely. Bringing in external expertise to supplement high-quality qualified teachers is clearly of benefit to children.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q The Bill will remove the academy order. How will the intervention regime work in future? At the moment, the Ofsted handbook states that “if any key judgement is inadequate…we will place the school in a formal category of concern.” How will that work in future? If a school is in the bottom tier of one of your new categories of assessment, what will happen? Sir Martyn Oliver: The legal powers for Ofsted are that I identify to the Secretary of State a school that is in special measures or requires significant improvement. That requirement—from, I think, the Education and Inspections Act 2006—will not change. Ofsted will still be under a duty to pass that on to the Secretary of State. Very imminently, I will consult on a new framework that will strengthen and raise standards further. I am interested to see what the Department for Education will release alongside my consultation to explain those academy orders further.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Are we still waiting to hear what that intervention regime will look like? Sir Martyn Oliver: Yes, but I think it is very imminent. I am very happy: I feel that we are going to hold the system to account to raise standards better than ever before.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "It will help if those Members who wanted to ask a question last time but were not called indicate if they want to ask a question in this session.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Minister for School Standards (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Q Is Ofsted pleased to see the measures in this Bill, in the round? Sir Martyn Oliver: Yes, absolutely. We very much welcome the introduction of the Bill, which will deliver some of the important legislative asks that Ofsted has made for a long time, especially to keep the most vulnerable safe and learning. That includes removing loopholes that enable illegal schools to operate, improving Ofsted’s powers to investigate unregistered schools that we suspect may be operating illegally, enabling Ofsted to fine unregistered children’s homes for operating unsafe and unregulated accommodation for vulnerable children, introducing a register of children not in school—I could go on. We are very happy with large parts of the Bill.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Q You have already set out the impact that the Bill will have on Ofsted’s powers. I imagine that you spend a large proportion of your time worrying about the most vulnerable children in society. What do you think will be the impact of the Bill on those children who are most in need? Sir Martyn Oliver: Our top priority is the most disadvantaged and vulnerable. The ability to look at illegal or unregistered settings, unregistered children’s homes and illegal schools is hugely important. When they are out of Ofsted’s line of sight, it causes us great concern. I think that this Bill or a future Bill could go further and look at unregistered alternative provision, because all children educated anywhere for the majority of their time should be in sight of the inspectorate or a regulator. I do think that we will see significant issues with addressing the most disadvantaged and vulnerable, especially in part 1, on children’s social care.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q You talked about the additional powers that you are being given, and you mentioned AP as an area where you would like it to go further. Is there anywhere else where you would like it to go further? Importantly, do you feel that Ofsted has the capacity and capability to deliver on all this? When I talk to local government, I often hear that there are quite a lot of delays with Ofsted. Sir Martyn Oliver: We think that there are grey areas where the legislation will help us get it right, but we do think that we can go further. For example, the feasibility and administrative costs of carrying out searches of illegal schools and the requirement of getting a warrant would be very burdensome for Ofsted, and we will need additional resource to manage that. It is massively important. We will always use those powers proportionately and with care. For example, in a commercial setting, the ability to have different powers that allow us to search without a warrant would be far more reasonable. Obviously, in a domestic setting, I would expect safeguarding measures to be in place and to require a warrant, because forcing an entry into somebody’s private home is entirely different from doing so ",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q I want to pick up on Neil’s question about the automatic intervention by Ofsted where, with a failing school, an academy order is put in place. I am just a bit perplexed by the timing of the Bill. Although I support the provision that it should not always be automatic, given that you are only just about to launch a consultation on your framework, and perhaps the Department around the accountability measures, are we moving too soon in the Bill before we have had the consultation on your new framework? Sir Martyn Oliver: The consultation will meet the Government test and will run for 12 weeks imminently. The Bill will obviously pass through the House at that time. I think it will bring it all together in a more joined-up system. The system has been calling for inspection and accountability to be joined up, and we are about to deliver that in, I hope, the next few weeks. Of course, the consultation is not a fait accompli. I will be really interested to receive feedback from everyone, and we will respond to that at the end and see where it takes us. I hope that at the end it will be a better system for vulnerable and disadvantaged children, alongside all children, to keep them safe a",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Matt Bishop (Forest of Dean) (Lab)",
+   "member_id": 5323,
+   "type": "Contribution",
+   "text": "Q Sir Martyn, you mentioned in relation to Neil’s question that staff, not necessarily with qualified teacher status, can be a great supplement. I agree that they can be, but can you just clarify that that “supplement” means a supplement, not the main teacher for the whole academic year, year on year? Sir Martyn Oliver: Again, it would depend. In the past, I have brought in professional sportspeople to teach alongside PE teachers, and they have run sessions. Because I was in Wakefield, it was rugby league: I had rugby league professionals working with about a quarter of the schools in Wakefield at one point. I had a tremendous amount of help from the local rugby teams, but that was alongside qualified teachers carrying out that work. That was important to me, because those qualified teachers could meet the risk assessment regarding the activity of teaching children rugby league. Having that specialism is key. There is a reason why you train to be a teacher and it is a profession.",
+   "name": "Matt Bishop",
+   "party": "Lab",
+   "seat": "Forest of Dean"
+  },
+  {
+   "who": "Matt Bishop",
+   "member_id": 5323,
+   "type": "Contribution",
+   "text": "Q Just to clarify, that is alongside fully qualified teachers, not instead of? Sir Martyn Oliver : Ideally alongside. I personally would never have done “instead of” as a first choice. That would have been a deficit decision, based on my ability to recruit and retain staff.",
+   "name": "Matt Bishop",
+   "party": "Lab",
+   "seat": "Forest of Dean"
+  },
+  {
+   "who": "Patrick Spencer (Central Suffolk and North Ipswich) (Con)",
+   "member_id": 5303,
+   "type": "Contribution",
+   "text": "Q That is an interesting point, Sir Martyn. You had the freedom to hire a teacher when you saw fit. We have just heard that the Government intend this Bill to be predominantly about setting and improving standards in our school system, but it does curtail certain freedoms for schools. Have you any thoughts on the freedoms that are being curtailed in this Bill? Also, in your experience at Ofsted, what are the components that are necessary and common when schools turn around and you see them improve? Sir Martyn Oliver : Lee and I will answer this one together. The components we see are the ones that we set out in the Ofsted framework, on which I am about to consult. The quality of leadership and governance from those running the organisations is always No. 1. Then, very quickly, it is the quality of the curriculum, the ability of teachers to deliver that curriculum, and the outcomes that children receive. It is then everything else: behaviour, attendance, personal development, wellbeing. All these things form part of our inspection regime. We test and check them all. Lee Owston: In my 13 years as one of His Majesty’s inspectors, I have always observed in schools that there is a mix o",
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich"
+  },
+  {
+   "who": "Catherine Atkinson (Derby North) (Lab)",
+   "member_id": 5143,
+   "type": "Contribution",
+   "text": "Q We heard from the Children’s Commissioner that the number of children who are missing from education and at risk of child sexual exploitation has been getting worse. I am interested in your views as to why. Sir Martyn Oliver: We see quite a number of issues. I spoke recently in my annual review, which I laid before Parliament in December, about home schooling and flexi-schooling. To be clear, many children are very well flexi-schooled and home-schooled, but I am very concerned about those who have been withdrawn from the school’s register for all the wrong reasons. Dame Rachel recently mentioned the very sad case of Sara Sharif. If a school is recommending that a child be placed in front of the child protection team, it should clearly not be possible for a parent to then withdraw that child from that oversight of the professionals and place them in home education. Not only is having a register of children who are not in education massively important for keeping individuals safe, but it will be of significant benefit to Ofsted. In the Bill, there are sharing powers between the DFE, the local authority and Ofsted that will allow us to investigate for unregistered and illegal school",
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North"
+  },
+  {
+   "who": "Catherine Atkinson",
+   "member_id": 5143,
+   "type": "Contribution",
+   "text": "Q You were talking about “broad and balanced”. Given the 47% drop in arts subjects at GCSE, do you feel that more needs to be done to ensure that we have an even broader range of subjects that can be enjoyed? Sir Martyn Oliver: Speaking as a qualified teacher of fine art, absolutely.",
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North"
+  },
+  {
+   "who": "Catherine Atkinson",
+   "member_id": 5143,
+   "type": "Contribution",
+   "text": "I am very pleased to hear it.",
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North"
+  },
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q Thank you for being with us today, Sir Martyn. When your HMIs find academies or academy trusts significantly deviating from the national curriculum, what are the usual reasons and in what ways do they deviate? Sir Martyn Oliver : Actually, the education inspection framework that we currently use significantly reduced the deviation of academies because it set out the need to carry out a broad and balanced curriculum. That was interesting, because it was not what was set out in the articles of the individual academies and those freedoms, so Ofsted has been in tension with those articles for quite some time. The Bill puts everyone on the same footing. I think that there is good in that, but speaking as HMCI, as a previous chief executive of one of the largest trusts, as a headteacher and as a teacher for 30 years, I would always want to give headteachers the flexibility to do what is right for their children, as long as it ultimately delivers the broad and balanced education that you would expect all children to receive.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q When they do deviate, what do the reasons tend to be? Sir Martyn Oliver : The most typical reason is a focus on the core standards of English and mathematics. We often see that, but I am afraid that in some cases it goes beyond improving core standards: there are some that hot-house to the exclusion of being broad and balanced. It is important that a headteacher always retains a broad overview of a child to make sure that children get the core standards for their future, but also a well-rounded education in total.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q What would be the impact, in the framework and in the inspection outcome, if the school were not following a broad and balanced curriculum? Lee Owston: That would currently come under our quality-of-education judgment. It would not be seen as good if we could not, through the evidence we collect, determine a broad and balanced curriculum for all children. Sir Martyn Oliver: I am about to consult on a measure that will allow more nuance and better identify that.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q Finally, on the different subject of elective home education, quite a lot of detail is proposed in the Bill about the way the register of children not in school will work, including some requirements on the registration of providers of education to those individuals, whether that be online education or some other form of tutoring. How much consultation has there has been with Ofsted about the drawing up of those provisions? Sir Martyn Oliver: We have been involved in that for quite some time, even with previous Governments, whether it was about online education or all these aspects. I think that all our intelligence, for years, has carried forward into this Bill.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Lizzi Collinge",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "Q I want to talk about unregulated schools and the register of children not in school. I have seen evidence outside the Committee that shows that there are serious concerns about poor education in unregulated settings, as well as abuse and neglect. If you have any comments about what the problem is that the Bill is trying to solve, I and other members of the Committee would like to hear them. How will the new powers relating to unregulated schools allow you to protect children at risk of harm, specifically? Will they be an improvement on the current powers that you have? Sir Martyn Oliver: To answer your last question first, absolutely: it is a significant improvement on our powers. Since 2016, we have carried out almost 1,400 criminal investigations into almost 1,300 unique unregistered settings. Not all investigations lead to an on-site inspection. We have carried out almost 900 on-site inspections and issued 200 warnings, meaning that in over one fifth of on-site inspections, we were able to secure sufficient evidence that a crime was being committed, despite our limited powers at that point and under the current legislation. We have worked with the Crown Prosecution Service to ",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Ellie Chowns (North Herefordshire) (Green)",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "Q On balance, do you welcome the provisions in the Bill to ensure that all schools follow the national curriculum? Lee Owston: Obviously there is a review, from Professor Becky Francis, of what the national curriculum will contain, and we are speaking frequently with members of that review. From an inspector’s position, it will always be about how providers are adhering to the legal requirements set by Government and Parliament. Obviously, we look forward to seeing what the Bill produces in how we then interact with it. In terms of a broad legal requirement, and what all children as a minimum should be able to access, I would support that statement.",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "I am afraid that brings us to the end of this session, and we will move on to the next panel of witnesses. Examination of Witnesses Mark Russell, Lynn Perry and Katharine Sacks-Jones gave evidence.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "If Members did not get in for a question last time but indicate that they would like to this time, I will try to call them. We now have witnesses from a number of children’s organisations. Could you just begin by introducing yourselves, please? Lynn Perry: Good afternoon. I am Lynn Perry and I am the chief executive at Barnardo’s. I am here this afternoon representing the Children’s Charities Coalition, which includes Barnardo’s, the Children’s Society, the NSPCC, Action for Children and the National Children’s Bureau. Mark Russell: Good afternoon. I am Mark Russell and I am the chief executive of the Children’s Society. Katharine Sacks-Jones: Good afternoon. I am Katharine Sacks-Jones and I am chief executive of Become, which is the national charity for children in care and young care leavers.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Thank you. I will hand over to Neil O’Brien, the Opposition spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Thank you for coming. Are there any things in the Bill that you think we should amend as it goes through? Are there things that you would like to improve further, or any ways that you would like us to change the Bill? Why don’t we start with Lynn? Lynn Perry: The coalition broadly welcomes the potentially transformational proposals that are contained within the Bill, including those for a single unique identifier, which is one of the things that the coalition has been specifically calling for over a period of time. Multiple reviews have found that information sharing between agencies is problematic, so that is one of the things that we think could really aid child protection, safeguarding and multi-agency working. I would say that to really shift the dial we need further investment in early intervention and early help across our communities, and much greater focus on embedding that consistently and universally. We also need some further clarification on some of the areas that the single unique identifier will need for effective application, I think it is fair to say.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Can you unpack that a little bit? Lynn Perry: Yes, certainly. I will raise the third area and then I will come back to that, if I may. The third area is mechanisms for ensuring that the voices, wishes, feelings and experiences of children and young people really influence the provisions in the Bill, and to put those at the heart of support. On the single unique identifier, there are some questions that we think are worth some further scrutiny. The first of those is the question whether the single unique identifier would be assigned to all babies, children and young people, and a confirmation that that would be for children between the ages of nought and 18. We also think there is an opportunity to extend the use of the identifier, the scope of which is currently limited in the Bill to safeguarding and welfare purposes. A wider emphasis on wellbeing of children and young people and positive outcomes is one of the things that could be further considered here. As ever, implementation cannot wait, and it would be helpful to have some indicative timescales for when the Secretary of State might introduce regulations for the consistent identifier and how people will be required to use i",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Mark, getting straight to the point, are there any amendments that you would like to see? Mark Russell: I associate myself entirely with everything that my colleague has said, but I have a couple of extra points. I would want the Bill to include a measurement of children’s wellbeing. I welcome the fact that the title of the Bill mentions children’s wellbeing, but we have no measurement of children’s wellbeing. We in the Children’s Society measure children’s wellbeing, but we are a charity; we are measuring a sample of children rather than all children. The Government talk about wanting to be child-centred. A measurement of children’s wellbeing would be real data on what real children think about their lives, and that would provide a huge amount of information for local authorities to ensure that local services meet the needs of young people. That is one thing. Secondly, I would welcome schools becoming a fourth statutory safeguarding partner, because so many safeguarding challenges are first identified by schools—I speak not just as the chief executive of a charity, but as a school governor. Thirdly, I hugely welcome the breakfast clubs and the changes to the rules on school unif",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Q Thank you for being witnesses before the Committee today. My first question is to Mark and Lynn. Mark, you mentioned the benefits of breakfast clubs earlier. Could you say a bit more about what you think the benefits will be for families during a cost of living crisis? Mark Russell: Perhaps I should say that we are working with about 75,000 young people around the country, and so many more young people are reporting as being hungry than have been for quite some time. We know that families are under huge strain. We saw in our “Good Childhood Report” this year that 84% of parents were anxious about being able to pay their bills, and we also saw that one in three parents were struggling to pay for a hot meal every single day. As they are provided to all children in the school, I think breakfast clubs will provide a real sense of uniformity and equality, and will give every child the best possible start to the day. Children who are hungry cannot learn and cannot thrive. I have friends who are teachers, and they are telling me that in classrooms around the country they are seeing children who are hungry and living in homes that are cold. Anything that we can do to support families is ",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Q Thank you, Mark. I have a similar question to you, Lynn, but perhaps around the branded school uniform measures. Lynn Perry: Certainly. I am looking at Mark because I know that has been an area of campaigning and influencing for the Children’s Society. I will first touch on the breakfast clubs, without wanting to repeat what Mark has said; we do welcome those. We are concerned about poor health outcomes for children and young people and health inequalities, particularly for the 4.3 million children and young people who are living in poverty, 1 million of whom are in destitution and whose basic needs are not being met. That means that in the provision of breakfast clubs we would like to see some real guidance, and monitoring of the guidance, on healthy and nutritious food with which children can start their day. We know that they are unable to attain educationally if they are going to school hungry and coming home to a cold house. I want to touch on child poverty, if I may, because there is a need to join this up with the work in the child poverty strategy. Those two things should go hand in hand on parallel lines. On school uniforms, there is a question of affordability for a lot",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Q That is really helpful. Briefly—Katharine, what impact do you think the measures will have on care leavers and the support that they receive? Katharine Sacks-Jones: They are very welcome. We would very warmly welcome the extension of Staying Close support, because we know that too many young people do not get the support they need at that point of leaving care. That can often literally be on their 18th birthday—we regularly hear from young people who are perhaps told 24 or 48 hours before their 18th birthday that they will need to leave on it. Often the planning is poor and support is inadequate, and sadly many go on to face homelessness. We would like to see the provisions strengthened. Our concern is that at the moment the assessment made by local authorities will enable them to ration support, and actually this should be a provision for all young people leaving care who need it. It could be a small amendment which would really strengthen the support available to young people and make sure that it is sufficiently different from what is already available on a statutory footing.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Now Lib Dem spokesperson Munira Wilson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q Mark, you pointed out that this is a children’s wellbeing Bill but there is not actually much discussion about wellbeing in the Bill. You talked about a national wellbeing measurement. Beyond that, and if we had that data, could the Bill go further in terms of talking about the provision of services to support children’s wellbeing and mental health? Mark Russell: In a word, yes. A national wellbeing measurement would be a really good place to start, because it would give us the data showing how children’s lives really are, and would put the voice of children at the centre of this. In the meantime, there is the measurement we have. We are part of a coalition of charities, as well as the Children’s Charities Coalition, involving pro bono economics. Lord Gus O’Donnell said the national measurement is the missing piece in the Bill. As a group of charities we have also been urging a wider improvement of early intervention support for young people around mental health. Young people too often wait until crisis before we intervene. In the period between when a GP diagnoses that a young person needs help and when they finally get it, that young person’s mental health spirals further out o",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q Katharine, do you think we could go further with this Bill in terms of unregistered, unregulated accommodation for young people in care, which has been a topic of many a scandal in recent years? Katharine Sacks-Jones: There are some really welcome measures in here, and increasing Ofsted’s powers and increasing oversight, particularly of private providers, is all welcome. One of the challenges is the imbalance in the market and the fact that these private providers have so much power because they run over 80% of all children’s homes. There is nothing in the Bill that really increases sufficiency and brings on board more public sector provision and more charity sector provision. While you have that imbalance, some of these challenges will remain, so we think there needs to be more to address sufficiency and we would like to see a national sufficiency strategy to address that. The provisions as set out also do not cover the providers of supported accommodation, which is accommodation for 16 and 17-year-olds—children—who are still in care, and that can be hostels or bed and breakfasts. We would like to see these provisions extended to that group as well. The Government have previousl",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "A number of Members want to get in. I ask Members to direct their question to whoever you think might be the most appropriate to answer it, and then if the other members of the panel say they agree, we will move forward. If they do not, of course they can say that.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Tom Hayes (Bournemouth East) (Lab)",
+   "member_id": 5210,
+   "type": "Contribution",
+   "text": "Q I think this question is for Mark. Before I was elected, for five years, I ran a service in support of survivors of child sexual abuse. Hearing the Children’s Commissioner say, just before you, that every report makes the same set of recommendations and at the heart of that is better multi-agency working, would you talk about the ways in which the Bill helps to drive that integration at a local level, and helps facilitate that multi-agency working to keep children safe? Mark Russell: Thank you, Tom; we have corresponded before about your previous work. I welcome a huge swathe of what is in the Bill on this. We have been campaigning on this for many years, including the identifier for young people to ensure data is shared. Home schooling is a really significant area. As the commissioner and Ofsted said earlier, a significant number of young people are home-schooled, which is really good and beneficial for them. It is also important to say that some are home-schooled because the school is unable to meet the special educational needs that those young people have, or they are struggling with their mental health. The measures in the Bill to provide for a register are really important.",
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East"
+  },
+  {
+   "who": "Ellie Chowns",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "Q Lynn, what is your view on the fact that the Bill does not contain provisions to give children equal protection from violence to adults? Lynn Perry: We think that this is an opportunity for that to be addressed in legislation. As a charity that works across the devolved nations, we have obviously seen change in other areas. Now is the opportunity for us to address the defence of reasonable chastisement in legislation and give children equal protection. It is important to note that values, public attitudes and the way in which we frame childhood have changed significantly, so to consider that further would be very welcome.",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Ellie Chowns",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "Q So you would like to see the Bill amended in that way? Lynn Perry: We would.",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Amanda Martin",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "Q Keeping children safe and safeguarding are key priorities that you guys have a lot of expertise in. Many experts have talked about the widening attainment gap and the rising number of children out of school. Most of them are our most disadvantaged and vulnerable. What difference do you think the Bill’s provisions will make to those children on things such as admissions, the ability of local authorities to plan school places, and collaborative working across local authorities and across services, so that they have an appropriate and safe school place? Mark Russell: There is a great deal in the Bill that will improve safeguarding arrangements for children, which is really important. The role of the local authority is critical, and local authorities are under enormous pressure. We all work with local authorities right around the country. We hear from directors of children’s services and their teams about the sheer pressure. Alongside that, we need to look at how local authorities commission services for children and young people. I always find it slightly bemusing that local authorities can commission a bin service for 10 years, but cannot a commission a children’s service for two y",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q I want to come back to breakfasts, if I may. I think this is a question for Mark. The Bill legislates for universal breakfast provision at primary school, but is silent on what happens at secondary school. We do not know what will happen. The Government have been asked, including by Government Back Benchers, to extend the provision to secondary school. They have made the point, which is not an unreasonable point, that you have to make choices in a resource-constrained world, and their choice is to go universal at primary, but with quite a small per child, per day cash allowance. Recognising the resource-constrained world, would you make that choice if you were in the same position, or would you say it was better to target according to how deprived an area is—not by individual child, but by area—regardless of the age of the child? Mark Russell: That is a very good question. I understand why the Government have taken the decision they have; I really do. Particularly in a primary school, you want to be as universal as possible.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "It would be the whole school, as it is now under the school breakfast programme. Mark Russell: Yes. With limited resources, I would probably have targeted it more at those most in need and included secondary school children in that mix. We will continue talking to the Government about secondary school children; I am deeply concerned about them as well.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q This is probably for Lynn or Katharine. In terms of trying to address mental health issues as they arise early on, before they become a crisis, following the change in Government, are you aware of any change in the approach towards mental health support in schools through mental health support teams for clusters of schools? Lynn Perry: I have not yet seen any change on the ground. We deliver a number of mental health support teams in schools. We consider them to be an effective way to reach children and young people at an early stage, and to intervene before they reach crisis point. There are often relationships of trust. Quite frequently, people know their children very well within the school context and can manage that supported and enabled engagement with provision in schools. I have not seen anything that has translated into a direct change in practice at this juncture, but we think it is a really important area of work. We think that there is potential to do more in that space, by looking at what might be described as an MHST+ type model.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Finally, Darren Paffey. We have about 90 seconds left.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Darren Paffey",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "Q Clauses 13 and 14 make provision for the financial oversight of care providers, and clause 9 looks at better regional arrangements for accommodation. What are your views on how effective that will be in improving provision for the care of children? Katharine Sacks-Jones: As I said earlier, these are welcome measures. There is very little oversight of the providers at the moment, so a number of measures will improve that oversight. The missing piece is that if you do not tackle sufficiency, the power imbalance will still sit in the hands of the providers who provide the majority of homes for children. Greater oversight needs to come alongside improving sufficiency. One way to do that is to have a national strategy, which is missing at the moment. We think the Bill is an opportunity to introduce that.",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Darren Paffey",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "Q To what extent does the regional co-operation deal with sufficiency? Katharine Sacks-Jones: I think there are benefits to be had in regional commissioning. We are concerned to ensure that provision for children is not then condensed in certain areas of a region, which could mean children still being moved great distances. We would like to see a safeguard in the Bill around not moving children far from home unless it is in their interest, to go alongside the new regional co-operation arrangements. Lynn Perry: I echo some of what Katharine said there. There has to be a focus on outcomes for children in care, and in particular for all providers to be able to demonstrate that they are taking the sort of steps that Katharine describes, which would lead to better outcomes for children. We need to recognise that with 80% of existing provision being provided privately, any sudden exit might also cause some challenges for children. So, the sufficiency piece is really important, but we need to rebuild what I reluctantly describe as the market, to provide care for children in a different way. That will take some time.",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "I understand that this session should run until 3.15 pm.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "David Baines (St Helens North) (Lab)",
+   "member_id": 5092,
+   "type": "Contribution",
+   "text": "Q Good afternoon. Can you tell us briefly, in your own words, about the urgency—in your view—or otherwise of the Bill? We all agree that your organisations do outstanding, amazing, essential work with vulnerable children and young people up and down the country. How has the landscape for children changed in the last decade? Have things got better for them or worse? Is the Bill needed or not? Lynn Perry: As an individual charity, we run 800 services. However, right across the coalition, we are seeing an increased level of presenting need. A number of factors are influencers in that: of course, the long shadow of the covid pandemic and then, hard on its heels, the cost of living crisis, which has really impacted a lot of the families that we work with across our charities. Our practitioners across the charities also tell us that thresholds for services are getting increasingly high. Even within some of our early intervention services, we are working with increased complexity of need. That is a really important factor to recognise, because families are under pressure for much longer, which leads to issues that are much more intractable and difficult to address. That is part and parcel",
+   "name": "David Baines",
+   "party": "Lab",
+   "seat": "St Helens North"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "I thank all the witnesses for coming today and giving evidence to the Committee. We now move on to our next panel. Examination of Witnesses Nigel Genders and Paul Barber gave evidence.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We now move on to representatives from the Churches. Could you begin by introducing yourselves, please? Nigel Genders: My name is Nigel Genders. I am the chief education officer for the Church of England, which means that I have the national responsibility for the Church of England’s work in education, and I oversee 4,700 schools, which educate 1 million children. Paul Barber: I am Paul Barber. I am director of the Catholic Education Service, which is the education agency of the Bishop’s Conference of England and Wales, and we provide just over 2,000 schools across England.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Thank you both for coming. My first question is to you, Paul. The last Government promised to lift the cap on faith school admissions and consulted on doing just that. Is that something you would still like to happen and potentially be put into the Bill? Paul Barber: The cap is a policy rather than law. We would very much like to see the cap lifted. My understanding of the current policy is that it applies to free schools, and we would very much like to see that lifted. The consultation took place and there has not, as yet, been a Government response to that.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Do you have a timescale for when the Government are going on reply to that consultation? Paul Barber: I do not—that is not in my hands.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q I just wondered whether we might get an answer during the passage of the Bill. I have a question for both of you. There was a thought-provoking leader in the TES the other morning that talked about the lack of discussion in the Bill, as well as more generally, on discipline. The Bill is largely silent on discipline, even though we know it is one the biggest issues affecting teachers, and Teacher Tapp surveys show that it is a huge issue for teachers and many students as well. Do you have particular thoughts on what you would like to see in the Bill, or more broadly, on discipline that would improve your ability to run orderly schools and protect teachers? There are obviously things out there like behaviour hubs, the discipline survey and questions about alternative provision. You both have very deep experience across the whole piece, so I am interested in your thoughts about what we could be doing further in the Bill and more generally. Nigel Genders: You are right to raise the issue of behaviour. When we talk to teachers across the country, one of the biggest things that puts people off teaching, in terms of the retention and recruitment crisis, is children’s behaviour. I am not",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q One of the major changes in the Bill is the extension of the national curriculum, for the first time, to absolutely all schools. At the same time, the curriculum is being changed and rewritten. I have a high-level question and a specific one. The high-level one is about the different visions for our schools. One vision would stress the importance of diversity and argue that there are different ways of educating and that schools can and should do things differently. I do not know whether you buy into that vision. My second, more specific question is whether there is anything you would have concerns about being in the curriculum. I am particularly thinking of religious education and topics like that. Are there ideas out there that you would be concerned about being forced into all schools? Nigel Genders: As previous panels have said, there is a slight complexity about the timing of the Bill and the intention to bring in a national curriculum for everyone. In broad principle, I think it is right. There are one or two caveats I will go on to talk about, but in broad principle it is right to create a level playing field and have a broad and balanced curriculum across the piece for eve",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We do not want to go too far into the curriculum today, because it is not really part of the Bill. Paul Barber: I will keep my remarks brief. We have a very clear understanding of what a curriculum is in a Catholic school. It is very much a broad, balanced and holistic curriculum in which there are no siloes and the curriculum subjects interact with each other. There is of course the centrality of RE, which you mentioned. We are hopeful that the review will provide a framework within which we will be able to deliver alongside other views of curricula in other schools.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Q Thank you for being here today. What is your assessment generally of the impact of the Bill on faith schools? Nigel Genders: The Church of England’s part of the sector is very broad in that of the 4,700 schools that we provide, the vast majority of our secondary schools are already academies, and less than half of our primary schools, which are by far the biggest part of that number, are academies. We would like to see the system develop in a way that, as is described in the Bill, brings consistency across the piece. In terms of the impact on our schools, my particular worry will be with the small rural primary schools. Sorry to go on about statistics, but of the small rural primary schools in the country—that is schools with less than 210 children—the Church of England provides 65%. The flexibilities that schools gain by joining a multi-academy trust, enabling them to deploy staff effectively across a whole group of schools and to collaborate and work together, is something that we really value. What we would not like to see is a watering down of the opportunities for that kind of collaboration. We set out our vision for education in a document called “Our Hope for a Flourishing",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q I want to pick up on the faith cap issue that the hon. Member for Harborough, Oadby and Wigston raised. The 50% faith cap for all new free schools was a policy put in place by the coalition Government. There are concerns that the provisions in this Bill to allow other providers to open new schools would mean that the faith cap does not apply to them. Nigel, I know you are on the record as saying that Church of England schools should be inclusive and serve the whole local community. What do you think will be the impact of losing that faith cap, and should we be putting in an amendment to ensure that the cap is in place for all new schools? Nigel Genders: I have a couple of things to say on that, if I may. I think where this Bill makes a statement in terms of legislative change is in the ability for any new school not to have to be a free school. That opens up the possibility of voluntary-aided and voluntary-controlled schools as well as community schools and free schools. In each of those cases, you are right, our priority is serving that local community. It is an irony that there is a part of the Bill about new schools when, actually, most of the pressure is from surplus places r",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q Nigel, I was interested that you said that 65% of small rural primaries are Church of England schools. The Bill’s provisions state that breakfast clubs will be a universal offering. Will those small rural primary schools have the capacity to deliver what is laid out in the legislation? Nigel Genders: That is a really important question. Broadly, all our schools are really supportive of the breakfast club initiative and think it is helpful to be able to provide that offer to children, for all the reasons already articulated during the previous panel. You are right that there will be particular challenges in small schools in terms of staffing, managing the site, providing the breakfast and all those things. As the funding for the roll-out of breakfast clubs is considered, it may be that there need to be some different models. The economies of scale in large trusts serving 2,000, 3,000 or 4,000 children are quite different from those of a school that has 40 or 50 children, one member of staff and probably a site manager. The ability to provide breakfast for every child in a fair way needs further consideration. The legislation is right to endeavour to do that, but the detail will be",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Lizzi Collinge",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "Q I want to follow up on a couple of previous questions and make sure that I have clarity about something that I appreciate is complex. This is about faith selection, particularly in relation to clause 51. Do you expect that Church of England and Catholic schools—if you have any information about other faith groups, I welcome it, but I appreciate that you do not represent other faith groups—in the short, medium or long term will use the changes brought in by clause 51 to open new schools with 100% faith-based selection? Paul Barber: Clause 51 does not change the parameters within which we can open new schools. As drafted at the moment, the Bill leaves that possibility exactly as it is today. I have outlined my position on when we would seek to open new schools. The idea of opening new schools and creating new places is to satisfy all the parental demand. The provision of places and admissions are two things that work together. If an area has insufficient places in Catholic schools for all the families who want to take advantage of that education, obviously the longer term solution is to create more places, but in the shorter term it has always been part of the system—in our view, v",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Lizzi Collinge",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "Q May I clarify? In certain circumstances, yes, you would like to have schools with 100% place selection? Paul Barber: We are talking about oversubscription criteria, which only kick in when there are insufficient places to satisfy parental demand. In those cases, we would wish to continue to give priority to Catholic families. Nigel Genders: Again, Paul has identified a difference in policy area between the two Churches in this space. My answer is the same as previously: that would not be the case for the Church of England. We are much more interested in some of the other parts of the previous consultation, which have not come through yet—around special schools and the designation of special schools with religious designation. The Church of England would love to be able to provide special schools in those circumstances. In the provision of new schools, whether voluntary-aided free schools or voluntary controlled, we would not be looking to do 100%. Paul Barber: We would also welcome having more. We already have special schools, but we would like to have more.",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q I would like to go back to the curriculum—",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Order. Is that relevant to the Bill? As long as you relate it directly to the Bill—",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I promise you, Mr Betts, that it will be relevant to the Bill. As Nigel I think rather charitably said, his schools would be “asked” to sign up to something without knowing what the something is—but I do not think they are going to be asked, Nigel; I think they are going to be told. You also said that we hope—I include myself in that “we”—that it will be a broad framework, which will allow everyone to do their distinctive thing, as they do today. That is a hope, but we do not know. For example, there is a movement to rebrand religious education as “world views”—does that make you nervous? Nigel Genders: I am in danger of getting into the curriculum discussion, rather than the—",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q To keep us both in order—",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Order. You will emphasise that this must relate to the Bill.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I will, absolutely. Do you feel any nervousness or concern about the removal of the safety valve that says academy schools can deviate from the national curriculum? Nigel Genders: With all the discussion about the curriculum and the national curriculum, RE is part of the core curriculum; it is not in the national curriculum at the moment. Levelling the playing field up or whichever way you want to do it, there is a requirement to teach a breadth of RE within that curriculum as a core subject, but it is not defined in the national curriculum. We are happy with that position but, either way, the important thing is that we enable a broad, rich and holistic curriculum to develop—for the reason of behaviour that Neil mentioned as much as anything. We want children to enjoy coming to school, and the curriculum is a fundamental part of that. Paul Barber: Maintained schools have to follow the national curriculum, and over half of ours are maintained schools currently. We have a very rich religious education curriculum. Recently, we published a curriculum directory, which I can share with the Committee if interested. Our position on RE is also well set out in our evidence to the curriculum ",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q RE is not the only sensitive subject; there is also English literature, history or RSHE. My question had a religious bent to it, but it was really about taking away that safety valve and that ability of academy trusts to say, “We are not going to follow precisely what has been set out.” Nigel Genders: I think our point is that we would like to see that flexibility within the national curriculum available to everybody. I am very much in favour of levelling up, as long as the curriculum gives the space to do that.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q We have just talked a little about the admissions arrangements for VA and VC schools. You have also alluded to the fact that rolls are falling in many places—they are falling initially mostly in primary, but that will feed through. Are you concerned about the more directive nature of what will be available to councils and the position that that would put your schools in, particularly voluntary aided schools? On the question of new schools, as you rightly pointed out, Paul, it has always been possible to open a VA school—it is not a very well-known fact that some VA schools have opened. With this Bill, do you think it is more or less likely that in the near future you will be able to open more Catholic schools? Paul Barber: From what I can see, I do not think it is any more or less likely. In terms of the directive power, my understanding is that the position in VA schools remains the same, and that it is academies that will have a direction-making power similar to that which already applies to voluntary aided schools.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q Forgive me—we are very short on time. I was talking about a council’s ability to stop a popular school expanding, for example. You both mentioned earlier that you have some really quite popular schools, and now the council will have much more an ability not to let that happen. Paul Barber: Sorry; I misunderstood. You are talking about the restrictions on schools unilaterally changing their published admission number. Our position on that is that it is because of this relationship between admissions and the planning of school places, which must be planned in some way. Our diocese has a long track record of decades of working with its local authorities and with the diocese in the Church of England to work out what is required in the future, and looking forward for places and planning that. Having some kind of regulation of schools’ published admissions numbers is quite helpful in ensuring that that works smoothly, because if you plan it and three schools then arbitrarily decide to increase their published admission number, that creates some real problems locally with place planning. Nigel Genders: We would agree with that. Not to rehearse all that Paul has just said, but a further ",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q I have a very specific question on small rural primary schools attempting to deliver breakfast clubs, potentially with a very small number of staff. What is your understanding of whether the time spent doing breakfast clubs will count as directed time?",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Let us have a fairly quick answer. One other Member would like to ask a question as well.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Do we know whether that is the case? Nigel Genders: There is the question of how to make all that possible within the allotted hours that staff can be directed. It needs resourcing. It does not have to be teachers who provide those breakfast clubs—",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q No, but what if it is a teacher in your little schools? Nigel Genders: They will have to be resourced to do it in other ways to make it possible.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "The last question is from Ian Sollom.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Ian Sollom (St Neots and Mid Cambridgeshire) (LD)",
+   "member_id": 5096,
+   "type": "Contribution",
+   "text": "Q There is hopefully a very simple answer to this question. I am trying to pick through your previous answers on the curriculum. This question relates to the Bill. Should RE be included in the national curriculum? Paul Barber: We are very content with the current position. If there were proposals to change that, we would need to work very carefully with everybody to try to get to a position that retains the necessary safeguards, as we see it, contained in the current position. Nigel Genders: I would agree with that.",
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Thank you very much to our witnesses. We will move on to our next panel. I do not know how long we will have, because we will have votes in the Chamber at some time, but we can at least make a start. Examination of Witnesses Sir Jon Coles, Sir Dan Moynihan and Luke Sparkes gave evidence.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We will now move on to representatives from various academies. If you could begin by introducing yourselves, that would be helpful to the Committee. Luke Sparkes: I am Luke Sparkes, and I lead the Dixons Academy Trust. We run urban complex schools in Leeds, Bradford, Manchester and Liverpool. Sir Dan Moynihan: I am Dan Moynihan, CEO for the Harris Federation. We run 55 academies in and around London, most of which were previously failing schools. Sir Jon Coles: I am John Coles, and I run United Learning, which is a group of just over 100 schools nationally—again, mostly previously failing schools. Before the 13 years I have spent doing that, I spent 15 years in the Department for Education, and the last four on the board.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Thank you for being here. I want to direct my first question to Jon and Dan. You have both been quite critical of the loss of academy freedoms in this Bill. Could I persuade you to say a bit more about why that matters? Why do those freedoms matter? What do they enable you to do? Do you accept reassurances from the Government, who are saying, “No, no, you’ve misunderstood: the Bill doesn’t reduce your freedoms; it just increases other people’s freedoms”, or do you think that it would be helpful to amend the Bill further in order to ensure those freedoms? We will start with Jon and then go to Dan. Sir Jon Coles: My top concern is about pay and conditions freedoms. We take schools that have got themselves into serious difficulty and look to turn them around. If you want to turn around schools that have failed seriously—often generationally—to give children a good standard of education, clearly you need to attract very good people to come and work in those places; the quality of a school is never going to exceed the quality of its teachers. Therefore, the things that we do with pay and conditions are designed to make sure that we can attract and retain the very best teachers to do t",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Having looked at that document, it does have a whole bunch of different maximums in it. It has quite specific maximums as well as minimums. Sir Jon Coles: The thing about the schoolteachers’ pay and conditions document is that it is fundamentally a contract. Section 122 of the Education Act 2002—it happens to be an Act that I took through Parliament as a Bill manager, when I was a civil servant—essentially says that the Secretary of State may, by order, issue what is commonly known as the pay order, but the pay order includes a lot of conditions. Section 122 of the Act says that that applies as if it were a contract. Indeed, if you are a teacher in a maintained school, typically your contract will literally say, “You are employed under the terms of the schoolteachers’ pay and conditions document,” so it is your contract. Therefore, the schoolteachers’ pay and conditions document has to act as a contract. It has to be specific. A teacher looking it up has to be able to see, “What are my terms and conditions? Have I been treated properly?” and so on. That is how the schoolteachers’ pay and conditions document needs to work, so if we have to abide by it precisely, that is what we woul",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q That was a superbly diplomatic answer—particularly the end of it. I will come on to Dan. You talked about QTS freedoms and the importance of being able to employ mature people in STEM and the like, and the risk that not having that freedom might put some of them off. I will just ask you about the freedoms on curriculum and things like that, and how those are being used by academies and trusts at the moment to find solutions that are right for individual situations. My impression is that those freedoms are quite often used to focus on core subjects in areas of high deprivation where there is great difficulty, and to have a model that works in those areas. It seems quite important for you. Sir Dan Moynihan: We have taken over failing schools in very disadvantaged places in London, and we have found youngsters in the lower years of secondary schools unable to read and write. We varied the curriculum in the short term and narrowed the number of subjects in key stage 3 in order to maximise the amount of time given for literacy and numeracy, because the children were not able to access the other subjects. Of course, that is subject to Ofsted. Ofsted comes in, inspects and sees whether ",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Luke, you wrote a very interesting piece in the TES the other day about the importance of variety and difference between schools. You work in some exceptionally disadvantaged areas, turning around particularly difficult schools. I saw that you had used the academy freedoms to offer the nine-day fortnight so that teachers can have more preparation time, particularly because they are working in quite a demanding environment. How are you using those freedoms and how useful are they to you? Luke Sparkes: They are very useful when it comes to conditions. As Jon was saying, the narrative coming through about a floor and no ceiling is encouraging. I can see that working for pay, but I am not sure how that would work for conditions. My significant concerns with the Bill are about conditions. We have done more than most as a trust to try to position ourselves as a modern organisation. We know that post-millennials are not going to accept the norms that currently exist in our sector. We have also tried to overcome the rigidity of the job with innovations such as the nine-day fortnight. That innovation is starting to diffuse across the sector. We want to be even bolder. We are really starti",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Would you say that the Bill, broadly speaking, erodes that kind of freedom and diversity in the system? That is at the moment, as drafted—it can change. Luke Sparkes: Certainly, around the areas that I have just described.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Q I have two unrelated questions on which I am keen to hear from all three of you. What assessment have you made of the introduction of registers of children not in school and how they will help schools and local authorities to support vulnerable children? Sir Dan Moynihan: It is an excellent idea. Too many children disappear off-roll and are not monitored sufficiently. I would say it probably does not go far enough. When any child leaves the school roll, whether they are at risk or not, we should know why it happens and whether the parent can make proper provision for them, so it is a really good idea. My concern is whether local authorities have the resourcing to make this thing work. As we all know, they are under immense pressure. However, it is about time that we had it, and it is a real move forward. The question is about their ability to deliver it. Sir Jon Coles: I agree with all that. I am not sure quite how many Secretaries of State have thought it was a good idea to do this, but it is a lot of them, and they have all backed off it before now. I think it is good, important and brave that it is being done, because while I support the right of parents to home educate, and I",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Q My second question is about admissions. Do you think that it is important for all schools to at least co-operate with local authorities on school admissions and place planning? Sir Dan Moynihan: It is important for all schools to co-operate. With 9 million children in schools, I think only 55 directions were given in 2023 by local authorities. For me, the key issue is that it is important that there is co-operation, but there is potentially a conflict of interest if local authorities are opening their own schools and there are very hard-to-place kids. There is a conflict of interest in where they are allocating those children, so there needs to be a clear right of appeal in order to ensure that that conflict can be exposed if necessary. Luke Sparkes: It is important for academies to work with local authorities. I think we accept that the current arrangements are fractured, but—similarly to what Sir Dan said—it is that conflict of interest that we have been concerned about. Although there is going to be an independent adjudicator, the question is whether they will be well placed to make those policy and financial decisions—almost becoming a commissioner role—and whether that would",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q I have a very simple question, first of all. As senior leaders in the academy trust space, were you consulted on the measures in the Bill, either formally or informally? Sir Dan Moynihan: indicated dissent . Sir Jon Coles: indicated dissent . Luke Sparkes: indicated dissent .",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q No. Okay. Some of the data that we have seen about how these freedoms are used across the country shows that actually, the vast majority of academies do follow the national pay scales, QTS and the national curriculum. I take on board the concerns that you have raised about pay and conditions, and that is why a number of us are pressing for pay to be a floor, not a ceiling—we will be trying to amend the Bill that way. However, do you think that if this legislation goes through as is, it will make much difference day to day, on the ground? Will it especially make a difference if we put the floor in place? Sir Jon Coles: The provisions, as drafted, in relation to pay and conditions, would make a big difference to us. It is interesting that you say that the data says that not many people are doing it. I don’t think there is good data on that question—I have never seen any. Among the schools that we take on, including both maintained schools and academies, more schools are deviating from the rules than think they are. It is very common for us to take on both maintained schools and academies that have, usually in small ways but sometimes in slightly bigger ways, adopted different terms",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "To clarify, my point about data was based on DFE data in the briefing from the House of Commons Library. Should we look at it the other way? Rather than trying to restrict academy freedoms, should we give those freedoms to all schools so that we are not differentiating between academies and other types of schools? Sir Dan Moynihan: Yes. The public purse is going to be hugely constrained, as we all know, for years to come. The base at which we are constraining schools is inadequate and we are freezing the system where it is now. If we want a world-leading system in the future, given that the resource is not going to be there to materially change things, one key way to do it is to give schools the freedom that academies have had to transform failing schools in the worst circumstances. Why should every school not have that freedom? It makes sense. Luke Sparkes: Yes, and the majority of schools are academy schools, so it would make sense to level up rather than level down. On the innovation point, there are more academies that innovate than we would perhaps think. Innovation tends to happen on the edges and our schools, the most complex schools, are on the edges. The idea is that a few",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Amanda Martin",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "Q The Minister touched on admissions and I would like to widen that. Positive and best outcomes and the destination of children and young people should be at the heart of every Government mission on education, as it should be at any school trust or local authority. However, concerns continue to grow about the widening attainment gap of our most vulnerable pupils. More worrying is the fact that parents feel they have no choice if they want to remove their children from a school setting. The Bill does have provisions on admissions and allows local authorities to plan school places. Today we heard from the Church of England and the Catholic Education Service about how they have always worked with local authorities to ensure fairness and collaboration in the wider services. You all have academies and schools across the country. How would you work with local areas, where your schools are, to ensure that collaboration really does find places for children and reverses that worrying trend that we still see? Sir Jon Coles: The worrying trend being poor attainment and the widening gap?",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "Amanda Martin",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "Yes. Sir Jon Coles: I suppose everything we do addresses trying to tackle the gap. We take on schools in areas of severe deprivation, places where schools have failed, where children are not succeeding. We look to turn those schools around. I guess my starting point for this is that we do already, in the overwhelming majority of cases, work with local authorities on admissions. None of our schools change their admission arrangements when they become academies. We stick with the pre-existing admission arrangements, unless we are asked by the local authority to do something different. That is our fundamental starting point for everything we do. As I said, I do not have concerns about the provisions around admissions; we are basically happy with them. If the Government issue guidance on how those are to be used, I think other people’s concerns will go away as well. The one thing that I would love to see the Government do is really set out their strategy for improvement, how they think things will work and how we will drive improvement across the system. I think part of the reason for response to the Bill has been that the Government have not published a policy document ahead of public",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "Patrick Spencer (Central Suffolk and North Ipswich) (Con)",
+   "member_id": 5303,
+   "type": "Contribution",
+   "text": "Q You spoke about the importance of intent and accountability in driving school improvement, yet the Bill tilts the balance back towards giving responsibility to local authorities, and ultimately to Sanctuary Buildings the role of school improvement. Does that concern you? Do you think local authorities can do the same job as a multi-academy trust in turning schools around? Sir Jon Coles: That is a very tendentious way of describing the Bill. I think you would struggle to substantiate that. To give you my perspective, whatever this Bill does, I am still going to be accountable for running the schools that we are accountable for running. They will still be in the trust. I will still be line-managing the heads. We will still be accountable for their performance. We will still be accountable for teaching and learning.",
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich"
+  },
+  {
+   "who": "Patrick Spencer",
+   "member_id": 5303,
+   "type": "Contribution",
+   "text": "Q Will this Bill see fewer schools becoming academies going forward? Sir Jon Coles: I am not sure.",
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich"
+  },
+  {
+   "who": "Patrick Spencer",
+   "member_id": 5303,
+   "type": "Contribution",
+   "text": "Q If it takes away the automatic academy order— Sir Jon Coles: I would like to see what the Government’s policy underpinning this is. What is the Government’s school improvement policy? Is it their policy to do what you have just said? I do not think the Bill does that. The question is: what is the Government’s preference? Do the Government actually want to see as many or more schools become academies? I don’t think we know that, and I don’t think the Bill says one way or the other what the answer to that is. In due course, we will see a new framework from Ofsted. In due course, I imagine the Government will say how they want the accountability system to work. When the Government say how they want the accountability system to work and Ofsted says how it wants the inspection system to work, we will see whether there will be more or fewer academies, but I do not think the Bill does that one way or the other. That is why we want to see the Government’s overarching strategy for school improvement. I do not want this to be political knockabout; I want this to be about children in schools. I want this to be about how we are going to make the schools system better. That is the fundamental",
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich"
+  },
+  {
+   "who": "Patrick Spencer",
+   "member_id": 5303,
+   "type": "Contribution",
+   "text": "Q You have sat there and given evidence on your interpretation of why you guys have been very successful in turning schools around. The Bill takes away a lot of the freedoms that you have exploited in turning schools around, and it includes a specific order that prevents schools from becoming academies, and it puts the power in the local authority’s decision on what to do with it. It is dumb. Sir Jon Coles: I don’t think it does that. What I am reacting to is that point, because it does not do that. Sir Dan Moynihan: There will be fewer academies because, by definition, if the Secretary of State is making the decision that a school that fails will not automatically become an academy, that must be because the intention is that some failing schools will not become academies. Therefore, there will be fewer than there would otherwise be. I think that is a huge mistake, because all our experiences are that academy conversions are sometimes very hotly politically contested and opponents are prone to go to judicial review, which can leave children in a situation of failure for months or even more than a year. By using ministerial discretion, the opponents are likely to go to judicial revi",
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich"
+  },
+  {
+   "who": "Patrick Spencer",
+   "member_id": 5303,
+   "type": "Contribution",
+   "text": "Q For what it is worth. Luke Sparkes, do you have anything to add on top of that? Luke Sparkes: I do not have a huge amount to add beyond agreeing with what colleagues have said. My most significant concern, as I have said, is about conditions for teachers. On the point about capacity within local authorities—I can only speak on the local authorities that we work with, which we try to have positive relationships with—they probably would not have the capacity to do the kind of things you said around school improvements. Trusts were set up purely for the purpose of running and improving schools, and nothing more or less than that, so we have the expertise and capacity to do that school improvement work. I agree with Sir Dan that, when trying to turn around a very challenging school, it is much better when it is within the accountability structure of a trust as they are able to move much quicker. I am interested to see how the regional improvement for standards and excellence teams develop. They seem similar to what national leaders of education were in the past, and they did not always necessarily have the teeth to do what was needed, so I am interested to see how they develop, but f",
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich"
+  },
+  {
+   "who": "Catherine Atkinson",
+   "member_id": 5143,
+   "type": "Contribution",
+   "text": "Q We heard from the National Association of Head Teachers that they wanted to see more collaboration, and some concern was expressed that not enough collaboration was taking place to date. I would be interested to hear your views as to how we can improve that, and whether you would acknowledge that, across a lot of different areas, it is not happening to date. I understood what you said in relation to narrowing to core, but given that we are in a position currently where we are seeing a 47% reduction in arts GCSEs, and in Derby the only place you can do engineering at high levels is the UTC in the college, there is some concern that that narrowing has cut off some opportunities to some of our young people. I would be really interested in your views, both on collaboration and on trying to ensure that we have a really broad option for all our children. Luke Sparkes: In terms of curriculum, we have always tried at Dixons to give as much breadth as possible. Our curriculum is fairly traditional. It does focus on the EBacc, but it has done so since before the EBacc existed. We have always specialised in the arts and sports as well. We have two schools with an arts specialism. We have al",
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North"
+  },
+  {
+   "who": "Catherine Atkinson",
+   "member_id": 5143,
+   "type": "Contribution",
+   "text": "Q So you are doing something, but that is not necessarily happening across other trusts and academies? Luke Sparkes: I cannot speak for the whole sector,but I can say what we believe. Sir Dan Moynihan: I agree with you on breadth, and we too emphasise the EBacc. Around 40% of our kids are pupil premium and another 30% are just about managing, highly disadvantaged children, but we want them to learn history, geography and a modern language to 16 because that gives them cultural capital that they will need. That does not mean that they cannot be doing high-quality vocational qualifications alongside. The only way to engineer that is to broaden the range of qualifications that will count towards measures such as Progress 8. That will be the incentive that the system needs. Collaboration is, of course, a good thing as long as it is focused on standards, and does not alternate or deviate from that. It is possible to spend a lot of time talking in talking shops, but what we need is collaboration between multi-academy trusts and schools that is about sharing best practice. That will raise standards. Sir Jon Coles: On collaboration, it has always been an issue in the school system that pra",
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We will have to leave this evidence session there; we have come to the end of our time for it. I thank all three witnesses for their evidence. We will now move on to the next panel, but I will have to suspend briefly because one of the next witnesses is online and we have to make sure that we can get the connection right before we start.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We have three witnesses representing headteachers and trusts. Can Jane Wilson, who is online, introduce herself? I will then come to the witnesses in the room to do the same. Jane Wilson: I am Jane Wilson, the deputy chief exec of Northern Education Trust. Our trust is 30 schools— 17 secondary schools and 13 primary schools—working predominantly in the north of England between Blyth and as far down as Barnsley.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Could the two witnesses in the room introduce themselves as well? Rebecca Leek: I am Rebecca Leek. I am currently the executive director of the Suffolk Primary Headteachers’ Association. There are 253 primary schools in Suffolk; around a third of them are local authority and two thirds are academies. I am currently also an interim headteacher in a local authority school. I have been a headteacher in an academy school and a CEO of a trust, and I have worked in inner-city London, urban Ipswich and rural Suffolk. Leora Cruddas: I am Leora Cruddas; thank you very much for the invitation to give evidence to this Committee. I am the chief executive of the Confederation of School Trusts, which is the national organisation and sector body representing school trusts in England. Around 77% of all academy schools are in membership.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Thank you all for being here, and welcome. My first question is to Leora. We heard in the last session some concerns about taking away academy freedoms on pay, the curriculum and QTS. In some of the things that you have written, you have also raised concerns about two other things. The first is clause 43, which is a sort of general power to direct academies on a range of subjects. The policy summary notes to the Bill indicate that that will be used for some not particularly high-level things, such as school uniform and the like. Do you have concerns that the general power is a bit untrammelled at the moment? Might it be sensible to table some amendments to that, so that we have some proportionality and do not have the Secretary of State being constantly sucked into intervening in schools and being pressed to do so by lots of different activists? Leora Cruddas: The first thing I should say is that we really welcome the children’s wellbeing part of this Bill. There are a lot of good things in the Bill. We do have some concerns, as you say, about the schools part of the Bill, including, as you have heard from my colleagues, about pay and conditions. We welcome the Secretary of State",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q That is very helpful and specific. Another thing you have raised concerns about is clause 50, which will give local authorities the ability to challenge a school’s PAN, even if it is just keeping it the same. I am sympathetic and understand what they are trying to do, with place planning and so on, but I have concerns about the local authority being both the regulator and the provider of other schools. I worry about that, particularly in the context of falling school numbers in some areas, which will make these questions quite acute, because of the lack of any guidance or trammelling around it. For example, if there is an outstanding school and one that is struggling and may shut, where is the prioritisation? Where are the rules that say, “You must not treat academies unfairly compared with your local authority schools.”? Do you share any of those concerns? Do you think that there is scope to make amendments to improve the Bill? Leora Cruddas: I start by saying that we really welcome the duty to collaborate at a local level. Trusts already work with local authorities; you may have heard that from my colleagues in the previous session. We are concerned about some of the potential ",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q You said: “We accept current arrangements are fractured: introducing the Schools Adjudicator worsens rather than improves this”. What do you mean by that? Leora Cruddas: We are not sure what the intention is behind the Government’s need to bring forward the clause in the Bill that would introduce greater powers for a schools adjudicator. That is one of the conflicts of interest that we would be alive to—if a local authority could bring forward a case to resist an academy trust’s pupil admission number, that would be a source of concern for us. That is why we need this high-level decision-making framework.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Thank you; that is very helpful. I have a question for Rebecca. In Schools Week you wrote: “The schools bill working its way through Parliament…is not good legislation.” You described it as “micromanagement” and “stifling”. You talked about some of your experiences as a headteacher. Can you expand a bit on the overall vision and direction of travel? Rebecca Leek: Yes. I love being a headteacher—I was a headteacher yesterday, doing an assembly—but I have stood in both camps, and I have worked in very rapid turnaround situations with trusts.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Thank you to our witnesses for their patience while we voted. I was asking you about what you wrote in Schools Week , Rebecca—you said that the Bill was “not good legislation” and described it as “micromanagement” and “stifling”, and you talked about your experience of using some of those school freedoms. I wonder whether you could say more about why you think that is the case and what you think the problem is with the Bill. Rebecca Leek: One of the things about the school sector is that it is incredibly complex, so you have to have complex solutions for complex systems—if you know anything about systems thinking. To support such a complex system, there needs to be room for agility, so the reason why I was writing that—we will talk about my specific experience as well—is that I know quite a lot about systems theory and governance. I have written a book on governance, subsidiarity and why it is important to have flexibility and agility in localities. That comes from theoretical knowledge about how to create good systems that meet the needs of very complex things, which is what schools are. I cannot impress on the Committee enough how much diversity there is in the school system, a",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q That is very helpful. You have run both types of school and have said that when you were running local authority-run schools, you were often told, “No, we cannot do that”, even when the action would solve a problem and benefit our pupils, and even though you can see the academy down the road doing exactly that. What sort of freedoms are the most valuable? What have you found with those academy freedoms that the Bill is eroding? Rebecca Leek: There are a few specific things, and some other things. I had to step in as an interim headteacher in Ipswich just prior to covid. I did not have an early years lead and we had Ofsted six weeks in: we got RI—with good for leadership and management, thank you very much—but I still did not have an early years teacher. I needed to solve that incredibly quickly, so I liaised with three different agencies and made contact with various different people. There was someone who was not a qualified teacher, but who had been running an outstanding nursery. She had decided to stop running it, because of her work-life balance, and she thought she might want to work in a school. I took her on, and although she was not qualified, she was really excellent. I",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q That is a potential problem for a small rural school. Rebecca Leek: It is a real problem for small rural schools particularly. They function really well in little pockets of two or three schools together, with maybe one executive head dealing with some of the headaches—because there are headaches—and with some things that are more systematic across the three schools. Yes, definitely.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q I have a quick one for Leora on academies’ freedom with the curriculum. Some trusts not far from my constituency have used those freedoms quite strongly. They have deliberately focused on the core academics. In some cases, they do not necessarily even have the facilities to provide the national curriculum—if they are to be made to do that immediately—because they have focused on getting the core academic stuff for kids in situations of deprivation. Are you aware of others? There are definitely schools and trusts out there that are using those freedoms around the national curriculum, are there not? Leora Cruddas: There definitely are trusts that have used their freedoms around the national curriculum. I would say it is not unreasonable for a state to want a high-level national curriculum framework—that is not an unreasonable position—",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q But in adjusting to that, some schools might face severe adjustments or even need new capital, facilities and stuff— Leora Cruddas: That is exactly right. Under this legislation, we could end up with a high-level national curriculum framework—once again, as I said on pay and conditions, with a floor but no ceiling. That would protect the right of schools and trusts, all schools and trusts, to innovate, to be agile, to respond to local context, and to be centres of curriculum excellence—you heard Sir Jon Coles talk about his curriculum. We want to retain that notion of curriculum flexibility, curriculum freedoms.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Would an amendment to that effect be helpful to preserve those freedoms? Leora Cruddas: It would be very helpful to have clarity on that position. Obviously, we have not had the curriculum and assessment review report yet. I have absolute confidence that Professor Francis will be eminently sensible. She is a very serious person, and will follow the evidence; but I think we need to be careful that we are not tying ourselves into high levels of prescription in all parts of the Bill, including the national curriculum.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q On pay and conditions, you might think that the idea of a floor, not a ceiling, is a decent direction of travel, but to be clear, that is not where the Bill is now and it needs to change. That is my position. Leora Cruddas: Again, I would cite the Secretary of State’s evidence to the Select Committee, where she made clear that it is also her expectation around curriculum to have that floor and to be able to innovate and have flexibility above that floor.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q What I am getting at is that we need to change the Bill as it is currently drafted by officials, in order to achieve those things. Leora Cruddas: Yes, I would say that was true.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Q I want to ask a question about admissions initially, which can go to any of you. Do you think it is important for schools to at least co-operate with local authorities on school admissions and place planning, in your experience? Rebecca Leek: I can only tell you, from my experience, that there is a lot of collaboration where I work. We have Suffolk Education Partnership, which is made up of local authority representatives, associations, CEOs and headteachers. Admissions are not really my area, in this Bill, but my experience is that there is collaboration. We are always looking to place children and make sure that they have somewhere if they are permanently excluded. There is real commitment in the sector to that, from my experience where I work.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Q Do you think that is important? Rebecca Leek: Yes, I do. Jane Wilson: I agree with that completely. We work with our local authorities and follow the local admission arrangements in all of them. We think it is really important, and we obviously want children to get places in school very quickly. Leora Cruddas: The duty to co-operate does that. We really welcome that duty.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Q This question is probably more for you, Leora, but if other people have comments, they are perfectly welcome. I understand that many small trusts are free to follow the school teacher pay and conditions document without variation. Does that indicate that the current pay and conditions framework is working for those trusts? Leora Cruddas: Thank you for that important question. Our position as the Confederation of School Trusts is that we must not just think about the practice as it is now, but consider what we want to achieve in the future. The freedom, flexibility and agility that Rebecca talked about is important if we are to ensure that leaders have the flexibility to do what is right in their context to raise standards for children. It is also important in terms of creating a modern workforce. We know that we have a recruitment and retention crisis. We know that there is a growing gap between teacher pay and graduate pay, and that the conditions for teaching are perhaps less flexible in some ways than in other public sector and private sector roles. So it is incumbent upon us to think about how attractive teaching is as a profession and think in really creative ways about how ",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q May I start with you, Leora? I want to ask the same question that I asked the academy leaders who came before you. As a membership organisation representing academy trusts, were you consulted on the provisions in the Bill relating to academies, either formally or informally? Leora Cruddas: The conversations that we would be having with any Government prior to a policy being announced or a Bill being laid are typically quite confidential. There is also something about what you mean by the term “consultation”. We did have conversations with the Government, and those conversations were constructive and remained constructive. I would say that CST is committed to continuing to work with the Government to get the Bill to the right place.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q On school improvement, I have long called for there not to be an automatic order to become an academy if a school requires improvement. There seems to be a concern, as was brought out in some of the earlier sessions, that that is being done in a bit of a vacuum. It is all very well saying that the Secretary of State “may” issue such an order, but she may not, so what might she do instead? Would you like to see more information on that and more consultation on whatever the school improvement framework would look like before we pass that provision in the Bill? Leora Cruddas: I think the answer to that is yes. The Government are bringing forward a consultation alongside Ofsted imminently, which might be an opportunity to set out some of those accountability arrangements. I would also say that academy trusts have really proved their mettle here. You might want to go to Jane next, because the Northern Education Trust is such a strong northern sponsor trust and has taken schools that have not been good in the history of state education, turned them around and made them into schools that parents and communities can be really proud of. The school that I often cite is North Shore, which w",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q How do you think the curriculum provisions in the Bill might impact university technical colleges, which are by definition much more specialist in their offering? Leora Cruddas: That is a question that we have raised. We hope that the curriculum and assessment review will address that issue, but it is also for the Government to address it, because the review will look at the high level of curriculum and assessment, whereas it is the Government who have laid the legislation. We have raised that as a specific issue, and we have also raised the issue about special schools and what it means for them.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q Good afternoon. Leora, how central a role would you say that academy trusts have played in school improvement in this country? Is there any reason to believe that the same results could not have been achieved with just some support to the school as previously structured? Leora Cruddas: I am an advocate for academy trusts, because of the clarity of accountability arrangements, the strong strategic governance, and the powerful, purposeful partnership between schools in a single legal entity. If a school is part of an academy trust and it is perhaps not improving or the quality of education is not as strong as it could be, and a conversation is had with that school, the school cannot walk away. The accountability for school improvement—the partnership mindset—is hardwired into the trust sector. For the last 20 years, spanning all political Administrat-ions, trusts have been building their school improvement capacity. Again, I would cite Northern Education Trust, which has an incredibly strong model of school improvement, and that is how it has turned around failing schools in the way that it has. The school improvement capacity sits in the trust sector. That is not to cast aspersion",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q I wanted to turn to Northern, actually, and to Jane. One of the things that you are famous for at Northern is your work on attendance. I wonder if you might say a word about the role that breakfast clubs play in that, and whether that is restricted only to primary schools. Jane Wilson: We have breakfast clubs in our primary schools and our secondary schools that children can attend. Most of those are free or charge a very small amount for the food and care that the children receive. It is an offer that we have across the trust. In terms of attendance, it enables children, often from very disadvantaged backgrounds, to have a very settled start to the day and receive care and attention before the school day starts. It means that once the school day does start, learning can become the priority. So they play a fundamental role in improving attendance in our academies, particularly for those disadvantaged children—and we serve communities of real disadvantage. We have roughly twice as many disadvantaged students as the number seen nationally across our trust.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q Finally—",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Briefly, because other Members want to come in.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Very briefly, Rebecca, what role does uniform play in identity for your school and the sense of belonging? Rebecca Leek: I think that uniform does play a role. It is sometimes a really useful mechanism to improve a school—to sort it out—as well. I do have some further things to say about uniform, if there is time and anyone wants to ask me about it.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q How do you keep it affordable and make sure it is not a barrier? Rebecca Leek: School uniform is generally very affordable. You are asking a primary school, so we do not have blazers, but certainly it is very affordable. It has never been an issue. We also give away free uniform. I think there are problems in the Bill with the uniform wording.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Darren Paffey",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "Q I want to pick up on the previous point about the curriculum floor. I wonder whether the panel agree that the opportunities of a broad, balanced curriculum that is modern, engaging and offered regardless of the badge and branding over the school door should be available to young people everywhere. Would you consider that a good thing, or would you consider the Bill—as I think Rebecca described it—a reactive, retrograde step? Rebecca Leek: I do believe that a broad entitlement for children is really important. What I am concerned about is that, first, we do not know what will be in the national curriculum and, secondly, schools sometimes need a little bit of flexibility to maybe not do a couple of subjects because they are addressing something that has happened within their school community over a couple of years or months or a term. I had a school in south Essex in a trust that I led where we needed to reduce the curriculum for a little while. It was post covid. You may say, “Well, that was covid,” but we do not what is coming. I needed to work with some children in key stage 2 on a slightly narrower curriculum to really help them with their maths and English so that they would b",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Darren Paffey",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "Q I think we all recognise that there are sometimes staffing issues in particular curriculum areas, but if something gets taken out of the curriculum, particularly at secondary but sometimes at primary, does that not risk equating to a freedom to shut off that opportunity for future generations of children? I know from having taught modern languages that when you lose those staff, you end up not replacing them, and you do not replace the subject on the curriculum. Is that not a risk? Rebecca Leek: It is a risk. Basically, sometimes schools have to do things that are a bit of an emergency, or to handle a crisis situation. We do not have a factory line of ready-prepared teachers that are already available. We also have fluctuations in pupil numbers. Some years we have to put together years 2 and 3, sometimes we have to put together years 4 and 5, and then the next year we have to put together years 2, 3 and 4 because of the pupil numbers. So we just have to have a certain level to be able to work around. We do not want headteachers to always be worrying in the back of their heads, “Am I allowed to do this? Am I not allowed to do this?” There just needs to be a certain level of permis",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Thank you to the witnesses for the evidence you have given—sorry for the interruption in the middle of it, but we cannot help that. Examination of Witness David Thomas gave evidence .",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Good afternoon. May I ask our next witness to introduce himself? David Thomas: I am David Thomas. I am a former teacher and headteacher, I co-founded Oak National Academy, and I was an adviser in the last Government, in the Department.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q David, welcome and thank you for joining us. I want to ask you first about the national curriculum and its imposition on all academy schools. We have heard about the use of that flexibility as a form of freedom—where schools are being turned around, they might do something different for a while and diverge from the national curriculum. But I know there are also trusts and school leaders who use it on a longer-term basis—they make a conscious choice to focus on, for example, the core academics, often in situations of great difficulty, in order to secure what they regard as the most important, core things for their students that will enable the maximum number of choices later on. Obviously you have been a maths teacher—you have been in that core discipline—and I wondered whether, in an education system where parents have school choice and can choose different things that are right for their child, you thought it was legitimate for people to have different models and to have that flexibility, and whether it was useful to have that freedom from the national curriculum. David Thomas: We need to strike a careful balance. It is absolutely a central purpose of education to make sure that",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Right, so you do not think that there is a particular problem out there that needs to be solved. David Thomas: No, there is not one that I can see.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Can I ask you about the very general powers in clause 43 that give the Secretary of State the ability to intervene on a whole range of subjects? The explanatory notes to the Bill talk about using that to intervene on relatively micro things like school uniform. Do you think that untrammelled power is desirable, or would it be more sensible to amend that to have it slightly more focused, so that the Secretary of State does not get dragged into attempting to micromanage schools from the centre? David Thomas: Clause 43, as drafted, goes beyond the explanatory notes and what Ministers have stated their intention to be. If the intention of the clause is to allow Ministers to intervene where an academy trust is breaching a power, but to do that in a way that is short of termination, that is a very sensible thing to want to do and the Government should absolutely be able to do that. If the purpose is, as it says in the explanatory notes, to issue a direction to academy trusts to comply with their duty, that feels like a perfectly reasonable thing to be able to do. The Bill, as drafted, gives the Secretary of State the ability to “give the proprietor such directions as the Secretary of S",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q So an amendment to bring those two things back into line—the stated intent and the actual Bill—would be sensible. David Thomas: Yes.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q I want to ask you about a few other issues, including pay and QTS. As a headteacher, you have used academy freedoms, and you have also worked in a global shortage subject, mathematics. I do not know what you think of the Bill more generally and whether there are things beyond what we have talked about already that you would amend, or what you think of the general tenor of the Bill—trying to take away academy freedoms and make things more similar. What do you think of the Bill’s direction of travel and what would you amend, if you were able to control it yourself? David Thomas: On pay and conditions, I agree with the Secretary of State’s stated intention to spread the freedom to innovate, and to make teaching a more attractive profession, to all schools. I think we are only scratching the surface as a profession of what it means to offer flexible working within education. I do not think anyone has really mastered that, and it is a really big challenge. We need to be allowing the maximum freedom for people to be able to innovate. Of course, we have just done an experiment in what happens if you tell lots and lots of schools that they do not need to follow the statutory teachers’ pa",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Do you think it would be more attractive to extend those freedoms over both pay and conditions to local authority schools? David Thomas: I think it would absolutely work, as CST has suggested, to say that statutory teachers’ pay and conditions should be an advisory thing that schools and trusts need to have due regard of, and to continue with something like the School Teachers Review Body. As it is at the moment, they are effectively setting a default starting position from which people can innovate out if they want to, rather than capping what people are able to do.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q There are lots of other big challenges in the sector at the moment: attendance, discipline and lots of other things. Is there anything else that you would like to either amend in the Bill or add to it? David Thomas: I have concerns about limiting the number of people with unqualified teacher status who are not working towards qualified teacher status.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q What is the problem? David Thomas: I have worked with some fantastic people—generally late-career people in shortage subjects who want to go and give back in the last five to 10 years of their career—who would not go through some of the bureaucracy associated with getting qualified teacher status but are absolutely fantastic and have brought wonderful things to a school and to a sector. I have seen them change children’s lives. We know we have a flow of 600 people a year coming into the sector like that. If those were 600 maths teachers and you were to lose that, that would be 100,000 fewer children with a maths teacher. None of us knows what we would actually lose, but that is a risk that, in the current system, where we are so short of teachers, I would choose not to take.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Q You have previously written about the value of ensuring that teachers can do some of their work from home, specifically marking and planning, so do you support the Government’s direction of travel in ensuring that greater flexibility and flexible working is available to more teachers and more schools? David Thomas: Yes. I find it very odd how little flexibility lots of teachers are given. As a headteacher I remember teachers asking me questions such as, “Am I allowed to leave site to do my marking?” and I thought, “Why are you asking me this? You are an adult”. I absolutely agree with that direction of travel, but I do not see that reflected in the wording of the Bill, so I think there is an exercise to be done to make sure that that is reflected in the Bill. Otherwise, the risk is that it does not become the actual direction of travel.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Q You said some months ago that deciding what to teach is a value judgment, and reasonable people would teach different things, because they value them differently. Is that still a view you hold, and therefore do you also hold that it is not unreasonable to ensure both that there is a common core national curriculum and that that curriculum is periodically updated? David Thomas: I absolutely still hold that view. I think that, as I said earlier, a core purpose of education is to ensure that people have a core body of knowledge that means they can interact with each other. That is really important. I think that we should update the curriculum and not hold it as set in stone. My concern would be that the legislative framework around the national curriculum does not ensure that the national curriculum is a core high-level framework or a core body of knowledge. It is simply defined in legislation, which I have on a piece of paper in front of me, that the national curriculum is just “such programmes of study” as the Secretary of State “considers appropriate” for every subject. We have a convention that national curriculum reviews are done by an independent panel in great detail with gre",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Amanda Martin",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "Q I have a question in two parts, but before I ask it, when we come to this Committee, we have to make declarations of interest. Can I confirm that you were the Conservative party candidate for Norwich South in the last election? David Thomas: Yes, that is correct.",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "Amanda Martin",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "Q I want to come back on two points that you made, one of which is on the flexibility around schoolteachers’ pay and conditions. We have the document on national schoolteachers’ pay and conditions, and there are personnel documents from local authorities, as there are from academies, that will add to those things. Within that, there is room—we are hearing a lot about restricting pay—for recruitment and retention points, and teaching and learning responsibility points. We no longer have performance-related pay because of the things that the Government have changed, and there is also no longer a need to wait to move up to the upper pay scale, so there are still options in the hands of trusts or local authorities. Also, the document refers to 1,265 hours, so would you agree that there is some flexibility within that? My second question is around the qualified teacher status element. Many parents. and in fact pupils. in my constituency tell me that they do not see training to be a teacher in a profession as bureaucracy. They see that it is a profession, and people want their children to be taught not just by a qualified teacher, but by a specialist qualified teacher. Do you agree that ",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We will have to leave it there; we have come to the end of the allotted time for the witness. I thank the witness for coming to give evidence to the Committee today, and we will move on to the next panel. Examination of Witness Kate Anstey gave evidence.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Thank you very much for coming. Apologies; we are a little bit later starting than we had anticipated because of the delay for voting earlier. Could you introduce yourself? Kate Anstey: I am Kate Anstey, the head of education policy at Child Poverty Action Group.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Good afternoon. Thank you for bearing with us while we voted. During the course of the day we have been discussing free school meals in secondary schools. It is obviously desirable to give lots of people free breakfasts, but there has been a bit of a debate about how to prioritise in a situation of inevitably scarce resources. We heard from Mark Russell that, if given the choice, rather than go for a universal obligation in primary schools, he would have the roll-out of breakfast clubs in more secondary schools targeted at schools with high levels of deprivation. Should we focus first on areas of deprivation and secondary schools with deprivation? Obviously, we would like to have infinite money. What do you think of his argument? Kate Anstey: We certainly welcome the introduction of free breakfast clubs in the Bill. We speak to children and families in schools extensively and carry out extensive analysis. We know that where breakfast clubs are provided freely, they make a huge difference to low-income families —they make a big difference to lots of children, but to lower-income families disproportionately. The fact that provision is universal is very important; we know that remov",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Do you mean universal within the school—everyone has access to it? Kate Anstey: Yes, exactly. Take-up of breakfast clubs varies, but the fact that it is universally available is very important. I would say that it feels like secondary school pupils need more attention. They are being missed in the Bill. More could be done to support those families. There is also the issue in primary schools of how much support breakfast clubs can provide in terms of childcare, which is much more needed at primary level, but secondary school pupils certainly need support. They need support to get to school and they need food available as well.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q That is a very interesting point. Do you have a sense yet of the future funding arrangements for breakfast clubs in secondary schools and for HAF—holiday activities and food? What is the current status of those, as you understand it? Kate Anstey: My understanding is that the HAF funding for holiday programmes has been committed to until 2025—some time this year. There are concerns about what will happen next with holiday programmes. In terms of funding for breakfast clubs more generally, there has been commitment to carry on funding the national school breakfast programme until 2026. That supports some secondary schools that meet the criteria. That is welcome, but one of our concerns with the work going on around breakfast clubs is funding and commitment to funding. We know that there is funding until 2026.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q But there is no certainty after that. Kate Anstey: Yes, there is no certainty after that. The costs cannot land on families—we know that that will be a major barrier—but they also cannot land on schools, which need to know that they can continue that provision.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q There are charities, voluntary groups and various people out there funding free breakfasts, and there are paid-for free breakfasts at the moment, so the interaction of the Government-funded entitlement for the 30 minutes and those two other things will be quite complicated. Do you have any thoughts about anything that we need to do in the Bill to make that work well and to avoid the problems you have described? More generally, do you have thoughts, based on the experience of the groups that you speak to, about what it really costs to deliver this well? What is the unit cost of doing it properly? I am interested in both of those things. Kate Anstey: Around 75% of schools have some form of breakfast provision already, but, as you say—",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Is that primary? Kate Anstey: There is a higher proportion in primary, but that 75% is across all. Sorry—I have forgotten your question.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q I was trying to get at what the unit costs look like and how you manage the interaction of providing a new, free entitlement to 30 minutes together with paid-for sessions that offer longer and existing, charitably funded things. Is there anything we need to do in the Bill to ensure that that does not get tangled up? Kate Anstey: A large proportion are already running breakfast clubs. It is a real mixture in terms of how that is funded, whether it is through schemes or other things. In primary schools, it is much more likely that parents are paying in some form for that. Again, it is a mixed picture. There is a postcode lottery for families. If you are in a more affluent area, you are more likely to have breakfast club provision available to you, and you are more likely to be supported by family. In what the Bill is trying to do on breakfast clubs, we really welcome the fact that it is bringing consistency and ensuring that there is access for all families. In the early adopter phase, it would be good to understand what schools are doing already and how this can work, but I think that standardised limit that includes both time and food for families should be standardised for every",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q On unit costs, I saw in the Government document that there was an initial grant—a lump sum—but the unit cost was about 65p per session per child. I know that there was the lump sum as well, but that struck me as being not a huge amount. I do not know what it really costs to deliver these things in practice in a lot of other places. Kate Anstey: It is probably worth speaking to organisations; I am sure that Magic Breakfast will be able to speak more to that. There are certainly economies of scale that can help you bring down costs, but again, our area of expertise is free school meals, and schools are struggling with the funding that they have for free school meals. I would imagine that 65p might be a struggle for schools—I do not know. You would have to have conversations with some of the providers about that.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Q Kate, it is good to see you again. Thank you for giving evidence to the Committee. I have a specific question around school uniform provisions in the Bill. Do you think that the provisions in the Bill on school uniform items for primary schools will support families and children with the cost of living? Kate Anstey: We were very pleased to see Government taking action on reducing the cost of the school day, and uniforms are a huge pressure for families. We have done some research looking at the cost of uniforms for families. If you are a primary-aged family, the cost is £350 minimum, and it goes up to about £450 for secondary-aged families. That is for one child, of course, so that multiplies if you have more children. Part of that includes the fact that schools sometimes have excessive lists of compulsory branded items, so we were very pleased to see that acknowledgment in the Bill and the recognition that that needs to be limited. We think that that will make some difference to families. The Bill could have gone further. I am not sure why the difference has been made between secondary and primary on the minimum. I think that those should be the same; there should not be a discr",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q Kate, you touched on the fact that the Bill does not really address the needs of children at secondary school who might be in poverty. I know that the Child Poverty Action Group has long campaigned on expanding eligibility for free school meals. Could you tell us whether you would like to see the threshold of eligibility across both primary and secondary raised? Also, should we be looking at auto-enrolment? Kate Anstey: I think the Bill was a real missed opportunity to do more on free school meals. Again, school food comes up in every conversation we have. At the moment, we estimate that about one in three children in poverty do not qualify for free school meals because that threshold is painfully low. It has not been updated since 2018. As CPAG, ultimately, we want to see means-testing removed from lunchtime altogether. We want children to be in school and able to learn. They have to be there at lunchtime. There is no reason why we should not feed every child universally and make it part of the school day, but I think there is an urgent need to increase that threshold as much as possible to support more lower-income families.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q To what level? Kate Anstey: As I say, we would like to see universal provision, but the fact that currently you can be eligible for universal credit and state-funded benefits and yet your child cannot get a bit of support in the form of a hot meal at lunchtime is completely wrong, in my mind. I think, at the very least, it should go to all families on universal credit.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q And auto-enrolment? Kate Anstey: Yes. The data on auto-enrolment shows that around one in 10 children who are eligible for free school meals are not registered. That is for a whole host of reasons, including families not knowing they are entitled and families struggling with the admin. There is a very clear fix to this: if the DWP and the DFE work together to do the right data sharing, those children can be automatically enrolled. At the moment, many local authorities are doing a brilliant job of putting opt-out schemes in place, but that is highly onerous and those systems are not perfect, so they still miss children. We absolutely would say that increasing eligibility for free school meals is a priority, as is making sure that everybody who is entitled is getting one. The children who are missing out because they are not registered are some of the poorest. They are missing out on the meal and the benefits that go alongside that.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q Nutritionally, would you say a hot meal at lunchtime is more beneficial than a breakfast? Kate Anstey: As I said, take-up of breakfast clubs or different schemes is around 40%, whereas the vast majority of children are in school for lunchtime. Children will be there and able to access that hot meal, so they are more likely to feel the benefits, whereas the effects of breakfast clubs depend on whether that offer is taken up.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Tom Hayes",
+   "member_id": 5210,
+   "type": "Contribution",
+   "text": "I want to make a reference to the previous witness. It is my first time at a Committee oral hearing, and I am slightly astonished that there was no declaration that the previous witness was a parliamentary candidate at the election just gone —[Interruption.]",
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Order. Can we please get on to the questions to the witness on the Bill?",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Tom Hayes",
+   "member_id": 5210,
+   "type": "Contribution",
+   "text": "I make this point in the context of the Labour peer who did disclose her party allegiance.",
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "And others.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Order. It is not acceptable to have this backwards and forwards across the Committee. Please ask a question of the witness.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Tom Hayes",
+   "member_id": 5210,
+   "type": "Contribution",
+   "text": "Q I want to ask somebody who clearly has long professional experience about the nutrition of food in the free breakfast clubs. Children are experiencing significant difficulty, whether it be from the cost of living crisis, the pandemic, reduced opportunity for play outdoors or their increased screentime. Children are struggling, so we need to make sure that the food that they get from this Government is as nutritious as possible. There is clearly a correlation between poor health outcomes and people’s financial hardship. How do you expect health outcomes will improve for children, particularly from disadvantaged backgrounds, by their having access to free breakfast clubs?",
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "You have one minute to answer. Kate Anstey: Food that is given at breakfast time has to be in line with school food standards. Those standards certainly need to be looked at and more could be done around them but, again, I pivot back to the fact that although there is a need to look at what children are getting at breakfast, there is even more of a need to look at making sure that more children can get access to food at lunch time. Schools themselves will say that there are sometimes struggles in terms of meeting school food standards because of the costs. Schools have faced increased costs of food, and they do not want to pass those costs on to families, so there are challenges there, but there is a will from schools to try to meet those standards and give children a complete meal. That can hopefully happen at breakfast and at lunch time. It is fundamental that children are able to have that nutritious hot meal, and we know it has really fantastic benefits for the rest of the school day. We recently evaluated the Mayor’s universal free school meals policy in London. We found that, as well as the health benefits, families are also able to spend on food at home when they save that m",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We now have to move on to the next panel. Thank you very much for coming to give evidence to the Committee. Examination of Witnesses Catherine McKinnell and Stephen Morgan gave evidence.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Q We now move on to the Ministers on the Bill. We all know who you are, but can you give us your formal titles? The Minister for School Standards (Catherine McKinnell): I am Catherine McKinnell, the Minister for School Standards. The Parliamentary Under-Secretary of State for Education (Stephen Morgan): I am Stephen Morgan, the Minister for Early Education.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q We have heard from four or five different school leaders today alone that the Bill needs to be changed to deliver what the Government are committed to rhetorically, not just on pay and conditions, but on the national curriculum. They say that “It is nice that this is your intention” and “It is nice that this is what you say”, but four or five distinguished school leaders have said, specifically, over the course of the day, that the Bill needs to be amended. Will the Ministers work with those school leaders now to produce those amendments? Catherine McKinnell: I want to say first that the Government’s mission through the Bill—",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Could you answer the question? Catherine McKinnell: I will answer the question.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Vicky Foxcroft (Lewisham North) (Lab)",
+   "member_id": 4491,
+   "type": "Contribution",
+   "text": "We are supposed to be polite to each other.",
+   "name": "Vicky Foxcroft",
+   "party": "Lab",
+   "seat": "Lewisham North"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "We have limited time. Can you please just answer the question. I have incredibly limited time.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Order. We have had a question, and the Minister is going to answer it. Catherine McKinnell: The Government’s mission through the Bill is to deliver on the ambition of giving every child a national core of high-quality education, while allowing schools more flexibility and to innovate beyond it. We know that excellence and innovation can be found in all school types, so our priority is to create a school system that is rooted in collaboration and partnership so that we can spread that best practice throughout our very diverse system, which was commented on in the evidence we heard today. That is just the schools part; there is obviously a whole other section on children and safeguarding, and making sure we bring forward the landmark reforms that we need to see in child safeguarding. In direct answer to the hon. Gentleman’s question, the factor that makes the biggest difference to a young person’s education in schools and colleges is high-quality teaching, but there are severe shortages of qualified teachers across the country. We know that they are integral to driving high and rising standards, and they need to have an attractive pay and conditions framework. That is essential to bo",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q So it is still your intention to make all academies comply with the school teachers’ pay and condition document, despite what Sir Jon Coles talked about regarding the problems that that would create? Catherine McKinnell: As I said, the amendment will require all state schools to follow the minimum pay bands set out in the school teachers’ pay and conditions document, and then it will require academies to have due regard to the rest of the terms and conditions in the school teachers’ pay and conditions document. This is so that we can deliver that core offer to all state schools, but without a ceiling.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Is the Minister prepared to commit to work with school leaders, both the ones here today and others, to generate that amendment so that they are all satisfied with where we end up? Catherine McKinnell: We are in close consultation with all of the stakeholders that we have been collaborating with to make sure we create the best framework of legislation that will deliver opportunity for all children, and we will continue to do so.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Is the only amendment that we will be seeing from the Government on some of the issues we talked about today on pay, with nothing on clause 43, QTS or the national curriculum? If the answer is yes, and you are not planning an amendment on those, that is fine. I just wondered if the Minister had been persuaded by any of the things discussed, particularly around clause 43 and whether it is a bit too untrammelled in its current form and did not necessarily reflect the intent as put down in the notes? Catherine McKinnell: I can respond to the hon. Gentleman on the new power in clause 43 that he has raised a number of times today. It will provide the Secretary of State with a more proportionate and flexible remedy, where it is really important to address quite a narrow or specific breach regarding unreasonable behaviour within an academy trust. I can give you an example as to why this is necessary: at the moment existing intervention powers require the Department for Education to use a termination warning notice and subsequently a termination notice. That is not always necessary or appropriate when dealing with an isolated breach of a legal duty.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q I understand the sense of that. Catherine McKinnell: We need a proportionate response and that needs to be framed—",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q On that front we are in agreement. My question is whether the Minister would be prepared to limit that to schools’ actual duties, rather than just anything that the Secretary of State sees fit to direct them to do. That is the worry. It is not an “in principle” objection to it. It is a problem that the power is so untrammelled. Would she consider listening to the point that was made on that? Catherine McKinnell: Is the hon. Gentleman talking about a point that he has made on that or a point that—",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q It was a point that David made in his evidence on it. I thought he made a good point. Catherine McKinnell: Obviously, we will listen to legitimate concerns on that. At the moment our view is that it is a much more proportionate way of dealing with a breach by an academy of a legal requirement within the legislation, so that we can avoid disruption to children where there is another way of dealing with it.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q One last point. Zooming back a bit, a few different witnesses called for a vision of where the system is going, and they intuited what the Government’s vision was from the contents of the Bill. I thought that was very interesting. I just wondered what Ministers’ view was of what had gone wrong in Wales. Obviously in Wales a lot of the different academy freedoms were never taken up, academies were not put in place and league tables were abolished. It was effectively a natural experiment going the opposite direction to England. The IFS report “Major challenges for education in Wales” is incredibly damning about what has happened there as a result. In terms of the Government’s overall theory and the vision they are trying to enact in the Bill, I am curious about why Ministers think things have gone so wrong in Wales. Why have things gone so backward? Why is the IFS report so damning? Catherine McKinnell: I am conscious that other Members of the Committee might want to actually ask about the legislation, but I am happy to set out our overarching vision.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Order. Given the shortage of time, this is moving further away from the legislation than we should allow. Can we move on to Munira Wilson?",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q It has become clear from some of the evidence today that in terms of the priorities and challenges facing schools today, it feels like some leaders have been a bit blindsided by the provisions in the schools part of the Bill. The provisions are also not really tackling the biggest challenges, which are the SEND system in crisis and the children’s mental health crisis. They are perhaps tackling problems that some leaders do not feel are there. Could you explain why you have decided to go for these measures as opposed to the areas that union leaders, school leaders and children are telling us that we really need to be focusing on? Arguably recruitment and retention is another crisis area, and some of these measures could actually hinder recruitment and retention. Catherine McKinnell: I would point blank refute your last assertion on the basis that any measures in the Bill are very much intended to tackle some of the challenges with recruitment and retention. We are committed to making sure that not only do we have the teaching professionals we need in our schools, but that they are suitably qualified and that we drive those high and rising standards. We know that having excellent t",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q I would include SEND as well as being missing in the Bill, but I am conscious of time. The Children’s Commissioner in her email to the Committee last night said that we need to see an impact assessment and a children’s rights assessment. When can we expect to see those? Stephen Morgan: There is more work to do before presenting the impact assessment to the Committee. It is currently with the regulatory committee, but we acknowledge that this is information that should be brought before the Bill Committee, and we will do so as quickly as we can.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q Specifically on the register of children not in school and the powers you are giving to local authorities to deny parents the right to home school their children, I go back to some of the questions I asked witnesses earlier. Why have you put in such an onerous list of information that you want from parents? Do you really need that to be able to operate an effective register? Given the state of SEND provision in our state sector, is it right that you are giving local authorities the power to say no to a parent who does not feel that their child’s needs are being met at a special school and wishes to withdraw them? Will you reconsider that, given the concerns from parents of SEND children? Catherine McKinnell: That was an awful lot of questions, and I am not sure whether we have time to address them all, but our fundamental approach is that all children have the right to a safe and suitable education, whether they are educated at school or otherwise. We have given quite significant consideration to, and had consultation with stakeholders on, how to get the balance right and having a proportionate approach: ensuring that local authorities can be assured that children not in school a",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "There is time for a few brief questions from Members.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine Atkinson",
+   "member_id": 5143,
+   "type": "Contribution",
+   "text": "Q How do you think the Bill will help to stop children falling through the net? How can it help to support families, in the cost of living crisis, with the costs associated with school? Catherine McKinnell: Those are two quite big issues. Do you want to start on cost savings, Stephen? Stephen Morgan: As we have heard today, too many children are growing up in poverty in our country, and that is why it is important that the ministerial taskforce concludes later this year and decides what actions can be taken forward. As of 2023, one in four children were in absolute poverty, and that is why I am so pleased with the many measures that will make a big difference to children’s lives up and down the country. Take breakfast clubs, which we know are good for attainment, behaviour and attendance: they will put £450 per child, per year, back in the pockets of parents, but also bring real benefits to children. More broadly, the commitments around uniform limits will make a real difference, as we have heard today, and will save the average parent £50. A series of measures in the Bill will make a real difference in the cost of living challenges that parents up and down the country are facing. ",
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q I am conscious that we are short of time. This Bill is really like two Bills, with the children and social care section and the schools section. Were there discussions about making it two separate Bills? You could have pressed on at all speed with the social care material, which has been around for quite a long time—some of it was in the 2022 Act. That would have enabled you to have a Green Paper, a White Paper and pre-legislative scrutiny, and perhaps to address more of the questions up front. Catherine McKinnell: I appreciate the premise of the right hon. Gentleman’s question. I appreciate that he is very experienced in this place and that he has had the experience of being in government for quite some time, and having the opportunity to do all those things and make the necessary changes. We wanted to move as fast as we could to make the impact that children need to see, particularly in safeguarding. We also wanted to make the long thought-through changes to our school system to support our opportunity mission and break down those barriers to ensure that every child has every opportunity to succeed. Admittedly, we are not going to lose any time in making the changes that we wan",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Ah. Catherine McKinnell: It is very important that we use it. We are a Government on a mission, and we have a lot of things to do.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Amanda Martin",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "Q How will the Bill support local partnerships? We heard from Sir Jon Coles, the Church of England, the Catholic Education Service and others about collaboration. How will the Bill support local partnerships to work together more effectively to prevent children from falling behind? Catherine McKinnell: My hon. Friend raises an important point, and it is very much at the heart of what we want to achieve through our changes to schools. We want to ensure that every child has a good school place; that every parent can be confident that their child will be taught by a qualified teacher within their local mainstream school wherever possible, being educated with their peers; that no vulnerable child falls through the cracks; and that we know where they are if they are not in school. We are making important changes on admissions to ensure that all the schools in a local area collaborate with their local authority on place planning, so that we can really deliver on that vision.",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "That brings us to the end of today’s sitting. The Committee will meet again at 11.30 am on Thursday 23 January to begin line-by-line consideration of the Bill. Ordered, That further consideration be now adjourned. —( Vicky Foxcroft .)",
+   "name": "Chair",
+   "role": "Chair"
+  }
+ ],
+ "fetched": "2026-10-21T20:24:49Z"
+}

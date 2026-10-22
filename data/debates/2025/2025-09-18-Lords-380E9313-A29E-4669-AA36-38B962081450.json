@@ -1,0 +1,1184 @@
+{
+ "ext_id": "380E9313-A29E-4669-AA36-38B962081450",
+ "date": "2025-09-18",
+ "house": "Lords",
+ "section": "Debate",
+ "title": "Children’s Wellbeing and Schools Bill",
+ "parents": [
+  "Lords Chamber"
+ ],
+ "location": "Lords Chamber",
+ "url": "https://hansard.parliament.uk/Lords/2025-09-18/debates/380E9313-A29E-4669-AA36-38B962081450/ChildrenSWellbeingAndSchoolsBill",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Baroness Blower",
+   "party": "Lab",
+   "member_id": 4724
+  },
+  {
+   "name": "Lord Banner",
+   "party": "Con",
+   "member_id": 5014
+  },
+  {
+   "name": "Lord Carter of Haslemere",
+   "party": "CB",
+   "member_id": 4732
+  },
+  {
+   "name": "Lord Meston",
+   "party": "CB",
+   "member_id": 1940
+  },
+  {
+   "name": "Baroness Longfield",
+   "party": "Lab",
+   "member_id": 5392
+  },
+  {
+   "name": "Lord Wei",
+   "party": "Con",
+   "member_id": 4145
+  },
+  {
+   "name": "Baroness Butler-Sloss",
+   "party": "CB",
+   "member_id": 3804
+  },
+  {
+   "name": "Lord Russell of Liverpool",
+   "party": "CB",
+   "member_id": 2134
+  },
+  {
+   "name": "Baroness Bennett of Manor Castle",
+   "party": "GP",
+   "member_id": 4719
+  },
+  {
+   "name": "Baroness Spielman",
+   "party": "Con",
+   "member_id": 5404
+  },
+  {
+   "name": "Lord Hampton",
+   "party": "CB",
+   "member_id": 4951
+  },
+  {
+   "name": "Baroness Coffey",
+   "party": "Con",
+   "member_id": 4098
+  },
+  {
+   "name": "Baroness Barran",
+   "party": "Con",
+   "member_id": 4703
+  },
+  {
+   "name": "Lord Storey",
+   "party": "LD",
+   "member_id": 4238
+  },
+  {
+   "name": "The Earl of Effingham",
+   "party": "Con",
+   "member_id": 4958
+  },
+  {
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education",
+   "member_id": 269
+  },
+  {
+   "name": "Lord Layard",
+   "party": "Lab",
+   "member_id": 2540
+  },
+  {
+   "name": "Lord Katz",
+   "party": "Lab",
+   "role": "Lord in Waiting/Government Whip",
+   "member_id": 5386
+  },
+  {
+   "name": "Lord Macpherson of Earl’s Court",
+   "party": "CB",
+   "member_id": 4586
+  },
+  {
+   "name": "Lord Deben",
+   "party": "Con",
+   "member_id": 4154
+  },
+  {
+   "name": "Baroness Wolf of Dulwich",
+   "party": "CB",
+   "member_id": 4347
+  },
+  {
+   "name": "Lord Addington",
+   "party": "LD",
+   "member_id": 3453
+  },
+  {
+   "name": "Baroness Blake of Leeds",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip",
+   "member_id": 4912
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 3842
+  },
+  {
+   "name": "Lord Jackson of Peterborough",
+   "party": "Con",
+   "member_id": 1551
+  },
+  {
+   "name": "Lord Holmes of Richmond",
+   "party": "Con",
+   "member_id": 4294
+  },
+  {
+   "name": "Lord Moynihan",
+   "party": "Con",
+   "member_id": 924
+  },
+  {
+   "name": "Baroness Sater",
+   "party": "Con",
+   "member_id": 4700
+  },
+  {
+   "name": "Baroness Evans of Bowes Park",
+   "party": "Con",
+   "member_id": 4329
+  },
+  {
+   "name": "Baroness Bousted",
+   "party": "Lab",
+   "member_id": 5385
+  },
+  {
+   "name": "Noble Lords"
+  },
+  {
+   "name": "A noble Lord"
+  },
+  {
+   "name": "Baroness Kidron",
+   "party": "CB",
+   "member_id": 4258
+  },
+  {
+   "name": "Lord Tarassenko",
+   "party": "CB",
+   "member_id": 5027
+  },
+  {
+   "name": "Baroness Harding of Winscombe",
+   "party": "Con",
+   "member_id": 4324
+  },
+  {
+   "name": "Lord Norton of Louth",
+   "party": "Con",
+   "member_id": 3187
+  },
+  {
+   "name": "Lord Watson of Invergowrie",
+   "party": "Lab",
+   "member_id": 1241
+  },
+  {
+   "name": "Lord Young of Acton",
+   "party": "Con",
+   "member_id": 5379
+  },
+  {
+   "name": "Lord Brady of Altrincham",
+   "party": "Con",
+   "member_id": 435
+  },
+  {
+   "name": "Baroness Boycott",
+   "party": "CB",
+   "member_id": 4704
+  },
+  {
+   "name": "Baroness Finlay of Llandaff",
+   "party": "CB",
+   "member_id": 3609
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Baroness Blower (Lab)",
+   "member_id": 4724,
+   "type": "Contribution",
+   "text": "My Lords, having worked on these amendments with my noble friend Lady Lister, and in her unavoidable absence from the Chamber today, I shall move Amendment 469, speak to Amendment 470 and also mention Amendment 502F. Amendment 469 introduces a duty routinely to prepare and make publicly available an assessment of the expected impact of any proposed legislation, policy, budgetary action or other matter that will have an impact on children. Amendment 470 provides for a more general duty, requiring Ministers to consider, protect and promote children’s rights as set out in the UN Convention on the Rights of the Child. Together, these amendments probe all options in the round. Amendment 502F, which is broader in scope, is complementary, but a clear duty to have regard to the UN CRC is preferable to the somewhat vaguer qualification “the desirability of”. Amendments 469 and 470 had input from the NSPCC as part of the Children’s Charities Coalition, the Children’s Rights Alliance and UNICEF UK. They would place a clear duty on Ministers to have due regard to the UN CRC, although those bodies ultimately aim for full and direct incorporation of the UN convention in law, as in Scotland. Thre",
+   "name": "Baroness Blower",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Banner (Con)",
+   "member_id": 5014,
+   "type": "Contribution",
+   "text": "My Lords, I shall speak to Amendment 502F in my name. I thank the noble and learned Baroness, Lady Hale of Richmond, who is unable to be here today, for lending her name to it, and Mr James Maurici KC for assisting us with its drafting. The amendment is like Amendment 470, albeit differently worded, in seeking to give domestic legal effect in a somewhat different way, in the context of functions by public authorities under the Bill, to the rights of children contained in the United Nations Convention on the Rights of the Child. As the noble Baroness has just outlined, the purpose of the UNCRC is that children’s rights need specific consideration due to the special care and protection often needed by children and young people. The UK has been a party to the convention for three and a half decades. It was signed by the Thatcher Government in 1990. Around that time my noble friend Lady Bottomley, then Minister for Health, said in the other place that the UK played a leading role in drafting it. Despite that, the convention has not yet been incorporated in our domestic law in England. The UN committee with oversight of the convention, as we have just heard, has recommended that it shou",
+   "name": "Lord Banner",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Carter of Haslemere (CB)",
+   "member_id": 4732,
+   "type": "Contribution",
+   "text": "My Lords, I will speak to Amendment 502G in this group. This amendment would ensure that Part 2 of the Bill complies with Article 2 in Protocol 1 to the European Convention on Human Rights, which the United Kingdom not only signed and ratified but incorporated into UK law by the Human Rights Act 1998. My amendment is based on the wording of the second sentence of Article 2 of Protocol 1, which provides: “In the exercise of any functions which it assumes in relation to education and to teaching, the State shall respect the right of parents to ensure such education and teaching is in conformity with their own religious and philosophical convictions”. Part 2 of the Bill directly engages this article, since the Government will be, in the words of the ECHR, “assuming many new functions in relation to teaching and education”. For example, local authorities will be given sweeping new powers to monitor, register and regulate the independent sector. The Secretary of State will be empowered to regulate proprietors of independent schools, arrange inspections, prescribe standards and suspend registration. He or she will be able to make regulations using Henry VIII powers so as to dictate which",
+   "name": "Lord Carter of Haslemere",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Meston (CB)",
+   "member_id": 1940,
+   "type": "Contribution",
+   "text": "My Lords, I support Amendments 469 and 470 and have added my name to Amendment 502F. However, I suggest that altogether more forthright and comprehensive embedding of the UNCRC into English law is now both appropriate and overdue, even if that cannot be fully achieved under this Bill. That convention was signed by the United Kingdom, among many others, as long ago as 1991. It commands widespread respect. Since then, England has fallen out of step with Wales, where, as we have been told, a measure in 2011 placed an express duty on Ministers to have regard to the rights and obligations in the convention. England is yet more out of step with Scotland, where the convention was fully and directly incorporated into law by statute last year. Amendment 470 would align England with Wales, but not yet with Scotland. Amendment 502F would impose a duty on public authorities, not just on Ministers, yet both fall short of unqualified incorporation. The convention provides a wide-ranging and valuable list of rights which should be an invaluable checklist for any public authority. Even if some may criticise parts of it as idealistic and aspirational, the convention both sets and raises standards, ",
+   "name": "Lord Meston",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Longfield (Lab)",
+   "member_id": 5392,
+   "type": "Contribution",
+   "text": "My Lords, I will speak in support of Amendments 469 and 470, and I thank my noble friend for making such a strong and clear case for why they are important. As a former Children’s Commissioner who worked very much within the framework of the UNCRC as the legal person required to promote and support children’s rights, the Committee will not be surprised to hear me speaking up for these amendments. As part of that role, I met children’s commissioners and Governments from around Europe and the rest of the world. They were at different stages of having regard to the UNCRC, but it was very clear from all my conversations with those who had taken the step towards incorporation—senior members of Government and others working in the public sector and wider society—that this was an important declaration for their country and for how they viewed themselves. I am proud of the work that this Bill, as well as the wider work of government, is putting forward to make children a much more central commitment in decision-making. These amendments would offer a next, important step. However, the discussion around this can often become quite legalistic and technical, which sometimes distracts. We need ",
+   "name": "Baroness Longfield",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Wei (Con)",
+   "member_id": 4145,
+   "type": "Contribution",
+   "text": "My Lords, I will speak to Amendment 502YP, which stands in my name. This amendment goes to the heart of how government power is exercised in the Bill. It would require the Secretary of State, when issuing guidance and reviewing parental appeals, to act in a manner that is substantively fair, proportionate and consistent with the best interests of the child while also taking into account the burdens that they might impose on families and parents. Why is such a provision necessary? It is not enough for Ministers to draft guidance that looks acceptable on paper or to frame decisions in language that appears compatible with human rights law. What matters is how these powers operate in practice and how they impact parents and children, and other stakeholders in their daily lives. Too often, many innocent families that I have spoken with experience the gap between theory and practice. They are told that regulations are light-touch, yet find themselves deluged with data requests, threatened with attendance orders or subject to investigatory processes that are often triggered not by evidence of harm but by mere administrative suspicion. From my work with home-educating families, I have hea",
+   "name": "Lord Wei",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Butler-Sloss (CB)",
+   "member_id": 3804,
+   "type": "Contribution",
+   "text": "My Lords, I support Amendments 469 and 470, particularly the speech of the noble Baroness, Lady Longfield, who has such experience. I should like to concentrate briefly on listening to the child. In 1987-88, I chaired the statutory inquiry into the Cleveland child abuse. I heard, with my assessors, a lot of videos of children being interviewed. It was extraordinary how even very young children of five or six were able to give astonishingly accurate accounts of what had happened to them and what they wanted done. The older children were explaining not only how they had been interviewed but how they wanted their voices to be heard, and they were not being heard. In my recommendations, I pointed out that children were people and not packages. That idea, that children are people entitled to be heard, does not mean that they are entitled to have what they want done—it may not be appropriate—but it is crucial to hear what they want done. It seems to me that these two amendments put on the statute book part of the very important United Nations Convention on the Rights of the Child, which has been referred to frequently today. It is a bit odd that we have not embraced it fully in English l",
+   "name": "Baroness Butler-Sloss",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Russell of Liverpool (CB)",
+   "member_id": 2134,
+   "type": "Contribution",
+   "text": "My Lords, at Second Reading, I said that a great sorrow for me and many others is that the noble Baroness, Lady Massey of Darwen, is not with us, because she would have been intimately involved in the Bill. In particular, she would have put her full weight behind these two amendments. She was a clarion call for the voice of the child to be heard. During the last five or six years in your Lordships’ House, we have had a succession of Bills—I include the Police, Crime, Sentencing and Courts Bill, the Victims and Prisoners Bill and the Online Safety Bill. In each case, a group of us across the Chamber has fought repeatedly to try to inject into the Bill as much as possible a recognition of the rights of children, and that children are not—and should not be treated in the same way as—adults. In each case, this has been necessary because it has become abundantly clear that this was not foremost in the minds of those drafting the Bill at that time. If that was embedded in the system, so that what is in the best interests of the child was automatically a major part of thinking behind drafting any part of a Bill, what a wonderful advance that would be. I have been involved for many years w",
+   "name": "Lord Russell of Liverpool",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Bennett of Manor Castle (GP)",
+   "member_id": 4719,
+   "type": "Contribution",
+   "text": "My Lords, it is a great pleasure to take part in this rich and terribly important debate, having attached my name to Amendments 469 and 470, which are also signed by the right reverend Prelate the Bishop of Gloucester and the noble Baroness, Lady Walmsley. They have broad cross-party support, and we have heard much more support from all corners of the Committee. It is a pleasure to follow the noble Earl, Lord Russell, even though he pre-empted—",
+   "name": "Baroness Bennett of Manor Castle",
+   "party": "GP"
+  },
+  {
+   "who": "Baroness Bennett of Manor Castle (GP)",
+   "member_id": 4719,
+   "type": "Contribution",
+   "text": "The noble Lord, Lord Russell. There we are—promotions are good. It is a pleasure to follow the noble Lord, Lord Russell, even though he pre-empted one of my lines: imagine having on the front of every Bill a statement that says, “This complies with the UN Convention on the Rights of the Child”—what a step forward that would be. I want to return to the comments made by the noble and learned Baroness, Lady Butler-Sloss, about listening to children—indeed, this is where the noble Baroness, Lady Blower, started us: nothing about us without us. The noble and learned Baroness referred to how important it is to listen to children. She said that children have really good ideas and a clear psyche. It is important that we follow Article 12 of the UN convention and ensure that we follow the right of children to be listened to and taken seriously. That is crucial for children’s mental health and well-being. The sense of agency really is important; a lack of that sense of agency is a problem across the whole of our society, but particularly for our children. Turning that round, children have really good ideas. We are facing a polycrisis: we are exceeding our planetary boundaries and we are dama",
+   "name": "Baroness Bennett of Manor Castle",
+   "party": "GP"
+  },
+  {
+   "who": "Baroness Spielman (Con)",
+   "member_id": 5404,
+   "type": "Contribution",
+   "text": "My Lords, I oppose Amendments 469 and 470. I recognise that they are proposed with the very best of intentions and at first blush sound wonderful, yet it is blindingly obvious that they would be likely to do more harm than good in practice. They embody a fundamental misconception that children have no real rights in the UK except to the extent that they are specified in supranational charters and conventions. This is simply not the case. We have a long and generally positive history of acknowledging and protecting human rights, including those of children, and recognising the ways in which children need to be treated differently from adults. We do an enormous amount to give children a voice. I will turn to the negatives. First, the amendments would create a vast and costly administrative burden for very little additional value. The amendments specify that children’s rights impact assessments would have to be published for every single ministerial decision, including operational decisions. Scotland and Wales have been repeatedly cited as models to follow, yet it is genuinely hard to find ways in which children in Scotland and Wales are doing better than children in England and easy ",
+   "name": "Baroness Spielman",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Hampton (CB)",
+   "member_id": 4951,
+   "type": "Contribution",
+   "text": "My Lords, I am standing up to make a speech absolutely on the fly now. I have taken some legal advice and the noble Lord, Lord Meston, says there would be no adverse impact from this. So I add my support to Amendments 469, 470 and 502F. As a teacher, I think the history of education in this country is that it has gradually dawned on us that children have rights. If I may give a bit of hope to the noble and learned Baroness, Lady Butler-Sloss, I think we do listen to children much more now. The noble Lord, Lord Banner, touched on the idea that we are very good at setting up conventions—we are extremely diligent signatories and very good penholders—but we are not usually very good at following our own advice. The Children’s Charity Coalition has said that the Bill currently lacks explicit measures to ensure that children’s rights are systematically considered in law and policy-making. That is a lot of children’s charities that think that. We have heard from Team Cross Bench, which I thought put some extraordinary power behind these amendments, but perhaps I may quote my legal adviser, the noble Lord, Lord Meston, on this one: these are appropriate and overdue.",
+   "name": "Lord Hampton",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Coffey (Con)",
+   "member_id": 4098,
+   "type": "Contribution",
+   "text": "My Lords, this has been a fascinating debate. I have not particularly participated in this Bill, but I am always interested when noble Lords seek to incorporate various treaties we have signed into domestic law. The reason I say that is because of my experience in a variety of ways of having been a Minister. Paragraph 1.6 of the Ministerial Code, which is not a new obligation on Ministers, states that Ministers have to comply with the international agreements into which Governments and previous Governments have entered and which have usually been ratified by Parliament. The need to think about these sorts of issues, particularly around children, is already embedded into how policy framework strategies are deployed. “From the mouths of children” is in the Psalms and in the Gospels. That element of truth comes through: it is absolutely vital that children’s voices are heard. This is why things such as the Children Act 1989 was really important, about aspects of that. However, I am really concerned, and I share the concerns that my noble friend Lady Spielman expressed, about whether these need to be incorporated as a whole into domestic law. Only a handful of other countries have done",
+   "name": "Baroness Coffey",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Russell of Liverpool (CB)",
+   "member_id": 2134,
+   "type": "Contribution",
+   "text": "I will just swiftly respond to the noble Baroness. During the 14 years that her party was in office—I witnessed this first hand, because I am a retread, as I got re-elected back in in 2014—there was a series of Bills, some of which I mentioned I have been involved with, where children are directly involved and affected. Repeatedly, those Bills arrive here after—as per usual—minimal scrutiny down the Corridor, by design. It is manifestly clear that the detailed needs, requirements and rights of children have not systematically been thought through and embedded in the legislation, which is why we have had to go through lengthy debates to try to tease that out. I am proud to say that, in the majority of cases, faced with strong cross-party arguments in favour, the Front Bench of the noble Baroness’s party, repeatedly in different Bills, acceded to the strength of those arguments and amended the legislation to put children’s rights in there. Whatever the Ministerial Code may say, unfortunately that was not filtering its way down into the way that Bills were being drafted. Your Lordships’ House did its work very well, but what some of us are hoping and asking for is a situation where th",
+   "name": "Lord Russell of Liverpool",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Coffey (Con)",
+   "member_id": 4098,
+   "type": "Contribution",
+   "text": "I would say in return— I was trying to keep my speech brief—that I hear what the noble Lord said. He talked about being unsuccessful in keeping it brief. That is because we have had a lot of stuff about legalism. I am giving direct experience of government—I appreciate what the noble Lord said. I can give more examples. One reason why children get the flu vaccine every year is primarily to protect adults—the teachers and school workers—to stop the spread of flu. It is not really to help the kid. All sorts of things happen today that are actively encouraged to be done to the child in a way that should not be harmful. I come back to the legislation and the point that is relevant. The Secretary of State for Education has the leading responsibility in government to have that horizon-scanning of every bit of legislation that affects children. If there have been deficiencies, I recognise them. I am not convinced that the incorporation of more law into domestic law is going to be the way to achieve that. I encourage the Minister in her reply to give confidence. Even if the noble Lord feels that the last Administration were deficient, I am sure that the current Administration will say that",
+   "name": "Baroness Coffey",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Carter of Haslemere (CB)",
+   "member_id": 4732,
+   "type": "Contribution",
+   "text": "I quickly respond to a point that the noble Baroness, Lady Coffey, made. The wording in my amendment is not my wording; it is already in the convention. I am not trying to incorporate it into our law, because it is already incorporated. That ship has sailed, really. All I am doing is pointing out its relevance to a Bill that I perceive as seeking to restrict parental choice in various ways. To pick up on one point that the noble Lord, Lord Russell, made, I entirely respect what he said about the importance of being aware that parents may make wrong choices. The assumption built into this provision of the convention is that they are entitled to make what they consider to be good choices. Otherwise, you would take away all rights of parents altogether, if you make the assumption that they are not. On children’s rights in respect of schools, it is their parents who have chosen to send them there. That was the parental choice.",
+   "name": "Lord Carter of Haslemere",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Bennett of Manor Castle (GP)",
+   "member_id": 4719,
+   "type": "Contribution",
+   "text": "My Lords, responding to the noble Baroness about vaccination, I think it is important that we put facts on the record. She suggested that vaccination of children was primarily to protect other age groups—",
+   "name": "Baroness Bennett of Manor Castle",
+   "party": "GP"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "She said flu vaccination.",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Bennett of Manor Castle (GP)",
+   "member_id": 4719,
+   "type": "Contribution",
+   "text": "Yes, flu vaccination—I have just been looking at the Health Security Agency website about the vaccination of children against flu, and it says: “Flu can be an extremely unpleasant illness in children, with those under the age of 5 being more likely to be hospitalised due to flu than any other age group. Vaccinating children helps protect them in the first instance, so that they can stay in school”. I think it is important, given the debate around vaccination, that that is put on the record.",
+   "name": "Baroness Bennett of Manor Castle",
+   "party": "GP"
+  },
+  {
+   "who": "Lord Banner (Con)",
+   "member_id": 5014,
+   "type": "Contribution",
+   "text": "My Lords, I want to come back on two points. First, I suggest that the analogy with the ECHR and the Human Rights Act is not a good one, because the Human Rights Act imposes duties of outcome. It requires adherence to the convention. The amendments before the Committee require “regard to”, which is a world apart from duties of outcome. Secondly, on administrative burdens, I pose this question: if it is too burdensome even to have regard to the convention, what is the point of us being a member of it?",
+   "name": "Lord Banner",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Coffey (Con)",
+   "member_id": 4098,
+   "type": "Contribution",
+   "text": "My Lords, I inferred from what the noble Baroness said that she thinks I do not believe children should have vaccines. I do. In fact, there is an active element in me that considers that we should prosecute parents who do not give their children the MMR vaccine because of the potential outcomes. I am not saying that is a policy I would adopt overnight, but it is worrying that so many children do not have the MMR. But on a broader point, I hear what the noble Baroness said, and of course that is what will be written in the HSA and in PHE, but I can assure her that I am aware that this is a primary element of trying to reduce the transmission of flu. I have no doubt that, if children get flu, it can be serious. It can be serious for any individual. That was one of the driving forces and why it is aimed in particular at children in primary schools. It is widely available and is significantly designed to reduce the transmission to adults.",
+   "name": "Baroness Coffey",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "This has been an important debate on these amendments. I want to start by saying that the noble Baroness, Lady Walmsley, is not able to be present. Her husband is not at all well. She added her name to Amendments 469 and 470. I am going to keep my comments brief. The noble Lord, Lord Russell, is right: I can almost see Baroness Massey on my shoulders. When I first arrived here, although she was of a different party, she immediately collared me, along with the noble Baroness, Lady Walmsley, and gave me a briefing on children’s rights. That was the first time I met Doreen Massey. At some stage, when we come to our senses on this, her importance on this issue will come to mind. I also wanted to mention the point made by the noble and learned Baroness, Lady Butler-Sloss, about the importance of the child being heard. For far too long, we had the old adage that children should be seen and not heard. Sadly, that filters through the whole of society in all sorts of ways. It is not just parents and public bodies. I remember my wife being heartbroken when a black boy in her secondary school was fostered by white parents. At the time it was quite rightly thought to be the case that culturall",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "The Earl of Effingham (Con)",
+   "member_id": 4958,
+   "type": "Contribution",
+   "text": "My Lords, I thank the noble Baroness, Lady Blower, and other noble Lords who proposed the amendments in this group. This is a very technical area, and we have heard much expert opinion from my noble friend Lord Banner, the noble Lord, Lord Carter, the noble Baroness, Lady Longfield, the noble and learned Baroness, Lady Butler-Sloss, and, crucially in our opinion, the former Chief Inspector of Education my noble friend Lady Spielman, and my noble friend Lady Coffey. It is important to flag that, although His Majesty’s loyal Opposition completely understand the spirit of noble Lords’ amendments, we are not in a position to support them. The UK has already signed and ratified the UN Convention on the Rights of the Child, in 1990 and 1991 respectively, and it came into force in January 1992. As such, the UK is already bound by international law to implement the agreement, and our progress is being monitored by the Committee on the Rights of the Child. But several of the recommendations in the last report from the committee, including on child rights assessments and education, are ones we did not support when we were in government and still do not support in opposition. Amendment 469 wo",
+   "name": "The Earl of Effingham",
+   "party": "Con"
+  },
+  {
+   "who": "The Minister of State, Department for Education (Baroness Smith of Malvern) (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My Lords, the amendments in group 1, as we have heard in a very good and well-informed debate, relate to duties on Ministers and public bodies in respect of children’s rights and parents’ rights to educate children in accordance with their faith. Let me be clear in responding to this group that the Government are committed to safeguarding children’s rights, both in law and in practice, and firmly uphold the principles of the UN Convention on the Rights of the Child. I am grateful to noble Lords for their views on these important matters and for the opportunity, as I say, to hear from experts in this Committee. We have listened carefully to the arguments for these amendments and will continue to engage closely with all those advocating for the rights of children. We regularly meet, for example, with an expert advisory group to hear directly from key stakeholders in this area, including the Children’s Rights Alliance for England, Coram, Barnardo’s and several others. This group will in fact be meeting again in the department next week. Additionally, we convene regular meetings with all the major children’s charities. These fora provide Ministers and officials with excellent and impor",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Butler-Sloss (CB)",
+   "member_id": 3804,
+   "type": "Contribution",
+   "text": "May I just ask the Minister: does she meet groups of children?",
+   "name": "Baroness Butler-Sloss",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I have barely got started, but yes, most certainly we do, and I will come to a bit more detail on that in a moment. As we have discussed at various points during the course of the Bill’s passage, there are a whole range of ways in which the Government engage with children, both on the specifics of legislation but also more broadly. For example, a very wide-ranging engagement has been led by colleagues in the Department for Culture, Media and Sport, along with DfE and the Department of Health, on the development of this Government’s youth strategy, and a very large number of children have been engaged. I was just about to say that my honourable friend and former Minister, Janet Daby, engaged readily with these key stakeholders and asserted—as do I and as, I am sure, my new colleague Josh MacAlister does—the fundamental importance of children’s rights to this Government. In parallel, we are also carefully considering the issues and amendments on the rights and voice of the child that were raised on Part 1 earlier in Committee, to ensure that children’s rights are protected throughout the Bill. Amendment 469, in the name of my noble friend Lady Lister and introduced by my noble friend",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Blower (Lab)",
+   "member_id": 4724,
+   "type": "Contribution",
+   "text": "My Lords, it is both a pleasure and somewhat of a challenge to respond to this extremely good and wide-ranging debate. I am extremely grateful for the mentions of our late noble friend Lady Massey, whose absence from this debate we feel quite deeply. I thank all noble Lords who have spoken, even those with whom I disagree—I do not think I have ever before been described as being motivated by an elitist desire to thwart democracy when seeking to advocate for children’s rights. However, the contributions were all extremely interesting. I am very pleased to have had the support of my noble friend Lady Longfield, the noble and learned Baroness, Lady Butler-Sloss, and the noble Baroness, Lady Bennett. In particular, I would like to mention the noble Lord, Lord Russell, who spoke about the need—this is really important—to balance parental choice and children’s rights. This may not occur often, but it may occur and we need to pay attention to that balance. He also mentioned the extremely worthy rights-respecting schools in which children can begin to advocate for themselves and understand what children’s rights really mean. The need for children’s voices in the care system to be heard was",
+   "name": "Baroness Blower",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Layard (Lab)",
+   "member_id": 2540,
+   "type": "Contribution",
+   "text": "My Lords, this amendment aims to remedy one of the greatest injustices in our whole education system: the acute shortage of apprenticeships for young people not going to university. If you qualify for university and want it, you can expect to find a place. However, if you qualify for an apprenticeship and want it, you have no such luck. On the Government’s matching scheme for apprenticeships, only one in three people applying finds a place. There is a more shocking fact, from which all thoughts about post-school education should start: by age 18, one in three of all our young people has ceased to receive any education or training. That one in three is of course nearly two in three of the people not going to university. That is how we are treating them—they are either NEET or in a dead-end job without training, heading for low productivity and low pay. The main reason for that is the shortage of apprenticeships. This situation is a disaster for the economy—it is the major reason for our low economic growth—and it is a disaster for our young people. It is the prime duty of the state to give everybody a proper start in life and we are simply failing: we are not doing it. We have talke",
+   "name": "Lord Layard",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, I formally move the amendment in the name of my noble friend Lord Lucas and I will speak to it in my closing remarks.",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Lord in Waiting/Government Whip (Lord Katz) (Lab)",
+   "member_id": 5386,
+   "type": "Contribution",
+   "text": "I think we have yet to have a full discussion on Amendment 483, as well as Amendment 483A, so perhaps we could proceed to that discussion.",
+   "name": "Lord Katz",
+   "party": "Lab",
+   "role": "Lord in Waiting/Government Whip"
+  },
+  {
+   "who": "Lord Macpherson of Earl’s Court (CB)",
+   "member_id": 4586,
+   "type": "Contribution",
+   "text": "My Lords, I will speak briefly in support of Amendment 483, which I have put my name to. The noble Lord, Lord Layard, has set out the arguments very eloquently. I would merely like to add the perspective of a former Treasury official. Economic growth, or the lack of it, lies at the heart of the country’s problems. Without it, we simply will not be able to afford the costs of an ageing population. The Government will be forced to raise taxes even more than they already have and public services will deteriorate further, alienating an already alienated electorate. There is little the Government can do to promote growth in the short term. As an open economy, Britain is likely to grow only as fast as global demand permits, and we all know the effect of increased protectionism, but the Government can do something about the medium and long term. We all know what drives growth: good infrastructure, competition, innovation, and a sensible tax system—but, above all, skills. Successive Governments have done a good job on education. Attainment in schools has improved and there has been a dramatic expansion in university education over the last 50 years, which, for the most part, has been refle",
+   "name": "Lord Macpherson of Earl’s Court",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Deben (Con)",
+   "member_id": 4154,
+   "type": "Contribution",
+   "text": "My Lords, this is a rather crucial amendment. The reason is that we are a nation that is inclined to talk about education as if it is always academic education. If I have criticisms of previous Governments—and I have of those from both sides—they are that we have emphasised education as if it is the only way, rather than part of a grouping of educational opportunities. We are also rather inclined to not support technical education, and the comparison with our competitors is notable and historically of very long standing. I recently read a report about such education by a committee of the House that remarked that Prussia was much better at it than we were. The Committee will immediately see how long ago that report was produced. Curiously, we have always found this a difficulty in the way that we think about things and in many of the changes that we have made, such as the insistence that polytechnics should become universities, as if that somehow improved the circumstances and that there was something less good about having something that was aimed specifically at talking about the issues that we are discussing. We have to change the atmosphere. I much approved of the comments just ",
+   "name": "Lord Deben",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Wolf of Dulwich (CB)",
+   "member_id": 4347,
+   "type": "Contribution",
+   "text": "My Lords, I would like to add one very specific but pertinent comment to the debate at this point. Obviously, we are not going redesign the whole of apprenticeships here on the Floor of the House, but I strongly support the emphasis that the noble Lord, Lord Layard, has placed on 16 to 18 year-olds, and bring to your Lordships’ attention a very strange anomaly in the way we approach this. When a young person fails to get an apprenticeship and remains in full-time education of some sort, this is paid for automatically as part of the open-ended commitment to pay for classroom-based education, even if it is also vocational or technical education, until somebody is 18 or 19. But apprenticeships for 16 to 18 year-olds have to come out of the levy—of which there is going to be very little money left next year, by the way, but that is a whole other discussion. At the very least, in the short term, the Government could commit to moving the funding for apprenticeships for 16 to 18 year-olds into a different budget, into the perfectly correct national commitment to fund young people’s education and training until the age of 18.",
+   "name": "Baroness Wolf of Dulwich",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "Briefly, I want to reinforce what has been said. What is unspent of the apprenticeship levy gets returned to the Treasury, not to be spent on education or apprenticeships, which is bizarre. It is a double whammy, because businesses, seeing that their money has not been spent and is likely to go back to the Treasury, suddenly start putting staff on high-level courses, equivalent—",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "This is risky, because I am doing this from memory. I appreciate that in earlier years, significant amounts of money were returned to the Treasury, but in the last year we were in government, it was £11 million—so basically absolutely everything was spent. I say that in relation to my noble friend Lord Deben’s remarks, and I hope the noble Lord, Lord Storey, will put that in context.",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "The noble Baroness is right—the amount that was not spent or did not go to the Treasury was coming down.",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "No. To be clear, of the many millions of pounds that were raised through the apprenticeship levy, the amount that was not spent on apprenticeships and was returned to the Treasury was £11 million in the last year that we were in government, as I remember it.",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "The point I was also going to make was that companies and businesses that had not spent the levy and did not want to see it returned to the Treasury were using it not for level 3 apprenticeships but for high-level master’s-type apprenticeships. That surely cannot be the right thing to do; it is not in the spirit of apprenticeships. I was quite shocked that, in my city of Liverpool, Liverpool City Council, which had an apprenticeship scheme over a two-year period, returned £1 million of money to the Treasury. That money could easily have been spent on level 3 apprenticeships. The noble Lord, Lord Layard, gave us all the statistics at the beginning. We need to ensure that there is money for level 3 apprenticeships, because the original hope of apprenticeships was that they would go to the young people who desperately needed to have this opportunity.",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Coffey (Con)",
+   "member_id": 4098,
+   "type": "Contribution",
+   "text": "My Lords, the issue of apprenticeships is really relevant to improving the life opportunities of young people. I respect what the noble Lord, Lord Layard, has done in tabling this amendment, which is supported by many distinguished people. Noble Lords should recognise that the introduction of T-levels was intended to provide education in a more controlled atmosphere, as opposed to young people —children—going out to work, legally of course. T-levels—which, by the way, required a ministerial direction issued by my right honourable friend Damian Hinds because they were against the advice of civil servants—are a good way of trying to make sure that young people get that opportunity without necessarily having to be forced into the world of work. I may be overinterpreting the noble Lord’s amendment. The other issue employers face is the balance between how you treat children in your workforce and how you treat adults. In my experience at the Department for Work and Pensions, that was a key difficulty in considering how to encourage young people into work. I note that the amendment is very specific, referring to the ages of between 16 and 18. On my noble friend Lord Lucas’s amendment, wh",
+   "name": "Baroness Coffey",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Hampton (CB)",
+   "member_id": 4951,
+   "type": "Contribution",
+   "text": "My Lords, I rise to speak as a design technology teacher, a veteran of the IfATE Act, an officer of the APPG on apprenticeships and a member of the House of Lords Social Mobility Policy Committee. I think we all agree that apprenticeships are vital to this country. It is rather sad that this subject seems to have led to a general exit from the Chamber, but I think that is more because it is lunchtime. I welcome the defence industrial strategy and its new apprenticeship and graduate clearing system, which I know BAE Systems was heavily behind. We have seen Skills England start, and we hope upon hope that it is the answer. This is an incredibly important and nuanced subject, and I am afraid I do not think these amendments are the answer.",
+   "name": "Lord Hampton",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Addington (LD)",
+   "member_id": 3453,
+   "type": "Contribution",
+   "text": "My Lords, I shall try to make a few remarks in summing up. Apprenticeships really feel like they should be an answer but are proving to be extremely difficult to get into operation. Employers, especially SMEs, find it difficult to give the work, but they are where you would expect to find most of those apprenticeships, especially at the introductory level. Most people have said, “Yes, it’s a problem”. T-levels have been brought in but, if I remember correctly, you have to work with an employer while doing them, and that has proved difficult in the past. The reason why they are proving so difficult is that it is a bit of a mess. We have boards and so on for careers guidance, and things locally and nationally. We clearly need more emphasis on making sure that people know where these opportunities are, how they will be supported and how they will get through. There is a general duty proposed in the Bill, but something inside me says that, as written, it is an invitation to Henry VIII powers—possibly Henry IX and X as well. The fact remains that we have not got this right. There have been some valiant efforts, but we have not managed to bring the people who want and would benefit from ",
+   "name": "Lord Addington",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, I welcome this debate on the value of high-quality apprenticeships at all levels, with a focus on levels 2 and 3, and Amendment 483 in the name of the noble Lord, Lord Layard, and Amendment 483A, which I have moved on behalf of my noble friend Lord Lucas. The noble Lord, Lord Layard, predictably, gave a very insightful and expert analysis of the issues, particularly for young people who are not going to university, and painted, sadly, an accurate but rather bleak picture. I would agree with him rather than the noble Lord, Lord Macpherson, but I think there would be votes in it. The noble Lord said that it would be very popular across the country to take action on this. Anyway, that is not perhaps for this Committee to worry so much about. I feel that, as I make my remarks, I have former colleagues sitting on each shoulder: Gillian Keegan, the first member of the Cabinet who had previously been an apprentice; and Rob Halfon who saw apprenticeships as a key part of what he described as the “ladder of opportunity”. That is exactly the kind of image and vision that the noble Lord, Lord Layard, set out. The previous Government did a huge amount of work to raise the quality of ",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness in Waiting/Government Whip (Baroness Blake of Leeds) (Lab)",
+   "member_id": 4912,
+   "type": "Contribution",
+   "text": "My Lords, I start by noting that, although there are a smaller number of noble Lords in the Chamber, the quality of the contributions has nevertheless been truly significant. I thank my noble friend Lord Layard for bringing this to the Chamber and for continuing to share his enormous expertise and passion in this area, ably supported by the noble Lord, Lord Macpherson. I emphasise that this Government absolutely understand the importance of apprenticeships and the scandal of reduced opportunities for young people and are fully engaged in discussions on how to address this and move forward.",
+   "name": "Baroness Blake of Leeds",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip"
+  },
+  {
+   "who": "Lord Layard (Lab)",
+   "member_id": 2540,
+   "type": "Contribution",
+   "text": "My Lords, I am most grateful to everyone who spoke in this excellent debate. The noble Lord, Lord Macpherson, got us off to a good start on the economics, which is, of course, a central part of this—but economics can appear to look just at the whole economy rather than at the fates of individuals. Ultimately, of course, the economy is about the fates of individuals and especially the fates of these young people who are headed for lives of such poverty and also, in many cases, inactivity, at a cost then to the rest of us. I am very grateful for what I think was the main theme, which came out of almost all the contributions—from the noble Lords, Lord Deben, Lord Storey, Lord Hampton and Lord Addington, and the noble Baronesses, Lady Barran, Lady Wolf and Lady Coffey. It is that we have taken our eye off the needs of these young people at the lower levels of skill. How do we get people to levels 2 and 3 as the top priority for the use of the levy money? What has been happening, as we know, is that the levy money has been increasingly diverted, I would say, to supporting older people—often existing employees—and to higher levels of qualification. That would be all right if it were not ",
+   "name": "Lord Layard",
+   "party": "Lab"
+  },
+  {
+   "who": "The Deputy Chairman of Committees (Baroness Garden of Frognal) (LD)",
+   "member_id": 3842,
+   "type": "Contribution",
+   "text": "I thank the noble Lord, but we are debating Amendment 483A, so I need to ask the noble Baroness, Lady Barran, to withdraw that first.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "I beg leave to withdraw the amendment.",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Jackson of Peterborough (Con)",
+   "member_id": 1551,
+   "type": "Contribution",
+   "text": "My Lords, I shall speak to my Amendments 485, 487, 488 and 489. Before I do, I warmly concur with and support Amendment 502YM in the name of my noble friend Lady Spielman, which I believe is clear, sensible and complementary to my amendments. The principle behind my amendments is simple, and it goes to the heart of the rule of law. The laws that this Parliament passes are not mere suggestions for our schools; they are the rules that must operate, and they must be properly followed. That requires accountability when those laws are broken.",
+   "name": "Lord Jackson of Peterborough",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Spielman (Con)",
+   "member_id": 5404,
+   "type": "Contribution",
+   "text": "My Lords, I will speak to my Amendment 502YM. I will echo some of the comments made by my noble friend Lord Jackson in relation to his amendment. I believe that my amendment complements the comprehensive final-stage procedure he outlined neatly. Anyone who works in education knows how problematic dealing with complaints is becoming. Of course it is right that public bodies should have a complaints procedure, as is required by law. Of course dissatisfied parents should be able to complain to or about a school, and schools failing in their responsibilities should rectify their errors and omissions promptly. But the current system is complex and, in the main, giving satisfaction to no one. I remind noble Lords that complaining to government is, typically, a fourth-line action after a series of stages. The first stage is attempting to resolve the issue with the staff member most directly involved, such as a classroom teacher; the second is escalating the issue or making a complaint to the head teacher or another school leader; the third is making a complaint to school governors; and the fourth is escalating a complaint to the local authority or the academy trust. Yet the number of comp",
+   "name": "Baroness Spielman",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "I understand where these amendments are coming from. Personally, I have not formed a complete view about this. I understand what the noble Baroness is saying and I look forward to hearing the Minister’s reply, because there is an issue here and this is about how we handle that issue. Education has become a successful business for the lawyers, to be quite honest. Dare I say, you only have to look at special educational needs, which lawyers and solicitors have made a lot of money out of. I declare an interest as my daughter is a solicitor. One also sees solicitors involved in school admission procedures. In some cases, that is a natural route to take, and I wonder about complaints—never mind the bureaucracy involved—if lawyers get involved in that side as well.",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, this group focuses on the thorny issue of complaints. The amendments in the name of my noble friend Lord Jackson of Peterborough would introduce a new right of appeal for parents who have made a complaint that has not been upheld to a maintained school, academy or non- maintained special school. At the risk of stating the obvious, most schools follow the law; they follow guidance and non-statutory guidance. I remember one teacher saying to me, “We live our lives by the bell. Of course we follow the rules”, but I accept the examples that my noble friend cited. We know that the volume of complaints is rising considerably, sadly assisted by tools such as ChatGPT and other large language models. As my noble friend Lady Spielman said on her amendment, to which I was pleased to add my name, a complaint can be made to the Department for Education, Ofsted and the TRA, as well as to the school itself. Most worryingly, the school is sometimes excluded and complaints are made to all the other agencies but not to the school. I am grateful to the charity Parentkind for its research into complaints, which shows that the vast majority of parents are happy with their child’s school, but ",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Blake of Leeds (Lab)",
+   "member_id": 4912,
+   "type": "Contribution",
+   "text": "I thank noble Lords for their contributions and for raising this very important area around parental complaints and appeals and the introduction of a central school complaints system. The Government completely understand the concern on this matter. As I shall go on to mention, the increase in the number of complaints is quite staggering, when you see the statistics laid out. Amendments 485, 487 and 488, tabled by the noble Lord, Lord Jackson, would allow parents and carers of children in maintained schools, independent schools, including academies, and non-maintained special schools to appeal to the First-tier Tribunal. Amendment 489, also tabled by the noble Lord, would allow for regulations to amend secondary legislation on the rules and procedures of the First-tier Tribunal. I note the detailed examples that the noble Lord highlighted to us. Amendment 502YM, tabled by the noble Baroness, Lady Spielman, would introduce a central complaints system to handle all school-related complaints in England, and for these complaints to be held in a central database accessible to the Department for Education and Ofsted. I hope we have made it very clear throughout the passage of the Bill, an",
+   "name": "Baroness Blake of Leeds",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "Can the noble Baroness say now, or write to me and put the letter in the Library, clarifying whether, in relation to simplification of the complaints system, which obviously the Secretary of State has said she would like to do and which is at the heart of the amendment in my name and in that of my noble friend Lady Spielman, that requires a change in primary legislation or whether it can be done in secondary legislation? If it requires primary legislation, I am sure that colleagues in the department would be able to craft some kind of commencement clause—I am not sure quite what sort of clause it would be—that would allow that to happen without us having to wait several years for more legislation.",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Blake of Leeds (Lab)",
+   "member_id": 4912,
+   "type": "Contribution",
+   "text": "The noble Baroness raises a very important point, and these will all be matters that are being considered as the Secretary of State takes this important work forward. I can get a written note and put it in the Library to outline the way forward and where we are at this moment.",
+   "name": "Baroness Blake of Leeds",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip"
+  },
+  {
+   "who": "Lord Jackson of Peterborough (Con)",
+   "member_id": 1551,
+   "type": "Contribution",
+   "text": "My Lords, I thank the Minister for her well thought through and considered response. It ranged wider than I expected, but just for the avoidance of doubt, of course I deprecate any unreasonable or vexatious complaints against teachers from parents that might veer into anti-social behaviour of the type she mentioned in terms of WhatsApp groups. I am happy to put that on record. This has been a very thoughtful and important debate and I am grateful to noble Lords who took part, not least the noble Lord, Lord Storey, and my noble friend Lady Spielman, who both brought great expertise and experience to the debate—the noble Lord from his time on Liverpool City Council and my noble friend from her leadership of Ofsted. At its heart, this debate has revolved around a single clear question: do we believe that the laws passed in Parliament should be enforceable in schools? People are worried about a litigation culture, yet the evidence demonstrates that the current system of bureaucratic brick walls and institutional inertia is the true source of conflict and frustration. We have heard concerns about costs, but I ask again, what is the price of the status quo? What is the cost of a departme",
+   "name": "Lord Jackson of Peterborough",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Holmes of Richmond (Con)",
+   "member_id": 4294,
+   "type": "Contribution",
+   "text": "My Lords, in moving Amendment 492 in my name I give more than a positive nod to the other amendments in this group. For Amendment 492 I also thank my friends the noble Baronesses, Lady Grey-Thompson and Lady Sater, and the noble Lord, Lord Moynihan, for co-signing this amendment. I commend them for all the work they do in this area. We have a physical and mental well-being crisis in this country. In previous sessions on the Bill, we have rightly discussed the mental well-being crisis. My Amendment 492 goes to the heart of the physical well-being crisis. It is costing the taxpayer in the billions, it is breaking the NHS, and at a community and—crucially—individual level, it is an absolute tragedy, which can, should and must be avoided. My Amendment 492 simply suggests that the Government should look at a means of incorporating the Chief Medical Officer’s advice on weekly and daily physical activity into the school programme. Be in no doubt, I am not talking here about competitive sport. I am not talking even about games. I am talking about physical literacy and physical fluency: moving, dancing and being in this great physical form of our human selves which we are born with. I look ",
+   "name": "Lord Holmes of Richmond",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Moynihan (Con)",
+   "member_id": 924,
+   "type": "Contribution",
+   "text": "My Lords, I support Amendment 492 in the name of my noble friend Lord Holmes, which he very eloquently summarised for the Committee. I will also couple it with my Amendment 502J. First, I will reflect on some of the key issues behind the need to improve physical education programmes of study in the UK school curriculum. To me, physical education is not merely a subject; it is a cornerstone in the development of young people, fostering health, resilience, teamwork and confidence. Yet despite the considerable investment in PE and sport premium funding, programmes of study across UK schools remain inconsistent, underresourced and insufficiently ambitious. It is imperative that we take decisive action to ensure that every child has access to high-quality, inspiring physical education. First, the curriculum must be rigorously structured yet flexible, ensuring progressive development from foundational movement skills in key stage 1 to more complex games, athletics and leadership opportunities in key stage 4. This structure should be underpinned by clear learning outcomes, encompassing not only physical competence but personal, social and cognitive development. Secondly, teacher training ",
+   "name": "Lord Moynihan",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Sater (Con)",
+   "member_id": 4700,
+   "type": "Contribution",
+   "text": "My Lords, I will speak to Amendments 492, 502H and 502J, to which I have added my name. Amendment 502H calls for a national strategy for physical education and sport in schools. I was fortunate to work alongside colleagues with significant experience in sport on the House of Lords’ national plan for sport, health and well-being Select Committee in 2023. This amendment is strongly underpinned by many of the recommendations from that committee. The report called for a long-term cross-government plan to embed physical activity and well-being into our educational system, for PE to be made a core subject, for teacher training to be improved, and for access to school sport to be widened to tackle the inequalities in participation. The committee also recommended that we gather better data through a national physical activity observatory. These are all the kinds of reforms that a national strategy as proposed in this amendment would deliver. At present, fewer than half of children meet the Chief Medical Officer’s physical activity guidelines. According to the latest Sport England’s Active Lives children and young people survey, only 45% of children meet the target during school hours and 5",
+   "name": "Baroness Sater",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Evans of Bowes Park (Con)",
+   "member_id": 4329,
+   "type": "Contribution",
+   "text": "My Lords, I support the amendments in this group. I declare my interest as a board member of the London Marathon Foundation. The amendments in this group call for a curriculum review and a national strategy to embed physical activity and sport firmly within the school day. They are timely and urgently needed because the evidence is overwhelming that physical activity is not an optional extra for young people; it is crucial to their health, learning and life chances. The statistics tell a worrying story. One-third of British children aged five to nine are projected to be overweight or obese by 2050. As we have heard, according to the Chief Medical Officer, children and young people aged five to 18 should be active for at least 60 minutes a day, yet around 2 million children manage fewer than 30 minutes of daily activity, including walking. We are also seeing a worrying trend of young people’s mental health deteriorating alongside their physical health. These are not just numbers. They represent millions of young people whose physical and emotional well-being is compromised before their adulthood begins. Sport and daily physical activity are among the most powerful tools we have to r",
+   "name": "Baroness Evans of Bowes Park",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "My Lords, where did it all go wrong? I can look back to those halcyon days where, in primary schools, there were two lessons of PE a week timetabled, and PE covered a whole range of activities, from gym work to games and swimming—children regularly left school being able to swim 20 metres —and after-school sports competitions. In secondary schools, sport was thriving. As we have heard, that was beneficial for the well-being of children and young people and important for their health, with regards to obesity, and for teamwork, working together and understanding each other. This is not something that can be laid just at the hands of the present Government. In fact, the present Government, in a former iteration, did a great deal of work on sport. People will think that I am a member of his fan club, but the Blair Government brought in some of the most radical proposals on sport that this country has ever seen. Whether it was a mixture of Covid, the recession or whatever, it all suddenly—",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Bousted (Lab)",
+   "member_id": 5385,
+   "type": "Contribution",
+   "text": "I am sorry, but I have to interject here to say that the narrowing of the curriculum and the teacher supply crisis was a direct result of austerity, teacher pay falling by 12% in real terms and chronic underfunding of schools, all of which were initiated during the coalition and continued until 2024. Children absolutely deserve a rich and balanced curriculum, but that becomes much more difficult if they are not being taught by teachers qualified in the subject area but by unqualified teachers. The teacher supply crisis started and became acute during the previous Government. When we have this debate, we cannot ignore the practical consequences of chronic underfunding, chronic undermining of the profession and, from the start of the coalition, a policy of attacking teachers and leaders as being responsible for falling school standards. There was also a deliberate narrowing of the curriculum through the EBacc to a range of academic subjects, which has meant a precipitous decline in arts and drama and a shorting of the experience that children get in physical education. I am sorry, but I must put all that on the record. My friend the noble Lord is rightly asking these questions but he",
+   "name": "Baroness Bousted",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Hampton (CB)",
+   "member_id": 4951,
+   "type": "Contribution",
+   "text": "My Lords, before the noble Lord continues, I do not recognise, luckily, the dystopian view that he has given. The primary school that both my children were at and the school where I now teach are full for before-school, lunchtime and after-school activities. I put on record in this Chamber that my daughter’s girls team won the under-15 Hackney cup.",
+   "name": "Lord Hampton",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "I am grateful for those comments, believe it or not. I could well have made the noble Lord’s speech, to be honest, and I might have gone on to say some of those things. In some of my other contributions in this House, I have, for example, decried the Government’s stance on the EBacc, which has created problems for the creative industries, as well as for sport and physical education. The noble Lord, Lord Gove, who is not in his place, spoke yesterday, and I referred to the cataclysmic changes that his time as Secretary of State brought about. I was slightly annoyed that he referred to a reasonable request for a national guarantee on tutoring as a sort of publicity stunt by the Lib Dems. That was my reaction to that, as those noble Lords who were present know. I accept everything the noble Lord, Lord Hampton, said. Politicians—not in this Chamber, of course—sometimes forget what happened beforehand. The country was on its knees because of the recession—it really was; you could see that—and the Government had to step forward and take some difficult decisions. But those difficult decisions did not have to see the dismantling of services that both the noble Lord and I think are really i",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "Noble Lords",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Disagree!",
+   "name": "Noble Lords"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "Did I say agree? I am still recovering from the interventions. To be clear, I agree with everything that the noble Lord said and would support all four amendments. I thank noble Lords for introducing them. Children and young people get so much from sport and physical education. It is not just about their well- being; believe it or not, it helps them in their other studies. One of the local head teachers in my area used to start the school day not by doing numeracy or literacy but a creative activity—either sport, drama, dance or something like that—because it got people energised and helped with their learning. Sport is important not just for the mind and body but for the well-being and development of the child as a whole. I thank noble Lords who put down those amendments. I speak for my party when I say we very much support them.",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Addington (LD)",
+   "member_id": 3453,
+   "type": "Contribution",
+   "text": "My Lords, my noble friend has covered what happens in school, but that is just one area of activity. If it is done properly, school is merely part of a greater continuum that goes out into the community. The school sports partnerships were going to save the breakdown in the traditional links between small clubs, grass-roots sports and school, but they were not there for long enough for us to know whether they would. Many of us in both bits of the coalition Government thought that it was one of the weirdest things possible that they were kept going until the Olympics and then cancelled afterwards when we might have got some benefit. I got a small nod from the noble Lord, Lord Moynihan—a bigger one now—which says, “That’s exactly what we thought at the time”. We also knew from that and from looking at studies that a big sporting event is great for tourism and volunteering but does not make any difference to grass-roots sport unless you back it up with something—with your inspiration. Schools have to work with the grass roots. In the amendments, we have the start of that structure, which we can go forward with. It is not just in this Bill or with this department. If we are going to lo",
+   "name": "Lord Addington",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Moynihan (Con)",
+   "member_id": 924,
+   "type": "Contribution",
+   "text": "My noble friend in sport mentioned playing fields. One of the most important roles that Sport England plays is that it is the statutory consultee for playing fields in this country. It was exceptionally worrying when, just a few months ago, the Government announced that they were putting out to consultation whether Sport England should continue that role. Does my noble friend in sport see anybody else performing that role? Will it not be even more damaging to playing fields in this country, which are so important to the public at large, if there is nobody among all the statutory consultees whose job it is to ensure their survival?",
+   "name": "Lord Moynihan",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Addington (LD)",
+   "member_id": 3453,
+   "type": "Contribution",
+   "text": "The answer is yes, yes and yes. I hope that the Minister will make sure that her colleagues in other departments take this on board. I moved an amendment on the planning Bill seeking to ensure that this duty is still there. I know that I am asking the Minister to part the Red Sea and take the salt out at the same time, but I am hoping for two parts of government to talk to each other on this. We want people to remain active for all the reasons that we have stated. Physical activity leads to better exam results, which we seem to forget. If schools are to provide the initial smorgasbord of finding the right form of physical activity for individuals’ physique, culture and temperament, then I hope that the Government talk across departments in support of these amendments. I would like to hear from the Minister that they are having a coherent look at this and that they will lead other departments to do something solid. The Department for Education is best placed. We could ask the Department of Health but it would get buried there. If a lead department takes this on, there is a chance of achieving some of these aims. These amendments, or ones like them, are essential to making sure that ",
+   "name": "Lord Addington",
+   "party": "LD"
+  },
+  {
+   "who": "The Earl of Effingham (Con)",
+   "member_id": 4958,
+   "type": "Contribution",
+   "text": "My Lords, I thank all noble Lords for raising the critically important issue of sport and physical education in schools, which I personally feel particularly strongly about. If schools were to follow the suggestion of the noble Lord, Lord Storey, and perform physical exercise in the morning before classes, it would be transformational. School sport has no greater champion in your Lordships’ House than my noble friend Lord Moynihan, an Olympic silver medallist and former chairman of the British Olympic Association who has been leading the charge for greater provision of physical education and sport across our schools for many years. In September last year, NHS England published research that found the truly frightening statistic that 15% of children aged between two and 15 in England are obese. Although that figure is a slight decrease from 16% in 2019, the fact that childhood obesity has remained stubbornly high should be a huge concern for everyone: parents, teachers, the NHS and the Department for Work and Pensions. This issue affects us all in some way or other.",
+   "name": "The Earl of Effingham",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "Well, I start by saying that I actually agree with the vast majority of the points made by noble Lords opposite, but I just have to say that we in this House are not disinterested observers of the activities of Governments. Several of the noble Lords opposite who rightly identified the decline in school sports, the reduction in teachers and the narrowing of the curriculum were supporters of or part of the Government who were responsible for it. I just want to put that on the record as we start this. Having said that, there is good news. This Government are reviewing the curriculum and establishing a new national approach to PE and school sport. We value PE and sport as a great opportunity to improve not only the health but—",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Addington (LD)",
+   "member_id": 3453,
+   "type": "Contribution",
+   "text": "I have one more question. If we are doing this for PE in schools, is there going to be a specific link to activity outside school? A lot of the sports education is done by sports governing bodies and grass-roots clubs. I hope the noble Baroness can give me some reassurance that that will be done.",
+   "name": "Lord Addington",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I know that I added a little bit to the beginning of my speech, but I am actually only three lines through, and I will come to precisely that point. The amendments proposed align closely with the important practical work already under way by this Government to expand access to high-quality PE and school sport for every child. We remain committed to ensuring that all young people, regardless of background, have the opportunity to thrive through physical education, school sport and physical activity. I also agree with the points ably made by the noble Lords, Lord Holmes and Lord Moynihan, about the broader benefits of sport, physical activity and physical education. The impact on academic achievement, mental health, healthy weight and sleep: those are all important elements of the broader benefits that come from children being active and being supported to move in a wide range of ways—something I thought about carefully as I finished the Worcester 10K on Sunday morning.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "A noble Lord",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Hear, hear.",
+   "name": "A noble Lord"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "Thank you. If you had seen how fast I did it—or how slowly—you might not have been quite so impressed. Of course, it is not only organised sport that is important. As several noble Lords said, other ways of moving our bodies, including dancing, are also beneficial, although people who saw my performance on “Strictly” would not necessarily recognise any benefit that I gained from it—or that anybody watching it gained. However, the point is that physical activity, the opportunity to move in a whole variety of ways and the requirement to make that as inclusive as possible are really important and at the heart of what the Government are trying to do. In June, the Prime Minister announced a new national approach to PE and school sport. This new approach will establish a PE and school sport partnership network, designed to build stronger links between schools, local clubs and national governing bodies—to the point made by the noble Lord, Lord Addington. Its aim is to identify and remove barriers to participation in PE and school sport, particularly for less active children, including girls and pupils with special educational needs and disabilities. The point made by several noble Lords, ",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Moynihan (Con)",
+   "member_id": 924,
+   "type": "Contribution",
+   "text": "I make just two points that I am sure that the Minister will recognise. Many in the Committee this afternoon have been campaigning exceptionally hard for improved opportunities for young people in sport and recreation, irrespective of who has been in government. One of the great aspects of this House has been frequent cross-party support for making sure that we try to improve the provision of sport and recreation. I do not think it is a party-political point. I remember that, soon after the turn of the century, possibly the most important influence on Tony Blair’s decision to move forward with the bid for the Games was a debate in this Chamber which had completely cross-party support. One needs to be a little bit cautious before saying, “Why didn’t we speak out before?” Many of us have been speaking out like this for decades. My second point is that I acknowledge—and I am grateful to the Minister for raising the fact—that the Prime Minister has indeed come forward with a whole range of initiatives on access to high-quality PE and sport for children, equal access, two hours of sport a week and a national network to build strong partnerships with clubs. We are just putting into an am",
+   "name": "Lord Moynihan",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "In the previous paragraphs, I outlined not only what the Prime Minister had identified but the action the Government are already taking to deliver on the objective that the Prime Minister set down, so I do not think it is necessary to enshrine that in the Bill, because, as I identified, it is already happening. I am not going to rise to the noble Lord’s point about—I shall not even say that I am not going to rise to it, otherwise I will do so. On the noble Lord’s point about staffing, it is encouraging that PE initial teacher training places are all taken up this year. Obviously, that is important in ensuring that there is a pipeline of good teachers in this area, but there is more to do on quality, especially in primary schools. The PE and school sport partnerships will bring together the support available to schools and therefore to teachers. By making sure that PE has a central place in the curriculum, in the light of our curriculum and assessment review, we can cement its place in schools’ priorities. That will of course mean a greater focus from both leaders in schools and staff. As I was saying, the development of the PE and school sport partnerships and enrichment framework ",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Holmes of Richmond (Con)",
+   "member_id": 4294,
+   "type": "Contribution",
+   "text": "The noble Baroness rightly referred to the curriculum review that Becky Francis is undertaking, to be published at some stage. What approach are the Minister and the department taking to ensure that all the excellent work that Becky Francis is taking forward will be reflected in the Bill and that there are no inconsistencies or gaps in this legislation as a result of the timing difference between the Bill’s passage and the publication of the review?",
+   "name": "Lord Holmes of Richmond",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I was referencing the amendments calling for a curriculum review and pointing out that there already was a curriculum review. Many of the points raised in the amendments, particularly the amendment from the noble Lord, Lord Moynihan, were about the approach to the curriculum; for example, ensuring that, at a primary level, we are developing the physical skills of children and promoting physical activity, and then, at secondary level, continuing that important work while also delivering a focus on competition and particular types of sports. Becky Francis’s review is independent, but from both the interim report and the evidence that has been provided and is under consideration, I know that is the type of approach being taken in the curriculum and assessment review.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Holmes of Richmond (Con)",
+   "member_id": 4294,
+   "type": "Contribution",
+   "text": "I thank all noble Lords who have taken part in this excellent debate. I am not normally tempted to dive into the subject of swimming, but the noble Lord, Lord Storey, has tempted me to do so. It is always worth reminding ourselves—particularly, as he said, in an island nation—that swimming is the only sport that can save your life. That underscores the critical significance of physical activity, literacy, fluency and education in the example of learning to become a competent swimmer. This Government, like any Government, want growth, and they face a very clear choice with these amendments. One of the key elements of growth is investment. There could barely be a better area to invest in than physical activity and physical well-being. The choice for any Government is to invest and reap all the social, economic and psychological benefits on the individual, community and country levels or to pay for the consequences through the NHS, the prison service and many other areas administered by government. These issues will certainly return on Report, but for the moment I beg leave to withdraw my amendment.",
+   "name": "Lord Holmes of Richmond",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Holmes of Richmond (Con)",
+   "member_id": 4294,
+   "type": "Contribution",
+   "text": "My Lords, I shall speak also to Amendment 494. I am grateful to the noble Baroness, Lady Kidron, who signed my amendment; I will give positive support to her amendment in this group. Educational technology—edtech—offers extraordinary opportunities for learners right through the school and education experience. In effect, it enables personalised education—for every young person to have a classroom assistant alongside them in technology form. It is an extraordinary upside and transformational, but only if we get right the framework, the construction and the underpinning principles that guide it. If we human-lead with these technologies, we will give ourselves the best opportunity to succeed and to empower all children and young people to succeed in their education journey. If we have a principles-based, outcomes-focused and inputs-understood approach, we enable, we empower and we have a clear understanding of what we require from these edtech solutions. I turn now to the amendment. All edtech must be inclusive by design; accessible; transparent about the make-up of the technology; labelled, if AI is in the mix; and absolutely crystal clear as to how the data is used, where it is stor",
+   "name": "Lord Holmes of Richmond",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Kidron (CB)",
+   "member_id": 4258,
+   "type": "Contribution",
+   "text": "My Lords, in speaking to my Amendments 502K, 502YI and 502YH, I also register my support for Amendments 493 and 494 in the name of the noble Lord, Lord Holmes, and, more broadly, to associate myself with everything he has just said. Amendment 502YI calls for a code of practice for education data. I tabled a similar amendment to the Data (Use and Access) Bill earlier this year and was given an assurance from the Minister, the noble Lord, Lord Vallance, who gave me “a firm commitment … that the Government will use powers under the Data Protection Act 2018 to require the ICO to publish a new code of practice addressing edtech issues ”.—[ Official Report , 28/1/25; col. 148.] A letter I received from the department in anticipation of today’s debate suggested that the Government are “reviewing and considering”. I ask the Minister whether we are reviewing and considering the firm commitment that was made nine months ago. We have been discussing data protection in schools since 2017 and we have had multiple promises from both department and regulator that have yet to bear fruit. Yet the Government are pressing ahead to introduce new data-hungry technology in our schools. The uses of pupil",
+   "name": "Baroness Kidron",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Russell of Liverpool (CB)",
+   "member_id": 2134,
+   "type": "Contribution",
+   "text": "My Lords, I was very happy to add my name to the noble Baroness’s on the majority of these amendments. She has outlined the compelling need to do something in these interrelated areas sooner rather than later. I will not bore your Lordships but rather try and illustrate one or two examples of what is going on in real time. I will start with Copilot, a tool that most of us will be at least faintly familiar with—or will at least have heard of—and which is integrated into the Microsoft package that we use in Parliament. At the time that research was started by a group of organisations, including the 5Rights Foundation founded by the noble Baroness, Microsoft, which owns Copilot, stated publicly that Copilot was intended for users 18 and above, such as all your Lordships. However, in May 2025, the company announced without warning that Copilot would become available to users aged 13 and above. This shift raises important questions, none of which was answered at the time by Microsoft. The user age change proceeded without any published child rights impact assessment—which takes us back to an earlier group that we discussed—or documentation of any child participation in this decision. Us",
+   "name": "Lord Russell of Liverpool",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Addington (LD)",
+   "member_id": 3453,
+   "type": "Contribution",
+   "text": "My Lords, when it comes to technology, I think I have a slightly different relationship to it, although the noble Lord, Lord Holmes, may even go beyond me for this. We need it to operate in the modern world. I have said before several times on this Bill that I am dyslexic. I cannot produce a one-page document that is in a readable form in any sort of format unless I use voice dictation. The relationship with technology changes. If you want to make people independent and they are, in this case, dyslexic—dyspraxics might use the same technology in a slightly different way—you must make sure information is available to them and they can function with it. Having said that, the second part of this is, as the noble Baroness, Lady Kidron, said, that there should be safeguards within it. These things actually go hand in glove. You should have something that allows people to function in the modern world. When you are independent and interacting with a computer, you have to put the correct information in for the computer to function; you have to actually know what you are doing. A balance needs to be achieved. There is a move to use systems which are built into computers, as opposed to bolt-",
+   "name": "Lord Addington",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Spielman (Con)",
+   "member_id": 5404,
+   "type": "Contribution",
+   "text": "My Lords, I have listened to a number of Lords speak movingly and wisely about the risks, concerns and things we need to guard against in the use of technology. I want to talk about the risk to learning itself. I have forgotten their name, but somebody recently wrote an excellent piece that illustrated this very vividly. We all understand that when we send our children to school and when we teach them, the point is not simply for them to have a thing they can say they have done; it is the process that they go through that really embeds it and enables them to use that knowledge and those skills in future. We have all seen it in the kinds of problems that have arisen with coursework. If a coursework essay or a homework assignment is produced for a child or university student by AI, then that child or student has not done the thinking, they have not learned what the assignment was set for, and the education will not achieve its purpose. There is a real risk at the moment that a lot of education in a lot of places is being quite significantly undermined because young people do not recognise that they are harming themselves by taking the shortcuts. Perhaps we have all been a little bit ",
+   "name": "Baroness Spielman",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Tarassenko (CB)",
+   "member_id": 5027,
+   "type": "Contribution",
+   "text": "My Lords, I support Amendments 493, 494, 502K and 502YI, as someone with an interest in the use of educational technologies, including AI, both in schools and universities. I declare my interest as chair of the Maths Horizons project, funded by XTX Markets, which earlier this year reviewed the maths curriculum in England from five to 18, and briefly investigated the use of edtech to support the teaching of the subject. I speak as a supporter of the deployment of educational technology in the classroom as I believe it can and should have a positive impact on the education of children, and not just in maths. But this must be done within a framework which protects children from its misuse. We must balance innovation in education through edtech with appropriate regulation. The regulations listed in subsection (2) of the proposed new clause in Amendment 493 would support the adoption of edtech in our schools rather than hinder it. In this context, what has happened with chatbots based on large language models is a salutary example of the early release of AI products without proper safeguards, especially with respect to their use by children. Tragically, this week the parents of the Amer",
+   "name": "Lord Tarassenko",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Harding of Winscombe (Con)",
+   "member_id": 4324,
+   "type": "Contribution",
+   "text": "My Lords, I too support Amendments 493 and 494 in the name of my noble friend Lord Holmes, and Amendments 502K and 502YI in the name of the noble Baroness, Lady Kidron. I am not an educationalist and this is my first contribution on the Bill. I spend my time in this House focused mainly on digital issues, hence my interest in these amendments. Like others today, I will start by being really clear that I am not anti-technology in education—quite the opposite. I see the huge potential that digital technology can bring in all sectors of our lives. It is also particularly clear today, as our Prime Minister is signing the tech prosperity deal. We should be open-eyed that technology brings the opportunity for prosperity; I am not anti it at all. But it is also really clear that technology, not just digital but all technologies for evermore, need guardrails, and those guardrails cannot be self-imposed. Among those of us who have worked on child safety online for the past 10 or 15 years, many on this side of the House began firmly believing that self-regulation was the answer. I am afraid that we been proven absolutely wrong. There is no doubt that self-regulation in social media has been ",
+   "name": "Baroness Harding of Winscombe",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Wei (Con)",
+   "member_id": 4145,
+   "type": "Contribution",
+   "text": "My Lords, my Amendment 502YQ is mainly to probe the Government’s intention in relation to their own use of data regarding this Bill. This amendment addresses an issue that has surfaced repeatedly in our many debates: the scope of data collection about children in education. We have heard a lot today about the role of technology providers, but I want to turn the focus to how we are collecting data within the education system in government. My amendment would ensure that personal data may be collected, retained or processed only where it is strictly necessary to protect a child from significant harm, as defined in Section 31 of the Children Act 1989. Why is this needed? The Bill as drafted gives wide latitude to local authorities and the Secretary of State to demand data on children not in school—an area that I really care about—as well as potentially on others. In particular, the data demanded of children not in school—we have already heard about the amount of data that is already collected on children in school—is off the scale. We are told that this is for safeguarding, but safeguarding has a very specific meaning in law. It is not a licence for limitless information gathering; it",
+   "name": "Lord Wei",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "My Lords, Covid was certainly the rocket fuel for the growth of educational technology in our schools, which is now accepted as part of the school learning landscape. The UK’s education tech sector is the largest in Europe, spending, as we already heard, an estimated £900 million a year. However, there are real concerns that these amendments seek to address, which is why we will be supporting Amendments 493, 494, 502K, 502YH and 502YI. The edtech sector is exempt from the Online Safety Act, and adherence to GDPR is inconsistent, to say the least. Large multiuse platforms such as Google Classroom and Microsoft Teams can enhance teaching and school management, but the absence of clear statutory standards leaves children’s education and school cybersecurity often at risk. We surely need a regulated framework to safeguard children’s rights, protect the data and prevent the commercial exploitation of children. We sleepwalked into the development of social media. Now that we see the harm that has been caused, we rush to try to do something about it. There is a strong case for developing a regulated framework to safeguard children’s rights and support schools in making informed and sustai",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, this is yet another important group of amendments, which seeks to bring, frankly, some common-sense principles to the use of edtech, children’s data and screens. Amendments 493 and 494, in the name of my noble friend Lord Holmes of Richmond, seek to introduce what would in effect be quality standards for the use of edtech in schools. There are existing standards and guidance for schools in relation to hardware and data, but I was unable to find any specifically in relation to edtech, so it feels as though my noble friend has identified a real gap. Similarly, Amendment 502K, in the name of the noble Baroness, Lady Kidron, would introduce a code of practice on the efficacy of edtech. I suggest that, in all these amendments, we need to be very clear that any standards or principles focus not just on some of the data and related safety issues that we have talked about; we must make sure that they are absolutely based on the latest research in cognitive science and the best understanding of pedagogy, so that they deliver learning. We need them to be safe—that is necessary but not sufficient—and effective. Last year, a thorough report by the Education Select Committee on the im",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "We have had a good debate on this group, which concerns education technology and device-based assessment. I thank noble Lords for raising the important issues of digital and technology standards for schools, particularly around inclusion, procurement and use of effective education technology in schools. I strongly agree with noble Lords that technology must be safe for children to use and effective to support learning, teaching and the work of teachers—who remain central and fundamental to children’s learning. I am sure that there are important lessons and developments about pedagogy that it is crucial to engage with, given the context of edtech. Amendment 493 tabled by the noble Lord, Lord Holmes of Richmond, and Amendments 502K, 502YI and 502YH, tabled by the noble Baroness, Lady Kidron, seek to regulate educational technology deployed in schools in England. We share many of the objectives set out by noble Lords to ensure quality and safety. This is a very fast-moving area and we are in the process of developing standards and ways to ensure the accountability and the certainty that those standards are being delivered. The Department for Education has set non-statutory digital and",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Kidron (CB)",
+   "member_id": 4258,
+   "type": "Contribution",
+   "text": "I just want to raise the question of timing. The Government, as the Minister says, are putting a huge amount of money into digital infrastructure and, as later amendments that she will turn to say, putting assessment online and so on. I am trying to understand why it takes decades to get the rules in place, and why we have not yet learned that we need to put them in place as we put the infra- structure in. I will read the debate very carefully, and I respect the generous way in which the Minister answered, but I sit here as someone who has been fighting for nearly a decade for something that is still being promised some time before 2030. I am finding it very difficult to put that together with the idea that we are now making a huge investment in edtech, that this is going to be central to children’s lives and that the Government will be responsible for the outcomes. Many noble Lords across the House have said that we want edtech and learning, and to be part of this movement, but look at what is happening around the edges. It is being treated like a commercial market, not a pedagogical outcome, a safety outcome or, indeed, an inclusive one, as the noble Lord was referring to.",
+   "name": "Baroness Kidron",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I hope that the noble Baroness will carefully read what I said. I was certainly not saying that. In my response, I have gone further in explaining the work that the department is doing to meet many of the concerns that she outlined than we have done previously. I am most certainly not saying that it will be done to the 2030 timetable. I understand her concern around regulation and accountability, and I have given some considerable steers, at the very least, about the direction in which that work is going—it is not to a 2030 timetable. Turning to—",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Harding of Winscombe (Con)",
+   "member_id": 4324,
+   "type": "Contribution",
+   "text": "Before the Minister moves on, I have a follow-up question. It is very encouraging to hear the work that seems to be ongoing in the ICO. What is the Minister’s view on why it would not be appropriate to put the requirement for a code of conduct on the statute book for education in the same way that it is in the Age Appropriate Design code for all other children’s data? Just to be clear, I value the fact that the Minister has been so open about the ongoing work, but those of us who have worked in this space for so long worry that things can change and that, without legal underpinning, codes can then disappear.",
+   "name": "Baroness Harding of Winscombe",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I understand that concern. Perhaps we can first make progress on the code, as I have outlined we are. I will write to the noble Baroness about this. I understand that this place is about putting things into legislation, but that does not mean that activity is not happening. The proof of the pudding may well be in the production of the code.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "When the Minister sends that letter, will she kindly clarify both the data protection and the child safety angles that she talked about, for which the Information Commissioner’s Office would have responsibility? Will she also explain how the pedagogical elements will be included, to make sure that these are both safe and effective from a learning point of view?",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "Yes, I will do that. Amendment 502YS, tabled by the noble Baroness, Lady Barran, seeks to confer a right for parents to elect for their child to receive, complete and submit homework tasks otherwise than by means of a computer or a personal electronic device. The noble Baroness made important points about the totality of the way in which children might be expected to do their homework and the challenges for those children who might not have access to technology to do that. I would be surprised if there were schools that were expecting children to do all their homework using devices. Nevertheless, it is still important to maintain the principle—rightly set down by the previous Government, particularly by Damian Hinds as Secretary of State—that decisions over the volume and form of homework are made by schools themselves, working in collaboration with staff, pupils, parents and governors. I am not sure that it would be appropriate for the department to limit the autonomy of schools to set their own policies on homework. But it is right that schools should consider providing alternative options for pupils to complete homework where device access is limited. They should consider the im",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Holmes of Richmond (Con)",
+   "member_id": 4294,
+   "type": "Contribution",
+   "text": "My Lords, I thank all those who participated in this important debate. Edtech has such profound possibilities for all learners, be they in school, home learning environments or any environment where education is taking place. In that, it is obviously crucial to be cognisant of the risks attendant. As I said earlier, if we take a principles-based, outcomes-focused, inputs-understood approach and we human-lead on these technologies, we can feel confident that we are putting technologies in place in education that will enable and empower children and young people but also teachers and the whole school, home learning and education environments. This matter could barely be more up to the minute, with technologies already deployed widely across all learning environments. For this reason, and with the great good fortune of this Bill now being in your Lordships’ House, we will certainly return to these matters on Report. For now, I beg leave to withdraw the amendment.",
+   "name": "Lord Holmes of Richmond",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Norton of Louth (Con)",
+   "member_id": 3187,
+   "type": "Contribution",
+   "text": "My Lords, on my count, almost 20 amendments have been tabled to the Bill requiring the Secretary of State within six or 12 months of the Act being passed to promulgate some regulations or undertake a review of a particular provision of the Act. My amendment is more comprehensive and adopts a longer timeframe. It would require the Secretary of State within five years of the passage of the Act to undertake a review of its operation and effect. The wording is the same as that of an amendment I tabled to the Employment Rights Bill and has the same justification. Post-legislative scrutiny is essential for ensuring that the law we enact meets the various criteria of good law. We cannot know that it does without undertaking a thorough review and, in effect, completing a legislative feedback loop. There is no point in enacting legislation that then fails to deliver what it is intended to deliver and for us to proceed, in essence, in ignorance of its effects. The case for post-legislative review has been accepted by government since 2008, with a commitment to reviewing most Acts three to five years after enactment. Ministers have variously reiterated that commitment. However, not all depart",
+   "name": "Lord Norton of Louth",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Wei (Con)",
+   "member_id": 4145,
+   "type": "Contribution",
+   "text": "My Lords, I rise to speak to Amendments 502YN and 502YR, which stand in my name. These amendments are bound by a common theme: that the powers we create in this Bill must be effective, proportionate and accountable, not only in ordinary times but in moments of crisis, when authoritarian temptations grow stronger. Amendment 502YN would establish an annual review of all measures introduced by the Bill. Each year, the Secretary of State would be required to test whether those measures are achieving their stated purpose, and whether they are doing so without imposing unnecessary or disproportionate burdens on parents, children, schools, providers, local authorities or the department itself. Where a measure fails, it should be amended or repealed. If no action is taken, within two years it must lapse. This is about accountability cutting both ways. Families, schools and community groups—huge numbers of stakeholders—are being asked in this Bill to account for children’s education. It is only fair that the Government should account for the laws they pass. We have been warned many times in these debates about the dangers of excessive bureaucracy and mission creep. Clause 31, the proposed r",
+   "name": "Lord Wei",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Watson of Invergowrie (Lab)",
+   "member_id": 1241,
+   "type": "Contribution",
+   "text": "My Lords, if my Amendment 505C appears something of an outlier, it is only because it is. It would have been more appropriate for it to have been introduced in Part 1 of the Bill, but I have to be honest and say that, at the time, I was unaware of it as an issue. Being even more honest, I have to say that, had I been following the progress of the Mental Health Bill, I might well have been. I acknowledge the assistance of the clerks in the Public Bill Office for finding me a peg on which to hang this, and also the assistance of JUSTICE, the law reform charity, for briefings and context. Whatever the view of noble Lords on the contracting out of vital public services, I am confident enough to say that nobody on any side of your Lordships’ House wants people to be treated less decently and with fewer human rights because a service is being provided by an outside contractor rather than directly. The Human Rights Act is an essential tool for individuals to hold public bodies to account. It requires public authorities to act in compatibility with the rights set out in the European Convention on Human Rights, and this definition of a public authority has been narrowly interpreted by the c",
+   "name": "Lord Watson of Invergowrie",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, as we have heard, this group of amendments would introduce a number of reviews of the Bill. Those in the name of my noble friend Lord Wei also seek to limit the new powers in the Bill in relation to elective home-educated children. Amendment 502C from my noble friend Lord Norton of Louth would introduce a review of the Act after five years, and my noble friend made an extremely articulate and clear case for this. I think my noble friend said that there were already over 20 examples of amendments seeking reviews of different parts of the Bill. Although concerns about Part 2—which we have debated more recently—are certainly uppermost in my mind, those of us with long memories will remember some of the concerns about the pace of and evidence base for the reforms to children’s social care in Part 1. My noble friend set out some criteria for post-legislative scrutiny: it should be a substantial Bill—I think that, on day 12, we can agree this is a substantial Bill; it should introduce major changes; it has unquestionably been controversial; and it did not have pre-legislative scrutiny. I thought almost the strongest point is that this would allow the Government to demonstrate t",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Addington (LD)",
+   "member_id": 3453,
+   "type": "Contribution",
+   "text": "Just before the Minister replies, I shall very briefly say that the principle of reviewing legislation is one that I think we have all agreed to and no Government have ever found terribly convenient. I hope that we can get something going and some commitment by the Government that they will look at what happens here, or some structure for reviewing what happens, because the unforeseen is something which no degree of planning now can ever adjust.",
+   "name": "Lord Addington",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "The amendments in this group cover a wide range of issues, including review of the Act, disapplication and commencement. I will begin with Amendment 502YR tabled by the noble Lord, Lord Wei, which seeks to protect a parent’s right to determine their child’s education in the event of a national emergency or an authoritarian Government, by placing judicial oversight above executive restrictions. This amendment would actually be ineffective as, quite rightly, Parliament is sovereign. Any law passed by a current Parliament can be changed or repealed by a future Parliament. Provided the education a child receives is both safe and suitable, existing legislation makes clear that most parents have the right to determine the form of education that best meets their child’s needs. We have of course discussed this at length in Committee and the Bill does not change it. Turning to Amendment 502C, on reviewing the Act, I start by commending the commitment of the noble Lord, Lord Norton of Louth, to post-legislative scrutiny, which, as he identified, has been government policy since 2008 and part of the process for legislative progress through this House. I remember the discussions around putting",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Wei (Con)",
+   "member_id": 4145,
+   "type": "Contribution",
+   "text": "I thank the Minister. On my understanding, having spoken to those who know about the workings of the Regulatory Policy Committee, which the Minister said greenlit the Bill, in the last few years it has not been allowed to ask for submissions, on receiving a draft Bill, to scrutinise whether that Bill fits within the kind of good regulatory framework that we all would like to see. So the information that it had to greenlight this Bill was very limited indeed. If you cannot ask people what they think of the Bill, obviously any information you have is very limited and you can only go on what you have been given, which is further ammunition for the point that the Bill needs a lot of scrutiny, because it did not really have any before it was brought before this House.",
+   "name": "Lord Wei",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "The Regulatory Policy Committee had the benefit of our published regulatory impact assessment to review. Wider comments about the efficacy of the Regulatory Policy Committee are for the noble Lord to make to the Regulatory Policy Committee, rather than using it as a stick to beat this particular Bill. Frankly, as we are coming to the end—nearly—of day 12 of Committee on this Bill, the idea that it has not had sufficient scrutiny is laughable, given the time and care that was also spent in the other place, which has been massively exceeded by the time and care that has been spent by noble Lords in this House during the course of this Committee.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Wei (Con)",
+   "member_id": 4145,
+   "type": "Contribution",
+   "text": "Just to clarify, the words I used were, “before it was brought before this House”. The reason it has had so many days of scrutiny is because it was not drafted in a way that was appropriate. We have spent so much time on it. We cannot believe how many nights and days we have all had to work on this. If we could have Bills in future that had a bit more effort put into their drafting by policymakers and others, we could use the time of this House really well. I am not in any way criticising or saying that the work of this House is wasted. In fact, it has been very necessary to get us to where we are today.",
+   "name": "Lord Wei",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "The noble Lord is right that noble Lords have spent considerable hours on this—some more than others, I think it is fair to say. Amendment 505C, tabled by my noble friend Lord Watson of Invergowrie, seeks assurances, via a published statement, on how the Human Rights Act 1998 applies to private providers of publicly funded children’s social care services. The amendment seeks a pause in the commencement of Clauses 12 to 18 of the Bill until such a statement is made. These clauses cover measures relating to provider and financial oversight, profit caps, Ofsted and Secretary of State powers to impose monetary penalties, and information sharing between Ofsted and the Secretary of State. I thank my noble friend for bringing important human rights considerations to our attention. Protecting the human rights of all children is of paramount importance, and the Bill is delivering a number of important measures to stop vulnerable children falling through cracks in services. I completely understand the reasoning behind my noble friend’s amendment and would like to provide the Committee with reassurances on the robustness and broad applicability of the human rights legal framework, including f",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Watson of Invergowrie (Lab)",
+   "member_id": 1241,
+   "type": "Contribution",
+   "text": "I thank my noble friend for that very full response to Amendment 505C. I am not a lawyer, so I cannot say at this stage whether I accept the reassurance. I would like the opportunity to discuss it with her before Report, perhaps with some legal support on those points. She and her team have clearly gone into it deeply, and I appreciate that. In closing, my noble friend talked about the extent to which this Bill has been subjected to scrutiny in Committee. I have been here 22 years now, and do not remember any Bill having had 12 days in Committee. I checked and we started this Committee on 20 May, fully four months ago, so I do not think anybody can say it has not had proper scrutiny. I would just like to draw an analogy. My noble friend mentioned earlier that she ran a 10K at the weekend, I imagine that must have felt like a walk in the park compared to steering this Bill through. I thank her and her other ministerial colleagues and Whips for the way in which they have approached it.",
+   "name": "Lord Watson of Invergowrie",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I am more than happy to meet my noble friend and to bring those legal minds with me that I hope will enable him to be reassured. Given that this is the last group that I will be responding to today, I also thank him for what he has said about this Committee stage. It has been lengthy, but usually carried out in a respectful, amicable and constructive way. For that, I particularly thank the opposition Front Benches and, obviously, my excellent Whip and co-responder my noble friend Lady Blake. I agree with my noble friend that I do not think anybody could say that we have not done our jobs as legislators in this place in well and truly giving this a good going over, and I thank all those who have been involved in that.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Norton of Louth (Con)",
+   "member_id": 3187,
+   "type": "Contribution",
+   "text": "My Lords, given that, as the Minister said, she is just bringing to a conclusion her 12 days in Committee on the Bill, I was rather hoping that she may be a little demob happy and put aside her brief and accept the amendment. I naturally welcome the commitment that the Bill will be reviewed within five years. For the reasons I developed, I believe that putting the commitment in the Bill is the preferable option. As I trust was clear from what I said, I do not believe putting such a provision in the Bill should apply to all or even most Bills, but only those that meet the criteria I detailed. Providing for such a scrutiny imposes a valuable discipline in drafting the measure, stimulating Ministers to think about the criteria by which one would know whether an Act had actually achieved what it was intended to achieve. That is not always clear. It would also demonstrate the Government’s confidence in the Bill to achieve its purpose. The arguments for doing this, as I said, are the same as those accepted by the Government on the Football Governance Act. This is an important issue, not least for the health of the statute book. We rather miss the significance of such provisions, along wi",
+   "name": "Lord Norton of Louth",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Young of Acton (Con)",
+   "member_id": 5379,
+   "type": "Contribution",
+   "text": "My Lords, Amendment 502M would create a statutory duty to keep schools open for in-person attendance in future public health and other civil emergencies, unless Parliament expressly approves any closures and continues to approve them every two weeks. We await the conclusions of the UK Covid-19 inquiry, but it is now widely accepted that it was a mistake to close schools during the pandemic. The evidence that it had a catastrophic impact on children is overwhelming. I am thinking of the research published by Ofsted in April 2022, when my noble friend Lady Spielman was at its head, which was based on inspection evidence that highlighted delays in children’s speech and language progress and a negative impact on children’s personal, social and emotional development. I am thinking of research published by the IFS, the Education Endowment Foundation and the Social Mobility Commission detailing the persistent and highly damaging impacts of school closures, exacerbating inequalities and reversing progress previously made to narrow the attainment gap. I am thinking of the work done by the Centre for Social Justice showing that some children who were told to stay at home during the pandemic ",
+   "name": "Lord Young of Acton",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Brady of Altrincham (Con)",
+   "member_id": 435,
+   "type": "Contribution",
+   "text": "My Lords, I am very pleased to follow my noble friend in supporting the amendment, which is in his name and mine. I am conscious of the hour, so I shall be brief in endorsing the point that my noble friend made. This is a modest amendment in that it seeks only to place a duty on Ministers to do something that we surely would all wish them to do anyway. It is crucial because it seeks to make the huge error of closing schools during the Covid pandemic far less likely to be repeated. Many of us thought, at the time, that it was a mistake to engage in protracted school closures and that it would be immensely damaging. The excellent work of UsForThem, run by the splendid Molly Kingsley, helped to highlight the problems that were going to be caused. These harms were always going to be significant, but the evidence since the end of the Covid restrictions, as my noble friend pointed out, suggests that our fears five years ago were actually a gross underestimate of the damage that would be done to children and young people. The repeated lockdowns and school closures constituted, in my view, the biggest public policy disaster in modern history. The fact that the interests of children and you",
+   "name": "Lord Brady of Altrincham",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Boycott (CB)",
+   "member_id": 4704,
+   "type": "Contribution",
+   "text": "My Lords, I will speak to my Amendment 502P and will give my support to Amendment 502YB, in the name of the noble Baroness, Lady Bennett. If the noble Lord, Lord Young, chooses to put his amendment to a vote later, I will support it; I thought that his introduction to it was very well argued. I am deeply sympathetic to the Ministers handling this Bill, as schools are being asked to do so many different things. It is the widest brief imaginable—and I am coming up with something else at the end of the day and at the end of the Bill. My amendment is about adaptation and mitigation around flooding and heat risks. Just this summer, we have seen schools having to close because of excess heat. Near where I live in Somerset, the school in Tiverton is now flooding almost every year; the defence is very poor. Looking at all our green and sustainable amendments, my worry is that the Government are not taking seriously enough the issue of how we adapt to the coming weather threats. This amendment is a stitch in time for tomorrow. Before the summer, I tabled Questions about how much information the department held about the amount of lost learning time due to flooding and heat stress. The docum",
+   "name": "Baroness Boycott",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Finlay of Llandaff (CB)",
+   "member_id": 3609,
+   "type": "Contribution",
+   "text": "My Lords, I have a probing amendment in this group, which came about because it struck me that we need to be prepared to think of the unthinkable. Sadly, there have been some tragedies in different schools in different places. There have been bus crashes and knifings. We know that defibrillators on sports fields have saved lives by having a programme that was rolled out. We know that autoinjectors of adrenaline, which are now in schools as a spare autoinjector, have been saving lives. However, I am not sure that children really know how to cope with some of the life-threatening emergencies that can occur before emergency services arrive: particularly, how to manage if a child seems to be bleeding out from a severe injury—there are some very simple measures that can be taken—how to manage choking if someone is choking on a bolus of food in the dining room, and how to manage a chemical attack. I should say that my own grandsons attended the school—one is still at the school—where there was a chemical attack on a pupil in the street that hit the news. I was very struck many years ago when those same grandchildren were much younger and at nursery, where they were taught a very simple r",
+   "name": "Baroness Finlay of Llandaff",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Bennett of Manor Castle (GP)",
+   "member_id": 4719,
+   "type": "Contribution",
+   "text": "My Lord, it is a pleasure to follow the noble Baroness, Lady Finlay, and to share in her concern about the need to prepare pupils in this age of shocks where we literally do not know what is around the corner. I have often spoken in your Lordships’ House about the need for first aid education in schools. This amendment is broader than that. We need education that prepares people for life and not just for exams. I note that recently some basic questions about first aid have been introduced into the driving licence test, which shows that there is some recognition by the Government of the need to act in this space. I shall speak chiefly to my Amendments 502YB and 502YK and I thank the noble Baroness, Lady Boycott, for her support for them. Amendment 502YB, which would require a review of climate adaptation in schools, very much fits with the noble Baroness’s Amendment 502P, but her amendment is focused largely on the physical fabric of schools while mine is focused to a large degree on how schools behave and are arranged. It is more of a behavioural kind of question. I note that the UK Health Security Agency has published updated guidance about heat for schools and early years setting",
+   "name": "Baroness Bennett of Manor Castle",
+   "party": "GP"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "The hour is late, so I will be very brief. I make three observations. First, we react to situations; we do not prepare for them. Secondly, we then set up a particular programme or campaign but we do not embed it; we do it until people have lost interest or media attention has moved on to something else; thirdly, schools or parents often come up with something, following a particular event occurring in a school and it starting a campaign—it is a pity that this is not shared. It is not quite the same, but I think of the example of EpiPens and defibrillators in schools. In Liverpool, a poor boy aged 11 had a cardiac arrest in the swimming pool and tragically died. His family and immediate friends started a campaign, the Oliver King Foundation, to get defibrillators into every school in Merseyside, and that happened. All these amendments are certainly worth consideration.",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, this is a diverse group of amendments. Amendment 502M, tabled by my noble friends Lord Young of Acton and Lord Brady of Altrincham, is on the duty to keep schools open in person during civil emergencies. I think that we can all agree on the importance of this principle. We saw vividly during Covid that schools are crucial centres of learning but also places of community, which form an important part of the foundation of childhood. I support the principle behind the amendment that schools should remain open and that closure should be considered only ever in the most extreme circumstances. I am slightly less clear, looking at the noble Baroness, Lady Longfield, whether the Children’s Commissioner is the right person to advise the Government, but it will be interesting to hear what the Minister has to say on that. Amendment 502P, tabled by the noble Baroness, Lady Boycott, and my noble friend Lord Gascoigne, on the creation of a safe and resilient schools plan, rightly highlights the importance of ensuring that our school buildings are resilient to climate change and responsible when it comes to emissions—maybe a building cannot be responsible but those building it can be. T",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Blake of Leeds (Lab)",
+   "member_id": 4912,
+   "type": "Contribution",
+   "text": "Before I start summing up, I just have a comment to make: if loosening ties is good enough for instructions in this Chamber, maybe schools should consider it. I am sorry; we are getting to the last group of amendments here. These are all exceptionally important amendments that we need to consider. It is a rather strange grouping but there is a theme running through them. I will turn to the noble Lord, Lord Young of Acton, first because his amendment led the group. The whole thrust of this is that it would require schools to remain open to all pupils during civil emergencies unless the other place decided otherwise. I stress that every emergency is different and unpredictable; that is the nature of the beast that we are talking about. We all learned the lesson—some of us were more involved than others—that planning is best when it is agile and takes a whole-system approach, and is responsive to the emergency faced. For example, I will never forget the chilling moment when I got a call from our director of education to say that a teacher had been murdered in one of our schools, all of the emotions that brought in, and the effect on all the children in the school and the staff, and th",
+   "name": "Baroness Blake of Leeds",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip"
+  },
+  {
+   "who": "Lord Young of Acton (Con)",
+   "member_id": 5379,
+   "type": "Contribution",
+   "text": "I thank my noble friend Lord Brady for an excellent speech in support of Amendment 502M, and the noble Baroness, Lady Boycott, the noble Lord, Lord Storey, and my noble friend Lady Barran for their words of support. All I will say in reply to the Minister’s thoughtful response is that yes, of course the Government need to remain flexible in the face of emergencies. However, there need to be safeguards in place, particularly when taking such momentous decisions. The safeguard of requiring the approval of Parliament seems a fairly modest one. With that, I beg leave to withdraw the amendment standing in my name on the Order Paper.",
+   "name": "Lord Young of Acton",
+   "party": "Con"
+  }
+ ],
+ "fetched": "2026-10-21T20:27:07Z"
+}

@@ -1,0 +1,275 @@
+{
+ "ext_id": "40699A9A-D4C9-49FD-A53E-16B02093FA93",
+ "date": "2025-02-05",
+ "house": "Lords",
+ "section": "Debate",
+ "title": "Schools: Citizenship Education",
+ "parents": [
+  "Lords Chamber"
+ ],
+ "location": "Lords Chamber",
+ "url": "https://hansard.parliament.uk/Lords/2025-02-05/debates/40699A9A-D4C9-49FD-A53E-16B02093FA93/SchoolsCitizenshipEducation",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Lord Wallace of Saltaire",
+   "party": "LD",
+   "member_id": 1816
+  },
+  {
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education",
+   "member_id": 269
+  },
+  {
+   "name": "Baroness Whitaker",
+   "party": "Lab",
+   "member_id": 2510
+  },
+  {
+   "name": "Lord Hayward",
+   "party": "Con",
+   "member_id": 863
+  },
+  {
+   "name": "Baroness Meacher",
+   "party": "CB",
+   "member_id": 3810
+  },
+  {
+   "name": "Lord Harris of Haringey",
+   "party": "Lab",
+   "member_id": 2671
+  },
+  {
+   "name": "Baroness D'Souza",
+   "party": "CB",
+   "member_id": 3709
+  },
+  {
+   "name": "Baroness Bennett of Manor Castle",
+   "party": "GP",
+   "member_id": 4719
+  },
+  {
+   "name": "Baroness Barran",
+   "party": "Con",
+   "member_id": 4703
+  },
+  {
+   "name": "Lord Clark of Windermere",
+   "party": "Lab",
+   "member_id": 525
+  },
+  {
+   "name": "Baroness Garden of Frognal",
+   "party": "LD",
+   "member_id": 3842
+  },
+  {
+   "name": "Lord Kennedy of Southwark",
+   "seat": "Lab Co-op",
+   "role": "Captain of the Honourable Corps of Gentlemen-at-Arms and Chief Whip",
+   "member_id": 4153
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Lord Wallace of Saltaire",
+   "member_id": 1816,
+   "type": "Contribution",
+   "text": "To ask His Majesty’s Government what changes they are considering for citizenship education in schools to accompany proposals to reduce the voting age to 16.",
+   "name": "Lord Wallace of Saltaire",
+   "party": "LD"
+  },
+  {
+   "who": "The Minister of State, Department for Education (Baroness Smith of Malvern) (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My Lords, teaching about democracy and elections already forms a central part of the national curriculum for citizenship at key stages 3 and 4 and can be taught as a non-statutory topic in primary schools. We will consider the citizenship curriculum in the context of the curriculum and assessment review, and we see the potential of lowering the voting age to help boost young people’s engagement with citizenship and democracy.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Wallace of Saltaire (LD)",
+   "member_id": 1816,
+   "type": "Contribution",
+   "text": "My Lords, the Minister will be well aware of recent polls showing the levels of disillusion young people have about our current political institutions. Part of the argument for lowering the voting age to 16 is to get young people engaged in our institutions and voting before they leave school. The informal conversations I have with my grandchildren and the grandchildren of friends tell me that, frankly, the level and quality of citizenship education in state schools is pretty awful. Unless there is action to improve it considerably, this will not be a success.",
+   "name": "Lord Wallace of Saltaire",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "The noble Lord is right about the challenge of engaging young people in politics—a challenge that rests with the political parties represented around this Chamber as well as with our schools and broader civic society. I was very proud to be the Minister, under the leadership of my noble friend Lord Blunkett, who introduced citizenship into the curriculum in the first place when I was last in government. The noble Lord makes a fair point about the need to ensure that there is sufficient quality of resource and teachers to make sure that it is effective in our schools. I and my colleagues in the department will certainly bear that in mind.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Whitaker (Lab)",
+   "member_id": 2510,
+   "type": "Contribution",
+   "text": "My Lords, I apologise for jumping the gun, but the experience of my grandchildren does not tally with those of the noble Lord, Lord Wallace, since they seem to engage in quite a lot of citizenship— but maybe that is to do with the school, which is a comprehensive. Does my noble friend agree that one of the elements which might bring more 16 year-olds into full participation in our democracy is to educate them in our shared culture of human rights? There is something in it for them and something in it that they can do.",
+   "name": "Baroness Whitaker",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My noble friend is right that, although there are challenges, many schools and teachers are facilitating an enormous amount of knowledge, discussion and consideration of a wide range of issues under the heading of citizenship. She is also right that we should include knowledge about our human rights and our responsibilities as citizens within that. Not only is that part of the curriculum but it is being delivered in the very best schools—and, in fact, broadly across schools.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Hayward (Con)",
+   "member_id": 863,
+   "type": "Contribution",
+   "text": "Will the Minister consider extending citizenship classes to not only schoolchildren but all adults, from the Prime Minister downwards, in order that the Prime Minister can correctly define the term “key worker” where it relates to Covid cases?",
+   "name": "Lord Hayward",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "The issues around citizenship, promoting engagement in our democracy and ensuring that young people feel it is worth their while are not served by using the Chamber in that way.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Meacher (CB)",
+   "member_id": 3810,
+   "type": "Contribution",
+   "text": "My Lords, does the Minister agree that people need maturity as well as education to vote responsibly and that, at 16, people might have a very good education but are unlikely to be mature? Does she agree, therefore, that the voting age should not be reduced to 16?",
+   "name": "Baroness Meacher",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "It was a manifesto commitment of this Government to consider that. The evidence demonstrates that young people take on quite a lot of responsibilities at 16. Following on from the point made by the noble Lord, Lord Wallace, starting voting earlier seems to ensure that people will be more engaged in democracy throughout their lives.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Harris of Haringey (Lab)",
+   "member_id": 2671,
+   "type": "Contribution",
+   "text": "My Lords, the noble Baroness is answering on citizenship, but does she accept that, in this day and age, citizenship requires young people—indeed, all people—to have a much better understanding of and a greater ability in critical thinking to address and respond to the misinformation and disinformation with which they are peddled all the time? Will critical thinking be seen as a fundamental part of the curriculum?",
+   "name": "Lord Harris of Haringey",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My noble friend makes a good point. That is part of what we have asked the curriculum and assessment review, which is currently in place, to consider. Critical thinking and the ability to identify the use of misinformation in media, and to distinguish it from proper sources of information, are critical elements of what young people deserve as part of their education.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness D'Souza (CB)",
+   "member_id": 3709,
+   "type": "Contribution",
+   "text": "My Lords, in view of the demise of many youth clubs across the country, does the Minister agree that citizenship education must be professionally taught at both primary and secondary school level by trained teachers?",
+   "name": "Baroness D'Souza",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "The ability to take part in citizenship education in both primary and secondary schools, as the noble Baroness says—of course, in secondary school it is a compulsory part of the national curriculum—is an important part of ensuring that young people are engaged. On her first point, the need for broader support of and engagement with young people is the reason why the Government launched plans in November 2024 to create a new national youth strategy for and by young people, as part of our mission to improve opportunity.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Bennett of Manor Castle (GP)",
+   "member_id": 4719,
+   "type": "Contribution",
+   "text": "My Lords, debate in your Lordships’ House in recent weeks has often focused on the issue of poor mental health, particularly among young people. In general, we know that it is good for your mental health to have agency and control over your own present and future. Would the Minister agree that bringing in votes at 16 or younger would be good for mental health and that education to accompany that would be excellent as well?",
+   "name": "Baroness Bennett of Manor Castle",
+   "party": "GP"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "The noble Baroness is not going to tempt me to suggest that we should have votes below the age of 16, but I agree that agency and being engaged broadly in social action as well as being able to benefit from active citizenship, which is often part of citizenship education in schools, is good for young people in a whole range of ways.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, the Minister rightly talks about the importance of the quality of education in citizenship and all other subjects. Would she agree with me that, given the pushback from practically every educational quarter on the new Ofsted framework and the removal of deep dives, it will be almost impossible for parents to know the quality of the education that their children receive?",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I do not agree with the noble Baroness. This Government were right to remove the single headline measure, which was low information and had high stakes for schools, and to embark on the consultation launched on Monday, which included an excellent speech from my right honourable friend the Secretary of State, on an approach that is about ensuring rigour of inspection, information for parents and appropriate accountability for our schools.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Clark of Windermere (Lab)",
+   "member_id": 525,
+   "type": "Contribution",
+   "text": "My Lords—",
+   "name": "Lord Clark of Windermere",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Garden of Frognal (LD)",
+   "member_id": 3842,
+   "type": "Contribution",
+   "text": "My Lords—",
+   "name": "Baroness Garden of Frognal",
+   "party": "LD"
+  },
+  {
+   "who": "Captain of the Honourable Corps of Gentlemen-at-Arms and Chief Whip (Lord Kennedy of Southwark) (Lab Co-op)",
+   "member_id": 4153,
+   "type": "Contribution",
+   "text": "We will hear from the Lib Dem Benches next.",
+   "name": "Lord Kennedy of Southwark",
+   "seat": "Lab Co-op",
+   "role": "Captain of the Honourable Corps of Gentlemen-at-Arms and Chief Whip"
+  },
+  {
+   "who": "Baroness Garden of Frognal (LD)",
+   "member_id": 3842,
+   "type": "Contribution",
+   "text": "My Lords, we warmly support lowering the voting age to 16. To follow on from the second part of the question from the noble Baroness, Lady D’Souza, can the Minister say how the recruitment of citizenship teachers is going, because in past years it was very difficult to recruit them?",
+   "name": "Baroness Garden of Frognal",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "The noble Baroness is right that there is a challenge in the reduction of the number of specialist citizenship teachers in our schools over recent years, which is why this Government have placed a focus on recruiting more teachers and ensuring that they have—whether it is through pay or other conditions—every reason to stay in the classroom and ensure that young people can benefit from their knowledge.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  }
+ ],
+ "fetched": "2026-10-21T20:25:11Z"
+}

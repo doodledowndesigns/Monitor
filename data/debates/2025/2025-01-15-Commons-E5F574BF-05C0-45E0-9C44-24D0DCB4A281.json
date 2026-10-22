@@ -1,0 +1,799 @@
+{
+ "ext_id": "E5F574BF-05C0-45E0-9C44-24D0DCB4A281",
+ "date": "2025-01-15",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Non-Domestic Rating (Multipliers and Private Schools) Bill",
+ "parents": [
+  "Commons Chamber"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2025-01-15/debates/E5F574BF-05C0-45E0-9C44-24D0DCB4A281/NonDomesticRatingMultipliersAndPrivateSchoolsBill",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole",
+   "member_id": 5327
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 4460
+  },
+  {
+   "name": "Dr Luke Evans",
+   "party": "Con",
+   "seat": "Hinckley and Bosworth",
+   "member_id": 4781
+  },
+  {
+   "name": "Daisy Cooper",
+   "party": "LD",
+   "seat": "St Albans",
+   "member_id": 4769
+  },
+  {
+   "name": "Adam Thompson",
+   "party": "Lab",
+   "seat": "Erewash",
+   "member_id": 5044
+  },
+  {
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire",
+   "member_id": 3969
+  },
+  {
+   "name": "Sarah Bool",
+   "party": "Con",
+   "seat": "South Northamptonshire",
+   "member_id": 5355
+  },
+  {
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow",
+   "member_id": 5237
+  },
+  {
+   "name": "Paul Davies",
+   "party": "Lab",
+   "seat": "Colne Valley",
+   "member_id": 5317
+  },
+  {
+   "name": "Deirdre Costigan",
+   "party": "Lab",
+   "seat": "Ealing Southall",
+   "member_id": 5075
+  },
+  {
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East",
+   "member_id": 5152
+  },
+  {
+   "name": "Melanie Ward",
+   "party": "Lab",
+   "seat": "Cowdenbeath and Kirkcaldy",
+   "member_id": 5240
+  },
+  {
+   "name": "Victoria Collins",
+   "party": "LD",
+   "seat": "Harpenden and Berkhamsted",
+   "member_id": 5201
+  },
+  {
+   "name": "Mr Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley",
+   "member_id": 5166
+  },
+  {
+   "name": "Blake Stephenson",
+   "party": "Con",
+   "seat": "Mid Bedfordshire",
+   "member_id": 5100
+  },
+  {
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner",
+   "member_id": 4872
+  },
+  {
+   "name": "Lewis Cocking",
+   "party": "Con",
+   "seat": "Broxbourne",
+   "member_id": 5050
+  },
+  {
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution",
+   "member_id": 4569
+  },
+  {
+   "name": "Richard Tice",
+   "party": "Reform",
+   "seat": "Boston and Skegness",
+   "member_id": 5161
+  },
+  {
+   "name": "Kevin Hollinrake",
+   "party": "Con",
+   "seat": "Thirsk and Malton",
+   "member_id": 4474
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Vikki Slade (Mid Dorset and North Poole) (LD)",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "I beg to move, That the clause be read a Second time.",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "With this it will be convenient to discuss the following: New clause 2— Review of impact of new multipliers— “(1) Within eighteen months of the day on which sections 1 to 4 of this Act are commenced, the Secretary of State must conduct a review of the impact of those sections. (2) The review must consider— (a) the impact of the introduction of the lower multiplier on qualifying retail, hospitality and leisure hereditaments, (b) the impact of the introduction of higher multipliers in relation to a hereditament for which the value is £500,000 or more. (3) The Secretary of State must, as soon as is reasonably practicable, publish the review and lay a copy of that review before Parliament. (4) As part of the review the Secretary of State must consult with such parties as they see fit including— (a) businesses, (b) the Valuation Office Agency; and (c) Billing Authorities.” This new clause would require the Secretary of State, within 18 months of sections 1 to 4 of the Act being commenced, to review and consult on the impact of new multipliers. New clause 3— Sections 1 to 4: impact assessment— “(1) The Secretary of State must, within six months of this Act being passed, conduct an assess",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Vikki Slade",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "Business rates reform is long overdue. It is frequently cited by my constituents as the biggest concern for their businesses’ survival and one of the most direct inhibitors to their growth. I was contacted this week by a constituent from a local business in Three Legged Cross, right on the edge of my constituency. He has been running it for over 40 years, and the cliff edge created by the small business rate relief means that his rates bill will go from £2,800 to £8,500 per year. The only thing that will save this microbusiness is systemic change as proposed by the Lib Dems in our manifesto, not a tax based on an arbitrary valuation that bears no relationship to the activity taking place inside his building. High streets are trying to redefine themselves, moving from the heart of goods purchasing to literal shop windows as they struggle to compete against online competitors that do not have their overheads. It would be wrong to think that the solution is to try to return to the perfect high street of the past, as if such a thing exists. I am old enough to remember C&A being the place me and my friends browsed for the latest fashions, and there was a Blockbuster video store and pic ",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Dr Luke Evans (Hinckley and Bosworth) (Con)",
+   "member_id": 4781,
+   "type": "Contribution",
+   "text": "One issue that the hon. Lady has not yet mentioned is the impact of the Employment Rights Bill, which will create further red tape for our high street businesses when it comes into play. Do the Liberal Democrats think that the Government should consider that? Changing taxes and rates is one thing, but creating red tape at the very same time, constraining business growth, is another.",
+   "name": "Dr Luke Evans",
+   "party": "Con",
+   "seat": "Hinckley and Bosworth"
+  },
+  {
+   "who": "Vikki Slade",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "I agree that this is a difficult time for small businesses, with so many things changing at the same time—not least the increasing national insurance rates. To return to the role of the high street, the most successful high streets are moving quickly to reinvent themselves. Since my election, I have been trying to find a high street location for my constituency office. I had decided to base myself in the historic market town of Wimborne, where my mum lived and my children went to school. It is the fastest-growing community in Mid Dorset and North Poole—Ministers have heard me talk about its housing problems many times—and it has great bus routes. I thought it would be a great place to find a small unit easily. I was wrong, however. The strength of the sense of place, the innovation of its businesses and the hard work of its business improvement district and its town council are such that when a business closes down, others are waiting to move in. I have finally found my new home, which will open by the end of the month when we have fitted it out, but the experience proved what I already knew: the high street can survive, but only when the business community is prepared to give peop",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Daisy Cooper (St Albans) (LD)",
+   "member_id": 4769,
+   "type": "Contribution",
+   "text": "My hon. Friend is giving an impassioned speech about the importance of business rates reform. Does she agree that there is a risk of unintended consequences in what the Government are proposing? At the moment, the 75% relief is capped at £110,000, but when the relief goes to zero in two years’ time, that cap will not exist. House of Commons Library research shows that the net effect could be that small businesses end up being 80% worse off, while big chains such as Starbucks could be 40% better off. Although it is important that we get a review of the impact of business rates, it is also important that we get the differential assessment set out in new clause 3.",
+   "name": "Daisy Cooper",
+   "party": "LD",
+   "seat": "St Albans"
+  },
+  {
+   "who": "Vikki Slade",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "I completely agree with my hon. Friend. One problem is the same law of unintended consequences that we have seen with things like the national insurance increase—which, as we repeat over and over again, is impacting small businesses, hospices, doctors’ surgeries and things like that—when quite understandably, an attempt is made to raise funds from elsewhere. I want to share the views of Anthony Woodhouse, the chair of Hall and Woodhouse brewery and pub chain, founded and based in Dorset but with a branch just across the way from this place—unfortunately, I am not able to be at its event in Portcullis House because of the timing of today’s debate. Anthony told me that the revaluing of property when a huge amount of money has just been invested to make it fit for a changing market, and before you have even had a chance to benefit from that market, is completely crazy and discourages business investment. As such, it is important that as we look to reform business rates, we examine that issue as well. Despite our failure to do that, businesses such as Anthony’s are responding to the market. Pubs such as the Olive Branch in Wimborne and the Old Granary on Wareham quay are now places whe",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Adam Thompson (Erewash) (Lab)",
+   "member_id": 5044,
+   "type": "Contribution",
+   "text": "I am grateful for the opportunity to speak again on this Bill, having been part of the scrutiny process in Committee. The Committee heard representations from a wide variety of experts in related fields, and I was heartened by the news that many experts felt that this Bill would have a positive impact on 98% of the retail stores that make up our communities. In particular, small convenience stores such as the local Co-op or the great British corner shop will see great benefits to their capacity to support staffing, security and other operational functions. Our incredible independent shopkeepers, such as those who populate the high streets of Ilkeston and Long Eaton in my constituency, will have more funds to take on additional staff, improve their security set-ups and gain long-term confidence in their ability to serve our community. These measures represent a simple, common-sense approach to rebalancing the scales in favour of local retailers and away from the online giants, and increasing taxes on the biggest players while relieving the burden on local retailers.",
+   "name": "Adam Thompson",
+   "party": "Lab",
+   "seat": "Erewash"
+  },
+  {
+   "who": "Daisy Cooper",
+   "member_id": 4769,
+   "type": "Contribution",
+   "text": "The hon. Member may have heard my earlier intervention. He is absolutely right, and I agree with him wholeheartedly, that we have to shift the burden away from small businesses on to big online retailers. However, that could be undermined if all we do is shift the burden on to the big chains. House of Commons Library research says that small independent businesses are going to end up subsidising the big chains. Does he share my concern that this could be an unintended consequence and that the Government must look at it?",
+   "name": "Daisy Cooper",
+   "party": "LD",
+   "seat": "St Albans"
+  },
+  {
+   "who": "Adam Thompson",
+   "member_id": 5044,
+   "type": "Contribution",
+   "text": "I refer to Hansard for the discussions we had in Committee, but that did not come through in the evidence we heard. However, I respect the fact that the hon. Member has made that point, and I thank her for doing so. As we heard from the hon. Member for Mid Dorset and North Poole (Vikki Slade), another sector to benefit significantly from these measures is our local pubs. The fine folk frequenting the Sawley Junction in Long Eaton or the Bulls Head in Breaston in my constituency can rest easy that their locals are in safe hands. More generally, the measures we are bringing forward will reduce the tax burden on the hospitality sector, which is considered by many to be overtaxed. I am very glad that the Government have been able to offer something positive to the sector, which has been broadly forgotten for many years. Some of the Bill’s opponents have suggested that the removal of charitable relief from non-domestic rates for private schools will have a negative impact on the parents of privately educated children, so I was strongly heartened to hear from one of our experts during the scrutiny process in Committee. Professor Francis Greene, professor of work and education economics a",
+   "name": "Adam Thompson",
+   "party": "Lab",
+   "seat": "Erewash"
+  },
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Would the hon. Gentleman like to reflect on what he has just said, which is that the proportion of children going to private schools has stayed constant? Even the Government’s own analysis does not say that. It says that the number has stayed broadly constant, and in fact the proportion has come down.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Adam Thompson",
+   "member_id": 5044,
+   "type": "Contribution",
+   "text": "If I am incorrect, I stand corrected. My understanding from speaking to the experts is that the proportion has remained broadly consistent, but my apologies if that is incorrect. I thank the right hon. Member for his intervention. The Committee stage reaffirmed what many of us on the Government Benches already knew, which is that this Bill represents a common-sense modification of our tax policy that will support local small businesses. The Bill represents a core pillar of this Government’s goal to rebalance the scales away from large online giants in favour of local independents and towards the 94% of children educated in the state sector. I know that traders and families in Ilkeston, Long Eaton and the surrounding villages in my constituency will broadly benefit from these measures, and I am proud to support this Bill through its remaining stages unamended.",
+   "name": "Adam Thompson",
+   "party": "Lab",
+   "seat": "Erewash"
+  },
+  {
+   "who": "Sarah Bool (South Northamptonshire) (Con)",
+   "member_id": 5355,
+   "type": "Contribution",
+   "text": "I intend to confine my remarks to two specific amendments—amendments 3 and 10, on private schools and special educational needs and disabilities—that would delay the introduction of this tax hike so schools have more time to plan financially. Schools in my constituency have been punished by a series of tax rises since this Labour Government took office in July. By adding VAT to private school fees, and now by ending their charitable business rate relief status, Labour is attacking aspiration. These tax hikes will not hurt the wealthiest. It is the people who have scrimped and saved to send their children to a school of their choice who will be hit the worst. Labour seems to believe people should not have a choice over where they send their child to school, as is evident in their similarly misguided Children’s Wellbeing and Schools Bill, which is making its way through this place. Schools will close because of this tax hike, and I know this because it is happening in my constituency of South Northamptonshire. Carrdus school, founded in 1957, survived the cold war, the winter of discontent, the global financial crisis and three Labour Governments, yet it could not withstand the tax o",
+   "name": "Sarah Bool",
+   "party": "Con",
+   "seat": "South Northamptonshire"
+  },
+  {
+   "who": "Adam Thompson",
+   "member_id": 5044,
+   "type": "Contribution",
+   "text": "Will the hon. Member reflect on my comments a few moments ago about how the expert suggested that the Bill would have a marginal, negligible impact on the education sector?",
+   "name": "Adam Thompson",
+   "party": "Lab",
+   "seat": "Erewash"
+  },
+  {
+   "who": "Sarah Bool",
+   "member_id": 5355,
+   "type": "Contribution",
+   "text": "That may be the evidence that you have received in this instance, but I am giving the real-life proof. When I spoke to the headteacher about this, she said that the increase in national insurance on teacher costs, which are about 80% of outgoings, in combination with all the other things, has had a huge impact and the school will have to shut. It will be closing its doors at the end of July, which is a travesty.",
+   "name": "Sarah Bool",
+   "party": "Con",
+   "seat": "South Northamptonshire"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "Order. You said the word “you”, but I did not ask the question.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Sarah Bool",
+   "member_id": 5355,
+   "type": "Contribution",
+   "text": "My apologies, Madam Deputy Speaker; I would not dare say that about you. If the Government are intent on punishing my constituents’ aspiration for the future of their children, the least they could do is grant the concessions that the Conservatives are asking for in all our amendments, and specifically those in amendments 7 and 10. Amendment 7 would exempt private schools that wholly or partially provide education for children with special educational needs and disabilities who have not yet obtained an education, health and care plan, or whose needs are established but not so severe as to require one. SEND support in schools helps pupils with a level of need below that of an EHC plan. Restricting relief only to those settings that provide for the most severe needs is out of step with the rest of our education system. Many families, on not being successful in applying for an EHC plan, or indeed enduring huge waiting times for the local authority to put one in place, opt to send their children to a private school. We should not punish families who choose to do what is in the best interests of their children. Amendment 10 would delay the introduction of this tax hike for a further yea",
+   "name": "Sarah Bool",
+   "party": "Con",
+   "seat": "South Northamptonshire"
+  },
+  {
+   "who": "Dr Luke Evans",
+   "member_id": 4781,
+   "type": "Contribution",
+   "text": "My hon. Friend has hit the nail on the head: there is a timing issue. The Labour Government were explicit and up front on this tax rise in their manifesto, but they claim that they care about children’s education and welfare. If so, why would they implement the change halfway through an academic year? The hon. Member for Erewash (Adam Thompson) just turned around and said, “Well, it doesn’t matter because it’s 120 kids in the Member’s constituency.” Actually, it really does matter, because every single child’s education matters. Does my hon. Friend agree that even if those are small amounts at the margin, it is completely justifiable to delay the measure as the schools, the experts and the parents have asked for?",
+   "name": "Dr Luke Evans",
+   "party": "Con",
+   "seat": "Hinckley and Bosworth"
+  },
+  {
+   "who": "Sarah Bool",
+   "member_id": 5355,
+   "type": "Contribution",
+   "text": "I totally concur with my hon. Friend, who made the point powerfully. The impact goes beyond the 120 individual students to their parents’ arrangements and how they work. The headteacher of the school has a husband who was also a teacher, and they face a huge impact in respect of what they will do with their children and whether they can manage to make new school place arrangements. This policy is terribly misguided. We really need to think about what we are doing. It is a travesty that we will lose a school.",
+   "name": "Sarah Bool",
+   "party": "Con",
+   "seat": "South Northamptonshire"
+  },
+  {
+   "who": "Chris Vince (Harlow) (Lab/Co-op)",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "Will the hon. Member give way?",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Sarah Bool",
+   "member_id": 5355,
+   "type": "Contribution",
+   "text": "No, I will keep going if the hon. Member does not mind. I do not want to see any other schools close or any other children suffer as a result of this plan. I hope that colleagues across the House will join Conservative Members in supporting our amendments.",
+   "name": "Sarah Bool",
+   "party": "Con",
+   "seat": "South Northamptonshire"
+  },
+  {
+   "who": "Paul Davies (Colne Valley) (Lab)",
+   "member_id": 5317,
+   "type": "Contribution",
+   "text": "I am pleased to speak in favour of the Bill, which is a significant piece of legislation that aims to reform the non-domestic rating system in England. I welcome the Bill’s primary objective of creating a fairer and more balanced approach to non-domestic rating. By increasing the multipliers for large businesses, we will ensure that those entities contribute their fair share to the local economy. That change is particularly important as it addresses the disparity between large corporations and smaller businesses, which often struggle to compete under the current system. The introduction of lower multipliers for retail, hospitality and leisure properties is a much needed relief for those sectors, which have faced significant challenges, especially in the wake of the covid-19 pandemic. By reducing the tax burden, the Bill aims to support recovery and growth, ultimately benefiting local communities and economies such as the hospitality and retail sector in my constituency. One of the most notable aspects of the Bill is the removal of charitable relief for private schools. Although private schools play a role in our education system, it is essential to recognise that they operate as bu",
+   "name": "Paul Davies",
+   "party": "Lab",
+   "seat": "Colne Valley"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "There are problems with all taxes, which is why we end up with a blend of taxes. For businesses, there is tax on payroll, sales, profits and property. However, business rates are a particularly difficult and unpopular tax because they represent a fixed cost on the business that does not vary when the economy goes up or down, or according to the particular company’s success or growth, or a contraction in its sales or profits. Over the years, I have heard many times from businesses in Alton, Petersfield, Horndean, Clanfield, Liss and elsewhere in East Hampshire about a desire for business rates reform. I am sure that a lot of small business owners were very attracted to what they heard from the Labour party—that it would to scrap business rates altogether. The Labour Government do not say that any more, but they still want us to believe that they are undertaking some great reform and cutting rates for our high street businesses. I am afraid it is all smoke and mirrors, because for those businesses, including the ones name-checked by the hon. Member for Erewash (Adam Thompson), the big effect that they feel right now is the cut in the relief for retail and hospitality business—not a s",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Dr Luke Evans",
+   "member_id": 4781,
+   "type": "Contribution",
+   "text": "My right hon. Friend is making an excellent observation on the impact of these costs. We know from the surveys that 75% of businesses will pass on the costs to the very people who use them. They will have an inflationary impact on the public. Does he agree that it is imperative that we think about that?",
+   "name": "Dr Luke Evans",
+   "party": "Con",
+   "seat": "Hinckley and Bosworth"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "As ever, my hon. Friend is spot on. In the end, there is no such thing as a tax on business—you cannot tax a business; you can only tax people. Any tax on business is ultimately a tax on its employees, its customers or its owners. Before somebody jumps up and starts talking about the owners, the owners are often pension funds who are then paying out the pensions for our mums and dads. My point is that these business rate increases will mean higher costs for bricks-and-mortar companies as well, which come on top of all the other changes, in particular the hike in employer national insurance contributions. And this from a Government who yet again this week keep talking about their growth agenda. It makes me wonder what is actually written in that growth agenda. Overall, the effect of all these changes—we need only look at the Budget Red Book—is that the revenue from business rates is projected to increase from £32 billion this financial year to almost £40 billion in five years’ time. It is a massive further tax raid on business, and a brake on employment and economic growth.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Daisy Cooper",
+   "member_id": 4769,
+   "type": "Contribution",
+   "text": "The right hon. Gentleman is giving an impassioned speech about the case for an overhaul of the business rates system. Why did the previous Conservative Government never get around to doing that?",
+   "name": "Daisy Cooper",
+   "party": "LD",
+   "seat": "St Albans"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Well, I did refer at the start of my speech to the calls over the years for reform. I also said that there are problems with all taxes we levy on individuals or on business and that is why we end up with a blend. What I am talking about now is the fact that this Government are hiking up the total amount that will be taken in business rates, which will fall on major employers and then be felt in our unemployment rate. The Government are trying to do this thing of saying, “We are cutting stuff,” but they are not, because for all of the companies we have heard name-checked, reducing the relief will outweigh the effect of the multiplier. On top of that, we have a revaluation coming up in the near future. That is probably going to mean an increase in rateable values that will compound those higher multiples. For all those reasons, new clause 2 is both important and a reasonable ask. It says that after a period of time, we should review the real-life effect of these changes and give the Government an opportunity to change course and get back to something that looks a bit like a growth agenda. I turn briefly to the effect of these changes on independent schools. We have debated in the Cha",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Deirdre Costigan (Ealing Southall) (Lab)",
+   "member_id": 5075,
+   "type": "Contribution",
+   "text": "Thank you for allowing me to take part in this debate, Madam Deputy Speaker. Having been a member of the Bill Committee—my first Bill Committee in this place—I appreciate being able to contribute on Report in the Chamber. Southall town centre is well known the world over as a great place to shop for an Asian wedding, with stunning lehengas, saris and sherwani on sale all down the Broadway, King Street and South Road. During the election campaign, I vividly recall seeing two clothes shop workers eating their lunchtime rotis behind the counter. When I commented that business must be good, they both said no. They said that a few years ago, they would never have had time for lunch, and would have worked right up until closing as they were so busy. They told me that they were suffering from being undercut by online retailers because they were paying through the nose for business rates, facing blitz robberies with no police around to respond, and constantly having to chase bigger businesses for payments. It is ironic that the previous Government have suddenly decided they back local businesses after 14 years of ignoring their pleas. In fact, the only businesses they supported were the ra",
+   "name": "Deirdre Costigan",
+   "party": "Lab",
+   "seat": "Ealing Southall"
+  },
+  {
+   "who": "Mrs Sureena Brackenridge (Wolverhampton North East) (Lab)",
+   "member_id": 5152,
+   "type": "Contribution",
+   "text": "I, too, served on the Public Bill Committee and would like to put on record my thanks to all the witnesses who attended and gave evidence. The Bill shines a light on how politics is about choices. At the general election, we promised a Labour Government that would make different choices: choices rooted in fairness and a commitment to levelling the playing field. Today, the Bill is a powerful example of how we are going to deliver on that promise. This is a Bill about the politics of equity. It is about ensuring that everyone—from small business owners to schoolchildren in Wolverhampton North East—has a fairer chance to succeed. For too long, the scales have been tipped in favour of the largest corporations, online giants and private schools, while businesses and state schools have been left to shoulder an unfair burden. The Bill changes that. We are delivering a permanent reduction in business rates for the hard-working small businesses that are the backbone of Wolverhampton North East. My constituency does not include a city centre, but it does contain plenty of brilliant small businesses: fantastic cafés, restaurants, beauty and hair salons, a micropub, larger pub chains and fami",
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East"
+  },
+  {
+   "who": "Melanie Ward (Cowdenbeath and Kirkcaldy) (Lab)",
+   "member_id": 5240,
+   "type": "Contribution",
+   "text": "Conservative Members do not like to be reminded of the fact that six months ago our Labour Government inherited a £22 billion black hole from their 14 years of Tory rule— [Interruption] —as they are demonstrating now. It is, however, a fact. With that inheritance from the Tories, our new Government are taking much-needed action such as that on which we are voting today. In particular, they are taking action to end tax breaks for private schools across the UK, and it is the education side of this Bill on which I will now focus. Many of us are here today partly because of the inspiration, teaching and support that an incredible teacher gave to us. I want to pay tribute to one of my teachers at Hermitage academy, which is a state school. Mrs McKeirnan was my modern studies teacher, and a fine job she did too. I fondly remember writing essays about the reasons for Labour’s election win in 1997; they obviously had an impact. However, while we had skilful and energetic teachers like Mrs McKeirnan, what was less satisfactory was that the school roof often leaked when it rained, and sometimes the windows blew in during the winter. That continued until the election of Labour in both Westmin",
+   "name": "Melanie Ward",
+   "party": "Lab",
+   "seat": "Cowdenbeath and Kirkcaldy"
+  },
+  {
+   "who": "Victoria Collins (Harpenden and Berkhamsted) (LD)",
+   "member_id": 5201,
+   "type": "Contribution",
+   "text": "I absolutely agree that we need to make sure that there is equity in education. The hon. Lady says that those with the broadest shoulders will carry the burden, but I have a family in Berkhamsted who worked really hard to put their son into private education. Following the changes, Seb has had to change schools after just two years, because the family cannot afford it any more. I make a plea on behalf of the children affected by this policy, because it should be about lifting all of us up, not bringing anyone down.",
+   "name": "Victoria Collins",
+   "party": "LD",
+   "seat": "Harpenden and Berkhamsted"
+  },
+  {
+   "who": "Melanie Ward",
+   "member_id": 5240,
+   "type": "Contribution",
+   "text": "All parents work hard to support their families, and all parents want the very best for their children. Hon. Members would do well to remember that. The additional £1.8 billion a year, which will be raised by ending tax breaks for private schools, allows us to increase per-pupil funding in real terms and helps to deliver the record budget settlement of an extra £4.9 billion for the Scottish Government. I find it strange that the Conservative party, which in the last Parliament promised to level up the country, should be so opposed to measures that will do exactly that. Indeed, the Leader of the Opposition said that her first act as Prime Minister—I am not sure how many Conservative Members actually believe that the day will ever come—would be to restore tax breaks for private schools. She is obviously not here to defend that statement, but in recent months I have heard little from the Conservatives about what they would cut to pay for that policy. Would they make teachers redundant? Would they cancel breakfast clubs? Would they cut mental health support and careers advice? At the last election, I was proud to stand on a manifesto that promised to break down the barriers to opportun",
+   "name": "Melanie Ward",
+   "party": "Lab",
+   "seat": "Cowdenbeath and Kirkcaldy"
+  },
+  {
+   "who": "Mr Mark Sewards (Leeds South West and Morley) (Lab)",
+   "member_id": 5166,
+   "type": "Contribution",
+   "text": "I am grateful for this opportunity to speak in favour of this Bill, having been involved in its scrutiny at most of its stages. I join my hon. Friend the Member for Wolverhampton North East (Mrs Brackenridge) in thanking all the witnesses who came forward to give evidence to the Bill Committee. I thank them for the evidence they gave and for the useful insight from their respective sectors. We on the Government Benches are clear that small businesses in the retail, hospitality and leisure sectors should pay lower business rates. The Bill establishes two new multipliers that are lower than the current standard business rates multiplier. In order to pay for these changes, we must ask larger businesses to contribute their fair share so that our smaller businesses can thrive. That is because we on this side of the House know that when we have tax cuts, we need to pay for them with revenue-raising measures—something the Opposition have not quite realised yet. This is a good mechanism that the Government are deploying to save our high streets, to incentivise local investment and to support entrepreneurship. As all Members will know, high streets are essential to local towns and should be",
+   "name": "Mr Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "The hon. Gentleman is right to say that there is a challenge in making sure that things are fair, and we all support a level playing field between the online world and bricks-and-mortar businesses, including in our town centres. There is a thing called the digital services tax, which was conceived while we were in government. Will he say a word about the relative advantages and disadvantages of trying to go after online retailers with business rates changes, which will also affect all manner of other organisations, including bricks-and-mortar retailers, and doing it a different way through a more direct type of tax?",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Mr Sewards",
+   "member_id": 5166,
+   "type": "Contribution",
+   "text": "I return to the point I made earlier. We know that we have to support these smaller businesses—these bricks-an-mortar businesses, as the right hon. Gentleman calls them—and the only way we are going to pay for this is by finding the money from elsewhere. We have chosen to cut business rates for smaller businesses, and we are choosing to raise the revenue from the larger businesses and corporations that have been getting away without paying their fair share for far too long.",
+   "name": "Mr Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley"
+  },
+  {
+   "who": "Daisy Cooper",
+   "member_id": 4769,
+   "type": "Contribution",
+   "text": "The hon. Member will recognise that it is the Government’s intention to reduce business rates for the smallest businesses, but as I have mentioned a couple of times in this debate, House of Commons Library research shows that if we compare this year to two years’ time, small businesses will end up 80% worse off, whereas the big chains will end up 40% better off. I believe that this is an unintended consequence. Will he urge the Minister, as I am doing, to address that point in his wind-up?",
+   "name": "Daisy Cooper",
+   "party": "LD",
+   "seat": "St Albans"
+  },
+  {
+   "who": "Mr Sewards",
+   "member_id": 5166,
+   "type": "Contribution",
+   "text": "I am grateful to the hon. Member for that contribution. Of course I have read the House of Commons Library research into this. I also took time to listen to all the witnesses who came forward in the Bill Committee, and they made it clear that the changes in this Bill will benefit small businesses in the long term. I am quite happy with the evidence that they provided to support the changes that the Bill makes.",
+   "name": "Mr Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley"
+  },
+  {
+   "who": "Daisy Cooper",
+   "member_id": 4769,
+   "type": "Contribution",
+   "text": "rose —",
+   "name": "Daisy Cooper",
+   "party": "LD",
+   "seat": "St Albans"
+  },
+  {
+   "who": "Mr Sewards",
+   "member_id": 5166,
+   "type": "Contribution",
+   "text": "I will move on to the next part of my speech, but I am happy to take any further interventions that might be relevant to that point. I am going to talk about the amendments now. I think new clauses 1 to 3 are unnecessary. The Government will monitor the effects of the new multipliers and, as we know, they will show what those effects have been in Budget 2025. They will do the same in all future fiscal statements, so the monitoring is already going to take place. The hon. Member refers to the impact these changes might have in two years’ time, and the Government will comment on that in all future fiscal statements. Amendments 1 to 6 are noble, but they would significantly affect and reduce the support that the Bill is able to provide to retail, hospitality and leisure businesses.",
+   "name": "Mr Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley"
+  },
+  {
+   "who": "Victoria Collins",
+   "member_id": 5201,
+   "type": "Contribution",
+   "text": "The hon. Gentleman mentions leisure businesses, and I have been contacted by several soft play facilities. They talk about the importance of play to children’s wellbeing, but they are not sure whether they will be entitled to the lower rate. Even Parliament’s experts are not sure. Will the hon. Gentleman support us in calling on the Government to clarify that soft play will be included in those lower business rates?",
+   "name": "Victoria Collins",
+   "party": "LD",
+   "seat": "Harpenden and Berkhamsted"
+  },
+  {
+   "who": "Mr Sewards",
+   "member_id": 5166,
+   "type": "Contribution",
+   "text": "Yes, it would be helpful if the Minister could provide clarity. As someone who uses soft play— [ Laughter. ] Not personally, enjoyable though it is. I am sure that my sons Oscar and Arthur, who is six months old and not quite ready to take advantage of soft play, will also be keen to know, so perhaps the Minister could offer some clarity in his closing remarks. Although amendments 1 to 6 are noble, this Bill is about the high street, and we know just how much our high streets have suffered. This does not mean, for one second, that we are backing down from the challenges facing manufacturing businesses, which amendments 1 to 6 aim to help with. The Budget announced over £3 billion to support the manufacturing sector, including £520 million for a life sciences innovative manufacturing fund, but the changes to business rates in this Bill are primarily about supporting our high streets. As someone who was teaching on this date a year ago, I am particularly interested in clause 5, which removes the charitable relief enjoyed by some private schools. I welcome this, along with the Budget’s broader measures to remove tax breaks from private schools so that we can fund state education prope",
+   "name": "Mr Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "It is worth reflecting that the education budget goes up every year. It does not go up because there has been a change to business rates, VAT or anything else, which is the logic we sometimes hear from Labour Members. If the revenue from those things is slightly smaller than expected, does that mean less money will go into education? Of course not. We keep hearing about hiring 6,500 more teachers. Does the hon. Gentleman know how many more teachers were hired in the last Parliament?",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Mr Sewards",
+   "member_id": 5166,
+   "type": "Contribution",
+   "text": "I heard the right hon. Gentleman put that question to the Minister in last Monday’s Westminster Hall debate but, just to go back to his original point—I will come to the 6,500 new teachers—we are deliberately taking these decisions in order to increase the amount of money that state schools have to teach the 94% of students who enjoy state school education. As a basic principle, all Members of this House can get behind the idea that it is a basic function of the state to provide a well-funded, excellent state school place for all students, whether or not parents choose to take advantage of it. That is exactly what we are doing with this Bill and the other measures we have announced.",
+   "name": "Mr Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley"
+  },
+  {
+   "who": "Dr Luke Evans",
+   "member_id": 4781,
+   "type": "Contribution",
+   "text": "Talking of basic principles, does the hon. Gentleman therefore believe it is right to tax education—yes or no?",
+   "name": "Dr Luke Evans",
+   "party": "Con",
+   "seat": "Hinckley and Bosworth"
+  },
+  {
+   "who": "Mr Sewards",
+   "member_id": 5166,
+   "type": "Contribution",
+   "text": "I believe it is right to tax businesses. Private schools are businesses, and we are choosing to levy the tax on businesses. We are not choosing to levy the tax on state education, because as I was just setting out, it is imperative on us to make sure there is an excellent and well-funded place in state-funded education for all students, should parents choose to take advantage of it. It must be remembered that not all parents have the choice of private or state education. The reason why 94% of students are in state education is because that choice does not exist for most parents in this country. That is why we will take the necessary action to fund state schools properly. I will make some progress because I can see that Madam Deputy Speaker would like me to—oh, she is being quite generous with her time. Thank you, Madam Deputy Speaker. In which case, I will take more interventions. Some Members have raised concerns about whether the legislation adversely affects the private schools that are primarily concerned with teaching students with EHCPs. I am pleased to report that it does not. The Government have clearly set out that private schools that teach 50% or more students with EHCPs",
+   "name": "Mr Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I thought it very sensible for the hon. Member to clarify that it is young Arthur, not himself, who enjoys soft play. I call the final speaker, Chris Vince.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Chris Vince (Harlow) (Lab/Co-op)",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "As I have about two hours to give this speech, I want to start by going back to the summer of 1983— [ Laughter. ] I have just told everyone how old I am, have I not? Thank you, Madam Deputy Speaker, for the opportunity to speak in this debate. I also thank the Minister for all his work on the Bill. I genuinely want to thank all Members from across the House too for their contributions in Committee. I thought the way in which the Bill was discussed in Committee and the contributions from both sides were well thought out and, as I have mentioned before, respectful—I say that in advance of any interventions. I also want to thank all the people who came forward to provide evidence to the Committee. I am honoured to rise to speak on Report on behalf of my constituency of Harlow. First—I promise I will not take two hours—I think everybody in the Chamber will forgive me for taking the opportunity to thank and praise the hard-working teachers and school support staff across my constituency for the hard work they do day in, day out to support young people. I had a wonderful opportunity to visit Mark Hall academy in my constituency last week and saw the incredible work that its staff are doi",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Sarah Bool",
+   "member_id": 5355,
+   "type": "Contribution",
+   "text": "Will the hon. Gentleman give way?",
+   "name": "Sarah Bool",
+   "party": "Con",
+   "seat": "South Northamptonshire"
+  },
+  {
+   "who": "Chris Vince",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "Yes, I certainly have the time.",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Sarah Bool",
+   "member_id": 5355,
+   "type": "Contribution",
+   "text": "The hon. Gentleman mentioned that private schools could absorb the cost. The headteacher of my Carrdus school told me that they could not absorb the cost. The school has tried everything possible to stay open, but it cannot. One just cannot make this claim that these schools can absorb the cost; they cannot.",
+   "name": "Sarah Bool",
+   "party": "Con",
+   "seat": "South Northamptonshire"
+  },
+  {
+   "who": "Chris Vince",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "I thank the hon. Lady for her comments. Having spoken to headteachers in private schools, I know that that is what some of them are looking to do. I recognise that may not be the case in that situation. As I said on Second Reading, ultimately, we want all schools to be at such a standard that parents do not need to choose to send their children to private school. Every business in the UK is required to pay VAT. The “Cambridge Dictionary” definition of a business is a particular company that buys and sells goods and services. Parents pay for the service of their children’s teachers, and they pay for their children to go to private school.",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Blake Stephenson (Mid Bedfordshire) (Con)",
+   "member_id": 5100,
+   "type": "Contribution",
+   "text": "Does the hon. Gentleman think that universities are companies? If he does, would he advocate imposing VAT on fees for university education?",
+   "name": "Blake Stephenson",
+   "party": "Con",
+   "seat": "Mid Bedfordshire"
+  },
+  {
+   "who": "Chris Vince",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "I thank the hon. Gentleman for his question, but I think that we have had a very good debate on higher education today. It is interesting that Conservative Members want to talk about university and higher education when it is in an awful state. Clearly, we need to look at how private schools are funded. [Interruption.] I am being a teacher, sorry. Members can carry on rambling; this is not a school. The second part of my speech is about our high streets. I think we can all agree about the importance of supporting our high streets, while also recognising the changing nature of both retail and those high streets. The Bill is designed to decrease tax on high street businesses and make online retailers pay their fair share. Very briefly, in its evidence, the Co-op said that the Bill would benefit “92% of our estate”, which is 98% of retail stores, and described it as having “a significant impact”. The representative of the Association Of Convenience Stores described the Bill as very helpful, and “very positive for the sector, but…also very positive for the places where they trade.” –– [ Official Report, Non-Domestic Rating (Multipliers and Private Schools) Public Bill Committee, 11 Dec",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the shadow Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "David Simmonds (Ruislip, Northwood and Pinner) (Con)",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "It appears that the attraction of business rates has not been sufficient to draw as many speakers to the Chamber as some debates, but I am none the less grateful to all Members for their contributions to today’s debate. Just a few months ago, we exposed a £2.4 billion black hole in the local government budget: £3.7 billion of additional spending was announced, with only £1.3 billion of funding to pay for it. Over the weeks since the Budget, we have seen pensioners, businesses of all sizes and types, schools, landlords and tenants all facing additional costs to begin to backfill the consequences of those political choices. With the Bill before the House tonight, those tax hikes are heading for the business rates bill of companies and organisations, large and small, on high streets the length and breadth of the country. We should not pretend that this is an essential step. Our councils are acknowledged as the most efficient part of the public sector. They responded magnificently to the consequences of the financial crash in the late 2000s, with rising resident satisfaction against a backdrop of increasingly challenged budgets, but the decisions made by this new Government, in particu",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "Dr Luke Evans",
+   "member_id": 4781,
+   "type": "Contribution",
+   "text": "We have heard categorically from Labour that private schools are businesses. They see themselves as part of the community and as charities. Now that they are seen as businesses, they will act as businesses and will have to look to raise revenue from all their sports facilities and anything else that they willingly gave away to the state system. Private schools work with the state system and ensure that there is support for the state system—that is the community basis of what schooling is about. Does my hon. Friend share my concern that defining them as businesses will be a big problem?",
+   "name": "Dr Luke Evans",
+   "party": "Con",
+   "seat": "Hinckley and Bosworth"
+  },
+  {
+   "who": "David Simmonds",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "My hon. Friend highlights a point that many of us will have heard from our local state schools: the fact that they are in sharing arrangements with private schools to access facilities. They are concerned that, as the cost drivers introduced by the Government and the Budget increase the pressure on those schools, they may lose the free or low-cost access they have.",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "Lewis Cocking (Broxbourne) (Con)",
+   "member_id": 5050,
+   "type": "Contribution",
+   "text": "I had a meeting with a state school in my constituency that said the changes will be damaging because it gets a grant from a private school, which will have to be cut to deal with the impact of VAT. That state school, which is in a genuinely working-class community, will be £200,000 a year worse off under this policy. Does my hon. Friend agree that that is terrible?",
+   "name": "Lewis Cocking",
+   "party": "Con",
+   "seat": "Broxbourne"
+  },
+  {
+   "who": "David Simmonds",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "I agree that it is terrible, but sadly it is typical of the consequences introduced into the system by the actions of the Government.",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "Melanie Ward",
+   "member_id": 5240,
+   "type": "Contribution",
+   "text": "Does the hon. Gentleman agree that state schools should not have to go with a begging bowl to private schools to ask to borrow their facilities? They should be properly funded in their own right.",
+   "name": "Melanie Ward",
+   "party": "Lab",
+   "seat": "Cowdenbeath and Kirkcaldy"
+  },
+  {
+   "who": "David Simmonds",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "Having served as a governor in three different state schools during my local government career, I know that many state schools have facilities that they are very happy to share—some have swimming pools, some have libraries, some have adult education facilities. The sharing of facilities among schools of all kinds is normal, but the Bill introduces additional pressure that will take away access to those facilities. Isolated communities in particular, which benefit most from that access, risk losing it. The basic fact that schools will end up net worse off demonstrates that, contrary to what has been said, this policy fails the basic test of equity and efficiency. It harms some people in our country, with no corresponding benefit to anybody else. Let me address the argument proposed by a number of Members that the consequences are marginal. We heard a lot of evidence from different people. The hon. Member for Erewash (Adam Thompson) referred to an academic who has built a career writing tracts attacking the private education sector. That is not somebody I consider to be an expert. I will take the word of mums and dads, the Independent Schools Council, institutions that represent peop",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "The Minister for Local Government and English Devolution (Jim McMahon)",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "Before I speak to the amendments tabled by the hon. Members for Mid Dorset and North Poole (Vikki Slade), for Ruislip, Northwood and Pinner (David Simmonds) and for St Albans (Daisy Cooper), I thank Members from across the Chamber for their contributions and for the constructive spirit, by and large, in which they have engaged with the Bill since its introduction. Although they are not always seen, with evidence sessions and Committee stages not always being prime-time TV viewing—it is a curse, but that is the way it is—those deliberations are nevertheless essential. The contributions that were made by Members from all parts of the House in probing and scrutinising the Bill were valuable, and I hope that all Members found them interesting. I will begin by speaking to the amendments concerning the impact of the new multipliers. New clause 1, tabled by the hon. Member for Mid Dorset and North Poole, would require the Secretary of State to review the impact of clauses 1 to 4 on businesses, high streets and economic growth within six months of those clauses coming into effect. The hon. Members for Ruislip, Northwood and Pinner and for St Albans have proposed two other new clauses. New ",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Daisy Cooper",
+   "member_id": 4769,
+   "type": "Contribution",
+   "text": "The Minister has been here throughout the debate, and he will have heard a number of my interventions. I accept his point that those figures will not be published until Budget 2025. May I ask if he is in a position to give a cast-iron guarantee that small independents, with a small number of hereditaments, will not be subsidising organisations that have many, such as the big chains?",
+   "name": "Daisy Cooper",
+   "party": "LD",
+   "seat": "St Albans"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "I did hear the hon. Lady, and I think we all accept the principle of needing to target or get support to those important small businesses, which we can all identify in our constituencies. With respect, I think there was a degree of conflation with the temporary reliefs brought in during covid, which the previous Government did not account for, that were always going to come to an end. Our challenge was how to reconcile ongoing support for the high street with a permanent relief in law so that businesses know exactly where they are and can plan ahead with certainty. The choice we made was far fairer: to target higher-value properties of more than £500,000, which are generally—but, I accept, not entirely—the large-footprint warehouse and distribution premises used by the big online retailers. The shadow Minister used the example of the stationery provider in my constituency. It is an online retailer, so it ought to be paying more. Why? Because for a long time—and we have all heard this from our constituents and industry—we have needed a rebalancing from online to on-street and from out-of-town to in-town, and that is exactly what this targeting does. It was never intended to be a con",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Daisy Cooper",
+   "member_id": 4769,
+   "type": "Contribution",
+   "text": "I completely accept that point, and I am very sympathetic to the fact that the Minister inherited a sticking-plaster system from the previous Government. If during the course of this year his Government’s own analysis proves what I have discovered from the House of Commons Library research, will he ensure that the Government at least do not rule out introducing a new small business relief in a targeted way to support such small independent businesses?",
+   "name": "Daisy Cooper",
+   "party": "LD",
+   "seat": "St Albans"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "As with all tax policies, we will keep this under review, and I say that in a very general sense. We absolutely believe that the businesses that are the backbone of our high streets, town centres and communities would, were it not for these measures, go bust. They would not be viable and they would feel the heat very quickly. However, because of the measures we are taking, businesses will be able to plan with certainty for the future, knowing that they have a Government acting in partnership with them in that enterprise.",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "David Simmonds",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "I appreciate the Minister’s point, but clearly no Parliament binds its successors, so every Parliament must make its own decisions. A lot of Members have asked about small business rate relief. It would be helpful to have some certainty from the Dispatch Box about the Government’s intentions on that. Can he give us that certainty tonight?",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "I can certainly give the certainty that we are providing in law for a permanent relief for retail, hospitality and leisure businesses, and we will fund that through a very targeted additional payment for properties of more than £500,000, which will primarily be the online retailers occupying big warehouses and distribution centres. It is a promise to shift from the online to the on-street, as I talked about. Before we move on to vote on the amendment, I will make some progress. The House will know that tax policy and legislation are not subject to the same requirement for the impact assessments that accompany non-fiscal policy decisions. Nevertheless, the Treasury is committed to publishing an analysis of the effects of any multipliers at Budget 2025, which we hope will go some way to reassuring hon. Members that we will be considering the impacts of this policy carefully before the new rates are set. The Government will continue to keep the policy and its effects under review as a matter of course, because we believe it is good practice to do that for all taxes. However, we want to make it clear to hon. Members that the Government have heard them, and we understand the importance ",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Richard Tice (Boston and Skegness) (Reform)",
+   "member_id": 5161,
+   "type": "Contribution",
+   "text": "Will the Minister give way?",
+   "name": "Richard Tice",
+   "party": "Reform",
+   "seat": "Boston and Skegness"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "I do not have time for any more interventions. Private schools that benefit from the existing rates exemption for properties that are wholly used for the training or welfare of disabled people will continue to do so. The majority of children in England with special educational needs, with or without an EHCP, have their needs met in the state sector already. The Government’s ambition is for all children and young people with special educational needs or a disability to receive the right support to succeed in their education as they move into adult life. As Members know, all schools are required to follow the Equality Act 2010, which includes fostering and promoting an environment that encourages respect and tolerance of children and families of all faiths and of none. We have listened carefully to arguments relating to exempting faith schools from the Bill, and we have decided that a carve-out for faith schools or schools with other special characteristics cannot be justified. For those reasons, we are unable to accept amendment 8. Finally, amendment 10 would delay the removal of charitable rates relief from private schools by one year to April 2026. To eliminate barriers to opportu",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "I beg to move, That the Bill be now read the Third time. I take this opportunity to acknowledge all who have contributed to the Bill’s passage through this House, particularly my private office team, for the support that they have offered during this process, officials in my Department, for the outstanding work that they have done, and colleagues in the Department for Education and the Treasury, as well as Clerks of the House, for supporting the process of this Bill. The Bill honours the Government’s manifesto pledge to end business rates charitable rate relief for private schools in England and to fundamentally reform the business rates system. We are kickstarting this endeavour through the introduction of lower tax rates for retail, hospitality, and leisure properties. I thank all Members who contributed to the evidence sessions, the Committee stage and today’s debate. I hope, even though there were disagreements on parts of the new clauses and on the amendments, that there is at least an acknowledgment that we have gone a long way to ensure that we get to the heart of what this Bill is intended to do when it comes to the high street and our town centres. In the end, whatever the",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I call the shadow Secretary of State.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Kevin Hollinrake (Thirsk and Malton) (Con)",
+   "member_id": 4474,
+   "type": "Contribution",
+   "text": "I thank the Minister, and indeed my shadow Ministers, the other Opposition spokespeople and all parliamentarians who have helped with the passage of the Bill, as well as the Clerks and officials—not that I would like to see the Bill progress any further. Aristotle, in his book “Politics”, over 2,000 years ago— [ Interruption. ]",
+   "name": "Kevin Hollinrake",
+   "party": "Con",
+   "seat": "Thirsk and Malton"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "Order!",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Kevin Hollinrake",
+   "member_id": 4474,
+   "type": "Contribution",
+   "text": "Over 2,000 years ago, Aristotle talked about deviant government. Alongside tyranny, he placed democracy. He said the risk is that, sooner or later, a Government will come along who represent only their own interests and those of their supporters, and that that Government will pursue the politics of envy. Let us see who the Minister’s supporters are. They are not the 12.6 million pensioners in this country, if we judge by the winter fuel allowance; not the 89,500 farmers whose livelihoods will be damaged by the family farm tax; not the 5 million businesspeople who will be damaged by the changes to business property relief, who employ 14 million people and pay £200 billion a year in taxes; not those people who live in rural areas; and not the families of the 550,000 young people who are in private and independent education. According to the Institute for Fiscal Studies—this is not scaremongering —90,000 of them may go back into the state sector as a result of the Government’s choices. The Government have the gall to say that the fact that business rates or VAT do not apply to school fees is a tax break. It is no more a tax break than there being no VAT on housing, children’s clothes ",
+   "name": "Kevin Hollinrake",
+   "party": "Con",
+   "seat": "Thirsk and Malton"
+  }
+ ],
+ "fetched": "2026-10-21T20:24:45Z"
+}

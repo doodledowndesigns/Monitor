@@ -1,0 +1,743 @@
+{
+ "ext_id": "5464194E-3C69-4173-B4BA-5F57B9F7B471",
+ "date": "2026-09-09",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Education and Skills Reform",
+ "parents": [
+  "Commons Chamber"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2026-09-09/debates/5464194E-3C69-4173-B4BA-5F57B9F7B471/EducationAndSkillsReform",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 4048
+  },
+  {
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education",
+   "member_id": 4263
+  },
+  {
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks",
+   "member_id": 4780
+  },
+  {
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education",
+   "member_id": 5033
+  },
+  {
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood",
+   "member_id": 4510
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East",
+   "member_id": 5152
+  },
+  {
+   "name": "Greg Smith",
+   "party": "Con",
+   "seat": "Mid Buckinghamshire",
+   "member_id": 4778
+  },
+  {
+   "name": "Mark Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley",
+   "member_id": 5166
+  },
+  {
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon",
+   "member_id": 5216
+  },
+  {
+   "name": "Dave Robertson",
+   "party": "Lab",
+   "seat": "Lichfield",
+   "member_id": 5126
+  },
+  {
+   "name": "Sir Ashley Fox",
+   "party": "Con",
+   "seat": "Bridgwater",
+   "member_id": 5101
+  },
+  {
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow",
+   "member_id": 5237
+  },
+  {
+   "name": "Suella Braverman",
+   "party": "Reform",
+   "seat": "Fareham and Waterlooville",
+   "member_id": 4475
+  },
+  {
+   "name": "Oliver Ryan",
+   "party": "Lab/Co-op",
+   "seat": "Burnley",
+   "member_id": 5135
+  },
+  {
+   "name": "Adam Dance",
+   "party": "LD",
+   "seat": "Yeovil",
+   "member_id": 5191
+  },
+  {
+   "name": "Dame Chi Onwurah",
+   "party": "Lab",
+   "seat": "Newcastle upon Tyne Central and West",
+   "member_id": 4124
+  },
+  {
+   "name": "Ayoub Khan",
+   "party": "Ind",
+   "seat": "Birmingham Perry Barr",
+   "member_id": 5357
+  },
+  {
+   "name": "Adam Thompson",
+   "party": "Lab",
+   "seat": "Erewash",
+   "member_id": 5044
+  },
+  {
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole",
+   "member_id": 5327
+  },
+  {
+   "name": "Dr Lauren Sullivan",
+   "party": "Lab",
+   "seat": "Gravesham",
+   "member_id": 5269
+  },
+  {
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire",
+   "member_id": 5096
+  },
+  {
+   "name": "Sam Rushworth",
+   "party": "Lab",
+   "seat": "Bishop Auckland",
+   "member_id": 5108
+  },
+  {
+   "name": "Shockat Adam",
+   "party": "Ind",
+   "seat": "Leicester South",
+   "member_id": 5120
+  },
+  {
+   "name": "Clive Efford",
+   "party": "Lab",
+   "seat": "Eltham and Chislehurst",
+   "member_id": 165
+  },
+  {
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate",
+   "member_id": 5140
+  },
+  {
+   "name": "Rosie Wrighting",
+   "party": "Lab",
+   "seat": "Kettering",
+   "member_id": 5331
+  },
+  {
+   "name": "Connor Naismith",
+   "party": "Lab",
+   "seat": "Crewe and Nantwich",
+   "member_id": 5273
+  },
+  {
+   "name": "Alison Hume",
+   "party": "Lab",
+   "seat": "Scarborough and Whitby",
+   "member_id": 5254
+  },
+  {
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock",
+   "member_id": 5056
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "Before I call the Secretary of State, I remind Members that statements are an opportunity for the Secretary of State to make a statement and for Members to ask questions, not make statements of their own.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Secretary of State for Education (Lucy Powell)",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "With permission, Madam Deputy Speaker, I will make a statement to update the House on the Government’s education and skills reforms. It is a real privilege to address Members for the first time as Education Secretary—without question, the best job in Government. I got a reminder of why this is such a special job when I went to GCSE results day in Harper Green school in Bolton. While I was with Micah as he opened his exceptional results, his mum beamed and gave him a massive hug. She then gave me one, too—she was thanking me for his success. That is the power of education: a source of pride and hope, and a sense of achievement and confidence. I was a proud mum myself on GCSE results day this year, and I know how much hard work goes in and how committed our teachers and staff are. However, results day is not like that for every child. Too many are locked out of opportunity and left behind, which is why we are leading an education revolution. We have real strengths to build on; as yesterday’s programme for international student assessment results showed, a 30-year consensus begun by the last Labour Government and continued by successive Governments, particularly focusing on literacy a",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I call the shadow Secretary of State.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Laura Trott (Sevenoaks) (Con)",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "Let me begin by welcoming the new Secretary of State to her place. Just yesterday, new statistics from the programme for international student assessment showed that English pupils are now in the top 10 in the world for reading, for maths and for science. That is a huge achievement, and a real English success story. We are punching well above our weight, while other countries are falling behind. That did not happen by accident. It happened because of hard-won, evidence-led reforms and brilliant teachers. We raised expectations, we strengthened the curriculum, and we learnt from the highest-performing education systems in the world. My right hon. and noble Friend Lord Gove and Sir Nick Gibb built on Labour reforms to create an evidence-led school system that has catapulted us up international league tables. So why, when the Education Secretary herself has said that we should celebrate the PISA results and when the rest of the world is trying to learn from England, have the Government decided that now is the moment to change course? The Secretary of State said in her statement that everyone “can see the need for change.” I think that the opposite is true. The Secretary of State has a",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Josh MacAlister)",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "That is not what happened.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Laura Trott",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "It is what happened. Instead of raising aspirations, the system lowered expectations. The danger in what the Government are proposing is obvious. History will repeat itself. Highly academic schools will continue to push their pupils towards academic qualifications while schools serving more disadvantaged communities will come under pressure to steer children towards technical routes far earlier, because that is what happened before. Can the Secretary of State tell the House what evidence she has that her reforms will produce a different result, and can she guarantee that choosing a technical pathway at 14 will not close down a young person’s opportunity to go on to complete academic GCSEs? Can she explain exactly how this approach differs from the failed approach in Scotland and in Wales? From where I am sitting, it sounds very similar. There are also serious practical questions about how any of this will work. The Government say that the new pathways will begin in 2028, but what qualifications will schools be expected to offer? What standards will those qualifications have to meet, and do schools have the specialist teachers, facilities and employer partnerships required to meet t",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "Order. The right hon. Lady has had over five minutes. If I am going to be tough on Back Benchers for asking long questions, I should also be tough on Front Benchers.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "I look forward to having many of these exchanges across the Dispatch Box. I would have hoped, though, that the right hon. Lady might have been a little more generous in building on the sense that there has been consensus on these issues for over 30 years. That began with a Labour Prime Minister talking about “education, education, education”, introducing the literacy hour and numeracy hour, introducing phonics, bringing in Sure Start for early intervention, and developing an evidence-based cycle of continued improvement. It was built on by the right hon. Lady’s Government—there is no question about that. There used to be consensus on technical education as well. Her Government should be proud of introducing T-levels, which are now coming on stream. They also introduced university technical colleges, which offered a completely separate pathway, in separate institutions, for young people at 14. She might want to look at her own record before she starts having a go. I am absolutely clear that this is not about creating a two-tier system; it is about creating multiple pathways, which, for some, might lead to the same destination. Some will take different pathways to a career in enginee",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I call the Chair of the Education Committee.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Helen Hayes (Dulwich and West Norwood) (Lab)",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for her statement, and welcome her to her place. I also warmly welcome the Government’s focus on boosting technical and vocational education, and giving them parity of esteem with academic routes. The Children’s Commissioner has today highlighted the unacceptably high number of young people who are registered at college but attend less than 50% of the time. Colleges need the resources to address this problem by monitoring attendance more effectively and intervening to provide targeted support to students who need it, but despite being part of our state education system, colleges are on an uneven financial playing field, because, unlike schools, they are unable to claim back VAT. They have told my Committee again and again that they could do far more if this unfair and unjustifiable tax anomaly was corrected. May I therefore ask the Secretary of State to make representations to the Chancellor, ahead of the Budget, about colleges being allowed to claim back VAT in the same way that schools can?",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "I put on record my huge respect for my hon. Friend for chairing the Education Committee; I look forward to working closely with her and her Committee over the coming months. She has done fantastic work in this space. She is absolutely right: further education really is transformative, especially for some of the children who have been left behind by our broader education system. We have a number of reforms coming in that will help, and we have additional funding going in. I am particularly alive to issues with the transition from school to college and attendance at further education colleges. Those issues, and funding, are key focuses of the Alan Milburn review, which I am following closely. I hope to update the House once the report is published.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "I call the Liberal Democrat spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "May I welcome the Secretary of State to her new role? It is good to finally have the chance to question her on this announcement. Despite some of the rhetoric, academic and vocational education are not enemies; a successful economy needs both. However, creating technical pathways without ensuring that they have parity of esteem and funding has led to children from more disadvantaged backgrounds being disproportionately funnelled into technical pathways earlier, and having their options narrowed too soon. Successive Governments have rightly moved us away from that. Academic excellence matters, and remains a powerful engine for social mobility. We should never apologise for wanting children, particularly those from disadvantaged backgrounds, to have access to the same intellectual opportunities as the most privileged. Yesterday’s PISA scores show that, here in England, we have some of the best results in the world. That is a testament to the dedication of brilliant teachers and the work of all parties to drive up standards across our schools in recent years—and yes, I am proud that the Liberal Democrats have played our part through the introduction of the pupil premium and Progress 8",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "I thank the hon. Lady for her response. From the many exchanges that we had when I was the Leader of the House, I know what a doughty campaigner she is, and I am really looking forward to working with her in this role. The hon. Lady is absolutely right to say that we need parity of esteem between technical and academic subjects. I do not want there to be such a delineation between the two, because technical subjects can give new life to academic standards and vice versa. My vision, which we are now embarking on, is to have new high-quality technical and vocational qualifications available at 16. Students would look at a suite of those; they would not have to choose entirely academic or entirely technical subjects. Everyone will obviously have to do English, maths and science alongside that. My highly academic son, who is about to choose his options, would really like to get some applied qualifications as well. I want all our children to have these options open to them, and to have access to pathways that lead to similar destinations, but via different routes.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sureena Brackenridge (Wolverhampton North East) (Lab)",
+   "member_id": 5152,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for her commitment to addressing the “what’s the point?” question asked by so many disengaged young people, who are struggling in a one-size-fits-all school system. However, all this must be underpinned by good careers advice and guidance, delivered not just at the end of key stage 4, but much earlier in their school life. Will she champion properly funded, good careers advice and guidance, which includes place-based employer partnerships, so that young people know what is available on their doorstep in places like Wolverhampton North East?",
+   "name": "Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "My hon. Friend is absolutely right. There is just too big a jump between the classroom and the workplace at the moment, as employers tell us time and again. Tomorrow, I have a summit in No. 10 North, bringing together all our mayors, including the Mayor of the West Midlands, with business, school and college leaders, so that we can design real experiences of work and better careers advice, and close that gap between schools and the workplace.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Greg Smith (Mid Buckinghamshire) (Con)",
+   "member_id": 4778,
+   "type": "Contribution",
+   "text": "The Secretary of State referred to the Government’s SEND reforms as having been “built in partnership with parents”. I can assure her that many parents of SEND children in Mid Buckinghamshire are deeply concerned about the shape of those reforms and their one-size-fits-all nature. Before she brings forward any legislation or response to the consultation, can I urge her to look very carefully at what all campaigners on this subject are saying? As she is new in post, will she look again at the Government’s axing of a new SEND school for Buckinghamshire, and build it?",
+   "name": "Greg Smith",
+   "party": "Con",
+   "seat": "Mid Buckinghamshire"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "I really hope that, on something as sensitive and important as special educational needs reform, we can come together across this House and recognise that reforms are necessary. They have been ducked, I would say, for too long. We have increasing amounts of money going in, but outcomes that are not good at all, and a very adversarial system that does not really work for anybody. That is why we are proceeding very carefully, in full consultation with parents. My good friend the Minister for School Standards and others have been right around the country doing hundreds of events. We are going through all the responses to the consultation with a fine-toothed comb, and I assure the hon. Member that the proposals we come forward with will take account of all the responses we have received.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mark Sewards (Leeds South West and Morley) (Lab)",
+   "member_id": 5166,
+   "type": "Contribution",
+   "text": "The Education Committee’s report on further education and skills, published last year, found that technical and vocational pathways were not presented with the “same prominence” as academic routes in schools and colleges. In fact, we had evidence from eight Yorkshire colleges highlighting the “extremely limited” opportunities for under-16s to pursue any creative subjects. How will the reforms correct this, and give parity of esteem to academic and technical routes?",
+   "name": "Mark Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "My hon. Friend, as a former teacher, understands these issues well. There is a range of things we need to do. We are introducing new, high-quality, rigorous vocational and technical qualifications, which I think will be attractive to young people and their parents. We are looking at the incentives for schools; the changes to Progress 8 measures will encourage schools to offer a broad curriculum—not an increasingly narrow one—that they will be judged on. This is about supporting and working with teachers, so that they are excited about delivering these new options and courses. As we have seen, where these are embedded in schools, people vote with their feet and really take them up in high numbers.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Caroline Voaden (South Devon) (LD)",
+   "member_id": 5216,
+   "type": "Contribution",
+   "text": "I welcome the announcement about technical education, which I think is really valuable, but approximately 40% of colleges have had to cancel or scale back trade and vocational courses because of a lack of staff, and around three quarters of colleges in England are unable to recruit the necessary staff to teach technical subjects. Could the Education Secretary tell the House where the workforce will come from to teach technical subjects in every school in the country?",
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "Can I just say that I admire greatly our teaching profession? Teaching is not a job; it is a calling, and every day we should all thank our teachers for the amazing work they do. I want teachers to feel respected and valued, and to be attracted to the workforce. I feel that is my first priority. Yes, we will look at making sure that we have the teaching staff, but also at the preparation and the training that teachers need to adapt to these new courses, which we will bring in in a way that takes the workforce with us. However, I think there are real opportunities for teachers who are already teaching certain subjects to transfer those skills and combine them with technical education. This is also about teaching more practical skills for some current qualifications—drama, music, PE or even computing—in which there is very little practical assessment at the moment.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Dave Robertson (Lichfield) (Lab)",
+   "member_id": 5126,
+   "type": "Contribution",
+   "text": "I beg your indulgence, Madam Deputy Speaker, to start with a couple of thank yous. First, I thank the Secretary of State and the Government for the massive investment in South Staffordshire college, right across the southern part of Staffordshire, to make sure we are turbocharging opportunities for young people. Secondly, I say a massive thank you to every teacher, teaching assistant and member of school support staff who delivers great results across my constituency and further afield. As important as the comments and discussions are about the PISA data that has come out today—and those international comparisons are important—I know that if I go out on the doorsteps in Lichfield, Burntwood or elsewhere in my constituency this weekend and talk to them about PISA statistics, I am going to get short shrift. What people really want is opportunities for young people, and I hear time and again from young people who want to work with their hands. They want to be chippies, they want to be brickies and they want to be sparkies. Can the Secretary of State confirm that these reforms will make it easier for those kids to get the future they deserve?",
+   "name": "Dave Robertson",
+   "party": "Lab",
+   "seat": "Lichfield"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "My hon. Friend is absolutely right. PISA measures are important, but they are not the whole picture. This is about improving outcomes and opportunities. Our announcements on technical pathways and qualifications are incredibly popular with students and parents. There is huge evidence for that. In a world of AI, which is transforming jobs and careers across the world, there are jobs that AI cannot replace: building a brick wall, or building a house; frankly, cutting my hair; looking after our parents or grandparents in a care home; or providing high-quality childcare support to our kids. Those jobs will never be taken over by AI, and that is why we need to support young people to access them.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sir Ashley Fox (Bridgwater) (Con)",
+   "member_id": 5101,
+   "type": "Contribution",
+   "text": "I welcome the Secretary of State to her new role, and I agree that we need to reform education for children with SEND. Somerset council is failing children across the county. While neighbouring North Somerset council manages to assess 85% of children for their education, health and care plans within 20 weeks, Somerset council assesses fewer than 2% within that time limit. How confident is she that the incompetent Liberal Democrats who run Somerset council will be capable of improving outcomes for our children?",
+   "name": "Sir Ashley Fox",
+   "party": "Con",
+   "seat": "Bridgwater"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "There are discrepancies—these things can be very postcode-specific—which we will be addressing. The hon. Member will know that at the moment, we are going through quite a robust process with local authorities about their special educational needs plans and about their budgets and deficits. He can be assured that we are taking a very rigorous approach to that to make sure that local authorities really are delivering what people expect.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Chris Vince (Harlow) (Lab/Co-op)",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "When you have been working 12-hour days, and you come home, turn on the television and are told by the former Education Secretary that you are lazy, you are letting down the children you teach and you are not aspirational enough, it is pretty easy to become quite angry and despondent very quickly, so I am glad that the new Education Secretary has a very different approach. I am absolutely delighted that she is talking about the need for a broader curriculum, which will benefit young people in my constituency of Harlow. On Harlow, does the Education Secretary agree with the former MP for Harlow, Robert Halfon, who said that a “false hierarchy” undermines vocational and technical skills compared with academic education? It is a shame the current Tories do not seem to think the same.",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "I do want to pay tribute to teachers and school leaders right across the country. Almost my entire family are teachers and headteachers, so if I ever said anything like what my hon. Friend describes, I would never be able to go home again! Rest assured, I will not be doing that. My hon. Friend is absolutely right. I served on the Education Committee when Robert Halfon was its fantastic Chair. It was he who really taught me something about the value of technical education. He pioneered that and pushed it through. He was also very determined to make sure that we addressed the gap for white working-class boys that exists in our education system. If he were here today, I know that he would support what I am announcing.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Suella Braverman (Fareham and Waterlooville) (Reform)",
+   "member_id": 4475,
+   "type": "Contribution",
+   "text": "There are aspects of the Secretary of State’s statement that I welcome. I was going to say that no one had yet mentioned white working-class boys, but she mentioned them just a minute ago. She will know that the data is compelling. White working-class children, in particular boys, have one of the lowest participation rates in GCSEs, are more likely to flag as persistently absent from school and have the worst educational outcomes. Does she agree that that failure reflects the profound challenges with the curriculum, teacher training, discipline in the classroom, parental engagement and vocational training, and that we need targeted measures rather than generic approaches?",
+   "name": "Suella Braverman",
+   "party": "Reform",
+   "seat": "Fareham and Waterlooville"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "I actually agree with the right hon. and learned Lady. I did not just mention them a minute ago; I mentioned in my opening statement the white working class commission, which has done valuable work. One of its findings was that white working-class boys in particular just could not see the purpose of school. It did not relate to their lives and they did not understand where it was going to take them. That is why offering technical and vocational pathways or qualifications is part of the answer. She is absolutely right that this is also about how we engage, how we have a more interesting curriculum right from when children start school to when they leave school, and how we give them the opportunities to express themselves in perhaps a different way to other students.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Oliver Ryan (Burnley) (Lab/Co-op)",
+   "member_id": 5135,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for her statement and welcome her to her role. She is such a powerful advocate and leader when it comes to our students and brilliant teachers in Burnley, Padiham and Brierfield. Does she agree that we should not be complacent with the PISA results and that we should robustly act to address England’s weaknesses, particularly in reading and maths, and the fact that too many children do not see school as valuable?",
+   "name": "Oliver Ryan",
+   "party": "Lab/Co-op",
+   "seat": "Burnley"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for those very kind words; I am sure I will get up to Burnley very soon to visit a school with him—I would be happy to do so. He is absolutely right that there is a huge amount to celebrate in the PISA results. There has been a real consensus over a long period of time about what works and what needs to be done, but we do need to address the fact that outcomes are very poor for some and recognise that our current education system, which is a bit one-size-fits-all, has left too many behind. That is why I am taking the steps that I need to take. I know that some people do not agree with me, but I think it has to be done and that is why we are going to get on with it.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Adam Dance (Yeovil) (LD)",
+   "member_id": 5191,
+   "type": "Contribution",
+   "text": "I would like to welcome what I hope is the end to post-16 resits. That is something I have been calling for, because the current situation punishes neurodiverse people. I would also like the Secretary of State to explain what early identification means. Does it mean universal screening for neurodiversity? Will she commit to ensuring that access to assistive technology through lending libraries is expanded to Somerset? I am really keen that Somerset does not miss out on anything just because we do not have a mayor.",
+   "name": "Adam Dance",
+   "party": "LD",
+   "seat": "Yeovil"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "First, I thank the hon. Member for what he said about the approach we are taking on the endless cycle of resits. To be absolutely clear, every child has the right to resit an exam should they want to do so, but putting them on a treadmill of repeated resits that just brands them a failure and knocks their confidence for life is no way to help give a child a sense of achievement. Actually, the former Prime Minister Rishi Sunak welcomed my remarks on that, so it is not everybody who disagrees with me. We are developing national inclusion standards, which we will publish alongside any legislation or further steps we take on SEND. Of course, devolution does not just stop with mayors. We have great local authorities and great local leaders, and they are at the frontline of delivering a lot of our SEND support.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "Order. I am sure the Secretary of State meant to say the right hon. Member for Richmond and Northallerton (Rishi Sunak).",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "Oh, is he still a Member?",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "He is still here, yes.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Dame Chi Onwurah (Newcastle upon Tyne Central and West) (Lab)",
+   "member_id": 4124,
+   "type": "Contribution",
+   "text": "I welcome my right hon. Friend to her exciting new role and I welcome her emphasis on the importance of technical and technological education. I am always struck by the energy, intelligence and ambition of the young people I meet across Newcastle upon Tyne Central and West, but after 14 years of Tory neglect they have been let down. The attainment gap between young people in the north-east and London is at its highest since records began. Will my right hon. Friend meet me to see how we can address that and ensure that young people in the north-east have the opportunities and the education they deserve?",
+   "name": "Dame Chi Onwurah",
+   "party": "Lab",
+   "seat": "Newcastle upon Tyne Central and West"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "My hon. Friend is absolutely right. I was really concerned when I saw some of the growing gaps between regions in this year’s results, particularly the gap between the north-east and London, which has grown wider and wider this year. That is why we have the Mission North East programme, working alongside our RISE—regional improvement for standards and excellence—programme in the north-east. That is bringing together school leaders with the local authorities and all those involved to make sure there is real focus, to share best practice and to work together to drive up standards. I would be really happy to meet my hon. Friend and other colleagues from the region to discuss that further.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Ayoub Khan (Birmingham Perry Barr) (Ind)",
+   "member_id": 5357,
+   "type": "Contribution",
+   "text": "In my constituency, many families have been moved from pillar to post in temporary accommodation, which is often many miles away from the school the children attend. Those families are unable to take their children to school because they cannot afford the transport costs. Will the Secretary of State see what can be done to support Birmingham city council with additional resources so that those children can get to school?",
+   "name": "Ayoub Khan",
+   "party": "Ind",
+   "seat": "Birmingham Perry Barr"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "The hon. Gentleman is absolutely right. Some groan every time the Prime Minister mentions it, but I have seen the transformation that has come from giving young people free bus passes in Greater Manchester; not just so that they can attend school and college, but so that they can gain independence, have the confidence to go out and about, and tackle some of those mental health issues. We have announced some of those measures. Expect to see more on bus passes for young people.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Adam Thompson (Erewash) (Lab)",
+   "member_id": 5044,
+   "type": "Contribution",
+   "text": "In my previous career teaching—first, secondary physics, and later, degree-level apprentice engineering—I saw over and over and over how powerful apprenticeships are in enabling both excellence in our brilliant engineering sector and personal social mobility for the apprentices themselves. May I therefore thank the Secretary of State for her statement today and her renewed commitment to technical education generally? Will she elaborate on the role of degree-level apprenticeships specifically in her ongoing vision for our world-class education system?",
+   "name": "Adam Thompson",
+   "party": "Lab",
+   "seat": "Erewash"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for all the teaching he did in his former career. He is absolutely right. Degree apprenticeships and apprenticeships are becoming increasingly popular. As with T-levels, when we have good vocational and technical qualifications that combine those things, they become really in demand as people can see the value of them. I do want to see an expansion of degree apprenticeships across higher education. I also want to see more level 4 and 5 apprenticeships being offered, so we have clear pathways and lines of sight that help young people get confidence and get into the world of work.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Vikki Slade (Mid Dorset and North Poole) (LD)",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "Will the Secretary of State commend the staff at specialist schools such as Summerwood in Dorset, where my son George goes, who pick children up after they have been failed by mainstream education, give them the confidence to sit exams such as GCSEs that they never believed they would sit and, when they do not actually make it, give them the resilience to have another go? It is so important to give these children hope. Will the Secretary of State explain how parents, young people and the teaching staff themselves can influence which qualifications children will take, because so often it is based on “the funding says no” and the children then cannot take the qualifications that suit them best?",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "The hon. Lady raises a really good point and I am happy to join her in praising the staff of Summerwood school, which her son attends. This is about ensuring that the mainstream offer is also more inclusive. If I had a pound for every parent or child who said to me that school just had not worked for them and that they had had to leave the school system because it was not designed for them, I would be very rich indeed. Sitting alongside our important SEN reforms are the curriculum and inclusion reforms that we will be bringing in. Of course, people will be able to help design those and she should not, hopefully, worry too much about some of the issues.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Dr Lauren Sullivan (Gravesham) (Lab)",
+   "member_id": 5269,
+   "type": "Contribution",
+   "text": "I absolutely welcome the Secretary of State’s statement and welcome her to her place. She has laid out exactly what needs to be done: it is about knowledge and skills, a love of learning, and choice. When I was a science teacher, it was about the practical skills, and it was practical experience and application that brought science to life. Will she visit Gravesham so that we can discuss how we can ensure that no young person is left behind without opportunities?",
+   "name": "Dr Lauren Sullivan",
+   "party": "Lab",
+   "seat": "Gravesham"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "Especially after my hon. Friend’s excellent question about Gravesham at Prime Minister’s questions today, I am really keen to visit. I thank her for her previous work as a science teacher. As someone with a science degree myself, I love science, and my hon. Friend is right that the core of science is about experimenting, getting things wrong and working out how things work in a practical, not just theoretical, way. I look forward to discussing that further with her.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Ian Sollom (St Neots and Mid Cambridgeshire) (LD)",
+   "member_id": 5096,
+   "type": "Contribution",
+   "text": "The Department previously had to delay the plans for defunding BTECs, and although there has been progress on T-levels, there are still shortages of placements and teachers. Can the Secretary of State guarantee that the transition to V-levels will not have the same uncertainty? Previously delayed transitions have been damaging by not providing certainty to young people.",
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "I thank the hon. Gentleman for asking about that. It was one of the first things I asked when taking office, because, as I represent a number of further education and sixth-form colleges in Manchester, I am well aware of the issues. I assure him that there will be no gaps in that transition. I have asked the Department to bring forward some of the work on the specification of qualifications and the teacher training that is needed, so that with open days coming up next month for many colleges, teachers feel confident offering V-levels as well. I will let the hon. Gentleman know more in due course.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sam Rushworth (Bishop Auckland) (Lab)",
+   "member_id": 5108,
+   "type": "Contribution",
+   "text": "About 14 months ago, I stood here and led a debate on working-class boys in the north-east. I called for many of the things that are in today’s statement, so I absolutely welcome it. I am surprised that those on the Conservative Benches do not, because the reforms create pathways to take the T-levels that the Conservatives created—and they should be proud of doing so—and broaden access to the sort of university technical college education for which they have advocated. It is a great intervention but it does require work placements, which can be a challenge. I am working with Bishop Aukland College to try to increase the number of work placements. I do not expect the Secretary of State to have all the answers today, but will she work with me to ensure that, as we roll out the measures, we have adequate work placements available?",
+   "name": "Sam Rushworth",
+   "party": "Lab",
+   "seat": "Bishop Auckland"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "My hon. Friend is absolutely right. The work placement requirement in the T-levels has been challenging, but that is now coming on stream and many more students are taking T-levels. We know the value of work experience or experience of work while young people are at school, yet it is something that can be challenging to deliver. That is why we want employers, alongside mayors, to give those experiences of work and work placements to our young people.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Shockat Adam (Leicester South) (Ind)",
+   "member_id": 5120,
+   "type": "Contribution",
+   "text": "I welcome much of the Secretary of State’s statement, especially how it acknowledges that one size does not fit all and highlights that 1 million of our young people are not in education, employment or training. One way out of that is through apprenticeship schemes, but apprenticeship providers are really struggling. That is especially true of my constituent Amanda, who runs an independent hairdressing business and is now playing £204,000 a year in employment taxes and VAT before she even pays her wages. We need entrepreneurs like Amanda, but current policies mean that she cannot afford to take on apprentices. What steps is the Minister taking to address that issue?",
+   "name": "Shockat Adam",
+   "party": "Ind",
+   "seat": "Leicester South"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "I hear what the hon. Gentleman is saying. I know my own hairdresser and her team really well—they do a great job on my hair. [ Interruption. ] Thank you. Indeed, the hairdressers here in the Commons do a great job for me and for the Deputy Speakers. Hairdressing is a job that AI is never going to do—AI is not going to be colouring or cutting my hair any time soon. These are good careers for young people, so we need to look at the barriers to entry. An apprenticeship in a hair salon was once a clear pathway into work, but for many reasons those numbers are falling, and that is something we need to look at.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Clive Efford (Eltham and Chislehurst) (Lab)",
+   "member_id": 165,
+   "type": "Contribution",
+   "text": "Thank you for allowing me to take part in this statement, Madam Deputy Speaker, given that I was not here at the beginning—I was carrying out my duties elsewhere in the House. I welcome the Secretary of State’s statement. What is she likely to do in my part of south-east London for technical and vocational places? I remind her that there is a former education college site in my constituency that is in the ownership of the Education Department, which could be readymade for creating such places. Will she meet me to discuss the future of that site?",
+   "name": "Clive Efford",
+   "party": "Lab",
+   "seat": "Eltham and Chislehurst"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "The Minister with responsibly for school estates, my hon. Friend the Member for Whitehaven and Workington (Josh MacAlister), who is sitting next to me on the Front Bench, will be happy to meet my hon. Friend to discuss that. We are going to have to look at the school estate, as pupil rolls in the early years are diminishing, yet requirements on further education, apprenticeships and technical education are expanding. Those are some of the issues that we have to address. The Minister will meet with my hon. Friend soon.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Claire Young (Thornbury and Yate) (LD)",
+   "member_id": 5140,
+   "type": "Contribution",
+   "text": "The Secretary of State mentioned persistent absence. Parents of children with unmet SEND needs continue to be unfairly prosecuted for their children’s absence. Before recess I met the Minister for School Standards, along with a number of charities, including Square Peg and Define Fine. We are working together to try to end that injustice. As a first step, we are seeking to ensure that the issue is properly recorded, because it is not at the moment. Will the Secretary of State commit to a review of the issue ahead of the education for all Bill, with the aim of ending this scandal?",
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "I pay tribute to the hon. Lady for all her work, engagement and leadership on these issues, which I know it has been much appreciated by the Schools Minister, who has been leading many of those conversations. I absolutely agree that issues around absenteeism, exclusion, off-rolling, and home schooling—which is often not what parents in those circumstances want, but they feel that the mainstream system is not working for their children—are of paramount importance. We will we be tackling those issues in the reforms that we are making.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Rosie Wrighting (Kettering) (Lab)",
+   "member_id": 5331,
+   "type": "Contribution",
+   "text": "I was at my old school, Montsaye academy, on GSCE results day, and it was heartwarming to see the students receive their results after going through a journey of improvement at the school. I received my results there not that long ago and then went on to study creative subjects. The number of students studying creative arts is now down 47% since 2010. Will the Secretary of State say what more her Department can do to develop the skills of the UK’s next generation of creatives?",
+   "name": "Rosie Wrighting",
+   "party": "Lab",
+   "seat": "Kettering"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for all the championing she has done on those issues in the time that she has been here—I am sure that her results day was not as long ago as mine was. She is right that there are huge job opportunities in the creative subjects, the creative industries, fashion—of which she is a particular champion—and textiles. Frankly, our curriculum and the system as it has been designed recently have not allowed those sectors to flourish as much as they could. My hon. Friend can rest assured that that is top of my mind when looking at our reforms.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Connor Naismith (Crewe and Nantwich) (Lab)",
+   "member_id": 5273,
+   "type": "Contribution",
+   "text": "The Secretary of State is already well aware of the excellent work being undertaken by providers, such as Crewe Engineering and Design UTC and Cheshire College South and West, in equipping young people with the technical skills that local employers need. But what steps is she taking to build on successful examples of colleges and UTCs with proven industry partnerships, and will she visit Crewe and Nantwich to see that work in action?",
+   "name": "Connor Naismith",
+   "party": "Lab",
+   "seat": "Crewe and Nantwich"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "I recently met and made a video with a student at Alstom who had attended Crewe UTC. UTCs have provided a pathway for some young people to start apprenticeships, to go on to other studies, or to have great opportunities such as those that that student had had at Alstom. But it has not been at the scale that we need, which is why we need more technical and vocational pathways and qualifications available to all children, not just those who can get into one of the UTCs.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Alison Hume (Scarborough and Whitby) (Lab)",
+   "member_id": 5254,
+   "type": "Contribution",
+   "text": "I welcome the Education Secretary’s statement and welcome her to place. Scarborough is one of the pilot areas for Mission Coastal, which aims to improve educational outcomes in our coastal communities. Could my right hon. Friend provide an update on the progress of Mission Coastal and the steps the Government are taking to tackle regional inequalities in GCSE attainment?",
+   "name": "Alison Hume",
+   "party": "Lab",
+   "seat": "Scarborough and Whitby"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "My hon. Friend is absolutely right that the challenges faced in many of our coastal communities are particularly deep, and that is why Mission Coastal is such an important initiative. The Schools Minister is working tirelessly with school and local leaders on this matter, and I am sure that she would be happy to meet my hon. Friend and other coastal MPs to give an update on it. We really do need to press on with this kind of support so that we can see real improvements in opportunity and outcomes for young people in our coastal communities.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Jen Craft (Thurrock) (Lab)",
+   "member_id": 5056,
+   "type": "Contribution",
+   "text": "I strongly welcome the Secretary of State’s statement, in which she set out how children can achieve, regardless of their skillset and passion, and how we will support them to do so. Far too many children are traumatised by a system that basically tells them that they are not good enough and that they are good for nothing, and that must change. My plea to the Secretary of State today is for any upcoming changes, particularly through the SEND reform, to take account of what disabled children are able to do, and for her to meet the charity Teach Me Too, which campaigns for all children, regardless of their disability, to have access to literacy from an early age and throughout their school career.",
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "First, I thank my hon. Friend for all her leadership and contributions to this very important debate, which I know means a lot to her personally. I look forward to meeting her and discussing it all further. Rest assured that we will absolutely develop our plans in concert with Members of this House, including my hon. Friend. I would be happy to meet Teach Me Too in one of those meetings in order to really focus on supporting all our young people, no matter their needs, to develop their passions and core skills in a way that gives them a sense of achievement and progress in their lives.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  }
+ ],
+ "fetched": "2026-10-21T20:29:44Z"
+}

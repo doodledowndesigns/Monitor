@@ -1,0 +1,1201 @@
+{
+ "ext_id": "580425E1-9C31-41D5-AAF1-881EABCF8163",
+ "date": "2026-01-28",
+ "house": "Lords",
+ "section": "Debate",
+ "title": "Children’s Wellbeing and Schools Bill",
+ "parents": [
+  "Lords Chamber"
+ ],
+ "location": "Lords Chamber",
+ "url": "https://hansard.parliament.uk/Lords/2026-01-28/debates/580425E1-9C31-41D5-AAF1-881EABCF8163/ChildrenSWellbeingAndSchoolsBill",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Lord Bird",
+   "party": "CB",
+   "member_id": 4564
+  },
+  {
+   "name": "Baroness Lister of Burtersett",
+   "party": "Lab",
+   "member_id": 4234
+  },
+  {
+   "name": "Baroness Bennett of Manor Castle",
+   "party": "GP",
+   "member_id": 4719
+  },
+  {
+   "name": "Lord Mohammed of Tinsley",
+   "party": "LD",
+   "member_id": 5401
+  },
+  {
+   "name": "Lord Hampton",
+   "party": "CB",
+   "member_id": 4951
+  },
+  {
+   "name": "Lord Hacking",
+   "party": "Lab",
+   "member_id": 3580
+  },
+  {
+   "name": "Baroness Watkins of Tavistock",
+   "party": "CB",
+   "member_id": 4566
+  },
+  {
+   "name": "Lord Crisp",
+   "party": "CB",
+   "member_id": 3783
+  },
+  {
+   "name": "Lord Storey",
+   "party": "LD",
+   "member_id": 4238
+  },
+  {
+   "name": "The Earl of Effingham",
+   "party": "Con",
+   "member_id": 4958
+  },
+  {
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions",
+   "member_id": 269
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 3179
+  },
+  {
+   "name": "Baroness Boycott",
+   "party": "CB",
+   "member_id": 4704
+  },
+  {
+   "name": "Lord Young of Acton",
+   "party": "Con",
+   "member_id": 5379
+  },
+  {
+   "name": "Lord Nash",
+   "party": "Con",
+   "member_id": 4270
+  },
+  {
+   "name": "Baroness Spielman",
+   "party": "Con",
+   "member_id": 5404
+  },
+  {
+   "name": "Baroness Evans of Bowes Park",
+   "party": "Con",
+   "member_id": 4329
+  },
+  {
+   "name": "Lord Russell of Liverpool",
+   "party": "CB",
+   "role": "Chair",
+   "member_id": 2134
+  },
+  {
+   "name": "Baroness Tyler of Enfield",
+   "party": "LD",
+   "member_id": 4231
+  },
+  {
+   "name": "Lord Meston",
+   "party": "CB",
+   "member_id": 1940
+  },
+  {
+   "name": "Baroness Shephard of Northwold",
+   "party": "Con",
+   "member_id": 132
+  },
+  {
+   "name": "The Lord Bishop of Manchester",
+   "member_id": 4878
+  },
+  {
+   "name": "Lord Wei",
+   "party": "Con",
+   "member_id": 4145
+  },
+  {
+   "name": "Lord Lucas",
+   "party": "Con",
+   "member_id": 1879
+  },
+  {
+   "name": "Baroness Barran",
+   "party": "Con",
+   "member_id": 4703
+  },
+  {
+   "name": "Baroness Benjamin",
+   "party": "LD",
+   "member_id": 4167
+  },
+  {
+   "name": "Lord Parkinson of Whitley Bay",
+   "party": "Con",
+   "member_id": 4728
+  },
+  {
+   "name": "Baroness Jones of Moulsecoomb",
+   "party": "GP",
+   "member_id": 4297
+  },
+  {
+   "name": "Baroness Blake of Leeds",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip",
+   "member_id": 4912
+  },
+  {
+   "name": "Lord Marks of Hale",
+   "party": "Con",
+   "member_id": 5018
+  },
+  {
+   "name": "Baroness Morris of Yardley",
+   "party": "Lab",
+   "member_id": 305
+  },
+  {
+   "name": "Lord Jackson of Peterborough",
+   "party": "Con",
+   "member_id": 1551
+  },
+  {
+   "name": "Baroness Blower",
+   "party": "Lab",
+   "member_id": 4724
+  },
+  {
+   "name": "The Lord Bishop of Portsmouth",
+   "member_id": 5412
+  },
+  {
+   "name": "Baroness Ritchie of Downpatrick",
+   "party": "Lab",
+   "member_id": 4130
+  },
+  {
+   "name": "Baroness Bousted",
+   "party": "Lab",
+   "member_id": 5385
+  },
+  {
+   "name": "Baroness Morgan of Cotes",
+   "party": "Non-Afl",
+   "member_id": 4027
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Lord Bird (CB)",
+   "member_id": 4564,
+   "type": "Contribution",
+   "text": "I am very pleased that this amendment is to be discussed again. What troubles me is that it could be such a small, insignificant thing to ask for targets from the Government. Are targets part of the armoury that we use to get rid of poverty? If we are endeavouring to get rid of poverty, we will need more than targets. We will need houses; we will need training for parents so that they do not pass poverty down to the next generation; we will need a Government who will converge and co-ordinate all the efforts into some form whereby they can say that they are disentangling the situation. At the moment, we have eight government departments dealing with poverty. I imagine that if we did not have a Ministry of Defence and people decided to attack this country, we would form a Ministry of Defence, bring everything together and not leave it to eight different ministries. The same goes for poverty. Poverty is destroying us. Poverty is stopping schools delivering schooling: 30% of teachers’ time is spent on the problems that are caused when poverty enters the classroom. In our health service, 50% of people who suffer from cardiological—whatever you call it; forgive me, I have new teeth—are s",
+   "name": "Lord Bird",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Lister of Burtersett (Lab)",
+   "member_id": 4234,
+   "type": "Contribution",
+   "text": "My Lords, I am pleased to speak in support of Amendment 107, to which I have added my name, moved by such a warrior against poverty, not least as it provides an opportunity to welcome the Government’s landmark child poverty strategy. Sadly, the Opposition did not think it important enough to ask for the Statement on it to be repeated in your Lordships’ House. I welcome, too, the strategy’s accompanying monitoring and evaluation frameworks, supported by a theory of change, based on clear measures and what it calls a “wide-ranging evidence base”. This includes hearing directly from children, young people and families with lived experience of poverty, building on the strong engagement with them during the strategy’s development.",
+   "name": "Baroness Lister of Burtersett",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Bennett of Manor Castle (GP)",
+   "member_id": 4719,
+   "type": "Contribution",
+   "text": "My Lords, it is a great pleasure to follow the powerful and important speech from the noble Baroness, Lady Lister, and the equally important speech from the noble Lord, Lord Bird. I signed the similar amendment in Committee, but I left a space on this one in the hope against hope that a party less likely than mine would have signed up to it and that a broader spread of support might have been shown—but that did not happen. On the point the noble Baroness, Lady Lister, made about a yardstick, I was thinking—perhaps because I have been out campaigning on the doorstep this morning—about an additional argument that was not made in Committee or here: this would be of help to voters. A Government starts out and sets targets; then, as you get to the end of the Parliament and the next election, voters would have a clear sense of whether they had met their targets and done what they intended to achieve. It would also put great pressure on all parties competing in the next election to say, if they are elected to be the Government, what their child poverty reduction target will be. That would be useful, clear and obvious to voters. We must acknowledge where we are now. We have already heard a",
+   "name": "Baroness Bennett of Manor Castle",
+   "party": "GP"
+  },
+  {
+   "who": "Lord Mohammed of Tinsley (LD)",
+   "member_id": 5401,
+   "type": "Contribution",
+   "text": "My Lords, I also support Amendment 107, moved by our friend, the noble Lord, Lord Bird, and will follow the powerful speeches by the noble Baronesses, Lady Lister and Lady Bennett. The amendment is timely. It supports our children, particularly those most in need. As we heard, the Joseph Rowntree Foundation’s analysis on child poverty in Britain has said that 4.5 million children are living in poverty—a figure that continues to climb, even after the most recent policy changes. These are not abstract numbers; they are the lived reality of millions of families who are denied the security and opportunity that every child deserves. The amendment goes beyond rhetoric: it would require the Government to set binding targets, with clear timescales, and to account publicly for each step taken towards meeting them. Doing so would emulate principles behind other statutory frameworks. The most obvious is the Climate Change Act, through which parliamentary accountability has driven sustained action and cross-government focus. The noble Lord, Lord Bird, talked about eight separate departments having some sort of responsibility for child poverty. That rigour should be applied to the fight against",
+   "name": "Lord Mohammed of Tinsley",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Hampton (CB)",
+   "member_id": 4951,
+   "type": "Contribution",
+   "text": "My Lords, I will speak very briefly to add my name and voice to the force of nature that is my noble friend Lord Bird. We have heard points made forcefully by all noble Lords around the House. I think noble Lords all know what I do for a living; I am sorry to be boring about this.",
+   "name": "Lord Hampton",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Hacking (Lab)",
+   "member_id": 3580,
+   "type": "Contribution",
+   "text": "A schoolmaster!",
+   "name": "Lord Hacking",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Hampton (CB)",
+   "member_id": 4951,
+   "type": "Contribution",
+   "text": "I am indeed a schoolteacher. Every day in Hackney I see the effects of poverty. We still have 55% free school meals in our school. Schoolteachers are very used to targets. Every pupil has target grades and if they do not hit their target grades, we have to explain why. It really does focus the mind. If we can solve child poverty, the entire Bill will be so much more powerful. The best way to solve poverty is with targets, so I beg the Government to accept the amendment.",
+   "name": "Lord Hampton",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Watkins of Tavistock (CB)",
+   "member_id": 4566,
+   "type": "Contribution",
+   "text": "My Lords, I will speak briefly to support the amendment in principle. I wonder whether we could get one or two simple targets to measure as indicators of potential poverty. Yesterday, a new report came out called, It’s L ike T orture: Life in Temporary Accommodation for Neurodivergent Children and their Families . I believe that temporary accommodation for children is one of the biggest indicators of a lack of well-being, and it is linked to poverty. During Covid, we got almost every rough sleeper off the streets. It is time that we set a target to get every child in temporary accommodation into secure long-term accommodation. I urge the Government to consider that in relation to children’s well-being.",
+   "name": "Baroness Watkins of Tavistock",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Crisp (CB)",
+   "member_id": 3783,
+   "type": "Contribution",
+   "text": "My Lords, it gives me great pleasure to follow so many powerful speeches and support my noble friend Lord Bird’s amendment. As a former chief executive of the English NHS, I know a thing or two about targets. There are some awful targets and some good ones. I am delighted that the noble Lord, Lord Barber, is in his place, as the then Government’s “delivery tsar”, or whatever the right title was in those days.",
+   "name": "Lord Crisp",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "My Lords, of course, the noble Lord, Lord Bird, is a warrior and passionate advocate for the unemployed and the poor. I have a slightly different take on this. Yes, targets and strategies are important, but how often do we say that we will sort this issue out by establishing targets and strategies? Actually, what is important is doing something. It is no good just agreeing a target or strategy; it is about doing things, having policies and carrying out actions which make a real difference. I am quite ashamed that we live in the fifth or sixth-richest country in the world, yet only the other day, the LGIU published information which said that, even with breakfast clubs and free school meals, teachers are increasingly feeding and clothing their pupils when they come to school. The fifth or sixth-richest country in the world and we are doing that. I am ashamed that there are a million young people not in a job, employment or training. That cannot be right in the fifth or sixth-richest country in the world. We need to take actions. I congratulate the Government on doing away with the two-child benefit cap. That is an action which will make a huge difference. Some of the other policies ",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "The Earl of Effingham (Con)",
+   "member_id": 4958,
+   "type": "Contribution",
+   "text": "My Lords, I thank all noble Lords for their valuable contributions to this debate, particularly the noble Lord, Lord Bird, for his relentless focus on tackling poverty through the Big Issue and Big Issue Invest, investing in social enterprises, social purpose businesses and charities trying to end poverty and reduce inequality in the UK. Your Lordships’ House is united in its determination to address child poverty and the range of complex issues that drive it. While we fully recognise the firm intent behind this amendment, His Majesty’s loyal Opposition retain a number of reservations, which we shared in Committee. We unequivocally hold a desire to reduce child poverty, but the issue is deeply complex. We have concerns that legally binding targets determined by central government risk overlooking the local and regional variances in the causality and the experiences of child poverty. As the noble Baroness, Lady Barran, highlighted in Committee, the pursuit of targets can often shift the focus on to particular statistics rather than people’s lived experiences. Central government must be able to adapt to ever developing needs and realities, in addition to enabling local authorities an",
+   "name": "The Earl of Effingham",
+   "party": "Con"
+  },
+  {
+   "who": "The Minister of State, Department for Education and Department for Work and Pensions (Baroness Smith of Malvern) (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My Lords, Amendment 107, tabled by the noble Lord, Lord Bird, seeks to place a duty on the Secretary of State to set legally binding child poverty reduction targets. I agree with other noble Lords that we have a shared objective to tackle child poverty. I thank the noble Lord, Lord Bird, for his commitment, the campaigning that he does and for the engagement with the Government on child poverty. We had a very good meeting, I thought, where we talked about the work of the Big Issue and the rightful challenge to the Government to ensure that the structure within government and the measurement of our objectives meet the challenge that has been set here. I will talk about how we will ensure that this happens. I am proud that this Government have now published our child poverty strategy, going far beyond rhetoric—as one noble Lord suggested that we should do. But I do not agree with those who have argued that all Governments are the same or that the strategy lacks credibility. Several noble Lords have quoted the Joseph Rowntree Foundation. Its annual poverty report, published yesterday, states that the child poverty strategy is “hugely welcome”—particularly after the last Government mad",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Lord Bird (CB)",
+   "member_id": 4564,
+   "type": "Contribution",
+   "text": "Thank you very much. I have decided to join the Conservative Party. Can I meet the noble Earl afterwards and fill in the forms? Forgive me, I was only joking. I have never received such praise in the House. I agree with the noble Lord, Lord Storey. I was trying to say that we need a new toolkit to dismantle poverty. Having a way of measuring it and of taking people to task because we say, “This is what you said you would achieve” can never be, as the noble Baroness, Lady Lister, said, the be-all and end-all. It must be part of the road towards the accumulation of evidence, the accumulation of opportunity and the accumulation of thinking that gets us somewhere we have never been before. I do not want to pooh-pooh the Government or any Government for achieving the remarkable removal of 450,000 young people from poverty, but what about the other 4 million? That is the real problem. The real problem is that we are passing from generation to generation. A load of people who I have identified— 90% of the people I work with in homelessness, 90% of the people I work with in long-term unemployment, and 90% of the people I work with in the custodial system—come from the inheritance of povert",
+   "name": "Lord Bird",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "We on these Benches are strongly committed to safeguarding children and protecting them from the risks of the online world. As we recall, the noble Lord, Lord Nash, proposed an amendment that was a straightforward ban on social media. The Government are proposing a three-month big conversation, from which we will, perhaps, come together and agree a way forward. On these Benches, however, we believe that it is not as simple as that. A blanket ban is not that easy. We think that some aspects of social media are very important for young people and very supportive of young people. Rather than a blanket ban, we would want to see the dangerous elements of social media banned. Of course, the amendment from the noble Lord, Lord Nash, was carried. It will come back at ping-pong. I hope that will be the opportunity—I promise to come to every meeting—for the parties to come together and agree a way forward. In the meantime, we on these Benches would like to test the opinion of the House on our Amendment 108.",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "The Deputy Speaker (Baroness Pitkeathley) (Lab)",
+   "member_id": 3179,
+   "type": "Contribution",
+   "text": "I should tell the House that if Amendment 114 is agreed to then I cannot call Amendment 117 for reasons of pre-emption. Clause 30: School uniforms: limits on branded items Amendment 114",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Lord Mohammed of Tinsley (LD)",
+   "member_id": 5401,
+   "type": "Contribution",
+   "text": "My Lords, I have Amendments 114 and 118 in this group on the cost of school uniforms. This issue is about far more than clothing; it goes to the heart of the cost of living crisis. It affects children’s dignity and well-being, and, ultimately, their ability to learn and succeed in school. For too many families, the start of the school year is no longer a moment of optimism; it is about anxiety. Parents dread opening the uniform price list, knowing that compliance is mandatory and flexibility is limited. Branded blazers, logoed jumpers, PE kits and specialist items are often required from a single supplier, with costs running to hundreds of pounds per child, payable up front, when household budgets are already under severe strain. The evidence is clear. Research commissioned by the Department for Education shows that the average cost of school uniforms and PE kits is close to £400 per child, rising to over £440 for secondary school pupils. These are not trivial sums. For families with two or three children, the cost can exceed £1,000 in a single year. For parents who are on low incomes, with insecure jobs or reliant on benefits, these costs are simply not manageable. The reality for",
+   "name": "Lord Mohammed of Tinsley",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Boycott (CB)",
+   "member_id": 4704,
+   "type": "Contribution",
+   "text": "I very much support all the amendments around trying to make uniforms more affordable, but I want to speak about a health time bomb that we are sitting on, much in the way that we spoke about smoking some years ago, or ultra-processed food. It is the whole question about PFAS in our systems: in everything we eat and touch, but in particular, in this case, in school uniforms. Uniforms that are made from fabrics that contain PFAS constantly contact your skin and the results and the emerging evidence are now incontrovertible. I also support Amendment 119A from the noble Baroness, Lady Bennett, about the health, generally, of uniforms. Forever chemicals, as they are commonly referred to, are a group of over 10,000 chemicals that exist over many products. We call them “forever chemicals” partly because they are so widespread and partly because, so far, they do not appear to break down. They are relatively new, so we do not know whether they are going to break down in 100 years. Right now, though, they are not breaking down. The quickest way for any of us here to find out whether we have them in our system is to get the test, give a drop of blood and find out what is in your body. Seriou",
+   "name": "Baroness Boycott",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Bennett of Manor Castle (GP)",
+   "member_id": 4719,
+   "type": "Contribution",
+   "text": "My Lords, it is a great pleasure to follow the noble Baroness, Lady Boycott, who has powerfully made the case for Amendment 119. She referred to the Netflix documentary that we have not yet seen. I am going to go back a little further to a review article that came out in January last year, titled Effects of Early-life PFAS Exposure on Child Neurodevelopment: A Review of the Evidence and Research G aps . It looked at 35 studies, most of which were in the previous five years. It found subtle but potentially very significant impacts of low-level exposure on population-wide neurodevelopment. What does that actually mean? It means reduced cognitive development and language development in infants and increased behavioural issues such as hyperactivity in childhood.",
+   "name": "Baroness Bennett of Manor Castle",
+   "party": "GP"
+  },
+  {
+   "who": "Lord Young of Acton (Con)",
+   "member_id": 5379,
+   "type": "Contribution",
+   "text": "My Lords, I declare an interest as a member of the Knowledge Schools Trust, a multi-academy trust that I co-founded, which now has nine schools in it. When I tabled this amendment in Committee, there was some confusion as to whether the cap on the number of branded items of school uniform proposed in the Bill applied to extracurricular activities. Are mandatory branded items for an activity that is not itself mandatory, such as being in a school sports team, outwith the cap or included in it, even if they have been lent or donated to the school free of charge? The noble Lord, Lord Watson of Invergowrie, believed that they were outwith the cap—and therefore Amendment 117, which would exempt items loaned or gifted to a school, would be unnecessary. The Department for Education has now published draft statutory guidance on how schools should interpret the uniform clauses in the Bill, making it clear that branded items that are mandatory for extracurricular activities, even if they are provided to children free of charge, are included in the cap. It says: “All loaned or gifted branded items will be captured within the limit if they are required to be worn. However, schools can continue",
+   "name": "Lord Young of Acton",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Nash (Con)",
+   "member_id": 4270,
+   "type": "Contribution",
+   "text": "My Lords, I support Amendment 114 in the name of the noble Lord, Lord Mohammed, and my noble friend Lord Young’s Amendment 117. It is clearly a better solution to have a monetary limit than a number—that just seems obvious. As for gifted items, I could not agree more with my noble friend. Are we really saying that if I manage to secure for my multi-academy trust some free gifted strip from a football club, I have to say to those people, as a charity, “I’m sorry, I know I’m a charity, but the Government have passed a law which requires me to say no, I can’t take your benefit in kind. I’m sorry”? It is potty, because I am clearly going to have at least three other items apart from a tie. It is clearly daft, and I very much look forward to the noble Baroness’s explanation as to why they are so insistent on this point.",
+   "name": "Lord Nash",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Spielman (Con)",
+   "member_id": 5404,
+   "type": "Contribution",
+   "text": "My Lords, I shall speak to Amendment 117 in the name of my noble friend Lord Young of Acton, to which I have added my name. Although it may seem a small point, it matters. The draft guidance perfectly illustrates the consequences of poor policy-making: the cart was put before the horse and an announcement was made about reducing the number of branded items but without the clarity about the policy goal that should have informed the drafting of the legislation. I will not repeat the examples given by others, but it is unfortunate that the draft guidance is so unequivocal. It is the kind of Kafkaesque rule that brings officialdom into ill repute, and it probably will not save parents a single penny. I add that if the policy goal is narrowly to save all parents money on school uniforms, this could be better achieved through Amendment 114, which would give schools more flexibility and avoid the problem that Amendment 117 is intended to address—although I believe that an automatic inflation adjustment should be incorporated to avoid the messiness of an annual review. If this limit is enacted, will the Minister ensure that two particular impacts are fully evaluated. First, what is the soc",
+   "name": "Baroness Spielman",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Evans of Bowes Park (Con)",
+   "member_id": 4329,
+   "type": "Contribution",
+   "text": "My Lords, I add my support to Amendment 114, which I believe provides a more flexible approach to achieving the Government’s aims of keeping down the cost of school uniforms while ensuring that the legislation before us is better future-proofed to potential changes in individual school policies. For instance, noble Lords may have seen reports of the growing number of schools, particularly primary schools, that are replacing traditional uniforms with activewear uniforms that consist of practical, weather-appropriate sportswear that is worn throughout the day. A recent Times article highlighted polling that found that 67% of primary school teachers would support their school adopting an always-active uniform policy and that schools that have done so have reported improvements in academic achievement, well-being and attendance. This is just one example of how attitudes to school uniform are already changing. It may well be that the cap on items that the Government are talking about becomes irrelevant as attitudes to school uniform change, but surely it is better to have an annually reviewed monetary cap that allows schools to develop their uniform to the requirements of the pupils, pa",
+   "name": "Baroness Evans of Bowes Park",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Hampton (CB)",
+   "member_id": 4951,
+   "type": "Contribution",
+   "text": "My Lords, I support all the amendments in this group, particularly Amendment 117, in the names of the noble Lord, Lord Young of Acton, and the noble Baroness, Lady Spielman, and Amendment 119, which was so powerfully and scarily introduced by my noble friend Baroness Boycott. These clauses came from a very real attempt by the Government to limit parents’ spending at a time when the cost of living is so high. I spoke at great length at Second Reading and in Committee about how important school uniforms are. I talked about a 14 year-old girl whom I taught and most of whose pregnancy was hidden by her blazer. It is important, particularly for girls, that changing shapes are hidden during school. It promotes equality and unity. Amendment 117 is particularly good about sport. I remember the first time we were given a full kit with all our numbers on it in Dyson Perrins CofE high school’s under-15 rugby side. It made us feel unbeatable—until we got beaten. Having listened to the noble Baroness, Lady Boycott, we need to make sure that they are not going to poison us. Local businesses often sponsor kits for local football teams; it seems churlish and idiotic not to accept it.",
+   "name": "Lord Hampton",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "My Lords, I speak briefly in support of Amendment 114. Throughout my teaching career, I taught in the most deprived communities on Merseyside, and I always observed that the parents with the least were the ones who took the greatest pride in how their children were attired. I pay huge tribute to them. I understand where the Government are coming from on this: uniforms cost a lot. However, as I said in Committee, this is not the way to do it. There are so many “ands”, “ifs” and “buts”. For example, a uniform in the school colours that consists of a kilt, a braided blazer and a jumper can cost a fortune compared to five items that are simply branded. It is quite difficult to know how to move forward, but the old way of doing it was probably better, whereby you could obtain a uniform grant, and many local authorities still do that. We all share the same goal of making school uniforms affordable for every family, but good intentions without practical wisdom can lead us precisely where we do not wish to go. I fear that if we are faced with a three-item cap, this could happen. Let me speak plainly about what happens when policy meets the playground. The Schoolwear Association tells us th",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "The Earl of Effingham (Con)",
+   "member_id": 4958,
+   "type": "Contribution",
+   "text": "My Lords, we have listened with interest to the valuable contributions during this debate, and we thank all noble Lords who have both spoken to and tabled amendments in this group. Amendment 114, in the name of the noble Lord, Lord Mohammed, seeks to fulfil the Government’s commitment to lowering the cost of school uniforms, but by a monetary cap rather than a limit on branded items. The principle of focusing on the actual cost to families, rather than on the number of branded items, underlines His Majesty’s Loyal Opposition’s support for both this amendment and for Amendment 117 in the name of the noble Lord, Lord Young of Acton. Both these amendments seek to address the real issue at the centre of the Government’s concern: bringing down the cost of school uniforms. It surely makes sense that items provided or loaned free of charge to a pupil should be excluded from the restriction on branded items, on the basis that this imposes no financial burden on families and gives schools greater flexibility, while acknowledging that they already try to help pupils where possible. I turn to Amendment 118 from the noble Lord, Lord Mohammed, which seeks to extend the VAT zero rating for certa",
+   "name": "The Earl of Effingham",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My Lords, it seems appropriate to follow the debate on child poverty with a debate about the action this Government are taking to cut costs for families—in this case, our commitment to cutting the cost of school uniforms for families by limiting the number of branded items that schools can require pupils to have. This will give parents the flexibility to buy more items from a range of retailers, including high street retailers, and to make spending decisions that suit their circumstances. Turning to the specifics of the amendments, Amendment 117, tabled by the noble Lord, Lord Young of Acton, would exclude from the limit on branded uniform items which have been loaned or provided free of charge to pupils. It would allow schools to require pupils to wear more than three branded items of uniform—or more than four where a secondary school includes a branded tie—provided that parents do not have to pay for them. I appreciate the issues and concerns underpinning this amendment, particularly the need to preserve schools’ ability to lend or give branded uniform, or the ability to accept loans or gifts of sports equipment, but it is not necessary. Following my letter to the noble Baroness,",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Lord Mohammed of Tinsley (LD)",
+   "member_id": 5401,
+   "type": "Contribution",
+   "text": "My Lords, I thank all noble Lords for their contributions to what was a fantastic debate. However, I would still like to test the opinion of your Lordships’ House.",
+   "name": "Lord Mohammed of Tinsley",
+   "party": "LD"
+  },
+  {
+   "who": "The Deputy Speaker (Lord Duncan of Springbank) (Con)",
+   "member_id": 4686,
+   "type": "Contribution",
+   "text": "My Lords, Amendment 117 has been superseded by pre-emption, so it cannot be called.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My Lords, before I turn to the groups concerning home education, I thank noble Lords for the thoughtful contributions made in Committee and those who have engaged since then in detailed discussions with my department. I want to reiterate that most families who choose to home-educate do so with their child’s best interests at heart. They do not present safeguarding concerns, and it is not the Government’s intention to place unnecessary burdens on them. However, we must face the reality that some children are in unsafe or unsuitable education and, unlike children in school, they can lack regular contact with adults who can safeguard and support them. These measures seek to strike the right balance between recognising parents’ right to home-educate while ensuring that vulnerable children do not slip through the cracks. They follow repeated attempts by the previous Government and others to legislate for children not in school registers. Of course, new evidence recently has come to light that further underlines the need for appropriate information sharing, earlier identification of children’s needs and stronger safeguards for home-educated children. The local child safeguarding practice",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Lord Crisp (CB)",
+   "member_id": 3783,
+   "type": "Contribution",
+   "text": "My Lords, I am grateful to the Minister that the Government have moved on some of the concerns raised by me and others, particularly about some of the detail required on the register. However, I of course want to press her to move further. A lot of new and significant amendments have just arrived. I want to make two general points relating to those amendments and then comment on several of them. I believe that the Government need to revisit their whole policy on home education. We are debating a significant set of amendments very late in the day which are creating a new regime, but I do not think the full implications have been thought through. Let me give one example which is relevant to this group and to other areas. As many noble Lords will know, most local authorities—I believe it is most rather than just many—hold annual meetings with or request annual reports from home-educating parents in their area. These are done regularly on the basis of case law, which says that local authorities are entitled to ask for an annual meeting or an annual report, which involves quite a lot of work. I do not understand why these have been ignored and the additional requirements for meetings, i",
+   "name": "Lord Crisp",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Spielman (Con)",
+   "member_id": 5404,
+   "type": "Contribution",
+   "text": "My Lords, I shall speak to Amendment 121A, relating to local authority consent for the withdrawal of certain children from school, and to Amendment 131A, empowering local authorities to make home visits to children who have ever been subject to a care order or on a child protection plan. Both amendments have been proposed by my noble friend Lady Barran and are supported by other noble Lords on other Benches. Broadly, I have welcomed the provisions in the Bill strengthening protections for children not in school or removed from schools, and I am grateful to the Government for the amendments that they have tabled since Committee, but I do not believe that is enough. We need to recognise more clearly that, in some circumstances, the declared intention to home-educate can in itself be a signal that some risk or harm has resurfaced. No safeguarding system can ever be entirely comprehensive and infallible, and indeed safeguarding work should always be proportionate, but schools are an important part of that system, especially for children at higher risk. Social work always involves a difficult balance. A care order is a drastic intervention. Maintaining a child protection plan is expensi",
+   "name": "Baroness Spielman",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Russell of Liverpool (CB)",
+   "member_id": 2134,
+   "type": "Contribution",
+   "text": "My Lords, I am happy to have added my name to Amendments 121A and 131A by the noble Baroness, Lady Barran. I am grateful to officials from the Department for Education who had a meeting with us to discuss these amendments and the reasoning behind them. The reasoning behind those amendments is really simple. The Sara Sharif incident happened despite multiple reviews looking into not dissimilar cases, in some cases over previous decades. In this case, I do feel that almost an extreme preventive approach is required to make sure that we do not have a repetition. The point was made by the officials that there have been significant improvements in the quality of children’s services in most of the country and about two-thirds are now in a reasonable shape, but that raises the question: what about the other third? If there is another case, God forbid, like Sara Sharif —and history, for I am a historian by background, teaches us that that probably will happen—the opprobrium that will be heaped upon whichever unfortunate Ministers and officials happen to be in office at the time will be considerable and, in our view, is avoidable. We should mitigate that risk by assuming that we have to leg",
+   "name": "Lord Russell of Liverpool",
+   "party": "CB",
+   "role": "Chair"
+  },
+  {
+   "who": "Lord Hampton (CB)",
+   "member_id": 4951,
+   "type": "Contribution",
+   "text": "My Lords, I added my name to Amendments 121A and 131A. There is a real problem of mistrust with elective home education against traditional education. I acknowledge my noble friend Lord Crisp, and am delighted to be on his working party to try to do something about it. I was in the same meeting as the noble Baroness, Lady Barran, and my noble friend Lord Russell where we talked to the DfE. It was rather wonderful, because instead of talking about technicalities, one of the people there started talking about cricket, which I am much happier with than Section 31s and things. He accused us of setting the field for a bad ball—so we were being extremes. Obviously, I came back with no setting the field for a bad ball but putting some sweepers out as well just in case. The whole point of legislation is to avoid the disasters, the out of the ordinary, the Sara Sharifs. We were also told that a possible future home visit might deter parents from seeking help with a Section 31. Again, I cannot see why. These amendments are incredibly sensible and thoughtful, and their spirit would help those avoidable disasters, which, tragically, may well happen.",
+   "name": "Lord Hampton",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Tyler of Enfield (LD)",
+   "member_id": 4231,
+   "type": "Contribution",
+   "text": "My Lords, I have also added my name to Amendment 121A in the name of the noble Baroness, Lady Barran. This is a very important set of amendments. I welcome the fact that many of them are about strengthening safeguarding. That is really important. I listened very carefully to the noble Lord, Lord Crisp, because he had, as ever, some very important points to make. I do not agree with everything he said, but I agree that the time is ripe have a broader debate about a wider set of issues around the whole issue of home education that go outside the scope of this Bill. I hope it will be possible to do that. I also agreed with the noble Lord about the need for any safeguarding action to be proportionate, but it is my view that the targeting of action—as it is in Amendment 121A, so that “local authorities must consent to the withdrawal of a child from school” if they are involved in either child protection plans or are a child in need as classified under Section 17 of that Act—is proportionate in trying to provide additional support for vulnerable children and making sure that they do not fall through the cracks. We have heard too many times, over the years, these heartbreaking cases of ch",
+   "name": "Baroness Tyler of Enfield",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Meston (CB)",
+   "member_id": 1940,
+   "type": "Contribution",
+   "text": "My Lords, I support Clause 31 and government Amendment 120. I also support Amendment 121A, which would extend the scope of what Clause 31 seeks to achieve, which is to prevent concealment of the real reasons for attempts to withdraw children from school, in particular by parents or a parent with something to hide. The clause provides that the consent of the local authority is required if there is a Section 47 inquiry under way or there has been such an inquiry. Amendment 121A would extend the scope of the need for the local authority’s consent, which I support. However, if we are talking about cracks, I suggest that it could go further. The need for consent should also be triggered if the family court, in private law proceedings, has directed a report and investigation under Section 37 of the Children Act or has directed a local authority to report under Section 7. Experience shows, and certainly my experience is, that it is often in private law proceedings that alarm bells first ring. That is the first opportunity to investigate what really might be happening in the family home.",
+   "name": "Lord Meston",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Shephard of Northwold (Con)",
+   "member_id": 132,
+   "type": "Contribution",
+   "text": "My Lords, I support my noble friend’s sensible proposals in Amendment 121A—they obviously have cross-party support. The Bill proposes a power for local authorities to withhold consent to a child being removed from school in certain circumstances and my noble friend’s amendment would strengthen that principle by giving a local authority the power to refuse consent if a child has ever been subject to a child protection plan or if they are currently defined as a Section 17 child in need because of abuse or neglect. It is important to remember that although education in this country is compulsory, schooling is not. For some parents this is a very important principle, which is why I support other amendments supported by my noble friend to require a local authority to give its reasons for withholding consent and, importantly, to simplify the huge amount of information a parent choosing to educate their child at home currently has to provide. My noble friend Lord Lucas, who is in his place, asked an apposite question in Committee: “What is the Government’s purpose in seeking to be … so intrusive and punitive towards elective home education ”—[ Official Report , 20/5/25; col. 173.] in this",
+   "name": "Baroness Shephard of Northwold",
+   "party": "Con"
+  },
+  {
+   "who": "The Lord Bishop of Manchester",
+   "member_id": 4878,
+   "type": "Contribution",
+   "text": "My Lords, I will be very brief. It is an old, apparently African, adage that it takes a village to raise a child, but it is no less true for that. What that captures in a few words is that raising a child is a balance: a partnership between the parents on the one hand and the wider community on the other. I think that is what we are trying to get at in this group of amendments: what are the appropriate powers for the state to have and what should be simply left to parents? It is a long-standing principle in this country that parents have the right to home-educate their children, but where that becomes a proxy for hiding the children from the state and putting them in a place where they are potentially at risk and at danger then clearly concerns must be raised. Having listened carefully to this debate, I will, if they are pressed to Divisions, support the noble Baroness, Lady Barran, in Amendment 121A and maybe later in Amendment 131A. They are probably as nuanced as we are going to get in a complex situation where we can all find bad balls for which we should not be setting the field.",
+   "name": "The Lord Bishop of Manchester"
+  },
+  {
+   "who": "Lord Wei (Con)",
+   "member_id": 4145,
+   "type": "Contribution",
+   "text": "My Lords, I will speak to Amendments 164B, 164C, 167A, 170A, 170B, 175ZD and 175ZE in my name. All these amendments are rooted in one concern, and we have had a lot of debate already that touches on this: that it is not whether the state may act, but how it does so. It is not whether safeguarding matters, because it does, but whether the systems we design can tell the difference between care and control, and between help and coercion. I welcome those of the Government’s amendments that strengthen scrutiny, including by using the affirmative procedure. That kind of restraint does not weaken authority; it makes it legitimate. Where I differ is where further processes, or compulsory steps, are placed on parents simply to complete a sequence. Support should be available, but it should not become mandatory and it should not become a gateway to enforcement.",
+   "name": "Lord Wei",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Lucas (Con)",
+   "member_id": 1879,
+   "type": "Contribution",
+   "text": "My Lords, new Section 434A(6)(b)(i) asks the local authority to consider “that it would be in the child’s best interests to receive education by regular attendance at school”. But no child attends school: they attend a school. They might attend the school where the noble Lord, Lord Hampton, works—fine—or they might go to the school depicted in episode 2 of “Adolescence”. That would have me hoicking my child out in a millisecond, and there are a lot of schools like that. My noble friend’s Amendment 175ZD is therefore an important potential addition to the Bill. There should not be a presumption that any school is better than any home education, but that is where we are heading with this bit of the Bill. We are putting a duty on local authorities to judge and giving them the presumption that the child should be put into school. It is like buying IBM when I was young: it is the safe choice. If local authorities allow someone to be home educated, they are taking all the risks on themselves, but if they chuck the child into school, any school, there are no risks. So all the emphasis on how a local authority officer should behave is focused on pushing a child into school, whatever the ci",
+   "name": "Lord Lucas",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "My Lords, we have come a long way on the issue of home education and safeguarding. I want to start by thanking the Minister for her comments at the beginning of this group. I was also taken with the noble Baroness, Lady Shephard, who reminded us that education is compulsory, but schooling is not. We want all our learning and education, whether it is in school or at home, to be the best that can be provided. We want our schools to be safe and we want children who are home educated to be safe. I remind the House of where we currently stand. Any parent can take their child out of school just like that: no notification or form-filling, they just take their child out. They take them to their home and apparently, hopefully, maybe or definitely home educate them—we do not know. There are some parents who are absolutely determined that their children get the best home education that they can give them. However, we also have situations at the other extreme, where, for example, unregistered fundamentalist religious schools have been closed down. They home educate children in small groups, because they are allowed to, and nobody knows what is going on in those schools. That cannot be and is n",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, I shall start, where the noble Lord, Lord Storey, finished in recognising the work of Lord Soley, who devoted many years to this issue. I hope somewhere, in his retirement, he is aware of what is happening here. As we have discussed previously, there are at least three groups of families who educate their children at home: those who do so for philosophical reasons, where they make a positive choice; those who feel their children are struggling at school—many of whom, as we heard from my noble friend Lady Shephard, have special needs—and may not have chosen home education but believe it is in their best interests; and those whose children are faced with exclusion from school or other issues, where we are right to have concerns about their safety. The noble Lord, Lord Crisp, whom I genuinely have huge respect for—I am grateful for the collaborative way he has worked on this Bill across the House—talked about serious case reviews, but two-thirds of serious case reviews are of children of preschool age, so we are not comparing apples with apples. The Government have introduced some very serious, albeit belated, and positive amendments, partly in response to the recommendation",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I will focus on the detail of the amendments in this group, rather than on some of the broader arguments made by noble Lords. Both on Second Reading and in Committee, we have talked about home education issues at considerable length.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Lord Crisp (CB)",
+   "member_id": 3783,
+   "type": "Contribution",
+   "text": "Is the Minister saying that when a local authority has just granted authority to parents to take responsibility for life for what are difficult children with trauma in their background, fairly soon afterwards you are going to second-guess them about how they should do education? The Minister may say that it should be done softly, but essentially that is what she is saying—that she is going to make them jump through yet another hoop.",
+   "name": "Lord Crisp",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "No, that is not what I am saying. I am saying that these are children who, almost by definition, will have gone through difficult and traumatic circumstances. Therefore, the opportunity within that five-year period to have the process for ensuring that they would not be better served by staying at school would serve those children well. I was about to say that, of course, those parents will already be well known to the local authority, and we would expect those checks to be relatively quick because the relevant information and relationship with the parents is already built. On Amendment 121A tabled by the noble Baroness, Lady Barran, I thank the noble Baroness as well as the noble Lord, Lord Russell, and others for their constructive engagement last week. They have referenced the meeting they had with my officials on the detail of their amendment; of course, it was also with Steve Crocker, the non-executive board member for the department and former president of the Association of Directors of Children’s Services, and the DCS in Hampshire. The amendment would seek to extend the requirement to get permission to withdraw a child from school to home-educate them to a much broader grou",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Lord Hampton (CB)",
+   "member_id": 4951,
+   "type": "Contribution",
+   "text": "Before the noble Baroness sits down, I am slightly disappointed that she did not comment on something that I would like to hear from her. The noble Lord, Lord Lucas, for whom I have enormous admiration—particularly as he was very kind about Mossbourne just now—said that there are plenty of schools like the one in episode two of “Adolescence”. It really bugs me that, although “Adolescence” is an extraordinary piece of drama, it is now being taken as a documentary. It is a dystopian view of schools. Will the Minister assure the House that there are not plenty of schools like in episode two of “Adolescence”?",
+   "name": "Lord Hampton",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I am more than happy to do that. The point we have raised consistently throughout this is that it is right that parents have the ability to home-educate their children, if that is what they choose to do, but the idea that they are forced to do that because the vast majority of our schools are bad is simply wrong. The vast majority of our schools do a very good job for children. That is why the vast majority of children are educated within them and benefit from that.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "The Deputy Speaker (Lord Young of Cookham) (Con)",
+   "member_id": 57,
+   "type": "Contribution",
+   "text": "The debate is in the name of the noble Lord, Lord Crisp. Does he wish to respond?",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Lord Crisp (CB)",
+   "member_id": 3783,
+   "type": "Contribution",
+   "text": "Sorry, my Lords, I did not realised that I have the chance to respond. I feel somewhat outnumbered on a number of the things that I said. I think there is a real need to have a proper look at policy about how all this fits together. I think we are going to come across quite a lot of unease and protest, in various ways, around the country as a result of some of these measures being brought in, perhaps at rather a late moment. Having said all that, I am very happy to work with others to try to find some solutions and I beg leave to withdraw the amendment.",
+   "name": "Lord Crisp",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "I would like to test the opinion of the House.",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I beg to move.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Baroness Benjamin (LD)",
+   "member_id": 4167,
+   "type": "Contribution",
+   "text": "My Lords, I wish to speak to Amendments 127, 129 and 130 in my name, which are supported by the noble Lord, Lord Parkinson; I thank him for his support, as always. These amendments are on behalf of young performers in the fast-paced and flourishing entertainment industry. I congratulate all of the young people involved in films nominated for the BAFTA awards. I have worked closely with Spotlight, experts on international child performance licensing, and child licence co-ordinators, all of whom have a wealth of experience in dealing with child performers and the issues that surround them and their well-being; I thank them all for their hard work and commitment.",
+   "name": "Baroness Benjamin",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Parkinson of Whitley Bay (Con)",
+   "member_id": 4728,
+   "type": "Contribution",
+   "text": "I have added my name in support of Amendments 127 and 129 tabled by the noble Baroness, Lady Benjamin, and outlined so eloquently by her just now. I also signed her amendments on a similar topic during earlier stages of the Bill, and I commend her for pursuing this important topic throughout its passage. I was unable to be here for the debates we had on this issue in Committee but followed the detailed exchanges that the noble Baroness had with the Minister then. I know that they have been talking fruitfully outside the Chamber as well, which I was glad to hear. Reading those earlier exchanges, however, I must say that I was struck by how thick the jungle of regulation has become in this area, and how hard it is as a consequence for parents and teachers of young people who are offered these important and beneficial experiences to help take up what can be truly life-changing opportunities for them. In a simpler era, I was somebody who benefited from such an opportunity. At the age of 13, I played a French ghost called Guillaume in a children’s television drama, broadcast on Halloween 1996. That opportunity came about by chance; the writer of the show had worked with some of the teac",
+   "name": "Lord Parkinson of Whitley Bay",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Wei (Con)",
+   "member_id": 4145,
+   "type": "Contribution",
+   "text": "My Lords, I will speak to Amendment 148C and the other amendments in my name in this group: Amendments 157A, 161B, 161C, 164A, 175ZF and 254. Together, they address the foundations of Clause 32 and the proposed register of children not in school. I begin by recognising where the Government have listened and where Ministers have accepted the need for stronger parliamentary scrutiny, clearer procedures and a narrowing of discretion through the affirmative process and other means. This deserves acknowledgement. Restraint is not a weakness in law; it is what makes power credible. I want to address the deeper questions raised by Amendments 164A, 175ZF and 254. These are not separate concerns; they express a single constitutional proposition. We heard just now about the restrictions that many families in the creative industries will face, and I would extend that to all families, as many families have complex fast-changing lives. In home education, you have a lot of online activity. I do not think that there is necessarily a huge world of difference. I accept that children in acting have a particular situation, but those who are in home education circumstances also have quite complex sche",
+   "name": "Lord Wei",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Jones of Moulsecoomb (GP)",
+   "member_id": 4297,
+   "type": "Contribution",
+   "text": "My Lords, I got around to reading all these amendments only today, and I was quite impressed. I felt that in some ways this is your Lordships’ House at its best, because this is all from personal experience. People are talking about something they know very intimately and can therefore put the necessary emphasis where it matters: the noble Baroness, Lady Benjamin, the noble Lord, Lord Parkinson—le petit Guillaume—and the noble, Lord Wei, with his home schooling. I feel that we have completely failed children who are home educated; we have not understood how important that aspect of education is for many children. At the moment, there are excessive data powers, legal ambiguity and the erosion of long-standing parental rights. It is just so much worse than it could be, and I feel very sad about that. I have three grandchildren who were home educated; two are now studying at Cambridge and the other is making films, so their home education did not hold them back. I am concerned about the digital ID as there are no safeguards on sharing that information. There are unchecked powers for the local authorities, and there was no meaningful consultation or risk assessment. Therefore, home-edu",
+   "name": "Baroness Jones of Moulsecoomb",
+   "party": "GP"
+  },
+  {
+   "who": "Lord Lucas (Con)",
+   "member_id": 1879,
+   "type": "Contribution",
+   "text": "My Lords, I very much support my noble friend’s Amendment 157A. One of the fundamental things that can come out of this register is proper information for Parliament on what is happening in home education, and I very much hope that we will receive that.",
+   "name": "Lord Lucas",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "My Lords, I will speak to the two amendments tabled by the noble Baroness, Lady Benjamin. I hope I will be able to see the noble Lord, Lord Parkinson, on YouTube. Was it a goose, did he say? Our creative industries are hugely important to this country—we are world leaders—and children and young people play a huge part in their success. One of my ex-pupils, Josh Bolt, was a regular on “Last Tango in Halifax” and, sadly, “Benidorm”; I know that the schooling side worked for Josh. We are so lucky to have in this House people who have real expertise in particular areas. Obviously, the noble Baroness brings it in relation to the performing arts sector, so we have to listen with great care to what she says. During the coalition, we promised a review— I think PACT was involved—and that decision in 2014 needs to be looked at again. If young people are acting or performing, we need to ensure that they are safeguarded and that their education is there. We also need to ensure that the system does not prohibit them making a valuable contribution, not least to their own career development. I hope the Minister will say some warm and wise words on those amendments.",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "The Minister always says warm and wise words—well, some of the time.",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My noble friend Lady Blake is responding.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "Oh, well, all the time, then. I will keep my remarks very brief. The noble Baroness, Lady Benjamin, and my noble friend Lord Parkinson made a convincing case that children involved in performances should get special consideration in this area. I am not sure whether this is something I have to declare on the register, but my husband appeared in a drinking chocolate advert. I am ashamed to say that I just messaged him and, rather like my noble friend Lord Parkinson, he remembers exactly how much he was paid: £17 a day for two days and £200 for repeat broadcasts. My noble friend made the point very vividly: this means a huge amount to the children involved. On the amendments tabled my noble friend Lord Wei, he will not be surprised to hear me say that the principles underpinning a register were in the previous Government’s Schools Bill and in the current Government’s manifesto, and we should respect that. Having said that, his Amendment 157A, even if it does not need formally to be in legislation, would be a very constructive way forward. I look forward to the Minister’s remarks.",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness in Waiting/Government Whip (Baroness Blake of Leeds) (Lab)",
+   "member_id": 4912,
+   "type": "Contribution",
+   "text": "I feel that this group is becoming something of a confessional. It is very interesting to hear noble Lords’ backgrounds. The thing I love about this House is that noble Lords can bring their personal experiences, which makes the debate so rich. I expected it from the noble Baroness, Lady Benjamin, but it is very interesting to have other experiences coming into the Chamber. This is a very important group of amendments about making sure that the registration system works, that it captures the appropriate children and that it does not in any way undermine young people’s ambitions. That is a very good point. Amendments 127 and 129, tabled by the noble Baroness, Lady Benjamin, would exclude all child performers from inclusion in the children not in school registers. I thank the noble Baroness for her productive engagement with the department and my noble friend the Minister on these issues that she obviously cares very passionately about. I think that she agrees that home-educated child performers should remain in scope of the registers. For that reason, we cannot accept the noble Baroness’s amendment, which would exclude all child performers from the registers. However, I am pleased t",
+   "name": "Baroness Blake of Leeds",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip"
+  },
+  {
+   "who": "Baroness Benjamin (LD)",
+   "member_id": 4167,
+   "type": "Contribution",
+   "text": "My Lords, I am overjoyed. I am so happy for the child performers of today and the future, because we are breaking down barriers that might prevent them having an exciting experience in the creative industry. I thank the Minister for partially accepting my amendments; I am most grateful for that. Once again, I thank her and her team for the hard work which has gone on behind the scenes for us to get to this point. I thank the noble Lord, Lord Parkinson, for his support—and for giving us an insight into his career; it was interesting to hear that from him. I also want to take the opportunity to thank the Minister for her clear commitment to reviewing the regulations that govern child performing, both in this country and abroad. The creative industries are a source of great pride to our country, but at their very heart must be the well-being of the children who contribute so much to their success. I am therefore grateful to the Minister for recognising this and that the existing framework must keep pace with the realities of the modern world we live in. It is so important that we do that for our children. I particularly welcome the Minister’s assurance that the review will be undertak",
+   "name": "Baroness Benjamin",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, I will speak very briefly. I am not going to divide the House on Amendment 131A, although I feel I ought to, but I would be grateful if the Minister could agree to write to me, and put a copy in the Library, explaining what the purpose of Amendment 131 is, because my amendment would have brought absolute clarity as to which children and which homes would receive a home visit. She said that children to whom Section 47 applied would get a home visit anyway, but the implication was that those other groups of children would not. It would be helpful to know how the Government are planning to give clarity to local authorities. At a high level, what will the guidance say? Are there powers that the Government are taking within the Bill that would allow them to introduce something like my amendment in future if it appeared to be necessary? If she could commit to write, I would be very grateful.",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I am happy to commit to write and respond to those questions.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "I beg leave to withdraw the amendment.",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Hacking (Lab)",
+   "member_id": 3580,
+   "type": "Contribution",
+   "text": "My Lords, I will be speaking in this group on Amendments 134A, 139 and 140. At this stage, I should draw your Lordships’ attention to Amendment 135A tabled by the noble Baroness, Lady Barran, and the noble Lord, Lord Crisp. The very first part of this amendment is almost identical to my Amendment 134A. However, in the second part—which is a rather longer part—of Amendment 135A, which deals with the problem of excessive information being sought from home-schooling parents, the noble Baroness and noble Lord deal with it much more extensively than I do in my Amendments 139 and 140, but it is on the same subject. Before I speak to my Amendment 134A, I should like to acknowledge the good progress that has been made on home-schooling issues in the three or four years that I have been involved in them in your Lordships’ House. First, there has been very good progress on the register, which is now to be called the not in school register. That is most welcome. The noble Baroness, Lady Barran, may remember that, with the previous Government’s Bill, I made it quite plain that I have always supported the institution of that register. Secondly, I acknowledge the recognition that home schooling ",
+   "name": "Lord Hacking",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Wei (Con)",
+   "member_id": 4145,
+   "type": "Contribution",
+   "text": "My Lords, I shall speak to the amendments in my name in this group, namely Amendments 148A, 148B, 148D, 148E, 153A, 155A, 161D and 174A. Together, they are concerned with one question: how information about children and families is collected, used, retained and acted on under the Bill. Again, I begin by recognising that the Government have shown restraint where Ministers have strengthened scrutiny, tightened procedures and limited the scope for open-ended regulation-making, and it deserves acknowledgement. My amendments in this group are animated by a single concern: if Parliament is minded to create a register, it must be tightly bounded, purpose-limited and structured so that it does not normalise suspicion or routine burden and data sought must be proportionate to serving a legitimate aim and narrowly tailored. It must not indirectly discriminate against or unduly burden parents who choose to home educate when compared with children attending recognised schools. Amendments 148A and 148B concern data use and data governance. The true risk of a register lies not only in what it collects but in what that information becomes over time. Data once shared rarely contracts. Once repurpo",
+   "name": "Lord Wei",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Crisp (CB)",
+   "member_id": 3783,
+   "type": "Contribution",
+   "text": "My Lords, I shall speak to Amendment 135A in my name and that of the noble Baroness, Lady Barran. Before doing so, I once again thank the Minister for having reduced the requirements in this section considerably—I am very pleased not to have to comment on whether Scouts, rugby clubs, cricket clubs or anything are included—and getting rid of the 15-day requirement to report. Those are significant improvements. In terms of process, I shall just pick up on one point, which I raised earlier, so I will not speak at length on it, about how this process of putting information on the register fits in with the annual reporting process that happens in an awful lot of authorities. That may be a local issue rather than a national one, but I will be interested to hear the Minister’s response on that. Amendment 135A from the noble Baroness, Lady Barran, is largely heading in the same direction as the amendment moved by the noble Lord, Lord Hacking. I think it is proportionate. I think it is important that proposed new subsection (3) states: “Nothing … prevents a local authority from requesting further information … where the authority has reasonable cause to believe that a child may not be recei",
+   "name": "Lord Crisp",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Lucas (Con)",
+   "member_id": 1879,
+   "type": "Contribution",
+   "text": "My Lords, I echo what the noble Lord, Lord Crisp, has just said, particularly the thanks to the Minister for the time and consideration of civil servants and the many excellent government amendments in this group that reflect that. I too think that Amendment 135A and the versions of it tabled by the noble Lord, Lord Hacking, are really worth considering and, alongside them, as the noble Lord, Lord Crisp, has said, Amendment 172A and other aspects of cyber security. This is a collection of information about children. We need to be very careful about it. I hope the Government will not allow local authorities to develop their own versions of software to do this but will do this centrally and to the highest standards.",
+   "name": "Lord Lucas",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, my amendments in this group pull in two slightly different directions. If the Minister and her officials are confused, I apologise, but I will try to explain why. The main thrust of my amendments, as the noble Lords, Lord Crisp and Lord Hacking, both said, is to try to simplify the amount of specific detail required to be held on the register in future. I too very much welcome the Government’s decision to simplify a lot of the information that was in the original draft of the Bill and to leave a bit more room for professional curiosity on the part of the home education team in the local authority. My Amendments 135A, 135B and 146A all point in this direction and give the Government different options—a pick-and-mix menu to achieve this end. Amendment 146B would make it clear that a local authority can request further information where it believes that a child might not be receiving a suitable education or that their welfare may be at risk. In the other direction is my Amendment 143B— I hope the Minister will be able to address this specifically when she sums up—which would establish a duty to record information relating to care proceedings. I think that is missing from the",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My Lords, as noble Lords have noted, the amendments in this group are all about how we reduce the burden on parents of providing information for children not in school registers while maintaining the purpose of those registers. As I said in the previous group, I have taken seriously noble Lords’ views that the provisions as drafted in the Bill were too onerous for parents. At the same time, it is important to remember that the system we are proposing is still incredibly light-touch relative to what is mandated in many other countries. I turn to the amendments proposed by my noble friend Lord Hacking—134A, 139, 140 and 141—and Amendments 135A and 135B tabled by the noble Baroness, Lady Barran. These would remove certain information requirements or replace them with more limited alternatives. It is essential that local authorities have the information they need to assess whether a child’s education is suitable and full-time. I fully appreciate the intention behind these amendments, but reducing the scope of information would, in practice, make those assessments significantly harder. It is also vital that safeguarding information and other relevant information on registers be recorded",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Lord Hacking (Lab)",
+   "member_id": 3580,
+   "type": "Contribution",
+   "text": "I thank my noble friend the Minister. She and her officials have clearly thought very carefully about the provisions of this Bill and have come to some conclusions. My difficulty is that I think they have come to the wrong conclusions, and I would therefore be very grateful—and I will be withdrawing my amendment—if my noble friend and her officials looked carefully at what I argued relating to my two sets of amendments. If there is any way they can find to accommodate my concerns, I would be very grateful. The central point is that what I proposed in both sets of amendments was a safe way of doing it, and it must be the safe way of doing it: changing the drafting on page 58 of the Bill from the “home address of each parent of the child” to each parent or parents who have responsibility for their education. That is the safe way of dealing with that. Likewise, on the amount of information being sought from home-schooling parents, my amendment is the safe way of doing it. I am asking the Minister and her officials to look at the safe way relating to both sets of amendments, but having said that, I beg leave to withdraw my amendment.",
+   "name": "Lord Hacking",
+   "party": "Lab"
+  },
+  {
+   "who": "The Deputy Speaker (Lord Russell of Liverpool) (CB)",
+   "member_id": 2134,
+   "type": "Contribution",
+   "text": "I remind the House that if Amendment 138 is agreed, I cannot call Amendments 139 and 140 because of pre-emption. Amendment 138",
+   "name": "Lord Russell of Liverpool",
+   "party": "CB",
+   "role": "Chair"
+  },
+  {
+   "who": "Baroness Blake of Leeds (Lab)",
+   "member_id": 4912,
+   "type": "Contribution",
+   "text": "The government amendments in this group seek to strengthen the support and engagement local authorities offer to families who wish to home educate. As my noble friend the Minister said during Committee, it is vital that local authorities build constructive relationships with parents. Such relationships are the most effective way for local authorities to understand a child’s education and circumstances and to identify any support families may want or require. The Department for Education is committed to fostering these partnerships wherever possible. Government Amendment 144 would amend Section 436C(2)(j) to remove the specific reference to institutions in the further education sector. This would ensure that the department can require local authorities, via regulations, to record information about any education institution a registered child is attending or has attended in the past where the local authority has the information or can reasonably obtain it. Such information could be beneficial to include on registers because a history of establishments attended will give local authorities a clearer idea of the child’s circumstances and educational history. This understanding will enab",
+   "name": "Baroness Blake of Leeds",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip"
+  },
+  {
+   "who": "Lord Crisp (CB)",
+   "member_id": 3783,
+   "type": "Contribution",
+   "text": "My Lords, I will speak to my Amendment 160. As I did in the last group, I start by saying that I am grateful to the Minister and her colleagues for having moved in some way on the information provided about exams, and for setting up a forum; it will be interesting to see how that operates. I am also very sympathetic to Amendment 161A from the noble Lord, Lord Wei, in which he proposes setting up a proper forum where parents are asked to take some responsibility for the relationship. That seems quite a positive, and maybe a longer-term, way forward.",
+   "name": "Lord Crisp",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Russell of Liverpool (CB)",
+   "member_id": 2134,
+   "type": "Contribution",
+   "text": "My Lords, I rise, first, to thank the Government, on behalf of myself and the noble Lord, Lord Young of Cookham, for bringing forward Amendment 146, putting carers on the register. We heard moving testimony in Committee about some incredibly young carers aged eight, nine or 10 looking after several members of their families—siblings and parents. In some cases, they were apparently being home-educated, but from the point of view of the adults they were caring for, looking after them took priority. That is why it is so important and so helpful that they will be recorded. I also support my noble friend Lord Crisp and Amendment 175ZC from the noble Lord, Lord Wei, which is along the same lines—it is for children who are coming to the final parts of their home education and will, one hopes, take and pass exams. There is a real postcode lottery, particularly post-Covid, in access to examination centres. In parts of the country such as Cornwall or large parts of the north of England, it is extraordinarily difficult for parents to access examination centres for their children. In some cases, they have to travel one and a half to three hours to go to them. In many cases, their children are ",
+   "name": "Lord Russell of Liverpool",
+   "party": "CB",
+   "role": "Chair"
+  },
+  {
+   "who": "Lord Wei (Con)",
+   "member_id": 4145,
+   "type": "Contribution",
+   "text": "My Lords, I shall speak to Amendments 161A, 175ZA, 175ZB and 175ZC in my name. These amendments sit in a part of the Bill that would be felt most sharply not in Whitehall but in kitchens and living rooms by parents doing their best for children whose needs do not fit neatly in the school system. When Parliament reaches into family life, it has to do so with care, because it is easy to create a framework that looks reasonable on paper and yet breathes mistrust in practice. Again, I want to acknowledge at the outset the Government’s movement in this group. Government Amendment 158 recognises the reality of exam access and ensures that information about GCSE routes can be provided to parents who ask for it. Amendment 159 creates a regular forum for parents to raise concerns and discuss how this regime operates. Amendment 161 tidies the drafting around exam-related provisions. These are sensible steps. They start to show an understanding that families need information and a channel of engagement, and I welcome them. Yet there remains a gap between permission and protection. Information may be offered, but access can still fail, as we have heard from the noble Lord, Lord Crisp, and othe",
+   "name": "Lord Wei",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Hampton (CB)",
+   "member_id": 4951,
+   "type": "Contribution",
+   "text": "My Lords, I shall speak briefly to Amendments 160 and 175ZC, which we have heard so much about. The noble Baroness, Lady Blake, when talking to Amendment 158, painted a very rosy picture of parents being signposted to happy centres where their children could all take wonderful exams and obviously achieve enormous success. However, the reality, from what I have seen and heard, is a very different thing. Amendment 175ZC provides a very clean solution. Access to exams is the golden thread. We want as many of our students to succeed—they have to do their exams. If they are driving hundreds of miles, that is not going to work. I genuinely think that working in partnership with local state schools would be quite a simple thing. There is always room in an exam hall for an extra 10 people, and you have the invigilators already. It would be a very simple thing, so I urge the Government to accept these amendments.",
+   "name": "Lord Hampton",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Lucas (Con)",
+   "member_id": 1879,
+   "type": "Contribution",
+   "text": "My Lords, in the spring of 2024, my noble friend Lady Barran was kind enough to allow me to explore what is going wrong with GCSE provision for home-educated people. I was foolish enough to think that the election would be in October, so I never got to the end of that process, but it is clear from the work that I did that there are a number of things the Government can do to help.",
+   "name": "Lord Lucas",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "My Lords, we on these Benches support the very important amendment of the noble Lord, Lord Crisp. It would be very easy to say, “You chose to be home-educated, so you go with the fees and everything involved”, but we are talking about children and young people here. We are talking about their future and, whether they are home-educated or taught in a school, they deserve the best possible opportunities. We started today’s sitting on Report with the amendment from the noble Lord, Lord Bird, about targets and about children in poverty, basically, and not all children who are home-educated are from posh, middle-class situations. Many of them are from deprived communities, from working-class communities, and they need support in two ways. One is that they need help in terms of access to exam centres and doing their exams and, secondly, they need some finance. If we really want to start this new dawn of partnership with local authorities and home educators working together, what a wonderful way to start that off by making a real positive gesture. The Government talk all the time, quite rightly, about how important it is to give all children and young people opportunities. They talk about",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "The Earl of Effingham (Con)",
+   "member_id": 4958,
+   "type": "Contribution",
+   "text": "My Lords, His Majesty’s loyal Opposition are of the view that the government amendments seem entirely reasonable, and we therefore support them. While we understand the intentions behind the amendments of the noble Lord, Lord Wei, we cannot support them. These issues were addressed in Committee by the noble Baroness, Lady Barran, and I will not repeat those arguments on Report. Similarly with the amendment of the noble Lord, Lord Crisp, we believe that local authorities simply do not have the capacity right now to be committing new funding, however small. So, while we understand the noble Lord’s intentions, we cannot support his amendment, but we welcome the opportunity to hear the response from the Government on the critical issues highlighted by all noble Lords thus far.",
+   "name": "The Earl of Effingham",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Blake of Leeds (Lab)",
+   "member_id": 4912,
+   "type": "Contribution",
+   "text": "I thank noble Lords for their very considered comments, particularly the noble Lord, Lord Crisp, for bringing his experience into the Chamber. I thank him for the considerate way that he has approached this. I hope we will continue to have a constructive dialogue as we move forward on these important issues. Amendment 160, tabled by the noble Lord, Lord Crisp, and Amendments 161A and 175ZC tabled by the noble Lord, Lord Wei, seek to require local authorities to act supportively towards, and establish advisory boards of, home-educating families, and ensure that home-educated children can access examinations. As I said at the beginning of this group, local authorities should be sources of support for home-educating families. Noble Lords’ engagement has been constructive and I reassure them that this will be further strengthened by the support duty in the Bill, which is the first ever duty on local authorities to provide support specifically for home-educating families, as well as the government amendments in this group, which clarify that information on GCSE exam access should be provided as part of the support duty and require local authorities to arrange biannual engagement forums,",
+   "name": "Baroness Blake of Leeds",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip"
+  },
+  {
+   "who": "Lord Wei (Con)",
+   "member_id": 4145,
+   "type": "Contribution",
+   "text": "I welcome this timely provision of information for families. I speak for myself, but Peers here have also spoken about the need for exam access and would not want to burden state or other schools that have completely full exam halls. I wonder whether, maybe through a letter, we could have a further conversation with the department about this. As that information is gathered and you discover what access there is in a local authority, if there literally is none for exams, could there not be some dialogue with the local schools? This would not be to force them to do anything they cannot do, or cannot afford to do, but just to ask how many spare desks they have in their exam halls, which they probably will be able to tell you very quickly. Then, that will allow conversations to happen about creating something in the area, which often may be absent, as we found.",
+   "name": "Lord Wei",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Blake of Leeds (Lab)",
+   "member_id": 4912,
+   "type": "Contribution",
+   "text": "I thank the noble Lord for that intervention. This is exactly what we are proposing: there needs to be that dialogue, to have a better understanding of what is—or is not—available locally. The noble Lord mentioned his own circumstance, having to travel a long distance. Perhaps if he had been able to have a conversation about which exam boards operate in his local area, that might have made a difference. That situation, of the offer from different exam boards, is unique to England, which obviously means different syllabuses—which has an impact. The earlier conversations we are proposing will hopefully bring that out. It is difficult to be too prescriptive at this point, because of the different circumstances in different localities. It is for those areas to make clear what provision they are able to make. In relation to Amendment 175ZC, it is also important to highlight that the Equality Act 2010 already places a statutory duty on awarding organisations to provide reasonable adjustments for disabled students in exams and assessments. This applies to all learners, irrespective of whether they attend a school or are home-educated. I hope that answers the point the noble Lord, Lord Wei",
+   "name": "Baroness Blake of Leeds",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip"
+  },
+  {
+   "who": "The Lord Bishop of Manchester",
+   "member_id": 4878,
+   "type": "Contribution",
+   "text": "My Lords, this amendment is a repeat of one that I tabled in Committee, to which my right reverend friend the Bishop of Oxford spoke in my absence. I am deeply grateful to him, and to the noble Lords, Lord Lucas and Lord Marks of Hale, who have added their names to it on Report. My concerns with the Bill in its current form relate to those noted in the equality impact assessment, which singled out and named the particular issues that might arise for the Haredi Jewish community. As a Lord spiritual, I see my role as including speaking out when members of another religious community’s beliefs and practices are at stake. Among several groups within Judaism, the practice for boys—it is just boys we are talking about here—during their teenage years after their bar mitzvahs, is a combination of home schooling alongside religious instruction, the latter being provided by a yeshiva. At present, yeshivas are not treated as educational institutions, but the Bill makes it likely that they will be in future. We need to reflect that we are legislating at a time when, after 7 October 2023, Jewish communities here in the UK, and in many other parts of the world, feel particularly threatened and v",
+   "name": "The Lord Bishop of Manchester"
+  },
+  {
+   "who": "Lord Marks of Hale (Con)",
+   "member_id": 5018,
+   "type": "Contribution",
+   "text": "My Lords, I support Amendment 175A. The Government and the Secretary of State for Education in particular have rightly been vocal in confronting antisemitism in education, but that commitment must extend beyond condemning violence or bans towards Jews. The Government cannot condemn violence and bans against Jewish people and then ban or close down their faith institutions. The Government make no secret of the fact that Clause 37 consciously seeks to close down or entirely alter yeshivas. In their analysis of the Bill since its launch, the only faith community they ever mention is the strictly Orthodox Jewish one. The Bill leaves no lawful space for long-established religious institutions, which provide only religious instruction and operate alongside registered home education. Yeshivas are safe and safeguarded institutions. They are not schools. They do not provide academic education and cannot be turned into schools without destroying their religious purpose. They exist to inculcate a lived faith. That some noble Lords may raise an eyebrow at that purpose says more about the distance of our own society from faith traditions than about the yeshivas themselves. Alongside attending y",
+   "name": "Lord Marks of Hale",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Morris of Yardley (Lab)",
+   "member_id": 305,
+   "type": "Contribution",
+   "text": "My Lords, I wish to speak against Amendment 175A. It is tabled in the same way as it was in Committee, but I accept that it was the right reverend Prelate the Bishop of Oxford rather than the right reverend Prelate Bishop of Manchester who spoke to it on that occasion. I do not want to rehearse all those arguments again. It was a good debate, so I will perhaps sum them up and express a few further points. The Bill is not trying to abolish yeshivas; that is not the intent of the legislation. I join both speakers so far in saying that I cherish and welcome the fact that we are a country that values education for all children and allows people of all faiths to reflect that faith in their own education. I have, sometimes at my own political expense, defended the state system, which has Roman Catholic schools, Church of England schools and many other schools. Politically, there are many people who think that we ought to not have faith schools at all. I have always defended them, because that is an important tenet of a free society, and I value the contribution they make to our lives. I feel the same about people of any faith. This is not about the Orthodox Jewish faith. The amendment co",
+   "name": "Baroness Morris of Yardley",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Lucas (Con)",
+   "member_id": 1879,
+   "type": "Contribution",
+   "text": "My Lords, I do not read this amendment in the same way as the noble Baroness, Lady Morris, does, but I will come to that. I start with renewed thanks to the Minister for the time that she and her officials have given to me and thanks to the right reverend Prelate for tabling this amendment. This Bill exemplifies how we are setting clear expectations of the standards that we should set for people who choose to educate their children outside the school system. We should not be ashamed of that. This is an honourable and right thing to do. My main answer to the noble Baroness, Lady Morris, is that, if they are not achieving home education, they are in trouble. There must be home education which is up to the standard we think it should be. If not, it will be in contravention of this Bill. However, that does not appear to be the problem, at least with the Haredi communities that I have been in correspondence with. We have principles—and they have principles—about how children should be educated. The Prime Minister and others in government have made much of their respect and care for our Jewish communities. It would not be consistent with those statements to tip hundreds of families withi",
+   "name": "Lord Lucas",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "My Lords, faith schools play an important part in our country’s education and are to be valued, but as the noble Baroness, Lady Morris, rightly said, we also believe that all children should have access to a broad and balanced curriculum. If we accommodate changes for one religious faith group, that should be available to any faith group or religious group that wants the same. We have, as a country, probably created one of the most successful multicultural, multifaith communities in the world. We should cherish that, but we should also be aware of the dangers that potentially lie ahead.",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "I too thank the right reverend Prelate the Bishop of Manchester for tabling this amendment again. As the noble Baroness, Lady Morris, said, we had a fervent debate in Committee, where the case was made for the precious nature of Haredi traditions but also for the importance of avoiding a two-tier system of education; and that the reality for some young men was that they felt their experience at a yeshiva had been deeply damaging. My noble friend Lord Lucas suggested that the department pick a time period to resolve these issues; that seems a very constructive suggestion. It feels as though this amendment has the elements in it for a way through this very long-running debate, given that it includes a commitment both to suitable out-of-school education and to safeguarding issues being addressed. I acknowledge the deep concerns that were expressed in Committee and I hope very much that the Minister finds a way through this, not least for the Haredi community, who are obviously deeply anxious about it.",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "As other noble Lords have done, I first thank the right reverend Prelate the Bishop of Manchester for bringing forward Amendment 175A. Of course, this amendment was previously tabled in Committee and debated extensively then. For reasons of time, I will not repeat that debate. However, I agree with my noble friend Lady Morris that support for this clause is absolutely not a failure to recognise the significance of faith-based education across a range of faiths in our country. My noble friend is right, and she has championed and supported this, even in the face of opposition. I assure the Haredi community that it is neither a denigration of their faith nor of the way in which they wish to express it in a plural England, where I very much hope they feel able to be, and remain, a full part of our community. It may assist the House if I clarify the purpose and effect of Clause 37 and the Government’s general approach in this area. In so doing, I will attempt to answer the questions raised by the right reverend Prelate. Clause 37 starts from the position that, if a setting is providing full-time education to children of compulsory school age, it should be regulated and subject to oversi",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "The Lord Bishop of Manchester",
+   "member_id": 4878,
+   "type": "Contribution",
+   "text": "My Lords, I am grateful to all who have taken part. I will not delay us long. I agree with the noble Baroness, Lady Morris, that there have to be some limits to what a faith community can do. I believe we can achieve that if we work hard over the next few months on how these kinds of institutions are going to be regulated. We can make sure we are providing space for bona fide organisations that are clearly having the outcome of producing wholesome young people without opening the floodgates to all sorts of negative patterns of upbringing that we might wish to be wary of. I am hugely grateful for the reassurances received and, on that basis, I beg leave to withdraw the amendment.",
+   "name": "The Lord Bishop of Manchester"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "We have moved slightly faster than I expected us to move, which I am sure is greatly welcomed by most Members of your Lordships’ House. I begin with the group of amendments concerning Clause 40. Government Amendments 176 to 183 and 185 principally concern the Bill’s provisions on the material change regime, which governs the type of change that independent schools require Secretary of State approval to make. When the Bill was first published, concern was raised that minor or secondary changes, such as bike sheds or classroom conversions, would be unnecessarily captured if changes of buildings at a school’s already registered address were treated as material changes. The Government have listened to these concerns and the amendments now make clear that building changes at a school’s registered address do not require material change approval. Importantly, the same principle applies to any additional addresses that the department registers after approving a change of building. Further changes of building at these addresses will not be treated as material changes. These amendments take a proportionate approach. They reflect that a registered school making use of new or unfamiliar addres",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Baroness Morris of Yardley (Lab)",
+   "member_id": 305,
+   "type": "Contribution",
+   "text": "My Lords, I have a quick question for the Minister on Amendment 184, which she described towards the end of her speech. I agree with the purpose of this and most of the details, but I am not quite sure what is meant by “excluded material” or “special procedure material”. Is that anything to do with data protection? If it is an unregistered school, would the inspector be able to go in and seize, copy or have access to a register or pupil progress file without having to go and get a warrant? If they gain access and then have to go and get a warrant before they can see the register or the pupil progress information, they are not going to be able to do their job effectively—but that hangs on what is meant by “special procedure material” and “excluded material”. Does that include things such as school registers?",
+   "name": "Baroness Morris of Yardley",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "Again, the noble Baroness, Lady Morris, has taken the words out of my mouth. This is an issue that I have felt strongly about for a number of years. I know from talking to Ofsted that one of the barriers has always been getting the evidence. I presume that the Minister has had detailed discussions with Ofsted and that, as a result, this wording fulfils what needs to be done. I hope the Minister will confirm that.",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, I thank the Minister for listening to the concerns that we raised on this side, both in the other place and in your Lordships’ House, about the scope of Clause 40. We feel that it is much improved and are grateful to the Government for listening.",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "Perhaps I could come back to my noble friend Lady Morris on the details of that particular question; I am sorry that I cannot respond to it now. I welcome the welcome provided to the Government’s amendments in this group. I also reassure the noble Lord, Lord Storey, that we have had extensive discussions with Ofsted about the provisions we are proposing here to make sure they enable Ofsted to do what this Bill is strengthening its ability to do.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "When the Minister gets back to her noble friend, could she also copy us in with that information? It would be quite useful to understand as well.",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I will, as I think is normal when I write to noble Lords about issues that have come up in the debates, copy in anybody that fancies it and probably place a copy in the Library as well for good measure.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, the issue of complaints against teachers is changing considerably, particularly with the advent of social media and AI, which can be used to identify and draft lengthy complaints which schools have to respond to. I understand that up to one in five members of the teaching workforce are currently facing a complaint, rising to one in three of our head teachers. I am very grateful to the noble Baroness, Lady Blower, for signing Amendment 190 in my name and to the National Education Union for its support. I am also grateful to the Minister for Schools, the honourable Member from Camden, for our conversation last week. The original draft of my speech said that I was very hopeful that, when the Minister came to close she would accept the amendment, but I have to say I was very disappointed by the reply that I received from the Minister for Schools today, in which—and I paraphrase —she said that she accepted the concerns that the noble Baroness, Lady Blower, and I had raised when we met her but she stressed it was not the Government’s intention to do any of those bad things; it was to address things such as teachers who take a year’s sabbatical and then come back and all of this",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Jackson of Peterborough (Con)",
+   "member_id": 1551,
+   "type": "Contribution",
+   "text": "My Lords, I shall speak to my Amendments 223 to 226, and your Lordships’ House will remember that we debated the issue in these amendments in June of last year. The amendments have two aims: to provide parents with an effective means of escalating a formal complaint about a school when they are not satisfied with the school’s response, and to introduce a mechanism for better enforcing the legal duties of schools in the provision of education, for example over political impartiality. Proposing these amendments allows for a debate that draws attention to breaches of education law, the failure of the DfE to enforce it or to support concerned parents and the disempowering of parents in the education of their children. At present, there is little or no enforcement of significant parts of education law: first, because the school inspector at Ofsted does not consider compliance with education law per se. When challenged about rating schools hitherto as outstanding when they were clearly in breach of their legal duties, Ofsted has stated that there are many different obligations and that it is not a compliance-driven inspectorate. Inspectors are teachers by profession, so they may not alwa",
+   "name": "Lord Jackson of Peterborough",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Evans of Bowes Park (Con)",
+   "member_id": 4329,
+   "type": "Contribution",
+   "text": "My Lords, I shall speak to Amendment 191 in the name of the noble Lord, Lord Knight, to which I have added my name. In doing so, I declare my interest as honorary president of COBIS. Unfortunately, the noble Lord, Lord Knight, is unable to be here today, but I am grateful to him for sharing recent correspondence he has had with the Minister on this matter. It is critical that we act to improve the safeguarding arrangements between schools here in England and international schools overseas. The Safeguarding Alliance has supplied a couple of very concerning examples of recent cases where the system has clearly failed. In one international school, sexually explicit material was discovered on a school-owned computer during recent IT maintenance. A subsequent investigation identified multiple videos showing a member of staff livestreaming and recording explicit content which was stored within their user account. The content was assessed as being of such an extreme nature that the local UK embassy declined to view or handle the material. A referral was made to the Teaching Regulation Agency, but the TRA confirmed that the matter fell outside its jurisdiction. The member of staff is now w",
+   "name": "Baroness Evans of Bowes Park",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Mohammed of Tinsley (LD)",
+   "member_id": 5401,
+   "type": "Contribution",
+   "text": "My Lords, I am also grateful to follow the noble Baroness, Lady Barran, and to speak to Amendment 191A in my name. During the debates on the Employment Rights Bill, Peers on this side of the Chamber welcomed the Government’s commitment to a review of Section 10 of the Employment Relations Act 1999. However, it is clear that such a review will not necessarily be economy-wide in scope. What it cannot easily do is address the specific position of teachers and school staff, who work in one of the most highly regulated and safeguarding-intensive environments in the labour market. For teachers, disciplinary and grievance processes are not exceptional; they are a structural feature of the profession. Safeguarding law rightly requires that every allegation be taken seriously and investigated, even when later it proves unfounded. As a result, teachers and school leaders are far more likely than most workers to experience formal proceedings during their career.",
+   "name": "Lord Mohammed of Tinsley",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Spielman (Con)",
+   "member_id": 5404,
+   "type": "Contribution",
+   "text": "My Lords, I have Amendment 243D, which is unchanged from the amendment that I tabled in Committee. It is late and I shall be brief. We are in a world where we all have a much greater propensity to complain in great numbers and are doing so very frequently. AI is making it easy to complain at great length, with minimal effort, and service providers of all kinds are quite simply drowning in workload. Talk to any head teacher and you will hear this. I propose streamlining the current messy patchwork of statutory provisions to create a single streamlined model in which complaints will be triaged and considered only by the most relevant body, with information available to others when necessary. I believe that this would improve schools’ capacity to respond to serious concerns. The Minister’s response was that the issue was being considered by the Improving Education Together group of unions and other stakeholders, with which the Government are committed to co-developing policy design and implementation. Indeed, this consideration seems to have happened, because guidance was recently published, both for parents by DfE and for schools by Parentkind. The content is entirely sensible, but i",
+   "name": "Baroness Spielman",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Hampton (CB)",
+   "member_id": 4951,
+   "type": "Contribution",
+   "text": "My Lords, I shall speak very briefly to Amendment 191A, to which I would have added my name had I been slightly more organised. I have been a member of teaching unions in the past but I am not any longer. Many teachers are not members of a union. These are personal decisions, whether cost or philosophical. Trade unions play an important role in the workplace, but not being a member should not put you at a disadvantage when facing a formal allegation. It is all very well bringing a colleague along but, apart from the moral support, they might not be much help. Doctors and dentists are permitted to be accompanied at disciplinary hearings by representatives from professional defence organisations under the NHS’s maintaining high professional standards framework. This has not undermined trade unions or weakened safeguarding: it has simply ensured that highly scrutinised professionals are not left unsupported at critical moments and has helped to ensure that due process has been followed. Teachers and school staff operate under comparable levels of public scrutiny and regulatory oversight. Amendment 191A is a modest, sensible step that reflects the reality and promotes fairness and cons",
+   "name": "Lord Hampton",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Blower (Lab)",
+   "member_id": 4724,
+   "type": "Contribution",
+   "text": "My Lords, it was a pleasure to listen to the speech from the noble Baroness, Lady Evans, which was about a modest change to the remit of the TRA. However, I support Amendment 190, to which I have added my name, precisely not to extend the TRA’s remit in two particular ways—that the TRA should be allowed to consider, as the noble Baroness opposite said, complaints about behaviour before someone becomes a qualified and practising teacher, and that it should be allowed to consider complaints after someone has stopped teaching. I do not know whether there is any confusion in the minds of anyone in the Government. Clearly, if someone interrupts their teaching and then wants to come back to it, that is a different matter. If we are talking about people who have permanently left teaching, though, it seems unreasonable for the TRA to proceed. With regard to people against whom the TRA might seek to proceed before they have started teaching, the National Education Union says: “Once the door is opened to pre-career conduct, it becomes very difficult to draw principled boundaries. How far back should investigations reach? Should conduct as a teenager or student be included? What weight should",
+   "name": "Baroness Blower",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Lucas (Con)",
+   "member_id": 1879,
+   "type": "Contribution",
+   "text": "My Lords, I am thoroughly in favour of Amendment 191A. I have been involved in that sort of situation a couple of times in my life. It makes an enormous difference for someone facing a perilous investigation to have someone beside them to make the points that make it clear that the school—or whichever organisation—has got it wrong. It is a very hard thing to do yourself; it is much easier if you have someone beside you to take that burden. I recommend that the Government pursue Amendment 191A. I also very much hope the Government will pursue the amendment advocated by my noble friend Lady Spielman. We have to get the complaints system right. I had a go at this in Committee and got bounced by the Government consistently. It would really reduce the burdens on people dealing with complaints to have something that takes the weight off, has a really good triage system, is really good at explaining to people why their complaint is rubbish and nonsense and is equally good at making sure it gets to the right person with the right advice tagged to it. It would also increase the effectiveness of justified complaints. Parents taking to social media and having the police called on them is not ",
+   "name": "Lord Lucas",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My Lords, this group of amendments concerns three distinct areas, which I will take in turn. Amendments 190 and 191 concern the jurisdiction of the Teaching Regulation Agency. Amendment 190 would remove the ability of the TRA to investigate alleged misconduct that occurred before an individual began their teaching career. I understand the concern here may also be that Clause 46 permits the TRA to investigate those who at any time have been employed or engaged in teaching work and hold those responsible for their conduct at any time in their life. Given that this includes me, I can wholly understand noble Lords’ concerns. At present, the teacher misconduct regime limits the TRA’s jurisdiction only to those who are currently employed or engaged in teaching work, or who were so employed or engaged when the referral was made. There are problems with this—it cannot be right. Clause 46 addresses this by extending the TRA’s jurisdiction to those who have at any time been employed or engaged in teaching work. Noble Lords can imagine that there could be times when somebody has very recently resigned, possibly with the idea of avoiding a referral to come, and is not able to be investigated. ",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "I thank the Minister for her response. On Amendment 190, what I heard her say was that she would undertake not to implement Clause 46 without proper consultation. I urge her to look again with her colleagues at the wording of the clause, because while the Government’s intent is absolutely spot on, it is not what is said in the clause. If there is a way to do more, that would be even better. I thank the Minister for her responses and for her openness to continue the conversation on Amendment 191. She almost repeated my noble friend’s words about simplification in the schools White Paper, so we look forward to seeing Amendment 243D back in new, official, government form. With that, I beg leave to withdraw my Amendment 190.",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My Lords, government amendments 192 and 193 would strengthen accountability in the academy sector and introduce trust-level inspection to ensure high standards across all trusts. Together, they respond to discussion and points raised in Committee and deliver a proportionate, effective framework for intervention and improvement. Amendment 192 will narrow the scope of Clause 50, so that the Secretary of State may issue directions only where an academy proprietor has breached a duty imposed by its funding agreements. As stated in Committee, Clause 50 is an important lever for improving accountability in the academy sector. However, we have listened carefully to the concerns raised in this House and the other place about the breadth of the original clause, and we have acted to respond to those concerns and provide clarity. In particular, the amendment removes the anticipatory element of the power and confines its use to cases of actual breach, rather than where a breach is considered likely. We want the use of directions to be clear, direct and proportionate. This government amendment will provide reassurance without weakening accountability, while maintaining the ability to act swiftl",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "The Lord Bishop of Portsmouth",
+   "member_id": 5412,
+   "type": "Contribution",
+   "text": "My Lords, I will speak to Amendments 193A, 193B and 193C and declare my interest as chair of the National Society for Education. I thank the noble Baroness, Lady Ritchie, for her support of Amendments 193A and 193B. I will address these two first and together. These two amendments are about good communication. They would require the chief inspector to include the relevant religious body along with the academy proprietor and the Secretary of State when a report is circulated at the conclusion of an inspection of a multi-academy trust that contains a school with a religious foundation. For example, in the case of the Church of England, the relevant body would be the Diocesan Board of Education. Under the DBE Measure 2021, DBEs have a range of duties and powers, including advice-giving, data analysis and information gathering in relation to their schools and academies. Timely receipt of a multi-academy trust’s inspection report will enable the fulfilment of these duties and powers. I seek the Minister’s assurance that these straightforward amendments, enabling good communication and the delivery of statutory duty, will find their way into the Bill. Amendment 193C in my name would ensu",
+   "name": "The Lord Bishop of Portsmouth"
+  },
+  {
+   "who": "Baroness Spielman (Con)",
+   "member_id": 5404,
+   "type": "Contribution",
+   "text": "My Lords, a substantial new chapter is being added to the Bill on Report by the Government’s Amendment 193, which provides for the inspection of multi-academy trusts. This has considerable significance for the regulation of all academies, and I must therefore make some wider points before I turn to Amendments 193D and 193E in the name of my noble friend Lady Barran, to which I have put my name. I must also declare my interest as a former Ofsted chief inspector who has advocated strongly for MAT inspection for many years. Everyone is familiar with school inspection. For more than 30 years, this was unequivocally framed by government as a public accountability mechanism to defend the interests of children and parents. The very last strands of support activity were removed from Ofsted more than a decade ago so as to avoid any blurring. Published inspection judgments and reports with real consequences are a powerful regulatory force, precisely because they have real traction. This model has long been the subject of relentless hostility and efforts to undermine it by some within the sector. But the law relating to school inspections has not kept pace with the evolution of sector structu",
+   "name": "Baroness Spielman",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Ritchie of Downpatrick (Lab)",
+   "member_id": 4130,
+   "type": "Contribution",
+   "text": "My Lords, I will speak to Amendments 193A and 193B in the names of the right Reverend Prelate the Bishop of Portsmouth and myself. These amendments are very simple. They seek to address a small technical omission regarding the inspection of multi-academy trusts when they are the proprietor of one or more schools with a religious character. When Ofsted inspects schools with a religious character, one of the organisations it is required to notify of the outcome of state inspection is the religious authority responsible for running the school. My noble friend the Minister’s amendment to introduce inspections of multi-academy trusts is welcome, but I feel that the amendment does not replicate the duty of notifying religious authorities for these inspections. Multi-academy trusts play an important role in creating and upholding the ethos and community in which schools with a religious character operate, so it is essential that the result of any inspection of the trusts that contains such schools must be shared with the relevant religious authority. As the right reverend Prelate the Bishop of Portsmouth has already said, it is an issue of communication. These amendments would ensure that",
+   "name": "Baroness Ritchie of Downpatrick",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Morris of Yardley (Lab)",
+   "member_id": 305,
+   "type": "Contribution",
+   "text": "My Lords, this is a big change in the education service. I welcome the Government bringing this amendment, because it was not there in Committee and I think it is a response to speeches made on both sides of the House, so I want to put on record my thanks to the Minister and her team for working in between Committee and Report to give us something. It deserves a longer debate than it will get at this time of the night, so it is a shame that it has arrived so late. I want to seek one reassurance. It must get the prize for the longest amendment because it is pages long. But it also gets the prize for the longest amendment that does not say very much. That is basically the first question I want to ask. Will the Minister give assurance that we will have opportunity to discuss the detail of this? It is a big change, and some of the points raised by the noble Baroness, Lady Spielman, need to be addressed. Secondly, and this is the most important thing for me, could the Minister give an assurance that she will endeavour to make the inspection such that schools do not feel they have been inspected twice, and that it is an inspection of the MAT ownership or governance and not the schools th",
+   "name": "Baroness Morris of Yardley",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Bennett of Manor Castle (GP)",
+   "member_id": 4719,
+   "type": "Contribution",
+   "text": "My Lords, I will speak chiefly to Amendment 196A in my name and to Amendment 197 in the name of the noble Lord, Lord Storey, to which I also attached my name. Given the hour, I am going to restrain myself on a lot of things. It is a great pity that we are doing this important business at this hour. The Minister, in introducing this group, talked about the need to improve the accountability of multi-academy trusts, which has not kept pace with the growth of MATs. We have heard agreement on that from right across the House. With that in mind, I am going to start with Amendment 197, which we have not yet heard the formal introduction of. I will not go through it in detail, but it looks at the remuneration of chief executives of multi-academy trusts. It includes the provision, under parliamentary scrutiny, to impose limits on that pay. It might be a difficult job, but I think I am about to shock the House at 11.23 pm. A few days ago, the website Education Uncovered produced some figures on the pay of CEOs of multi-academy trusts—not the biggest ones but the group of the next biggest ones, ranked from 11 to 25 on the number of pupils. A £220,000 salary is becoming standard for these mul",
+   "name": "Baroness Bennett of Manor Castle",
+   "party": "GP"
+  },
+  {
+   "who": "Lord Mohammed of Tinsley (LD)",
+   "member_id": 5401,
+   "type": "Contribution",
+   "text": "My Lords, regarding the amendments by my noble friend Lord Storey, research has shown no correlation between the pay of the CEOs of multi-academy trusts and the schools they have responsibility for. I hope the Minister can say whether there will be a mechanism to look at the pay of some of these highly paid officials and what responsibilities they have. There could be cases where people have responsibility for eight to 10 schools but get paid more than people with responsibility for higher numbers. That does not seem fair or right. I know it is late, but I thought it important that I raise this point on behalf of my noble friend.",
+   "name": "Lord Mohammed of Tinsley",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Bousted (Lab)",
+   "member_id": 5385,
+   "type": "Contribution",
+   "text": "It is really late, but I tabled a similar amendment to this in Committee. Unregulated CEO pay is becoming an ever greater problem in the sector. Last year the policy think tank EDSK called for mandatory CEO pay scales capped at £263,000, with fines for those who did not follow that. The National Governance Association has said that the growing gap between CEO pay and that of other senior leaders—and, I would also say, teachers—risks undermining the collaborative leadership essential to school improvement. I hope the Government will look at this serious problem, which demands action.",
+   "name": "Baroness Bousted",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Morgan of Cotes (Non-Afl)",
+   "member_id": 4027,
+   "type": "Contribution",
+   "text": "My Lords, I want to talk briefly about this group of amendments. While I recognise the passion with which the previous three speakers have spoken on CEO remuneration, I do not think that is the main problem in the education system. If we want really good people to head up multi-academy trusts and to do one of the most important jobs in this country, which is to educate the next generation, we should pay them. If that means that the Prime Minister is underpaid, we should be having a separate debate to recognise his leadership and that of anyone else who holds that position. I want to go back to Amendment 193 and echo the thanks from the noble Baroness, Lady Morris of Yardley. I am not sure that it wins the prize for the longest set of amendments, but it is perhaps the speediest set of government amendments. We had this debate in Committee, and voices from all sides of the House recognised that putting in place an inspection regime for the proprietors of multi-academy trusts was overdue. It makes me suspect that the department had these amendments somewhere ready to go when an opportunity presented itself, because we all spend a lot of our time asking the Government to make amendment",
+   "name": "Baroness Morgan of Cotes",
+   "party": "Non-Afl"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, like others I really regret that we are debating these amendments so late, because they are very important. I will try to get to my key points. I thank the Minister for Amendment 192 in relation to Clause 50; this addresses some of the concerns that we raised about its scope in Committee and again in the other place. The main substance of this group, as we have heard, is the lengthy, prize-winning Amendment 193, which would allow the Government to introduce mass inspection. We debated this in Committee. It is curious that the Bill has gone through all stages in the other place and only now are we seeing this on Report. Some of the gaps that it reveals are highlighted in the amendment from the right reverend Prelate the Bishop of Portsmouth and in my Amendments 193D and 193E. We can see that in the breadth of drafting of this amendment, with so much left to secondary legislation giving Secretary of State extremely broad powers—which suggested to me that it was an amendment that was drafted in haste rather than one that was on the shelf. Officials kindly invited me in to talk about the amendment before Christmas, and they argued the case for giving the Secretary of State ma",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My Lords, despite the lateness of the hour, we have had a good discussion on the issues raised in group 10. I turn to the amendments that have been discussed during this debate. I will start with Amendments 193A and 193B, tabled in the names of the right reverend Prelate the Bishop of Portsmouth and my noble friend Lady Ritchie of Downpatrick, and Amendment 193C, tabled by the right reverend Prelate. These relate to the inspection of trusts, including academies that have been designated “as having a religious character”. Amendments 193A and 193B propose additional requirements for Ofsted to share trust inspection reports—what the right reverend Prelate and my noble friend described as “important communication issues”. I recognise the importance of both informing the relevant religious authorities about trust-level inspections and ensuring robust oversight of trust leaders in relation to developing and maintaining the religious character of faith-based settings. On Amendment 193A, I hope that I can provide some reassurance to the right reverend Prelate that there is already a duty on Ofsted to inform religious authorities in advance of a routine trust inspection. Our provisions alre",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I beg to move.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "I think the Minister said nearly everything that we were hoping to hear. Perhaps she can also confirm in writing that the different purposes of MAT inspection and school inspection will be set out clearly in the Government’s guidance. I welcome her reassurance.",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "Unfortunately, I was not convinced by the Minister’s response and I wish to test the opinion of the House.",
+   "name": "Baroness Barran",
+   "party": "Con"
+  }
+ ],
+ "fetched": "2026-10-21T20:28:09Z"
+}

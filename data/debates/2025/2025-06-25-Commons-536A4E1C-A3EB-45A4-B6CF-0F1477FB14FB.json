@@ -1,0 +1,101 @@
+{
+ "ext_id": "536A4E1C-A3EB-45A4-B6CF-0F1477FB14FB",
+ "date": "2025-06-25",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Artificial Intelligence: Schools",
+ "parents": [
+  "Commons Chamber",
+  "Oral Answers to Questions",
+  "Science, Innovation and Technology"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2025-06-25/debates/536A4E1C-A3EB-45A4-B6CF-0F1477FB14FB/ArtificialIntelligenceSchools",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove",
+   "member_id": 5186
+  },
+  {
+   "name": "Feryal Clark",
+   "role": "The Parliamentary Under-Secretary of State for Science, Innovation and Technology",
+   "member_id": 4822
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 467
+  },
+  {
+   "name": "Dame Chi Onwurah",
+   "party": "Lab",
+   "seat": "Newcastle upon Tyne Central and West",
+   "member_id": 4124
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Bradley Thomas (Bromsgrove) (Con)",
+   "member_id": 5186,
+   "type": "Contribution",
+   "text": "4. What discussions he has had with the Secretary of State for Education on AI in schools.",
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Science, Innovation and Technology (Feryal Clark)",
+   "member_id": 4822,
+   "type": "Contribution",
+   "text": "My Department is working closely with the Department for Education and Skills England to ensure that the education system is ready for the opportunities and the challenges that AI poses. We are assessing the AI skills gap and mapping pathways to address it. My officials have been working closely with the DFE on the education content store, for example, which is a pilot project that seeks to help developers to make better AI tools for teachers by providing a store of reliable and relevant UK data. Last week, the DFE produced guidance to support schools with the safe and effective use of AI in education.",
+   "name": "Feryal Clark",
+   "role": "The Parliamentary Under-Secretary of State for Science, Innovation and Technology"
+  },
+  {
+   "who": "Bradley Thomas",
+   "member_id": 5186,
+   "type": "Contribution",
+   "text": "Will the Minister outline what steps are being taken to reduce academic dishonesty and plagiarism in schools resulting from the use of artificial intelligence tools?",
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove"
+  },
+  {
+   "who": "Feryal Clark",
+   "member_id": 4822,
+   "type": "Contribution",
+   "text": "AI has demonstrated that it can help the education workforce by reducing some of the administrative burdens and the hard work that teaching staff and school leaders face in their day-to-day role. On the hon. Gentleman’s question, evidence is still emerging on the benefits and risks of pupils and students using generative AI. We will continue to work with the education sector on use cases to develop our understanding of how to use AI safely and effectively. As I have said, the Department has issued guidance to teachers on how to identify and best use AI in schools.",
+   "name": "Feryal Clark",
+   "role": "The Parliamentary Under-Secretary of State for Science, Innovation and Technology"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the Chair of the Science, Innovation and Technology Committee.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Dame Chi Onwurah (Newcastle upon Tyne Central and West) (Lab)",
+   "member_id": 4124,
+   "type": "Contribution",
+   "text": "AI is already prevalent in the workplace and in the education system, and we need to equip the next generation to be able to use AI tools productively and securely while also delivering on their unique potential as human beings. How is the Minister working with the Department for Education to ensure that the AI tools that are used in our education system support this kind of learning? Specifically, what advice has she given to the Department with regard to the procurement of edtech tools, which are widely available? Some are free and some need to be paid for, so how are schools to decide which to use?",
+   "name": "Dame Chi Onwurah",
+   "party": "Lab",
+   "seat": "Newcastle upon Tyne Central and West"
+  },
+  {
+   "who": "Feryal Clark",
+   "member_id": 4822,
+   "type": "Contribution",
+   "text": "As I have said, I work very closely with my counterparts in the Department for Education. Earlier this year, we launched safe standards for the sector and provided guidance on how to safely develop AI tools for education. The DFE has also provided guidance to schools on how to safely use AI in schools. That work is ongoing. As I have said, we are working both with the sector and with educators to make sure that we get this right.",
+   "name": "Feryal Clark",
+   "role": "The Parliamentary Under-Secretary of State for Science, Innovation and Technology"
+  }
+ ],
+ "fetched": "2026-10-21T20:26:34Z"
+}

@@ -1,0 +1,1243 @@
+{
+ "ext_id": "4B23B7F6-11EF-42D7-90B2-8E5DD6096BB7",
+ "date": "2024-10-24",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Special Educational Needs and Disabilities",
+ "parents": [
+  "Commons Chamber"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2024-10-24/debates/4B23B7F6-11EF-42D7-90B2-8E5DD6096BB7/SpecialEducationalNeedsAndDisabilities",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards",
+   "member_id": 4125
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 467
+  },
+  {
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood",
+   "member_id": 4510
+  },
+  {
+   "name": "James Wild",
+   "party": "Con",
+   "seat": "North West Norfolk",
+   "member_id": 4787
+  },
+  {
+   "name": "Dame Meg Hillier",
+   "party": "Lab/Co-op",
+   "seat": "Hackney South and Shoreditch",
+   "member_id": 1524
+  },
+  {
+   "name": "Ben Obese-Jecty",
+   "party": "Con",
+   "seat": "Huntingdon",
+   "member_id": 5089
+  },
+  {
+   "name": "Grahame Morris",
+   "party": "Lab",
+   "seat": "Easington",
+   "member_id": 3973
+  },
+  {
+   "name": "Alison Bennett",
+   "party": "LD",
+   "seat": "Mid Sussex",
+   "member_id": 5283
+  },
+  {
+   "name": "Rosie Wrighting",
+   "party": "Lab",
+   "seat": "Kettering",
+   "member_id": 5331
+  },
+  {
+   "name": "Alicia Kearns",
+   "party": "Con",
+   "seat": "Rutland and Stamford",
+   "member_id": 4805
+  },
+  {
+   "name": "Mr Mark Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley",
+   "member_id": 5166
+  },
+  {
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire",
+   "member_id": 5249
+  },
+  {
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North",
+   "member_id": 5294
+  },
+  {
+   "name": "Mr Richard Holden",
+   "party": "Con",
+   "seat": "Basildon and Billericay",
+   "member_id": 4813
+  },
+  {
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen",
+   "member_id": 5270
+  },
+  {
+   "name": "Sarah Green",
+   "party": "LD",
+   "seat": "Chesham and Amersham",
+   "member_id": 4918
+  },
+  {
+   "name": "Alex McIntyre",
+   "party": "Lab",
+   "seat": "Gloucester",
+   "member_id": 5349
+  },
+  {
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove",
+   "member_id": 5186
+  },
+  {
+   "name": "Ben Goldsborough",
+   "party": "Lab",
+   "seat": "South Norfolk",
+   "member_id": 5205
+  },
+  {
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate",
+   "member_id": 5140
+  },
+  {
+   "name": "Lola McEvoy",
+   "party": "Lab",
+   "seat": "Darlington",
+   "member_id": 5037
+  },
+  {
+   "name": "Nick Timothy",
+   "party": "Con",
+   "seat": "West Suffolk",
+   "member_id": 5062
+  },
+  {
+   "name": "Laura Kyrke-Smith",
+   "party": "Lab",
+   "seat": "Aylesbury",
+   "member_id": 5341
+  },
+  {
+   "name": "Calum Miller",
+   "party": "LD",
+   "seat": "Bicester and Woodstock",
+   "member_id": 5346
+  },
+  {
+   "name": "Ms Julie Minns",
+   "party": "Lab",
+   "seat": "Carlisle",
+   "member_id": 5094
+  },
+  {
+   "name": "Bob Blackman",
+   "party": "Con",
+   "seat": "Harrow East",
+   "member_id": 4005
+  },
+  {
+   "name": "Mike Amesbury",
+   "party": "Lab",
+   "seat": "Runcorn and Helsby",
+   "member_id": 4667
+  },
+  {
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole",
+   "member_id": 5327
+  },
+  {
+   "name": "Sarah Coombes",
+   "party": "Lab",
+   "seat": "West Bromwich",
+   "member_id": 5088
+  },
+  {
+   "name": "Martin Vickers",
+   "party": "Con",
+   "seat": "Brigg and Immingham",
+   "member_id": 3957
+  },
+  {
+   "name": "Sam Rushworth",
+   "party": "Lab",
+   "seat": "Bishop Auckland",
+   "member_id": 5108
+  },
+  {
+   "name": "Jess Brown-Fuller",
+   "party": "LD",
+   "seat": "Chichester",
+   "member_id": 5335
+  },
+  {
+   "name": "Debbie Abrahams",
+   "party": "Lab",
+   "seat": "Oldham East and Saddleworth",
+   "member_id": 4212
+  },
+  {
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon",
+   "member_id": 5351
+  },
+  {
+   "name": "Rachel Blake",
+   "party": "Lab/Co-op",
+   "seat": "Cities of London and Westminster",
+   "member_id": 5257
+  },
+  {
+   "name": "Tessa Munt",
+   "party": "LD",
+   "seat": "Wells and Mendip Hills",
+   "member_id": 4089
+  },
+  {
+   "name": "Melanie Onn",
+   "party": "Lab",
+   "seat": "Great Grimsby and Cleethorpes",
+   "member_id": 4464
+  },
+  {
+   "name": "Greg Smith",
+   "party": "Con",
+   "seat": "Mid Buckinghamshire",
+   "member_id": 4778
+  },
+  {
+   "name": "Gareth Snell",
+   "party": "Lab/Co-op",
+   "seat": "Stoke-on-Trent Central",
+   "member_id": 4595
+  },
+  {
+   "name": "Sarah Dyke",
+   "party": "LD",
+   "seat": "Glastonbury and Somerton",
+   "member_id": 4995
+  },
+  {
+   "name": "Andy MacNae",
+   "party": "Lab",
+   "seat": "Rossendale and Darwen",
+   "member_id": 5134
+  },
+  {
+   "name": "Clive Jones",
+   "party": "LD",
+   "seat": "Wokingham",
+   "member_id": 5207
+  },
+  {
+   "name": "Jayne Kirkham",
+   "party": "Lab/Co-op",
+   "seat": "Truro and Falmouth",
+   "member_id": 5279
+  },
+  {
+   "name": "Luke Taylor",
+   "party": "LD",
+   "seat": "Sutton and Cheam",
+   "member_id": 5103
+  },
+  {
+   "name": "Adam Thompson",
+   "party": "Lab",
+   "seat": "Erewash",
+   "member_id": 5044
+  },
+  {
+   "name": "Richard Foord",
+   "party": "LD",
+   "seat": "Honiton and Sidmouth",
+   "member_id": 4942
+  },
+  {
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire",
+   "member_id": 5195
+  },
+  {
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford",
+   "member_id": 4131
+  },
+  {
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North",
+   "member_id": 5143
+  },
+  {
+   "name": "Dave Robertson",
+   "party": "Lab",
+   "seat": "Lichfield",
+   "member_id": 5126
+  },
+  {
+   "name": "Emily Darlington",
+   "party": "Lab",
+   "seat": "Milton Keynes Central",
+   "member_id": 5139
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "(Urgent Question): To ask the Secretary of State for Education if she will make a statement on support for children and young people with special educational needs and disabilities.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "The Minister for School Standards (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Every child deserves the opportunity to achieve and thrive, but at the moment far from every child is being given that chance. Today’s report from the National Audit Office is, sadly, bang on the money: the system has totally lost the confidence of families. Families and children with special educational needs are being failed, on every measure, and even shadow Ministers have admitted that they should hang their heads in shame at the failure to support them. Our promise to families is that we are absolutely committed to regaining parents’ confidence in the special educational needs and disabilities system, but that will be a huge and complex reform. There is no magic wand and no quick fix, so we continue to ask for patience as we work as quickly as we can to make the changes that I know families are crying out for. There is light at the end of the tunnel. Today we have published independently commissioned insight that suggests that if the system were extensively improved through early intervention and better resourcing in mainstream schools, the needs of tens of thousands more children and young people could be met without an education, health and care plan, and in a mainstream set",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Thank you, Mr Speaker, for granting this urgent question. Today’s National Audit Office report confirms what parents, carers, children and young people across the country have been telling us for years: that our system to support those with special educational needs and disabilities is in crisis and on the brink. The last Conservative Government’s abject failure to tackle the systemic problems facing SEND provision has been laid bare for all to see. With half of children waiting longer than the statutory 20 weeks for an education, health and care plan, with outcomes not improving, with special schools over capacity and, damningly, with the Department for Education not knowing how much capacity is required to meet future need, we are failing our most vulnerable children. Shockingly, 43% of councils are at risk of bankruptcy, given the deficits that they are racking up in their high- needs budget. This is a nationwide issue. Colleagues on both sides of the House have, like me, been inundated with casework from concerned and often desperate parents who just want to know that their children will receive the support they need without waiting for months or years. The report makes clear t",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I thank the hon. Lady for raising the issue and bringing it to the House. She is absolutely right to draw attention to the National Audit Office report and its damning indictment of a system that has lost the confidence of families and is failing children with special educational needs and disabilities. She rightly calls for the system to be reformed. That is what this Government are absolutely focused on and determined to do. One of the first differences that we made on coming into office was moving the special educational needs and disabilities remit within the schools sector. [ Official Report , 4 November 2024; Vol. 756, c. 1WC.] (Correction) Our vision is one of mainstream inclusive education for all children who would benefit from it, while having specialist schools where we know that children with the most complex needs can have those needs met. That is not being delivered, and for far too many families it is not the reality. It is a reality that we urgently need to see, not only to address the local authority deficits to which the hon. Lady rightly refers, but to create better outcomes for children. At the moment, the system costs the Treasury a significant amount. The hon.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the Chair of the Select Committee on Education.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Helen Hayes (Dulwich and West Norwood) (Lab)",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "The National Audit Office report could not be clearer: children and young people and their families are being failed by a SEND system that cannot meet their needs, and local authorities are being driven to the edge of a financial precipice by a £3.4 billion funding gap. This Government have inherited an appalling legacy. The Government are clear that their focus is on the early identification of need and the inclusivity of mainstream schools, but the report notes that there is currently no process or funding to support early identification, and no specific funding or Ofsted measure on SEND support or inclusivity. Can the Minister say more about how the Government will provide the resources and the levers of accountability to address the scale of the crisis?",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "Order. Can Members please all look to the Chair? You are speaking to me, not the Minister. Look to the Chair, so I can hear, and then I can help. Minister, you can be a good example for everybody.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I welcome my hon. Friend to her position as Chair of the Education Committee, which I know will undertake vital work scrutinising the Government’s approach on this issue and on many others. We know that wider change is needed, which is why we have started to make improvements as quickly as possible. The changes that I outlined to the hon. Member for Twickenham (Munira Wilson) amount to a whole-system change to ensure that the inclusive mainstream education that the National Audit Office has identified will provide the education that many children deserve but are not currently receiving. However, it will take time, and we will not be making promises that we cannot keep. There are some things that we can move on very quickly, but there are others that will take time to show. The change that the NAO report highlights as being desperately needed will take time, so we ask for patience while we make these incredibly urgent changes.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the shadow Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "James Wild (North West Norfolk) (Con)",
+   "member_id": 4787,
+   "type": "Contribution",
+   "text": "I am grateful to the hon. Member for Twickenham (Munira Wilson) for securing this urgent question. The Opposition welcome the NAO report. Every hon. Member will regularly be dealing with constituents’ SEND cases. The growing demand is why we put major increases in funding in place to ensure that children get the support they need. The last Government worked with the sector on comprehensive reforms, but since the election we have heard very little from this Government about their plans for reform. We look for more clarity, and we certainly support greater inclusivity. With too much variation in the system and parents often having to battle for support, do the Government plan to continue with the Conservatives’ national standards and bring forward a standardised approach to EHCPs? More than 100,000 pupils with special educational needs are educated at independent schools without EHCPs. How does the Minister think hitting those pupils with a 20% education tax, with more pupils moving into the state sector as a result, will help pressures on schools? What assessment has she made of the increase in EHCP applications that that will generate, putting further burdens on local authorities? ",
+   "name": "James Wild",
+   "party": "Con",
+   "seat": "North West Norfolk"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "As I have said, one of the first acts of the Education Secretary was to reorganise the Department to make sure that the SEND team sits within our school team and is not separate from it. That speaks to the vision that we have for reform: a vision for our whole education system, to create the inclusive mainstream education that we know will provide the best opportunities for the maximum number of children and, as far as possible, keep children with special educational needs and disabilities within the mainstream system with their friends. That is why we have launched the curriculum assessment review. We need to look closely at the key challenges to attainment for young people and the barriers holding them back from accessing the current mainstream education system. We are working with Ofsted to introduce report cards to look at how inclusion can be reflected as part of how schools are monitored by Ofsted. We are also increasing training for early years providers. We have extended the Nuffield early language intervention programme to make sure that no child’s needs are missed out and that every child can find their voice. We have been very clear: full reform will take time, but nothi",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Dame Meg Hillier (Hackney South and Shoreditch) (Lab/Co-op)",
+   "member_id": 1524,
+   "type": "Contribution",
+   "text": "Nearly 5% of children in Hackney have an EHCP—and that is not accounting for others who have special educational needs. With schools closing, we have an opportunity to create alternative provision. The other week, one poor headteacher told me that more than a third of her reception class has special educational needs, most of which were not identified before the children started school. Clearly, there is a need for a different vision. Will my hon. Friend meet me and people from Hackney—or even visit Hackney—to see what we can do with spare school spaces to motor this change forward in Hackney, faster than is possible nationally?",
+   "name": "Dame Meg Hillier",
+   "party": "Lab/Co-op",
+   "seat": "Hackney South and Shoreditch"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for her question. She rightly identifies the need to ensure that we have the right school places for children whose needs are currently not being met in the most productive way possible. We are open to meeting hon. Members to discuss where in their constituencies this can best be achieved. I would be happy to meet my hon. Friend to discuss this further.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Ben Obese-Jecty (Huntingdon) (Con)",
+   "member_id": 5089,
+   "type": "Contribution",
+   "text": "Cambridgeshire county council is failing to meet the conditions of the dedicated school grants safety valve agreement, with only 5% of EHCPs being granted within the 20-week timeframe; the average in England is 49%. Families in my constituency face huge challenges in ensuring that their children’s education is not disrupted or negatively impacted. How do the Government plan to address these unacceptable delays?",
+   "name": "Ben Obese-Jecty",
+   "party": "Con",
+   "seat": "Huntingdon"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The hon. Member is right to identify those challenges. In its analysis, published today, the National Audit Office said that the current system was not working and not serving the needs of children and their families in the way that it should. We are moving at pace to review the system in a wholesale way, and the changes that I have outlined will support that. In addition, we will legislate to ensure that local authorities can plan properly for places and admissions in their areas. We want every state school, regardless of how they were established, to co-operate in ensuring that places are there for the children who need them. I have outlined a whole range of changes that will seek to address the problem that he mentioned.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Grahame Morris (Easington) (Lab)",
+   "member_id": 3973,
+   "type": "Contribution",
+   "text": "I am in no doubt that the Labour Government have a terrible inheritance on SEND provision, but children in my constituency of Easington who rely on services provided by the Tees, Esk and Wear Valleys NHS Foundation Trust face unreasonably long waiting times. Incredibly, they have to wait up to five years for assessments for autism, attention deficit hyperactivity disorder and other related conditions. What steps is the Minister taking to reduce those unacceptably long waiting lists, and support both children and their families during these lengthy waits for assessments?",
+   "name": "Grahame Morris",
+   "party": "Lab",
+   "seat": "Easington"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for his question. I reiterate that the Government have inherited a terrible legacy, not only on special educational needs and disabilities, but on our public spending and the state of our public services overall. The example he raises is good, as it highlights the importance of working across Government to resolve issues and help the families who need support. Whether that is done through the education system, which my Department is responsible for, or through the health service, we need to work collaboratively across Government to address the huge backlogs that far too many people face in getting the support that they need. I can assure him that that is a priority for us.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Alison Bennett (Mid Sussex) (LD)",
+   "member_id": 5283,
+   "type": "Contribution",
+   "text": "In the past two weeks, I have met two families whose children are suicidal, one of whom is nine years old. The other one was committed to a secure unit for most of 2023. The cause of their suicidal thoughts was their educational needs not being met by the education system. Neither of those children have EHCPs. Conservative-controlled West Sussex county council is completing only 9.4% of EHCPs within 20 weeks. One block is the lack of educational psychologists. Does the Minister agree that increasing the supply of educational psychologists is essential?",
+   "name": "Alison Bennett",
+   "party": "LD",
+   "seat": "Mid Sussex"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I am so sorry to hear about the cases the hon. Lady raises. She highlights very well the huge challenge that we face in addressing needs—in ensuring that we have not only the inclusive mainstream education system that every child should feel they belong in, and that provides the education they need, but the mental health support that we know is sadly lacking. The waiting lists are too long for far too many children and families. We are prioritising investment to ensure mental health support and educational psychologists are available in schools, because we know how important it is to get the right support in place to help the families and individuals affected, and to enable schools to address these needs.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Rosie Wrighting (Kettering) (Lab)",
+   "member_id": 5331,
+   "type": "Contribution",
+   "text": "After today’s shocking report, does the Minister agree with me that we need to rebuild the SEND system from the ground up?",
+   "name": "Rosie Wrighting",
+   "party": "Lab",
+   "seat": "Kettering"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend is absolutely right. This change needs to be delivered in conjunction with teachers, families, councils, educational psychologists and the health sector. We need to work together to ensure support is available at every stage. The system needs reform and significant change. We cannot carry on as we are with this “lose, lose, lose” system, which is letting down far too many families.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Alicia Kearns (Rutland and Stamford) (Con)",
+   "member_id": 4805,
+   "type": "Contribution",
+   "text": "Are the Government surging support to local authorities to help them process and complete EHCPs within the statutory timeframes? My communities are seeing a significant increase in applications because of the decision to impose VAT on independent schools. I have three SEND schools— [ Interruption. ] Government Members may shout, but that is the reality my councils face. I am asking for urgent support for those councils that have to deal with these increased numbers.",
+   "name": "Alicia Kearns",
+   "party": "Con",
+   "seat": "Rutland and Stamford"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "We have been clear about our manifesto commitment and our approach in Government. Our priority is to ensure that we have the investment in our schools that we need in order to ensure that every child has the teaching and the school experience that they deserve. We know that councils are facing significant challenges processing applications and delivering for children with special educational needs after 14 years of a system that has let down families and children, and which the former Secretary of State for Education herself described as “lose, lose, lose.” This is the legacy we are dealing with and the mess we are clearing up, but we are determined to do that for families and children who we know deserve better.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Mark Sewards (Leeds South West and Morley) (Lab)",
+   "member_id": 5166,
+   "type": "Contribution",
+   "text": "Sadly, today’s report confirms what many parents in my constituency of Leeds South West and Morley have been telling me since long before the election: the SEND system in this country is failing. As a secondary school maths teacher, I know all too well that SEND provision is not up to scratch. I have seen at first hand that, after 14 years of negligence by the Conservative party, parents and children have lost hope of ever seeing an improvement in the system, following the SEND crisis. Does the Minister agree that although there is no silver bullet, we must improve the SEND system and give people hope that it will improve?",
+   "name": "Mr Mark Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "Order. This urgent question will run until about 11.30 am, so if I am to get everyone in, we will have to speed up the questions and answers. I want to take as many questions as possible, as this is a very important subject to all of us.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Thank you, Mr Speaker. It is understandable that a huge number of hon. Members want to ask questions on this subject. We have inherited an appalling legacy of failure on this front. We have prioritised the issue and we are determined to fix it, but that will take time, as hon. Members have recognised, but we are moving at pace to fix the broken system.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Ellie Chowns (North Herefordshire) (Green)",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "Parents and teachers in North Herefordshire tell me how concerned they are that special educational needs funding has stagnated for the last 10 years, while needs have increased. I visited Westfield school in my constituency, which is in desperate need of capital investment. It was allocated funding under the school rebuilding programme, but the implementation of that programme has been very slow. Can the Minister assure me that she remains committed to the programme, that it is on track, and that she will amend the way that the funding system works to incentivise mainstream inclusion?",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "On the hon. Lady’s final question, I can assure her that we are determined to prioritise mainstream inclusion, and to ensure that schools are supported. We will have the framework in place to encourage, incentivise and support schools to do what we know will create the best outcomes for the vast majority of children in this country: inclusion in a mainstream system where they can thrive.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Amanda Martin (Portsmouth North) (Lab)",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "Given today’s report, and the shocking and devastating impact that the reality has on children, young people and their families, what message does the Minister have for the children and young people with SEND and their families in Portsmouth North?",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "We recognise how challenging this situation is for families who are not getting the support they need for special education needs or disabilities. We know that the system is broken—the National Audit Office report lays it out bare. We are determined to fix this; that is the message that I want to send.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Richard Holden (Basildon and Billericay) (Con)",
+   "member_id": 4813,
+   "type": "Contribution",
+   "text": "Within five months of entering office, this Government will introduce VAT on independent schools, with all the impact that may have on the state sector. How long will we have to wait for an actual plan for SEND children, rather than just political posturing around VAT?",
+   "name": "Mr Richard Holden",
+   "party": "Con",
+   "seat": "Basildon and Billericay"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The changes that we have set out and are determined to make all aim to improve the situation that we have inherited, after 14 years of neglect and decline under the previous Government. I have set out at length all the changes that we seek to make through legislation—and the changes we have already made—to our education system to ensure an inclusive mainstream, and high and rising standards and opportunities for all.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Darren Paffey (Southampton Itchen) (Lab)",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "Today’s report is damning but not surprising. It is an indictment of the former Government and their 14 years of failure. Even today, they shamelessly deflect and gaslight the very families whom they have failed. Independent SEND provision is growing in Southampton Itchen and across the country. Those places are needed, but councils are left at the mercy of market price and—often, when it comes to residential care—venture capitalists. That is wrong. Does the Minister agree that as part of whole-system reform we must return to basics, and that profiteering from SEND is the wrong approach? Will she meet me and my constituents to hear what they want from this whole-system reform?",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend raises an important challenge that we are determined to address. We want mainstream inclusive education in our state school system, which every child should have access to and thrive in. However, we need specialist places for children with complex needs when that is the only place where their needs can be met, and a system that not only best serves the needs of children but is sustainable. I will take away his comments, and that will be part of our thinking as we go ahead.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Sarah Green (Chesham and Amersham) (LD)",
+   "member_id": 4918,
+   "type": "Contribution",
+   "text": "Other Members have asked about educational psychologists. There is a real shortage right now. Are the Government considering enabling other professionals to undertake some of the assessments to help unblock the waiting lists?",
+   "name": "Sarah Green",
+   "party": "LD",
+   "seat": "Chesham and Amersham"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I thank the hon. Lady for the constructive way in which she put her question. I will take it away, and consider how it would fit into our broader plans to ensure that we have an education system that can meet the needs of children in terms of both their educational requirements and their mental health, special educational needs and disability requirements, within a broader health system that can meet those needs as well.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Alex McIntyre (Gloucester) (Lab)",
+   "member_id": 5349,
+   "type": "Contribution",
+   "text": "Far too many families in my constituency have come to me in tears, not just at the lack of support for their children with SEND but at a system that seems set up to stop them getting that support. How many appeals are successful because they should have got through the first time around? People feel they are being let down by the system, so will the Minister please ensure that our reformed system will not make families have to fight to get the support that their children so desperately need?",
+   "name": "Alex McIntyre",
+   "party": "Lab",
+   "seat": "Gloucester"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend is right: the system is letting down families and children, and creating a situation where not only are educational outcomes impacted by the poor response but too many families’ lives are affected by trying to deal with the system. That is why we are determined to reform it. The evidence shows very clearly that inclusive mainstream schools that meet demand will reduce the need for education, health and care plans, and the need for families to go through the process in the first place.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Bradley Thomas (Bromsgrove) (Con)",
+   "member_id": 5186,
+   "type": "Contribution",
+   "text": "What additional resources will the Government provide to Worcestershire county council, given what will undoubtedly be the profound and devastating impact of the Government’s education tax?",
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The changes that we are looking to make to remove the exemptions for private schools will be used to fund more teachers in our state sector and create the inclusive mainstream education that we know every child deserves.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Ben Goldsborough (South Norfolk) (Lab)",
+   "member_id": 5205,
+   "type": "Contribution",
+   "text": "SEND provision in Conservative-run Norfolk has collapsed after years of adversarial mismanagement by the county council. I welcome the steps that my hon. Friend has taken so far. Will she commit to recognising the value of co-production to ensure that SEND family voices are valued and money is spent wisely?",
+   "name": "Ben Goldsborough",
+   "party": "Lab",
+   "seat": "South Norfolk"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "We are very clear that this reform is a journey that we want to go on with all those who support our children and families, whether that is teachers, school staff more broadly, education professionals, health professionals or local authorities. Everybody wants this to work better, and we need to work together to achieve it.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Claire Young (Thornbury and Yate) (LD)",
+   "member_id": 5140,
+   "type": "Contribution",
+   "text": "Data for autumn 2023 and spring 2024 shows that more than a third of children with an EHC plan were persistently absent—more than double the rate for pupils without identified SEND. Persistent absence is a very complex issue, and a multi-faceted approach is needed to tackle the problem. In the light of this damning report from the National Audit Office, does the Minister agree that we cannot have parents facing prosecution for the failings of the system? How will she work across Government to ensure that parents of children with SEND can be sure that their children will get the support that they need to attend school safely and receive the education that they deserve?",
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The Government have inherited an absence epidemic in this country. Last year, one in five children were persistently absent from school, missing a day every fortnight or more. We know that strong foundations are rooted in attendance at school. Children cannot receive an outstanding education that unlocks opportunities if they are not in school. I recognise the challenge that the hon. Lady has set out. It is important that we work together to create an inclusive mainstream education system that every child wants to attend and feels they belong to, so that those opportunities are unlocked for them, as they should be for every child in this country.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Lola McEvoy (Darlington) (Lab)",
+   "member_id": 5037,
+   "type": "Contribution",
+   "text": "I thank the Minister for her statement on this damning report on SEND. Last week, the Minister and the Secretary of State visited my constituency. We went to Mount Pleasant Primary, a shining example of inclusive mainstream SEND provision in the state sector. Does the Minister agree with me and the teachers there that children with physical conditions and disabilities could be referred for an EHCP by their GP much earlier, so that they arrive at school with everything they need in place, ready to excel in their education?",
+   "name": "Lola McEvoy",
+   "party": "Lab",
+   "seat": "Darlington"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The visit to that school in my hon. Friend’s constituency was wonderful. The school is one of many examples of the provision of inclusive mainstream education. We need such provision to be in schools in every community and available to every child. She rightly recognises the challenges of co-ordinating between health services and education provision, and the vital importance of those systems working together to achieve outcomes for children. I will certainly take away her specific suggestion and share it with my colleagues in the Department for Health and Social Care.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Nick Timothy (West Suffolk) (Con)",
+   "member_id": 5062,
+   "type": "Contribution",
+   "text": "Parents in my constituency are not interested in what the Minister thinks about the Conservative party. They may recall that EHCPs were introduced under the coalition Government. They want us to work together to make things better. We all know that a problem with EHCPs has led to a tripling of costs for county councils. In the Westminster Hall debate that the Minister took part in with me recently, she was much more constructive than she is being today, and I would like to believe that that is the approach that she wants to take to these issues. Does she have a timescale for the reform of EHCPs?",
+   "name": "Nick Timothy",
+   "party": "Con",
+   "seat": "West Suffolk"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I appreciate the hon. Gentleman’s comments, and I will always work cross-party with colleagues to achieve the best for all children in this country, but levelling the blame for the current situation at a Government only five months old cannot be accepted; the inheritance that we have taken on cannot be underestimated. We will continue to work on putting right what has been failing for the past 14 years, and the Department for Education is moving at pace on work to that end. We will make specific suggestions for legislative changes, and for any other necessary systemic changes, in due course.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Laura Kyrke-Smith (Aylesbury) (Lab)",
+   "member_id": 5341,
+   "type": "Contribution",
+   "text": "Many concerned parents wrote to me at the start of term because they had finally been given a school place for their children with special educational needs but had no transport to get their child to and from school. Will the Minister reassure my constituents that we will take measures to ensure that every child with special educational needs has a reliable and safe means of getting to and from school?",
+   "name": "Laura Kyrke-Smith",
+   "party": "Lab",
+   "seat": "Aylesbury"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Transport to school is the responsibility of the local authority, and families need to work with their local authorities to ensure that they are not disadvantaged in getting their children to school by transport. I appreciate that that is a challenge— our transport system, too, is in crisis after 14 years of Conservative Government—but we will continue to work across Government to ensure that all our public services meet the needs of families. In the interim, my hon. Friend’s constituents should work with the local authority to ensure that they get the transport they require for their children’s educational needs.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Calum Miller (Bicester and Woodstock) (LD)",
+   "member_id": 5346,
+   "type": "Contribution",
+   "text": "Zak is nine years old. He is one of dozens of children in my constituency who have been failed by the SEND system. Zak was traumatised by his experience in an inappropriate school setting, causing his learning to regress and both his parents to stop work. Oxfordshire county council has an accumulated high needs deficit of £56 million because of inadequate funding, which has failed families such as Zak’s. Has the Minister pressed the Treasury to increase that funding and maintain the statutory override in next week’s Budget?",
+   "name": "Calum Miller",
+   "party": "LD",
+   "seat": "Bicester and Woodstock"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The hon. Gentleman tempts me into commentary on next week’s Budget, in which I cannot indulge him.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Ms Julie Minns (Carlisle) (Lab)",
+   "member_id": 5094,
+   "type": "Contribution",
+   "text": "I speak both as a parent whose child was badly failed in SEND provision under the last Government, and as an MP whose surgeries have been visited on every single occasion by a parent who is struggling not just to get an EHCP but to get from a school the flexibility that matches their child’s need. I say respectfully to Opposition Members—including the shadow Secretary of State, the right hon. Member for East Hampshire (Damian Hinds)—that until and unless you have walked in my shoes and the shoes of your constituents, you should show a little humility and decorum in how you respond on this issue. In the review, will the Minister encourage schools to be more flexible in their SEND provision for children who need it?",
+   "name": "Ms Julie Minns",
+   "party": "Lab",
+   "seat": "Carlisle"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "Order. I remind Members that when they say “you”, they mean me—and I do not want responsibility.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend speaks with great passion and compassion on behalf of her constituents, and I agree with everything that she says. I reiterate that what she outlines is the epitome of what we are seeking to achieve on inclusive mainstream education, so that it can meet the needs of the vast majority of children with special educational needs and disabilities in our country.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Bob Blackman (Harrow East) (Con)",
+   "member_id": 4005,
+   "type": "Contribution",
+   "text": "Children with special educational needs in Harrow face long journeys to get to the schools they need in order to deal with their problems, something that the previous Government recognised. The three MPs in the area, on a cross-party basis, the council and all the headteachers agreed that there was the need for a new special educational needs school in Harrow. The site has been acquired, but since the general election everything has gone quiet. I do not expect the Minister to give an update here and now, but will she undertake to review the position and come back to the three MPs and the council to ensure that we provide that school for the benefit of the children of Harrow?",
+   "name": "Bob Blackman",
+   "party": "Con",
+   "seat": "Harrow East"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The hon. Gentleman is absolutely right to identify the current significant transport requirement to meet the needs of children. Obviously, the way that we wish to address that is to ensure that there is inclusive mainstream education available in every community for every child, and we are working at pace to achieve that. The special school is under review and we will report back as soon as possible.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mike Amesbury (Runcorn and Helsby) (Lab)",
+   "member_id": 4667,
+   "type": "Contribution",
+   "text": "What more can the Minister do, working with her ministerial colleagues, to ensure that integrated care boards such as those in Cheshire and Warrington meet their part of the statutory obligation of 20 weeks for EHCPs?",
+   "name": "Mike Amesbury",
+   "party": "Lab",
+   "seat": "Runcorn and Helsby"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend is right to highlight the need for the Department for Education, the Department of Health and Social Care, and all those working to provide the services that children and families rely on, to work together to achieve that statutory obligation. I will take his question away and feed it back to my colleagues in the Health Department.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Vikki Slade (Mid Dorset and North Poole) (LD)",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "I would like to raise the issue of children being off-rolled and put into alternative provision. I speak as not only an MP but a parent who this has happened to, and I have a constituency meeting on Saturday where it is the subject. Is the Minister aware that children who are put in alternative provision are entitled only to 15 hours a week of education? There is absolutely no way they can recover and go on to achieve properly on 15 hours a week. I ask the Minister to consider how that fits with the new curriculum plan.",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "We are looking at the system in the round, which includes ensuring that we have inclusive mainstream education, and making sure that schools are required to work with local authorities on admissions and off-rolling, so that there is the provision within communities that children rely on. Where special schools or alternative provision is required, it is important to ensure there is an opportunity to break down the barriers for young people. Ideally, the vast majority of children can go back into the mainstream system as part of that inclusive provision. I will take away the hon. Member’s specific query. It is an issue we are looking at as part of the wider system.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Sarah Coombes (West Bromwich) (Lab)",
+   "member_id": 5088,
+   "type": "Contribution",
+   "text": "I know from speaking to families in Oldbury, Oakham and other parts of my constituency, just what a SEND crisis the last Government left us with. Even when children finally get their EHCPs, parents still feel as if they are having to fight for every bit of support that they need. We cannot fix that overnight, but can the Minister set out what steps she is taking to give families in Sandwell some hope that things will change?",
+   "name": "Sarah Coombes",
+   "party": "Lab",
+   "seat": "West Bromwich"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Although the urgent question today has come about because of a damning report from the National Audit Office, which lays bare the huge challenge we face in this area, my main purpose in responding—an opportunity I am grateful for—is to restore hope for families: it is a priority for this Government and we are determined to fix it. That should give hope to the constituents whom my hon. Friend serves.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Martin Vickers (Brigg and Immingham) (Con)",
+   "member_id": 3957,
+   "type": "Contribution",
+   "text": "On a recent visit to a school in my constituency, it was put to me that not all schools fully participate in dealing with special needs children, and my casework over the years substantiates that. What efforts is the Minister making to ensure that all schools participate fully?",
+   "name": "Martin Vickers",
+   "party": "Con",
+   "seat": "Brigg and Immingham"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The hon. Gentleman is right to identify that all schools are part of solving this huge challenge that far too many children and families face. That is why we have made changes to how Ofsted assesses schools, changes that are still in progress; it is why we are carrying out the curriculum and assessment review and looking at attendance measures; and it is why we are looking at local authority co-operation with schools, to make sure that all schools within a local area can work together to ensure that inclusive mainstream education is available for all.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Sam Rushworth (Bishop Auckland) (Lab)",
+   "member_id": 5108,
+   "type": "Contribution",
+   "text": "A mother in my constituency came to see me. Her son has been off-rolled from mainstream primary school, which she would like him to attend, and offered only a distant special school that is entirely inappropriate for his needs. She would like to know why Durham county council is prepared to spend £30,000 a year on transport for her son to attend a school that she does not feel is appropriate for him, but will not spend the same amount on a classroom assistant who could help him to be in mainstream school. That is happening under rules introduced by the previous Government. Will the Minister meet me to discuss this?",
+   "name": "Sam Rushworth",
+   "party": "Lab",
+   "seat": "Bishop Auckland"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I would be happy to meet my hon. Friend. He has outlined just one example of how the system is broken and needs to be fixed.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Jess Brown-Fuller (Chichester) (LD)",
+   "member_id": 5335,
+   "type": "Contribution",
+   "text": "Parents and children in Chichester have lost confidence in the SEND system, with families effectively pitted against each other and against Conservative-led West Sussex county council, which this year delivered only 10% of its EHCPs within the 20-week statutory framework. Does the Minister agree that is unacceptable, and will she meet me and other West Sussex MPs to discuss this specific issue that West Sussex county council seems to have?",
+   "name": "Jess Brown-Fuller",
+   "party": "LD",
+   "seat": "Chichester"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The hon. Lady has outlined how the system is broken. We know it is broken. We want to fix it, and I am happy to work with colleagues across the House in order to do so, so I would be happy to meet her, as she suggests.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Debbie Abrahams (Oldham East and Saddleworth) (Lab)",
+   "member_id": 4212,
+   "type": "Contribution",
+   "text": "This damning report will come as no surprise to too many families across Oldham and Saddleworth. Given that there is a difference of nearly 20% between SEND children being in education and training and non-SEND children, what are we doing to ensure that SEND provision and support is available in foundation apprenticeships?",
+   "name": "Debbie Abrahams",
+   "party": "Lab",
+   "seat": "Oldham East and Saddleworth"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend highlights the fact that not only is the system creating stress and failing far too many children and families, but it is not creating the outcomes that we want to see for every child, including those with special educational needs and disabilities. I will raise the important point she has made with my colleague in the Department of Health who has responsibility for apprenticeships. [ Official Report , 4 November 2024; Vol. 756, c. 2WC.] (Correction)",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Gregory Stafford (Farnham and Bordon) (Con)",
+   "member_id": 5351,
+   "type": "Contribution",
+   "text": "On Friday afternoon, alongside my right hon. Friends the Members for East Hampshire (Damian Hinds) and for Godalming and Ash (Jeremy Hunt), I arranged a meeting with parents, governors and teachers at independent schools. They were unanimous that imposing an education tax partway through an academic year will have disastrous impacts on the education of every child, but especially those with special educational needs. What assessment has the Minister made of the impact of Labour’s education tax on the caseload of EHCPs, and on the capacity of local authorities such as Surrey and Hampshire to meet them?",
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The Treasury will produce its impact assessment as part of the normal course of implementing new taxation, and the hon. Gentleman can refer to that assessment once it is published.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Rachel Blake (Cities of London and Westminster) (Lab/Co-op)",
+   "member_id": 5257,
+   "type": "Contribution",
+   "text": "I have been working with parents of children with SEND for a number of months now. They talk to me about their children’s experiences in mainstream schools and the fact that the support has not been what it should be, even though they are looking for an inclusive education for their children. Can the Minister outline what support mainstream schools might need in the near future in order to provide that truly inclusive education to so many children who have been let down?",
+   "name": "Rachel Blake",
+   "party": "Lab/Co-op",
+   "seat": "Cities of London and Westminster"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend raises an important point: it is right that we require schools to provide inclusive mainstream education, and that we put in place the work- force, the training, and all the support that is necessary for that to be delivered. That is why one of our priorities is to have 6,500 more teachers within our teaching system, to ensure we have the specialist teachers that every child should have. We are looking at training; additional training support for special educational needs and disabilities has already been rolled out for the early years, and we want to ensure all schools have access to high-quality training that supports them to meet that need.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Tessa Munt (Wells and Mendip Hills) (LD)",
+   "member_id": 4089,
+   "type": "Contribution",
+   "text": "Demand for EHCPs for children in Somerset has tripled in six years, and the county’s SEND budget is forecast to be in deficit by £290 million in the next five years. Previously, Somerset spent, on average, £22,000 per child with an EHCP, but now that is £18,000. So this is not about overspending; it is about the increasing number of children needing help. As a start, could the Minister look at the current legislation, which lacks clear definitions of which children should be assessed or funded? This ambiguity, especially post covid, has led to a huge and rapid increase in the number of children needing support.",
+   "name": "Tessa Munt",
+   "party": "LD",
+   "seat": "Wells and Mendip Hills"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The hon. Lady raises an important point. We will be looking at the system as a whole, and at any legislation that needs to be amended or brought in to achieve our vision for an inclusive mainstream education that not only provides education for all children regardless of their special educational needs and disabilities, but provides specialist places for those with the most complex needs that cannot be met within mainstream education. We know the evidence shows that, where those needs are being met within the inclusive mainstream education system, the need for EHCPs is significantly reduced.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Melanie Onn (Great Grimsby and Cleethorpes) (Lab)",
+   "member_id": 4464,
+   "type": "Contribution",
+   "text": "Last year alone, my local authority of North East Lincolnshire spent £1.3 million sending 114 children out of area to special educational needs settings. Could the Minister reassure constituents across North East Lincolnshire and in my constituency of Great Grimsby and Cleethorpes that the actions she is taking will not only support local authorities and reduce these additional costs, but provide the kind of education their children need closer to home?",
+   "name": "Melanie Onn",
+   "party": "Lab",
+   "seat": "Great Grimsby and Cleethorpes"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend sets out very well the vision that we are seeking to achieve for all children. The purpose of all the changes we are making in our education system is to ensure that inclusive mainstream education is available to all children and that there are specialist places for children with the most complex needs.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Greg Smith (Mid Buckinghamshire) (Con)",
+   "member_id": 4778,
+   "type": "Contribution",
+   "text": "With more and more children requiring SEND provision, the scale of the challenge is undoubtedly large. The previous Conservative Government did offer a beacon of hope for children in Buckinghamshire, with the previous Secretary of State confirming funding for a new SEND school in the county. Can the Minister confirm whether those funds are still secure and whether Buckinghamshire will still get that new SEND school?",
+   "name": "Greg Smith",
+   "party": "Con",
+   "seat": "Mid Buckinghamshire"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "As the hon. Member is aware, we are looking at the whole system in the round to ensure that we have the inclusive mainstream provision that the vast majority of children will not only benefit from but do better in, and that we have specialist places where they are needed. We are working at pace to ensure that we have the right places for the children who need them as fast as possible.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Gareth Snell (Stoke-on-Trent Central) (Lab/Co-op)",
+   "member_id": 4595,
+   "type": "Contribution",
+   "text": "I draw the House’s attention to my registered interest as a governor of a special educational needs school. The Minister has rightly pointed out the failure of the SEN system over many years, but it is important that we recognise the herculean effort made by teachers and support staff in schools, and it is not those individuals who have failed young people. Further to her answer to my hon. Friend the Member for South Norfolk (Ben Goldsborough), could the Minister outline how she will engage with representative bodies of teachers and support staff in schools to ensure that they are included in the rescue plan?",
+   "name": "Gareth Snell",
+   "party": "Lab/Co-op",
+   "seat": "Stoke-on-Trent Central"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend is absolutely right. We in government cannot deliver any of the change we want to see; it will be delivered by the teachers, the support staff, the education professionals and the health professionals in our system. He is right to draw attention to their valiant efforts in a system that has been letting down them and the children and families they serve. We will be legislating to bring in the school support staff negotiating body to ensure that the support staff in our schools, who are the lifeblood of so much of what is provided to our children, have their voice as part of the national conversation.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Sarah Dyke (Glastonbury and Somerton) (LD)",
+   "member_id": 4995,
+   "type": "Contribution",
+   "text": "Somerset has the third highest rate of school exclusions and the second highest rate of suspensions in England for children with SEND. Does the Minister agree with today’s National Audit Office report confirming that the Government must develop a whole-system approach, to ensure that the most vulnerable students in Glastonbury and Somerton get the education they deserve?",
+   "name": "Sarah Dyke",
+   "party": "LD",
+   "seat": "Glastonbury and Somerton"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I absolutely agree with the National Audit Office. Although it is a damning report, we recognise much of what it says and are determined to fix it and put it right in the way the hon. Lady suggests.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Andy MacNae (Rossendale and Darwen) (Lab)",
+   "member_id": 5134,
+   "type": "Contribution",
+   "text": "SEND is the single greatest issue facing schools in my constituency, and I have had far too many heartbreaking conversations with families who are not getting the support they need. Does my hon. Friend agree that supportive early intervention and diagnosis is the single most effective way of reducing this demand and ensuring better outcomes?",
+   "name": "Andy MacNae",
+   "party": "Lab",
+   "seat": "Rossendale and Darwen"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I absolutely agree with my hon. Friend. Early diagnosis and early intervention are known to significantly improve the opportunities and outcomes for children with special educational needs and disabilities, but one of the biggest challenges in this space is the battle that many families face with a system that is letting them down, and we are determined to change that.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Clive Jones (Wokingham) (LD)",
+   "member_id": 5207,
+   "type": "Contribution",
+   "text": "Special needs education was underfunded by the previous Government, affecting many families in my constituency. I know that the Government have been left with a £22 billion hole in the country’s finances, but will the Minister ensure that there is an increase in funding for SEND education in the local government settlement at the end of this year?",
+   "name": "Clive Jones",
+   "party": "LD",
+   "seat": "Wokingham"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I recognise the challenge that the hon. Gentleman raises. He tempts me into anticipating the Budget statement next week, but I will say that we recognise the challenges that many local authorities are facing and are alive to those concerns.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Jayne Kirkham (Truro and Falmouth) (Lab/Co-op)",
+   "member_id": 5279,
+   "type": "Contribution",
+   "text": "The adversarial system has caused such damage and upset. Can the Minister confirm that she will look towards a system in which expectations are clear and co-produced, and will she also look at the funding formula more generally, because some places have far less high needs and direct funding for students than others even though they have to cover much greater distances?",
+   "name": "Jayne Kirkham",
+   "party": "Lab/Co-op",
+   "seat": "Truro and Falmouth"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend raises a number of issues and I fear we are running out of time to give them the response they deserve. I will be happy to respond in more detail in writing because she does raise some important issues that we are determined to address.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Luke Taylor (Sutton and Cheam) (LD)",
+   "member_id": 5103,
+   "type": "Contribution",
+   "text": "Projections show a cumulative deficit of over £4 billion on educational balance sheets by 2026, and the override mechanism ending, which will allocate those deficits to county balance sheets. This is a pending disaster for local authorities, and the report suggests that it will push 43% into bankruptcy. The report’s conclusion is that the SEND system, if unreformed, is financially unsustainable, yet we have not heard meaningful plans for reform. Will the Minister take this opportunity to commit to the national body for SEND that was included in the Liberal Democrats manifesto, which will end the postcode lottery, ensure funding for higher needs students and address the urgent funding crisis for local government?",
+   "name": "Luke Taylor",
+   "party": "LD",
+   "seat": "Sutton and Cheam"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The hon. Gentleman is right that the NAO has identified that the system is currently unsustainable, and not only is it financially unsustainable but it is not sustainable for the children and their families that are being let down. The Government are determined to fix this and are working at pace to do so.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Adam Thompson (Erewash) (Lab)",
+   "member_id": 5044,
+   "type": "Contribution",
+   "text": "A whole 10% of my constituency casework relates to SEND provision, so I recently issued a public letter to Conservative-led Derbyshire county council expressing my deep concern over the state of its provision as many affected families feel voiceless. What steps will the Government take to ensure that councils, including Derbyshire county council, actually fulfil their responsibilities to children and families?",
+   "name": "Adam Thompson",
+   "party": "Lab",
+   "seat": "Erewash"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Councils are at the forefront of seeking to meet the needs of children with special educational needs and disabilities and their families, and they are being let down by a system that is broken and that the NAO shows is completely unsustainable. So we will work at pace in government, working with teachers, parents, schools, school support staff, the health service and local authorities to ensure that children get the opportunities they deserve.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Richard Foord (Honiton and Sidmouth) (LD)",
+   "member_id": 4942,
+   "type": "Contribution",
+   "text": "Devon county council projects an overspend on special educational needs of £38.5 million. That is explained partly by additional travel costs in rural areas such as mine in mid and east Devon. The last Conservative Government threatened that such an overspend would put at risk the so-called safety valve for Devon. How will the Minister help enable good-quality SEND support to be delivered closer to home?",
+   "name": "Richard Foord",
+   "party": "LD",
+   "seat": "Honiton and Sidmouth"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The hon. Gentleman is right that the solution to many of these challenges is to create inclusive mainstream education in every community, so that every child can benefit from it and thrive.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Andrew Cooper (Mid Cheshire) (Lab)",
+   "member_id": 5195,
+   "type": "Contribution",
+   "text": "Parents want the best for their children, schools want to deliver the best for their children and local authorities want to provide the best for their children, but the system sets everybody up to fail. It is adversarial instead of being person-centred, and it actively incentivises bad outcomes. I am pleased to hear the Minister say that we need to rebuild the system from the ground up, but does she agree that that needs to go hand in hand with rebuilding child and adolescent mental health services and improving the speed of diagnosis for autism and ADHD? Will she commit to working with my right hon. Friend the Secretary of State for Health and Social Care to help deliver that?",
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend makes the case very well. I agree that we need to work at pace to improve the mental health support available for young people, to improve the availability of educational psychologists and to work across government, including with colleagues in the Department of Health and Social Care, to ensure that we are unlocking opportunity for all.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "I thank the Minister very much for her answers to the questions and for always trying to be helpful. Movilla high school in my constituency has increased its enrolments from 402 to 600 pupils. That is because staff have worked hard, but also because education authority support has enabled the school to extend the special provision for pupils with autism to include 10 and 11-year-olds. It has established two nurture classes in the mainstream. Does the Minister agree that additional funding to create SEND units within the mainstream for the pupils who need support is a way forward? Will she consider that suggestion to make lives better?",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The hon. Gentleman is, as always, characteristically constructive in his contribution, and I thank him for that. I am more than happy to take away his suggestion and consider it as part of our wider reform of the system.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Catherine Atkinson (Derby North) (Lab)",
+   "member_id": 5143,
+   "type": "Contribution",
+   "text": "There are more than 20 cases in my constituency of children with special educational needs and disabilities who are missing out on care and school placements, and I am meeting the council about them tomorrow. I thank the Minister for speaking with me this week about the concerns of families. Can we make it a priority to help local authorities to offer these children the best possible placements?",
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I wish my hon. Friend well in her meeting tomorrow. We know the challenges in the system, and they are laid bare in the National Audit Office report. There is no shortage of will right across the House to get this right and to put the system right. As we draw to the end of these questions, I must reiterate that it will take patience, because there is no quick fix to the situation we have inherited. However, we are determined to fix it, and we will do so on an ongoing basis and as quickly as possible.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Dave Robertson (Lichfield) (Lab)",
+   "member_id": 5126,
+   "type": "Contribution",
+   "text": "Saxon Hill academy in my constituency does amazing work to support young people between the ages of two and 19 with physical disabilities and complex needs, but for many of the students, it is much more than a school. It is literally a home away from home, due to its sleepover club, which allows pupils to stay at the school overnight one night a week. The funding for that provision was extended for two years in December last year. Can the Minister assure me that as part of the Government’s SEND review, we will look at sustainable funding for such additional provision?",
+   "name": "Dave Robertson",
+   "party": "Lab",
+   "seat": "Lichfield"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend raises an important point. We need to move to a more sustainable footing in the longer term and make sure that councils can plan ahead. That is something we are looking at.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Emily Darlington (Milton Keynes Central) (Lab)",
+   "member_id": 5139,
+   "type": "Contribution",
+   "text": "An entire generation of Milton Keynes children with SEND needs has been let down by the previous Government. In addition, the cuts to local councils and schools have made the situation much worse, particularly in respect of high-level teaching assistants, who are crucial to ensuring early detection of and ongoing support for children with SEND in mainstream education. Will the Minister ensure that the school support staff who do that important work are included in this essential review to support children in Milton Keynes?",
+   "name": "Emily Darlington",
+   "party": "Lab",
+   "seat": "Milton Keynes Central"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Absolutely. I am always very careful to say that we thank and applaud both the teachers in our schools and the incredible support staff, who not only support teachers in their role but ensure that every school can function and provide the opportunities that we know will enable all children to thrive.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "That completes the urgent question, but let me say to all those in the Chamber that I think this is a very important issue. I do not think there is a constituency that is not affected by it. Thanks to the Minister and thanks for all the contributions, which are certainly on the record now.",
+   "name": "Chair",
+   "role": "Chair"
+  }
+ ],
+ "fetched": "2026-10-21T20:24:06Z"
+}

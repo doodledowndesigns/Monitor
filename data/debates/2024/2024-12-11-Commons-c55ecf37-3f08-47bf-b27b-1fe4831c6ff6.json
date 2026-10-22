@@ -1,0 +1,1040 @@
+{
+ "ext_id": "c55ecf37-3f08-47bf-b27b-1fe4831c6ff6",
+ "date": "2024-12-11",
+ "house": "Commons",
+ "section": "PBC",
+ "title": "Non-Domestic Rating (Multipliers and Private Schools) Bill (Second sitting)",
+ "parents": [
+  "Public Bill Committees"
+ ],
+ "location": "Public Bill Committees",
+ "url": "https://hansard.parliament.uk/Commons/2024-12-11/debates/c55ecf37-3f08-47bf-b27b-1fe4831c6ff6/NonDomesticRatingMultipliersAndPrivateSchoolsBillSecondSitting",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner",
+   "member_id": 4872
+  },
+  {
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution",
+   "member_id": 4569
+  },
+  {
+   "name": "Jayne Kirkham",
+   "party": "Lab/Co-op",
+   "seat": "Truro and Falmouth",
+   "member_id": 5279
+  },
+  {
+   "name": "Martin Wrigley",
+   "party": "LD",
+   "seat": "Newton Abbot",
+   "member_id": 5111
+  },
+  {
+   "name": "Ms Billington",
+   "party": "Lab",
+   "seat": "East Thanet",
+   "member_id": 5123
+  },
+  {
+   "name": "Harriet Cross",
+   "party": "Con",
+   "seat": "Gordon and Buchan",
+   "member_id": 5311
+  },
+  {
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East",
+   "member_id": 5152
+  },
+  {
+   "name": "Mr Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley",
+   "member_id": 5166
+  },
+  {
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole",
+   "member_id": 5327
+  },
+  {
+   "name": "Navendu Mishra",
+   "party": "Lab",
+   "seat": "Stockport",
+   "member_id": 4811
+  },
+  {
+   "name": "Michelle Welsh",
+   "party": "Lab",
+   "seat": "Sherwood Forest",
+   "member_id": 5226
+  },
+  {
+   "name": "Deirdre Costigan",
+   "party": "Lab",
+   "seat": "Ealing Southall",
+   "member_id": 5075
+  },
+  {
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich",
+   "member_id": 5303
+  },
+  {
+   "name": "Adam Thompson",
+   "party": "Lab",
+   "seat": "Erewash",
+   "member_id": 5044
+  }
+ ],
+ "contributions": [
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "I remind Members that they must declare any relevant interests before asking questions or speaking to amendments. I am the third person, I think, who Members have had in the Chair for this Bill Committee. We continue with our witnesses. Examination of Witness Dr Malcolm James gave evidence.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We have until 2.20 pm for this segment. Dr Malcolm James is a tax and accountancy specialist and a former senior lecturer in taxation and accountancy at Cardiff Metropolitan University. Before I call the first question, I remind Members that they must remain within the scope of the Bill, which is tightly defined, and that we have to stick to the timings. I call the shadow Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "David Simmonds (Ruislip, Northwood and Pinner) (Con)",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "Q 57 Welcome, Dr James. May I start by asking for your view of the impact the Bill, particularly with reference to high streets? Dr James: With reference to the private schools?",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "David Simmonds",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "In this sitting, the evidence has so far covered both private schools and high streets. You are a tax and accountancy specialist, so you have a broad overview. Is that correct? Dr James: Yes. The vast majority of private schools are charitable institutions; as such, they have no owners. Therefore the effect of tax will have to be borne in one of two ways: the institutions will need to bear the cost through a reduced surplus, or they will need to pass it on, in whole or in part, to the families of the pupils, by raising fees. It is clearly no coincidence that the Bill follows hard on the heels of the imposition of VAT, which will come into effect, I believe, at the beginning of next month. There has been an awful lot of coverage, of one sort or another, of the effect of that change. We are looking at the removal of the discount, which is something like 80%, on non-domestic rates. That will increase their property taxes. Although it will doubtless not be as significant as the imposition of VAT, it will have an effect. They will have either to absorb it or to pass it on to the families of the pupils.",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "David Simmonds",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "Q Thank you very much. There has been an extensive debate about VAT, although that is outside of the scope of this Bill. We have spent a good deal of time debating the impact on special educational needs schools, a significant proportion of which are in the private sector. Some are paid for directly through fees charged to parents; some are paid for through education, health and care plans supplied by local authorities. Do you have a view about how the measures in the Bill will impact special educational needs provision? Dr James: I have every sympathy with the families of children who have a variety of special needs, and I do not want to see them suffer in any way, but I want to address one of the points that private schools make, which is that the parents are virtuous and self-sacrificing because they pay again for education and thereby relieve the state of a burden. In this country, unlike countries in the eurozone, we have a sovereign Bank of England, which creates the pound sterling. It is not revenue constrained, even though the Government usually tend to behave as if it were by convention. There are real economic factors that restrict the amount that it is wise for the Bank ",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "The Minister for Local Government and English Devolution (Jim McMahon)",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "Q Thank you, Dr James, for taking the time to give evidence today. We are particularly interested in the evidence you have amassed on the impact of this proposal. Where should the Government focus in mitigating the impact during the course of the process? To take what I think I have heard, the evidence you have provided is that, as a starting principle, the Government do not need to go here because there are plenty of other options, but the fact is that we have chosen to go here. What we are trying to get from the evidence sessions is that, within the decision that has been taken— Dr James: I am sorry; I am having a bit of difficulty hearing what you are saying distinctly.",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "I think that rather than hearing a case from the evidence sessions that asserts that this does not need to happen, which we have just spent five minutes doing, it would be helpful to get a sense from you, given that the decision has been made to do this, of your assessment of the impact and the mitigations you would propose, within the scope of what is being proposed, to counter that. Dr James: For schools providing for special educational needs, you can always amend the Bill to exempt certain types of school, or certain situations with certain pupils. There is a bigger question of social justice: it is well known that the alumni of private schools are disproportionately represented in all sorts of professions, including Parliament. I have a quote here from a paper that that says that parents know that what they are paying for is lifelong membership of an exclusive and superior club. Talk about saying the quiet bit out loud! We can provide scholarships and exemptions for special educational needs, but—",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "Q But those are provided for in the scope of the proposed legislation. Schools that have more than half of their intake of children in that situation would be exempt—for those in receipt of a local authority EHCP. Dr James: That indicates how far there is a problem with this and how far this is being used as a stalking horse to try to frustrate the bigger objective of reducing social inequalities.",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "Q If it is a stalking horse, it is a fairly mild one. The impact, even if every pound was passed on per pupil, is just over £300 a year—less than £1 a day. Dr James: I am sorry; I am having difficulty hearing what you are saying.",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "These are evidence sessions where we try to glean insights that we have not previously had to inform the Bill and any potential changes. But I am struggling to get from the evidence so far a real sense of the impact. If there is a pound for pound impact with this measure—the business rate treatment for private schools—it amounts to, on average, just over £300 per pupil if it is passed on in its entirety, which is less than £1 a day. On that basis, what assessment has been made on the impact of that from your perspective? Dr James: I have not actually looked at the impact of this particular measure in detail. I have looked at the impact of the taxation in general, but—",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "Q But not on this measure. I am happy to conclude my remarks.",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "If we speak closer to the mike, it will pick us up—the witness is not hearing.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Jayne Kirkham (Truro and Falmouth) (Lab/Co-op)",
+   "member_id": 5279,
+   "type": "Contribution",
+   "text": "Q I am going to try again. You are talking about the EHCP and saying that this might impact on some of the children and parents with EHCPs. The Bill sets out that private schools that are wholly or mainly concerned with the provision of education for children with EHCPs will retain their relief. So do you think there will be much impact on those children? Do you think that will mean they would have to move schools, given that the measure is in there? Dr James: If they are retaining their relief, hopefully they should not have to. It would be very detrimental for people with children with certain types of SENs to have to move schools—not just to the state sector: move schools full stop.",
+   "name": "Jayne Kirkham",
+   "party": "Lab/Co-op",
+   "seat": "Truro and Falmouth"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Any more questions for Dr James? No. In that case, we can move on to our next witnesses. Thank you, Dr James. Examination of Witnesses Kate Nicholls OBE , Steve Alton and Sacha Lord gave evidence .",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We will now hear oral evidence from UKHospitality, the British Institute of Innkeeping and the Greater Manchester combined authority. We have until five past 3 for this session. We are reliably informed that Sacha Lord, night time economy adviser for Greater Manchester, is on his way. In the meantime, will our two witnesses introduce themselves? Kate Nicholls: Good afternoon. I am Kate Nicholls. I am chief executive at UKHospitality, which is the national trade body that represents hospitality businesses. We have 750 member companies. Between them, they operate 150,000 outlets across all parts of the UK—single-site, independent pubs, bars, cafés, restaurants, nightclubs and hotels, all the way through to the largest national and international chains. Steve Alton: Good afternoon. I am Steve Alton. I am the chief exec of the British Institute of Innkeeping. We are a professional membership organisation for individuals in the licensed trade, with 13,000 members across the whole of the UK. The vast majority of our members run single pubs, independently. We provide a suite of services, from supporting members with the professional advice that they may need to providing platforms to cele",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We have until five past 3 for this block of questions. We start with the shadow Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "David Simmonds",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "Q Thank you, Dr Huq. Welcome to both of our witnesses. We are aware, as a Committee, that the sector you represent is very significant in the UK economy. Would you be able to give us an indication of how you assess the impact of the measures in the Bill on the businesses and organisations that you represent? Kate Nicholls: Looking specifically at this Bill, in particular, and just at those measures, I think hospitality is overtaxed when it comes to business rates. It has been for some time. If you look at the system without reliefs, hospitality pays around 12% to 13% of all business rates, but represents 5% of GDP. If you look at the system with rate relief, the high street businesses—hospitality and retail—even with those reliefs, pay 34% of all business taxes. There is a disproportionate burden, and it has grown over time. That is particularly because there has been a move towards there being more online businesses, whereas ours are bricks and mortar, and they are in prime locations. You cannot provide our services online, so we are in high street locations, where the businesses are heavily invested. Hotels and pubs are taxed for business rates on the basis of their turnover. The",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "David Simmonds",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "Q May I follow up with a further question, specifically on pubs and hotels? We are aware that the nature of those premises often does not lend them to easy conversion into another business use, unlike a lot of retail shops, for example, which could change between offices and use by different kinds of businesses. Mr Alton, you highlighted sustainability as a concern, given that the Bill, although it embeds it permanently, represents an increase in the business rates cost. What further steps would you like to see taken to help to ensure that sustainability, particularly of hotel and pub premises, is supported through the system? Steve Alton: Building on that point from a pub perspective, it is about rebalancing taxation overall for pubs, and making it fair. We have always consulted with Ministers and officials across Government on solutions. Our members will always argue for VAT to be reduced on pub sales, because they saw that support in the pandemic and it was an instant injection of cash into their business. It was not about profiteering. Kate alluded to the fact that a pub is a low-margin business. It needs to be profitable because pubs need to continue to evolve the model and in",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "Q Thank you for giving evidence, and for the insight that you provided, which I thought was very comprehensive and gave a good insight into the industry. We all accept just how important pubs are, not just to the economy, but to our communities. In many places, they are where communities come together, where families meet and where memories are made. In many working-class communities, they are also buildings of note—of interest—that add character. All that is taken, and the work that your members do is appreciated. The Government are trying to give certainty in the system and to say that it is not good enough that, year on year, you do not know what is coming down the line. We want you to be able to plan ahead. We want you to know the Government will stand with you. There will always be limitations on just how far any Government action can go, but we believe that this is a comprehensive package that gets the right balance between the online retailers and large distribution warehouses, and those on the street and in communities. On the quite stark warning that was issued about the potential for one in four pubs—15,000, potentially—to close, how would that compare with the past 10 ye",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "Q This part of the sector is unique in that turnover is so closely aligned to rateable value in a way that is different from other parts of the system. We accept that. You will know about this from your members, and I hear it all the time as a constituency MP—I have large family brewery, JW Lees, that operates heavily in my constituency, and it is very good—but when margins are tight, how much of that is down to a number of factors that are outside the Government’s control, not least rent? We heard earlier from the Institute for Fiscal Studies, whose evidence indicated that there is a market adjustment: on one side there may well be a rate increase or decrease, but on the other side the rent will move accordingly. I accept that that is outside the scope of the Bill, but it would be helpful to get your assessment of the marketplace, the rent levels that are applied to these businesses and how much those impact viability—well beyond business rates. Kate Nicholls: We have done an annual benchmarking survey across the hospitality sector as a whole over the past 15 years. We look at the common site operating costs. In the past 15 years, business rates across hospitality as a whole have ",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "Q As a quick supplementary, what is your assessment of the number of your members that will benefit from the measures being taken? Kate Nicholls: The overwhelming majority of my members will benefit from the measures being taken, if they are taken to the maximum, but I reiterate exactly what Steve said: in the current circumstances, it needs to be 20p. It cannot be “up to”; it needs to be 20p for both tiers. A number of hospitality businesses across the UK—about 700—fall into the super-rate. That might sound like a very small number, but it is a large proportion when it comes to employment: those businesses account for about 7% of employment. That will be particularly impactful. Those will tend to be larger hotels, pubs, bars and restaurants, either in city centres—around 400 of them are in London—or in coastal communities, where we have our large hotels. Those will be very large premises. You asked about margins. Over the period since covid, margins in the sector have eroded by 40%, and many of our businesses are now operating at a net profit margin of between 4% and 6%. In Cornwall, Devon and deprived coastal areas, the big hotels will be the biggest employers by far: 20% of empl",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "That was not my point. I did not use those words. Steve Alton: But having that assurance is a key part of it. Uncertainty has been impactful on business rates. It has stopped small operators from taking another site. If they take another site, you are talking about £300,000 to £400,000 of capital investment to build a new team of 40 employees, and there is a compound impact on the supply chain locally. A lot of people have held a station and have the ability to do it, but it is just not viable with the business rates bill as it is now. You could unlock some significant investment and growth, and, as we have shown previously, you could do so rapidly.",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "David Simmonds",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "Q I want to ask about the impact of the multiplier and the discretion around it. One of the things that we are all well aware of is that local authorities, in particular, are very big customers of hotels. They are particularly in search of temporary accommodation, which is especially significant at this time of year. There is often a strong incentive to make sure there is a sustainable hotel sector in a given location to provide for that emergency housing need, as well as for other, wider purposes, such as supporting tourism. Is it your view that there should be discretion on the part of the billing authority so that if they need a sustainable hotel sector in order to meet temporary emergency housing need, or to accommodate significant numbers of refugees arriving, pending onward placement elsewhere, they are able to negotiate? If those businesses go to the wall because of a lack of profit margin, the taxpayer will have to be billed significantly more because those people will have to be placed in accommodation at a higher cost elsewhere. Kate Nicholls: May I just say that the overwhelming majority of hotels are used by visitors for leisure and business purposes? Our hotel sector i",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "Martin Wrigley (Newton Abbot) (LD)",
+   "member_id": 5111,
+   "type": "Contribution",
+   "text": "Q Apologies for being late; I got caught in traffic behind a tractor. I thank the panel for their evidence. I am a coastal Devon MP, and within my constituency are Dawlish and Teignmouth. We have some major holiday sites in that area that I am fairly sure will fall into the upper brackets. What is your feeling on the changing situation? As I understand it, we have the 75% reduction right now, we are going to the 40% reduction, and then we are going to the multiplier system. Will it cause problems to be chopping and changing every year? Kate Nicholls: I think the line of sight and the longer change going forward is really helpful to have set out at this Budget. The rates, we understand, will have to be set when you know what the multiplier is going forward. If you had the maximum 20p discount from the current multiplier, that is broadly equivalent to 40%. That is if the multiplier stays the same; it could actually reduce. It remains to be seen, however, what happens when we come to the end of 2025-26 towards ’26-27 and the longer term. It could look as though it is broadly the same. Regarding the 40% now, any relief is better than nothing at this point in time—we were facing a major",
+   "name": "Martin Wrigley",
+   "party": "LD",
+   "seat": "Newton Abbot"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Q Our third witness has arrived. Can you introduce yourself for the record? Sacha Lord: My name is Sacha Lord. I am the night time economy adviser for Greater Manchester. Apologies for being late—it was a combination of Avanti West and farmers.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We can hear them from here. The first Back Bencher who caught my eye was Polly Billington.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Ms Polly Billington (East Thanet) (Lab)",
+   "member_id": 5123,
+   "type": "Contribution",
+   "text": "Q Thank you, Dr Huq. Steve, I would like to ask you a couple of questions on what you were talking about in terms of threats to the pub industry generally. I represent East Thanet, which is made up of Ramsgate, Broadstairs and Margate, which are heavily reliant on the leisure, hospitality and tourism industries. We have a lot of much-loved pubs in our town centres, but I am aware that many have closed over the last couple of decades. What would you identify as the drivers of the closures of those pubs? What are the numbers, just to put some context on the risks you have identified? Steve Alton: I think there are a number of factors. We have seen a real evolution of the pub model. Inevitably, in any market, those that do not evolve and keep that connection and relevancy with their customers do, unfortunately, fall by the wayside. There is a natural evolution within the industry. The cost base has fundamentally changed. The profit and loss has changed for new pubs. It is a tight-margin business—tighter than it has ever been. The two outliers of our model are property and people. We need a place to operate in the communities we serve, and we needs lots and lots of people. Both those h",
+   "name": "Ms Billington",
+   "party": "Lab",
+   "seat": "East Thanet"
+  },
+  {
+   "who": "Ms Billington",
+   "member_id": 5123,
+   "type": "Contribution",
+   "text": "Q I am really impressed by the resilience of the pub industry in the context of those external drivers, but what legislative, tax or regulatory changes over previous decades have contributed to the crisis in the pub industry? I want to understand the context in which we are operating. Steve Alton: As we know, employment costs have been rising disproportionately, as have the employer’s costs of living, so there is the legislation around that. We are subject not only to licensing but a number of other compound issues that we have to deal with locally with lots of different local stakeholders. All these need to be implemented with costs as well. It is the complexity, accountability and safeguarding. All those elements add layers of cost and complexity to the business. It is no longer what it was 20 years ago, when it was a far simpler model to execute, and the cost base has fundamentally changed. During that period, tax has risen. Look at VAT as a start point. You have to control pricing with your cost base. We cannot just pass through compound inflation running at 20% a year. There is a dynamic issue at play—trade will fall off a cliff. We have seen it on certain high streets: they h",
+   "name": "Ms Billington",
+   "party": "Lab",
+   "seat": "East Thanet"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Do any other witnesses have anything to add? Kate Nicholls: Over the last five or six years, you cannot escape the closures due to covid and covid-related debt. That is the backdrop against which these businesses are trying to recover. You have not really had a break from covid to be able to build back resilience in the businesses. It is not just pubs; the broader hospitality sector is also facing the same challenges. You have had high levels of covid debt, which was Government-issued, to be able to remain afloat during that period. You had two years where you were operating at or below break-even, and one in three of our businesses have no cash reserves because they have not had the ability to rebuild those cash reserves. The resilience in the independent sector in particular is just lacking. Couple that to the significantly increased tax burden—pre-profit taxes in particular—that has been borne over the last six to seven years by our sector; that further erodes the margin. If we were going into covid in 2019, the tax burden overall was 32% of turnover. It is now 38% of turnover coming out of that. If you do it as a percentage of profit, 77% of our profits go back in one form or a",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Harriet Cross (Gordon and Buchan) (Con)",
+   "member_id": 5311,
+   "type": "Contribution",
+   "text": "Q Thank you all for coming. I will aim my question at Mr Alton, but everyone can probably have a go. Mr Alton, you mentioned 15,000 potential closures, and Mr Lord just said 9,000 in Q1 next year. There was also a figure of, on average, 15 employees per pub. That brings us up to about a quarter of a million potential job losses, which will be across the board—not just full-time jobs, but part-time jobs, holiday jobs and starter jobs. It will have a huge impact. Has the sector, or have you, modelled where those are likely to fall, when they are likely to come and how they might be mitigated? Ultimately, what can be done to prevent those losses or to help those people move into other businesses across hospitality? Steve Alton: Some of that is already happening. Some people are already trimming their staff numbers down anyway to try to get ahead of this, so they have some degree of resilience. The real frustration is the reverse of what you just said: we pride ourselves on being the place that takes people in. We have some amazing charities in our sector that bring in people who are facing homelessness. We have placed over 600 of those individuals into hospitality, put our arms around",
+   "name": "Harriet Cross",
+   "party": "Con",
+   "seat": "Gordon and Buchan"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Order. The Minister may have been just about to say this, but we have only five minutes left, at least two more Members wish to ask a question, and this is steering a little out of the scope of the specific contents of the Bill.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "It is almost the opposite, really. Given the context that has been outlined, this is the respite that the industry has been calling for. If we can keep to the scope of the Bill, and what it provides for, that would be helpful.",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Jayne Kirkham",
+   "member_id": 5279,
+   "type": "Contribution",
+   "text": "Q I have a quick question. I am glad you are here, Mr Lord, because we were talking about the super tax and the £500,000 limit. I am from Cornwall, so I completely understand what you said about large hotels. Will other parts of the leisure sector, such as theme parks, the night time economy, music venues and theatres, be impacted by the super-rate? Sacha Lord: Nightclubs will certainly be impacted. Obviously, a nightclub is a much larger space than a pub, so sadly they will suffer under this legislation.",
+   "name": "Jayne Kirkham",
+   "party": "Lab/Co-op",
+   "seat": "Truro and Falmouth"
+  },
+  {
+   "who": "Jayne Kirkham",
+   "member_id": 5279,
+   "type": "Contribution",
+   "text": "Q What percentage are we talking about across the board—theatres, theme parks and so on, and hospitality? I think you said 7%, which is fairly low. Kate Nicholls: If you look at hospitality venues, which would include nightclubs and the larger hotels—it would not include theme parks necessarily, but it would include campsites and holiday parks—you are looking at around 700 premises. Of those that pay business rates, that is around 1% of total businesses, but it accounts for 7% of employment and close to 11% of turnover, so they are quite big. They are a disproportionate proportion of our tourist infrastructure in terms of employment. In certain locations, they will be up to 20% of local employment, so it is quite significant. My understanding is that the Bill could provide respite for them, because there is an opportunity to apply different rates of a super charge for different types of businesses. We can differentiate on business use above the £500,000 threshold. We urge the Government to do that, and will work with them as the Bill and the consultation go forward, to ensure that they take advantage of that, so that we do not treat a large distribution centre or fulfilment centre ",
+   "name": "Jayne Kirkham",
+   "party": "Lab/Co-op",
+   "seat": "Truro and Falmouth"
+  },
+  {
+   "who": "Mrs Sureena Brackenridge (Wolverhampton North East) (Lab)",
+   "member_id": 5152,
+   "type": "Contribution",
+   "text": "Q My constituency of Wolverhampton North East does not have a city centre, but we have lots of cafés, brilliant restaurants, microbreweries and pub chains. What benefits will the Bill provide to those small businesses? Kate Nicholls: If the deduction is applied to the maximum, it will result in a significant reduction in bills for all small hospitality businesses in suburban, neighbourhood and community locations such as your constituency, not just those subject to a cap and getting up to £100,000. Every single hospitality business in your constituency below £500,000—forgive me; I did not double-check, but I do not think you have any over that—will benefit from a permanent reduction in their business rates bills, which will help to redress the balance of their overall tax burden. Sacha Lord: I would say that this really is a substantial lifeline for all those businesses. My concern is the period between April and when this legislation comes into force.",
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East"
+  },
+  {
+   "who": "Mr Mark Sewards (Leeds South West and Morley) (Lab)",
+   "member_id": 5166,
+   "type": "Contribution",
+   "text": "Q I have a brief question for Kate Nicholls. You mentioned earlier that business rates always come up as a barrier to extra investment. Please can you talk more about that? Kate Nicholls: I chair the Mayor of London’s tourism recovery taskforce, to get London tourism going, and as part of that we look at foreign direct investment and real estate coming in. More broadly, the top 20 restaurant, pub and hotel chains are all private-equity backed, and most of that is FDI. The subject of business rates always comes up. Every single time you talk about inward investment into the UK, into property-based businesses, and about whether they should come here or go to mainland Europe or America, business rates are an inhibiting factor.",
+   "name": "Mr Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Order. I am told that I have to cut you off. Sorry about that. That brings us to the end of the allotted time for this set of witnesses, so we will do a changeover. I thank the witnesses from this panel, and we will move on to the next one. Examination of Witnesses David Woodgate, Don Beattie, Barnaby Lenon CBE and Simon Nathan gave evidence.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Q We now move on to oral evidence from the Independent Schools’ Bursars Association and the Independent Schools Council. We have until 3.40 pm, and we are expecting votes as well, just to make it even more exciting. As they take their seats, could the witnesses please introduce themselves for the record? Barnaby Lenon: Good afternoon, everybody. I am Barnaby Lenon, a chairman of the Independent Schools Council, which represents 600,000 pupils—about 80% of independent school pupils—in the United Kingdom. It is also worth knowing that I set up a state school in east London—the London Academy of Excellence—and I am currently a governor of 11 state schools in Birmingham. David Woodgate: Good afternoon. I am David Woodgate, chief executive of the Independent Schools’ Bursars Association, which has 1,300 member schools, and we support those schools in all business aspects of the running of an independent school. Simon Nathan: Good afternoon. My name is Simon Nathan, the deputy chief executive and head of policy at the Independent Schools Council. Don Beattie: I am Don Beattie, a private-practice chartered surveyor specialising in rating. I am a technical adviser to the Independent School",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "David Simmonds",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "Q I declare for the record that I have a significant number of independent schools, nurseries and other institutions in my constituency, two of which my family are customers of. We need to stick very much within the scope of the legislation, but the feedback I have had from the sector is that it has felt like a very difficult time indeed, being on the end of a targeted attack on your education sector. There are a number of proposals on the nature of business rates and how they are applied. A lot of schools are not merely involved in education but have things such as nurseries and other ancillary facilities on site. Could you give us an indication of how your members would be impacted by what is proposed in the Bill? Do you consider that improvements could be made to take account of the fact that, for example, if a nursery is in a separate building on a separate site, it is not within scope, but if it is on the same site, it is within scope? Barnaby Lenon: We are trying to make two points today. One is that the Bill is inadvertently creating a two-tier charity system—we may come back to that. The other point, which I think relates to your question, is about the impacts on our school",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "David Simmonds",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "Q Could one of the panel return to the point about the hereditaments, as in the sites and the impact where you have multiple different types of service on a given site, and where, if those were separated out, they would not be subject to and come within the business rate changes? With nursery care in particular, where they are co-located, the whole site is subject to that. May I ask about one of the things we will consider tomorrow? I think most of us will have been contacted by constituents who have been displaced from the independent sector but are unable to secure places in the state sector. What about supporting state schools that have to deal with that in-year impact, whereby they will not be funded through the normal autumn-winter pupil count, because that has already taken place, and therefore will have to wait a long time before they see any additional funding? We could consider ringfencing the proceeds locally, so at least that would mitigate some of the impact of that displacement at a local level. I am interested in whether you have a view of what mitigations—by way of local discretion, ringfencing of the proceeds, or otherwise—we could put in place, in particular to hel",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "David Simmonds",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "Q To pursue that technical point, under the SEND system in the state sector, as well as the statement—now, the educational, health and care plan—you traditionally had structures such as school action and school action plus. A child whose identified needs were not sufficient to trigger the issuing of an EHCP, but did require additional resource, would get it provided through their state school. Is there a case for saying that any child who might not have a statement, but who would have qualified for school action or school action plus, should also fall within the scope of the exemption? Simon Nathan: We recognise that there has to be some sort of boundary, and obviously it would not be possible to draw up an exemption based on a tax on property that exempted every pupil with SEN. Our suggestion is that schools where more than 50% of pupils get SEN support would benefit from that exemption. We looked at the numbers, and that would bring in perhaps an extra 100 schools and an extra 4,500 pupils. Clearly, if you are a pupil in a school that has more than 50% SEN, you are going to have a certain level of need, and perhaps the needs cannot always be catered for in a mainstream school.",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "Q Thank you for the evidence you have given, and for making the time to come to this evidence session, which is our opportunity to get an insight into the nuances and how things feel on the ground. We talk about private schools and the independent sector, but the truth is that those terms represent a broad spread of different types of schools in terms of their make-ups, pupil numbers, financial models and so on. It would be helpful to get a snapshot of the variety of schools in the system, including by perhaps comparing and contrasting a couple of different schools, and then I will follow up. Barnaby Lenon: We have a huge range of types of school. At one end, there are quite expensive boarding schools. Their fees are often quoted, but it is very expensive to run a boarding school. They are not typical, because the average independent school in our sector has 280 pupils—so it is pretty small—and half are smaller than that. I have been a governor of schools with 120 pupils, but the special needs schools we are talking about often have 50 pupils. There are plenty of faith schools, about which Simon will talk in a moment, that also have very small numbers, yet are quite important in th",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "Q There is a variety of different schools with different specialisms, particularly those special needs schools. Clearly, we have made provisions to ensure that those with more than 50% of pupils in receipt of an EHCP are exempt from this, so they are out of scope. In the end, do you think that many parents feel the need to go to the independent sector because they do not feel that the mainstream provision is adequate? On that basis, is that a reflection that the Government’s priority of rebuilding that mainstream provision, including the significant investment of £1 billion this year, is essentially about fixing the system so that parents have genuine choice, and do not feel that they have to go to the independent sector? The second point I would make is about the quantum if it was followed through. There will be an assumption that, as a business, schools will look to absorb as much of the additional pressures as possible—I will be honest—in the way that state schools have had to over the last decade. These are the choices that every business has to make to try to make the numbers work at the end of the day. Even if every pound was passed on with these measures, by our assessment, ",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "Q What I was trying to get to more was—to say “evidence” would be pushing it too far—the assessment that has been made of the impact. We hear language like, “Our parents are aspirational,” but all parents, by and large, are aspirational, regardless of the school their children go to. I am aspirational, and my son goes to a state school; that does not mean I am a lesser parent. But I do not want the conversation to be about that; I want it to be about making sure that we fully appreciate the Bill’s impact. A lot has been made of the potential displacement of pupils from the private and independent sector into the state sector. It would be helpful to get your assessment of that. Our assessment, based on May 2023 data, says that, in terms of the capacity to receive children, there are around 1 million unfilled vacancies in primary and secondary schools in the state sector. Of that 1 million, how many could come in from the private sector as a result of this measure? Simon Nathan: We did a pupil numbers survey this September that asked schools what their pupil numbers were in September 2024, compared to September 2023. That showed that pupil numbers were already down by 10,000. If you ",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "Q It is important to say, though, that the 1 million vacancies I referred to are in existing schools. So the teachers are in the classrooms, and the buildings are there. These are vacancies in the existing school system. Simon Nathan: I appreciate that. The point I was making was that some of the money that would be raised to support greater investment in state education will get eaten up by pupils moving over. In terms of hotspots, it would depend very much on the part of the country—obviously, our schools are predominantly in the south and in certain parts of London, in particular. We fully appreciate that, on a macro level, there is a certain level of vacancy, but our concern is that there will be particular parts of the country where there might be more hotspots.",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Vikki Slade (Mid Dorset and North Poole) (LD)",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "Q I am conscious of trying to keep to the Bill, because I am worried that a lot of your comments are really about the state of the independent sector more widely. As has been suggested, the Bill will make a relatively minor change, although I understand that it comes on the back of other things. What thought has been given to how the independent sector might mitigate what is effectively a change to a property tax by rationalising the amount of property it uses? An awful lot of independent schools have an awful lot of land and property, and they could perhaps mitigate the impact by doing that. Has any thought been given to rethinking how you use property? Barnaby Lenon: Before I ask David to answer that, can I just say that there are not a lot of independent schools that have a lot of property. There are a small number that definitely have a lot of property, but if you had visited as many independent schools as I have, you would see that a lot of them are in converted houses, with no other property. Many, many of our schools have far less property than a normal state primary school would have. Nevertheless, your point is taken.",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Vikki Slade",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "Q You could probably build a small village on the land owned by each of the independent schools in my constituency. So while I accept that there are schools like the ones you described, there are also schools that might be able to merge to fix this problem. David Woodgate: It is not typical for a school to carry a lot of excess land, although we have seen prep schools moving on to the sites of senior schools, and disposing of the prep. That is an obvious thing to do, and they then put that money into bursary funding or wherever. We are seeing mergers of schools, which might result in one site being surplus to requirements, and then that money can again be recycled into providing the educational product. I do not think that schools are blind to the fact that they have some levers that they can pull, but they can only sell off the family silver once. It is not necessarily a longer-term solution. It is about what they do with that money and how they use it. Barnaby is absolutely right: I have been to four prep schools in the last two weeks, and they are just converted Victorian villas with no extra space. There is not even anywhere to put a minibus—it is that tight.",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We have until 3.40 pm, and I have seen six Members indicate they have questions.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Navendu Mishra (Stockport) (Lab)",
+   "member_id": 4811,
+   "type": "Contribution",
+   "text": "Q I am grateful to panellists for being here and giving up their time. Private schools have had visibility of the Labour party policy on this matter for a long time. I wonder why the sector seems to be so unprepared for the changes in the light of the new Government coming in and delivering on their manifesto pledge. Barnaby Lenon: Personally, I do not think they are particularly unprepared. As you say, we have had plenty of notice.",
+   "name": "Navendu Mishra",
+   "party": "Lab",
+   "seat": "Stockport"
+  },
+  {
+   "who": "Navendu Mishra",
+   "member_id": 4811,
+   "type": "Contribution",
+   "text": "Q They seem very surprised. Barnaby Lenon: Well, they should not be surprised, because the Independent Schools Council and the Independent Schools’ Bursars Association—three of us on the panel—have been talking to schools for the past year and a bit. Schools have been receiving advice about how to prepare for it, particularly from David’s organisation. I do not think it is true to say that they have been taken by surprise. It is worth saying that they are charities—mostly small charities—which are operating on tight margins. They are not extravagant in the way they operate. They have found it difficult to know how to face 20% VAT. They have had plenty of notice, and the governing bodies of those schools are individually responsible for taking the actions that the sensible ones will be taking.",
+   "name": "Navendu Mishra",
+   "party": "Lab",
+   "seat": "Stockport"
+  },
+  {
+   "who": "Navendu Mishra",
+   "member_id": 4811,
+   "type": "Contribution",
+   "text": "I take your point that—",
+   "name": "Navendu Mishra",
+   "party": "Lab",
+   "seat": "Stockport"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Order. We have eight minutes for six people, so only one question each.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Harriet Cross",
+   "member_id": 5311,
+   "type": "Contribution",
+   "text": "Q My question is very brief, and is relevant to what Mr Lenon said about margins being tight. Is there a figure for the average margin that one of your schools would expect? How might that be affected by the changes to the business rate relief? David Woodgate: The benchmark is 10% net surplus on gross fees. We had many schools drop down to 5% to break even, and they are now going into deficit in order to meet the quadruple whammy—if I can put it that way.",
+   "name": "Harriet Cross",
+   "party": "Con",
+   "seat": "Gordon and Buchan"
+  },
+  {
+   "who": "Michelle Welsh (Sherwood Forest) (Lab)",
+   "member_id": 5226,
+   "type": "Contribution",
+   "text": "Q I want to go back to something that Simon said about special educational needs in independent schools, and how in some cases SEN can be met only by independent schools. Can you give further clarification on that? I spent a long time working with special educational needs in the state sector at every key stage, in both specialised and mainstream state schools. There was not a single case that I saw that was not able to be dealt with in a state school in one way or another. With the further investment this Government are talking about, I think that will change again. I would like some clarity, because if there are such cases, they should be taken up with the local authorities and Members of Parliament—it should not be the case. Simon Nathan: I am happy to follow up with the Committee on that, because I do not have the specific cases in front of me, but I can obviously go and find that information. I do not think it is an issue on a national scale, but there will be local areas where the independent school is filling the need that perhaps cannot be wholly fulfilled otherwise. I am not saying that the expertise is not there in the state sector; I am saying that the capacity might not",
+   "name": "Michelle Welsh",
+   "party": "Lab",
+   "seat": "Sherwood Forest"
+  },
+  {
+   "who": "Ms Billington",
+   "member_id": 5123,
+   "type": "Contribution",
+   "text": "Q I notice that the fees of private schools in the Independent Schools Council have doubled in cash terms in the last 20 years. I would be interested in the explanation for that rise—the causes behind it—and the impact on both numbers and the composition of the pupils attending those schools. Barnaby Lenon: I have been on a number of governing bodies, and have been a headteacher of schools where the fees went up quite significantly. It happened particularly in the period between 2003 and 2008, when the fees were driven by increases in state school teachers’ pay, in national insurance and in pension contributions. We did not suddenly all want to build new buildings; it was more or less forced upon us, but you are right that they were quite big increases, and the impact has been that fewer parents have been able to afford our schools.",
+   "name": "Ms Billington",
+   "party": "Lab",
+   "seat": "East Thanet"
+  },
+  {
+   "who": "Ms Billington",
+   "member_id": 5123,
+   "type": "Contribution",
+   "text": "Q By how much? Barnaby Lenon: I cannot answer that. We do not know, but I am quite confident that plenty of parents will have found it too difficult. Simon Nathan: If you look at the number of pupils in independent schools over the last 10 years according to Department for Education data, on the face of it you could say, “Well, there’s 12,000 more,” but that is during a period when the overall school population went up by 800,000. The proportion of pupils educated in independent schools went down from 7% to 6.5%. There has been a proportionate decrease.",
+   "name": "Ms Billington",
+   "party": "Lab",
+   "seat": "East Thanet"
+  },
+  {
+   "who": "Deirdre Costigan (Ealing Southall) (Lab)",
+   "member_id": 5075,
+   "type": "Contribution",
+   "text": "Q Thank you very much for your evidence. I am a former chair of the governing body of a state school, so this is a really interesting conversation. Mr Woodgate, you mentioned that private schools might need to look at redundancies to absorb the impact of the measure. I understand that the student-teacher ratio in private schools is double that in state schools. It is something like 8.5:1 versus 18:1 in state schools, so there are significantly more teaching staff in private schools. If there were to be redundancies, have you made any assessment of whether the impact would be similar to the impact on state schools? David Woodgate: Pupil-teacher ratios are increasing anyway. Many schools are much beyond that. That is not a typical pupil-teacher ratio in one of our schools. Many are going up towards 20—the same kind of number that you are talking about in the state sector. Inevitably, if there are redundancies, there will be fewer teachers to go around and they will be teaching more pupils.",
+   "name": "Deirdre Costigan",
+   "party": "Lab",
+   "seat": "Ealing Southall"
+  },
+  {
+   "who": "Deirdre Costigan",
+   "member_id": 5075,
+   "type": "Contribution",
+   "text": "Q I was specifically asking for a comparison with the state sector. Do you think that redundancies will have a similar impact, a worse impact, or less of an impact in the private sector than in the state sector? David Woodgate: Inevitably, if pupil-teacher numbers change, that will have a negative impact.",
+   "name": "Deirdre Costigan",
+   "party": "Lab",
+   "seat": "Ealing Southall"
+  },
+  {
+   "who": "Mr Sewards",
+   "member_id": 5166,
+   "type": "Contribution",
+   "text": "Q I understand that the Minister wanted to move on from this, but on your comments about aspirational parents, the simple fact is that all state school parents are aspirational, and in many cases they will never be in a financial position to send their kids to private school. I wanted to give you an opportunity to clarify that. Secondly, given that over 1,000 private schools closed between 2010 and 2024 without much media attention, how many private schools do you estimate will close as a result of the Bill? David Woodgate: On your second point, we estimate that somewhere between 200 and 250 of our 1,300 schools are vulnerable to closure. They may look at mergers or other options—some might academise, for instance—but that is the kind of figure that we are looking at. I take your point about aspirational parents. We have to ensure that this does not impact on the bursary funding that is available for people from more disadvantaged backgrounds to get a place at one of our schools if they wish to go there. We have to ensure that, as far as possible, given these threats to our income, the funds available for bursaries are maintained.",
+   "name": "Mr Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley"
+  },
+  {
+   "who": "Mrs Brackenridge",
+   "member_id": 5152,
+   "type": "Contribution",
+   "text": "Q Thank you for coming and sharing your views and experiences. Business rate relief is in the scope of the Bill. I am a former deputy headteacher who worked across state secondary schools. Private schools, I say, are businesses. I had to juggle reductions and constraints across the budget, with departments such as the science department struggling to ensure that children have the full, hands-on experience—",
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Order. I hate to do this, but I have to. Thank you, gentlemen—you will vacate your seats, and we will move on to our ninth panel. Examination of Witness Rachel Kelly gave evidence .",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Rachel Kelly is assistant director of tax and finance policy at the British Property Federation. This is a one-man panel until 4 pm.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "David Simmonds",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "Q Clearly, the Bill has wide-ranging impact across different types of property, but I ask this witness to give us a sense—from the perspective of the British Property Federation, which I understand to be largely about the transactions that sit behind property—of what you perceive to be the impact of the measures of the Bill on the day-to-day business of your organisation. Rachel Kelly: Thank you for having me. I am Rachel Kelly, assistant director of tax and finance policy at the British Property Federation. We represent members who invest in property across the UK. Our investors are typically long-term institutional investors in all sorts of commercial property—not only the traditional asset classes of retail, logistics and offices, but newer asset classes of datacentres, lab space, GP surgeries and so on. That is just to give you some background. We have lobbied about business rates for a very long time. We are big stakeholders in property and we want to see a functional, fair and responsive tax system, so our two fundamental and long-standing asks of business rate reform are these. First, the tax burden is very high, and the property tax burden in the UK is over double the OECD ",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "David Simmonds",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "Q As you mentioned, many things going on in the system at the moment have an impact. Clearly, that level of investor confidence is crucial if high streets and the business environment generally are to remain vibrant. What is your view of the impact of the measures in the Bill on investor confidence? Are there any particular points that will either boost that level of confidence or tend to dampen it down? Rachel Kelly: One positive, which we have heard from other people today, is that having stability, certainty and predictability around tax is important to occupiers and investors alike. Recognising the benefits of those temporary retail and hospitality reliefs to such businesses, and making them permanent, is a good thing, but Government could go a lot further. At the moment, we have a tax system where the tax rate fluctuates at every valuation, so, depending on the relative change in property values, the tax rate will change at each evaluation, and it goes up by inflation every year. That is unlike any other business tax rate. Therefore, if the Government really want to provide certainty, stability and predictability, which is good for business and good for investors, probably the",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "Q Thank you for coming to give evidence. One thing that we are particularly interested in is ensuring that, within the scope of the Bill—the measures that are being taken, particularly on the multipliers and the reliefs—we understand the impact on the ground in our town and cities, and in the wider economy. We have heard from other witnesses today about the relationship between business rates and rent levels, and in the end that is a self-correcting system when it works well. It would be useful to get your insight, from your perspective and from the industry’s, about what headroom exists, certainly for institutional landlords. There are a number of us, I think, who reflect on our own local economies and see very high rent levels being quoted for properties that have been empty for many years and have no prospects of getting tenants anytime soon. It would be helpful for us to get a feel of how the system is working as an industry. Rachel Kelly: Sure. I did listen in to the sessions this morning, so I heard some of the discussion around the relationship between rent and rates. I will try to pick up and respond to a few of those points. There clearly is a relationship between rent and",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "Q These measures are very deliberately targeted at those smaller properties in retail, hospitality and leisure that are generally the backbone of our high streets and town centres. Your institutional members, who are investors in those places, must also reflect on the fact that many of those places are really struggling. Where they may be a landlord and the demand just is not there, it will be, by and large, because the business does not believe it can keep its head above water, notwithstanding the rent levels. Do you and your association think that a stable system that has a permanent relief—one that takes away the cliff edge and temporary support, which has been there since covid, to give long-term support—will be good not only for communities but for investors, who will be able to fill those vacant units? Rachel Kelly: I think having more predictability and certainty around the tax bill is important for both occupiers and investors, which goes to my point that the best thing you could do is go further and fix the tax rate. But yes, the greater predictability and stability is good for investors and occupiers alike. Does that answer your question?",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "Q It was more about a recognition from industry that, for the institutional investors in property, the Government are going a long way to bake a permanent relief into the system, rather than year-on-year reliefs. That relief can help to fill those units that investors maybe really struggle to let because, whatever the rent levels, they are just not commercially viable for the end user, and these measures will help in that end. Rachel Kelly: I think they will go some way to helping. If the ultimate goal of the Bill is to support high streets, there are probably areas where we would suggest that it is not as targeted as it could be. If you think of a really thriving high street in your area, retail and leisure will form a large part of it. However, a thriving high street also has offices and other businesses that provide footfall to those retail units. It has big anchor stores that might not benefit from this smaller relief but provide really important footfall for the other retail and leisure occupiers. It has car parks that are really vital to bring in customer bases for those high streets. It often has lots of asset classes, such as GP surgeries, libraries and some forms of educat",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Vikki Slade",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "Q I completely accept the point that a lot of the talk around the Bill is about high streets, because of the particular references to retail, hospitality and leisure. But it is a Bill that affects non-domestic rates and multipliers for businesses. Do you have any thoughts or comments on the fact that there is no reference to manufacturing and how we support manufacturing businesses? Do you think that should be included within the Bill? Rachel Kelly: Whether that can be included in the Bill, I do not know. But yes, the issue of an uncompetitive property tax system is relevant for lots of industries, and manufacturing is the one that you raised. Ultimately, that comes back to the higher rate of tax across the board. If you are alluding to the higher tax rate for the rateable values above £500,000—yes, it strikes me as an arbitrary threshold, and it will capture lots of different businesses and sectors. Maybe there will be some adverse consequences of that, which might be counter to the policy aims, but I am not sure. It is a tricky one to balance. Ultimately, if this relief for retail, hospitality and leisure will be funded within the business rate system, our instinct is that it wou",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Ms Billington",
+   "member_id": 5123,
+   "type": "Contribution",
+   "text": "Q I am grateful for your evidence, and I am interested to hear your puzzlement about the reality of empty shops. I represent East Thanet, where there are three towns—Margate, Broadstairs and Ramsgate —all of which suffer from empty shops to a greater or lesser extent. Ramsgate has a 24% vacancy rate. Can you explain to me how that might be, and what impact the legislation might have on tackling some of the challenges around large property owners resisting taking on tenants? Rachel Kelly: The reason why we have a huge amount of vacancy on our high streets must be multifaceted. Obviously, we have gone through a huge transition in our retail sector over the last 10 or 15 years, which has had an impact on some of our high streets. The supply of property is relatively fixed, so once there is an oversupply it is difficult to rectify in the short term. Our planning system will play a big role in ensuring that we can reuse those assets for the most appropriate purpose in our current economy. As far as I am aware, the causational relationship is between vacancy and the disposable income of the residents in a local area. Where there is high disposable income there tends to be lower vacancy; ",
+   "name": "Ms Billington",
+   "party": "Lab",
+   "seat": "East Thanet"
+  },
+  {
+   "who": "Ms Billington",
+   "member_id": 5123,
+   "type": "Contribution",
+   "text": "Well we must have a lot of irrational investors.",
+   "name": "Ms Billington",
+   "party": "Lab",
+   "seat": "East Thanet"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "The Clerk is telling me that we are steering away from the scope of the Bill, so I am being told off for allowing it to continue.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Patrick Spencer (Central Suffolk and North Ipswich) (Con)",
+   "member_id": 5303,
+   "type": "Contribution",
+   "text": "Q The premise of this policy change, as I understand it, is to rebalance fairness back towards local, community-based properties and businesses, which I am in favour of. But can you speak to the impact that the Bill will have on your institutional investors that invest in large warehouse space? What is the importance of that for the UK economy, in terms of supporting our distribution networks and the many businesses that provide goods to our doorstep? What impact will the change of policy have on those businesses? Rachel Kelly: Our whole economy is interconnected. Those large logistics and distribution warehouses that you talk about will be servicing parts of our retail sector as well. I am sure there will be loads of impacts of this measure that are impossible to predict at this point, but ultimately, increasing the tax rate further makes investment in property harder, and it will make the occupation of property more expensive. Other than that, it is good that the whole economy is shouldering the burden of the higher tax rate, and we would not want that to be intensified further so that individual sectors are solely bearing that burden; I do not think that would be right or sustai",
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich"
+  },
+  {
+   "who": "Deirdre Costigan",
+   "member_id": 5075,
+   "type": "Contribution",
+   "text": "Q You said at the outset, Rachel, that you wanted the tax system to be more responsive. Would you not agree that rebalancing the tax system in this way is being responsive to those empty shops on the high street, and to the feeling among small businesses and hospitality that it is the online distributors that are not playing on a level playing field and are getting away with being able to undercut them because the tax system currently does not work? The legislation will give us the responsiveness we need to level that up. Rachel Kelly: Yes and no. Ultimately, if you take a step back, business rates are a tax on the occupation of property, and they are levied on the basis of the value of that property. If you occupy a more valuable property, you will pay more tax. The business rate system is working as the policy intended in that respect. In terms of making it fairer, the best thing you can do is value property more frequently. Retail rents have been falling for the last 10 or 15 years. In the decade from 2010 to 2020, rents came down 30%, but business rates did not for that sector. Rents are negotiable—rents do respond—but it is business rates that do not. If valuations had kept up",
+   "name": "Deirdre Costigan",
+   "party": "Lab",
+   "seat": "Ealing Southall"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "That is the end of this session.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "David Simmonds",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "On a point of order, Dr Huq. I wanted to check the timings for today’s Committee. The invitations sent out to secure Members’ time had this Committee concluding at 4 pm today and tomorrow.",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We are going on until 4.40 pm, although there may be votes. The decisions were made by the Programming Sub-Committee all those days ago.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "David Simmonds",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "I am referring to the diary invitations that were sent out. Separate information is sent to Members’ diaries electronically from what is on the agreed programme. I want to make sure that we confirm the time with Members. I am more than happy to stay here to conclude today’s business, but we need to ensure that Members know what time they need to book out in their diary.",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "It sounds like a mismatch in communications. The Clerks will follow up on that. Examination of Witness Professor Francis Green gave evidence .",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We have our next witness, Professor Francis Green, professor of work and education economics at UCL. Would you like to introduce yourself? Professor Green: Yes, I am exactly that: professor of education economics at UCL, and I have done research on private schools.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Theoretically we have until 4.20 pm, but we are expecting to be interrupted. I call the shadow Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "David Simmonds",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "Q Welcome, Professor Green. We would be grateful if you set out your view on the impact the measures in the Bill will have on the education sector, on which you are an expert. Professor Green: In one word: marginal, because the sums are not enormous. I made an estimate, now a couple of years out of date, which suggested that the amount of tax subsidy was in the order of £142 million across England as a whole. In today’s money that is probably about £150 million, which you will appreciate is not enormous in the big scheme of things. None the less, it is probably a fairly fair policy. I think of my own town of Canterbury, which has quite a few private schools, including the oldest private school in the country, King’s school, which owns a lot of property around the town but pays only one fifth of the local taxes it would otherwise pay. It seems to me that by subsidising them we are mainly subsidising rich people.",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "David Simmonds",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "Q “Marginal” is a helpful description, because we know that this is a very specific, narrow Bill. Clearly it is part of a bigger context. We know that marginal impacts can be felt more strongly in certain contexts than in others, especially if a business or institution is closer to the edge financially than an equivalent counterpart in another location. King’s in Canterbury may be extremely well padded in terms of its margins, but that will not necessarily be the case everywhere. On the educational impact that may follow from the overall changes, would the measure reduce the impact on provision or the ability of some affected schools to make their facilities available to other schools in a local area? Do you have any view about that? Professor Green: I do not think it will have a great deal of effect. I offer you a small piece of evidence for that, which is the case of Scotland, which took an equivalent measure to this two and a half years ago. There was much protest beforehand from the sector that this would reduce not only the numbers attending the schools but schools’ ability to finance bursaries, which make a small difference, as you know, to making the schools a little bit les",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "Q Thank you for taking the time to give evidence and for your direct and matter-of-fact responses, which in a debate that can be emotive is very welcome to an evidence Committee. The Government want to ensure that, in seeing the legislation through, we fully take into account the likely impact on the school system and on the individual pupils and parents, but the fact is that most schools will seek to absorb this, as they would any other operating cost. It would be helpful to understand, if you have made an assessment, the likely displacement of pupils from the independent sector to the state sector as a result of this measure. Professor Green: I have made no direct assessment of this particular measure, but I have made estimates using econometric studies of the impact of the imposition of VAT—which is not under discussion today, but, in terms of the magnitude of the sums involved, this measure involves much less. The best estimates of the econometric studies suggest that somewhere between 10,000 and 30,000 children might, over the course of time, be switched away from the private sector. If we take that, let us say about one tenth, in terms of the sums, you can see that the figure",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Jim McMahon",
+   "member_id": 4569,
+   "type": "Contribution",
+   "text": "Q My next point is about the accommodation that we have sought to make for SEND pupils, in particular for those schools with a majority of pupils in that category. We recognise that that is an important part of the school system overall. Many councils contract to such schools to ensure that children who need the support get that provision. What is your assessment of the impact of the measures in the Bill on that particular cohort of children? Do you need to separate—in my view, you do—the overall impact across the sector from that on the children who are most in need of specialist support? Under the proposed measures, we seek to give them protection. Professor Green: I understand that private schools that mainly or wholly provide for children who have had an assessment are excluded from this. They will continue to receive relief, as before. There may be some children who are not quite over the threshold for an EHC assessment—I do not think that a large number will be affected, but it is hard to tell exactly how many. I do not expect a large impact.",
+   "name": "Jim McMahon",
+   "role": "The Minister for Local Government and English Devolution"
+  },
+  {
+   "who": "Vikki Slade",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "Q We heard earlier that 130,000 children with special educational needs are in independent schools, of whom 100,000 do not have an EHCP. If you assume that the majority of those are not in specialist EHCP/SEND schools, the potential is for 100,000 children possibly to make that switch. Do you have any thoughts on how many of those schools might be pushed towards specialising in special educational needs? Do you have any idea of whether we might see a shift in what private schools choose to specialise in going forward? Professor Green: That is an interesting thought. I do not have a specialist estimate to give you on that. It is a conceivable response. I am not sure that it is a necessarily a bad response if it does happen that way. But, again, I repeat: I do not think there will be a large number in those circumstances. Inevitably, whenever you make a change like this, there is always someone at the margin who is just kind of tipped over the edge, saying, “I really can’t afford this any more.” I happen to know somebody in that particular position in my area. I am fairly sure that a large number of those people will have to deal with the situation; there may be a 1% or 2% rise in th",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Adam Thompson (Erewash) (Lab)",
+   "member_id": 5044,
+   "type": "Contribution",
+   "text": "Q Thank you, Professor Green, for joining us this afternoon. You have noted a couple of times already that your assessment is that the impact of this measure will probably be negligible. I was wondering how you might compare that with the cash-terms doubling of private school fees over the last 20 years, from the perspective of families. Professor Green: Well, I think that is part of the indirect evidence of the fact that there will not be a great deal of impact, because, broadly speaking, the same proportion of the population is attending private schools as 10, 20 or 30 years ago, so it is one of those constants. That is slightly down, but, to be honest, it depends on the fortunes of the top echelons of our income and wealth spectrum—how much they can afford and choose to send their children to private schools. That is the nature of the market.",
+   "name": "Adam Thompson",
+   "party": "Lab",
+   "seat": "Erewash"
+  },
+  {
+   "who": "Patrick Spencer",
+   "member_id": 5303,
+   "type": "Contribution",
+   "text": "Q Sorry, Professor Green, can we just go back? You said that you would expect 10,000 to 20,000 students to transition out of independent schools and into the state system— Professor Green: Somewhere between 10,000 and 30,000, and that would be over a five-year period.",
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich"
+  },
+  {
+   "who": "Patrick Spencer",
+   "member_id": 5303,
+   "type": "Contribution",
+   "text": "Okay, so we will go midway, which, at 20,000, would be a 3.5% reduction in the total independent school population. Professor Green: Yes, I think that is right.",
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich"
+  },
+  {
+   "who": "Patrick Spencer",
+   "member_id": 5303,
+   "type": "Contribution",
+   "text": "Is that as a consequence of everything that is going on in this context, or just the business rate changes? Do the parameters of that analysis include VAT? Professor Green: That is the VAT estimate, so I am saying that, if that is the VAT estimate, the business rate relief change is one tenth of that.",
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich"
+  },
+  {
+   "who": "Patrick Spencer",
+   "member_id": 5303,
+   "type": "Contribution",
+   "text": "I just want to clarify that that analysis was based on the total changes that the sector is undergoing, not just specifically the context of the Bill. Professor Green: Correct.",
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Is that the end of all of our questions for this witness? Thank you, Professor Green. Examination of Witness Jim McMahon OBE MP gave evidence.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We will move on to our next panel—the 11th panel—and hear oral evidence from Jim McMahon, Minister for Local Government and English Devolution in the Ministry of Housing, Communities and Local Government. We have until 4.40 pm, unless we are interrupted by the vote, but we will cross that bridge when we come to it. The Minister probably needs no introduction, and there are probably loads of Members who want to ask questions, but we will start with the shadow Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "David Simmonds",
+   "member_id": 4872,
+   "type": "Contribution",
+   "text": "Q Thank you very much indeed, Dr Huq. I know that we are going to have ample opportunity to develop the debate about the relevant clause in the Bill tomorrow, but a lot of the amendments are about whether impact assessments will be carried out or not, and how that would inform our decision making. Could you set out the Department’s approach in general to the use of impact assessments in making determinations—for example, setting the particular level of multipliers—either that the Treasury would consider as an envelope, or that you would expect to see implemented by billing authorities? Jim McMahon: Thank you. It is important to say that we are determined to create a fairer business rate system that protects the high streets, supports investment and is fit for the 21st century. To deliver that pledge we have outlined these measures, which have been well rehearsed in evidence, and we will explore them further in Committee tomorrow. We have been clear in targeting the interventions, because it is about delivering a manifesto commitment to ensure that we better reflect the changing nature of the high street. In every community, you will hear about local businesses at their wits’ end an",
+   "name": "David Simmonds",
+   "party": "Con",
+   "seat": "Ruislip, Northwood and Pinner"
+  },
+  {
+   "who": "Vikki Slade",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "Q Can I ask about occupation? I am thinking about the hon. Member for East Thanet, and I also represent a coastal community. We had a slightly surprised response when we heard that everything will right itself, when we have whole high streets sitting empty. My understanding is that if you have a higher rate for empty properties, it is likely to force people to take a tenant. Do you think the Bill goes far enough on that, or are there more levers you need to pull to make those empty properties work? I know we already have the rental auction and that that is not in scope, but does the Bill go far enough or can the multipliers be levered even more? Jim McMahon: It will. We need to stay in scope of the Bill, but the Bill does not sit in isolation. This is a wider package of reform and intervention, reflecting the fact that businesses do not operate in isolation; they are part of an ecosystem in many places. Think about the impact of, say, an anchor department store closing, or a bank branch, a post office or an office block. What that does to the footfall in a place has a huge impact, so we need to take a range of measures. We absolutely understand the importance of town centres and hi",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Adam Thompson",
+   "member_id": 5044,
+   "type": "Contribution",
+   "text": "Q Thank you, Minister, for your time. We have had really interesting sessions today. I represent two towns, as I said earlier, and I am really pleased to represent one where a lot of work has been put in by the community to rejuvenate the town centre. By working together, the occupancy rate has increased, and we have a huge focus on independent businesses, which is really positive. I want to focus on pubs, because we had a little less focus on that than other areas earlier. I know that like many other colleagues, I would not be here, sitting in this room, if it were not for the emotional and social support of pubs during the election campaign—in my case, the White Lion and the Dew Drop Inn. What opportunities do you feel will be opened up for the pub sector by the Bill? Jim McMahon: We heard earlier about community pubs. A lot is said about the last pub in a village, and they are lifelines. If everything else is gone—the shop is closed and maybe the post office too—then having a convenient space where the community can come together is important for a number of reasons, not just for social isolation, but for living a decent, fulfilled life where those relationships and experiences ",
+   "name": "Adam Thompson",
+   "party": "Lab",
+   "seat": "Erewash"
+  },
+  {
+   "who": "Patrick Spencer",
+   "member_id": 5303,
+   "type": "Contribution",
+   "text": "Q Forgive me, Minister, but is this not a bit of a missed opportunity? The Committee has heard a lot of evidence today that, yes, the measures introduced in the Bill, specifically the ones around supporting local shops and our high streets, are probably very fair and reasonable, and that it is about time, but at the end of the day, business rates are not a progressive way to tax individuals and businesses. Taxing capital always allows for businesses that may seem asset-rich or that have asset liabilities to be taxed unfairly. Why did the Government not go further in looking at alternatives, whether it be a sales tax or a land value tax? I am not a fan of land value taxes—they are another form of capital tax—but why did the Government not look at being more ambitious, instead of retaining a system that may be better in the future but still not ideal? Jim McMahon: Which taxes are fair is always in the eye of the beholder. People have very different views about the fairness of different taxes in the system. In terms of property tax, I am here as the local tax Minister covering business rates and council tax. They are established taxes and they are understood. There are definitely view",
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich"
+  },
+  {
+   "who": "Jayne Kirkham",
+   "member_id": 5279,
+   "type": "Contribution",
+   "text": "Q This is just a point of clarification for me. It is probably really simple. On the larger rate, over £500,000, and the lower multiplier, one witness said that it could still apply to hospitality, retail and so on, so it could still be applied to big hotels and grassroots music venues even if they are over the level. Is that right? Jim McMahon: At the moment, any property over £500,000 would be subject to the higher value. We are not looking at the moment at sectoral exemptions, but clearly we will take into account the evidence sessions and the discussions that will happen tomorrow. However, it would be fair to say that if you are a retailer with such a square footage that the value is over £500,000, you are likely to be a very big department store, a big out-of-town shed or a supermarket. The assumption in the system is that if you can afford to occupy and run a space of that size, there is room to pay additional business rates on that basis. In the end, it is about giving it to that ultimate use, which is the smaller retail, hospitality and leisure uses that are the backbone of many communities.",
+   "name": "Jayne Kirkham",
+   "party": "Lab/Co-op",
+   "seat": "Truro and Falmouth"
+  },
+  {
+   "who": "Harriet Cross",
+   "member_id": 5311,
+   "type": "Contribution",
+   "text": "Q Going back to panel 7, we heard UKHospitality, the British Institute of Innkeeping and the night time economy adviser for Greater Manchester reflect on jobs and job losses due to changes. I appreciate that it is hard to establish at this stage whether those are because of national insurance or business rates, but either way business rates are a contributing factor. What analysis have the Government done as a background to the Bill to model the impact on jobs and job losses in the different sectors? What impact assessment has been done in relation to the different types of employment—full time, part time or seasonal? A lot of hospitality work helps people such as part-time working mothers because it comes at different times of day. Jim McMahon: I think, within the scope of the Bill, which is very narrow, the impact is only a positive one. That is in the context of the temporary relief that was provided during the covid pandemic, which, being temporary, was coming to an end—the cliff edge was coming. There was absolutely no finance provided for it beyond the current year, so the question then is: what do Government do about it? We either grow even further the £22 billion funding ga",
+   "name": "Harriet Cross",
+   "party": "Con",
+   "seat": "Gordon and Buchan"
+  },
+  {
+   "who": "Harriet Cross",
+   "member_id": 5311,
+   "type": "Contribution",
+   "text": "Ten minutes ago, you said that we have to look at those changes within the scope of all the other changes, so I think it is not unreasonable to look at it as a whole. Jim McMahon: As in, the interventions that the Government are taking?",
+   "name": "Harriet Cross",
+   "party": "Con",
+   "seat": "Gordon and Buchan"
+  },
+  {
+   "who": "Harriet Cross",
+   "member_id": 5311,
+   "type": "Contribution",
+   "text": "Yes. Jim McMahon: In the scope of the Bill, this is the much-needed relief that retail, hospitality and leisure need. Every one of the witnesses who came to talk about the impact of it, within the scope of the Bill, were—",
+   "name": "Harriet Cross",
+   "party": "Con",
+   "seat": "Gordon and Buchan"
+  },
+  {
+   "who": "Harriet Cross",
+   "member_id": 5311,
+   "type": "Contribution",
+   "text": "Q Was a job analysis done in the scope of the Bill? Jim McMahon: Those witnesses were very positive about its impact. Lots of other changes will be coming through the system. We still have to do the revaluation. We still have, through the next fiscal programme, to talk about the rates. That type of analysis will be done at a later stage. To be clear, although there was a lot of context about the operating environment being challenging—there is only so much you can do within months of coming into office—on the small business rate issue and on retail, hospitality and leisure, every witness said that the Bill will play a part in supporting local businesses to be more sustainable in the future. The other issues are well outside of the scope of the Bill.",
+   "name": "Harriet Cross",
+   "party": "Con",
+   "seat": "Gordon and Buchan"
+  },
+  {
+   "who": "Harriet Cross",
+   "member_id": 5311,
+   "type": "Contribution",
+   "text": "Q It could have a positive impact on jobs, but we do not know because we have not had an analysis. Jim McMahon: If we are giving a tax relief to retail, hospitality and leisure for almost all community operators, convenience stores, pubs and other businesses, and we are doing the same for town centres, city centres and high streets, then the answer is self-evident: it will be a positive outcome.",
+   "name": "Harriet Cross",
+   "party": "Con",
+   "seat": "Gordon and Buchan"
+  },
+  {
+   "who": "Harriet Cross",
+   "member_id": 5311,
+   "type": "Contribution",
+   "text": "Q I think my question is about the broader principle of whether it is also value for money. If you are giving tax relief somewhere, you would want to know what the impact of that is—for example, if the impact is on job growth, that is great. But would you not want to know what the impact of it is on a certain thing, compared with if you had spent that money elsewhere? Surely, whether it is positive or negative, an analysis is an important part of seeing whether money is being spent in the most efficient way possible. Jim McMahon: That will be considered in the round. To be clear, however, it was a manifesto commitment to rebalance the on-street with the online, to get back to supporting the high street, and to give sustained support to the businesses that are the backbone of our community. The Bill is delivering that manifesto commitment. We do not shy away from that. We are proud that within the first six months, the legislation is coming and businesses will feel it in every community in the country.",
+   "name": "Harriet Cross",
+   "party": "Con",
+   "seat": "Gordon and Buchan"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We have eight minutes left, five people still to speak, and a vote is due any second now.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Deirdre Costigan",
+   "member_id": 5075,
+   "type": "Contribution",
+   "text": "Q Thank you, Minister. I know you are a former local government leader. I want to ask about local councils and what support there will be to ensure that they can administer the Bill and help to support rebalancing the high street in a way that I know all local authorities want. Jim McMahon: Again, there is a wider context. It is about ending the cap-in-hand bidding process, through which the previous Government aligned councils, one by one, getting them to compete with each other for a very restricted pot of money to support local high street improvements. In the end, we must provide a fairer way of funding local councils, which has to be based on need. I will be careful again not to get ahead of next week’s provisional settlement, but measures will be very clear in there about the intent and the direction of travel. In the end, it is about making sure that councils have the resources they need to ensure that wherever a council is—outside of the bidding war that we saw previously—they have the resources to intervene on the high street. Resource is part of that, but the powers are also important. The community right to buy, the asset register and having a proper period to be able to",
+   "name": "Deirdre Costigan",
+   "party": "Lab",
+   "seat": "Ealing Southall"
+  },
+  {
+   "who": "Martin Wrigley",
+   "member_id": 5111,
+   "type": "Contribution",
+   "text": "Q Reforming business rates is very welcome. We always like that—they are not a particularly good tax—but I fear the measure is making them more complicated. Forgive me if it is a naive question, but I do not see anywhere in the Bill, other than it starting in April 2026, any commitment to forward notice of changes or the forward ability to see changes. One presumes they come once a year in the Budget, but I am not sure it is actually mandated that that is the case. Is there a mechanism in the Bill that prevents future Governments from changing these rates more frequently, or is there anything that we can put in it that gives local authorities sufficient time to implement such things? You say that the provisional settlement is due next week. I say once again, as a former council leader, that that is very late. You are forgiven—it is the first year, so there are extenuating circumstances—but councils need time to set their budgets, set their systems and do all that. I am looking for lead times, implementation times and guarantees of multiple years’ rates for consistency. Jim McMahon: That is precisely why we have phased the approach. The permanent relief will come in at 40% in 2026-2",
+   "name": "Martin Wrigley",
+   "party": "LD",
+   "seat": "Newton Abbot"
+  },
+  {
+   "who": "Michelle Welsh",
+   "member_id": 5226,
+   "type": "Contribution",
+   "text": "Q Can the Minister set out the scheme that the Government are proposing to ensure that schools that principally deliver education for pupils with special educational needs will not face any additional burdens? Jim McMahon: That is entirely the point, although perhaps it did not come out in the evidence sessions. A lot of the debate can be quite polarised—whether you are for or against private schools and the rest of it. When I was on the other side of the table, I was clear that I wanted to pull away from that and say, “Well, let’s just have a conversation based on the evidence.” What the evidence says is that there has been provision to ensure that those schools that are mainly or wholly for pupils with special educational needs will not be affected by these measures at all. [ Official Report, 4 February 2025; Vol. 761, c. 6WC.] (Correction) Why? It is because we recognise that, within the wider school ecosystem, that provision is important in many communities and that many local authorities will support it. That is being provided in the Bill. In the end, though, I would say that we need to rebuild mainstream provision. We all have constituents at their wits’ end because, after 14",
+   "name": "Michelle Welsh",
+   "party": "Lab",
+   "seat": "Sherwood Forest"
+  },
+  {
+   "who": "Mr Sewards",
+   "member_id": 5166,
+   "type": "Contribution",
+   "text": "Q Queen Street in Morley is a fantastic high street, but it has a number of empty shops. I tried to acquire one of them when I was setting up my constituency office, but I was told, “No, no, no—they are about to be occupied.” Six months later, they are still not occupied. I promise it is not just that they did not want me; other people have approached them and had no luck. Please can the Minister shed some light on how we might use multipliers to get these properties occupied? Jim McMahon: I definitely cannot guarantee that the landlord did not have a view about the tenants in that situation, but I think we all know of examples in which businesses have been frustrated when they have tried to get hold of the landlord of prime retail properties on the high street, sometimes in fantastic historical buildings. When they eventually get a response—if they get one at all—it is like the one my hon. Friend got: it does not bear truth, as the building is still empty six months down the line. There is a wider issue here about the powers that the community has to take over assets and turn them into something for the public interest, not just distant investor interest. Measures in the Bill will",
+   "name": "Mr Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Order. I am afraid that brings us to the end of the sitting. I thank all the witnesses for their evidence and all the members of the Committee for their patience. Ordered, That further consideration be now adjourned. —(Gen Kitchen.)",
+   "name": "Chair",
+   "role": "Chair"
+  }
+ ],
+ "fetched": "2026-10-21T20:24:32Z"
+}

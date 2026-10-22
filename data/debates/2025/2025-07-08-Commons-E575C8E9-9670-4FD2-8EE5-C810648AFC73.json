@@ -1,0 +1,306 @@
+{
+ "ext_id": "E575C8E9-9670-4FD2-8EE5-C810648AFC73",
+ "date": "2025-07-08",
+ "house": "Commons",
+ "section": "WestHall",
+ "title": "Generative Artificial Intelligence: Schools",
+ "parents": [
+  "Westminster Hall"
+ ],
+ "location": "Westminster Hall",
+ "url": "https://hansard.parliament.uk/Commons/2025-07-08/debates/E575C8E9-9670-4FD2-8EE5-C810648AFC73/GenerativeArtificialIntelligenceSchools",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire",
+   "member_id": 3969
+  },
+  {
+   "name": "Afzal Khan",
+   "party": "Lab",
+   "seat": "Manchester Rusholme",
+   "member_id": 4671
+  },
+  {
+   "name": "Steve Yemm",
+   "party": "Lab",
+   "seat": "Mansfield",
+   "member_id": 5194
+  },
+  {
+   "name": "Sir Jeremy Wright",
+   "role": "Chair",
+   "member_id": 1560
+  },
+  {
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood",
+   "member_id": 4510
+  },
+  {
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford",
+   "member_id": 4131
+  },
+  {
+   "name": "Will Stone",
+   "party": "Lab",
+   "seat": "Swindon North",
+   "member_id": 5035
+  },
+  {
+   "name": "Zöe Franklin",
+   "party": "LD",
+   "seat": "Guildford",
+   "member_id": 5313
+  },
+  {
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston",
+   "member_id": 4679
+  },
+  {
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education",
+   "member_id": 4653
+  },
+  {
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness",
+   "member_id": 1482
+  },
+  {
+   "name": "Dr Al Pinkerton",
+   "party": "LD",
+   "seat": "Surrey Heath",
+   "member_id": 5288
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I beg to move, That this House has considered the use of generative artificial intelligence in schools. It is a great pleasure to serve with you in the Chair, Sir Jeremy. You will not be presiding over a heated political debate this afternoon, and I hope this is a good opportunity to openly discuss the enormous change that is upon us. Throughout the education world, a lot of thinking is being done about artificial intelligence and its implications. Most of that thinking is being done by teachers, and I hope we will contribute to some of the wider system and policy questions today. In a November 2024 omnibus survey, half of teachers said they had already used generative AI in their role; about a quarter said they had no plans to; and the rest either planned to or did not yet know. The most common uses of generative AI are creating resources, planning lessons and communicating with parents. In the same survey, 6% of teachers said that pupils were permitted to use AI in the work they are set. It is hard to pinpoint an exact number, but it is fairly safe to say that the proportion of pupils actually using AI to some degree in their work is rather more than 6%. The survey data that we h",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Afzal Khan (Manchester Rusholme) (Lab)",
+   "member_id": 4671,
+   "type": "Contribution",
+   "text": "With the input of biased data, large language models are liable to produce inappropriate, biased or factually incorrect outputs. Does the right hon. Member agree that if generative AI is to be rolled out to schools, actions such as introducing statutory regulations must be taken to limit any bias or misinformation taught to children and young people?",
+   "name": "Afzal Khan",
+   "party": "Lab",
+   "seat": "Manchester Rusholme"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Funnily enough, I agree with the hon. Member, though not necessarily about statutory requirements. It is certainly true—in fact, he inadvertently leads me on to my next point—that we need to be careful and discerning in using these products. There are many risks, including the safeguarding risks inherent in technology, hallucinations, dud information and, as the hon. Member rightly says, biases. There are some very direct and sharp risks to children. I am afraid that many misleading, unpleasant and cruel things can be done with AI. They can be done already but, as with so many other things, AI magnifies and turbocharges the problem. Some of those things can be done by adults to children; some of them are done by children to other children. We need to be very aware of those risks, some of which relate to existing practices and policy questions, such as how to deal with intimate image abuse and sexting. The problem further supports the case for a comprehensive school-day phone ban, to take cameras out of schools. More generally, there is a need for media literacy and general discernment. I am reluctant and nervous to talk about media literacy, and more so about the phrase “critical t",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Steve Yemm (Mansfield) (Lab)",
+   "member_id": 5194,
+   "type": "Contribution",
+   "text": "Does the right hon. Gentleman share my concern about some of the dangers of using generative AI in the classroom, particularly around harmful content and activity? I read the National Society for the Prevention of Cruelty to Children’s “Viewing Generative AI and children’s safety in the round”, which gave examples of children creating deepfakes of other children in the class. Does the right hon. Gentleman also share my concerns about children’s privacy and data protection, and the extent to which many of these edtech applications are created with the aim of minimising data protection? I understand he has concerns about regulation, but this seems to be almost entirely unregulated in the classroom. There is certainly a case for, at the very least, regulating data protection, data to third parties and—",
+   "name": "Steve Yemm",
+   "party": "Lab",
+   "seat": "Mansfield"
+  },
+  {
+   "who": "Sir Jeremy Wright (in the Chair)",
+   "member_id": 1560,
+   "type": "Contribution",
+   "text": "Order. That was either several interventions or a speech, neither of which is permissible. I urge all participants to keep interventions brief.",
+   "name": "Sir Jeremy Wright",
+   "role": "Chair"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "The hon. Member for Mansfield (Steve Yemm) should not misunderstand me, as I am not against regulation. His points about data protection and privacy are really important, although they are probably too big to fold entirely into this debate. His first group of points and what the NSPCC talks about are the same risks that I am talking about. There is an even broader point, as there is already a lot of blurring between fact, fiction and opinion online. There are all manner of news sources and influencers, network gaming, virtual reality and augmented reality, the metaverse—the whole concept of reality is a little hazier than it once was. With these machines, which in some cases almost seem to have a personality of their own, there is a danger of yet more blurring. We all shout at our PCs sometimes. Indeed, adults using AI may start to give human form, which is called anthropomorphism, to the machine they are interacting with—I occasionally try to be polite when I interact with one of these interfaces. Apps such as character.ai take that to another level. We have to think about the impact on children in their most formative years—on their sense of self, their understanding of the world",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Afzal Khan",
+   "member_id": 4671,
+   "type": "Contribution",
+   "text": "One concern I am beginning to feel is that, while acknowledging that the technological development is important, an over-reliance on generative AI runs the risk of limiting open-mindedness, independent thinking, literacy and creative skills. Does the right hon. Member agree that we must protect key critical thinking and reasoning skills in children and young people, for their future and ours?",
+   "name": "Afzal Khan",
+   "party": "Lab",
+   "seat": "Manchester Rusholme"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "The hon. Gentleman makes his point lucidly and well, and I think it stands on its own feet. The bigger issue with more children taking exams on a keyboard rather than on paper is that exam boards would like to move entire exams online for all children. In a sense, that would be better because it would be equal; there would not be any difference in the speed of writing and typing. Some might ask what is wrong with that, as long as it is the same for everybody, and as long as the internet, spellcheck and autocorrect are disabled. I suggest there would still be multiple types of security risk in having exams done en masse online. There is also a wider problem: if a GCSE is done online, how will students do a mock GCSE? They will do it online. How will someone do a year 9 exam? Hon. Members can see where I am going with this. It cascades further and further down the age range, until eventually people question why they are learning to write with a pen at all. Some are already asking that question. By the time my child is an adult, people will not even be using a keyboard, but other types of communication and interface, and this will seem very archaic. There are important advantages to l",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Helen Hayes (Dulwich and West Norwood) (Lab)",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "It is a pleasure to see you in the Chair, Sir Jeremy. I congratulate the right hon. Member for East Hampshire (Damian Hinds) on securing this important debate. The use of generative artificial intelligence in education is a critical challenge of our time. As parliamentarians, we bear the responsibility for ensuring that this new technology is harnessed to support teachers and examining bodies and to enhance learning, while safeguarding our children’s intellectual and emotional growth and not undermining the critical skills and values they need for the future. Although generative AI presents some distinct challenges, it sits within a suite of technology-related issues that have all significantly changed the landscape in which our children are growing up and being educated, including the use of smartphones and other devices and engagement with social media. Every generation of parents and teachers has to support children and young people to navigate something that they did not have to contend with in their own childhood—and so it is for our generation. We must understand the power and potential of AI and other technologies, and we must understand in detail the risks and threats. We m",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "It is a real pleasure to serve under your chairship, Sir Jeremy, and I thank the right hon. Member for East Hampshire (Damian Hinds) for leading the debate. I have to confess that I do not understand all about AI, but I do understand the need for it and that the technology is changing. Modern society has a new way of doing things, and I am not against the idea of doing that; it may just not be for me. But I do have children, and grandchildren in particular, who are so technically minded at a very young age. The knowledge they have absolutely overwhelms me, as they look to a society in which they want to play their full part. I was just sitting here thinking about an Adjournment debate in the main Chamber a couple of years ago. Kevin Brennan, now in the House of Lords, gave a speech, and he never let on till the end of it, when he said, “That speech was written by AI.” Kevin was sitting behind me; I said, “Kevin, what do you mean?”, and he told me what he had done. His speech was a normal speech, except for one thing: it did not have the characteristics of Kevin Brennan. Those of us who know him know that Kevin is quite a witty guy, and his humour and other characteristics were not ",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Will Stone (Swindon North) (Lab)",
+   "member_id": 5035,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Sir Jeremy. I thank the right hon. Member for East Hampshire (Damian Hinds) for securing this debate. I know he is incredibly passionate and pretty knowledgeable about this subject. I also thank the Government for the AI opportunities action plan. I appreciate that there is a lot of fear around AI. Did we not learn from “Terminator” 1, 2 or even 3? However, AI does exist, and generative AI is already reshaping education whether we legislate for it or not. It is our duty to ensure that these technologies are used ethically and deployed equitably, and that they enhance the role of educators, not replace them. We are seeing countries around the world use AI in schools. South Korea is leading the way: 30% of its schools now use AI-powered digital textbooks; AI is already being taught as part of the national curriculum; and it is considering making it a separate subject at all levels. Its goal is to become a global leader in AI talent, and I believe that the UK can learn a great deal from it. We cannot ignore AI. It is changing how students learn and how we assess them. We need to think carefully about our current exam systems and whether ",
+   "name": "Will Stone",
+   "party": "Lab",
+   "seat": "Swindon North"
+  },
+  {
+   "who": "Zöe Franklin (Guildford) (LD)",
+   "member_id": 5313,
+   "type": "Contribution",
+   "text": "It is an honour to serve under your chairmanship, Sir Jeremy. I thank the right hon. Member for East Hampshire (Damian Hinds) for securing this important debate. AI use in schools has reached a critical juncture. According to Ofcom, 50% of children aged eight to 17 have already used AI tools. The Alan Turing Institute and LEGO report that 60% of teachers actively use generative AI. We have heard many colleagues across the Chamber today reference that. AI is everywhere, whether through explicit choice or integration into Google Workspace, Microsoft 365 Education and countless educational tools. The Government have funded AI development for teachers to speed lesson planning and reduce workloads, positioning AI as central to educational transformation. Yet, as 5Rights highlights, no statutory standards currently govern genAI use in schools. The Government’s own AI opportunities action plan fails to address children and their rights and development needs, despite encouraging schools to “move fast and learn things” when piloting these technologies. With AI’s undeniable rise, the Government really need to address this head on, hence today’s debate is incredibly important. We have heard a",
+   "name": "Zöe Franklin",
+   "party": "LD",
+   "seat": "Guildford"
+  },
+  {
+   "who": "Neil O’Brien (Harborough, Oadby and Wigston) (Con)",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Sir Jeremy. I knew as soon as my brilliant and learned right hon. Friend the Member for East Hampshire (Damian Hinds) secured this debate that it would be well worth attending and very interesting, and it has proved to be exactly that. It builds on important work that has already been done by POST and Ofsted, as well as by the DFE officials who wrote the recent guidance, and it further increases the level of public debate and improves our knowledge. I would echo a lot of what other Members have said about the pros and cons, the opportunities and threats, because there is a delicate balance between those things. We heard really good speeches from the hon. Members for Strangford (Jim Shannon) and for Swindon North (Will Stone), as well as a brilliant intervention from the hon. Member for Mansfield (Steve Yemm). There was a particularly good and thoughtful speech from the Chair of the Education Committee, the hon. Member for Dulwich and West Norwood (Helen Hayes), with which I agreed 100%, as indeed there was from the Liberal Democrat spokesperson, the hon. Member for Guildford (Zöe Franklin). Of course we want students to learn about",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Stephen Morgan)",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve with you in the Chair, Sir Jeremy. I thank my near-ish neighbour, the right hon. Member for East Hampshire (Damian Hinds), for securing a debate on this important subject and for the constructive and collegiate way in which he has sought to conduct it. I thank all other Members for their interventions and contributions, including the Chair of the Education Committee, my hon. Friend the Member for Dulwich and West Norwood (Helen Hayes), for her insightful comments on challenges and opportunities and her helpful reminder of the Committee’s work on screen time. The Government believe that generative artificial intelligence presents exciting opportunities to improve people’s lives, including by making our public services better. AI will support the delivery of the Government’s plan for change and our opportunity mission. I agree with the comments of hon. Members, including my hon. Friends the Members for Swindon North (Will Stone) and for Dulwich and West Norwood and the right hon. Member for East Hampshire, about the potential for AI and technology to support children with special educational needs. There is a strong evidence base for the impact that assistiv",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Graham Stuart (Beverley and Holderness) (Con)",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "Will the Minister give way?",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I will give way, but I am conscious that the right hon. Gentleman was not here at the start of the debate.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "I apologise for not being here at the start, and I am grateful to the Minister for giving way. To what extent is he concerned about biases within the models? Most of the major generative AI models are not produced in this country; they are developed in highly competitive circumstances and tend to be secretive about the data used to train them. Is that an area of concern? If he thinks there are going to be more applications in the education sphere and others, should the Government take steps to ensure greater transparency about the data upon which these models are trained?",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I will certainly take that back. I have had discussions with colleagues at the Department for Science, Innovation and Technology and others about reliability, safety and biases. In November last year, with the Under-Secretary of State for Science, Innovation and Technology, my hon. Friend the Member for Enfield North (Feryal Clark), I met leading global tech firms, including Google, Microsoft and Adobe, to agree safety expectations and to ensure that AI tools are safe for classroom use. We are also supporting staff to use AI safely. In partnership with the Chiltern Learning Trust and the Chartered College of Teaching, we have published online support materials to help teachers and leaders to use AI safely and effectively, developed by the sector, for the sector. They supplement the Department’s AI policy paper—which we updated in June—alongside the information for educators about using AI safely and effectively, and the toolkit for leaders to help address the risks and opportunities of AI across their whole setting. To develop our evidence base, we have launched two pilot programmes, the edtech evidence board and the edtech testbed. The first is to ensure that schools have the conf",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "There are two simple safeguards against misuse of AI in exams here in front of me. Will the Minister recognise that the best way to ensure the security and integrity of exams, and how assessment is done lower down the school, is—for the great majority of children, in the majority of subjects—for exams to be handwritten in exam conditions?",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Sir Jeremy Wright (in the Chair)",
+   "member_id": 1560,
+   "type": "Contribution",
+   "text": "For the assistance of Hansard , I point out that the right hon. Gentleman was holding up a pen and paper.",
+   "name": "Sir Jeremy Wright",
+   "role": "Chair"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I will absolutely take away the point made by the right hon. Member for East Hampshire. I mentioned the role of Ofqual as the regulator and the role of the curriculum and assessment review, which is independently led. I look forward to hearing the outcomes of that review in due course. In conclusion, I thank the right hon. Gentleman and other hon. Members for their contributions on this important topic. As I set out, the Government are committed to working with the sector to harness technology, which presents new and exciting challenges for the sector. We are also committed to ensuring that that technology is used safely and effectively—never to supplant the irreplaceable face-to-face work of our teachers and educators, but to support them to spend more time doing what they do best: teaching.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Sir Jeremy Wright (in the Chair)",
+   "member_id": 1560,
+   "type": "Contribution",
+   "text": "The right hon. Member for East Hampshire, who moved the motion, has the right—if he wishes it—to wind up the debate, and he has about 20 minutes in which to do so. He is, however, under no obligation to use all or any of that time.",
+   "name": "Sir Jeremy Wright",
+   "role": "Chair"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I was happy not to wind up, but you have now made me stand up, Sir Jeremy. We have had a good and constructive debate. I am grateful to the Minister for his engagement, and to all colleagues for taking part.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Dr Al Pinkerton (Surrey Heath) (LD)",
+   "member_id": 5288,
+   "type": "Contribution",
+   "text": "Please accept my apologies for my late attendance in the Chamber. I was at the statement in the main Chamber on the Horizon scandal, which is perhaps another example of overreliance on technology—the human eye was identifying issues that people could see. My experience comes mostly from the higher education sector, where colleagues I have spoken to report far greater incidence of the use of AI. It is so clever that it is generating false sources to back up incorrect claims, but with incredibly plausible use of academic names in order to make profound points. I wonder whether we now face a reality in which AI might be used not only for marking, but for the marking of AI-generated material.",
+   "name": "Dr Al Pinkerton",
+   "party": "LD",
+   "seat": "Surrey Heath"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Indeed—computers talking to computers, with us as the facilitators. The hon. Gentleman makes a good point. I will conclude by repeating something I said much earlier in my remarks. We should always remember that, at whatever pace we, the education system or, certainly, Government can work, young people will work at a pace six times faster. I am, again, grateful to the Minister. Question put and agreed to . That this House has considered the use of generative artificial intelligence in schools.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  }
+ ],
+ "fetched": "2026-10-21T20:26:41Z"
+}

@@ -1,0 +1,1970 @@
+{
+ "ext_id": "CC0D8095-D475-4C70-9F5E-F249539C1400",
+ "date": "2025-07-21",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Education",
+ "parents": [
+  "Commons Chamber",
+  "Oral Answers to Questions"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2025-07-21/debates/CC0D8095-D475-4C70-9F5E-F249539C1400/Education",
+ "subtitles": [
+  "Primary School Assessment",
+  "Teacher Recruitment",
+  "Mental Health Support in Schools",
+  "Post-16 Education: Skills",
+  "Further Education Estate",
+  "Early Years",
+  "SEND Provision: Funding",
+  "Classroom Disruption: Smartphones",
+  "Sixth-form Colleges: Funding",
+  "Children with SEND",
+  "Magna Carta School",
+  "Virtual Teachers",
+  "Security in Schools: Bomb Threats",
+  "Rebuilding Schools",
+  "SEND: Education, Health and Care Plans",
+  "Apprenticeships",
+  "Topical Questions"
+ ],
+ "speakers": [
+  {
+   "name": "Lee Barron",
+   "party": "Lab",
+   "seat": "Corby and East Northamptonshire",
+   "member_id": 5315
+  },
+  {
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards",
+   "member_id": 4125
+  },
+  {
+   "name": "Wera Hobhouse",
+   "party": "LD",
+   "seat": "Bath",
+   "member_id": 4602
+  },
+  {
+   "name": "Bambos Charalambous",
+   "party": "Lab",
+   "seat": "Southgate and Wood Green",
+   "member_id": 4610
+  },
+  {
+   "name": "Juliet Campbell",
+   "party": "Lab",
+   "seat": "Broxtowe",
+   "member_id": 5058
+  },
+  {
+   "name": "Tristan Osborne",
+   "party": "Lab",
+   "seat": "Chatham and Aylesford",
+   "member_id": 5220
+  },
+  {
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education",
+   "member_id": 4046
+  },
+  {
+   "name": "Esther McVey",
+   "party": "Con",
+   "seat": "Tatton",
+   "member_id": 4084
+  },
+  {
+   "name": "Edward Morello",
+   "party": "LD",
+   "seat": "West Dorset",
+   "member_id": 5326
+  },
+  {
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire",
+   "member_id": 3969
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 467
+  },
+  {
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston",
+   "member_id": 4679
+  },
+  {
+   "name": "Liz Twist",
+   "party": "Lab",
+   "seat": "Blaydon and Consett",
+   "member_id": 4618
+  },
+  {
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education",
+   "member_id": 4653
+  },
+  {
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness",
+   "member_id": 1482
+  },
+  {
+   "name": "Jess Asato",
+   "party": "Lab",
+   "seat": "Lowestoft",
+   "member_id": 5156
+  },
+  {
+   "name": "Alison Bennett",
+   "party": "LD",
+   "seat": "Mid Sussex",
+   "member_id": 5283
+  },
+  {
+   "name": "Robin Swann",
+   "party": "UUP",
+   "seat": "South Antrim",
+   "member_id": 5319
+  },
+  {
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education",
+   "member_id": 4698
+  },
+  {
+   "name": "Natalie Fleet",
+   "party": "Lab",
+   "seat": "Bolsover",
+   "member_id": 5053
+  },
+  {
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North",
+   "member_id": 5143
+  },
+  {
+   "name": "Steve Race",
+   "party": "Lab",
+   "seat": "Exeter",
+   "member_id": 5064
+  },
+  {
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale",
+   "member_id": 1591
+  },
+  {
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford",
+   "member_id": 4131
+  },
+  {
+   "name": "James Asser",
+   "party": "Lab",
+   "seat": "West Ham and Beckton",
+   "member_id": 5211
+  },
+  {
+   "name": "John Whitby",
+   "party": "Lab",
+   "seat": "Derbyshire Dales",
+   "member_id": 5342
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Chris Webb",
+   "party": "Lab",
+   "seat": "Blackpool South",
+   "member_id": 5025
+  },
+  {
+   "name": "Dr Andrew Murrison",
+   "party": "Con",
+   "seat": "South West Wiltshire",
+   "member_id": 1466
+  },
+  {
+   "name": "Alex Baker",
+   "party": "Lab",
+   "seat": "Aldershot",
+   "member_id": 5173
+  },
+  {
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire",
+   "member_id": 5249
+  },
+  {
+   "name": "Dr Neil Hudson",
+   "party": "Con",
+   "seat": "Epping Forest",
+   "member_id": 4853
+  },
+  {
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon",
+   "member_id": 5216
+  },
+  {
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks",
+   "member_id": 4780
+  },
+  {
+   "name": "Gareth Snell",
+   "party": "Lab/Co-op",
+   "seat": "Stoke-on-Trent Central",
+   "member_id": 4595
+  },
+  {
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon",
+   "member_id": 5122
+  },
+  {
+   "name": "Lincoln Jopp",
+   "party": "Con",
+   "seat": "Spelthorne",
+   "member_id": 5332
+  },
+  {
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale",
+   "member_id": 5225
+  },
+  {
+   "name": "Dr Ben Spencer",
+   "party": "Con",
+   "seat": "Runnymede and Weybridge",
+   "member_id": 4785
+  },
+  {
+   "name": "Andy MacNae",
+   "party": "Lab",
+   "seat": "Rossendale and Darwen",
+   "member_id": 5134
+  },
+  {
+   "name": "Will Stone",
+   "party": "Lab",
+   "seat": "Swindon North",
+   "member_id": 5035
+  },
+  {
+   "name": "Alison Hume",
+   "party": "Lab",
+   "seat": "Scarborough and Whitby",
+   "member_id": 5254
+  },
+  {
+   "name": "Tom Gordon",
+   "party": "LD",
+   "seat": "Harrogate and Knaresborough",
+   "member_id": 5032
+  },
+  {
+   "name": "David Davis",
+   "party": "Con",
+   "seat": "Goole and Pocklington",
+   "member_id": 373
+  },
+  {
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock",
+   "member_id": 5056
+  },
+  {
+   "name": "Peter Prinsley",
+   "party": "Lab",
+   "seat": "Bury St Edmunds and Stowmarket",
+   "member_id": 5163
+  },
+  {
+   "name": "Dr Caroline Johnson",
+   "party": "Con",
+   "seat": "Sleaford and North Hykeham",
+   "member_id": 4592
+  },
+  {
+   "name": "Lee Anderson",
+   "party": "Reform",
+   "seat": "Ashfield",
+   "member_id": 4743
+  },
+  {
+   "name": "Andrew Lewin",
+   "party": "Lab",
+   "seat": "Welwyn Hatfield",
+   "member_id": 5061
+  },
+  {
+   "name": "Danny Beales",
+   "party": "Lab",
+   "seat": "Uxbridge and South Ruislip",
+   "member_id": 5339
+  },
+  {
+   "name": "Lee Pitcher",
+   "party": "Lab",
+   "seat": "Doncaster East and the Isle of Axholme",
+   "member_id": 5233
+  },
+  {
+   "name": "Alex Brewer",
+   "party": "LD",
+   "seat": "North East Hampshire",
+   "member_id": 5263
+  },
+  {
+   "name": "John Cooper",
+   "party": "Con",
+   "seat": "Dumfries and Galloway",
+   "member_id": 5358
+  },
+  {
+   "name": "Baggy Shanker",
+   "party": "Lab/Co-op",
+   "seat": "Derby South",
+   "member_id": 5176
+  },
+  {
+   "name": "Sir John Whittingdale",
+   "party": "Con",
+   "seat": "Maldon",
+   "member_id": 39
+  },
+  {
+   "name": "Rachael Maskell",
+   "party": "Ind",
+   "seat": "York Central",
+   "member_id": 4471
+  },
+  {
+   "name": "Sir Julian Lewis",
+   "party": "Con",
+   "seat": "New Forest East",
+   "member_id": 54
+  },
+  {
+   "name": "Claire Hazelgrove",
+   "party": "Lab",
+   "seat": "Filton and Bradley Stoke",
+   "member_id": 5306
+  },
+  {
+   "name": "Ben Obese-Jecty",
+   "party": "Con",
+   "seat": "Huntingdon",
+   "member_id": 5089
+  },
+  {
+   "name": "Laurence Turner",
+   "party": "Lab",
+   "seat": "Birmingham Northfield",
+   "member_id": 5234
+  },
+  {
+   "name": "Shockat Adam",
+   "party": "Ind",
+   "seat": "Leicester South",
+   "member_id": 5120
+  },
+  {
+   "name": "Laura Kyrke-Smith",
+   "party": "Lab",
+   "seat": "Aylesbury",
+   "member_id": 5341
+  },
+  {
+   "name": "Greg Smith",
+   "party": "Con",
+   "seat": "Mid Buckinghamshire",
+   "member_id": 4778
+  },
+  {
+   "name": "Mr James Frith",
+   "party": "Lab",
+   "seat": "Bury North",
+   "member_id": 4637
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Lee Barron (Corby and East Northamptonshire) (Lab)",
+   "member_id": 5315,
+   "type": "Contribution",
+   "text": "1. What assessment she has made of the potential merits of introducing alternative methods of primary school assessment.",
+   "name": "Lee Barron",
+   "party": "Lab",
+   "seat": "Corby and East Northamptonshire"
+  },
+  {
+   "who": "The Minister for School Standards (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Mr Speaker, may I take this opportunity to thank all those who work in our schools and wish them a well-earned break over the summer holidays? High and rising school standards are a non-negotiable for this Labour Government as we seek to build a school system that enables every child to achieve and thrive. Our independent expert-led curriculum and assessment review has found that the current system for primary assessments is broadly working well. However, we will take on board any recommendations from the review panel when it reports in the autumn.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Lee Barron (Corby and East Northamptonshire) (Lab)",
+   "member_id": 5315,
+   "type": "Contribution",
+   "text": "A recent survey by Young Minds found that over a third of year 6 pupils felt ill due to standard assessment tests, and over a quarter said they made them feel bad about themselves. Ninety-six per cent of headteachers say that SATs harm wellbeing, and 95% doubt their accuracy. Our children and teachers are telling us that SATs are broken. Will the Department consider a more holistic assessment approach that ensures the wellbeing of our children at such a young age?",
+   "name": "Lee Barron",
+   "party": "Lab",
+   "seat": "Corby and East Northamptonshire"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "It is our ambition that all children get the chance not just to achieve at school but to thrive. SATs are carefully developed to ensure that they are accessible. It is clear that schools should not over-prepare children for the assessments at the expense of their wellbeing.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Wera Hobhouse (Bath) (LD)",
+   "member_id": 4602,
+   "type": "Contribution",
+   "text": "It is so well known how damaging formal assessment can be for some children; their wellbeing should be at the forefront of our minds. I know that from primary school teachers in my Bath constituency. Is it not time that we completely scrapped SATs?",
+   "name": "Wera Hobhouse",
+   "party": "LD",
+   "seat": "Bath"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "National curriculum tests and assessments are crucial to support schools in building strong foundations for children regardless of background and prior attainment. We will continue to keep the matter under review. Of course, children should not be made to feel stressed; they should be supported to achieve and thrive in any assessment at school.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Bambos Charalambous (Southgate and Wood Green) (Lab)",
+   "member_id": 4610,
+   "type": "Contribution",
+   "text": "2. What steps she is taking to recruit teachers.",
+   "name": "Bambos Charalambous",
+   "party": "Lab",
+   "seat": "Southgate and Wood Green"
+  },
+  {
+   "who": "Juliet Campbell (Broxtowe) (Lab)",
+   "member_id": 5058,
+   "type": "Contribution",
+   "text": "3. What steps she is taking to recruit new teachers.",
+   "name": "Juliet Campbell",
+   "party": "Lab",
+   "seat": "Broxtowe"
+  },
+  {
+   "who": "Tristan Osborne (Chatham and Aylesford) (Lab)",
+   "member_id": 5220,
+   "type": "Contribution",
+   "text": "10. What steps she is taking to recruit new teachers.",
+   "name": "Tristan Osborne",
+   "party": "Lab",
+   "seat": "Chatham and Aylesford"
+  },
+  {
+   "who": "The Secretary of State for Education (Bridget Phillipson)",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "With the summer holidays just around the corner, I want to say a huge thank you to everyone working across education for all their hard work this year. Improving the quality of teaching is the best way to drive up school standards, supporting every child to achieve and thrive. Through our plan for change, we will recruit an additional 6,500 expert teachers in our schools and colleges. With an almost 10% pay award, we are making good progress, with over 2,000 more teachers in our secondary and special schools.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Bambos Charalambous",
+   "member_id": 4610,
+   "type": "Contribution",
+   "text": "I congratulate the Secretary of State on the Department for Education being more than a third of the way through recruiting those 6,500 teachers. A recent Public Accounts Committee report showed that schools with a high proportion of disadvantaged pupils experienced the worst teacher shortages. Will the Secretary of State reassure me that extra effort will be put into recruiting and retaining teachers at all those schools?",
+   "name": "Bambos Charalambous",
+   "party": "Lab",
+   "seat": "Southgate and Wood Green"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I give my hon. Friend that assurance and thank him for all the work he does for schools right across his constituency. Recruiting and retaining more teachers—particularly in the most disadvantaged areas—is critical to our opportunity mission, but I am also delighted that initial teacher training acceptances are up 12% in secondary. That is positive progress being made, with a 16% increase in maths and a 46% increase in physics. That is the change that the Labour Government are delivering.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Juliet Campbell",
+   "member_id": 5058,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for her response and for the Government’s commitment to recruiting 6,500 new teachers. However, as we know, dyslexic children tend to leave school or education with disproportionately lower attainment levels. They are also over-represented in the criminal justice system and often have low self-esteem, with much of that coming from their experience in educational settings. Will the Secretary of State outline how she will ensure that the recruitment of new teachers will bring in those who can meet the education needs of dyslexic and neurodiverse children?",
+   "name": "Juliet Campbell",
+   "party": "Lab",
+   "seat": "Broxtowe"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for her question and for all her work to support neurodiverse students in Broxtowe and beyond. From September, thanks to this Labour Government’s reforms, all new teachers will receive three years of evidence-based training, including significantly enhanced content on supporting children with additional needs. We know there is much more we have to do so that all our students, including those with special educational needs and disabilities, are able to achieve and thrive, and I look forward to discussing that further with her very soon.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Tristan Osborne",
+   "member_id": 5220,
+   "type": "Contribution",
+   "text": "As a former teacher, I know that new school buildings not only help student progress, but encourage teacher retention. Can the Minister confirm that new school buildings are indeed part of this Government’s programme for change, and will she commit to visiting Bradfields academy in my constituency, a specialist SEND school that is investing millions as part of the schools rebuilding programme?",
+   "name": "Tristan Osborne",
+   "party": "Lab",
+   "seat": "Chatham and Aylesford"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to my hon. Friend; I know he cares deeply about outcomes for children in Chatham and Aylesford, and that he brings real experience to this House. He is right to demonstrate the important role of the specialist sector. He mentions Bradfields academy, which has already secured a place on the schools rebuilding programme; with the approval of the trust, I would be delighted to arrange for me or one of my colleagues to visit and see the brilliant work they are doing.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Esther McVey (Tatton) (Con)",
+   "member_id": 4084,
+   "type": "Contribution",
+   "text": "This Government are hampering schools’ recruitment of new teachers. First they hiked up the cost through the increase in employer national insurance contributions; then the money promised to state schools from charging VAT on private school fees was spent on housing instead. Can the Secretary of State tell the House how much the increase in employer national insurance contributions will cost schools in total over this Parliament?",
+   "name": "Esther McVey",
+   "party": "Con",
+   "seat": "Tatton"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We are investing record sums in our state schools. The Conservative party, however, wants to take money out of our state schools to give tax breaks back to private schools. That tells us everything we need to know about their priorities.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Edward Morello (West Dorset) (LD)",
+   "member_id": 5326,
+   "type": "Contribution",
+   "text": "The headteacher of the Thomas Hardye school in West Dorset previously worked in a London school. He told me that in London he received nearly £10,000 per pupil, but in West Dorset nearly £5,000—yet the challenges of rural education are no less complex, not least in the recruitment of teachers. What steps is the Secretary of State taking to address the funding inequalities facing rural schools, to ensure that all pupils receive the teaching they deserve?",
+   "name": "Edward Morello",
+   "party": "LD",
+   "seat": "West Dorset"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We continue to keep all these areas under review; if the hon. Gentleman would like to write to me with more information, I would be happy to respond with more detail. However, I am clear that this Government are investing more in education. We are turning around the year-on-year declines in teacher numbers with better pay, more support on workload and more money for our schools, including tackling child poverty. That is the difference that a Labour Government are making for our country.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "The Government have tried to have it every which way on these elusive 6,500 extra teachers. If the Labour manifesto had meant that only secondary teachers counted, but they could be in any subject, presumably that is what it would have said. What it actually said was 6,500 new specialist teachers in key subjects, so will the Secretary of State enlighten us: what are those subjects?",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I would be very happy to do so. As the right hon. Gentleman just heard, we are seeing big increases in initial teacher training acceptances in many of those key subjects such as maths and science. On the commitment we have made, we had 60,000 fewer children in primary over the course of the last year and, as a former holder of this office, he would rightly expect that we target our efforts in areas of greatest need. Sadly, we are seeing a big decline in the number of children in primary, with the numbers forecast to fall by another 165,000 over the next few years, so we are focusing our efforts where they are needed.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the shadow Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O’Brien (Harborough, Oadby and Wigston) (Con)",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "The Secretary of State just said that the Government were turning around declines in teacher numbers. Under the last Government the number of teachers went up by 27,000; under this Government it is down by 400. That is the opposite of the truth. One thing that drives people out of teaching is poor discipline, yet the Government have abolished behaviour hubs, despite the evidence that they were working. The Government said they would put in place new behaviour ambassadors, who were supposed to be in place on 4 July, but the contract has now lapsed and the position is vacant. Why the delay on this vital issue?",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "That was very shouty from the shadow Minister, and as per usual very negative about what we are seeing across education. We are turning around the problems that the Conservatives left behind on teacher recruitment and retention. We are increasing attendance in our schools and improving behaviour—a challenge that I completely agree schools need support to deal with—putting more money back into parents’ pockets and tackling child poverty. The Conservatives have only one policy, and that is to give a tax break to private schools.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Liz Twist (Blaydon and Consett) (Lab)",
+   "member_id": 4618,
+   "type": "Contribution",
+   "text": "4. What steps she is taking to improve mental health support in schools.",
+   "name": "Liz Twist",
+   "party": "Lab",
+   "seat": "Blaydon and Consett"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Stephen Morgan)",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "This Government are committed to improving mental health support for all children and young people. That is why we are providing access to specialist mental health professionals in every school by expanding mental health support teams so that every child and young person has access to early support to address problems before they escalate.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Liz Twist",
+   "member_id": 4618,
+   "type": "Contribution",
+   "text": "I thank the Minister for his reply and for last week’s publication of the new relationships, sex and health education—RSHE—curriculum guidance. I was pleased to see that secondary schools are now being asked to talk about suicide prevention in an age-appropriate way. Andy, Mike and Tim, the 3 Dads Walking, have campaigned hard for this change over a number of years, and I am pleased that the Government have worked with them to make this happen. Will the Minister join me in thanking the three dads, and can he say how this will be implemented in schools so that we can help save young lives?",
+   "name": "Liz Twist",
+   "party": "Lab",
+   "seat": "Blaydon and Consett"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for the tireless work she has done on these important issues in this place. We are grateful for the contribution of 3 Dads Walking in developing the new RSHE guidance and we pay tribute to their inspirational determination and the courage shown in their work to raise awareness. The guidance contains new content about coping strategies for dealing with issues such as anxiety, but also covers issues such as loneliness and bereavement. It says that schools should “consider carefully” how to address suicide prevention safely.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Graham Stuart (Beverley and Holderness) (Con)",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "Great leadership is critical to supporting children to have a healthy mental condition. Will the Minister join me in congratulating Leon Myers, the headteacher of Swinemoor primary school, on the twice-repeated outstanding rating for that school, on his focus on the traditional values of endeavour, resilience and competitive spirit, and on his recent MBE in recognition of the transformation of opportunity he provides to children across the Swinemoor estate?",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank the right hon. Member for his question, and I pay tribute to the member of staff he mentioned and all those who work across the education system to deliver improvements in life chances for all young people; I thank him very much for his hard work.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Jess Asato (Lowestoft) (Lab)",
+   "member_id": 5156,
+   "type": "Contribution",
+   "text": "We know that timely access to mental health support is crucial. Earlier this month, the Education Committee released its report on children’s social care, which recommended that the Government establish mental health teams that are co-located between child and adolescent mental health services —CAMHS—and children’s social care, so that looked-after children can access specialist mental health support more easily. Will the Minister share any assessment that the Department has made of this recommendation?",
+   "name": "Jess Asato",
+   "party": "Lab",
+   "seat": "Lowestoft"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for the hard work she has undertaken on the Select Committee. She will know that we will deliver on our commitment on mental health support teams in the course of the next few months and years. By 2026, we estimate that 60% of pupils in schools and learners will have access to national health service tests—NHSTs—and I will take her suggestion back to the Department.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Alison Bennett (Mid Sussex) (LD)",
+   "member_id": 5283,
+   "type": "Contribution",
+   "text": "Good mental health at school is sometimes bolstered by out-of-school support, especially for the most vulnerable children. Last week, I met Vicky and her team at Jigsaw Occupational Therapy in Burgess Hill, and I spoke to the families they help. Roughly a quarter of their work involved supporting kinship and adopted children and helping them to regulate following profound trauma. Vicky described the impact on their children of the Government’s cuts to the adoption and special guardianship support fund as “heartbreaking”. Can the Minister offer any words of comfort to Vicky and the families she helps?",
+   "name": "Alison Bennett",
+   "party": "LD",
+   "seat": "Mid Sussex"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "We are maintaining the support available to children to ensure that there is reasonable support in place, and providing more funding to local authorities. This Government are committed to breaking down the barriers to opportunity so that every child can succeed and thrive, and that is what we are getting on and delivering.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Robin Swann (South Antrim) (UUP)",
+   "member_id": 5319,
+   "type": "Contribution",
+   "text": "5. What steps her Department is taking to help ensure that post-16 education provides the skills necessary to support the economy.",
+   "name": "Robin Swann",
+   "party": "UUP",
+   "seat": "South Antrim"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Janet Daby)",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "I would like to take this opportunity to celebrate the great gains that the Labour Government have made through our plan for change. Since entering power, we have cut red tape, tilted the system towards young people and committed unprecedented investment for our school system. We are going further and faster with our post-16 education and skills strategy.",
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Robin Swann",
+   "member_id": 5319,
+   "type": "Contribution",
+   "text": "The apprenticeship levy is collected equally across the United Kingdom, but unfortunately it comes back to Northern Ireland under the Barnett consequential. Will the Minister look at an option for a system in which those employers who contribute to the apprenticeship levy can draw it back directly to support apprentices employed in their companies?",
+   "name": "Robin Swann",
+   "party": "UUP",
+   "seat": "South Antrim"
+  },
+  {
+   "who": "Janet Daby",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for his question and his thoughtfulness regarding the levy and its operation. As he is fully aware, skills are a devolved matter and funding in the devolved Administration remains the responsibility of that Government. We will continue to engage with the devolved Administrations as we develop the levy-funded growth and skills offer for England.",
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Natalie Fleet (Bolsover) (Lab)",
+   "member_id": 5053,
+   "type": "Contribution",
+   "text": "I was recently lucky enough to visit Brigg infant school in South Normanton. It is a gorgeous school full of talented pupils and dedicated staff, but it has a problem: four and five-year-olds are being taught in a prefab building that is not fit for purpose. I love to see the way that we invest in education, but these children have been let down by the previous Government. Does the Minister agree that they deserve a classroom that is fit to be taught in, and will she look at this case?",
+   "name": "Natalie Fleet",
+   "party": "Lab",
+   "seat": "Bolsover"
+  },
+  {
+   "who": "Janet Daby",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for her thoughtful question on the prefabs. We have a plan to build, and I will take up this matter further with the appropriate Minister.",
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the shadow Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O’Brien (Harborough, Oadby and Wigston) (Con)",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Before the election, Labour said that it would allow employers to take 50% of their apprenticeship levy money and spend it on other things, but since the a while election, different Ministers have said different things about whether that is still happening. The Skills Minister said it would all depend on the spending review, but of course, the spending review was back. Will businesses be able to take out 50% as Labour promised or not?",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Janet Daby",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for his question. We are a Government who continue to invest in education. We have flexibility available, and we have foundation apprenticeships and shorter apprenticeships. We are absolutely investing in young people to get them into the right jobs.",
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Yes or no?",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "Order. The Minister will answer the question as she sees fit. The hon. Member may be frustrated, but we will carry on.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine Atkinson (Derby North) (Lab)",
+   "member_id": 5143,
+   "type": "Contribution",
+   "text": "6. What steps she is taking to help improve the condition of the further education college estate.",
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North"
+  },
+  {
+   "who": "Steve Race (Exeter) (Lab)",
+   "member_id": 5064,
+   "type": "Contribution",
+   "text": "12. What steps she is taking to improve the quality of the further education estate.",
+   "name": "Steve Race",
+   "party": "Lab",
+   "seat": "Exeter"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Stephen Morgan)",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Excellent further education colleges are a key building block of the Government’s opportunity and growth missions. The Government are committed to improving the condition of schools and colleges in England and will invest nearly £3 billion per year by 2034-2035, rising from £2.4 billion in 2024-25.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Catherine Atkinson",
+   "member_id": 5143,
+   "type": "Contribution",
+   "text": "The oldest surviving locomotive roundhouse in Britain is in Derby, and what was once at the forefront of Victorian engineering is now a cutting-edge learning environment for local young people who will build the homes of the future. But the site is full to bursting—Derby college needs more space. Does the Minister agree that if it became a construction technical excellence college, it could extend its site, increase its capacity in brickwork, carpentry and joinery by 50%, and teach more students the construction skills we desperately need?",
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Applications to become construction technical excellence colleges closed on 4 July. We look forward to informing successful candidates in due course. In addition, £375 million of capital investment will be invested between 2026 and 2030 to support post-16 capacity to accommodate the additional learners entering the system.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Steve Race",
+   "member_id": 5064,
+   "type": "Contribution",
+   "text": "I know that the Minister will agree with me that in Exeter we have two of the country’s most outstanding FE institutions. Exeter college is rated outstanding by Ofsted and as “strong” in its approach to meeting the skills needs of our area—the first time a college has achieved both. Exeter maths school is also rated outstanding and gives students from across the south-west the opportunity to specialise in maths, physics and computing. But as my hon. Friend the Member for Derby North (Catherine Atkinson) said, that success comes with its own challenges. Both are bursting at the seams and need capital investment to allow them to expand and continue their exceptional work. Does the Minister agree that Exeter college could also be an exceptional candidate to become a construction technical excellence college for the south-west, and will he meet me to discuss the ways in which we can support those changes?",
+   "name": "Steve Race",
+   "party": "Lab",
+   "seat": "Exeter"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I join my hon. Friend in recognising the success of Exeter college and Exeter maths school, which are both outstanding. As he will know, the Government have announced capital funding to improve the condition of the estate and accommodate rising student numbers as we hope to replicate the success of these settings across the country.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Tim Farron (Westmorland and Lonsdale) (LD)",
+   "member_id": 1591,
+   "type": "Contribution",
+   "text": "The sixth form of the Lakes school near Windermere provides further education for young people within the central lakes. The building is beyond being fit for purpose and needs a rebuild. It also happens to be built on the site where the Windermere children who survived the death camps in 1945 were brought to be rehabilitated on the shores of Windermere where they were first settled. On the 80th anniversary of their arrival, will the Minister agree to meet me and local people to look at a rebuild of the school and, at the same time, a memorial to the Windermere children, so that we can honour their memory and support the children of the future, too?",
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Ensuring that schools and colleges have the resources and buildings that they need is key to our mission to break down barriers to opportunity and ensure that every child can succeed and thrive. As always, I am very happy to meet the hon. Gentleman.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "I thank the Minister very much for his answers, as always. The hon. Member for Derby North (Catherine Atkinson) referred to the construction sector. Is it time perhaps to think outside the circle of what we usually do, through deals and partnerships with construction companies? That would give us the opportunity to improve the education and college estate while making people available and knowledgeable for jobs in their future life, whether in construction or otherwise. It is time for partnerships—let us do something perhaps a wee bit different.",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "The hon. Gentleman is absolutely right: the construction sector is fundamental to the UK economy. That is why the Government’s industrial strategy includes a construction sector deal. We have committed £625 million to supporting construction skills training, and that funding includes capital investment through the establishment of technical excellence colleges and the creation of an employer match funding pot worth £80 million.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "James Asser (West Ham and Beckton) (Lab)",
+   "member_id": 5211,
+   "type": "Contribution",
+   "text": "7. What steps she is taking to increase the number of children meeting the early learning goals.",
+   "name": "James Asser",
+   "party": "Lab",
+   "seat": "West Ham and Beckton"
+  },
+  {
+   "who": "John Whitby (Derbyshire Dales) (Lab)",
+   "member_id": 5342,
+   "type": "Contribution",
+   "text": "22. What steps her Department is taking to ensure more children receive support during their early years.",
+   "name": "John Whitby",
+   "party": "Lab",
+   "seat": "Derbyshire Dales"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Stephen Morgan)",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Our landmark strategy on giving every child the best start in life sets out plans to deliver Best Start family hubs to make access to early education easier and more affordable, and to improve quality in settings and reception classes. The strategy is backed by £1.5 billion over the next three years, and Government spending on the funded hours will reach £9 billion next year and will continue to rise over the Parliament.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "James Asser",
+   "member_id": 5211,
+   "type": "Contribution",
+   "text": "I thank the Minister for joining me at Curwen primary school in Plaistow recently to see its excellent early years education work. He heard from parents about the struggles they often face as a result of serious economic and housing hardship. Will he assure my constituents that the Government will look at communities like mine, where housing and poverty create serious challenges for families, to ensure that all children, no matter their circumstances, get the best possible educational start in life?",
+   "name": "James Asser",
+   "party": "Lab",
+   "seat": "West Ham and Beckton"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for our excellent visit to Curwen primary school last week, where I saw excellent work on supporting children’s speech and language to deliver for some of our most vulnerable children and families. Our spending review commitments are a downpayment on the child poverty strategy to build on expanding free breakfast clubs and free school meals, boost the national minimum wage and cap universal credit deductions through the fair repayment rate.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "John Whitby (Derbyshire Dales) (Lab)",
+   "member_id": 5342,
+   "type": "Contribution",
+   "text": "Sure Start, which was created by the previous Labour Government, boosted attainment, improved health outcomes and increased long-term earnings. However, under the Conservatives, more than 30 children’s centres in Derbyshire were closed, and Derbyshire now does not have a single family hub. What action will the Government take to ensure that more young children in Derbyshire can once again access support during their early years?",
+   "name": "John Whitby",
+   "party": "Lab",
+   "seat": "Derbyshire Dales"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "It was a pleasure to visit my hon. Friend’s constituency recently, too. He is a real champion for children and young people. We will fund Best Start family hubs in every local authority, including in Derbyshire. We estimate that the expansion could reach half a million children across the country. Best Start family hubs will be open to all and based in disadvantaged communities, where they are needed most.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the Liberal Democrat spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "May I join Ministers in thanking our school and college staff up and down the country for their dedication? I wish them happy and restorative summer holidays. Children with special educational needs who started reception last year were over a year behind their peers, according to the Education Policy Institute. Staggeringly, those with an education, health and care plan were already over 20 months behind—the widest gap that the EPI has recorded since it started monitoring in 2013. Given the importance of the early years in narrowing the gap, it is crucial that we give every child the help that they need as soon as possible. Will the Minister confirm how much of the £760 million for SEND transformation announced in the spending review will go towards early identification and intervention?",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "The Government are committed to ensuring excellence for everyone so that children have the support, skills and opportunities that they need, and that starts in early years. We are actively working with parents and experts on solutions, including more early intervention to prevent needs from escalating. Any changes we make will improve support for children and parents, stop parents having to fight for support, and protect current effective provision.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Chris Webb (Blackpool South) (Lab)",
+   "member_id": 5025,
+   "type": "Contribution",
+   "text": "8. What steps her Department is taking to ensure adequate funding for SEND provision.",
+   "name": "Chris Webb",
+   "party": "Lab",
+   "seat": "Blackpool South"
+  },
+  {
+   "who": "The Secretary of State for Education (Bridget Phillipson)",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to my hon. Friend that important question. Labour is providing £1 billion more for high-needs budgets, and also providing councils with £740 million of capital funding to improve support for children with SEND in specialist and mainstream schools. This investment will lay the foundation for the better system that children with SEND need. Working with experts, we will set out our plans in the schools White Paper in the autumn.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Chris Webb",
+   "member_id": 5025,
+   "type": "Contribution",
+   "text": "The last Government left behind a SEND system that was failing children and families. Parents were made to fight for support, with education, health and care plans denied or delayed and vital services taken away. Tory cuts to early years support, rising poverty and extreme deprivation in Blackpool, as well as the pandemic hitting our children harder than most, have all combined to deepen the crisis facing our most vulnerable young people. What steps is the Education Secretary taking to ensure children in disadvantaged communities like mine, where the need is high and support often falls short, receive the targeted SEND support they urgently require?",
+   "name": "Chris Webb",
+   "party": "Lab",
+   "seat": "Blackpool South"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend is a powerful champion for his constituents and for Blackpool, and he is right that far too many children are not currently getting the support they need in order to thrive. Early intervention is key—more support at the earliest possible point to identify where children might be struggling, and to make sure that they get the help they need. That is why I was very proud to announce to the House that, building on the proud Labour legacy of Sure Start, we will be rolling out Best Start family hubs to make sure that we have better family support services in every part of our country, including my hon. Friend’s community.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Dr Andrew Murrison (South West Wiltshire) (Con)",
+   "member_id": 1466,
+   "type": "Contribution",
+   "text": "The Secretary of State knows that out-of-county placements are very expensive and highly unsatisfactory both for pupils and for families. Will she therefore confirm that the excellent news that we had last year about a new SEND school being built at Bitham Park in Westbury will go ahead to the advantage of children and, importantly, their families, and can she assure me it is not going to be cancelled in the proposals she has alluded to?",
+   "name": "Dr Andrew Murrison",
+   "party": "Con",
+   "seat": "South West Wiltshire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I will happily write to the right hon. Gentleman in relation to his constituency case. We are looking carefully at all the proposals we inherited when we came in as a new Government, but the assurance I can give him is that through the spending review we secured additional investment not just for revenue funding but also for capital funding to make sure that we are creating the specialist places that are needed in both the mainstream and also the specialist sector, which has an enormous amount of expertise. Sadly, I have heard far too many cases of the kind that he describes, where children are being forced to travel considerable distances away from their local community and their friends because of an absence of specialist places. We are determined to improve that.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Alex Baker (Aldershot) (Lab)",
+   "member_id": 5173,
+   "type": "Contribution",
+   "text": "Will the Secretary of State join me in congratulating the staff, pupils and governors at Henry Tyndale community school on the official opening today of their new park campus in Aldershot, a vital new facility for students aged four to 19 with complex learning difficulties? This outstanding school is named after Henry Tyndale, who gave two decades of tireless service as a volunteer, fundraiser and friend to children with the greatest difficulties, and whose legacy continues to shape the school’s inclusive spirit. What steps are the Government taking to support the creation of more schools like Henry Tyndale, so that children with SEND in my community and beyond have access to the high-quality, specialist environments they deserve?",
+   "name": "Alex Baker",
+   "party": "Lab",
+   "seat": "Aldershot"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend is right to draw attention to the amazing work in the specialist sector and the tremendous expertise, knowledge and passion that so many people bring to supporting children with some of the most complex needs. That is why how we can deliver better outcomes for children with SEND is at the forefront of all of our minds as we bring forward any reform to the system. That will be our guiding principle—it must be our guiding principle. So alongside better mainstream inclusion, we will of course make sure that there is the specialist provision necessary for the children who need it.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Ellie Chowns (North Herefordshire) (Green)",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "I have heard from and met with numerous constituents who are parents of children with special educational needs, all frustrated with the way that the system currently works. I welcome the Secretary of State saying she wants outcomes for children to be at the centre of reforms, but a parent of a child with an EHCP, which helps them to be in mainstream education, recently told me of the fear and horror she felt when she heard about potential Government reforms due to the risk of her son losing the ability to stay in a school that has, in her words, been an absolute godsend for him. Can the Secretary of State assure parents that her reforms will not take away support that children currently have and will ensure that every child has the support they need to genuinely thrive?",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I can be clear that children with SEND have a legal right to additional support, and Labour will always protect that. I would say, however, that we all have a responsibility in how we approach the issue—a responsibility not to cause undue alarm among parents who are experiencing a system that is not working and that is too adversarial. I believe that a better system will be delivered. We can make sure that children get early, timely support that is much more effective and focused on their outcomes. The plans that we will set out later this year will be shaped by all the conversations with the parents who she describes—conversations that I, too, have had—and with experts, school leaders and campaigners to make sure that we get them right.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the shadow Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O’Brien (Harborough, Oadby and Wigston) (Con)",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Parents are getting in touch with MPs across the country to ask whether existing special needs support will continue under the planned reforms. The Minister for School Standards has said that the Government will not remove “effective support”, but what does that word “effective” mean? Who will judge what is effective, and on what basis? Why will the Government not just guarantee that all children will keep the support that they currently have?",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "As I said in response to the hon. Member for North Herefordshire (Ellie Chowns), children with SEND have a legal right to additional support. We will not just protect it, but improve it. We will deliver better outcomes and support for children with SEND. I do not know how the shadow Minister has the brass neck to stand there and ask that question, given that the Conservatives left behind a system that their last Education Secretary described as “lose, lose, lose”. It is for that reason that we deal with so many questions on this topic every time we gather for Education questions. What we have at the moment is not working by any objective measure: children are being failed and parents are being failed. It falls to the Labour Government to deliver the better system of support that all our children with SEND desperately need.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Dr Neil Hudson (Epping Forest) (Con)",
+   "member_id": 4853,
+   "type": "Contribution",
+   "text": "9. What assessment her Department has made of the potential impact of the use of smartphones in schools on levels of disruption in classrooms.",
+   "name": "Dr Neil Hudson",
+   "party": "Con",
+   "seat": "Epping Forest"
+  },
+  {
+   "who": "Caroline Voaden (South Devon) (LD)",
+   "member_id": 5216,
+   "type": "Contribution",
+   "text": "20. What steps she is taking to support schools that plan to ban smartphones.",
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Stephen Morgan)",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Mobile phones have no place in schools. Government guidance is clear that schools should prohibit the use of devices with smart technology throughout the school day. Research from the Children’s Commissioner shows that 99.8% of primary schools and 90% of secondary schools already have policies restricting the use of mobile phones.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Dr Hudson",
+   "member_id": 4853,
+   "type": "Contribution",
+   "text": "Many of the young people I meet in schools across Epping Forest are clear that they agree with the local school policy of restricting mobile phones when they are at school. Sadly, however, the Government have repeatedly refused to heed Conservative calls to protect our children with a national ban on phones in schools—even voting against it. Bodies such as UNESCO and the OECD are crystal clear about the negative impacts of phones on young people’s education, so when will the Government listen to the evidence and to our school leaders, and support a ban on smartphones in schools for the sake of our young people’s education and mental health?",
+   "name": "Dr Neil Hudson",
+   "party": "Con",
+   "seat": "Epping Forest"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I have said that phones should not be out in schools, and heads have the power to enforce that. The Opposition backed those measures. If they felt they needed to go further, they had 14 long years in which to do so.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Caroline Voaden",
+   "member_id": 5216,
+   "type": "Contribution",
+   "text": "Last Thursday, I felt the fear in a hall full of parents of primary school children in Totnes as they listened to campaigners going through the evidence of the impact of smartphones on kids at secondary school. There is a clear safeguarding issue around kids seeing videos of hardcore pornography and violence. I am therefore pleased that Tina Graham, the head of Kingsbridge community college, has just announced a smartphone-free policy from September to protect children, which will mean no phones in school at all except for reasonable adjustments. That is a much better policy than the “Not seen—put it in your bag” policy that most schools follow. In the light of such safeguarding concerns, where every child is only as safe as the least safe phone in school, why will the Minister not do the one thing that could transform our children’s mental and physical health, and school attainment and direct all schools to go smartphone free—",
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "Order. Please, this is not fair; I have to get others in. I call the Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "The hon. Lady’s question demonstrates that mobile phones have no place in schools, and there is already guidance to reflect that. The mobile phones in schools guidance is clear and schools should prohibit the use of devices with smart technology throughout the school day, including during lessons, transitions and breaks. We expect all schools to take steps in line with that guidance to ensure that mobile phones do not disrupt pupils’ learning. If pupils fail to follow those rules, schools should have the power to confiscate devices.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the shadow Secretary of State.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Laura Trott (Sevenoaks) (Con)",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "In the other place, Baroness Smith of Malvern, a Minister in the Department for Education, said: “There is no clear scientific consensus on a negative impact from screen time and social media use on the mental health and neurological or functional development of children and young people.” —[ Official Report, House of Lords, 23 June 2025; Vol. 847, c. 55.] I fundamentally disagree. There is overwhelming and extensive evidence of the harm caused, so I want to know the Government’s position. Does the Minister agree with his ministerial colleague or with me on this issue?",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Last year, the right hon. Lady’s Government claimed that action on mobile phones was prohibiting their use in schools and that guidance meant “a consistent approach across all schools.” Those are their words. In backing the Tory Government’s measures, was she wrong then, or is she wrong now?",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Gareth Snell (Stoke-on-Trent Central) (Lab/Co-op)",
+   "member_id": 4595,
+   "type": "Contribution",
+   "text": "11. What assessment she has made of the adequacy of funding for sixth-form colleges. [R]",
+   "name": "Gareth Snell",
+   "party": "Lab/Co-op",
+   "seat": "Stoke-on-Trent Central"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Janet Daby)",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "I take this opportunity to thank all post-16 providers and staff for their tireless work over the last academic year and wish them a restful summer break. Following the autumn Budget, this Government made available more than £400 million extra planned spending on 16-to-19 education in the financial year 2025-26. Since then, an additional £190 million for 2025-26 has been made available to respond to 16-to-19 demographic growth and other pressures on the system, creating opportunities for young people to succeed.",
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Gareth Snell",
+   "member_id": 4595,
+   "type": "Contribution",
+   "text": "I draw the attention of the House to my entries in the Register of Members’ Financial Interests: I am a governor of the City of Stoke-on-Trent sixth-form college and the chair of the all-party parliamentary group on sixth form education. I thank the Minister for her answer; the additional capital available for post-16 providers is very welcome. The City of Stoke-on-Trent sixth-form college is seeing a huge increase in interest around science, healthcare science and computer science —subjects that are mission-critical to the delivery of the Government’s ambitious programme. When will the capital be available so that my sixth form and others around the country can build high-quality learning environments for young learners?",
+   "name": "Gareth Snell",
+   "party": "Lab/Co-op",
+   "seat": "Stoke-on-Trent Central"
+  },
+  {
+   "who": "Janet Daby",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for mentioning his fantastic City of Stoke-on-Trent sixth-form college. I reassure him and other Members that this Government are committed to ensuring that there is a place in education or training for every 16 to 18-year-old who wants one. Details of the £375 million of capital investment to accommodate additional learners entering the system will be announced in due course.",
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Manuela Perteghella (Stratford-on-Avon) (LD)",
+   "member_id": 5122,
+   "type": "Contribution",
+   "text": "A report presented to the APPG for care-experienced children and young people revealed that more than 4,000 young people in care either moved placements or left care during their A-level exam period. What steps is the Minister taking to ensure that schools and colleges are properly equipped to support care-experienced students facing such instability at a crucial point in their education?",
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon"
+  },
+  {
+   "who": "Janet Daby",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for her thought-provoking question. She really advocates for care leavers and for ensuring that they have the durability they need at school to ensure they have a seamless experience. I reassure her that care leavers who start an apprenticeship are entitled to £3,000 bursaries, and local authorities must provide a £2,000 bursary for care leavers who go on to university. Let me just say that this Government are extremely concerned with education not being broken for care leavers and ensuring that we support them in every which way we can.",
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Lincoln Jopp (Spelthorne) (Con)",
+   "member_id": 5332,
+   "type": "Contribution",
+   "text": "13. What steps she is taking to support children with SEND who do not have an education, health and care plan.",
+   "name": "Lincoln Jopp",
+   "party": "Con",
+   "seat": "Spelthorne"
+  },
+  {
+   "who": "Lizzi Collinge (Morecambe and Lunesdale) (Lab)",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "17. What steps she is taking to improve support for children with SEND.",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "The Minister for School Standards (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "We are engaging extensively with families and experts as we seek to improve support for children with special educational needs and disabilities. We have invested £1 billion into high-needs budgets and £740 million into creating more specialist places. We are rolling out schemes, from the partnerships for inclusion of neurodiversity in schools—the PINS programme—to Inclusion 2028, which are laying the groundwork for long-term reform. We are building a system in which every child can achieve and thrive.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Lincoln Jopp",
+   "member_id": 5332,
+   "type": "Contribution",
+   "text": "I thank the Minister for that answer. On Friday, I had the opportunity to visit the outstanding Springfield primary school in my constituency. It has 500 pupils, 30 of whom have education, health and care plans, with six applications in currently. Can the Minister reassure the parents of those six children and the many, many parents across the country that, while this review into EHCPs is going on, local education authorities will not slow-roll existing applications or fail them as a default in order for them to go to tribunal and try to beat the clock?",
+   "name": "Lincoln Jopp",
+   "party": "Con",
+   "seat": "Spelthorne"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "We have yet to decide on the future of education, health and care plans, but we are extremely focused on strengthening the support system so that every child can receive timely, high-quality help. We will set out further details about our approach to special educational needs in this autumn’s White Paper. In the meantime, obviously, children should be getting the support they need, and we are putting in the groundwork so that more children can have that.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Lizzi Collinge",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "We know that early intervention is most effective for children with SEN, but too many children in my constituency of Morecambe and Lunesdale have been let down in that respect. However, Lancashire is, for the first time, receiving funding for Best Start hubs. Can the Minister tell me how that will improve early support for those children?",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "As I said, we are already investing in supporting children and their families, including through Best Start family hubs, as my hon. Friend mentioned. We want to ensure that all children have access to a family service professional who is trained to support inclusion, can identify where children have additional needs ahead of starting school, and can support parents to navigate services.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Dr Ben Spencer (Runnymede and Weybridge) (Con)",
+   "member_id": 4785,
+   "type": "Contribution",
+   "text": "14. If she will provide a timeline for the completion of construction works at the Magna Carta school in Egham.",
+   "name": "Dr Ben Spencer",
+   "party": "Con",
+   "seat": "Runnymede and Weybridge"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Stephen Morgan)",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Ensuring that schools and colleges have the resources and buildings they need is a key part of our mission to break down the barriers to opportunity and give every child the best start in life. For this project, I can confirm that the Department is in the process of finalising the feasibility study, and we expect to procure the works later this year. Until that process is complete, we will be unable to advise on the length of the construction programme. However, positive progress continues to be made in collaboration with the trust.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Dr Spencer",
+   "member_id": 4785,
+   "type": "Contribution",
+   "text": "I thank the Minister for his answer. Can he clarify whether the Magna Carta school will have a full rebuild, due to the presence of reinforced autoclaved aerated concrete, or is it just the science and arts block that will be rebuilt? Will he meet me to discuss this issue and the work that will take place on such a fantastic local school?",
+   "name": "Dr Ben Spencer",
+   "party": "Con",
+   "seat": "Runnymede and Weybridge"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I am very happy to meet the hon. Member.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Andy MacNae (Rossendale and Darwen) (Lab)",
+   "member_id": 5134,
+   "type": "Contribution",
+   "text": "15. If she will make an assessment of the potential impact of virtual teachers on school children.",
+   "name": "Andy MacNae",
+   "party": "Lab",
+   "seat": "Rossendale and Darwen"
+  },
+  {
+   "who": "The Minister for School Standards (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "This Government are committed to ensuring that every child can access the tools they need in order to achieve and thrive. We inherited a challenging workforce picture from the previous Government, which is why we are committed to recruiting an additional 6,500 teachers. We are backing teachers and restoring teaching to being a highly valued profession. There is no doubt that technology has a key role to play in driving high and rising standards at school. However, the most important factor for high-quality education is having an expert teacher at the front of the classroom.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Andy MacNae",
+   "member_id": 5134,
+   "type": "Contribution",
+   "text": "In Rossendale, the academy trust that runs our “stuck” school, Valley leadership academy, recently announced plans to introduce a virtual teacher for top-set maths. This approach has understandably raised a lot of concerns, and I have been working with the trust to make sure it is designed in the pupils’ best interests. I have been assured that this will be a temporary measure, that a qualified maths teacher will be in the room to provide additional support, and that an appropriate range of adjustments will be made for SEND pupils. However, I remain concerned that, without safeguards, virtual teachers may become a default cost-saving measure to address recruitment challenges. Will the Minister share her view on how we can ensure that such an approach is always designed in pupils’ best interests—",
+   "name": "Andy MacNae",
+   "party": "Lab",
+   "seat": "Rossendale and Darwen"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "Order. Come on, Andy. I call the Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Technology has the potential to enhance time efficiency for teachers, reduce workload and improve student engagement and attainment, but it cannot replace the valuable relationship between teachers and pupils. We know that high-quality teaching has the biggest impact on a child’s educational outcomes. School leaders rightly have the autonomy to make decisions about staff deployment, and they are best placed to make decisions about the needs of their pupils.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Will Stone (Swindon North) (Lab)",
+   "member_id": 5035,
+   "type": "Contribution",
+   "text": "16. What steps she is taking to increase security in schools against bomb threats.",
+   "name": "Will Stone",
+   "party": "Lab",
+   "seat": "Swindon North"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Stephen Morgan)",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Safeguarding children in schools is a priority for this Government, and schools have a critical role to play in protecting children and keeping them safe. Departmental guidance is clear that schools and colleges should have a policy and an emergency plan in place to manage and respond to security-related incidents.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Will Stone",
+   "member_id": 5035,
+   "type": "Contribution",
+   "text": "I thank the Minister for his response, and for our recent meeting. Given that we have had two fake bomb threats in Swindon, which have obviously had a negative impact on my schools, will he assess the current guidance so that we can learn lessons from what has happened in Swindon and improve that guidance for the future?",
+   "name": "Will Stone",
+   "party": "Lab",
+   "seat": "Swindon North"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for our meeting last week. As I explained to him then, the Department for Education publishes the protective security and preparedness guidance, which sets out how schools should respond to bomb threats and how to embed a security culture. Action Counters Terrorism for Education e-learning, which includes information on what to do in the event of a bomb threat, is also available to all school staff.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Alison Hume (Scarborough and Whitby) (Lab)",
+   "member_id": 5254,
+   "type": "Contribution",
+   "text": "18. What steps she is taking to help rebuild schools.",
+   "name": "Alison Hume",
+   "party": "Lab",
+   "seat": "Scarborough and Whitby"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Stephen Morgan)",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "This Government have made a long-term commitment to improve the condition of schools and colleges. We are investing almost £20 billion in the school rebuilding programme through to 2035, delivering rebuilding projects at over 500 schools across England, including eight schools in Scarborough and Whitby. A further 250 schools will be selected within the next two years. By 2035, we will also be investing almost £3 billion per year in capital maintenance for schools and colleges, and that figure will rise to £2.4 billion this year.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Alison Hume",
+   "member_id": 5254,
+   "type": "Contribution",
+   "text": "Springhead sixth form in Scarborough has been rated outstanding for the education and care it provides for students with complex special educational needs and disabilities. The staff are amazing, but the sixth form is housed in an old and unsuitable building. When I visited Springhead, I saw one student being tutored in a modified corridor due to overcrowding. What steps is the Minister taking to ensure that pupils with special educational needs are educated in school buildings that can match those needs?",
+   "name": "Alison Hume",
+   "party": "Lab",
+   "seat": "Scarborough and Whitby"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "We have increased funding to improve the condition of schools to £2.1 billion for 2025-26, which includes more than £7 million for North Yorkshire to invest in its maintained schools, including Springhead. North Yorkshire has also been allocated £6.8 million for 2025-26 to provide suitable and accessible school places for pupils with SEND who require alternative provision.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Tom Gordon (Harrogate and Knaresborough) (LD)",
+   "member_id": 5032,
+   "type": "Contribution",
+   "text": "A number of years ago, Woodfield school in Bilton in my constituency was closed. It has been rebuilt as a specialist school for children with autism. It was meant to open in September last year, but that was delayed until September this year. Will the Minister meet me and confirm whether it will open on time this September?",
+   "name": "Tom Gordon",
+   "party": "LD",
+   "seat": "Harrogate and Knaresborough"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I am happy to meet the hon. Member.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "David Davis (Goole and Pocklington) (Con)",
+   "member_id": 373,
+   "type": "Contribution",
+   "text": "19. What assessment she has made of the potential impact of proposed reforms to education, health and care plans on children with SEND.",
+   "name": "David Davis",
+   "party": "Con",
+   "seat": "Goole and Pocklington"
+  },
+  {
+   "who": "The Minister for School Standards (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Given the “lose, lose, lose” system that the last Government left behind—in their own words—we are working hard to reform the system so that every child can achieve and thrive. Any reform will be guided by how we improve support for children with SEND. There will always be a legal right to additional support, which this Government will protect.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "David Davis",
+   "member_id": 373,
+   "type": "Contribution",
+   "text": "Given that answer, I will quote the Secretary of State. She was saying earlier that the system is so distorted that the financial allocations do not reflect the real needs of children. That means that local authorities have huge deficits through no fault of their own; they are trying to do their job. When she comes up with her new policy in the autumn, will she commit to writing off those deficits so that those authorities can do the job in the future?",
+   "name": "David Davis",
+   "party": "Con",
+   "seat": "Goole and Pocklington"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "As part of our reforms, we will commence a phased transition process, which will include working with local authorities to manage their SEND systems, including their deficits, alongside an extension to the statutory override until the end of 2027-28. We will set out more details about the plan for how we will support local authorities with the historical and accruing deficits accumulated under the last Government and since, due to the appalling situation that we inherited.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Jen Craft (Thurrock) (Lab)",
+   "member_id": 5056,
+   "type": "Contribution",
+   "text": "On Friday I had the privilege of spending a good few hours with SEND parents in my constituency, talking about what does not work under the current system and what we would like to see changed. There was a lot of frustration and a lot of tears. They were honest and open about their upset at the current system, but there were also a lot of ideas and a determination to make change happen, so that those who come after us do not have to go through the same stress and anxiety that we do as SEND parents. Will the Secretary of State guarantee that the voices of parents, carers and families will be integral to forming the schools White Paper that is due out in the autumn?",
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I can give my hon. Friend that reassurance. I know that she is incredibly passionate about improving the SEND system, and this Government share that passion. We are not only determined to restore the trust of parents by ensuring that schools and local areas can better identify and support children; we are also working with parents and families to create that system, which we know will improve outcomes for children and their families.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Peter Prinsley (Bury St Edmunds and Stowmarket) (Lab)",
+   "member_id": 5163,
+   "type": "Contribution",
+   "text": "21. What steps she is taking to support young people into apprenticeships.",
+   "name": "Peter Prinsley",
+   "party": "Lab",
+   "seat": "Bury St Edmunds and Stowmarket"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Janet Daby)",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "Labour is rebalancing opportunities towards young people, giving them the skills they need to get on. Apprenticeship starts, achievements and participation are all up under this Government. From August, we are introducing foundation apprenticeships to support young people into careers in critical sectors, such as construction and health and social care.",
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Peter Prinsley",
+   "member_id": 5163,
+   "type": "Contribution",
+   "text": "I feel sure that the Minister is aware that the outstanding West Suffolk college in Bury St Edmunds, with more than 10,000 enrolled students, is part of the outstanding Eastern Education Group, under the leadership of Nikos Savvas. Does she agree that West Suffolk college is an outstanding candidate to be awarded the status of being the construction technical college of excellence for the east of England? That would boost skills in construction, which are crucial for the new West Suffolk hospital and the Sizewell C construction site, which is the largest construction site in Europe.",
+   "name": "Peter Prinsley",
+   "party": "Lab",
+   "seat": "Bury St Edmunds and Stowmarket"
+  },
+  {
+   "who": "Janet Daby",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for his questions and, indeed, for his lobbying. Labour’s technical excellence colleges will be crucial to our plans to rewire our school system to unlock opportunity for young people and drive growth for our country. My hon. Friend is right: West Suffolk College is an outstanding provider, and I am sure that its remarkable achievements will be considered during the selection of our technical excellence colleges.",
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Dr Caroline Johnson (Sleaford and North Hykeham) (Con)",
+   "member_id": 4592,
+   "type": "Contribution",
+   "text": "Degree apprenticeships are great for social mobility and for matching skills to the economy, and I am such a fan of them that I created one in my parliamentary office. Would the Secretary of State like to take the time for congratulate Jack Kellas, who has achieved not just a distinction in his apprenticeship but a first-class honours degree from the University of Lincoln, and will she do all that she can to ensure that more people have opportunities to take part in degree apprenticeships and achieve the same success as Jack?",
+   "name": "Dr Caroline Johnson",
+   "party": "Con",
+   "seat": "Sleaford and North Hykeham"
+  },
+  {
+   "who": "Janet Daby",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for sharing Jack Kellas’s wonderful achievement. Level 6 apprenticeships are a core part of our offer, and we continue to fund them.",
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Lee Anderson (Ashfield) (Reform)",
+   "member_id": 4743,
+   "type": "Contribution",
+   "text": "T1. If she will make a statement on her departmental responsibilities.",
+   "name": "Lee Anderson",
+   "party": "Reform",
+   "seat": "Ashfield"
+  },
+  {
+   "who": "The Secretary of State for Education (Bridget Phillipson)",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "With your permission, Mr Speaker, I would like first to address last week’s tragic incident in Minehead. I am sure that all Members will join me in offering support and prayers to everyone affected by the Minehead middle school bus crash last Thursday. Our deepest sympathies and condolences go to all those affected at the school and in the wider community, and particularly to the family and friends of the 10-year-old boy who tragically lost his life. Most of the injured have now been released from hospital. Support has already been put in place for those affected, and it will continue into the summer break and beyond. I extend my thanks to everyone involved in co-ordinating and delivering this vital help, and I also pay tribute to the emergency services for their incredible response in the most challenging of circumstances. This Labour Government believe that children growing up in our country deserve the very best start in life, which is why we are investing nearly £1.5 billion over the next three years to transform early years and family services. That will include £500 million to roll out Best Start family hubs in every local authority, honouring the proud legacy of Sure Start a",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Lee Anderson",
+   "member_id": 4743,
+   "type": "Contribution",
+   "text": "Last week I visited the Outwood academy school in Kirkby-in-Ashfield, which has gone from double special measures to “good” in just three years under the leadership of the Outwood Grange Academies Trust. Will the Secretary of State please say a big thank you to the trust, and the staff, for helping to turn the school around and giving the children in my town the education that they deserve?",
+   "name": "Lee Anderson",
+   "party": "Reform",
+   "seat": "Ashfield"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Like the hon. Gentleman, I welcome the hard work of our teachers, leaders and support staff, and I am always pleased to hear about improvements in standards. This Government are ambitious for every child, and our new regional improvement in standards and excellence teams are working across schools to bring together leaders with experience in turning schools around. What I would say to the hon. Gentleman’s constituents is that, thanks to this Labour Government, thousands of children will now benefit from free school meals, the new breakfast club that is opening in his constituency will be a big boost to his constituents, and we are delivering new funding for Best Start family hubs. That is the difference that a Labour Government are making for his constituents.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Andrew Lewin (Welwyn Hatfield) (Lab)",
+   "member_id": 5061,
+   "type": "Contribution",
+   "text": "T2. It remains a reality that it is possible to take a GCSE in Russian but not in Ukrainian, and I have resolved to do my part to help because I believe that a Ukrainian GCSE should be available to all. As this is a topical question, I bring some encouraging news: I have written to all the exam boards—",
+   "name": "Andrew Lewin",
+   "party": "Lab",
+   "seat": "Welwyn Hatfield"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "Order. Topical questions should be quick.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Andrew Lewin",
+   "member_id": 5061,
+   "type": "Contribution",
+   "text": "It will be, Mr Speaker, absolutely—topical and quick. AQA has reported back to me that it is very open to the idea, but it needs to see evidence that we have enough Ukraine-speaking teachers who are willing to teach the subject and to mark the papers. The good news is that, with support from parliamentary colleagues, I have found 250 teachers who can do just that. Does my hon. Friend agree that it should now be just a matter of time before a Ukrainian GCSE is available to all?",
+   "name": "Andrew Lewin",
+   "party": "Lab",
+   "seat": "Welwyn Hatfield"
+  },
+  {
+   "who": "The Minister for School Standards (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "My hon. Friend clearly knows that the decision to create any new GCSE is made by an independent awarding organisation, but I have also met the Ukrainian Education Minister, and I know how important this issue is to Ukrainian families living in the United Kingdom and to others. The Secretary of State has written to the awarding organisations to encourage them to create a Ukrainian GCSE. I am now well aware of my hon. Friend’s interest in the issue, and I am more than happy to convey it as well.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the shadow Secretary of State.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Laura Trott (Sevenoaks) (Con)",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "I completely support the Secretary of State’s opening words, and my thoughts and prayers are with all those affected by the devastating incident. Government documents state that the first step in achieving their primary school readiness mission is meeting their target of recruiting 6,500 teachers. The Secretary of State claimed at the last oral questions that she has always been clear that the 6,500 teachers are in secondary schools. If that is true, can she explain how secondary school teacher recruitment contributes to improving primary school readiness for four-year-olds?",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "This Labour Government are delivering the teachers that are desperately needed right across our schools. We were left behind a terrible crisis when it came to recruitment and retention, but this Labour Government know that improving standards in our schools requires having the best possible teachers available to teach all our children. That is why we delivered a pay award, and why we are making sure that we are tackling all the issues around workload. We are getting on and delivering the plan for change. The right hon. Lady comes here with the same relentless negativity week in, week out. We are delivering new free breakfast clubs, free school meals, cheaper uniforms, high-quality childcare and more apprenticeships. That is the difference the Labour Government are making.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Laura Trott",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "This is farcical. Will the Secretary of State finally admit that the original pledge to hire 6,500 teachers included primary school teachers, and that the Government are now abandoning their pledge? The reality is that, according to their own website, there are 400 fewer teachers than last year.",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "There are 60,000 fewer children in primary schools this year. I know the right hon. Lady was at the Treasury, so I would expect a bit more when it comes to her maths. It would be nonsensical to recruit even more primary school teachers when we have falling rolls. We are focusing our efforts where they are needed, and I am delighted that we are seeing big increases in the number of secondary maths teachers, secondary physics teachers and secondary STEM teachers. There are big increases right across the board—that is what Labour is delivering.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Danny Beales (Uxbridge and South Ruislip) (Lab)",
+   "member_id": 5339,
+   "type": "Contribution",
+   "text": "T5. Last week, I had the pleasure of hosting in Parliament the Outcomes First Group, a group of specialist SEND schools. They presented their proposals for fixing the broken SEND system, including supporting more children in mainstream education, supporting collaboration between schools and upskilling teachers. Does the Minister agree that those are exactly the sorts of changes that are needed to fix the SEND system, and will she meet me and the school in my constituency to learn more?",
+   "name": "Danny Beales",
+   "party": "Lab",
+   "seat": "Uxbridge and South Ruislip"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Indeed, we are building a reformed system in which children and young people’s needs will be identified early, so that evidence-based support can be provided at the earliest opportunity. Earlier this year, I was pleased to open Benton House, a special school in my constituency that is also run by the Outcomes First Group. It was great to see such a well-resourced facility supporting children with complex needs. I would be delighted to hear more about the work in my hon. Friend’s constituency and the proposals.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "Order. Please, we have to try to get in as many Members as possible. I call the Liberal Democrat spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I echo the Secretary of State’s remarks about the tragedy in Minehead. My thoughts and prayers are with all those affected. Every parent who puts a baby into childcare wants to know that they are safe. In the light of the crucial role that CCTV played in the harrowing case at Twickenham Green nursery in my constituency, which resulted in a nursery worker being convicted of 21 counts of child cruelty last month, and in the tragic case of Gigi Meehan in Cheadle, will the Secretary of State commit to issuing fresh guidance to nurseries on the use and regular monitoring of CCTV footage?",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Stephen Morgan)",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "The hon. Member will know that I met the family of Genevieve Meehan recently. That was a tragic case. We need to make sure that we are doing everything we possibly can to protect children in nursery settings. That is why I am pleased that in the “best start in life” strategy, published just two weeks ago, we committed to have early years settings inspected within 18 months and, indeed, within four years. I have offered a meeting with the hon. Member, and I am very happy to discuss these issues further.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Lee Pitcher (Doncaster East and the Isle of Axholme) (Lab)",
+   "member_id": 5233,
+   "type": "Contribution",
+   "text": "T6. Apprenticeships should be open to everyone. I have met too many young people in Doncaster East and the Isle of Axholme who are more than capable of doing the job—they have the hands-on skills, the attitude and the drive to work—but are being held back from apprenticeships because they have to get a grade 4 in English or maths. When will the Government move forward with reforming the rule so that we stop shutting out good people from good jobs just because they did not get a pass in the classroom?",
+   "name": "Lee Pitcher",
+   "party": "Lab",
+   "seat": "Doncaster East and the Isle of Axholme"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Janet Daby)",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "I absolute agree with my hon. Friend. This Government will indeed stop shutting good people out of good jobs. He is probably aware that the Department funds apprentices to achieve a qualification as part of their training. We do not set entry requirements; these are decisions for employers. However, we have allowed for more flexibility in English and maths requirements for adults aged 19 and over.",
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Alex Brewer (North East Hampshire) (LD)",
+   "member_id": 5263,
+   "type": "Contribution",
+   "text": "T4. Children in receipt of funds from the adoption and special guardianship support fund often have significant mental health, wellbeing and educational needs. For many of these children, their individual therapy is the single biggest factor enabling them to continue at school. What assessment has the Minister made of the implications of cutting funding for this therapy?",
+   "name": "Alex Brewer",
+   "party": "LD",
+   "seat": "North East Hampshire"
+  },
+  {
+   "who": "Janet Daby",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "The adoption and special guardianship support fund provides valuable therapeutic support to children and families, which is why we have committed to continuing the £50 million to this financial year. We have been holding discussions with key stakeholders, and we will soon announce the next steps for the fund.",
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Gareth Snell (Stoke-on-Trent Central) (Lab/Co-op) [R]",
+   "member_id": 4595,
+   "type": "Contribution",
+   "text": "T7. As well as being the governor of a sixth-form college, I am proud to be a governor of the Abbey Hill special school in Stoke-on-Trent—I draw the House’s attention to my entry in the Register of Members’ Financial Interests accordingly—which is why I was so appalled by the comments of the Reform UK chairman that children with special needs are “naughty children”, often as the result of “bad parenting”. Can I invite the Secretary of State to condemn those comments, and to reaffirm our support for those children and parents?",
+   "name": "Gareth Snell",
+   "party": "Lab/Co-op",
+   "seat": "Stoke-on-Trent Central"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I join my hon. Friend in condemning those remarks. I am aware that the Reform UK leader said, in similar comments, “I’m not being heartless, I’m being frank”. Well, I will be frank: Reform UK would plunge the SEND system into further disarray. Only Labour will back the children with SEND who need support.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "John Cooper (Dumfries and Galloway) (Con)",
+   "member_id": 5358,
+   "type": "Contribution",
+   "text": "T9. The citizenAID first aid charity provides excellent education in emergency situations to children and young people. I have written to the Scottish education department to invite it to introduce it to the curriculum. Is there any interest from the Department for Education down here?",
+   "name": "John Cooper",
+   "party": "Con",
+   "seat": "Dumfries and Galloway"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "If the hon. Gentleman would write to me, I will look into that further.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Baggy Shanker (Derby South) (Lab/Co-op)",
+   "member_id": 5176,
+   "type": "Contribution",
+   "text": "T8. Meaningful work experience can be a life changer for our young children, cutting the risk of their being out of education, employment or training. The Derby Promise is hard at work linking schools with employers to raise the aspirations of our young people. Does the Minister agree with me, and does she recognise the valuable work that the Derby Promise delivers in opening doors for young people?",
+   "name": "Baggy Shanker",
+   "party": "Lab/Co-op",
+   "seat": "Derby South"
+  },
+  {
+   "who": "Janet Daby",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "I do indeed agree with my hon. Friend, and I applaud him for the work he did on the Derby Promise before he entered this place and for all he has done for children in Derby South since. I am delighted that employers such as Rolls-Royce have signed up to the Derby Promise to bring industry closer to young people and to inspire their future careers.",
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Sir John Whittingdale (Maldon) (Con)",
+   "member_id": 39,
+   "type": "Contribution",
+   "text": "T10. Essex has seen a huge increase in the number of requests for education, health and care needs assessments, and is failing to meet the target, in part due to the difficulty of recruiting educational psychologists. Rather than trying to bury the problem by scrapping education, health and care plans, can the Minister say what the Government are doing to meet that need?",
+   "name": "Sir John Whittingdale",
+   "party": "Con",
+   "seat": "Maldon"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The right hon. Gentleman is pre-empting decisions before they have been made. We have not made decisions about the future of EHCPs. We are listening carefully and working with the sector to make sure we have the workforce in the system and the support systems to identify needs early. We will continue to do that, and we will work with families to design a system that works, rather than the one we inherited.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Rachael Maskell (York Central) (Ind)",
+   "member_id": 4471,
+   "type": "Contribution",
+   "text": "York is seeking to advance new models of support for children with SEND that are inclusive and provide opportunity, including greater curriculum flexibility to deliver a broader education in small groups and a life skills curriculum so children are equipped to navigate the world around them safely. Would the Minister support City of York council to deliver such measures?",
+   "name": "Rachael Maskell",
+   "party": "Ind",
+   "seat": "York Central"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The hon. Lady will know that a curriculum and assessment review is currently being undertaken by an independent panel. We are keen that the curriculum is broad and rich, but also inclusive. We will be responding when the panel reports with its recommendations in the autumn.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Sir Julian Lewis (New Forest East) (Con)",
+   "member_id": 54,
+   "type": "Contribution",
+   "text": "When the Secretary of State talks of such a large reduction in the number of anticipated future primary school pupils, does she attribute any part of that to a wish by certain communities to develop a parallel education system, rather than engaging in full integration with this country?",
+   "name": "Sir Julian Lewis",
+   "party": "Con",
+   "seat": "New Forest East"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am not quite clear what the right hon. Gentleman is driving at with that question. What I have said in response to the very sharp decline in the birth rate is that as a Government we want to make sure that people are able to make choices that are right for them, including around family size. My concern is that too many young people, because of the inaccessibility of housing and the challenges they face in the jobs market, are making decisions they do not necessarily want to make. That is why the expansion of childcare, for example, is a critical part of how we are supporting families.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Claire Hazelgrove (Filton and Bradley Stoke) (Lab)",
+   "member_id": 5306,
+   "type": "Contribution",
+   "text": "Those working in our schools in South Gloucestershire do a brilliant job, but they receive the lowest funding per pupil in all of England via a funding formula inherited from the previous Government. Does the Minister have plans to review the formula as part of the impactful wider work to ensure that every child receives the education they need to thrive, no matter where they live?",
+   "name": "Claire Hazelgrove",
+   "party": "Lab",
+   "seat": "Filton and Bradley Stoke"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "We recognise that schools are working incredibly hard to deliver in their communities. There is a whole range of factors that impact school funding, including their rural or urban nature and pupil numbers; we have discussed declining rolls. We will continue to keep the school funding formula under review. That does take time and it has to be done very carefully to ensure certainty for schools about their funding planning.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Ben Obese-Jecty (Huntingdon) (Con)",
+   "member_id": 5089,
+   "type": "Contribution",
+   "text": "Last year, 565 EHCPs were issued in Cambridgeshire, with fewer than 10% completed within the statutory 20-week deadline. Cambridgeshire county council now ranks as the 10th worst nationally for meeting the timelines on their delivery. With 99% of SEND tribunals finding in favour of the parent, what steps is the Secretary of State taking to improve the process that sees so many applications require a tribunal, and to improve the delivery of EHCPs in Cambridgeshire, assuming they are not going to be scrapped in mainstream schools?",
+   "name": "Ben Obese-Jecty",
+   "party": "Con",
+   "seat": "Huntingdon"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Until that final point, I thought the hon. Gentleman raised some serious concerns, which we have heard this afternoon from many colleagues across the House who need us to bring forward reform to deliver better outcomes for children with SEND. If the Conservative party wants to work with us to do this in a way that delivers a better system for children with SEND, I would be very happy to do so, but at the moment all we seem to get is opposition for opposition’s sake.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Laurence Turner (Birmingham Northfield) (Lab)",
+   "member_id": 5234,
+   "type": "Contribution",
+   "text": "Victoria college in my constituency is one of the relatively small number of SEND specialist further education colleges in the country. It does outstanding work. For many years, such colleges have not had access to dedicated capital grant funding. Will the Minister be so good as to look into the issue and agree to meet me to discuss it further?",
+   "name": "Laurence Turner",
+   "party": "Lab",
+   "seat": "Birmingham Northfield"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Ensuring that schools and colleges have the resources and buildings they need is a key part of our mission to break down barriers to opportunity. I will be very happy to meet my hon. Friend to discuss these issues further.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Shockat Adam (Leicester South) (Ind)",
+   "member_id": 5120,
+   "type": "Contribution",
+   "text": "Sadly, both universities in my constituency, De Montfort University and Leicester University, are on the verge of making hundreds of redundancies and even shutting down complete faculties. What financial commitment is the Department making to secure academic jobs, especially in subjects such as chemistry, humanities and languages, rather than making short-term cuts?",
+   "name": "Shockat Adam",
+   "party": "Ind",
+   "seat": "Leicester South"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "The hon. Gentleman will appreciate that universities are independent institutions that are able to make their own decisions around financial management. As a Government, we have sought to stabilise the higher education sector. That is why we took the difficult but necessary decision to increase tuition fees. Later this year, we will be publishing a post-16 strategy that will deal with many of his questions.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Laura Kyrke-Smith (Aylesbury) (Lab)",
+   "member_id": 5341,
+   "type": "Contribution",
+   "text": "Last week, I heard from a mum who applied for an EHCP for her son in December and was told it would be ready in June. She has now been informed by Buckinghamshire council that he remains unallocated, with 789 children ahead of him. I am very grateful to the Secretary of State for the work she is doing to grip and reform the SEND system, but can she talk more about her ambitions to support people caught in the horrible waiting game for EHCPs?",
+   "name": "Laura Kyrke-Smith",
+   "party": "Lab",
+   "seat": "Aylesbury"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We have heard this afternoon from my hon. Friend and so many Members across the House about the urgent need to make improvements for children with SEND. We are laying the foundations with more investment in the system, through both the high needs budget and capital, so we have the places that are needed. There is, of course, much we are doing right now with councils to improve some of the unacceptable waits that parents currently face.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Greg Smith (Mid Buckinghamshire) (Con)",
+   "member_id": 4778,
+   "type": "Contribution",
+   "text": "The superb John Hampden school in Wendover reports that it is running a £109,000 deficit supporting students with significant SEND while they await assessments. However, it is an infant-only school, and the money often does not come through until the pupils have moved up to a junior school. Will the Minister look at how the system is working for infant-only schools, to make the system fairer?",
+   "name": "Greg Smith",
+   "party": "Con",
+   "seat": "Mid Buckinghamshire"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "As we have said, we are looking at reforms to the system; we recognise that there are challenges right across the system that we inherited. We know that families face challenges in securing support and that schools face challenges, too. We will look at every detail and announce reforms in the White Paper in the autumn.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr James Frith (Bury North) (Lab)",
+   "member_id": 4637,
+   "type": "Contribution",
+   "text": "I recently hosted a series of engagements and roundtables on the SEN reforms, and it is impossible to ignore the sheer size of the problems this Government are confronting. Will the Secretary of State confirm that the legal right to specialist support will remain a core principle of every child’s entitlement as Labour rebuilds this broken system and that we will go further, delivering real outcomes, genuine inclusion and an SEN system built to serve families, not fail them?",
+   "name": "Mr James Frith",
+   "party": "Lab",
+   "seat": "Bury North"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to my hon. Friend for the work he has done in this area over many years and for the way he champions this cause here on behalf of his constituents. I can confirm that children with SEND have a legal right to additional support and that Labour will protect that. He will appreciate that discussions are under way with families, campaigners and school leaders to ensure that we get this system right—a better system with strengthened support and more timely intervention and early identification of need. It is clear this afternoon that that mission is urgent, and that we need to deliver better outcomes for children with SEND. I look forward to working with my hon. Friend on that.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  }
+ ],
+ "fetched": "2026-10-21T20:26:50Z"
+}

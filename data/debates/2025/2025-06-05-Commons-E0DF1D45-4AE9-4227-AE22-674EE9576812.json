@@ -1,0 +1,1129 @@
+{
+ "ext_id": "E0DF1D45-4AE9-4227-AE22-674EE9576812",
+ "date": "2025-06-05",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Free School Meals",
+ "parents": [
+  "Commons Chamber"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2025-06-05/debates/E0DF1D45-4AE9-4227-AE22-674EE9576812/FreeSchoolMeals",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education",
+   "member_id": 4653
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 467
+  },
+  {
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston",
+   "member_id": 4679
+  },
+  {
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood",
+   "member_id": 4510
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East",
+   "member_id": 5152
+  },
+  {
+   "name": "Bob Blackman",
+   "party": "Con",
+   "seat": "Harrow East",
+   "member_id": 4005
+  },
+  {
+   "name": "Emma Lewell",
+   "party": "Lab",
+   "seat": "South Shields",
+   "member_id": 4277
+  },
+  {
+   "name": "Lisa Smart",
+   "party": "LD",
+   "seat": "Hazel Grove",
+   "member_id": 5070
+  },
+  {
+   "name": "Rachel Hopkins",
+   "party": "Lab",
+   "seat": "Luton South and South Bedfordshire",
+   "member_id": 4873
+  },
+  {
+   "name": "Kirsty Blackman",
+   "party": "SNP",
+   "seat": "Aberdeen North",
+   "member_id": 4357
+  },
+  {
+   "name": "Mrs Sharon Hodgson",
+   "party": "Lab",
+   "seat": "Washington and Gateshead South",
+   "member_id": 1521
+  },
+  {
+   "name": "Dr Caroline Johnson",
+   "party": "Con",
+   "seat": "Sleaford and North Hykeham",
+   "member_id": 4592
+  },
+  {
+   "name": "Adam Jogee",
+   "party": "Lab",
+   "seat": "Newcastle-under-Lyme",
+   "member_id": 5168
+  },
+  {
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate",
+   "member_id": 5140
+  },
+  {
+   "name": "Ian Lavery",
+   "party": "Lab",
+   "seat": "Blyth and Ashington",
+   "member_id": 4139
+  },
+  {
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire",
+   "member_id": 5249
+  },
+  {
+   "name": "Dame Meg Hillier",
+   "party": "Lab/Co-op",
+   "seat": "Hackney South and Shoreditch",
+   "member_id": 1524
+  },
+  {
+   "name": "Victoria Collins",
+   "party": "LD",
+   "seat": "Harpenden and Berkhamsted",
+   "member_id": 5201
+  },
+  {
+   "name": "Sonia Kumar",
+   "party": "Lab",
+   "seat": "Dudley",
+   "member_id": 5274
+  },
+  {
+   "name": "Shockat Adam",
+   "party": "Ind",
+   "seat": "Leicester South",
+   "member_id": 5120
+  },
+  {
+   "name": "Sean Woodcock",
+   "party": "Lab",
+   "seat": "Banbury",
+   "member_id": 5328
+  },
+  {
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire",
+   "member_id": 5096
+  },
+  {
+   "name": "Dr Lauren Sullivan",
+   "party": "Lab",
+   "seat": "Gravesham",
+   "member_id": 5269
+  },
+  {
+   "name": "Marie Goldman",
+   "party": "LD",
+   "seat": "Chelmsford",
+   "member_id": 5073
+  },
+  {
+   "name": "Clive Efford",
+   "party": "Lab",
+   "seat": "Eltham and Chislehurst",
+   "member_id": 165
+  },
+  {
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford",
+   "member_id": 4131
+  },
+  {
+   "name": "Jon Trickett",
+   "party": "Lab",
+   "seat": "Normanton and Hemsworth",
+   "member_id": 410
+  },
+  {
+   "name": "Yasmin Qureshi",
+   "party": "Lab",
+   "seat": "Bolton South and Walkden",
+   "member_id": 3924
+  },
+  {
+   "name": "Paul Waugh",
+   "party": "Lab/Co-op",
+   "seat": "Rochdale",
+   "member_id": 5071
+  },
+  {
+   "name": "Chris Webb",
+   "party": "Lab",
+   "seat": "Blackpool South",
+   "member_id": 5025
+  },
+  {
+   "name": "Jacob Collier",
+   "party": "Lab",
+   "seat": "Burton and Uttoxeter",
+   "member_id": 5077
+  },
+  {
+   "name": "Leigh Ingham",
+   "party": "Lab",
+   "seat": "Stafford",
+   "member_id": 5290
+  },
+  {
+   "name": "Chris Bloore",
+   "party": "Lab",
+   "seat": "Redditch",
+   "member_id": 5109
+  },
+  {
+   "name": "Ben Goldsborough",
+   "party": "Lab",
+   "seat": "South Norfolk",
+   "member_id": 5205
+  },
+  {
+   "name": "Lola McEvoy",
+   "party": "Lab",
+   "seat": "Darlington",
+   "member_id": 5037
+  },
+  {
+   "name": "Jessica Toale",
+   "party": "Lab",
+   "seat": "Bournemouth West",
+   "member_id": 5202
+  },
+  {
+   "name": "Pam Cox",
+   "party": "Lab",
+   "seat": "Colchester",
+   "member_id": 5042
+  },
+  {
+   "name": "Josh Fenton-Glynn",
+   "party": "Lab",
+   "seat": "Calder Valley",
+   "member_id": 5295
+  },
+  {
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire",
+   "member_id": 5195
+  },
+  {
+   "name": "Mark Ferguson",
+   "party": "Lab",
+   "seat": "Gateshead Central and Whickham",
+   "member_id": 5031
+  },
+  {
+   "name": "Jo Platt",
+   "party": "Lab/Co-op",
+   "seat": "Leigh and Atherton",
+   "member_id": 4673
+  },
+  {
+   "name": "Andrew Pakes",
+   "party": "Lab",
+   "seat": "Peterborough",
+   "member_id": 5243
+  },
+  {
+   "name": "Samantha Niblett",
+   "party": "Lab",
+   "seat": "South Derbyshire",
+   "member_id": 5150
+  },
+  {
+   "name": "Josh Dean",
+   "party": "Lab",
+   "seat": "Hertford and Stortford",
+   "member_id": 5187
+  },
+  {
+   "name": "Josh Newbury",
+   "party": "Lab",
+   "seat": "Cannock Chase",
+   "member_id": 5034
+  }
+ ],
+ "contributions": [
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Stephen Morgan)",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "With permission, I will make a statement to update the House on free school meals for children. This is a Government who put children first—they are at the centre of the change that we want to see, because what we do for our children, we do for our country. If we want to break the unfair link between background and success, deliver opportunity to every home and shape a fairer society, that has to start with our children. It has to start with the fundamentals: making sure that every family has a stable, loving home where no child lacks food or warmth. That simple dignity should be the uncontroversial birthright of every child as they grow up in a civilised society, but after 14 long years, that dignity was not universal, nor that birthright uncontroversial. When this Government won the trust of the British people, which Conservative Members forfeited last July, the legacy of the Conservatives’ shameful record in power was a record number of children growing up in poverty. Some 4.5 million children were robbed of opportunity and hope, of life chances and of possibilities. Child poverty is a scar on our society. It is a mark of the failure of Conservative Members to grow the economy, ",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the shadow Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O’Brien (Harborough, Oadby and Wigston) (Con)",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I thank the Minister for advance sight of his statement. The truth is that the families benefiting from today’s announcement are the same ones who are paying for it, because the same group of people are hit hardest by Labour’s national insurance increase. Labour promised not to increase national insurance, but it broke that promise, and someone earning just £13,000 a year will now take home £500 less as a result of the tax increase. Someone on just £9,000 a year—the exact sort of person who is supposed to benefit from this policy—will lose 5% of their income. The Government want to talk about the impact of the money they are giving today on poverty, but they do not want to talk about the impact of the much larger sum of money they are taking away. Disgracefully, they have not done any distributional analysis of the £25 billion that they are taking away, which is particularly targeted at low-income households. Will the Minister say how many households that will push into poverty? Will he finally admit what the figure is? While free school meals are obviously welcome, the things that are being cut to pay for them are much less welcome. For example, the Government broke their promise ",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I cannot believe that I did not hear the Opposition spokesperson welcome our announcement. It is a shame that when the Conservatives were in government tackling child poverty was not considered a priority. I feel a little sorry for the spokesperson, who claims to care about education, given that his only policy is to give private schools a tax break. Indeed, on the Conservatives’ watch, child poverty grew to record highs and they wore the increasing numbers in child poverty as a badge of honour. Frankly, that is shameful. This increase in free school meals is fully funded, and that is possible thanks to the difficult decisions that this Government and the Chancellor have had to take to get the economy growing and put the public finances back on a stable footing. I am excited to hear the Chancellor set out more details next week. That is despite the mess we inherited from the Conservatives. Why has the spokesperson not taken the opportunity today to say sorry for his Government’s shameful record on child poverty? He has nothing to say on education for our country. Unlike them, we will not sit by and watch more children fall into poverty. Unlike them, we are not offering a tax break ",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "Order. I call the Chair of the Education Committee.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Helen Hayes (Dulwich and West Norwood) (Lab)",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "I warmly welcome the expansion of the free school meals entitlement. It is an evidence-based approach for which many of us have campaigned for a long time. It will help to close the disadvantage gap in our schools, tackling child poverty, benefiting children’s health and supporting children to learn. I hope the Government will agree that every child who is eligible for this expanded entitlement should be able to receive that entitlement. Whether or not children get a free school meal to which they are entitled should not depend on somebody else making an application for them through a complicated process. The Government know which families are in receipt of universal credit, so is the Minister considering auto-enrolment for this expanded entitlement? That would be easier to achieve than auto-enrolment under the previous entitlement, and every child really should be able to benefit. Can I seek the Minister’s assurance that this very positive announcement is not an indication that other measures to reduce child poverty, such as scrapping the two-child cap, have been taken off the table? Finally, as a London MP and a former Southwark councillor who was very proud to be part of a counc",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend, the Select Committee Chair, for her constructive comments and for welcoming today’s announcement. Making all children in households claiming universal credit eligible for free school meals makes it straightforward for parents to know whether they are eligible. We are supporting that by taking forward a programme of work, including improvements to our own systems, which will make applying for free schools meals easier than it ever has been. As I mentioned in my statement, our proposals are fully funded. More broadly, we will set out more details in the forthcoming child poverty strategy around a number of the other measures she describes.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the Liberal Democrat spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I, too, thank the Minister for advance sight of the statement. I warmly welcome this announcement, which will make such a difference to the lives of children up and down the country. We know the impact that free school meals can have. A hot, healthy meal in the middle of the day helps children to learn, concentrate and thrive. Making sure a child does not go hungry in school can truly change their life. That is why Liberal Democrats have for so long championed free school meals. That is why we have long called on successive Governments to take this step. That is why this policy was in our election manifesto last year. I am delighted that, even though it was not in Labour’s manifesto, they are taking our idea today. The Liberal Democrats introduced universal infant free school meals when we were in government, and we are today sharing in the joy of the tireless campaigners and struggling families for whom this announcement is such as victory. For far too long, far too many children in this country have gone hungry through the school day. The previous Conservative Government ignored the advice of their own food tsar, Henry Dimbleby, and even Michael Gove, to leave children in poverty",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for welcoming so positively the announcement today. She has been, like so many others in her party, a real champion on these matters. She has made clear in this place how important the policy will be to children’s wellbeing, attainment and attendance, and I of course wholeheartedly agree with her. I note her call for auto-enrolment. She made those points at various intervals during the Committee stage of the Children’s Wellbeing and Schools Bill, and I look forward to working with her to hear her views going forward. We will, of course, continue to improve ways of registering children for free school meals, as I set out earlier, and today’s announcement makes that easier for families and schools. I also pay tribute to school food campaigners, who I meet on a regular basis, for helping to get us to today’s announcement. I look forward to continuing to work with the hon. Lady through the passage of the Children’s Wellbeing and Schools Bill, and to work constructively to improve the life chances of children and young people across our country.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Mrs Sureena Brackenridge (Wolverhampton North East) (Lab)",
+   "member_id": 5152,
+   "type": "Contribution",
+   "text": "In July, I came from the classroom to this Chamber. I have seen the harm that poverty does to children, particularly those from families on universal credit who were not able to claim free school meals, probably because their parents were grafting in low-paid jobs or in insecure work. Does the Minister agree that having 500,000 more children fully entitled to a nutritious school dinner will boost school attendance and help narrow the education gap that widened under the Tories?",
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "My hon. Friend is a real champion for children and young people in her constituency and in this place. As she rightly says, this announcement represents a significant expansion of food support for disadvantaged pupils in schools, reaching more than half a million pupils and lifting 100,000 children out of poverty. It really demonstrates that we are a mission-driven Government. The anti-poverty and pro-learning measure that we have set out today is a downpayment on the child poverty strategy. I look forward to working with my hon. Friend as we deliver this positive change for her constituency.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Bob Blackman (Harrow East) (Con)",
+   "member_id": 4005,
+   "type": "Contribution",
+   "text": "Many of the schools in my constituency have been unable to take up the offer of breakfast clubs because, frankly, they do not have the facilities—either to provide breakfast in the first place or for the children to eat in, which is a real challenge. I want to ask the Minister about one specific issue, because I am concerned that it may create a cliff edge for parents. If the parents of a child attending school qualify for universal credit but then later get jobs, or better-paid jobs, and therefore no longer qualify for universal credit, would that child then lose their eligibility for free school meals? That could create a real problem for many parents and present us with a cliff edge. I am sure that is not the Government’s intention, but we need to make the position clear.",
+   "name": "Bob Blackman",
+   "party": "Con",
+   "seat": "Harrow East"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "The hon. Gentleman sets out the current position and what has happened in the past. What we are announcing today will lift more children out of poverty, because more children will be eligible for free school meals. He makes a number of points on breakfast clubs; obviously, we are committed to rolling out the clubs to every primary school in the country. I would be delighted to meet him to hear his particular thoughts and views on how that can make the biggest difference in his constituency.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Emma Lewell (South Shields) (Lab)",
+   "member_id": 4277,
+   "type": "Contribution",
+   "text": "Hungry children do not learn, so I thank the Government for listening to those of us who have long campaigned for this announcement. This Government’s reforms are starting to put more money into people’s pockets, tackling the root causes of poverty, but they will take time to bed in—time that hungry children simply do not have. The Minister knows that poverty is all-encompassing and extends well beyond the school day. Will he give the 470,000 children affected by the cruel two-child benefit cap some hope today that the Government are seriously considering scrapping the cap, and considering scrapping it very soon?",
+   "name": "Emma Lewell",
+   "party": "Lab",
+   "seat": "South Shields"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "As my hon. Friend knows, this Government are determined to bring down child poverty. This is a complex area that we need to get right, and it is not for me to comment on particular speculation at the moment. Extensive work is ongoing on the child poverty strategy, which will be published later this year, and an update in the House will be provided in due course.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Lisa Smart (Hazel Grove) (LD)",
+   "member_id": 5070,
+   "type": "Contribution",
+   "text": "As a Liberal Democrat, I warmly welcome the announcement today. I stood on a manifesto that mentioned this policy at the previous four general elections, and it is good news. However, it would be the best news if the Minister could explain more about what he means by fully funded. I refer the House to my entry in the Register of Members’ Financial Interests, where I proudly report that I am in my 19th year as a primary school governor, so I know that school budgets are stretched to the limit. Will the Minister explain what he means when he says fully funded—does that mean fully funded from existing school budgets?",
+   "name": "Lisa Smart",
+   "party": "LD",
+   "seat": "Hazel Grove"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank the hon. Lady for her question and for her time as a school governor, especially as we mark Volunteers’ Week. The work of school governors up and down the country is invaluable, and they play a particular role in supporting schools’ compliance with school food standards. We currently spend more than £1.5 billion on school food annually, delivering free school meals to around 3.5 million children. We will set out further details on the funding as part of our wider child poverty strategy in due course.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Rachel Hopkins (Luton South and South Bedfordshire) (Lab)",
+   "member_id": 4873,
+   "type": "Contribution",
+   "text": "I welcome this Labour Government’s announcement on expanding eligibility for free school meals to any child with a parent in receipt of universal credit. This expanded entitlement means that nearly 8,500 children in years 3 to 11 in Luton South and South Bedfordshire will be eligible for free school meals. Can the Minister confirm that this expansion will not only support children’s behaviour and attainment, but save their families up to £500 per child per year?",
+   "name": "Rachel Hopkins",
+   "party": "Lab",
+   "seat": "Luton South and South Bedfordshire"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "My hon. Friend is a real champion for children and young people in her constituency. She is absolutely right to set out the differences in the cost of living that this policy will make for parents; as she suggests, it will also have real benefits in behaviour, attendance and attainment, as I set out in my statement.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Kirsty Blackman (Aberdeen North) (SNP)",
+   "member_id": 4357,
+   "type": "Contribution",
+   "text": "The Minister has today made a big thing about every family in every corner of our country, and he has talked about how widespread this change will be. A small number of additional people in England will be able to get additional free school meals. I am glad that the Government have extended eligibility, but it does not have the geographical reach that he is trying to make out. Were he to remove the two-child benefit cap, that would have an effect in every part of these islands, reducing poverty in every constituency. Why is this issue being kicked into the long grass? He is making an announcement on free school meals, but the Government are refusing to make announcements on the child poverty strategy that was promised in the spring.",
+   "name": "Kirsty Blackman",
+   "party": "SNP",
+   "seat": "Aberdeen North"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Wasn’t that a nice try, Madam Deputy Speaker? Let us be clear: we are taking urgent action in the light of the scar of poverty on our society. We have the spending review next week, and the child poverty strategy will conclude in due course.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Kirsty Blackman",
+   "member_id": 4357,
+   "type": "Contribution",
+   "text": "When?",
+   "name": "Kirsty Blackman",
+   "party": "SNP",
+   "seat": "Aberdeen North"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "If the hon. Lady had listened carefully to my statement, she would know that I said we will be announcing further details on the strategy later this year.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Mrs Sharon Hodgson (Washington and Gateshead South) (Lab)",
+   "member_id": 1521,
+   "type": "Contribution",
+   "text": "I have chaired the all-party parliamentary group on school food since setting it up in 2010, so I know all too well the many benefits of free school meals, from the economic to health benefits—it is why I have campaigned for more than 18 years to extend free school meal provision. Providing more children than ever with free, healthy, hot and nutritious meals can be truly life changing. In my constituency, the provision will extend to a further 5,460 children, which is very welcome indeed, so I thank the Minister and our Government. Does the Minister agree that this down payment on the child poverty strategy is only the start of this Government’s mission to lift as many children out of poverty as possible, just as the previous Labour Government did?",
+   "name": "Mrs Sharon Hodgson",
+   "party": "Lab",
+   "seat": "Washington and Gateshead South"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "My hon. Friend has been a real champion on school food issues ever since she was elected to this place. I had the pleasure of meeting her recently, along with campaigners she suggested I meet on these very points, so I know that her lobbying has directly influenced our outcomes today. We are making this announcement because of tough and necessary decisions that the Chancellor has had to make. It is a step in the right direction, and we will set out more detail on the child poverty strategy in due course.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Dr Caroline Johnson (Sleaford and North Hykeham) (Con)",
+   "member_id": 4592,
+   "type": "Contribution",
+   "text": "I am delighted that more children will have school meals at lunch time. It is great for pupils to be well fed—as a paediatrician, I see the value of that. However, I want to ask about transitional protection and money. The transitional protection will take 1.2 million children out of this category; some may go back into it with UC. However, the robbing of the money from pupil premiums will leave schools £1.5 billion short. How does the Minister intend to replace that £1.5 billion for schools so that children can get a good education as well as school meals?",
+   "name": "Dr Caroline Johnson",
+   "party": "Con",
+   "seat": "Sleaford and North Hykeham"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank the hon. Lady for her question—I think I have finally heard from someone who is actually delighted by today’s announcement. On transitional protections, it is worth saying that the Department will expand free school meal eligibility from September 2026 so that all children in households in receipt of universal credit can benefit from a free nutritious lunch. As a temporary measure, we will extend transitional protections, meaning that households that are on universal credit and meet the current earned income threshold of £7,400 will keep their free school meals, regardless of any change in circumstances. Following an expansion of eligibility from September next year, our intention is to end all protections.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Adam Jogee (Newcastle-under-Lyme) (Lab)",
+   "member_id": 5168,
+   "type": "Contribution",
+   "text": "Tackling poverty and inequality is in our DNA, and it is why many Members on the Government Benches are in this place. I welcome this announcement, as I know the more than 3,000 children and their families who will benefit in Newcastle-under-Lyme will welcome it, too. It is good for health, good for educational attainment and, importantly, good for the futures of our young people. I very much agree with the point on auto-enrolment made by the Chair of the Select Committee, my hon. Friend the Member for Dulwich and West Norwood (Helen Hayes). With that in mind, I ask the Minister to speak to his officials and find some time to come and see the benefits of our commitment to tackling child poverty in Newcastle-under-Lyme for himself when this announcement is rolled out next year.",
+   "name": "Adam Jogee",
+   "party": "Lab",
+   "seat": "Newcastle-under-Lyme"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for his question. I am keen to ensure that we learn from the best in local government, as we have been on auto-enrolment activity especially. As I mentioned earlier, today’s announcement will make the whole process of applying for free school meals much simpler and easier for parents, but we will certainly take on board my hon. Friend’s comments. I would be very happy to meet him to discuss these issues further.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "After this, we have two Select Committee statements and two Backbench Business debates. If colleagues do not keep their questions short, they are just denying others the opportunity to speak.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Claire Young (Thornbury and Yate) (LD)",
+   "member_id": 5140,
+   "type": "Contribution",
+   "text": "Vulnerable children spend many weeks each year—during the holidays—not at school. My own Liberal Democrat-Labour partnership local authority provides funding in the form of vouchers during the school holidays. Will the Government take this opportunity to end holiday hunger and provide funding for food during the holidays?",
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "We have invested more than £200 million in the holiday activities and food programme, which supports children, offers enrichment opportunities and provides good-quality food during the Christmas, Easter and summer provision. That is a fantastic programme that I know Members across this House welcome, and a key part of our plan to ensure that every child can succeed and thrive.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Ian Lavery (Blyth and Ashington) (Lab)",
+   "member_id": 4139,
+   "type": "Contribution",
+   "text": "I warmly welcome this fantastic news this morning. I think the Minister mentioned that child poverty is a scourge of society, and of course it is. It is a blight on the UK that we have so many kids who do not have a full belly when they go to school. Some 6,000 children in my constituency will now benefit from this announcement. However, can the Minister confirm that this is only the first step on a long road to universal free school meals for all children in the UK?",
+   "name": "Ian Lavery",
+   "party": "Lab",
+   "seat": "Blyth and Ashington"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Extensive work is ongoing on child poverty, and we will publish our strategy later this year. As part of that, we are considering all available levers to give every child the best start in life—whether that is on affordable housing, the cost of energy bills or supporting more parents to work. That, I think, is the change that our country needs.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Ellie Chowns (North Herefordshire) (Green)",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "I welcome today’s announcement. It is a small step in the right direction, but what we need is a giant leap to end child poverty. If the Minister were serious about that, he knows what he needs to do: scrap the two-child benefit cap. That would lift 400,000 children out of poverty. The Green party has long campaigned for universal free school meals. We know that the health, education and productivity benefits would more than pay for that policy. The benefits would be £1.71 for every pound invested, according to PricewaterhouseCoopers. Will the Minister consider the moral and economic case for free school meals to be made universal? And, while he is at it, will he scrap the cruel two-child benefit cap?",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "As the hon. Member will have heard earlier, I will not comment on speculation. Extensive work is under way on the child poverty strategy, which will conclude later this year. I describe this not as a small step today, but as an historic moment, as we lift 100,000 children out of poverty and make sure that more children across the country can access free school meals. I am delighted that so many are welcoming our announcement today.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Dame Meg Hillier (Hackney South and Shoreditch) (Lab/Co-op)",
+   "member_id": 1524,
+   "type": "Contribution",
+   "text": "With one in two children in my constituency living in poverty, we now have a downpayment with a breakfast club funded by the Government at Thomas Fairchild community school and thousands of children are benefiting. I am pleased that the Secretary of State has agreed with Henry Dimbleby, who opened the “chefs in schools” programme in Hackney, that we need to keep nutrition at the top of the list. My hon. Friend the Chair of the Education Committee highlighted that this is evidence-based policy. We know that the evidence on child poverty shows that removing the two-child limit will lift most children out of poverty. Can the Minister reassure us that he is really looking at that evidence, working with the Department for Work and Pensions, to make sure that this announcement is just the down- payment on tackling child poverty?",
+   "name": "Dame Meg Hillier",
+   "party": "Lab/Co-op",
+   "seat": "Hackney South and Shoreditch"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "As always, my hon. Friend comes at this from a very informed position. It was a real pleasure to visit a school in Hackney recently to see at first hand the brilliant work of the “chefs in schools” programme. That is why I am so delighted to say that we will be announcing further details on our school food standard work to update that guidance in due course. She mentions breakfast clubs. We have obviously tripled funding into breakfast clubs to over £30 million in this financial year, and we are making huge progress in delivering that through our early adopter scheme.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Victoria Collins (Harpenden and Berkhamsted) (LD)",
+   "member_id": 5201,
+   "type": "Contribution",
+   "text": "I welcome this announcement from the Government and celebrate the success of the Liberal Democrats, who for many years have campaigned on this policy, including my hon. Friend the Member for Twickenham (Munira Wilson), who has been so passionate about this issue. Indeed, this is a step in the right direction. My constituency of Harpenden and Berkhamsted is often seen as an affluent area, but there are pockets of poverty. Charities often say that it is harder in those areas, because not only are costs higher, but deprivation is hidden. Currently, the two-child benefit cap restricts universal support to two children, pushing thousands of families into poverty. Therefore, do these restrictions mean that the third and any subsequent children would not have access to free school meals, or would simply being in a household that receives universal credit be sufficient to qualify?",
+   "name": "Victoria Collins",
+   "party": "LD",
+   "seat": "Harpenden and Berkhamsted"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I can assure the hon. Member that it will be for all children in that household. More broadly, we are introducing breakfast clubs, which is a universal offer in every primary school across the country. Other measures in the Children’s Wellbeing and Schools Bill will cap the number of branded items on school uniform, which I think will make a real difference to the money going into parents’ pockets.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Sonia Kumar (Dudley) (Lab)",
+   "member_id": 5274,
+   "type": "Contribution",
+   "text": "I warmly welcome this statement. In my constituency, more than a quarter of all children are living in poverty, so I know that more than 6,000 children in Dudley will now be eligible for free school meals. The extra support will go a long way towards ensuring that our children are eating healthy and nutritious meals to aid their education. Will my hon. Friend assure me that these free school meals will be low in fat, sugar and salt, in order also to help tackle rising childhood obesity?",
+   "name": "Sonia Kumar",
+   "party": "Lab",
+   "seat": "Dudley"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "If we are to get the benefits right on free school meals, we must ensure that the quality of the food is nutritious for all children. As I mentioned in my statement, this is good for attendance, good for behaviour and good for life chances. I hope my hon. Friend will contribute to the work that we will do in revising the school food standards.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Shockat Adam (Leicester South) (Ind)",
+   "member_id": 5120,
+   "type": "Contribution",
+   "text": "Sadly, a local survey recently found that close to 20% of children in Leicester are worried about not having enough to eat. But, paradoxically, a quarter of the population of 10 to 11-year-olds in my city are clinically obese, and close to 40% have visual signs of dental decay. I warmly welcome this announcement, but why are the Government waiting till September 2026 to make these changes? Will the Minister reassure us that this policy will be properly funded so that schools can provide nutritious and balanced meals, and not just ultra-processed food like turkey twizzlers, which have been shown, among many other things, to reduce life expectancy?",
+   "name": "Shockat Adam",
+   "party": "Ind",
+   "seat": "Leicester South"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I can assure the hon. Member that this scheme will be fully funded. More broadly, I have set out plans for the child poverty strategy to be published later this year. The key to a mission-driven Government is to make sure that Government Departments are working together to improve life chances for children. I am delighted that we are working closely with colleagues from the Department of Health and Social Care to make that happen.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Sean Woodcock (Banbury) (Lab)",
+   "member_id": 5328,
+   "type": "Contribution",
+   "text": "I am absolutely delighted that this announcement will see more than 2,000 extra children qualify for free school meals in my Banbury constituency. Can the Minister explain how this announcement will improve the educational attainment and behaviour of children in my constituency?",
+   "name": "Sean Woodcock",
+   "party": "Lab",
+   "seat": "Banbury"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I know that my hon. Friend is a real champion for children and young people from the time that I spent with him in his constituency. As he rightly says, this policy makes a real difference on attainment, behaviour and attendance. I look forward to working with him as we deliver this positive change for our country.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Ian Sollom (St Neots and Mid Cambridgeshire) (LD)",
+   "member_id": 5096,
+   "type": "Contribution",
+   "text": "I, too, welcome the adoption of a long-standing Liberal Democrat policy and the Minister’s encouragement of other Lib Dem policies in response to my hon. Friend the Member for Twickenham (Munira Wilson). There has been some discussion about the pupil premium. This policy seems to break the link between free school meals and the pupil premium, so can the Minister explain to those 2.2 million pupils currently in receipt of the pupil premium what safeguards will be put in place to protect it?",
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "The hon. Member will know that the pupil premium is additional funding to improve educational outcomes for disadvantaged pupils in state-funded schools in England. Pupil premium funding will rise to over £3 billion in 2025-26, an increase of almost 5% from 2024-25. We are reviewing how we allocate pupil premium and the national funding formula deprivation funding in the longer term and, while maintaining the overall amount we spend on tackling challenges faced by children with additional needs, we will provide more information on those matters in due course.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Dr Lauren Sullivan (Gravesham) (Lab)",
+   "member_id": 5269,
+   "type": "Contribution",
+   "text": "Does the Minister agree that, with today’s announcement, alongside the proactive Gravesham borough council’s low-income family tracker programme, which has reached out and helped hundreds, if not thousands, of people who need it most in Gravesham, the Labour Government will lift a further 5,800 children who are eligible in Gravesham. Is this not the great, nutritious start in life that we need?",
+   "name": "Dr Lauren Sullivan",
+   "party": "Lab",
+   "seat": "Gravesham"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "My hon. Friend really cares about these issues, and I thank her for raising these matters today. This is a significant first step in our ambitious strategy to tackle child poverty and its root causes and to give every child the best start in life. I commend the work that she describes; I know that it makes a real difference to areas such as her own.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Marie Goldman (Chelmsford) (LD)",
+   "member_id": 5073,
+   "type": "Contribution",
+   "text": "I warmly welcome this today’s announcement, which has been a Liberal Democrat policy for a very long time. It is so important to have proper nutrition for children so that they get the best possible start in life. In response to a question from my hon. Friend the Member for Hazel Grove (Lisa Smart) about funding, the Minister said that this will come out in due course, but that it will be fully funded. Fully funded can mean that those funds come from various different places. Will the Minister rule out those funds coming from existing school budgets, and will he also rule out placing any other financial burden on to already overstretched school budgets?",
+   "name": "Marie Goldman",
+   "party": "LD",
+   "seat": "Chelmsford"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "The new entitlement is fully funded and will support schools to deliver nutritious, high-quality meals that meet school food standards to over half a million additional pupils. As I said, we will set out further details on funding as part of the child poverty strategy to be published later this year.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Clive Efford (Eltham and Chislehurst) (Lab)",
+   "member_id": 165,
+   "type": "Contribution",
+   "text": "I notice that not one Reform MP has turned up to hear an announcement that benefits so many working-class kids. I first joined a governing body of a primary school in my constituency in 1986 and served for 37 years. From Thatcher to Sunak, I saw what was going on in our schools, and I never saw need like that under the last Conservative Government, so this is a very welcome statement indeed. But even this measure and all the other measures that I understand the Government are considering will not result in fewer children being in poverty in 2029 than are in poverty now unless we remove the two-child benefit cap. I want to add my voice to those who have already asked the Minister to assure us that the cap is being looked at.",
+   "name": "Clive Efford",
+   "party": "Lab",
+   "seat": "Eltham and Chislehurst"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "We know that too many life chances are scarred by poverty, which affects children up and down our country. Levels of poverty have increased by 900,000 since 2010. It is worth saying that this initiative is extra money above and beyond what already goes into schools. As I mentioned, the child poverty strategy will be published later this year and may conclude on the issues that my hon. Friend describes.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "I thank the Minister for his statement. It would be churlish of anybody in this Chamber not to welcome it and say well done. It just so happens that it is this Minister and this Government who have done it so well, so I give a special thanks. I very much welcome the increase to free school meals. I read the Government’s press release this morning with some interest. My question is quite specific. In Northern Ireland, one in four children experience relative poverty, with one in five in absolute poverty and two thirds of those with only one single parent working. Our children in Northern Ireland need this help. I know that it is not this Minister’s responsibility, but do the announcement and these moneys mean that the Barnett consequentials will ensure that some of the benefit can come to Northern Ireland directly?",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "The hon. Gentleman is a real champion on these issues. He will appreciate that education is a devolved matter. The spending review next week will set out details on the Barnett consequentials. The child poverty strategy is a UK-wide document, and I know that colleagues from Northern Ireland have been feeding into that review. As he knows, I meet regularly with my counterpart in Northern Ireland on issues of importance to the UK.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Jon Trickett (Normanton and Hemsworth) (Lab)",
+   "member_id": 410,
+   "type": "Contribution",
+   "text": "As others have, I very much welcome the announcement. For the thousands of families in my constituency with children in poverty, this is a great announcement. However, I remember the Prime Minister’s statement that the Government need to go further and faster, so I encourage the Minister when he goes back to his Department to ensure that the child poverty strategy is as radical as it can be and is adequately resourced. I ask him to return to the question of people on universal credit with children in poverty. Can we ensure that every child benefits from this announcement, because some families lack the capacity—for all sorts of reasons—to make the appropriate applications?",
+   "name": "Jon Trickett",
+   "party": "Lab",
+   "seat": "Normanton and Hemsworth"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "We of course want to ensure that all families that are eligible for this roll-out benefit from it. Working with other Government Departments, we want to make the process as simple as possible. We are determined to bring down child poverty. We appreciate that the issues are complex, and we want to get this right. We will set out more details in due course.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "Order. There are 15 colleagues remaining. If you want me to get you all in, work with me and keep your questions short please. I call Yasmin Qureshi.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Yasmin Qureshi (Bolton South and Walkden) (Lab)",
+   "member_id": 3924,
+   "type": "Contribution",
+   "text": "This is really welcome news for families in my constituency, with up to 11,450 children now set to benefit from free school meals. I know from speaking with parents that this will make a real difference both in easing pressure at home and in helping children to focus and do well in school. Does the Minister agree that this is the kind of support that families have needed for years, and it is a clear sign that the Government are serious about tackling child poverty and giving every child a fair chance?",
+   "name": "Yasmin Qureshi",
+   "party": "Lab",
+   "seat": "Bolton South and Walkden"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "As I set out earlier, this is an intervention that is at once pro-learning and anti-poverty. We want to see high and rising standards in all our schools. Excellence should be for everyone. In complete contrast, the Opposition—their Members are not here now; I do not know where they have gone—want to see tax breaks for some schools for some children. The contrast has never been starker.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Paul Waugh (Rochdale) (Lab/Co-op)",
+   "member_id": 5071,
+   "type": "Contribution",
+   "text": "As someone who grew up on free school meals in Rochdale, I know what a massive difference today’s announcement will make to more than 8,000 of my constituents. One of my constituents, Laura Popham, is a single mum who is in work and was previously ineligible for the free school meals benefit. Today she sent me an email saying, “This is exactly what I was hoping for. I am over the moon. I want to shout from the rooftops how happy I am. Only Labour would have done this.” Does the Minister agree that this is exactly the kind of change that people voted for last year?",
+   "name": "Paul Waugh",
+   "party": "Lab/Co-op",
+   "seat": "Rochdale"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I absolutely agree with my hon. Friend. This is the difference that a Labour MP and a Labour Government can make. I pay tribute to Laura for raising these issues with us. Through constituents’ lobbying and by hearing their concerns, we are delivering positive change for our country.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Chris Webb (Blackpool South) (Lab)",
+   "member_id": 5025,
+   "type": "Contribution",
+   "text": "I applaud the Government’s decision to extend free school meals to children across the country. This initiative is a vital step in supporting families in need and will undoubtedly benefit many children across Blackpool, which the Minister will know, as he joined me in visiting primary schools last year. Many, including the Jamie Oliver Food Foundation, have called for accelerated efforts to ensure that every child has access to nutritious meals irrespective of their background. Does the Minister agree that it is imperative that we unite in our efforts to guarantee that every child in Blackpool and across the country has the best possible start in life, with access to healthy food, quality education and opportunities for success?",
+   "name": "Chris Webb",
+   "party": "Lab",
+   "seat": "Blackpool South"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "It was a pleasure to visit primary schools in my hon. Friend’s constituency, and I know that he cares deeply about tackling child poverty. That is why I am delighted that we are taking this intervention to lift over 100,000 children out of poverty. He makes a number of points regarding good-quality nutritious food, and I hope he will work with us as we set out plans to make changes in this area in due course.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Jacob Collier (Burton and Uttoxeter) (Lab)",
+   "member_id": 5077,
+   "type": "Contribution",
+   "text": "In my constituency 5,730 children will benefit from this announcement. It means a hot meal every day and real, practical support for families who are struggling with the cost of living crisis. Does the Minister agree that while we expect the Conservative party to block this support, as they have for many years, Reform MPs could not even be bothered to turn up today? They talk about supporting families, but they are nowhere to be seen when it matters.",
+   "name": "Jacob Collier",
+   "party": "Lab",
+   "seat": "Burton and Uttoxeter"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "My hon. Friend is absolutely right; this is the stark choice that people voted for at the last election, and I am really proud that we are getting on with delivering the change that our country so desperately needs.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Leigh Ingham (Stafford) (Lab)",
+   "member_id": 5290,
+   "type": "Contribution",
+   "text": "I welcome this announcement from the Government. In Stafford, Eccleshall and the villages, it means a massive 47% increase in eligibility for free school meals, but the work will not be done until all children who are eligible for free school meals are able to access them, and I have asked my local council leader to do everything they can to ensure that. I know that the Government are considering this, but does the Minister agree that councils need to be doing everything they can to ensure that all children who are eligible are able to access their free school meals?",
+   "name": "Leigh Ingham",
+   "party": "Lab",
+   "seat": "Stafford"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I know from my hon. Friend’s previous contributions in the House that she is a real champion on these issues. Making all children in households claiming universal credit eligible for free school meals makes it straightforward for parents to know whether they are eligible. We are supporting this by taking forward a programme of work, including improvements to our own systems, and we are working across Government to make that happen.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Chris Bloore (Redditch) (Lab)",
+   "member_id": 5109,
+   "type": "Contribution",
+   "text": "As a Member of Parliament, I am always delighted to come to work to talk about policies such as this, which will lift 100,000 children out of poverty and give 4,500 children in my constituency access to free school meals. As a parent, I know how much of a difference this will make to the lives of parents in my constituency. Does the Minister agree that policies that give any child, wherever they are born and whatever their background, the chance to fulfil their potential are exactly what a Labour Government should be doing?",
+   "name": "Chris Bloore",
+   "party": "Lab",
+   "seat": "Redditch"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I agree with my hon. Friend; we want to ensure that every child—whatever their background, wherever they are from—can succeed and thrive. This policy is an important step in making that happen by lifting 100,000 children out of poverty.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Ben Goldsborough (South Norfolk) (Lab)",
+   "member_id": 5205,
+   "type": "Contribution",
+   "text": "Up to 3,130 children in South Norfolk will benefit from this measure, and two of my primary schools are among the 750 in the forerunner programme for breakfast clubs. As the Minister is on such a roll in South Norfolk, will he help me fix the two schools—Brooke primary and Wreningham —that are currently in portacabins?",
+   "name": "Ben Goldsborough",
+   "party": "Lab",
+   "seat": "South Norfolk"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I am happy to meet my hon. Friend to discuss those matters further.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Lola McEvoy (Darlington) (Lab)",
+   "member_id": 5037,
+   "type": "Contribution",
+   "text": "In Darlington, I met a lovely mother who had recently gone back to work as a school dinner support worker. She was taking part-time, low-paid work, and her children consequently lost eligibility for free school meals, so she was worse off. I promised her that only Labour would be on the side of low-paid working families. Will the Minister join me in saying to that lady, “Promise made, promise delivered”?",
+   "name": "Lola McEvoy",
+   "party": "Lab",
+   "seat": "Darlington"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "That is absolutely right: promise made, promise delivered. I am so delighted that my hon. Friend has been raising these issues with us and that we are now getting on and delivering on them.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Jessica Toale (Bournemouth West) (Lab)",
+   "member_id": 5202,
+   "type": "Contribution",
+   "text": "Almost one in three children in my constituency live in poverty, and I know that going to school hungry is one of the biggest barriers to thriving not only in childhood but into adulthood, so I welcome the statement. Will the Minister confirm that this measure, along with free breakfast clubs and cutting the cost of school uniforms, will not only benefit family finances but improve school attainment, behaviour and learning outcomes?",
+   "name": "Jessica Toale",
+   "party": "Lab",
+   "seat": "Bournemouth West"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "My hon. Friend is right to raise the benefits that this measure will bring on attendance, attainment and behaviour. I know that she is a real champion on these issues and that she will be really excited about ensuring that this happens across her constituency as quickly as possible.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Pam Cox (Colchester) (Lab)",
+   "member_id": 5042,
+   "type": "Contribution",
+   "text": "In Colchester, this measure will benefit over 5,000 children, so it is wonderful news from a Government who are indeed determined to tackle child poverty. Would the Minister like to make a return visit to Colchester, this time to visit not a pioneering pre-school but a pioneering primary school—Unity primary academy in Greenstead—which has just opened a community kitchen that creates an amazing food culture for local families?",
+   "name": "Pam Cox",
+   "party": "Lab",
+   "seat": "Colchester"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "As the Minister is on a tour, I assume that he will be coming to Sussex Weald shortly.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I am not sure whether my office will be happy about that, Madam Deputy Speaker, but I am sure we can make it happen. I absolutely agree with my hon. Friend. I also want to pay tribute to school support staff and teachers who do so much to ensure that children across our country can achieve and thrive. They will know that this Labour Government have their back.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Josh Fenton-Glynn (Calder Valley) (Lab)",
+   "member_id": 5295,
+   "type": "Contribution",
+   "text": "In one fell swoop, this measure will take 100,000 children out of poverty. In my constituency, 2,500 children will benefit. Fighting poverty is in the Labour party’s DNA, but with over 4.5 million children left in poverty by the Conservative party, which has not turned up for the statement, will the Minister please assure me that we will not stop there and that there will be meaningful change through the child poverty strategy this autumn?",
+   "name": "Josh Fenton-Glynn",
+   "party": "Lab",
+   "seat": "Calder Valley"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I assure my hon. Friend that we will publish an ambitious child poverty strategy later this year to ensure that we deliver fully funded measures that make a big difference to children’s lives.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Andrew Cooper (Mid Cheshire) (Lab)",
+   "member_id": 5195,
+   "type": "Contribution",
+   "text": "This announcement to extend free school meals will be hugely welcome news to the families of the 4,300 children in Northwich, Winsford and Middlewich that are in receipt of universal credit. There is a wealth of evidence that good nutrition at school has a significant impact on educational attainment, health and wellbeing and long-term earnings potential. If we are serious about bearing down on the rising levels of child poverty, which are now just short of 30% in my constituency, that starts with measures such as this, which I am sure will be the first of many. Does the Minister agree that this change in eligibility presents an opportunity at a national level to improve data sharing with local authorities so that we can finally facilitate auto-enrolment and ensure that the maximum number of families benefit from this policy?",
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "My hon. Friend is right to raise the difference that a Labour Government make and the scar of child poverty on our society. I assure him that we are working across the Department to deliver what he described.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Mark Ferguson (Gateshead Central and Whickham) (Lab)",
+   "member_id": 5031,
+   "type": "Contribution",
+   "text": "This change will make a difference to the lives of thousands of children in my Gateshead constituency, and may I say it would have been hugely welcomed by my grandmother who was a Gateshead dinner lady? Does the Minister agree that through 30 hours of free childcare, a limit on the number of branded school items, free breakfast clubs and lifting 100,000 children out of poverty, Labour is the party for children and families?",
+   "name": "Mark Ferguson",
+   "party": "Lab",
+   "seat": "Gateshead Central and Whickham"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "We said that we would be a child-centred Government, and that is what we are delivering. The announcement is testament to that.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Jo Platt (Leigh and Atherton) (Lab/Co-op)",
+   "member_id": 4673,
+   "type": "Contribution",
+   "text": "I whole- heartedly thank the Minister for this much-needed announcement. Up to 5,600 children in my constituency will no doubt be grateful for the relief it brings to their families in easing the financial pressures that many face. Will the Minister confirm that this is just the first step in a wider strategy to tackle child poverty and that areas like Leigh and Atherton will be central to that effort?",
+   "name": "Jo Platt",
+   "party": "Lab/Co-op",
+   "seat": "Leigh and Atherton"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for her question. I know that one reason she is in the House is to tackle deprivation and poverty across the country and in her own constituency. I assure her that we are determined to break down barriers to opportunity and to start to bring down child poverty levels in our society.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Andrew Pakes (Peterborough) (Lab)",
+   "member_id": 5243,
+   "type": "Contribution",
+   "text": "As the proud son of a dinner lady, I warmly welcome the Minister’s statement. I also pay tribute to the Minister for Employment at his side, who is a tribune in the Government and the House against child poverty. With nearly one in two children in my constituency in poverty—a stain left by the last Government—this will be a welcome policy. Up to 16,000 pupils will be eligible for free school meals across Peterborough because of this policy, but that is just the start. What more can the Minister do to keep a razor-sharp focus on driving down poverty and driving up opportunities for young people in my city?",
+   "name": "Andrew Pakes",
+   "party": "Lab",
+   "seat": "Peterborough"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "This, of course, is the latest step in our plan for change to put extra pounds in parents’ pockets. It is a down payment on the child poverty strategy, as I mentioned earlier, building on our expansion of free breakfast clubs, our national minimum wage boost and our cap on universal credit deductions through the fair repayment rate. Those are real measures that will make a real difference to people’s lives.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Samantha Niblett (South Derbyshire) (Lab)",
+   "member_id": 5150,
+   "type": "Contribution",
+   "text": "I welcome wholeheartedly the announcement, not least because it means that almost 4,000 children in my constituency will benefit from free, healthy school meals, saving parents almost £500 a year. That is in addition to the breakfast clubs, of which we have two on the early adopter scheme. Does the Minister agree that as grateful as we are to wonderful people including the bean man, who can often be seen in Willington, Repton and surrounding areas collecting food for food banks, this is a step towards lifting people out of poverty so that we will no longer need food banks?",
+   "name": "Samantha Niblett",
+   "party": "Lab",
+   "seat": "South Derbyshire"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I wholeheartedly agree with my hon. Friend. I know that she will want to feed into the child poverty strategy to ensure that it is ambitious, but I assure her that that is our intention.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I see that two Joshes remain.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Josh Dean (Hertford and Stortford) (Lab)",
+   "member_id": 5187,
+   "type": "Contribution",
+   "text": "Today, I am thinking of the teacher from my constituency who told me that they had to keep cereal bars in their office for children who came to school hungry. That is the legacy of the Conservative party, and I am not surprised that Conservative Members have not turned up to face the music. Research shows that people living with mental health conditions are twice as likely to be living in food-insecure households. Does the Minister agree that this announcement will make a huge change to our young people’s mental health, and that that is exactly what people voted for when they voted Labour?",
+   "name": "Josh Dean",
+   "party": "Lab",
+   "seat": "Hertford and Stortford"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "My hon. Friend is right to set out that mental health can be a barrier to every child having the opportunity to succeed and thrive. He will know that we are investing in mental health support teams in every school across the country as well as recruiting 8,500 mental health professionals and introducing young futures hubs in communities. I know that he will welcome those wider plans for our country and will ensure that they are rolled out effectively in his constituency.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Josh Newbury (Cannock Chase) (Lab)",
+   "member_id": 5034,
+   "type": "Contribution",
+   "text": "I welcome the announcement, which will help more than 4,000 working-class children in my community. The Minister rightly emphasised that the expansion of free school meals is both pro-learning and anti-poverty, and we know that the appalling cost of living crisis, which the previous Government left behind, means that so many children are coming into school hungry and not in the best position to learn. Will he set out what else the Government are doing to tackle the poverty that is holding back so many children?",
+   "name": "Josh Newbury",
+   "party": "Lab",
+   "seat": "Cannock Chase"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "My hon. Friend will know that we are already committed to rolling out breakfast clubs in every primary school. We want to ensure that there is more money in parents’ pockets through our childcare entitlement roll-out. More broadly, the child poverty strategy will be ambitious on improving outcomes and life chances for every young person.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I am personally delighted and looking forward to hosting the Minister in my constituency.",
+   "name": "Chair",
+   "role": "Chair"
+  }
+ ],
+ "fetched": "2026-10-21T20:26:15Z"
+}

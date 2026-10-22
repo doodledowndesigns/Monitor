@@ -1,0 +1,539 @@
+{
+ "ext_id": "0565D28B-330B-422D-BC67-6ED4E91F4379",
+ "date": "2025-10-15",
+ "house": "Commons",
+ "section": "WestHall",
+ "title": "Educational Assessment System Reform",
+ "parents": [
+  "Westminster Hall"
+ ],
+ "location": "Westminster Hall",
+ "url": "https://hansard.parliament.uk/Commons/2025-10-15/debates/0565D28B-330B-422D-BC67-6ED4E91F4379/EducationalAssessmentSystemReform",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Josh Dean",
+   "party": "Lab",
+   "seat": "Hertford and Stortford",
+   "member_id": 5187
+  },
+  {
+   "name": "Alistair Strathern",
+   "party": "Lab",
+   "seat": "Hitchin",
+   "member_id": 5000
+  },
+  {
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood",
+   "member_id": 4510
+  },
+  {
+   "name": "Sam Carling",
+   "party": "Lab",
+   "seat": "North West Cambridgeshire",
+   "member_id": 5308
+  },
+  {
+   "name": "Emma Lewell",
+   "role": "Chair",
+   "member_id": 4277
+  },
+  {
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon",
+   "member_id": 5122
+  },
+  {
+   "name": "Lee Barron",
+   "party": "Lab",
+   "seat": "Corby and East Northamptonshire",
+   "member_id": 5315
+  },
+  {
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire",
+   "member_id": 3969
+  },
+  {
+   "name": "Rachael Maskell",
+   "party": "Ind",
+   "seat": "York Central",
+   "member_id": 4471
+  },
+  {
+   "name": "Adam Dance",
+   "party": "LD",
+   "seat": "Yeovil",
+   "member_id": 5191
+  },
+  {
+   "name": "Sarah Hall",
+   "party": "Lab/Co-op",
+   "seat": "Warrington South",
+   "member_id": 5154
+  },
+  {
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford",
+   "member_id": 4131
+  },
+  {
+   "name": "Warinder Juss",
+   "party": "Lab",
+   "seat": "Wolverhampton West",
+   "member_id": 5230
+  },
+  {
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole",
+   "member_id": 5327
+  },
+  {
+   "name": "Dr Al Pinkerton",
+   "party": "LD",
+   "seat": "Surrey Heath",
+   "member_id": 5288
+  },
+  {
+   "name": "Iqbal Mohamed",
+   "party": "Ind",
+   "seat": "Dewsbury and Batley",
+   "member_id": 5268
+  },
+  {
+   "name": "Jonathan Davies",
+   "party": "Lab",
+   "seat": "Mid Derbyshire",
+   "member_id": 5256
+  },
+  {
+   "name": "Steve Witherden",
+   "party": "Lab",
+   "seat": "Montgomeryshire and Glyndŵr",
+   "member_id": 5221
+  },
+  {
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon",
+   "member_id": 5216
+  },
+  {
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East",
+   "member_id": 4818
+  },
+  {
+   "name": "Dr Lauren Sullivan",
+   "party": "Lab",
+   "seat": "Gravesham",
+   "member_id": 5269
+  },
+  {
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards",
+   "member_id": 5305
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Josh Dean (Hertford and Stortford) (Lab)",
+   "member_id": 5187,
+   "type": "Contribution",
+   "text": "I beg to move, That this House has considered reforming the educational assessment system. It is a pleasure to serve under your chairship, Ms Lewell. Over the summer, another cohort of young people finished their exams, marking the end of a period that left many feeling overwhelmed, anxious or uncertain about the future. Young people are growing up at the sharp end of so many challenges. We can see that reflected in recent figures from NHS England: one in four young people are struggling with their mental health, and the number of 16 to 24-year-olds with a common mental health condition is up by more than a third in a decade. We face an unprecedented a youth mental health crisis. I am proud to sit behind a Labour Government that recognise the scale of the challenge. Almost 1 million more pupils will have access to school-based mental health support this year, and 6,700 additional mental health workers have been recruited since last July. But we cannot ignore the impact that the exam system is having on children and young people’s mental health. We must go further. Paddy, a YoungMinds activist, gave a striking account of his A-level experience. He said that: “From the start of Year ",
+   "name": "Josh Dean",
+   "party": "Lab",
+   "seat": "Hertford and Stortford"
+  },
+  {
+   "who": "Alistair Strathern (Hitchin) (Lab)",
+   "member_id": 5000,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for the way in which he has tirelessly championed young people and their mental health since entering Parliament. Over the summer I held a number of workshops with young people and families with special educational needs, as well as schools, to understand their concerns about the ways the current system is failing young people. If the Government are to succeed in their worthy ambition of delivering more inclusive mainstream education—which we know is in every young person’s best interest, if we can deliver it well—would he agree that it is vital that we get our reforms to assessment right, and speak to it in an integrated way, to ensure that every young person can be set up to succeed and thrive at school?",
+   "name": "Alistair Strathern",
+   "party": "Lab",
+   "seat": "Hitchin"
+  },
+  {
+   "who": "Josh Dean",
+   "member_id": 5187,
+   "type": "Contribution",
+   "text": "I could not agree more with the point my hon. Friend makes. I held a number of roundtables with parents and carers in my constituency over the summer as well. We were discussing the SEN challenges we face in Hertfordshire. At every session I held, parents and carers talked about the inflexibility of the system. Getting the reforms right to ensure that the system provides that flexibility and caters for all students could not be more important. My hon. Friend is right to highlight that, because everything we have talked about so far disproportionately impacts the most disadvantaged. Schools in the most deprived areas spend more time preparing for SATs; 76% of children with SEND do not reach the expected standards at the end of year 6, which rises to 91% of pupils with an education, health and care plan. Students with a history of poor mental health are at particular risk, which is even more acute for care-experienced young people, given the prevalence of mental health conditions in that group. Young people deserve a fairer, more balanced approach to assessment, where wellbeing and academic success are not at odds with one another.",
+   "name": "Josh Dean",
+   "party": "Lab",
+   "seat": "Hertford and Stortford"
+  },
+  {
+   "who": "Helen Hayes (Dulwich and West Norwood) (Lab)",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "I congratulate my hon. Friend on securing this important debate and on his speech. Does he agree that it is an unacceptable feature of our education system that around a third of young people leave school without a recognised qualification, a grade 4 in English or maths? For many of those young people, the way that the system treats resits traps them in a cycle of demoralising continuous failure, just at the point when they should be discovering their passion—the thing they are good at—and should be preparing to get new qualifications and succeed in life? Does he agree that we need urgent work to stop that cycle of failure both upstream in schools and in post-16 education?",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Josh Dean",
+   "member_id": 5187,
+   "type": "Contribution",
+   "text": "Again, I could not agree more. Being trapped in that cycle of failure leaves a mark on young people. We want young people to leave school ready for work and life, and to thrive with confidence. A system that grinds them down cannot be correct. I could not agree more on the point of post-16. I have had a number of conversations about that over recent weeks. That is an area that desperately needs reform, so that we get our young people ready to thrive in life. The independent curriculum and assessment review offers a vital opportunity to tackle that injustice and one of the upstream drivers of the youth mental health crisis, and build a system fit for the 21st century. No 11-year-old child should feel bad about themselves because of exams. SATs are used to rank the performance of schools; they are not supporting children’s learning. Timed tests over four days in year 6 are neither a reliable way to capture a pupil’s knowledge and abilities, nor a way to monitor school standards. Assessment should support a pupil’s learning and be clearly separated from school performance metrics, because placing the burden of accountability on children at such a formative age cannot be right.",
+   "name": "Josh Dean",
+   "party": "Lab",
+   "seat": "Hertford and Stortford"
+  },
+  {
+   "who": "Sam Carling (North West Cambridgeshire) (Lab)",
+   "member_id": 5308,
+   "type": "Contribution",
+   "text": "My hon. Friend is giving a powerful account of the inadequacy of SATs. Does he agree that the fact that so many secondary schools retest their pupils when they arrive shows that they do not have trust in SATs either?",
+   "name": "Sam Carling",
+   "party": "Lab",
+   "seat": "North West Cambridgeshire"
+  },
+  {
+   "who": "Josh Dean",
+   "member_id": 5187,
+   "type": "Contribution",
+   "text": "I cannot remember the numbers off the top of my head, but my hon. Friend is right to highlight the number of secondary schools that retest students because of the lack of reliance and belief that SATs accurately measure their ability. We urgently need to rethink our approach to assessment at the primary level, and all options should be on the table. I would be grateful if the Minister could address the concern around SATs in her response, and confirm the Department’s commitment to addressing them when the curriculum and assessment review concludes. We need to rebalance the system, reducing the dominance of high-stakes, end-of-course exams for GCSE and A-level students. A diversification of assessment methods could reduce pressure on young people, allowing them to showcase a broader range of strengths and better prepare them for life after school. I would be grateful if the Minister could confirm whether the Department would implement such an approach, should it be recommended in the independent curriculum and assessment review’s final report. Moving away from reliance on traditional exams and reducing the volume of exams that young people sit does not mean sacrificing rigour, as se",
+   "name": "Josh Dean",
+   "party": "Lab",
+   "seat": "Hertford and Stortford"
+  },
+  {
+   "who": "Emma Lewell (in the Chair)",
+   "member_id": 4277,
+   "type": "Contribution",
+   "text": "Order. We will have to limit contributions to three and a half minutes.",
+   "name": "Emma Lewell",
+   "role": "Chair"
+  },
+  {
+   "who": "Manuela Perteghella (Stratford-on-Avon) (LD)",
+   "member_id": 5122,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Ms Lewell. I thank the hon. Member for Hertford and Stortford (Josh Dean) for securing this hugely important debate and for the way he highlighted the mental health impact of exams on children and young people. I have been contacted by further education lecturers in my constituency who are increasingly worried about the strain that the current assessment system places on both staff and students. Each year, young people are required to resit GCSE English and maths, often several times, even when they have shown real ability in their chosen vocational courses. Many of these students are capable, hard-working and determined, yet they are being judged on a single written exam that often bears little relation to the skills they will need for work or further study. Those with learning difficulties, other disabilities or complex personal circumstances are particularly disadvantaged by this one-size-fits-all approach. As someone who worked as a university lecturer for many years before being elected to this place, I have seen how different students learn and demonstrate knowledge in very different ways, and the current model leaves too little",
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon"
+  },
+  {
+   "who": "Lee Barron (Corby and East Northamptonshire) (Lab)",
+   "member_id": 5315,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Ms Lewell. Ours is a one-size-fits-all system, and it should not be, because one size does not fit all. That was certainly the message I took loud and clear from the SEND roundtable that I hosted in Corby and East Northamptonshire when we brought parents, schools and others together. SATs measure a school’s performance; they do not measure a child’s potential. The numbers speak for themselves: 56% of 10 and 11-year-olds say that SATs were the first time that they really worried about their abilities, 35% said that SATs made them feel ill, and 28% said that SATs made them feel bad about themselves. Let us be honest: exams are damaging young people’s mental health. We are one of the most over-assessed countries in the world. In Finland they do not assess at all until 16, but their children still learn and their teachers are still trusted. If we are to have primary school assessment, there must be much lower stakes. High stakes exams are not the only way to see what a child can do. We need to put trust back into our teaching professionals. They know their pupils best—they see them learn, grow and shine every single day. I welcome the ",
+   "name": "Lee Barron",
+   "party": "Lab",
+   "seat": "Corby and East Northamptonshire"
+  },
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "It is good to see you in the Chair, Ms Lewell. Assessment in education is obviously one of the most important aspects of what we do in education. It gives children a chance to show what they have learned, what they can do, and we want that to be stretching, but also to be fair. Anything that measures our attainment is inherently somewhat stressful. We also want to prepare children for adult life, and part of that is learning to deal with stress and to make it work in a positive direction. We obviously do not want exams to be overly stressful, and I commend the hon. Member for Hertford and Stortford (Josh Dean) for his work on mental health. He poses this as a mental health question, and it is true that there is an upward trend in mental ill health in children in this country and, by the way, in most other countries in the developed world, although they do not all have the same exam system as us. France and the United States have very different exam systems, with one largely a terminal exam system and the other not, but we see a pattern that is essentially the same. A linear study and terminal exams give us some important things. They give us consistency, transparency, and comparabi",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Rachael Maskell (York Central) (Ind)",
+   "member_id": 4471,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve with you in the Chair, Ms Lewell. I congratulate the hon. Member for Hertford and Stortford (Josh Dean) on securing today’s debate. The assessment system is so broken that it is breaking our young people. It shows that those who can pass exams do well and those who cannot do not do so well. It assesses what people cannot recall or pull together as opposed to emphasising their strengths and building on their knowledge base, skills and talents. I have long researched this issue and believe it is time for the Government to be bold and welcome this review. The level of mental health issues, stress, trauma and anxiety among our young people is unsustainable. We have to change course. That is why I support the recommendation to scrap the SATs assessments, which place such pressure on our young people. There are other forms of assessment that can continue to map a child’s journey. Assessment should be a continual process for educators, to stretch their pupils and ensure that students can move on to the next stage of their learning. That is what we should do: enable teachers to use their professional skills to maximise a child’s learning journey, stretch their cre",
+   "name": "Rachael Maskell",
+   "party": "Ind",
+   "seat": "York Central"
+  },
+  {
+   "who": "Adam Dance (Yeovil) (LD)",
+   "member_id": 5191,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve with you in the Chair, Ms Lewell. I thank the hon. Member for Hertford and Stortford (Josh Dean) for securing this debate. With severe attention deficit hyperactivity disorder and dyslexia, I struggled at school and hated exams. The current system of exam-based learning has a role to play in higher education, but it is far from perfect. Today I will focus on the changes we can make to the assessment system so that it is fairer on neurodiverse students because there is an attainment gap. The British Dyslexia Association found that in the 2023-24 academic year, just two in 10 students with special educational needs achieved a grade 5 or above in English and maths GCSE, compared with over half the students without SEND—that is an attainment gap of over 30%. Current assessments, such as GCSEs, are focused on an intense number of written exams, which favour good memory recall, fluent reading and writing and correct spelling in a high-pressure, timed environment. When someone’s strength lies in creative thinking, problem solving or practical or artistic work, then exams are not testing or rewarding for their strengths. While assistive technologies can make a hug",
+   "name": "Adam Dance",
+   "party": "LD",
+   "seat": "Yeovil"
+  },
+  {
+   "who": "Sarah Hall (Warrington South) (Lab/Co-op)",
+   "member_id": 5154,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Ms Lewell. I thank my hon. Friend the Member for Hertford and Stortford (Josh Dean) for securing this crucial debate. Teachers and parents alike tell me the same thing: there is too much pressure and not enough time to focus on children as people. We all want an assessment system that raises standards and helps children reach their full potential. Right now, the pressure it creates is doing the opposite. It is piling stress on pupils, parents and teachers, affecting confidence, wellbeing and learning and leaving too many children feeling like they are being judged and not supported. Too often schools feel like a conveyor belt, moving children along whether or not they are ready and sorting them by how well they cope—not by what they can do. Our current system focuses on what children know without fully understanding what helps them learn. If we want to improve attainment, we have to look at the emotional, social and behavioural foundations that sit underneath it. When a child feels safe, calm and supported, they achieve more. That is what Nurture UK has been showing for over 50 years. It works with schools across the country helping t",
+   "name": "Sarah Hall",
+   "party": "Lab/Co-op",
+   "seat": "Warrington South"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "It is a real pleasure to serve under your chairship, Ms Lewell. I thank the hon. Member for Hertford and Stortford (Josh Dean) for securing this debate and for the personal story he told. That always helps us to focus on where we are and where we need to be. The issue of educational assessment affects every single constituency within this United Kingdom of Great Britain and Northern Ireland. As every parent, grandparent and teacher knows, exam times are stressful, whether that stress comes from knowing that their child is not studying at all, thinking that they are studying too much, knowing that they are stressed out themselves or worrying that they will not reach their potential. All of it seems incredibly stressful and worrisome. I can still remember the advice that my mother gave to me—wee wise woman that she is, now 94 years of age—“Do your best, work hard and leave the rest to God.” I think that is where we all want to be. It did not do me any harm in my life. At exam results time in my constituency, I always strive to tell my story. I am the MP for Strangford. I did my GCSEs; I did not do A-levels. The path to success does not always have to be academic. I say that with grea",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Warinder Juss (Wolverhampton West) (Lab)",
+   "member_id": 5230,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Ms Lewell. I thank my hon. Friend the Member for Hertford and Stortford (Josh Dean) for securing this important debate. I also thank the charity YoungMinds for its hard work and dedication to supporting young people’s mental health and wellbeing. I had the privilege of meeting its representatives at the Labour party conference, having previously attended its Missing the Mark event here in Parliament. It has become clear to me, especially since becoming an MP, how frequently mental health issues appear across many different areas of policy, and how poor mental health in childhood can have knock-on effects on a young person’s future life chances. The impact that school assessments have on the future of our children should not be underestimated. I look forward to considering the upcoming schools White Paper to see how we can implement the changes we need to help our children. In my constituency of Wolverhampton West, I hear time and again from parents and teachers about the need for improved SEND support. Almost 20% of pupils in our schools have identified special educational needs, and reports indicate that special educational needs are",
+   "name": "Warinder Juss",
+   "party": "Lab",
+   "seat": "Wolverhampton West"
+  },
+  {
+   "who": "Vikki Slade (Mid Dorset and North Poole) (LD)",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve with you in the Chair, Ms Lewell. I thank the hon. Member for Hertford and Stortford (Josh Dean) for securing the debate. The current assessment system is failing our children, our teachers and our society. A combination of factors is at play: the focus of school inspections and parental choice on arbitrary pass rates; the narrowing of the curriculum, which devalues creative and vocational subjects; the failure to maintain school funding, which leaves headteachers little choice but to run schools on a shoestring; the explosion in poor mental health and additional educational needs; the long-term impact of the pandemic on children and learning; and the move to digital, which is increasing the pace of life and risks leaving so many children behind. I should be clear that assessments of progress are important. There is value in benchmarking our children against age-related expectations, using their progress to assess the quality of teaching and helping parents to find the right schools for their children. For most children, it is also reasonable to feel some level of stress. That is a natural part of life, and understanding how we respond to it helps us with ",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Dr Al Pinkerton (Surrey Heath) (LD)",
+   "member_id": 5288,
+   "type": "Contribution",
+   "text": "I recognise that my constituency has a bad name in this area, because it was largely my predecessor MP who introduced the kind of memorising curriculum that my hon. Friend refers to. Does my hon. Friend agree that to preserve the mental health of our young people, and to maximise their human capacity, there is no point in just testing their ability to remember and regurgitate after two years? Instead, we should engage their creativity and critical thinking skills, and go back to some element of continuous assessment.",
+   "name": "Dr Al Pinkerton",
+   "party": "LD",
+   "seat": "Surrey Heath"
+  },
+  {
+   "who": "Vikki Slade",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "I absolutely agree. I thank my hon. Friend for his intervention and allowing me to pause in my emotion. My constituent Kacie did not pass her English and maths GCSEs. She got close, but she was forced to resit them at college where she went backwards. Now she is being blocked from progressing on her chosen course in animation, and her mum is being told that her daughter cannot access functional English and maths until she is 19, despite her passing the level 2 creative courses that would allow her to progress. A special school would allow her to take those functional courses. Her mum said: “The resit crisis is leaving students feeling failures and is demoralising, especially to SEN students who may never be able to achieve a Grade 4”. There is no reason why these children should be forced into a cycle of doom. To go back to Taylor and what happened to him, he has now been scooped up by the brilliant special Linwood school, where the staff have rebuilt his self-esteem. He flew through his functional English, he is now on to maths, he has passed a home cooking BTEC, and he aspires to be a teaching assistant in a school for autistic children. I want to challenge the Minister on removi",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Sam Carling (North West Cambridgeshire) (Lab)",
+   "member_id": 5308,
+   "type": "Contribution",
+   "text": "Before the summer recess, I hosted a “Truth about SATs” parliamentary drop-in with educational reform group More Than a Score. It was a great event, with MPs from all sides of the House sitting down to take some mock SATs exams themselves. Lots of colleagues sat there quite relaxed, chatting to others and evidently fairly confident that these exams for 11-year-olds would not be too taxing. Then the worksheets arrived, and faces fell. That is why I hosted the event in the first place; I saw at first hand why over three quarters of parents think SATs harm children’s mental health, and why 93% of headteachers want the Government to review the entire system. The spelling, punctuation and grammar exams are stuffed to the brim with questions such as “What is a fronted adverbial?” and “Circle the modal verb”, and questions about subjunctives, determinants, inverted commas, prepositions and past progressives. We all use these grammatical structures automatically, and of course children need to be able to use them in reading and writing, but these are things that intelligent, hard-working adults up and down the country have trouble identifying, and understandably so. Do we really need such ",
+   "name": "Sam Carling",
+   "party": "Lab",
+   "seat": "North West Cambridgeshire"
+  },
+  {
+   "who": "Iqbal Mohamed (Dewsbury and Batley) (Ind)",
+   "member_id": 5268,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Ms Lewell. I thank the hon. Member for Hertford and Stortford (Josh Dean) for securing this important debate. For everybody in this room and every educationalist across the country, the aim is to get the best from every child at every age, from kindergarten through primary, secondary and whatever path they choose to take going forward, whether it is university or apprenticeships. However, where we are with our education system and our assessment system does not help us get to that point. As we have heard, our exam system is pushing young people to their limits. For some, exams are the right tool and they are excited by them—they are built for the exams and will show the best version of themselves—but for many, exams are not that vehicle. Last summer, nearly two thirds of students sitting their GCSEs and A-levels said that they struggled to cope, with many reporting panic attacks, self-harm and even suicidal thoughts. Over a third of 10 and 11-year-olds said SATs made them feel ill, and more than half worried about their abilities for the first time. Those figures tell us something is profoundly wrong. Our assessment system is damaging",
+   "name": "Iqbal Mohamed",
+   "party": "Ind",
+   "seat": "Dewsbury and Batley"
+  },
+  {
+   "who": "Warinder Juss",
+   "member_id": 5230,
+   "type": "Contribution",
+   "text": "Does the hon. Member agree that exams do not even test resilience? I consider myself to be quite a resilient person, but I used to hate exams. Even though I retook my A-levels and succeeded in getting them, for years afterwards I used to have dreams about not having passed my A-levels, and I do not think that is an uncommon story.",
+   "name": "Warinder Juss",
+   "party": "Lab",
+   "seat": "Wolverhampton West"
+  },
+  {
+   "who": "Iqbal Mohamed",
+   "member_id": 5268,
+   "type": "Contribution",
+   "text": "I absolutely agree. After my last exam at university, I promised myself that I would never take another exam. Before I became an MP—not since—I had nightmares where I believed I had an exam in the morning and had not revised, which is a common feeling among many. This debate follows the House’s passing of Third Reading of the Mental Health Bill yesterday. I spoke about remembering the importance of centring young people’s wellbeing and mental health, and how we must create policy and legislation that fits them and their experiences and needs. A constituent recently told me that both her daughters have needed mental health support, primarily because of issues in school and the stress that came with that. The pressures of our education system are part of that picture, and cannot be ignored. We have heard arguments about some of the benefits of exams, and we should try to find an adaptable hybrid model so that schools can adapt how they test and assess the ability of individual children rather than forcing them down a single, cookie-cutter, regimented process that does not show their capabilities, intelligence or resilience. Teaching children about resilience has to come from real-wor",
+   "name": "Iqbal Mohamed",
+   "party": "Ind",
+   "seat": "Dewsbury and Batley"
+  },
+  {
+   "who": "Jonathan Davies (Mid Derbyshire) (Lab)",
+   "member_id": 5256,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Ms Lewell. I thank my hon. Friend the Member for Hertford and Stortford (Josh Dean) for securing the debate. Leaders at the Derby college group told me that some of their students, including some with special educational needs, get trapped in a seemingly endless cycle of English and maths resits. Those experiences put enormous pressure on students, contributing to the very poor mental health statistics that we have. I am keen for the Government to look at this issue. The Government are investing significantly in education and driving reform. I hope this debate will help them to consider how changes to the curriculum can improve young people’s mental health. As a former music teacher, my perspective centres around creative subjects and the creative industries. One study by the American Psychological Association found that students taking music are one year ahead of their new non-music peers with regards to English and maths, so the higher uptake of creative subjects could go a long way towards helping young people pass their exams with less mental strain. There is so much evidence for the positive contribution that the arts make to ",
+   "name": "Jonathan Davies",
+   "party": "Lab",
+   "seat": "Mid Derbyshire"
+  },
+  {
+   "who": "Steve Witherden (Montgomeryshire and Glyndŵr) (Lab)",
+   "member_id": 5221,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Ms Lewell. Before being elected, I spent nearly two decades as a teacher. I know all too well the realities of working in a system that prioritises teaching to the test at the expense of a creative curriculum, broader educational experiences and, most importantly, pupil wellbeing. As chair of the all-party parliamentary group for education, I recently led an inquiry into the loss of love of learning. It found that current assessment practices have a significant impact on students’ engagement with, and attitudes towards, learning . One submission highlighted that a system which frames learning through a lens of student deficit rather than progress ultimately ends up demotivating learners and narrowing their sense of possibility. When education is reduced to a means of securing exam results, we lose the intrinsic joy and value of learning itself. One of the most powerful moments during the inquiry came when a group of primary school children from Wales visited Parliament to give evidence. They were genuinely surprised and, frankly, horrified to learn about the pressure and stress their peers in England face when preparing for SATs—and t",
+   "name": "Steve Witherden",
+   "party": "Lab",
+   "seat": "Montgomeryshire and Glyndŵr"
+  },
+  {
+   "who": "Rachael Maskell",
+   "member_id": 4471,
+   "type": "Contribution",
+   "text": "I am grateful for what the hon. Member is saying. As well as widening inequality through the current assessment system, which we know occurs, does he not agree that it also stifles social mobility, holding many young people back from the opportunities they could have?",
+   "name": "Rachael Maskell",
+   "party": "Ind",
+   "seat": "York Central"
+  },
+  {
+   "who": "Steve Witherden",
+   "member_id": 5221,
+   "type": "Contribution",
+   "text": "Yes, I agree 100%. In 2025, more than 75% of pupils with SEND and over 90% of those with an education, health and care plan did not meet expected standards in their end-of-primary SATs. Many carry that label of failure into secondary school before they have even had the chance to flourish. As someone who is dyslexic, dyscalculic and was functionally illiterate until the age of 11, I know what it feels like to struggle within a system not designed for people like me. Teachers in schools serving deprived communities consistently report higher levels of pupil anxiety and disengagement related to SATs, compared with their counterparts in more affluent areas. The current high-stakes, one-size-fits-all model is not only outdated; it actively perpetuates inequality. Like Wales, England should abolish SATs. They damage children’s mental health, impose unnecessary stress at a formative age and fail to serve as reliable indicators of pupil or school performance. At GCSE and A-level, we must reduce our dependence on high-stakes, end-of-course exams or on-demand online assessments, which give pupils—particularly those who struggle under timed conditions—greater opportunity to succeed. For far ",
+   "name": "Steve Witherden",
+   "party": "Lab",
+   "seat": "Montgomeryshire and Glyndŵr"
+  },
+  {
+   "who": "Caroline Voaden (South Devon) (LD)",
+   "member_id": 5216,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Ms Lewell. I congratulate the hon. Member for Hertford and Stortford (Josh Dean) on securing this important debate. He spoke passionately about the subject. Although I have no doubt that his personal recollections of education are more recent than my own, I not long ago lived through the trauma of summer exam season vicariously through both my daughters, and I am glad that is behind us now. The effect of exams on the mental health of our children and young people is clear. The hon. Member eloquently laid out that problem and showed that other respectable education systems have found a way to minimise exam time. It is possible to do that, and incumbent on us to look at doing so. Education is about so much more than the grades a child receives. It is about empowering every child to become the best they can be, ensuring they leave school equipped with the life skills, confidence and resilience they need, to lead happy, healthy and successful lives, whatever path they choose. Education is about so much more than teaching to the test. It should be about opening minds and lighting a spark, as the hon. Member for Montgomeryshire and Glynd",
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon"
+  },
+  {
+   "who": "Saqib Bhatti (Meriden and Solihull East) (Con)",
+   "member_id": 4818,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Ms Lewell. I thank the hon. Member for Hertford and Stortford (Josh Dean) for securing this important debate and for his opening remarks. By almost any metric, the English education system is one of the best performing in the world. In the latest programme for international student assessment results, English pupils have continued to score significantly above the OECD average for mathematics, reading and science. England’s average PISA scores were significantly higher than those of SNP-run Scotland and Labour-run Wales. Assessments and exams have led to that. That is what is at stake here—that is what we are discussing, and we should be clear about that. That success is owed to the foundations of a knowledge-rich curriculum and rigorous and thorough assessment across all stages of a student’s educational build-up. That success story means that the suggestions from Government Members of reforming the educational assessment system—or, alarmingly, scrapping it—need close scrutiny. When launching their review of the curriculum and assessment system in England last year, the Government made it clear that they were taking aim at the exam",
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East"
+  },
+  {
+   "who": "Vikki Slade",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "I am just wondering whether the hon. Member was listening to all the speeches about the massive increase in mental health issues for young people. Does he acknowledge the link between that increase and the tightened restrictions and curriculum that he seems to be promoting?",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Saqib Bhatti",
+   "member_id": 4818,
+   "type": "Contribution",
+   "text": "I can assure the hon. Lady that I listened to every speech. As I make progress, I hope to answer her question; if I do not, I will happily take another intervention from her. The examination and assessment system has ensured that children are learning the basic skills and knowledge needed to succeed in life, that children are improving their understanding in a knowledge-rich curriculum, and that England’s position as an educational world leader in international league tables is secured. The wealth of evidence showing the benefits of exams as a means of assessment is clear, even in the very review of the curriculum and assessment system that the Government commissioned. The interim report, published earlier this year, highlighted that national assessment and qualifications are “working well”, and that examinations such as GCSEs play an important role in driving high standards and ensuring fairness, “reducing the risk that assessment of students’ performance is influenced by their gender, ethnicity or background.” Even more encouragingly, polling conducted for the interim report made it clear that students themselves value the role of exams as an “opportunity to demonstrate everythin",
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East"
+  },
+  {
+   "who": "Dr Lauren Sullivan (Gravesham) (Lab)",
+   "member_id": 5269,
+   "type": "Contribution",
+   "text": "I was a teacher of chemistry and science. Under the new curriculum that was instigated by the Conservative Government, young people had to learn 19 equations for physics, including mass, units and all of that. I can go to Google and ask for that, but as a scientist, what I need is scientific inquiry and the curiosity to ask, “Is this fact real?” Does the hon. Gentleman agree that the change to a knowledge-based system has cut back on the ability for young people to learn curiosity and scientific inquiry?",
+   "name": "Dr Lauren Sullivan",
+   "party": "Lab",
+   "seat": "Gravesham"
+  },
+  {
+   "who": "Saqib Bhatti",
+   "member_id": 4818,
+   "type": "Contribution",
+   "text": "I do not agree with the hon. Lady. Students need assessment and examinations so they can measure up not just within England but against the international landscape that we operate in. By the way, I am sure that she was an excellent teacher who encouraged and nurtured the curiosity in her children, just as my chemistry teacher and my physics teacher did, but we should be clear about what is at stake here and what is at risk if there are changes to the educational system that we reformed, built and created. Let me make some progress, and I hope that I can answer the question from the hon. Member for Mid Dorset and North Poole (Vikki Slade). The students who would lose out are the very ones the Government claim they want to protect—the very students in our education system we should all strive to empower. There is no denying that exams can be stressful, as we have all acknowledged. Students want to do well, and they are setting themselves up for future study and careers, so it is no surprise that they feel some pressure—a lot of pressure, even—during exam season. As my right hon. Friend the Member for East Hampshire (Damian Hinds) said, exams are by their very nature stressful. As a f",
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East"
+  },
+  {
+   "who": "Josh Dean",
+   "member_id": 5187,
+   "type": "Contribution",
+   "text": "The hon. Gentleman has talked a lot about stress. I acknowledge the point about resilience, which is why we need that in the curriculum, but would he equate stress to panic attacks, suicidal thoughts and self-harm? I would say that those are two very different things, and that desperately needs to be addressed in the system.",
+   "name": "Josh Dean",
+   "party": "Lab",
+   "seat": "Hertford and Stortford"
+  },
+  {
+   "who": "Saqib Bhatti",
+   "member_id": 4818,
+   "type": "Contribution",
+   "text": "I will address that question in one second. As the interim report said, students relish the chance to demonstrate their knowledge and capabilities, despite the stress of exams. I was moved by the hon. Gentleman’s speech. He talks about panic attacks, and other people have talked about mental health and wellbeing, so let me be clear: if those things are observed and not accommodated by the current system, Opposition Members will happily look at suggestions and work on a cross-party basis, if we believe that that will improve the system while also protecting our children. If the Government really want to tackle the challenges affecting student mental health on a day-to-day basis, we have been clear: this is not just about exam season, and we think that banning phones from schools would do far more to relieve many of the social pressures that face young people, and allow them to focus on their educational needs instead. I welcome support from the Government Benches for a proven mechanism that clearly leads to addressing students’ mental health. After speaking to teachers and other stakeholders we are clear about the positive impact that banning mobile phones would have on mental healt",
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East"
+  },
+  {
+   "who": "Steve Witherden",
+   "member_id": 5221,
+   "type": "Contribution",
+   "text": "Would the hon. Gentleman agree that if we narrow the curriculum, take out the music and drama lessons, fill the curriculum and stack it to the rafters with numeracy and literacy-heavy subjects, all the pedagogies, and teach to the test, with exams, exams, exams, that will lead to better PISA results but not necessarily to better mental health for the students in the system?",
+   "name": "Steve Witherden",
+   "party": "Lab",
+   "seat": "Montgomeryshire and Glyndŵr"
+  },
+  {
+   "who": "Saqib Bhatti",
+   "member_id": 4818,
+   "type": "Contribution",
+   "text": "Let me address that point directly. First, I am not sure that narrowing the curriculum to that degree would lead to better PISA results. I think the hon. Member for South Devon (Caroline Voaden) spoke about that, and I was nodding my head. I agree that we should have those investments in music that the Government have not committed to— [ Interruption. ] Let me finish, because it is important to recognise for the hon. Member for Montgomeryshire and Glyndŵr (Steve Witherden)—hopefully I have got his constituency right—that Wales, which is run by Labour, has much lower standards. That means less positive outcomes for children, which means less positive outcomes in the rest of their life. It is clear that those children are being let down by Welsh Labour. We want extracurricular activities. That is why, when I visited Coppice academy in my constituency, which also has a forest school, I was heartened to see all the work that the kids are doing in those schools. Narrowing the curriculum is not what we are talking about. We are talking about something that is wholly rounded, but we must have a standardised and anonymised test system that allows a better level playing field for people fro",
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East"
+  },
+  {
+   "who": "The Minister for School Standards (Georgia Gould)",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "It is an honour to serve under your chairmanship, Ms Lewell. I thank my hon. Friend the Member for Hertford and Stortford (Josh Dean) for securing this debate. I know how much work he has done on supporting youth mental health, along with YoungMinds and its wider campaigns. I thank him for his championing of young people. I also thank everyone who took the time to write to the Government’s curriculum and assessment review. I was pleased to hear so many hon. Members talking about conversations they have been having with young people, especially families with children with special educational needs, and bringing their voices to the Chamber—particularly the moving story of Taylor and their experiences. I am glad to hear that they are now thriving. So many of the contributions have focused on how our education system is not working for some young people. It is true that, on average, we have moved up the league tables, but we have also seen a growing gap for so many young people. It is a disgrace that only a quarter of disadvantaged young people get a grade 5 in their GCSEs. There are too many of those young people who do not get to access all the opportunities that come with it. We hav",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Sam Carling",
+   "member_id": 5308,
+   "type": "Contribution",
+   "text": "I wonder whether the Minister has the same experience as I do. When I speak to employers in North West Cambridgeshire, I hear time and again that young people do not have the skills for the workplace and that the education system has not left them with the right mindset and abilities. Is something going direly wrong with the metrics that the Conservatives have left us with when they talk about how we have had one of the best systems in the world?",
+   "name": "Sam Carling",
+   "party": "Lab",
+   "seat": "North West Cambridgeshire"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "One of the really damning statistics is how many young people are not in education, employment or training at the end of the education system. We cannot afford to leave any child behind. Every child needs the best start and to achieve at school. That is what this Government are focused on.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Rachael Maskell",
+   "member_id": 4471,
+   "type": "Contribution",
+   "text": "Will the Minister look at how young people can develop a portfolio around their learning as you would with professional development as an adult and in employment, so that they can map that journey and use it as part of the assessment portfolio that they could gather as they move through their education?",
+   "name": "Rachael Maskell",
+   "party": "Ind",
+   "seat": "York Central"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "The Government are absolutely committed to high standards in English and math and the core learning that young people have, but we also want to see young people have a broad experience at school. I have heard the passion of so many hon. Members talking about the arts. I am a former leader of Camden council, where we heavily invested in the arts to make sure that every pupil had access to learning an instrument and the power that brings. We heard about the collaboration and the joy that the arts bring, and the need to ensure that they are taught well and to a high standard. So, I am absolutely committed to that breadth of education and to making sure that that goes through the education system. Before I talk about assessment, which is the main topic of discussion today, I want to stress that I hear the depth of concern about young people’s mental health—not just from Members here today, but from the young people that I speak to, who talk about the anxiety and stress of being a teenager and the pressures of the huge amount of information that they are getting, and say that we need to address that as a Government. It is troubling to see any young person struggle with their wellbeing. ",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Lee Barron",
+   "member_id": 5315,
+   "type": "Contribution",
+   "text": "My point is that it is not the schools and the way in which the schools are applying exams; the schools are doing what they can to protect the children. The problem is that the children know they are coming. The children feel the pressure point of the exams coming up. That is why they start to feel how they feel. The reason I can say that is that my daughter is 10, and she is the one who turned down going to the football because she has to revise for her SATs. Parents are trying to manage that situation. But that is the reality. They know it is coming. They feel the pressure point. It is not the school.",
+   "name": "Lee Barron",
+   "party": "Lab",
+   "seat": "Corby and East Northamptonshire"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "Sorry, I was not trying to suggest that it was, but it is important that, collectively, we create an environment where children know that this assessment is not a pressure on them as an individual, but part of a wider accountability, and that young people should continue to do all the things that bring them joy. That is part of the ongoing conversation we need to have. As I said, we know that there are areas where improvements can be made. We have heard that today. The Department will consider the review’s final recommendations alongside the voices of those calling for change. As young people move through their secondary education, the stakes understandably become higher. That is why some people argue that if we removed exams, we would take away a lot of the pressure that young people face. Motion lapsed (Standing Order No. 10(6)).",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  }
+ ],
+ "fetched": "2026-10-21T20:27:12Z"
+}

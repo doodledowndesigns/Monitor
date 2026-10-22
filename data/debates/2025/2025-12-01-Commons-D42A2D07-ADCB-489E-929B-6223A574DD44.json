@@ -1,0 +1,574 @@
+{
+ "ext_id": "D42A2D07-ADCB-489E-929B-6223A574DD44",
+ "date": "2025-12-01",
+ "house": "Commons",
+ "section": "WestHall",
+ "title": "Children’s Wellbeing and Schools Bill",
+ "parents": [
+  "Westminster Hall"
+ ],
+ "location": "Westminster Hall",
+ "url": "https://hansard.parliament.uk/Commons/2025-12-01/debates/D42A2D07-ADCB-489E-929B-6223A574DD44/ChildrenSWellbeingAndSchoolsBill",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Jamie Stone",
+   "party": "LD",
+   "seat": "Caithness, Sutherland and Easter Ross",
+   "member_id": 4612
+  },
+  {
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon",
+   "member_id": 5351
+  },
+  {
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire",
+   "member_id": 5195
+  },
+  {
+   "name": "Mr Forster",
+   "party": "LD",
+   "seat": "Woking",
+   "member_id": 5322
+  },
+  {
+   "name": "Chris Hinchliff",
+   "party": "Lab",
+   "seat": "North East Hertfordshire",
+   "member_id": 5244
+  },
+  {
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove",
+   "member_id": 5186
+  },
+  {
+   "name": "Gideon Amos",
+   "party": "LD",
+   "seat": "Taunton and Wellington",
+   "member_id": 5250
+  },
+  {
+   "name": "Liam Conlon",
+   "party": "Lab",
+   "seat": "Beckenham and Penge",
+   "member_id": 5132
+  },
+  {
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire",
+   "member_id": 3969
+  },
+  {
+   "name": "Paula Barker",
+   "role": "Chair",
+   "member_id": 4828
+  },
+  {
+   "name": "John Whitby",
+   "party": "Lab",
+   "seat": "Derbyshire Dales",
+   "member_id": 5342
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East",
+   "member_id": 4818
+  },
+  {
+   "name": "Olivia Bailey",
+   "role": "The Parliamentary Under-Secretary of State for Education",
+   "member_id": 5337
+  },
+  {
+   "name": "Sir Julian Lewis",
+   "party": "Con",
+   "seat": "New Forest East",
+   "member_id": 54
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Jamie Stone (Caithness, Sutherland and Easter Ross) (LD)",
+   "member_id": 4612,
+   "type": "Contribution",
+   "text": "I beg to move, That this House has considered e-petition 722377 relating to the Children’s Wellbeing and Schools Bill. It is always a pleasure to serve under your authority, Ms Barker. As Chair of the Petitions Committee, it is a privilege to open these petitions debates. I do find it extraordinarily encouraging that so many members of the public are actively engaging with the Government and, in this case, engaging with legislation that is passing through Parliament. The e-petition was created by Michelle Zaher, who is in the Public Gallery. Prior to the debate, I had the pleasure of speaking to Michelle to understand the motivations behind the creation of this petition. She explained to me that she believes that the implementation of the Bill falls far short of addressing the real problems in the education system, and that instead it tightens controls on parents and educators without consultation. There are a plethora of reasons why signatories of the petition believe the Bill needs to be withdrawn, but the primary concern that came out of my conversations in preparation for this debate was the lack of consultation with key stakeholders in the Bill’s development. The Bill has the ",
+   "name": "Jamie Stone",
+   "party": "LD",
+   "seat": "Caithness, Sutherland and Easter Ross"
+  },
+  {
+   "who": "Gregory Stafford (Farnham and Bordon) (Con)",
+   "member_id": 5351,
+   "type": "Contribution",
+   "text": "I thank the hon. Gentleman for outlining the Government’s supposed intention for the Bill, but is he aware that Amanda Spielman, the former Ofsted chief inspector, said that this Bill was “very likely” to have a detrimental effect on children’s education?",
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon"
+  },
+  {
+   "who": "Jamie Stone",
+   "member_id": 4612,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for his intervention. That point was made in the consultation I had before this debate. To continue, the Bill proposes wellbeing co-ordinators, structured mental health assessments and greater collaboration with community health services to embed wellbeing alongside literacy and numeracy as part of what every school must nurture. These are noble aims. Heaven knows, if a child is struggling mentally, they are not going to learn very much about trigonometry, are they? We must approach the issues that campaigners have with the Bill. Previous Governments have spent decades giving academies and trusts more and more control, only for this Government to take it away again. Sometimes the best way to support wellbeing is to give schools freedom, not more top-down rules. In some instances, an attempt to standardise pay would mean giving our teachers in academies pay cuts. School groups have emphasised to me that the importance of local decision making cannot be underestimated.",
+   "name": "Jamie Stone",
+   "party": "LD",
+   "seat": "Caithness, Sutherland and Easter Ross"
+  },
+  {
+   "who": "Andrew Cooper (Mid Cheshire) (Lab)",
+   "member_id": 5195,
+   "type": "Contribution",
+   "text": "Perhaps I have misunderstood, but I am sure that the Minister has clarified that the standardised pay across the sector should be a floor, not a ceiling. Can the hon. Gentleman confirm that that is his understanding too?",
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire"
+  },
+  {
+   "who": "Jamie Stone",
+   "member_id": 4612,
+   "type": "Contribution",
+   "text": "It will be interesting to see what the Minister says on that. Perhaps there is a little bit of misunderstanding on that issue. Let us leave it at that. Teachers, parents and local authorities often know best what their children need—far more than we in Westminster ever could. They understand their communities and deserve to be trusted and, I believe, properly consulted. The Bill also reaches into the world of home education, with measures such as a national register of children not in school, requirements for local authority consent to home school in certain cases and powers for councils to intervene if a home environment is deemed unsuitable.",
+   "name": "Jamie Stone",
+   "party": "LD",
+   "seat": "Caithness, Sutherland and Easter Ross"
+  },
+  {
+   "who": "Mr Will Forster (Woking) (LD)",
+   "member_id": 5322,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for the way he is introducing this petition. I am sure he is aware of the case of my murdered constituent, Sara Sharif from Woking, who was abused, tortured and murdered. The safeguarding report that came out last month highlighted the failings in the home schooling system and the fact that a register is needed. Does he agree that parents should lose the right to home school in the event of child safeguarding concerns?",
+   "name": "Mr Forster",
+   "party": "LD",
+   "seat": "Woking"
+  },
+  {
+   "who": "Jamie Stone",
+   "member_id": 4612,
+   "type": "Contribution",
+   "text": "In proceeding with a Bill of this nature, that precise point has to be taken into account and weighed in the balance, because it is a matter of getting it right. That is precisely the reason behind the petition. I stress that many people think that we are not getting it right at this stage, but improvements can be made. It is a fact that more families than ever are turning to home schooling. Some do it because the nearest school is miles away or parents deem it to be teaching to an inadequate standard; others because their child thrives better with one-on-one attention and teaching, perhaps for special needs that a standard classroom cannot accommodate. Campaigners for home education—some of whom I heard from in preparation for the debate—fear that the Bill amounts to an attack on their parental rights.",
+   "name": "Jamie Stone",
+   "party": "LD",
+   "seat": "Caithness, Sutherland and Easter Ross"
+  },
+  {
+   "who": "Chris Hinchliff (North East Hertfordshire) (Lab)",
+   "member_id": 5244,
+   "type": "Contribution",
+   "text": "I apologise in advance, Ms Barker, for the fact that I cannot stay for the full debate because I have been assigned to a Delegated Legislation Committee. I want to echo the concerns of my constituents, many of whom are home educators, about the legislation. Will the hon. Member join me in calling on the Government to put firmer safeguards on data security in the Bill, provide clear protections in the legislation for parental responsibility to decide what education is in their child’s best interests and ensure that the Bill does not try to force home educators to fit into school-style timetables?",
+   "name": "Chris Hinchliff",
+   "party": "Lab",
+   "seat": "North East Hertfordshire"
+  },
+  {
+   "who": "Jamie Stone",
+   "member_id": 4612,
+   "type": "Contribution",
+   "text": "I am sure that is a wise intervention. I should imagine that we can all take heed of it, including the Minister. The parents I mentioned previously argue that legislation for the regular registration of what learning has taken place in the home limits a diverse community where learning might be child-led one day and structured the next—all tailored to individual family needs. Those parents also spoke to me about their unease concerning the reach of new information-sharing duties and the requirement for child registers and unique identifiers. They fear overreach, diminished family autonomy and the erosion of parental rights, particularly where home education is concerned. I should also add that I have been approached by religious groups that have serious concerns about the Bill as currently drafted. They believe that it fails to recognise the vital structure of education in stricter religious communities. In the case of Jewish children who attend yeshiva alongside homeschooling, for instance, the Bill seeks to pigeonhole the method of schooling that a yeshiva provides within two categories that do not apply to it. It has been argued that the lack of proper consultation with affected",
+   "name": "Jamie Stone",
+   "party": "LD",
+   "seat": "Caithness, Sutherland and Easter Ross"
+  },
+  {
+   "who": "Andrew Cooper (Mid Cheshire) (Lab)",
+   "member_id": 5195,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Ms Barker. I begin by thanking the petition organiser and all who engaged with it. Like many colleagues from across the House, I entered politics because I wanted to make sure that all children, regardless of their background or circumstances, had the opportunity to have the best start in life. I am sure that that is also the motivation for the majority of those who signed the petition, even if we might disagree that the Bill represents positive progress. Although the petition primarily addresses the school reform aspects of the Bill, it is important to underscore the significant child protection measures it contains that would be lost if the Bill were withdrawn as the petition proposes. The measures broadly enjoy cross-party support and have been developed following what we have learned when things have gone tragically wrong. One of the most significant protections is the introduction of a single unique identifier for every child, an innovation that will transform how we monitor and safeguard children throughout their educational journey. With a unique identifier, schools, social services, the NHS and other agencies can securely s",
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire"
+  },
+  {
+   "who": "Gregory Stafford",
+   "member_id": 5351,
+   "type": "Contribution",
+   "text": "On the point about branded school uniforms, headteachers in my constituency have often bulk bought school uniforms through a supplier, so it can be more cost-effective to buy the uniform through the branded supplier than to buy it on the high street. Surely what the hon. Gentleman suggests could have a perverse outcome. Does he not think that if branded items can be bought at a cheaper cost, they would be better than buying off the peg?",
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon"
+  },
+  {
+   "who": "Andrew Cooper",
+   "member_id": 5195,
+   "type": "Contribution",
+   "text": "That is an interesting approach; it is a shame that has not been rolled out more widely. That is not the experience in the schools in my constituency. Across the population, the measures in the Bill will reduce costs for all. That is my view; the hon. Gentleman is welcome to his. In short, the Bill is about ensuring that every child is safe, supported and given the chance to succeed. To withdraw it would be to turn away from that vision. Instead, we must commit to a future in which protection and education go hand in hand and no child is left behind.",
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire"
+  },
+  {
+   "who": "Bradley Thomas (Bromsgrove) (Con)",
+   "member_id": 5186,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Ms Barker. I thank the hon. Member for Caithness, Sutherland and Easter Ross (Jamie Stone) for introducing this important debate. Home education is often misunderstood. Some dismiss it as children avoiding education. Others portray it as an isolating environment, and even a potential safeguarding risk. Although that may be the case in the smallest handful of instances, the reality is that the large proportion of home educating families are those who have been let down by the state education system and act in the best interest of their child. For them, home education is not the easy choice but, often, a lifeline—a vital alternative for children who do not “fit” within the confines of mainstream schooling. Families turn to home education for many reasons. We might be talking about children who have medical needs or anxiety and have been pressured out of school, those excluded because of unmet special educational needs, or those enduring unresolved bullying. Some parents make a philosophical choice to educate outside the mainstream system. This discretionary right, exercised by parents and guardians, allows learning to be flexible, pe",
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove"
+  },
+  {
+   "who": "Gregory Stafford",
+   "member_id": 5351,
+   "type": "Contribution",
+   "text": "I am grateful to my hon. Friend for outlining the situations in which his constituents find themselves, as mine do in many cases. Is he as concerned as I am that mandatory registration for home education essentially risks treating every parent as a potential safeguarding concern, rather than recognising the fact that they are doing their absolute best for their children? They absolutely want to comply with the law and should not be treated as criminals in the first instance.",
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon"
+  },
+  {
+   "who": "Bradley Thomas",
+   "member_id": 5186,
+   "type": "Contribution",
+   "text": "I agree wholeheartedly. My hon. Friend demonstrates the perverse reality of what is proposed, in that these parents and children are often seeking to break away from being a one-size-fits-all family, but they are being pushed into a one-size-fits-all approach that risks stigmatising home education and the very children who benefit from it. Importantly, in the instances that I have cited, both families will be adversely affected should the Bill progress to further stages in its current state. As many home educators have argued, the Government, schools and local authorities are not the ones witnessing the emotional breakdowns before and after school. They are not the ones being forced to watch their children’s health deteriorate because of unsuitable environments. They are not the ones supporting them at medical appointments or sitting up with them late at night. A decision to home educate is not often taken lightly. Parents and guardians weigh up the benefits and consequences of all education options. If, after that careful deliberation, a parent or guardian, who knows their children best, chooses to take the leap into home education and provides a safe, stable and nurturing environ",
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove"
+  },
+  {
+   "who": "Mr Forster",
+   "member_id": 5322,
+   "type": "Contribution",
+   "text": "The hon. Member heard me talk earlier about safeguarding concerns. Although home education can have huge benefits to families, does he agree with the Children’s Commissioner, who has said that the proper oversight of children being educated at home is important, and that councils should be required to sign off on home education requests for the most vulnerable children?",
+   "name": "Mr Forster",
+   "party": "LD",
+   "seat": "Woking"
+  },
+  {
+   "who": "Bradley Thomas",
+   "member_id": 5186,
+   "type": "Contribution",
+   "text": "The hon. Gentleman makes an incredibly valuable point that none of us can disagree with in principle. Safeguarding has to be a foundation of the education system. The point is that the Bill attempts to provide a one-size-fits-all approach, but it does not quite strike the right balance. In the process, many families feel they are being stigmatised. It is not disputed that stronger safeguards for vulnerable children are essential. It is a tragic reality that many children in abusive or neglectful homes are safer at school than they are at home, but to push all home educating families into that category is not only an insult to the vast majority of responsible, caring families who turned to home education because of failures in state schooling, but a potentially greater safeguarding risk, as it stretches already limited resources even further. Requiring local authorities continually to assess and investigate perfectly safe environments diverts time and resources from children in genuine danger and urgent need of protection. BBC reports reveal that local authorities are set to face a funding shortfall of more than £5.7 billion by 2026-27. The Children’s Commissioner has warned that th",
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove"
+  },
+  {
+   "who": "Andrew Cooper",
+   "member_id": 5195,
+   "type": "Contribution",
+   "text": "The hon. Gentleman is absolutely right to identify many of the reasons why parents choose to home educate. It quite often is as a result of bullying or an unmet special educational need. But under our current system, local authorities are not aware of the reason why somebody chooses to home educate. Under the Bill, parents will be required to provide that reason to local authorities. That might flag up to the local authority that there is a bullying problem at a school, or that there is a problem with the way special educational needs are dealt with. Does the hon. Gentleman accept that making that information available to the local authority is a plus that the Bill will deliver?",
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire"
+  },
+  {
+   "who": "Bradley Thomas",
+   "member_id": 5186,
+   "type": "Contribution",
+   "text": "The hon. Gentleman is right that it potentially could flag up those things; equally, it could be another burden on local authorities that are under-resourced to fulfil the requirements. It also could place a burden on parents and families that feels like stigmatisation. The right balance must be struck between strengthening the safeguards for children and young adults and ensuring that the new legislation does not unintentionally harm thousands due to a one-size-fits-all approach. Rather than demonising all home educators and introducing measures that, in practice, will fail to improve many children’s wellbeing, the Government should redirect their focus towards improving support for SEND provision and children’s social services, ensuring better working relationships between home educators and local authorities, and fostering school environments that actively tackle bullying and rising classroom violence.",
+   "name": "Bradley Thomas",
+   "party": "Con",
+   "seat": "Bromsgrove"
+  },
+  {
+   "who": "Gideon Amos (Taunton and Wellington) (LD)",
+   "member_id": 5250,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve with you in the Chair, Ms Barker. I am grateful to my hon. Friend the Member for Caithness, Sutherland and Easter Ross (Jamie Stone) for introducing this really important debate. My feelings are very much aligned with the around 300 people in my constituency who signed the petition. At the heart of this debate is a fallacy: that children are more at risk in home educating families than they are at school. In fact, the figures show the exact opposite. I will come back to that point in detail. My concerns are about not only home educating families but rural schools and rural environments, where the limited resources mean that the Bill’s more onerous requirements on schools could drive some smaller rural schools out of the system and lead to them being closed. Rural areas have fewer and smaller schools, and rural schools have fewer administrative resources to deal with the new administrative burdens such as supporting staff to meet the new qualified teacher status requirements, dealing with increased monitoring, handling fluctuating pupil numbers and budgets, and so on. There are significant risks to small rural schools that may well lead to even more pupils ",
+   "name": "Gideon Amos",
+   "party": "LD",
+   "seat": "Taunton and Wellington"
+  },
+  {
+   "who": "Gregory Stafford",
+   "member_id": 5351,
+   "type": "Contribution",
+   "text": "Some weeks ago we had a debate in this Chamber about a petition signed by over 3 million people who oppose a national identity card scheme. Does the hon. Gentleman agree that if those people knew the details in the Bill, they would be equally shocked and concerned?",
+   "name": "Gregory Stafford",
+   "party": "Con",
+   "seat": "Farnham and Bordon"
+  },
+  {
+   "who": "Gideon Amos",
+   "member_id": 5250,
+   "type": "Contribution",
+   "text": "I very much agree with the hon. Gentleman. All the concerns that lead me to oppose digital ID cards also lead me to oppose a digital ID for all our children. As the campaigners behind the petition have stated: “Once children’s data is out there it cannot be controlled nor put back in the box.” I could not agree more. According to the Government’s own reports, 58 critical Government IT systems have significant gaps in cyber-security. Is that the kind of system into which we wish to put all our children’s details? Is that the kind of system that anyone wishes the data of their children and grandchildren to be put into? I do not think so. The Metropolitan police lost the details of 47,000 of its own officers. Let us take that as an example of how the public sector handles data, and consider whether we really want to provide the power to share data about our children across all public bodies: councils, social services departments, health authorities, schools, academies and all the rest of them. As I said earlier, it is often held to be the case that home educating families are unsafe environments, but the evidence shows the opposite. Only 11% of section 47 child protection inquiries in",
+   "name": "Gideon Amos",
+   "party": "LD",
+   "seat": "Taunton and Wellington"
+  },
+  {
+   "who": "Liam Conlon (Beckenham and Penge) (Lab)",
+   "member_id": 5132,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve with you in the Chair, Ms Barker. The Children’s Wellbeing and Schools Bill is an important piece of legislation for this Government. Among other things, it will drive higher standards in our schools, put more qualified teachers at the front of classrooms, bring down the cost of uniforms for families and create a new duty to establish multi-agency child protection teams. It is right that the Government are looking to implement the Bill, including all the measures around home educating. I will talk about two things in particular: first, the provisions for children who find themselves between hospital, home and school; and secondly, home educating. I speak not only as an MP on behalf of constituents, but as someone with vast personal experience of educational interruption and learning in non-traditional settings. When I was 13, the day after we broke up for the summer holidays in year 8, I had a freak accident in which I shattered my right hip and did irreversible damage to my back. From that point on, I did not walk for four of my teenage years, and I did not have a full year at school from years 9 to 12. Instead I received a mixture of home education, teac",
+   "name": "Liam Conlon",
+   "party": "Lab",
+   "seat": "Beckenham and Penge"
+  },
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "It is a great pleasure to see you presiding, Ms Barker. This has been a good debate, and very good points have been made by hon. Members on all sides, including the hon. Member for Beckenham and Penge (Liam Conlon), who has just spoken. This is a rare and important opportunity to talk about the vital role of hospital schools. I do not intend to go through every measure in this Bill in detail; we did that at Committee stage, and I took that opportunity to go through many of its measures then. However, I will make a few broad observations about it. First, there are things in this Bill that we like. There are things in this Bill that were in the Conservatives’ earlier Bill, and we should all welcome some of the moves on, for example, multi-agency safeguarding, the expansion of the role of virtual school heads, and so on. Let us be clear—and Ministers, I am sure, will not try to say this today—that if the Government say that they want to withdraw the Bill, it does not mean that they do not like any aspect in it. Ministers are in charge of the Parliamentary timetable and are perfectly capable of withdrawing a Bill, noting that it is nicely set out in discrete units, and coming back the ",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Liam Conlon",
+   "member_id": 5132,
+   "type": "Contribution",
+   "text": "Will the right hon. Gentleman give way?",
+   "name": "Liam Conlon",
+   "party": "Lab",
+   "seat": "Beckenham and Penge"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I am coming very close to the end of my speech, and I think Ms Barker would want me to continue to allow for more speakers.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Paula Barker (in the Chair)",
+   "member_id": 4828,
+   "type": "Contribution",
+   "text": "It is entirely up to you.",
+   "name": "Paula Barker",
+   "role": "Chair"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "In that case, I give way to the hon. Gentleman.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Liam Conlon",
+   "member_id": 5132,
+   "type": "Contribution",
+   "text": "Does the right hon. Gentleman agree that what has not been conducive to education and preparing children for the best start in life, as I have heard from primary school teachers across my constituency, is the decimation of Sure Start, which provided children with the best start in life?",
+   "name": "Liam Conlon",
+   "party": "Lab",
+   "seat": "Beckenham and Penge"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I am so pleased that the hon. Gentleman asked me about that, because it is one of the great slogans of his party. One of my favourite statistics, however—people can look it up; it is available in an official publication—is that there were more children’s centres open in this country when I was Secretary of State for Education than in any year that Tony Blair was Prime Minister. The fact is that from 2008 to 2010, under Gordon Brown, there was a massive explosion in the number of things called a “Sure Start centre”. Basically, people could go to any old building, stick a sign on it that said “Sure Start” with a rainbow, and that became a Sure Start centre. The Education Committee, which is a non-partisan Committee of this House, conducted an inquiry in about 2011 or 2012 looking at Sure Start. We tried in chapter one to define what a Sure Start centre was, but we could not, because there was no actual design. One Sure Start centre that we visited had no children at all in it; some centres were fully fledged nurseries, family centres—you name it. There is very important work to be done with family hubs and other programmes. When we were in government, we made a huge increase in entit",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "John Whitby (Derbyshire Dales) (Lab)",
+   "member_id": 5342,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship today, Ms Barker. Years of austerity have stripped out much of the vital support that young families once received through—dare I say it?—Sure Start. The number of children in care has risen by 28%, the number of children in residential care homes has more than doubled, and 4 million children are living in poverty. I have been to many schools where teachers and staff bring in their own food; we know they are spending their own money to feed children in the school. It is against that backdrop that the Government are looking to pass the Children’s Wellbeing and Schools Bill. Having been a foster carer for 25 years, a member of an adoption panel for a decade and the lead member of a tier 1 local authority, I recognise many of the problems that the Bill is trying to address and I fully support the Government’s determination to protect children. I will concentrate on just a few aspects of the Bill today. Rather than school staff having to put their hands in their pockets to feed children, we are rolling out free breakfast clubs. Of course, they will help with the cost of living by saving parents up to £450 a year and by ensuring that childr",
+   "name": "John Whitby",
+   "party": "Lab",
+   "seat": "Derbyshire Dales"
+  },
+  {
+   "who": "Gideon Amos",
+   "member_id": 5250,
+   "type": "Contribution",
+   "text": "Does the hon. Gentleman agree that, in return for those extra controls, the Government or the Bill should offer some kind of support to home educating families?",
+   "name": "Gideon Amos",
+   "party": "LD",
+   "seat": "Taunton and Wellington"
+  },
+  {
+   "who": "John Whitby",
+   "member_id": 5342,
+   "type": "Contribution",
+   "text": "I welcome support for all children, but I am trying to make the point that there is no negative judgment here. I say to those parents, “If you are doing nothing wrong, you have nothing to fear.” I have also heard the Secretary of State say that privately and publicly. Unfortunately, though, there are people—although very few in number—who, when they start to be asked difficult questions by the authorities, move school, move house or take their child out of school to avoid scrutiny. It is only right that local authorities should be allowed to refuse home education for a child who is subject to a child protection plan or going through section 47 action. We need to know where children are and we need to keep them safe. There is no bigger reason to be in politics than to protect, safeguard and support our most vulnerable children. That is why I, for one, am here.",
+   "name": "John Whitby",
+   "party": "Lab",
+   "seat": "Derbyshire Dales"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship today, Ms Barker. I thank the Petitions Committee for granting this important debate. I also thank my hon. Friend the Member for Caithness, Sutherland and Easter Ross (Jamie Stone) for so ably opening the debate. I pay tribute to the approximately 166,500 people who have signed this petition, including the 184 in my constituency. There is much in this Bill that many of us can agree on, especially in part 1. During its passage there was cross-party support for the measures in part 1 to ensure that the Government go further in safeguarding and promoting the wellbeing of our children. Part 1 also includes the proposals for a single unique identifier, and I say to hon. Members concerned about it that I do not think it is the precursor to digital ID for our children. If hon. Members look at Professor Jay’s report of the independent inquiry into child sexual abuse, one of the biggest issues in the system—as I heard when I met her earlier this year—is the lack of data sharing between different service providers, such as health, the police and social services. Some of the young women and girls who were victims of grooming gangs across the c",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "David Laws!",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "David Laws was not in government for the last decade of Conservative Governments; he was there for the first five years and he did some excellent things, not least introducing the pupil premium. I would say, however, that Conservative Governments left us with crumbling schools that are unable to hire specialist teachers, a crisis in special educational needs provision, and a huge problem with persistent absence. Given those major issues in our education system, I am not quite sure why the Government have chosen to tinker with academies and governance arrangements as their priority for education policy, when there is limited evidence to suggest that a mixed economy of governance arrangements in our school system is posing a major problem. With the promised schools White Paper hopefully being revealed in the new year, although I think it has been delayed twice already, there is a question as to whether part 2 of the Bill was somewhat premature. I am increasingly wondering whether the Government feel the same way, given that the Bill keeps being delayed in the other place. By the time the Bill returns to the House of Commons, it will have been well over a year since it was first intro",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Saqib Bhatti (Meriden and Solihull East) (Con)",
+   "member_id": 4818,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Ms Barker, and to speak in this very important debate. I thank the hon. Member for Caithness, Sutherland and Easter Ross (Jamie Stone) for his opening remarks, and Michelle Zaher and all 166,498 signatories of this important petition, including 250 of my constituents. The petition calls on the Education Secretary to withdraw the disastrous Children’s Wellbeing and Schools Bill, and states: “We believe the Children’s Wellbeing and Schools Bill is poorly drafted and does not stem from robust evidence. We feel the accompanying impact assessments are inadequate and may damage all children’s educational opportunities. We believe the Bill is silent on children’s voice and children’s right to education. We also feel part 2 undermines parental responsibility for education and school leaders from ensuring their educational settings can optimise children’s education and wellbeing.” I cannot fault that damning verdict, which summarises many of the huge inadequacies that are part of this woeful piece of legislation. I am clear that His Majesty’s official Opposition share no enthusiasm for the parts of this Bill relating to schools in particula",
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Olivia Bailey)",
+   "member_id": 5337,
+   "type": "Contribution",
+   "text": "It is an honour to serve under your chairship, Ms Barker. I thank the hon. Member for Caithness, Sutherland and Easter Ross (Jamie Stone) for introducing this excellent debate on a landmark Bill. I thank all colleagues for their contributions, and all those in the Public Gallery who have signed the petition, particularly Michelle and Addison, who have been mentioned by my colleagues. My hon. Friend the Member for Mid Cheshire (Andrew Cooper) reminded us at the start of this debate—quite nicely, I thought—that we all share the same ambition to try to ensure that our children are safe and get the very best start in life. I thought that was an excellent way to start this debate. The hon. Member for Bromsgrove (Bradley Thomas) told us that home educators are often misunderstood. I wanted to start by referencing that directly, because he is right that the vast majority of home educators are doing it in the best interests of their children—the Government and I absolutely recognise that home educators are doing it with the best interests of their children in mind—but he explicitly stated that we are taking away that option, and he was wrong to do so. That is categorically not what this Go",
+   "name": "Olivia Bailey",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "As a simple, comparative piece of maths, if the Minister is saying that breakfast clubs will save families £450 a year, how much money is the Department for Education providing to the school to provide that breakfast?",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Olivia Bailey",
+   "member_id": 5337,
+   "type": "Contribution",
+   "text": "As the right hon. Gentleman will be well aware, the breakfast club represents 30 minutes of free childcare, as well as a healthy breakfast. That is how we calculated the estimated cost savings for families. We have also increased the funding for schools, as I have just said, having learned from headteachers and schools, which has been widely welcomed. We are also limiting the number of branded uniform items a school can require, a measure that could save some parents up to £50 per child during the back-to-school shop. Together, these measures could save up to £500 per child per year. The hon. Member for Meriden and Solihull East (Saqib Bhatti) asked about school uniform costs. I would like to take the opportunity to clarify this point: we are introducing the policy deliberately because we need to reduce costly expectations on parents in this challenging time for the cost of living. There will be three branded items that schools may use as they see fit. The hon. Member for Meriden and Solihull East mentioned sports clubs, and the Government are taking a common-sense approach here. If, for example, a school wants to loan some pupils its uniform or whatever it may be, it will be able ",
+   "name": "Olivia Bailey",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I strongly support the Government’s objective of driving down the cost of branded uniform for families. Will the Minister look at the proposals that the Liberal Democrat tabled in Committee and on Report? We suggested that, instead of capping the number of items, we cap the cost, which would then be reviewed in line with inflation every year. That way, we would help to bring down the cost, because if we reduce the number of items, suppliers will just push up their prices, as they are selling fewer items. They might charge £100 for a blazer instead of £50. Our proposal would free schools to set their own uniform policy and let the market do its job by driving down prices for families.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Olivia Bailey",
+   "member_id": 5337,
+   "type": "Contribution",
+   "text": "I thank the hon. Lady for her positive and constructive engagement on this question. Of course, the Government carefully considered the amendments that were tabled. My concern with her proposal would be the bureaucratic burden on schools. The simplicity of requiring three branded items can help us in that regard.",
+   "name": "Olivia Bailey",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Saqib Bhatti",
+   "member_id": 4818,
+   "type": "Contribution",
+   "text": "I am not trying to catch the Minister out here; perhaps she could write to me afterwards for clarity. She talks about a common-sense approach, but we are making it concrete in legislation. On the requirement for three branded items, would the school be in breach? Would the parents be in breach? What happens in that situation?",
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East"
+  },
+  {
+   "who": "Olivia Bailey",
+   "member_id": 5337,
+   "type": "Contribution",
+   "text": "I am very happy to write to the hon. Gentleman and set that out in detail, but let me try again. There will be a requirement for three branded items. That is the maximum that schools can require. They can choose where they would like to allocate those branded items, whether that be in the main school uniform or for PE. If a child joined a football team, for which the kit is not part of the three required items, then as long as the school does not require the pupil to wear that kit, they may, for example, provide a loan or say that they could buy it. I hope that clarifies the point.",
+   "name": "Olivia Bailey",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "The Minister says that the limit is three items, but actually, the limit is three in primary school, while I believe it is four in secondary school—she will correct me if I am wrong—so long as the fourth is a tie. Can she tell me for what reason a fourth is not allowed in primary school, if the fourth is a tie?",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Olivia Bailey",
+   "member_id": 5337,
+   "type": "Contribution",
+   "text": "I shall write to the right hon. Gentleman in extreme clarity on that point. Secondly, the Bill’s children’s social care reforms will shift the system away from increasing reliance on residential provision, towards stronger early intervention and prevention. We want to keep families together as much as possible and, where children cannot remain at home, we want to support them to live with kinship carers or in foster families. Children’s social care has the power to transform the lives of some of our most vulnerable children, and children in care deserve a childhood filled with love, support and access to the opportunities that will set them up for a successful life, but the system is not delivering that ambition. Through the measures introduced by this legislation, we will champion family group decision making, fix the broken care market, create powers to introduce a profit cap for providers, and provide a staying close support package to address the cliff edge that young people face when they leave care. Thirdly, it bears repeating that this is the biggest piece of safeguarding legislation in a generation, delivering robust action to keep children safe from harm. The Government ha",
+   "name": "Olivia Bailey",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Sir Julian Lewis (New Forest East) (Con)",
+   "member_id": 54,
+   "type": "Contribution",
+   "text": "I have come along to genuinely learn more about this and to ask a question about the single identifier raised by my constituent Catherine. She points out that the General Medical Council, in particular, has advised against using the NHS number to supply an effective identifier and that it should not be used outside the Department of Health and Social Care. Does the Minister recognise people’s concerns about a possible loss of data? Does she accept that we do not want to be introducing a form of digital ID that might persist after the children become adults?",
+   "name": "Sir Julian Lewis",
+   "party": "Con",
+   "seat": "New Forest East"
+  },
+  {
+   "who": "Olivia Bailey",
+   "member_id": 5337,
+   "type": "Contribution",
+   "text": "I take everything that the right hon. Gentleman has said on board. I will come to the topics he raises in more detail in my speech. The Government will also introduce new multi-agency child protection teams in every local area to make sure that agencies work together to protect children from harm as quickly as possible. We will also require local authorities to maintain registers of children not in school in their areas, such as home educated children and children missing education. Parents of home educated children will have a duty to provide information about them. That will help to ensure that local authorities can identify all children not in school living in their areas so that they can fulfil their existing duties to ensure that those children are receiving a safe, suitable education. The Bill also introduces provisions requiring local authority consent for the most vulnerable children, or those with the highest needs, to be home educated. That includes those subject to child protection inquiries or plans and those enrolled in special schools. Home education can mean that children sometimes slip under the radar of services that are there to support them, so it is essential fo",
+   "name": "Olivia Bailey",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Mr Forster",
+   "member_id": 5322,
+   "type": "Contribution",
+   "text": "As the Minister will have heard, I am a bit more supportive of the Bill due to safeguarding concerns based on what happened with Sara Sharif in my constituency of Woking. However, I would also highlight the concerns about the way that Surrey county council failed to protect Sara. Although I am mindful of safeguarding concerns, does the Minister agree that the Government need to properly hold local authorities accountable and resource them to ensure that they can properly protect children? They are not doing that at the moment.",
+   "name": "Mr Forster",
+   "party": "LD",
+   "seat": "Woking"
+  },
+  {
+   "who": "Olivia Bailey",
+   "member_id": 5337,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for his advocacy on this issue after the terrible events that led to Sara Sharif’s death. He has been doing an excellent job of that. I very much agree that the findings in the report on that case are appalling. The Government are taking them extremely seriously and will continue to work with local authorities to make sure that children are kept safe. Lastly, the Bill helps to ensure consistently high standards in our schools. If I may quote the right hon. Member for East Hampshire (Damian Hinds) , we are indeed “striving for academic excellence”. Through our reforms to the academy system, we will give every family the certainty that they will be able to access a good local school for their child, delivered through excellent teaching and leadership, a rich, broad and high-quality curriculum and a pay floor for all teachers. We are designing a school system that supports and challenges all schools, allowing them to collaborate, innovate and drive excellence. The hon. Member for Caithness, Sutherland and Easter Ross talked about the issues raised by Michelle Zaher and the hon. Member for Twickenham talked about evidence. The Bill is built on a robust evidence ",
+   "name": "Olivia Bailey",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Andrew Cooper",
+   "member_id": 5195,
+   "type": "Contribution",
+   "text": "The right hon. Member for New Forest East (Sir Julian Lewis) raised concerns about the General Medical Council’s view on this. Is the Minister aware that the Royal College of Paediatrics and Child Health is advocating the use of the NHS number? Is she therefore aware that there is a divergence of views in the medical community on this point?",
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire"
+  },
+  {
+   "who": "Olivia Bailey",
+   "member_id": 5337,
+   "type": "Contribution",
+   "text": "I am grateful to my hon. Friend for that useful contribution to the debate. I am conscious of time, so I will conclude by once again thanking the hon. Member for Caithness, Sutherland and Easter Ross for presenting this debate. I also thank Members across the Chamber for an excellent debate and for their thoughtful contributions this afternoon. I would like to recognise the tireless efforts of schools, local authorities and the many organisations that champion children’s wellbeing every day. The Bill will put more money back into the pockets of parents, reform our children’s social care system, safeguard vulnerable children and drive rising standards in all our schools. As we continue the passage of this transformational Bill, our focus will continue to be on breaking down the barriers to opportunity and ensuring that every child is safe.",
+   "name": "Olivia Bailey",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Jamie Stone",
+   "member_id": 4612,
+   "type": "Contribution",
+   "text": "As the right hon. Member for East Hampshire (Damian Hinds) said, it has been a good debate, although perhaps a little sparkier than I had first anticipated. As Chairman of the Petitions Committee, I must remain resolutely impartial in these matters. If we say that the overall impression of the Bill at this stage has some way to go, it is like the proverbial curate’s egg—good in parts. I particularly thank Michelle Zaher, who must take considerable satisfaction from the fact that the petition that she launched, with all the many people who support her, has achieved such a far-ranging and broad debate. The petitioners can take pleasure from how it has worked. That is how it works in the Petitions Committee: the petition has instigated a response from the Government. That is how we deal with petitions in this place. Ms Barker, thank you for chairing this debate. Question put and agreed to. Resolved , That this House has considered e-petition 722377 relating to the Children’s Wellbeing and Schools Bill.",
+   "name": "Jamie Stone",
+   "party": "LD",
+   "seat": "Caithness, Sutherland and Easter Ross"
+  }
+ ],
+ "fetched": "2026-10-21T20:27:33Z"
+}

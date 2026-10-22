@@ -1,0 +1,327 @@
+{
+ "generated": "2026-10-22",
+ "docs": [
+  {
+   "collection": "meta",
+   "doc_id": "trends",
+   "file": "data/trends.json",
+   "sha": "26359bff325f",
+   "bytes": 12666
+  },
+  {
+   "collection": "meta",
+   "doc_id": "emerging",
+   "file": "data/emerging.json",
+   "sha": "8c135d5fe166",
+   "bytes": 17750
+  },
+  {
+   "collection": "meta",
+   "doc_id": "calendar",
+   "file": "data/dash/calendar.json",
+   "sha": "dda49029425d",
+   "bytes": 2304
+  },
+  {
+   "collection": "meta",
+   "doc_id": "deadlines",
+   "file": "data/dash/deadlines.json",
+   "sha": "e39f0e532d9d",
+   "bytes": 10554
+  },
+  {
+   "collection": "meta",
+   "doc_id": "citations",
+   "file": "data/dash/citations.json",
+   "sha": "e658959400a6",
+   "bytes": 71548
+  },
+  {
+   "collection": "meta",
+   "doc_id": "parties",
+   "file": "data/dash/parties.json",
+   "sha": "de8e555b84b4",
+   "bytes": 1713
+  },
+  {
+   "collection": "meta",
+   "doc_id": "bills",
+   "file": "data/dash/bills.json",
+   "sha": "308062f5d395",
+   "bytes": 12926
+  },
+  {
+   "collection": "meta",
+   "doc_id": "voters",
+   "file": "data/dash/voters.json",
+   "sha": "0a014ca9d817",
+   "bytes": 64738
+  },
+  {
+   "collection": "meta",
+   "doc_id": "profiles-1",
+   "file": "data/dash/profiles-1.json",
+   "sha": "4cd6434b3f17",
+   "bytes": 180521
+  },
+  {
+   "collection": "meta",
+   "doc_id": "profiles-2",
+   "file": "data/dash/profiles-2.json",
+   "sha": "d8770c7f1715",
+   "bytes": 180798
+  },
+  {
+   "collection": "meta",
+   "doc_id": "profiles-3",
+   "file": "data/dash/profiles-3.json",
+   "sha": "d4e14b747a57",
+   "bytes": 20889
+  },
+  {
+   "collection": "bills",
+   "doc_id": "3664",
+   "file": "data/dash/bills/3664.json",
+   "sha": "1cba70693095",
+   "bytes": 754
+  },
+  {
+   "collection": "bills",
+   "doc_id": "3670",
+   "file": "data/dash/bills/3670.json",
+   "sha": "52df12c540e0",
+   "bytes": 783
+  },
+  {
+   "collection": "bills",
+   "doc_id": "3713",
+   "file": "data/dash/bills/3713.json",
+   "sha": "2c112871768e",
+   "bytes": 825
+  },
+  {
+   "collection": "bills",
+   "doc_id": "3746",
+   "file": "data/dash/bills/3746.json",
+   "sha": "fb341490d3f4",
+   "bytes": 1095
+  },
+  {
+   "collection": "bills",
+   "doc_id": "3756",
+   "file": "data/dash/bills/3756.json",
+   "sha": "eb3b3930ad6c",
+   "bytes": 1111
+  },
+  {
+   "collection": "bills",
+   "doc_id": "3769",
+   "file": "data/dash/bills/3769.json",
+   "sha": "3b7468e94134",
+   "bytes": 980
+  },
+  {
+   "collection": "bills",
+   "doc_id": "3772",
+   "file": "data/dash/bills/3772.json",
+   "sha": "94878810e6d5",
+   "bytes": 15451
+  },
+  {
+   "collection": "bills",
+   "doc_id": "3781",
+   "file": "data/dash/bills/3781.json",
+   "sha": "8e18809dbedc",
+   "bytes": 821
+  },
+  {
+   "collection": "bills",
+   "doc_id": "3810",
+   "file": "data/dash/bills/3810.json",
+   "sha": "9e222a7d98a8",
+   "bytes": 1907
+  },
+  {
+   "collection": "bills",
+   "doc_id": "3812",
+   "file": "data/dash/bills/3812.json",
+   "sha": "ea7abb9d0aaa",
+   "bytes": 854
+  },
+  {
+   "collection": "bills",
+   "doc_id": "3820",
+   "file": "data/dash/bills/3820.json",
+   "sha": "c5362e1a7049",
+   "bytes": 750
+  },
+  {
+   "collection": "bills",
+   "doc_id": "3874",
+   "file": "data/dash/bills/3874.json",
+   "sha": "46f3f0fbca04",
+   "bytes": 663
+  },
+  {
+   "collection": "bills",
+   "doc_id": "3887",
+   "file": "data/dash/bills/3887.json",
+   "sha": "6490c4fddaed",
+   "bytes": 49654
+  },
+  {
+   "collection": "bills",
+   "doc_id": "3909",
+   "file": "data/dash/bills/3909.json",
+   "sha": "d2518721cd10",
+   "bytes": 93769
+  },
+  {
+   "collection": "bills",
+   "doc_id": "3919",
+   "file": "data/dash/bills/3919.json",
+   "sha": "753939371021",
+   "bytes": 783
+  },
+  {
+   "collection": "bills",
+   "doc_id": "3948",
+   "file": "data/dash/bills/3948.json",
+   "sha": "b72dbd709507",
+   "bytes": 672
+  },
+  {
+   "collection": "bills",
+   "doc_id": "3954",
+   "file": "data/dash/bills/3954.json",
+   "sha": "331883afcc95",
+   "bytes": 845
+  },
+  {
+   "collection": "bills",
+   "doc_id": "4001",
+   "file": "data/dash/bills/4001.json",
+   "sha": "c3802efe72f1",
+   "bytes": 965
+  },
+  {
+   "collection": "bills",
+   "doc_id": "4003",
+   "file": "data/dash/bills/4003.json",
+   "sha": "efd81eabe48a",
+   "bytes": 847
+  },
+  {
+   "collection": "bills",
+   "doc_id": "4017",
+   "file": "data/dash/bills/4017.json",
+   "sha": "d37ec854f6ee",
+   "bytes": 798
+  },
+  {
+   "collection": "bills",
+   "doc_id": "4019",
+   "file": "data/dash/bills/4019.json",
+   "sha": "b6eedfa965cd",
+   "bytes": 9076
+  },
+  {
+   "collection": "bills",
+   "doc_id": "4023",
+   "file": "data/dash/bills/4023.json",
+   "sha": "04315403101f",
+   "bytes": 1284
+  },
+  {
+   "collection": "bills",
+   "doc_id": "4037",
+   "file": "data/dash/bills/4037.json",
+   "sha": "116a659308a8",
+   "bytes": 689
+  },
+  {
+   "collection": "bills",
+   "doc_id": "4045",
+   "file": "data/dash/bills/4045.json",
+   "sha": "d21bd3c0b50a",
+   "bytes": 850
+  },
+  {
+   "collection": "bills",
+   "doc_id": "4048",
+   "file": "data/dash/bills/4048.json",
+   "sha": "be7c27733d0b",
+   "bytes": 947
+  },
+  {
+   "collection": "bills",
+   "doc_id": "4064",
+   "file": "data/dash/bills/4064.json",
+   "sha": "865e6f0924a4",
+   "bytes": 751
+  },
+  {
+   "collection": "bills",
+   "doc_id": "4142",
+   "file": "data/dash/bills/4142.json",
+   "sha": "bc5e5b48016e",
+   "bytes": 941
+  },
+  {
+   "collection": "bills",
+   "doc_id": "4158",
+   "file": "data/dash/bills/4158.json",
+   "sha": "d2afaba4c177",
+   "bytes": 850
+  },
+  {
+   "collection": "bills",
+   "doc_id": "4165",
+   "file": "data/dash/bills/4165.json",
+   "sha": "77c9062fa550",
+   "bytes": 776
+  },
+  {
+   "collection": "bills",
+   "doc_id": "4171",
+   "file": "data/dash/bills/4171.json",
+   "sha": "67db3fcc441b",
+   "bytes": 735
+  },
+  {
+   "collection": "bills",
+   "doc_id": "4179",
+   "file": "data/dash/bills/4179.json",
+   "sha": "c00cb01b50c0",
+   "bytes": 692
+  },
+  {
+   "collection": "bills",
+   "doc_id": "4206",
+   "file": "data/dash/bills/4206.json",
+   "sha": "19e9c1353dc8",
+   "bytes": 911
+  },
+  {
+   "collection": "bills",
+   "doc_id": "4259",
+   "file": "data/dash/bills/4259.json",
+   "sha": "0c7f393dad6a",
+   "bytes": 1055
+  },
+  {
+   "collection": "bills",
+   "doc_id": "4265",
+   "file": "data/dash/bills/4265.json",
+   "sha": "58ca8bc80aa6",
+   "bytes": 802
+  },
+  {
+   "collection": "bills",
+   "doc_id": "4314",
+   "file": "data/dash/bills/4314.json",
+   "sha": "89768b3c7593",
+   "bytes": 761
+  }
+ ]
+}

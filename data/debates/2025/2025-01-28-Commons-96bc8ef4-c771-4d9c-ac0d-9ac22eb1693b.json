@@ -1,0 +1,605 @@
+{
+ "ext_id": "96bc8ef4-c771-4d9c-ac0d-9ac22eb1693b",
+ "date": "2025-01-28",
+ "house": "Commons",
+ "section": "PBC",
+ "title": "Children's Wellbeing and Schools Bill (Fifth sitting)",
+ "parents": [
+  "Public Bill Committees"
+ ],
+ "location": "Public Bill Committees",
+ "url": "https://hansard.parliament.uk/Commons/2025-01-28/debates/96bc8ef4-c771-4d9c-ac0d-9ac22eb1693b/ChildrenSWellbeingAndSchoolsBillFifthSitting",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston",
+   "member_id": 4679
+  },
+  {
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen",
+   "member_id": 5270
+  },
+  {
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire",
+   "member_id": 5096
+  },
+  {
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards",
+   "member_id": 4125
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire",
+   "member_id": 3969
+  },
+  {
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East",
+   "member_id": 5210
+  },
+  {
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education",
+   "member_id": 4653
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Neil O'Brien (Harborough, Oadby and Wigston) (Con)",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I beg to move amendment 23, in clause 7, page 12, line 13, at end insert — “(3A) Where staying close support is provided, it must be provided with due regard to the wishes of the relevant person and a record must be kept of that person’s wishes.” This amendment would require local authorities to take account of the wishes of the relevant young person when providing staying close support, and keep a record of those wishes.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "With this it will be convenient to discuss the following: Amendment 40, in clause 7, page 12, line 22, at end insert— “(vi) financial support; (vii) financial literacy” Amendment 41, in clause 7, page 12, line 28, at end insert— “(c) the provision of supported lodgings, where the young person and local authority deem appropriate.” Clause stand part.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mr Stringer. As we return to our work on the Bill with clause 7, I want to say that it is still a bit disappointing that we have been through Second Reading, and here we are on the third day of Committee, and we still do not have the impact assessment for the Bill, which could potentially answer some of the questions that we will be raising today. I know the Ministers want to do the right thing in trying to get it out of the relevant committee and published, and I hope they can succeed in doing that pretty soon. On clause 7, no reasonable person would argue that a young person leaving care does not require some support to live independently. Young people who have not been in care often require years of support to live independently, and they are less likely to be doing so away from home and will be in less difficult circumstances. Again, the Opposition support the Government’s objectives in this clause to provide staying close support, but we have some questions about how it is to work in practice. First, the Bill gives discretion to the local authority on whether this support is in the best interests of a young person’s welfare. S",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Darren Paffey (Southampton Itchen) (Lab)",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mr Stringer. I rise to support clause 8 stand part. [ Interruption. ] Sorry, my mistake.",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Ian Sollom (St Neots and Mid Cambridgeshire) (LD)",
+   "member_id": 5096,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mr Stringer. The Liberal Democrats welcome the new requirements on local authorities in the clause to assess whether certain care leavers aged under 25 require the provision of staying close support. The charity Become, which supports care-experienced children, has found that care-experienced young people are nine times more likely to experience homelessness than other young people and that homelessness rates for care leavers have increased by 54% in the last five years. This is a really important clause. Amendment 40 deals with the definition of staying close support. It uses the existing definition of the services, which should be set out in the local offer from local authorities. Become’s care advice line has found that care leavers are often unaware of the financial support available from the local authority, such as council tax discounts, higher education bursaries and other benefits. That can lead them to face unnecessary financial hardship. That is the reason for the financial support part of the amendment. More generally, financial literacy can have a huge negative impact on care leavers, who are more likely to live indepen",
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire"
+  },
+  {
+   "who": "The Minister for School Standards (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I will speak to amendments 23, 40 and 41 and to clause 7. Amendment 23 was tabled by the hon. Members for Harborough, Oadby and Wigston and for Central Suffolk and North Ipswich, and I thank them for it. The amendment draws attention to an important principle that must run through the whole approach that local authorities take to listening and responding to the wishes and feelings of their care leavers. When a local authority is assessing what staying close support should be provided to a young person, it should have regard to their wishes, which is why we intend to publish statutory guidance that will draw on established good practice that we want all local authorities to consider. It will cover how that will work, with interconnecting duties, especially the duty to prepare a pathway plan and keep it under a review. In developing and maintaining the plan and support arrangements, there is a requirement for the care leaver’s wishes to be considered. In response to the specific questions raised by the hon. Member for Harborough, Oadby and Wigston, as I said, pathway planning is already a statutory requirement to eligible care leavers, so the statutory guidance will set out how and w",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "It is good to hear that supported lodgings will be referred to in statutory guidance. I heard from the charity Home for Good, which is involved in setting up those networks of local authorities that provide supported lodgings, that in some local authorities money for supported lodgings cannot be found, because the local authority thinks that fostering money cannot be used for supported lodging and that it cannot use staying close support. Real clarity that staying close support funding can be used for supported lodgings is important to make this option work.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I appreciate the hon. Lady’s interest in this matter. We will produce the statutory guidance to make all this absolutely clear. Before I come to clause 7 stand part, I want to respond to an additional question from the hon. Member for Harborough, Oadby and Wigston that I did not answer earlier. He asked about digital options and, as someone standing here using an iPad, I recognise the importance of that, particularly for young people. The local authorities already work with a range of digital options to connect with their care leavers, and we would certainly expect that to continue, and expect good practice to continue being developed and to be set out in the statutory guidance. Turning to clause stand part, clause 7 requires each local authority to consider whether the welfare of former relevant children up to the age of 25 requires staying close support. Where this support is identified as being required, the authority must provide staying close support of whatever kind the authority considers appropriate, having regard to the extent to which that person’s welfare requires it. Staying close support is to be provided for the purpose of helping the young person to find and keep sui",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I would like to push amendment 23 to a vote.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "With this it will be convenient to discuss new clause 40— National offer for care leavers — ‘In the Children and Social Work Act 2017, after section 2 insert— “2A National offer for care leavers (1) The Secretary of State for Education must publish information about services which care leavers in all areas of England should be able to access to assist them in adulthood and independent living or in preparing for adulthood and independent living. (2) For the purposes of subsection (1), services which may assist care leavers in adulthood and independent living or in preparing for adulthood and independent living include services relating to— (a) health and well-being; (b) relationships; (c) education and training; (d) employment; (e) accommodation; (f) participation in society. (3) Information published by the Secretary of State under this section is to be known as the ‘National Offer for Care Leavers’. (4) The Secretary of State must update the National Offer for Care Leavers from time to time. (5) Before publishing or updating the National Offer for Care Leavers the Secretary of State must consult with relevant persons about which services may assist care leavers in adulthood and in",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I will speak to clause 8. Expert reviews have shown that many care leavers face barriers to securing and maintaining affordable housing. Too many young people end up in crisis and experiencing homelessness shortly after leaving care. Although housing and children’s services departments are encouraged in current guidance to work together to achieve the common aim of planning and providing appropriate accommodation and support for care leavers, that is not happening consistently in practice. To enable better joined-up planning and support for care leavers, the clause will require local authorities to publish their plans, setting out how they will ensure a planned and supportive transition between care and independent living for all care leavers. Our aim is for local authorities to co-ordinate and plan the sufficiency of care leaver accommodation, to plan for the right to accommodation for each individual, and to make early, clear planning decisions that are right for each care leaver’s needs. The clause specifies that the information that the local authority is required to publish includes information about its arrangements for enabling it to anticipate the future needs of care leave",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "The question about securing and keeping accommodation is incredibly important for care leavers; it is closely linked to what the hon. Member for St Neots and Mid Cambridgeshire was saying about financial capacity. What are the Minister’s thoughts on what the default position should be for care leavers in receipt of universal credit? Should there be automatic rent payments from universal credit, or should it be for the individual to manage? Obviously that can change in individual cases, but what should be the default and what discussions has she had with the Department for Work and Pensions?",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "As the right hon. Gentleman will know, we work on a cross-Government basis. We have regular conversations with colleagues in various Departments to ensure that the offer we provide to care leavers will give them the best chance to live independently and that the approach of other Departments to these matters complements and co-operates with what this legislation is intended to achieve. The right hon. Gentleman raises a specific and quite technical question that relates to the work of the Department for Work and Pensions. As I will come on to, we are working hard to re-establish the ministerial working group to support these young people. I am certain that this matter can be carefully considered as part of that work, so I will take it away and feed it on to colleagues. Given the importance of the clause and the changes it will bring to how local authorities work with children leaving care or young people under the age of 25 who have been in care, I urge the Committee to support it. I turn to new clause 40, tabled by the hon. Member for North Herefordshire, who I believe is not present today.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "I am told that she is unwell.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Do I still respond to the clause?",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "It is within the scope of this debate, so the Minister may respond if she wishes to.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I am happy to respond to new clause 40, which would require the Secretary of State to publish a national offer for care leavers, mirroring the requirement on local authorities to publish their local offer. There are already examples of additional support provided for care leavers from central Government that complement the support provided by local authorities. Care leavers may, for example, be entitled to a £3,000 bursary if they start an apprenticeship and may be entitled to the higher one-bedroom rate of housing support from universal credit. We have re-established the care leaver ministerial board, now co-chaired by the Secretary of State for Education and the Deputy Prime Minister. It comprises Ministers from 11 other Departments to consider what further help could be provided to improve outcomes for this vulnerable group of young people.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I wonder whether that reconstituted group will pay particular attention to the role of enlightened employers. Bearing in mind the immense breadth of unique life experiences that many people with care experience bring to a business—it will benefit the young person as well as the business—will employers take an extra chance on a care leaver and give them that opportunity? Being in work and having a regular wage opens up so much else in life.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The right hon. Gentleman raises an important point and advocates powerfully for this vulnerable group of young people. There will indeed be representation on the ministerial group from various Government Departments, including the Minister for business— [ Interruption. ]",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Order.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "There will be a Minister from the Department for Science, Innovation and Technology. That area will form part of the discussions, I am sure, as the purpose of the group is to give the best chance to care leavers—this very vulnerable group of young people—and ensure that we as a Government are working collaboratively to make that effective. We recognise how important it is that care leavers have clear information about the help and support they are entitled to, both from their local authority and central Government Department. We are therefore reviewing our published information to ensure that it is accessible and clear and that care leavers can quickly and easily understand and access all the support they are entitled to. Once that review has concluded, we will consider how best to publish this information. Therefore, I ask for the new clause to be withdrawn and urge the Committee to support clause 8.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "This is a good and sensible clause, and the Opposition support its inclusion in the Bill. I would note that although all these clauses are good, they come with an administrative cost. We have already discussed the importance of ensuring that the measures are properly funded, but I want to press the Minister for a few more insights on clause 8. There is a list of details about the local offer—that it must be published, must anticipate the needs of care leavers—and it refers to how they will co-operate with housing authorities and provide accommodation for those under 25. This is all good stuff. The discussion that we have just had prefigured the question that I wanted to ask, which is about co-operation with national bodies. The clause is quite focused on co-operation between local bodies and drawing up a clear offer. That is a good thing—although, obviously, some of those housing associations are quite national bodies these days. In the “Keeping children safe, helping families thrive” policy paper published a while back, the Government set out an intention to extend corporate parenting responsibilities to Government Departments and other public bodies, with a list of corporate pare",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Will my hon. Friend also comment on the particular situation of those young people from care who go on to university? Of course, come the holidays the vast majority of people in higher education go home, but the situation is very different for those who have been in care. Some enlightened universities—including the University of Winchester, in my own county—do very good work in this regard, but will he expand a little on how those young people in higher education can be supported with the offer?",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "That excellent point is another example of exactly what we are talking about. In one sense, I regret not having an amendment that would insert a specific paragraph about the local offer from national organisations. On the other hand, it is pretty clear that the Minister is very interested in this question and is pursuing it. Anyway, there may even be scope to write that into the Bill as it goes through the Lords. The DFE’s explanatory notes for the Bill say that, although the housing and children’s services departments are encouraged in guidance—in part 7 of the Children Act 1989, I think—to work together to achieve the common aim of planning and providing appropriate accommodation and support for care leavers, that is not happening consistently in practice; the Minister alluded to that. My question to the Minister is: what do we know from current practice about where that does not happen and why not? It seems obvious, and something that every well-intentioned social worker—every person who works with care leavers—would want to do. What does the good model of effective provision of that support look like? Are there local authorities that are the best cases of that? Other than provi",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Darren Paffey",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "I appreciate your patience, Mr Stringer—this is not the first time I have stumbled over Committee procedure and no doubt it will not be the last. I welcome the Minister’s comments and the inclusion of clause 8, which I strongly support. I want to address the sentiment of new clause 40 as well. The extension of the requirements around accommodation, extending the Children and Social Work Act 2017, requires councils to publish that local offer. That is crucial. Many of us have served in local government; it is at that local level that these crucial services, which can often make or break opportunities for care leavers, are delivered. The clause also takes steps towards making good on the Prime Minister’s commitment to guarantee care leavers a place to live. We would all recognise, from the context of our own constituencies, that the barriers faced by care-experienced young people are numerous. The likelihood that good outcomes in life will be harder for them to achieve is simply a fact. It is absolutely right to bolster the local offer, as clause 8 seeks to do. The new provisions will further strengthen what many local authorities, including my own in Southampton, have begun to do ov",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Tom Hayes (Bournemouth East) (Lab)",
+   "member_id": 5210,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Mr Stringer, and it is an honour to follow my hon. Friend the Member for Southampton Itchen, who is a powerful champion for care-experienced people in speaking from his own personal experience—and the fact that he is my office room- mate helps. I want care leavers to reach their potential and to be active members of society in Bournemouth and Britain. I want them to have the same opportunities in life as other young adults. As young people in care approach adulthood, they need to be supported to think about and plan their future—to think about things such as where they will live and what support they may need to find accommodation, employment and take part in their communities. But as my hon. Friend just explained, so many care-experienced people are held back. Some of the statistics are truly startling and appalling. The National Audit Office report entitled “Care leavers’ transition to adulthood” identified poorer life outcomes for care leavers as a “longstanding problem” with a likely high public cost, including in mental health, employment, education, policing and justice services. The Department for Education’s 2016 policy paper ",
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for Southampton Itchen for his powerful and personal testimony, and for his clear commitment to these issues. I also thank my hon. Friend the Member for Bournemouth East for his clear and important contribution. My hon. Friends have set out the reasons why we are providing that continuity of support when care leavers reach the age of 18, through the Staying Put programme, and why we are now legislating to add Staying Close to the duties of local authorities. It is to provide that care to leavers; to help them to find suitable accommodation and access services, including those relating to health and wellbeing support; and to help them develop and build their confidence and their skills as they get used to living independently. It is also why we are investing in family-finding, mentoring and befriending programmes to help care leavers to develop those strong social networks, which they can then turn to when they need advice and support. As hon. Members have rightly said, it is really important that care leavers are supported to get into education, employment or training—the right hon. Member for East Hampshire clearly said that as well. That is why a",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Stephen Morgan)",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mr Stringer. I look forward to working through the measures in this landmark Bill with all Members, as has been the spirit so far. The children’s social care market is not working effectively. The Competition and Markets Authority and the independent review of children’s social care recommended a regional approach to planning and commissioning children’s care places. My Department will support local authorities to increase the number of regional care co-operatives over time. As Members will have noted, the clause refers to those as “regional co-operation arrangements”. As a last resort, the legislation will give the Secretary of State the power to direct local authorities to establish regional co-operation arrangements. Where a direction is in place, regions will be required to analyse future accommodation needs for children, publish sufficiency strategies, commission care places for children, recruit and support foster parents, and develop or facilitate the development of new provision to accommodate children. We expect regional care co-operatives to gain economies of scale and to harness the collective buying power of individual ",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Regional co-operation is something that the previous Government were extremely enthusiastic about and worked to build up, so the Minister will not be surprised to hear that we support the clause. The previous Government’s “Stable Homes, Built on Love” policy paper said that the Government would work with local authorities to test the use of regional care co-operatives—regional groupings of authorities to plan, commission and deliver care places—in two areas. Those two pathfinders would trial an approach within the legal framework, with a view to rolling it out nationally following evaluation as soon as parliamentary time allowed. Were we in office, I suspect that we would be very much considering the same clause. This Government have announced that those two pathfinders are going ahead, in Greater Manchester and the south-east, from this summer. When we consulted about the idea—it is a good idea —there was a lot of support, but there were also a lot of concerns and questions about the size of the groups, the risk that they would be too removed from the child, and the loss of relationships with small providers in particular. As the Minister said, this is a recommendation from previo",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mr Stringer. I will ask the Minister a couple of questions about clause 9 that I hope he will address when he responds. We support its intent, but I want to understand what safeguards or guidance will be put in place to ensure that children in care in areas where these regional co-operatives are active do not inadvertently end up far away from their families. We already know that about a fifth of children in care are placed over 20 miles away from their families and almost half are living outside their local authority area. In some cases, it is important that a child is moved reasonably far away for safeguarding reasons, but often that is not the case. I know from having spoken to care-experienced young people and to the Become Charity, which has done quite a lot of research into the impact of children being moved far away from home, that that can affect their mental health, that they can feel isolated and lonely having moved away from family and friends, and that it can cause stigma in the school or college environment. I want to understand how the Minister intends to ensure that young people are not moved further away than they n",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Again, as hon. Members have said, we support this approach and it is the approach that we were taking. It is also true that when everybody agrees on something, it is usually the point of most danger for making bad law. It is important to have these Committee proceedings and proper scrutiny. I was personally never keen on the name of regional co-operatives, although I do not think the word “co-operative” actually appears in the Bill. We can, of course, have co-operation without having a co-operative. This legislation is actually about regional co-operation arrangements. There are three different types of potential co-operation arrangement: first, for strategic accommodation functions to be carried out jointly between two different local authorities; secondly, for one to carry out the duties on behalf of all; and thirdly, for a corporate body, effectively a separate organisation, to be created to do that. I imagine that Government Members will have different views depending on which of those three forms the arrangements take. Will the Minister say which of those he expects to be most common? As well as the pilots, there have no doubt already been formal and informal conversations wit",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I probably should have asked the Minister about scale. In the two pilots, we have Greater Manchester, which is just under 3 million people, and the south-east, which is roughly 3 million people. I do not know what the Government’s expectations about scale are and whether they would continue to support something like the tri-borough arrangement, which is obviously much smaller.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "My hon. Friend, as ever, makes a very apt point. Where we end up on that continuum of scale depends on what we are going after most. Of course, we want all those things. For purchasing power, a bigger scale is better, but for close and easy working relationships, a smaller scale is sometimes better. When we are talking about children, and the placement of vulnerable children, that may well push us towards the smaller end of the scale. Perhaps it is possible to perform different functions at different levels, with some functions still being performed by the individual local authority. Even then, as my hon. Friend often rightly says, there is an enormous difference in scale between London local authorities, which are actually quite small even though they are in our largest city, and Birmingham, which is one enormous authority. It might be argued that doing some things at a sub-local authority level makes sense in a very large local authority area, but as I say, it might be possible to do some things as the single local authority, some things at a larger level, and some things—presumably principally in terms of purchasing leverage—on a wider scale again. If regional co-operation arran",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Tom Hayes",
+   "member_id": 5210,
+   "type": "Contribution",
+   "text": "I rise to speak in favour of regional co-operation arrangements, primarily because of what we have seen in two important reviews or evaluations. The recent independent review of children’s social care that I referred to highlighted a system at breaking point, as we also heard from the Minister. The insight from that report was that how we find, match, build, and run foster homes and residential care for children in care radically needs to change. When the Competition and Markets Authority looked at this area, it also identified major problems, such as profiteering, weak oversight and poor planning by councils—the verdict on the system is damning. The independent review recommended that a co-operative model should sit at the centre of bringing about change. The values of our movement could provide the loving homes that children in care need. I particularly support this clause because this feels like a very Labour Government Bill—one that has at its heart the co-operative model that is obviously such a big part of our labour movement. My hope is that regional care co-operatives could gain economies of scale and harness the collective buying power of independent local authorities to i",
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank hon. Members for their thoughtful comments, suggestions and questions. On the point that the hon. Member for Harborough, Oadby and Wigston made about learning from the pathfinders, the Department has consulted widely with the sector on the proposals for regional care co-operatives. Learning from the pathfinders has shaped the proposed legislation and the definition of the strategic accommodation functions. We will develop expertise in areas such as data analysis and forecasting, as well as targeted marketing, training and support for foster carers. Working collectively with improved specialist capabilities should allow for greater innovation so that local areas are better able to deliver services for children in care. I turn to the points made by the hon. Member for Richmond—",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Twickenham. We are in Richmond borough.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "My apologies. I did know that, but I was trying to be impressive by remembering the hon. Lady’s constituency and I got it badly wrong. On the hon. Lady’s point about where placements should be, local authorities will continue to have the same statutory duties to find the most appropriate place for looked-after children, including that they should live near home, so far as is reasonably applicable. Regional care co-operatives will assist local authorities with these duties. Placement shortage is a key driver of children being placed in homes far from where they live; regional care co-operatives should improve that by increasing local and regional sufficiency, making more places available locally for children who need them.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Will the Minister confirm that—as I think is the case—the Government would use their powers under the clause to impose regional co-operation agreements only as a last resort, and that we would not push this on everybody who does not want it?",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "The shadow Minister is absolutely correct. We want to work collaboratively with local authorities in rolling this out. We will not force local authorities to do so. I thank him for enabling me to make that clear. Question put.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Forgive me, Mr Stringer; I know that the Minister has finished, but may I speak again, with leave?",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "I have put the Question. I am sorry, but you have missed the opportunity. Question agreed to. Clause 9 accordingly ordered to stand part of the Bill. Clause 10 Use of accommodation for deprivation of liberty",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I beg to move amendment 24, in clause 10, page 16, line 39, at end insert — “(8A) After subsection (9) insert — ‘(10) Where a child is kept in secure accommodation under this section, the relevant local authority has a duty to provide therapeutic treatment for the child.’” This amendment would place a duty on local authorities to provide treatment for children in secure accommodation.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "With this it will be convenient to discuss clause stand part.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "We have come to a particularly serious clause—not that the other clauses are not serious, but the use of deprivation of liberty orders for children is always deeply troubling, as is the rise in the number of children who are subject to them. I share the wish of the Children’s Commissioner to see an end to this practice and an end to the use of unregistered provision. We have seen an increase in the number of young children—including two aged seven last year and 200 under 13—given deprivation of liberty orders. There is nothing in the Bill to differentiate by the child’s age or stage. What consideration has the Minister given to that point? There is something about the use of the orders on very young children that is particularly striking. When a young child goes into secure accommodation, the Secretary of State has to sign it off, but no sign-off is required from the Secretary of State on deprivation of liberty orders. Why not? The Government are keen on consistency elsewhere in the Bill. Will they bring the same consistency to this clause? More broadly, do we not need greater clarity on the mechanism for restricting children’s liberty outside a secure institution? I am sure that M",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Clause 10 will amend the Children Act 1989 such that local authorities can authorise deprivation of liberty of children other than only in a secure children’s home, and will change the term “restricting liberty” to “depriving of liberty”. In the secure children’s home sector, a distinction is often made between what are called justice beds and welfare beds. There are also children detained under the Mental Health Act 1983 on secure mental health wards and in psychiatric intensive care units, or on non-secure wards. I am assuming that we are talking today only about what are known as welfare beds—I say “beds”, but normally the entire facility is either one or the other. To speak on justice beds briefly, there has been a big fall in this country since 2010 in the number of children who are locked up in the criminal justice system: the numbers are down from about 2,000 in 2010 to only around 500 now. That has partly been because of a fall in crime, and in the particular types of crime for which young people used to be locked up, but it is also because of the good work of youth offending teams. Most of those children are older and would typically be in a young offenders institution whe",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Ian Sollom",
+   "member_id": 5096,
+   "type": "Contribution",
+   "text": "My understanding is that this change follows a trend of children being deprived of their liberty outside the statutory route by being housed in unsuitable accommodation not registered with Ofsted, often far from home and family. That has been partly addressed in the questions from the hon. Member for Harborough, Oadby and Wigston. The success of this provision will depend on the regulations. What actually makes a setting capable of being used for the deprivation of liberty? Will there be a requirement with respect to education in that setting? Will they need to be registered with Ofsted? It is not entirely clear. When will regulations relating to this provision be brought forward? Is it the intention that they will mirror the scheme for the secure accommodation? The law around the deprivation of liberty is incredibly complex. Without proper legal advice and representation, it is very hard for families to understand what is going on and what options they have. It is not clear yet what legal aid will be available to families or the child themselves when an application is made under the new route. Can the Minister clarify what will be available with respect to legal aid, or put a time",
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Amendment 24 seeks to place a legal duty on local authorities to provide therapeutic treatment for children placed in secure accommodation—that is, a secure children’s home. The Government’s view is that the amendment is not necessary as there are a number of existing legal duties on local authorities to ensure that wherever children are placed, including in secure accommodation, their needs are met, including the needs for therapeutic treatment. This is part of the duty on local authorities, under primary legislation, to safeguard and promote the welfare of any child that they look after.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I am grateful to the Minister for his informative speech, but can I press him to respond to the specific points made by CAFCASS and the Children’s Commissioner? The Minister is alluding to some of them as he goes along. The first is about requiring explicit Secretary of State approval beforehand. The second is about specifying the frequency of review, particularly for younger children. The third is about having an automatic requirement for children’s protection plans as the child comes out. The fourth, which the Minister has alluded to, is about them being put into illegal settings, and whether something legislative should be done at this point to stop that from happening at all.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I am coming to the end of my speech and hope to answer the points that the Opposition spokesperson made. I will certainly take away the issues that he raised. I thank all Members for their contributions and questions on this very important matter. On consistency, the views of the Children’s Commissioner and age, I know that this point was raised in the other place only yesterday by a former Minister, and I am grateful for that. It is worth saying here, too, that the child rights impact assessment is informing our work on the Bill. I give the shadow Minister the assurance today that I will take on board these comments.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Is the child rights impact assessment for the Bill published so that we can see it?",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "There is no legal obligation for England to publish that assessment, but we are certainly using it to inform our work on the Bill.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I think Ministers have said in previous sittings that it will be published during the process of scrutiny, along with the impact assessment. Is that still the case?",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I am referring to the conducted children’s rights impact assessment, where children are directly impacted by the policies and/or particular groups of children and young people are more likely to be affected by others. As I mentioned, there is no requirement to publish these documents in England. However, the documents are currently under review and we will advise on our next steps shortly. More broadly, with regards to the impact assessments, these will be published in due course.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I thought I had heard Ministers say previously that they were planning to publish this for our benefit—that we would get both the impact assessment and the children’s rights assessment. Perhaps it is me who is sowing confusion and the Minister may still intend to publish this document. I cannot see any reason why the Government would not publish it, so can I get an assurance that that is going to be published?",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "To state this clearly, the impact assessment has not yet been published but is obviously informing our work. Obviously, various different assessments are undertaken and I will certainly get back to the hon. Member on those points.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "The Minister has said a number of times that, by law, the child rights impact assessment does not have to be published. In the interests of transparency and for all of us to do the right thing by children, does he not agree that even if he does not have to publish it, he really ought to do so?",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "To be clear, we will be publishing the regulatory impact assessments. We will certainly be using the evidence from the children’s rights impact assessments to inform our work. I turn to the points raised by the Opposition spokesperson on placements of children under the age of 13. Depriving a child of their liberty must always be a last resort, but it is sometimes necessary to keep that child and others safe. These children are some of the most vulnerable in our society. We must do all that we can to keep them safe and help them get on well in life. When a child under the age of 13 is deprived of their liberty and placed in a secure children’s home, the local authority must obtain approval from the Secretary of State before applying to the court. That requirement is set out in regulations that reflect the added seriousness of depriving children so young of their liberty. The Opposition spokesperson and the right hon. Member for East Hampshire (Damian Hinds) also made a number of broader points about child protection plans and deprivation of liberty. Local authorities’ care-planning duties are clear that when there are looked-after children, they must have a long-term plan for a chi",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I hope that we can clear up the confusion about whether we will see the children’s rights assessment. I cannot see any good reason why we would not be able to see that perfectly routine assessment. None of these things is the end of the world, but not having the impact assessment of the thing that we are quite deep into line-by-line scrutiny of seems to further compound this problem. Obviously, no one can defend that; it is not good practice. I slightly pre-empted what the Minister said—he had scribbled some last remarks—but I was glad that he came to some of the points raised by CAFCASS and the Children’s Commissioner. I raised them partly because I know that their lordships will be extremely interested in these specific questions. There probably is scope for improvement of this clause to do some of those other good things, because this is such a serious issue for those very young children. We will not vote against clause stand part, but I will press our amendment to a vote. I heard what the Minister said, but I just make the point that there is scope for improvement in the clause, and I suspect that their lordships will provide it. Question put, That the amendment be made.",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "With this it will be convenient to discuss clause 12 stand part.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Clauses 11 and 12 will strengthen Ofsted’s regulatory powers to allow it to act at pace and scale when that is in the best interests of children. Specifically, clause 11 strengthens Ofsted’s powers to hold provider groups—parent undertakings, in legislation—to account for the quality of the settings that they own and control. This ensures that Ofsted can take the quickest and most effective action to safeguard vulnerable children, without adding duplication within the existing regime. It will allow Ofsted to look across provider group settings as a whole and take action at provider group level, rather than being limited to doing so setting by setting as it is now. It will also ensure that a provider group is accountable for the quality of the settings that it owns. Where Ofsted reasonably suspects that requirements are not being met in two or more settings owned by the same provider group, it will be able to require senior people in the provider group to ensure improvements in multiple settings. The requirement applies both to settings operated by a single provider and to multiple providers owned by the same group. Ofsted will be able to request that the provider group develops and",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "We are entering a whole new section of the Bill. I will make a number of points now that we could come back to when we debate future clauses, but I hope we will not have to. I hope that we can have discussions about the principle and philosophy now and we might be able to move faster later, but we can come back to them if necessary. As we turn to the clauses dealing with children’s homes, I want to start by checking that the Minister has the same basic understanding of the situation, and the same philosophical take on what we are trying to do, as I do. First and most importantly, there is a question about the underlying structural problems that have driven high costs for local authorities in the provision of residential care for children and young people, and there is a second question about the best approach to tackling that, both legislatively and non-legislatively. On the first, does the Minister agree with me, at least in principle, that the main issue driving the high costs is a shortage of foster care, which is driving local authorities to send children into expensive children’s homes at best, or into unregistered provision at worst? Research by Ofsted in 2022 suggested that ",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank the shadow Minister for his contributions and questions. He made a number of practical points and asked a number of specific questions.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Order.",
+   "name": "Chair",
+   "role": "Chair"
+  }
+ ],
+ "fetched": "2026-10-21T20:24:58Z"
+}

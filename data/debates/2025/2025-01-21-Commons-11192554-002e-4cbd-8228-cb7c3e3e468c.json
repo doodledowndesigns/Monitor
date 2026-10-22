@@ -1,0 +1,1091 @@
+{
+ "ext_id": "11192554-002e-4cbd-8228-cb7c3e3e468c",
+ "date": "2025-01-21",
+ "house": "Commons",
+ "section": "PBC",
+ "title": "Children's Wellbeing and Schools Bill (First sitting)",
+ "parents": [
+  "Public Bill Committees"
+ ],
+ "location": "Public Bill Committees",
+ "url": "https://hansard.parliament.uk/Commons/2025-01-21/debates/11192554-002e-4cbd-8228-cb7c3e3e468c/ChildrenSWellbeingAndSchoolsBillFirstSitting",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North",
+   "member_id": 5294
+  },
+  {
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale",
+   "member_id": 5225
+  },
+  {
+   "name": "Matt Bishop",
+   "party": "Lab",
+   "seat": "Forest of Dean",
+   "member_id": 5323
+  },
+  {
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston",
+   "member_id": 4679
+  },
+  {
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards",
+   "member_id": 4125
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire",
+   "member_id": 5249
+  },
+  {
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen",
+   "member_id": 5270
+  },
+  {
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich",
+   "member_id": 5303
+  },
+  {
+   "name": "David Baines",
+   "party": "Lab",
+   "seat": "St Helens North",
+   "member_id": 5092
+  },
+  {
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East",
+   "member_id": 5210
+  },
+  {
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire",
+   "member_id": 3969
+  },
+  {
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education",
+   "member_id": 4653
+  },
+  {
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North",
+   "member_id": 5143
+  },
+  {
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire",
+   "member_id": 5096
+  }
+ ],
+ "contributions": [
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We are now sitting in public and proceedings are being broadcast. Today, we will consider the programme motion on the amendment paper. We will then consider a motion to enable the reporting of written evidence for publication, and a motion to allow us to deliberate in private about our questions before the oral evidence sessions. In view of the time available, I hope that we can take these matters formally, without debate. I will first call the Minister to move the programme motion standing in her name, which was discussed yesterday by the Programming Sub-Committee for the Bill. Ordered, That— 1. the Committee shall (in addition to its first meeting at 9.25 am on Tuesday 21 January) meet— (a) at 2.00 pm on Tuesday 21 January; (b) at 11.30 am and 2.00 pm on Thursday 23 January; (c) at 9.25 am and 2.00 pm on Tuesday 28 January; (d) at 11.30 am and 2.00 pm on Thursday 30 January; (e) at 9.25 am and 2.00 pm on Tuesday 4 February; (f) at 11.30 am and 2.00 pm on Thursday 6 February; (g) at 9.25 am and 2.00 pm on Tuesday 11 February; 2. the Committee shall hear oral evidence in accordance with the following Table: Date Time Witness Tuesday 21 January Until no later than 10.00 am Coram; Ce",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We are now sitting in public again and the proceedings are being broadcast. Do any Members wish to make a declaration of interests?",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Amanda Martin (Portsmouth North) (Lab)",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "For the record, NAHT—National Association of Head Teachers—was my previous employer, before I came to this place.",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "Lizzi Collinge (Morecambe and Lunesdale) (Lab)",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "For the record, I am still a Lancashire county councillor. The council has responsibility for children’s services.",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Matt Bishop (Forest of Dean) (Lab)",
+   "member_id": 5323,
+   "type": "Contribution",
+   "text": "Currently, I am a member of a union and was a workplace representative for a school before being elected.",
+   "name": "Matt Bishop",
+   "party": "Lab",
+   "seat": "Forest of Dean"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "If any interests are particularly relevant to a Member’s question or speech, they should declare them again at the appropriate time. We will now hear oral evidence from Dr Carol Homden, chief executive officer for Coram, and Anne Longfield, executive chair of the Centre for Young Lives. Will you briefly introduce yourselves and say a word or two about your work before we start any questioning? Anne Longfield: My name is Anne Longfield. I am a newly appointed Labour peer—I should probably declare that. I have campaigned on children’s issues for many decades, as several around this table will know. Many of the measures in the Bill are things that I have actively advocated for during the past 15 years-plus—for some of them, such as breakfast clubs, double the amount of time, and for the register, half that amount of time. Most of my work and interests are around early intervention, supporting the most vulnerable children and helping children and their families to thrive. Dr Homden: Good morning; I am Carol Homden. I am the group chief executive of Coram, which is the first and longest-continuing children’s charity, and today a group of specialist organisations dedicated to the legal a",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Thank you. We will start our questioning.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O’Brien (Harborough, Oadby and Wigston) (Con)",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q The first question is for Dr Homden. You talked about some of the things in the Bill that you would like to see amended. I wonder whether you could expand on that, and particularly your point about the timeliness of intervention. Dr Homden: Particularly, we are concerned that some of the very sensible provisions in the Bill, such as breakfast clubs, are not extended to infants in the early years. There are a number of areas where early years extension would be appropriate, so while we recognise that this is a Bill on children’s wellbeing and schools, none the less the children’s wellbeing elements for the youngest children are particularly important—especially the opportunities for children to receive free meals, and also for the extension of admissions priority. The provisions for the extension of recognition of quality for teaching staff could and should be extended to early years workforce issues. The second key area is the fact that there are no provisions in relation to children’s access to advocacy—particularly 16 and 17-year-olds, those who are excluded from school, and those who face other forms of crisis in, for example, unregulated accommodation. While others will call ",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q I have follow-up questions specifically about some of the measures in the Bill about family group decision making—a thing that a lot of people generally are very supportive of. My only slight concern about it is at what stage in the process that happens, and whether, if it is at the point where you are seeking a court order, that is possibly too late in the process, where it is no longer voluntary or consensual. I wonder whether you thought we should look at bringing that forward in the process, or—you mentioned young children—whether it is something that needs to happen much earlier, particularly for the under-twos and the particularly vulnerable child in dangerous households. Dr Homden: That is indeed an extremely valid point. Many local authorities will offer family group decision making support prior to pre-proceedings, and it is important that the new duty introduced does not take away earlier opportunities to extend the involvement of the family network when children’s services are involved. Timescales are indeed acknowledged to be of critical importance in family law, and statutory guidance should make it clear that nothing in the family group decision making requirement, ",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Do you share, Dr Homden, the concern that we should be very clear that this should not delay decision making? Dr Homden: Absolutely.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "This is a reminder to Members that is important to catch the Clerk’s eye if you want to ask a question. We will try to get everybody in during the morning and give everybody the same crack of the whip. I will now call the Minister to ask questions.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Minister for School Standards (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Q Good morning. The first question is to you, Carol. On introduction of the Bill, Coram said: “This Bill presents a new opportunity for services and agencies supporting vulnerable children to work together and make this a reality.” Will you outline the key measures that you feel support that in the Bill? Dr Homden: Clearly, there are a number of ways in which the Bill seeks to do that. Quite often what we are looking for here is a strengthening of approaches that reinforce integrated working in local arrangements. There is a question in our mind, which you have clearly considered, about whether it is essential for education to be treated as a core partner in safeguarding. Our consideration is that under article 4 of the European convention on human rights, schools have a protective duty, but this should not diminish the clarity and reinforcement of the importance of roles being defined locally and of the activation of best practice in those circumstances. I repeat that in many areas, and especially in relation to school exclusion, where it is particularly critical that the roles of schools are appreciated in relation to criminal exploitation, our suggestion to you is that direct ac",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Q What consideration have you given to the impact that creating a duty for safeguarding partners to make arrangements to establish multi-agency child protection teams will have? Dr Homden: Having a duty most generally would be reinforcement of the fact that these arrangements are expected and required. The duty does not in itself necessarily prejudge the nature of those local arrangements, but it does place a really clear focus on the need to have those arrangements and to make sure that they are functioning properly. We would be pleased to send you some additional reflections on that, if that would be helpful. I do want to raise one point in relation to safeguarding, which is that we are concerned because the Bill does present an important opportunity, potentially, to remove the defence of reasonable chastisement for children, and in our view, this opportunity should not be missed.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Q Anne, the Centre for Young Lives has welcomed the Bill, stating: “It addresses issues we have been very concerned about over many years, including vulnerable children falling through the gaps and into danger.” Will you elaborate on how you feel the Bill better protects children and keeps them safe? Anne Longfield: I am pleased to say that safeguarding does clearly run through the whole Bill. Engagement in the kind of activities around school in the community is one of the ways that children will be safeguarded. The register is something that I campaigned for and has been committed to for some time, so I am very pleased to see that in there. It is not a silver bullet when it comes to children who are out of school, because they are often out of school for a reason and that does not divert from the root causes. But none the less, that is a very welcome move. On the link between poverty and non-attendance in school, in our experience there is a great link to parents being very worried about not being able to afford branded uniform. That, again, is supported in the Bill. There are various measures around children’s social care as well, including the partnerships that we have just dis",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "My main objective is to try to get all the Back Benchers in, so we want crisp questions. It is very important that everybody feels they can get in. I call the Liberal Democrat spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q You have both referred to wellbeing. The Bill is called the Children’s Wellbeing and Schools Bill, but there is precious little in it on wellbeing. Other than measurement and making sure that children’s voices are at the forefront, what more can we be pressing the Government for on wellbeing in the Bill? Anne Longfield: There are some very well-established wellbeing measures, such as Be Well, operating in many areas. They are cost-effective and demonstrate what can be achieved with better understanding and information about children’s needs. We will potentially have the unique identifier, which is important within that. Overall, the wellbeing measure would seek to identify which children were vulnerable, which were happy and thriving within their community and school, and which were in need of early help, especially around mental health and other support. It would enable services to understand where they needed to prioritise their resources. You cannot prioritise your response to children’s needs unless you know which children are in need. As I say, it would create the engine for many of the outcomes that the Bill is seeking to deliver.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q Dr Homden, you have talked about the lack of provision for children with special educational needs. What do you make of the power in the Bill for local authorities to refuse parents the right to withdraw their children from a special school to home educate if they do not feel that the special school is meeting their children’s needs? Dr Homden: That is a really complex area to consider because of the circumstances of individual children such as my own child, who was not withdrawn from school but had no available provision for two years of his school life despite being fully known and documented. I sympathise with parents who feel that the risks facing their child in a setting, as well as out of a setting, might lead them to that position. I sympathise strongly with the driver within the Bill, but much more consideration needs to be given to that question because of the lack of provision. At Coram children’s legal centre, we are constantly representing parents where there is significant failure to fulfil the education, health and care plan, which is a child’s right and entitlement.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Lizzi Collinge",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "Q Anne, you said that family group decision making can be fantastic if done well. What are your thoughts about how prescriptive the statutory guidance should be on the format of those family group decision meetings? Anne Longfield: It has to be. If this is to be the cornerstone of our ability to move towards a kinship model, intervene earlier and get alongside families, it has to work properly. All the evidence is based on a full family group conferencing system. Of course, you would want to take any opportunity to work around families, but this is about planning, being there at the right time and having the involvement of children and families. That is not something that local authorities themselves can decide on. It is also about the commitment to do something with it. Without that, it could just be a meeting with families, which would be an absolute missed opportunity. I am not a specialist in this; I went along and found family group conferencing about 12 or 15 years ago. I used to call them magic meetings. Out of nowhere came solutions that changed people’s lives. I do not want to become too enthused, but it has to be done right, and the principles need to be seen through.",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Ellie Chowns (North Herefordshire) (Green)",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "Q You have enthused about family group decision making. Do you think it would be useful at other stages in the process, particularly in approaching families for unification at the point of discharge for care leavers? Dr Homden: Yes, we would support that. We would also call for specific coverage in the statutory guidance on how children with family members abroad can benefit, and for consideration in that guidance on contact, particularly with siblings. Anne Longfield: I would also look at the mechanism at other points, such as when children are at risk of becoming involved in crime and the like. But for now, yes.",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Darren Paffey (Southampton Itchen) (Lab)",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "Q I would like to ask about the requirement for local authorities to offer Staying Close. We have seen some success with that in Southampton, but from the direct work of both your organisations, do you think that the Staying Close offer meets the most pressing needs of care leavers, or are there other things that the Bill should consider? Anne Longfield: Carol will probably talk about the detail more than I will, but in principle it was a really important change to be made and a really important commitment. Young people I have met have appreciated it and seen the value of it. I do not think it is yet at the point where most care leavers would say that it is meeting all their ambitions, nor of course is it anywhere. Having it as part of the Bill, to extend and strengthen it, is important, but it is there to be built on. We know from the outcomes for young people leaving care that it is crucial that that level of stability and support is in place. Dr Homden: We support the extension of support to care leavers in the Bill. Provisions need to ensure greater consistency across the country in the support that is offered. It is important that the introduction of Staying Close provisions i",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Patrick Spencer (Central Suffolk and North Ipswich) (Con)",
+   "member_id": 5303,
+   "type": "Contribution",
+   "text": "Q Family group decision making is a well-evidenced practice, yet this Bill mandates it. Do we really need a Bill to mandate it, especially considering that a lot of children come into these situations when they are at risk of neglect from their carers? Cannot the virtue and the hope of this amendment, and the idea of family group decision making, be instructed through guidance? Does it need to be mandated through a Bill? Anne Longfield: I think it does need to be mandated, because it is at the cornerstone of the different way of working. It is about intervening earlier. The majority of families in that situation are living with adversity and are not coping with adversity. The whole ambition behind this is to bring in not only parents, but families around them and others.",
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich"
+  },
+  {
+   "who": "Patrick Spencer",
+   "member_id": 5303,
+   "type": "Contribution",
+   "text": "Q What about children who are at risk of neglect at the hands of the carer? Do you think family group decision making is an appropriate step that a child safeguarding team should be mandated to practise at that point? Anne Longfield: I think a mandate makes a very clear distinction in terms of a route of travel. It is well evidenced. Carol will talk about the risks to families and to children, but it is the broader family and in some cases the other support network—",
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Order. I am going to interrupt you there, as we still have two more people to get in.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Amanda Martin",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "Q It is clear that we need strong partnerships to stop children slipping through the cracks, which happens far too often. What do you think will be the impact of creating the duty of safeguarding for partnerships to establish the multi-agency child protection teams? What lessons must we learn? Dr Homden: I think we will need to send you a further briefing on that point, beyond what I have already said. The point is that if there is a duty, you are creating a framework within which there is much stronger accountability, assuming that it is carefully inspected, considered and acted on if it is not implemented. I sympathise with the previous point. The welfare of the child is paramount and local authorities have an absolute duty to act, irrespective of any other duties on them, to ensure the safety of a child in acute circumstances. But the Bill protects that and makes that clear. Mandating family group decision making makes sure that best practice, in time, becomes the only practice.",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "David Baines (St Helens North) (Lab)",
+   "member_id": 5092,
+   "type": "Contribution",
+   "text": "Q In your view, are the measures in the Bill proportionate for improving child safeguarding and protecting children? Local authorities’ spend on looked-after children in the past decade or so has increased from about £3.5 billion to over £8 billion a year. Will the measures in the Bill help to address that and bring it down? Anne Longfield: I would say that they will begin to address that and bring it down. We are in quite an extreme situation. We know that the level of spend on children in care is very high and that it is not sustainable for any of us, for the public purse. We also know that it does not lead to the best outcomes for a lot of children. If early intervention had been in place, it could have been a very different situation. I think it is proportionate for a first stage. There is much more that can be done, and there are things we could put in around interventions, play sufficiency, mental health support, children’s centres and family hubs that could extend that into something that can get beyond this first stage.",
+   "name": "David Baines",
+   "party": "Lab",
+   "seat": "St Helens North"
+  },
+  {
+   "who": "David Baines",
+   "member_id": 5092,
+   "type": "Contribution",
+   "text": "Q So your view is not that it goes too far, but that in some cases it does not go far enough? Anne Longfield: I think it is proportionate for now, but it needs to be strengthened in some areas if we are to tackle some of the deep-rooted issues that we know a lot of children are facing.",
+   "name": "David Baines",
+   "party": "Lab",
+   "seat": "St Helens North"
+  },
+  {
+   "who": "David Baines",
+   "member_id": 5092,
+   "type": "Contribution",
+   "text": "Q What about the overall spend? Anne Longfield: The only way to get around the spend in local authorities on children’s social care is to reduce those costs. I do not think that that is to deny children’s needs; it is about a different way. We know that the spending on early intervention has almost halved over the past decade, while the cost of crisis has doubled. A lot of the cost is residential provision for older children. There needs to be a focus on where we can intervene early and find alternative solutions with families.",
+   "name": "David Baines",
+   "party": "Lab",
+   "seat": "St Helens North"
+  },
+  {
+   "who": "Tom Hayes (Bournemouth East) (Lab)",
+   "member_id": 5210,
+   "type": "Contribution",
+   "text": "Q Before I was elected, I ran a domestic abuse and mental health charity, so I can definitely speak to the value of the mandate, even in a local authority setting, which was excellent. Anne, are the other measures in the Bill proportionate to the aim of driving local integration and making sure that the child is at the centre of all decision making? Anne Longfield: There are a number of other interventions that we could include that would strengthen children’s participation and children’s being at the centre of their communities. One of those is around children’s play. We know that children’s access to play has reduced dramatically over recent years. Play is the thing that children say they want: it is at the top of their list. We were very worried about access to play and the dominance of social media in children’s lives. Wales introduced a play sufficiency duty in 2010. It was not a huge cost. It meant that local authorities had to plan for play and respond to play. That kind of strategy would be, for a first stage, a very cost-effective way of reflecting children’s needs in the community.",
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East"
+  },
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q We talked earlier about the measurement of wellbeing. There are surveys of children’s wellbeing by various organisations now: the Office of the Children’s Commissioner—your old office, Anne—does something, the King’s Trust does something, UNICEF has done an international survey and so on. What would the output of the surveys you envisage be used for? Could you also say a word or two about the mental health of children and young people survey, wave 4 of which was most recently published by the NHS and the future of which is uncertain? Would you like to see that series of surveying and reporting carried on? Dr Homden: Yes, we would. It is incredibly important that we are able to account for the implementation and for whether the Bill actually helps us to improve children’s wellbeing. It is also extremely important that that happens systematically across local services and in any area in which we can respond and adapt services to meet the needs of children. Generally, we feel that it is extremely important that wellbeing measurement is advanced and made more systematic and consistent.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "That brings us to the end of this session. I thank our witnesses. Examination of Witnesses Andy Smith and Ruth Stanier gave evidence.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We will now hear oral evidence from two more witnesses. We must stick to the timings: this session must end at 10.30 am. Will you briefly introduce yourselves, please? Andy Smith: My name is Andy Smith. I am the president of the Association of Directors of Children’s Services. In my day job, I am director of children’s services and adult social services in Derby. Ruth Stanier: I am Ruth Stanier, assistant policy director at the Local Government Association.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Thank you for coming. We have an important principle in local government called the new burdens doctrine, which is that if the Government put a burden on local government, they pay for it. Given the various new duties and obligations that the Bill will place on local government, do you agree that that principle should be followed and that local government should be funded to implement those duties? Secondly, what is your understanding of the current situation? Is funding being offered to implement the duties in the Bill? Ruth Stanier: Thank you for those extremely important questions. We very much welcome many of the measures in this Bill, which we have long been calling for, but they must be appropriately resourced to have the impact that we want.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Would you like to see resourcing clearly specified in this Bill? Ruth Stanier: You are absolutely right that the new burdens doctrine must be applied in the usual way. There are a number of measures in this Bill for which additional funding will be required, for example the new multi-agency units. We are encouraged that at this stage we are already having early discussions with the Department about the implementation arrangements. We are yet to undertake the full cost estimates, but that work will be set in train with the Department.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q That is very helpful. Clause 18 provides for regulations to be made on agency workers and their pay. We would all like to spend less on all these different things, but even though we might be sympathetic to the ideas in the Bill, do you agree that if we just cap prices without taking action on supply, it will fail, because the underlying cause of the high prices has everything to do with supply and planning over time? Andy Smith: You have to cover both. It has been incredibly important and positive that the Government have taken forward measures to tackle the cost of agency workers. We are seeing the impact of the measures that have taken place already. For example, on Friday in my region we were talking about the implications and impact of the changes that have started to be implemented. We are seeing less churn of workers from one authority to another; we are also seeing some agency workers move over to the permanent books of councils, which is better for children. It is also important to ensure that we have a sufficient approach and strategy for the workforce generally. That covers all elements of the Bill, so it would include social work but also other professions and other a",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Are there any other ways in which you would like to see the Bill amended? Andy Smith: I think some things are missing from the Bill. There are some things that will be positive; no doubt we will come to those. What was disappointing, from the policy paper to where we are now, was the lack of corporate parenting: we would have expected to see all Government Departments committing to corporate parenting. We see that lack as a real disappointment, actually. It feels like a once-in-a-generation time for us to focus on the wider responsibility that all Departments should have for our children in care, so that is a particular gap in the Bill. Ruth Stanier: I very much agree on extending the corporate parenting duty—this must be the right time and the right Bill to do that, and the Government have already committed to doing so in a recent policy paper, so it is really important we get that included. We were also disappointed that the Bill does not have powers for Ofsted to inspect multi-academy trusts, which was a Government election manifesto commitment. We support the similar new powers relating to care placement providers, but in respect of trusts that is an omission. I am sure you w",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Stephen Morgan)",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Q Thank you both for being witnesses before the Committee. A question to you both: what impact will the Bill have on children and their families entering, or at risk of entering, the children’s social care system? Andy Smith: A strength in the Bill is the focus on family help and early intervention. We talk a lot about the cost of the care system, but we need to see this in a much more strategic context and sense. We know that there is a lot of evidence. We published research last week showing that for councils that have been able to invest and maintain early help services, it has a direct impact on reducing the number of children coming into the more statutory end of things within children’s social care or the looked-after children service. The challenge is that we have real variability around early help services across the country, because of the difficulties there have been with council budgets over the past 10 years. Seeing these reforms and the focus on family help in its totality—this goes back to the earlier question about the funding required to implement the reforms—will make a positive impact. It is ultimately better for children to remain with their families. If not, the",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Q How do local authorities currently discharge their duty to ensure that children receive a suitable education? What impact will the measures in the Bill have on this? Ruth Stanier: We very much support the new duty to co-operate across councils and all schools. It is something we have long been calling for. Of course, councils continue to have duties to ensure that there is appropriate education for every child in local places. Having the statutory underpinning set out in the Bill on co-operation across all schools is so important, particularly when we are thinking about councils’ duties in respect of SEND, where the system is under enormous strain, as was illustrated by an important report we commissioned jointly with the county councils network last year. We very much welcome those measures in the Bill. Andy Smith: The education system in England is increasingly fragmented and lacks coherence. We see the role of the local authority essentially eroded, even though our duties have not changed that much. The measures in the Bill will be helpful in trying to bring some of that coherence back and in recognising the role of the local authority on directing academies, school place plan",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q The register of children not in school is supported by many parties and organisations, but under clause 25 a huge amount of detailed information will be requested of parents. In your professional view, Andy, do you think your directors of children’s services need all this information to safeguard children? If so, why? Andy Smith: ADCS has long argued for a register of electively home educated children. For several years we carried out a survey ahead of this information being collected by the Department. We know that the number of children being electively home educated has increased exponentially, particularly since the pandemic. We need to be really clear that the measures, in themselves, will not protect children or keep them safe. The child protection powers are welcome, but we need to think about the capacity and resource that will be required to visit children in their homes and the training that will be required for staff who are going out doing visiting so that they can tune into issues around safeguarding and general wellbeing. The measures in the Bill are certainly very detailed in terms of what is contained in a register, and there may be some reflection on whether ther",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q Ruth, the Bill gives the Secretary of State powers to implement, if necessary, profit capping on private providers of children’s care homes and fostering agencies. It is very clear that there is a huge amount of profiteering. Do you think that is the right way to go about tackling the issue, and what could it mean for sufficiency of places? Ruth Stanier: We very strongly support those measures in the Bill, and we have been calling for them for some time. Just creating the powers sends such an important signal to the market in and of itself, but should it not have the desired impact, we hope the Department will go on to put regulations in place. The level of costs has just spiralled out of control, leaving councils in an absolutely impossible situation, so it is excellent that these measures are being brought forward. We very much welcome the measures in the Bill to put in place greater oversight of providers, because clearly there is that risk of collapse, which could have catastrophic impacts on children in those placements. This will not solve the problems with sufficiency in the number of placements, and we continue to work closely with the Department on measures to tackle tha",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Amanda Martin",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "Q With your experiences in mind, do you think it is right that local authorities that want to open new schools can currently only seek proposals for academies? Under the Bill, they will be able to invite proposals for other types of school. What implications do you think that will have for pupils? Ruth Stanier: We very much welcome this measure, which we have long called for. Councils continue to have the duty to ensure that places are available for all local children, and having the flexibility to bring forward new maintained schools, where that is appropriate, is clearly helpful. Andy Smith: ADCS’s view is that the education system must absolutely be rooted in place, and directors of children’s services and local officers know their places really well. The measures in the Bill around direction of academy schools are a welcome addition. The end to the legal presumption that new schools will become academies, and allowing proposals from local authorities and others, is very welcome. Local authorities understand planning really well, and they understand their place and their children really well. I think that will ultimately be better for children.",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q I want to ask about elective home education, but first, very quickly, we are going to legislate in this Bill for the provision of breakfast at primary schools. Has either of your organisations received any guarantees about the future of existing support for breakfast clubs in secondary schools, or the future of the holiday activities and food programme? Ruth Stanier: We very much welcome the provisions in this Bill around breakfast clubs. We think it is incredibly important that—",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Forgive me, but that is a different question. We know what the legislation proposes for primary school breakfast, but my question was about whether you have heard anything—whether you have had any guarantees—about the future of existing support for breakfast clubs in secondary schools in underprivileged areas, or for the holiday activities and food programme. Ruth Stanier : On the first of those issues, I am not aware of any such guarantees or representations. I can see the point you are making, which is important. In respect of holiday activities, I have seen recent media coverage that seems potentially positive. Clearly, we very much want that support to remain in place. Andy Smith: My view would be similar to Ruth’s. The evidence and the impact of HAF are so tangible. We absolutely strongly support that continuing for the most vulnerable children.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q Turning to elective home education, as Munira Wilson said, there is a great deal of detail in the Bill about information that will be required of parents—for example, the allocation of individual parents’ time dedicated to the education of that child, and so on. Andy, I think you rather diplomatically said that perhaps we needed some reflection on the text. I wondered if you might reflect out loud, and say if you think it goes into an unnecessary level of detail that might be considered rather onerous for parents who are home educating—sometimes in very difficult circumstances—and indeed for your colleagues in local government. Have you made an estimate of how much cost would come with this system? Andy Smith: We have not made a estimate about how much cost would come with the system. Clearly, there would need to be a new burdens assessment on any changes, because you cannot do these reforms on the cheap. It is really important to make that point. From previous surveys that we have done with local authorities on elective home education, it is evident that over the last 10 to 12 years, the capacity has been hollowed out. You are often talking about not even a full-time post. In my",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q A question that often comes up with electively home-educating parents is about the support that is or is not available to them in their efforts. The Bill does make provision for support to those parents, but on page 55, it says: “The advice and information to be provided is whatever the local authority considers fit”. You mentioned a moment ago that there would be some benefit in having more consistency across the country. Would you give a few thoughts on what you think “fit” is in terms of that support? In particular, a question that often comes up from parents is about entry into examinations. Andy Smith : What constitutes a good elective home education offer will be very different depending on the parent and on the context, and depending sometimes on the rationale around why parents decided to implement EHE for their child. There should be some consistency around what those expectations are. We know that parents provide some fantastic enriched opportunities for their children through EHE and they are able to also sit exams, and there will be some learning from that. The challenge in this space is that we are not starting with a level playing field. We have moved from a context",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We still have six keen people wanting to come in, so can we have brief single questions and answers, please?",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Lizzi Collinge",
+   "member_id": 5225,
+   "type": "Contribution",
+   "text": "Q I draw the Committee’s attention to the fact that I am a corporate parent in Lancashire. I am interested in the powers on financial oversight and profit caps on residential children’s homes in particular. What impact do you foresee that having on the resources you have available to look after children? Ruth Stanier: We very much expect that these measures should, over time, lead to a reduction of some of the extremely high costs that have been set out in recent research we have done. That should free up some additional funding for all the other things councils need to be doing. Andy Smith: If you look at the breadth of measures in the Bill around having the right placements for the right type of child in the right part of the country, and having regulations to try to move away from unregulated placements—we have seen the proliferation of those in recent years—over time we should start to see a more consistent provision of accommodation and placements across the country. There is a focus on fostering, kinship care and prevention as the continuum that we need for children, and there is a real focus on trying to keep children out of care in the first place.",
+   "name": "Lizzi Collinge",
+   "party": "Lab",
+   "seat": "Morecambe and Lunesdale"
+  },
+  {
+   "who": "Ellie Chowns",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "Q Clause 8 specifies that local authorities need to set out a local offer. You have talked about the need to avoid fragmentation, and about corporate responsibility across the country and across Departments. Would you like to see the Bill amended to require a national offer of support to care leavers, and what do you think should be in it? Ruth Stanier: We certainly would want to see corporate parenting duties extended at a national level to Government Departments and relevant public sector bodies. We think that is incredibly important. Otherwise, we are very much supportive of the measures in the Bill in respect of the kinship offer, though we think it is important that there is a clear threshold for that support so that it is realistic and affordable and can be implemented. Andy Smith: I would support that. A national offer for care leavers is an interesting concept. There should be some absolute minimum requirements we expect in an offer, and I think you would broadly see that in many councils in what is provided for children in care and for care leavers. It is usually co-produced with representatives who were care leavers, and with councils and so on. I think that would be an i",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Catherine Atkinson (Derby North) (Lab)",
+   "member_id": 5143,
+   "type": "Contribution",
+   "text": "Q We heard in earlier evidence that spending on early intervention has reduced while crisis costs have significantly increased. What do you think will be the impact of early intervention, including family group decision making, primarily on outcomes but also, in the longer term, on costs? Ruth Stanier: We very much think that the measures in the Bill will help to pull funding to the left, further upstream into prevention. We warmly welcome the Government’s recent investment in the children’s prevention grant. We think that the measures should help to improve outcomes and reduce costs over the longer term. Andy Smith: It is absolutely a false economy not to invest in early help and early intervention. We know that the evidence base is so strong on children escalating into higher-cost services. My authority has invested in early help services, and we have an edge of care team that targets children on the edge of the care system. When we are able to prevent them from going into care, we track the cost avoidance, looking at what a typical placement might have cost. We have saved in excess of £5 million over the last three years in cost avoidance. The case is well argued. The challenge ",
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North"
+  },
+  {
+   "who": "Patrick Spencer",
+   "member_id": 5303,
+   "type": "Contribution",
+   "text": "Q I completely agree on the need for stable safeguarding teams, and they are in the better interests of children, but can you completely rule out any risk that a statutory cap on the use of agency workers will lead to people leaving the profession? Andy Smith: I cannot absolutely rule that out. We have significant churn in social work, and that is part of the challenge—that we are struggling, as a system, to recruit and retain social workers. We have lots of routes into social work, and we are doing lots to promote the role. I am a social worker. I love it, and it is brilliant, even though I have not practised for a number of years now. The measures in the Bill will go some way in setting some rules around how and when social workers can move into agency social work, but I cannot guarantee that it will stop or prevent the churn in the system. The Bill outlines one tool that will help with the stability that we need in the workforce, and that ultimately leads to better outcomes for children.",
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich"
+  },
+  {
+   "who": "Matt Bishop",
+   "member_id": 5323,
+   "type": "Contribution",
+   "text": "Q With the requirement for registers of electively home-educated students, do you anticipate a sizeable decrease in the number of children missing education? Ruth Stanier: It is an interesting question. I am not sure that that would necessarily follow. As Andy has set out, we see these very clear upward trends at the moment, in part driven by the significant problems in the SEND system and the challenges that many children face, with the schools that they are in, in accessing the support that they need, including mental health support. I am not sure that that would necessarily follow. Andy Smith: You have to overlay the implementation timeline of this Bill with what needs to happen around a new system for an inclusive education. That will start to impact on some of the cohorts of children who are missing education or being electively home-educated. There is such a strong SEND component now, in a way we did not see before the pandemic. We have to overlay the two things to understand what those impacts might start to look like.",
+   "name": "Matt Bishop",
+   "party": "Lab",
+   "seat": "Forest of Dean"
+  },
+  {
+   "who": "Tom Hayes",
+   "member_id": 5210,
+   "type": "Contribution",
+   "text": "Q Before the election I visited Linwood school’s Charminster site, and I spoke to a young girl with support needs around SEND. She told me about a meeting with a new social worker, who asked her how her parent was. She had to tell the social worker that her parent had died. That is just one of many examples of social workers who pick up new cases and do not have time to read notes. We have constant churn, and we know some of the human cost. Can you speculate about or estimate some of the financial savings from reinvesting into a permanent workforce the money that would be spent on local agency social workers? How much would local councils benefit from this measure? Andy Smith: An agency social worker costs around a third more than a social worker on the books of a local authority. You can extrapolate what that would look like from a team of eight or nine social workers to two or three times that. Financially, it is definitely a much better option than having an agency worker. That is not to say that agency social workers are bad—that is not what I am saying—because there could well be, and are, occasions when local authorities need to employ agency social workers to cover sickness ",
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East"
+  },
+  {
+   "who": "Ian Sollom (St Neots and Mid Cambridgeshire) (LD)",
+   "member_id": 5096,
+   "type": "Contribution",
+   "text": "Q You have mentioned a couple of times the change with elective home education from philosophy to reasons around the provision in schools. Do you have thoughts on what accountability there should be for schools? Ofsted currently inspects the schools, and it does not look at reasons why children might not be in school electively. Is there some mechanism that you see around that?",
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We have 30 seconds. We have to stick to the programme motion; I am sorry. Ruth Stanier: We very much welcome the fact that the Government are now asking Ofsted to look specifically at inclusion. We think it is so important for precisely that reason.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Thank you very much to our witnesses. Examination of Witnesses Julie McCulloch and Paul Whiteman gave evidence.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We will now hear oral evidence from Julie McCulloch, senior director of strategy, policy and professional development services at the Association of School and College Leaders, and Paul Whiteman, general secretary of the National Association of Head Teachers. You are very welcome. Do you both want to say a brief word of introduction? Paul Whiteman: I am Paul Whiteman. We broadly support the provisions within the Bill, as far as they connect with schools. The Bill builds upon a lot of the policy positions and ambitions that we have held for some time. We do not see it as a revolution in education, but the provisions are broadly sensible. Julie McCulloch: We are in a similar place in our schools. There is much in the Bill that aligns with our existing policy positions. We have a few logistical questions about how some of the proposals might play out, and perhaps some questions about how they sit within the Government’s broader vision and strategy for education, but we are broadly in favour of the proposals in the Bill.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Good morning, and thank you for coming. Julie, on your logistical questions, ASCL said in its statement that “work will be needed to get these measures right…Further changes must be done with care and must not seem ideological.” You talked about some of the issues that you want to see addressed as we amend the Bill. What are they? Julie McCulloch: They are largely about the fact that these proposals are landing in a particular context. There are three areas where those logistical challenges exist. The first is that they are landing in the context of a system that has been systematically underfunded for many years. That particularly relates to the proposal about breakfast clubs. We have some questions about ensuring sufficient funding for breakfast clubs.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Can I press you on that one? I do not understand from the Bill how breakfast clubs are supposed to work. Obviously, many primary schools already offer a breakfast club, and they charge for it. If you are now supposed to offer 30 minutes and a free breakfast—I think the going rate will be 60p in the first wave—how does that work with schools’ current charging arrangements? Are they allowed to charge before that period, so there will be both charging and a free session? Is that your understanding of what the Bill does? Julie McCulloch: That is our understanding. Is that yours too, Paul? There will be the provision of additional funding for the children who most need it, but you can provide provision around that.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q So you will have two tiers. What is your understanding of the position on secondary school breakfast clubs? Have you had any undertakings on the future of the free school breakfast programme that exists in secondary schools, or the holiday activities and food programme? Is it your understanding that there is secure funding for those things? Julie McCulloch: I am not sure I would be as confident as that. We have started to have some conversations about that, but not detailed ones.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q You would welcome greater certainty about those things, presumably. Julie McCulloch: We absolutely would, and continued funding.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Is there anything else that you would like amended in the schools section of the Bill? Julie McCulloch: I have two other thoughts, just to finish my point about the context within which this is landing. The second is about the challenge around recruitment and retention in schools. Although the proposal about qualified teacher status is absolutely welcome and the right thing in principle, we have had some concerns from our members about the challenges of ensuring that can be followed through, when they are already really struggling to recruit.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Do you think it is sometimes better to have a good professional person whom the head thinks is a good teacher, rather than no teacher at all? Julie McCulloch: In some cases, yes. That is a sad place to find ourselves, but sometimes that is the case, particularly when we are looking at vocational subjects at the top end of secondary school and into colleges. There are some excellent teachers and lecturers in further education colleges and secondary schools on vocational subjects, who do not necessarily have qualified teacher status, and we need to make sure we can retain them.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q You can be a good teacher even if you do not have QTS. You can be the right person. Julie McCulloch: Yes. We absolutely in principle think that there should be qualified teacher status, but it is about that contextual piece. The third area where we have some concerns about the context is the extent to which there is capacity in local authorities—you have just heard from local authority colleagues—to pick up some of the additional requirements on them. Again, we do not have any concerns about the principle, but some of our members are concerned about whether there is that capacity, and whether that expertise still exists in local authorities.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Do you have a sense that a large number of schools are not providing a broad and balanced education at the moment? Do you have a sense of how many schools are not following the national curriculum? Julie McCulloch: No, it is absolutely not a significant number at all. We hear from our members that the vast majority do use the national curriculum as their starting point and as a benchmark, and they innovate on top of it.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q What do you think the problem is that that measure is trying to solve? Julie McCulloch: In our view, it is right that there should be a core national entitlement curriculum for all children and young people; we think that is the right thing to do. The devil is in the detail—we are going through a curriculum review at the moment. Our view is that that entitlement is important—on the ground it might not make an enormous amount of difference, but it is still important.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Q When it comes to school admissions, do you think the measures in the Bill will help local authorities to fulfil their statutory duties? Could you comment on how you think it will impact on children and schools? Paul Whiteman: We do think it will help local authorities—we think there has been a gap in terms of their ability to ensure that their admissions duty is fully met. To that extent, the difficulty of some parents to find the school that their children really should go to has been fettered. Therefore, we think these provisions are broadly sensible and to be welcomed. Julie McCulloch: We agree. The more join-up we can have between local authorities and schools on admissions the better; there are some areas where that is working really well already, and there are others where that statutory duty might help.",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Q Great. From your experience, do you think it is important that a school’s individual circumstances are taken into account when you are determining the best and appropriate action to drive school improvement where a school may be under--performing, such as whether it is a maintained school? Do you consider that conversion to an academy by default might not always be in the best interests of every school and the children within it? Paul Whiteman: It is important to preface my answer by saying that the success of academies can be seen, and the improvement is very real, but it is not always the only way to improve schools. We have held that belief for a very long time. With the extent to which we rely on data to support one argument or the other—of course, it has been the only option for so very long, and the data is self-serving in that respect. Academisation is not always a silver bullet, and does not always work according to the locality, status or circumstances of the school. We absolutely think that different options are available. The introduction of the Regional Improvement for Standards and Excellence teams to offer different support and different ways of support is to be wel",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q Leaving aside the register, looking at the schools part of the Bill—and knowing the challenges your members up and down the country face—do you think it has the right priorities in terms of the issues we need to be tackling across schools and colleges? Julie McCulloch: I think it has some important priorities, and the ones you highlighted are first among them—the register, for example. There are certainly other issues that our members would raise with us as being burning platforms at the moment. SEND is absolutely top of that list, with recruitment and retention close behind, and probably accountability third. Those are the three issues that our members raise as the biggest challenges. There are some really important measures in the Bill that talk to some of those concerns. Certainly, there are some things in the Bill that might help with recruitment and retention. But it is fair to reflect the fact that our members are keen to quickly see more work around some of those burning platforms.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q You mention recruitment and retention as a key issue—we know that it is a massive issue —yet in a previous answer you said you were concerned that the qualified teacher status changes might reduce supply. In your professional judgment, what impact might the QTS measures and the constraints on pay and conditions have on recruitment and retention? What is it that you think will be beneficial for R&R? Julie McCulloch: I think there are two different questions there. On the QTS measure, I think it is about recognising the acute situation that we are in, and that in some circumstances our members are saying that they have a good member of staff delivering teaching who does not have QTS but is maybe working towards it. There is some devil in the detail there about where exemptions might be, and how working towards QTS might work. On the changes around applying the school teachers’ pay and conditions document to academies as well as maintained schools, if the way we understand that measure is right, we think it will help with recruitment and retention—if it is about a floor, not a ceiling. We are not entirely convinced that that is how the Bill is worded at the moment, but if that is th",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q Obviously, breakfast clubs are for primary schools, but hunger does not end at 11. Do either of you think that we should be extending provision of free school meals right up to 18? Paul Whiteman: May I add something in response to your first question, and then deal with your second question? In terms of QTS, we agree with what Julia said, but would add that it is a legitimate expectation of pupils and parents that they are taught by someone who is qualified to do so. Therefore, the provisions in the Bill meaning that people travel towards becoming qualified teachers are very important. That necessity has a marginal impact on recruitment and retention, frankly. Recruitment and retention is so much more than the flexibilities that may or may not be allowed to academy chains under pay and conditions. Those are sparingly and judiciously used at the moment—we have no objection to how they have been used so far. But those flexibilities have a marginal impact. What affects recruitment and retention is more around workload stress, the stress of accountability, and flexibility within employment, rather than those flexibilities.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q A quick question for Julie. You said it was not clear whether the Bill currently delivers a floor, not a ceiling. Would you welcome it if we all passed an amendment to make that very clear? Julie McCulloch: Yes.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Amanda Martin",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "Q What is the importance in the Bill of providing a clear legal basis for sharing information with the purpose of safeguarding and promoting the welfare of children? Paul Whiteman: We absolutely support that. A statutory duty for schools and educators to be consulted in that respect is necessary, and it will widen the voices within that. After all, it is in schools that children are most present and visible, and teachers and school leaders already play a role in noticing changes and issues. Julie McCulloch: We feel the same way. I would simply add that it is a growing set of responsibilities on schools—burden is not the right word, because schools absolutely need to do it. We are hearing a lot about the pressures on designated safeguarding leads in schools. While we also welcome schools’ having a statutory role here, we need to recognise that schools will need support and sufficient resources to deliver that.",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q I did some rough calculations, and I think 3.1% of full-time equivalent teachers do not have QTS. In 2010, which happens to be the year the data series started, it was 3.2%. On pay and conditions, no one seems to have come forward with any widespread evidence of schools paying less than what might be this floor condition. In your estimation, what problem are the Government trying to solve with these two measures? Paul Whiteman: I think you are asking the wrong people. I do not know what is in the minds of Government.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q Paul, you like to speculate—come on. Paul Whiteman: Damian, you know me too well. I cannot answer what was in the minds of Government. Broadly speaking, as I have said, I think it is a legitimate expectation of parents that a teacher in front of their child is qualified to teach them. On the push from both your Government and this Government for standards to be the voice of parents, and in talking about doing this for the expectations of parents, I think that gets alongside that ambition, so it is welcome. On the pay flexibilities, the debate is louder than it needs to be because of the point that you made—we have not really deviated much from the STCPD. The whole point of having an independent pay review body to establish what the floors should be has worked in that regard but we need it to offer more, and obviously we would always say that. Where I would phrase it slightly differently, on the question of whether we would ask for an amendment for a floor and not a ceiling, is I would talk about a core rather than a floor. There should be a core of terms and conditions that means a teacher or school leader is agile within the system and portable. We do not want people being stuck",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "Q I think a lot of people see the measures in the Bill on flexibilities for schools, on academies and on the national curriculum as quite a dramatic change, or a dramatic undoing of reforms made to the school system over the course of multiple Governments over the last couple of decades. Paul, you said in your opening remarks that this is not “a revolution”. My question is: come the revolution, what should we expect to see in Labour’s next Bill? Paul Whiteman: As a trade union that is politically independent and speaks to all of you, I have no insight into what might be in Labour’s next Bill.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "I think that is not a terribly serious question, Damian. Darren, let us get on with it.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "It is a serious question.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "It is not part of the Bill, and we have to stick to this Bill.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Darren Paffey",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "Q My question is about qualified teacher status, and the Bill is obviously about either having or working towards that. Do you think it is a reasonable expectation that, whatever your expertise and subject knowledge, if you are teaching, you are trained to teach? Do you think that remains a reasonable expectation? Julie McCulloch: I think it does in the vast majority of cases, but quite what working towards it looks like needs thinking about to ensure that it does not exacerbate existing crises. The only exception I might look at—I think there may be exceptions for this anyway—is at the very top end of secondary, and going into the college and vocational sphere, where there might be a slightly different set of skills needed in the people teaching those young people. But broadly, as a principle, I would agree.",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Darren Paffey",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "Q My main question is about safeguarding. I know from experience that the good relationships between the different agencies, particularly schools and the local authorities, are forged locally, and therefore they depend on almost a bit of a lottery. Do you think that mandating will resolve that issue? Will that satisfy the leaders and the designated safeguarding leads who you speak to that they now have the position and the basis for a much stronger relationship through what is being mandated? Paul Whiteman: We do. I would not go as far as suggesting that it is a lottery, but there are differences of relationship and of quality of relationship, so putting that on a statutory footing will help. Our one concern is that schools are often seen as the thing that will fill any void that occurs, or that will assume a greater responsibility. This is really about making sure that, through the conversations with those safeguarding teams, all the services that support children are there to help them, and that schools have a voice in that, rather than having to assume some of the responsibilities of the other agencies, as has happened more and more over time. We see it as a positive step, but t",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Darren Paffey",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "Q Are those expectations clear enough? Julie McCulloch: I think they could probably be clearer.",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Ellie Chowns",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "Q The Bill talks about breakfast clubs, but says nothing about free school meals more widely. Would you like to see an expansion of eligibility for free school meals? Julie McCulloch: We would.",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Ellie Chowns",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "Could you elaborate on that? Julie McCulloch: Happily. We would like to see the expansion up to 18—at the moment, it goes up to only 16 —and we would like to see it expanded to all children in families receiving universal credit. Paul Whiteman: We are in a similar position. We absolutely accept the evidence that well-fed students perform and work better. Our only concern is the level of funding that comes with it. The provision has to be funded properly, not just for buying the food but, importantly, for the capital costs to make sure that those things can be delivered properly.",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "David Baines",
+   "member_id": 5092,
+   "type": "Contribution",
+   "text": "Q I am sure that we would all agree that we want to see high standards in every school for every child, whether that is for academic attainment and achievement or for safeguarding outcomes. In your view—broadly speaking; we have limited time—does the Bill help or hinder the ambition of high and rising standards in every school for every child? Paul Whiteman: I certainly do not think it hinders that. On the extent to which the Bill addresses some of the struggles that we have had about attendance and support for children, it will certainly help. Often, when we are discussing such things, the language is very unhelpful, because most schools have high and rising standards already—it is a very small percentage of schools that are in real difficulty. My eye is therefore drawn to the provisions for when intervention occurs, how that support occurs and whether that will help, and I absolutely think it will. Having alternatives, not just one answer, will assist the local education economy and the local education effort to collaborate more and to help more. One of the things that we need to make sure that we are doing much better in a fragmented system is encouraging more collaboration betw",
+   "name": "David Baines",
+   "party": "Lab",
+   "seat": "St Helens North"
+  },
+  {
+   "who": "Patrick Spencer",
+   "member_id": 5303,
+   "type": "Contribution",
+   "text": "Q I want to talk about school improvement. Paul, I think you said earlier that you were confident in the RISE teams as a policy. When we FOI-ed commitments to the RISE teams, we found that the east of England, where my constituency is, will have four people from the RISE teams. We have thousands of schools, and probably hundreds that require improvement, yet only four people. Can you qualify why you have confidence in the RISE teams to deliver a school improvement offer? Can you also speak to what more could be done in the Bill to ensure that there is a proper school improvement offer? Paul Whiteman: I am not sure that I have said that I have confidence in the RISE teams. I think I referenced the RISE teams as having a role in improving standards, in that they will come and support as well. I do not know whether there is a word-for-word record to check that, but if I was saying that I had confidence, that was not intended. I think the problem with the RISE teams, and all the rollout of the Bill’s intentions, is to do with the practical application of the Bill’s provisions later on. Of course, making sure that those teams are properly resourced and funded so that they work is a chal",
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich"
+  },
+  {
+   "who": "Patrick Spencer",
+   "member_id": 5303,
+   "type": "Contribution",
+   "text": "Q Do you think school improvement is best delivered at the Department for Education in a big office somewhere, or in a school with people on location? Julie McCulloch: I think there is a role for both. There is a role for central co-ordination and central support. If the RISE teams deliver, that is what they could provide, but that support for schools does need to be done on the ground. That links to parallel conversations that are going on about how we might change inspection and accountability, as well as doing more to recognise the role that schools and trusts play across the system for school improvement, not just in their own individual institutions. Paul Whiteman: Just to add quickly, I do not see the RISE teams as the only participants in that school improvement. We see one of the roles of the RISE teams as identifying helpful local practice and trying to broker collaboration which, at the moment, sometimes does not happen in the way that it might. Access to multi-academy trusts could do something very well to schools that are not in their local authority.",
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich"
+  },
+  {
+   "who": "Patrick Spencer",
+   "member_id": 5303,
+   "type": "Contribution",
+   "text": "Q How do you see the role of local authorities with multi-academy trusts? Are they just replacing what was already going on? Paul Whiteman: Unfortunately, local academy trusts looking outside their own boundary does not happen quite as often as we would like in terms of helping schools that are not part of their trust, unless they become formally part of it. What we need is more collaboration across all school types in local areas.",
+   "name": "Patrick Spencer",
+   "party": "Con",
+   "seat": "Central Suffolk and North Ipswich"
+  },
+  {
+   "who": "Ian Sollom",
+   "member_id": 5096,
+   "type": "Contribution",
+   "text": "Q I think I am quoting you correctly in saying that academisation was not a silver bullet. Could you elaborate on the factors that are in play where it has not worked in particular areas? Paul Whiteman: The data we look at shows quality schools and improvement outside the academy system as well as in the academy system. Where you get particular schools that are very difficult to broker, or have been re-brokered on a number of occasions, we need a different answer. I think it sits with the locality, and the local education networks and economy, to run to the aid of that school and try to improve it. I was also careful to say that my comments are not an attack on academies or the good work they do. It is about finding the answer for the individual school.",
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire"
+  },
+  {
+   "who": "Ian Sollom",
+   "member_id": 5096,
+   "type": "Contribution",
+   "text": "Q What is the difference with the maintained school if that is sitting quite isolated around other academies? It has not got that in-place support around it. How does that work effectively—is it better than re-brokering to another academy? Paul Whiteman: For me, it is not necessarily about the legal status of the school. It is about the collaboration and support around that school from the rest of the education network and society around it. We have seen some really good work in the last few years in the north-east with the way it has been building those networks around schools that happen to be in trusts and schools that are not in a trust, and making sure that support is delivered. The provisions in the Bill mean that you could make different decisions about the school’s legal status and actually make sure the support is delivered in a way that works for that school.",
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "I thank our witnesses. Examination of Witness Jack y Tiotto gave evidence.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "We will now hear oral evidence from Jacky Tiotto, chief executive of CAFCASS—the Children and Family Court Advisory and Support Service. Please could you introduce yourself? Jacky Tiotto: Thank you. My name is Jacky Tiotto. I am the chief executive of CAFCASS and have been there for five and a half years.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Good morning and thank you for coming. Clause 1 states: “Before a local authority in England makes an application for an order” it has to “offer a family group decision-making meeting”. Those meetings are generally a very good thing. They are in statutory guidance already, but I have two nagging worries as we move to mandate a good thing, as it were. The first is about pace. I worry that through people using the courts or their legal rights, some people will slow this down, or I worry that the local authority will sometimes worry about fulfilling this requirement when the priority should be the pace of getting a child away from a dangerous family. And I worry, on the other hand, that because we are saying that they should think about this and do more of these meetings just before they put an order in, you are at the point where the meeting is not going to be that useful because you are already not into a consensual process. We want to try and get local authorities to do this earlier more often. Do you have worries about the pace, particularly for very young, very vulnerable children? Could we amend the clause to try to address some of my nagging doubts? Jacky Tiotto: I think they",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q What is the average length of time? Jacky Tiotto: I do not know, but I would think it is a number of weeks.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q Is a number of weeks a potentially dangerous thing? Jacky Tiotto: For very young children when you are concerned, if they are still with the parents, which is sometimes the case, or even with a foster carer, you want permanent decisions quickly. That does not negate the need for the family to be involved. You can have it much earlier because you have been worried for a while at that point.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O'Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q So if you had the power, you could get this Bill into exactly the way you would draft it. With lots of experience in this world, you would change it so that we moved this thing in clause 1, part 1, so that it was focused on the point where there are initial child protection conversations rather than being in addition to. That is incredibly helpful. Is there anything else you would do to amend the Bill? Jacky Tiotto: There are a few bits that it would be good to talk about. I do not know if you have a set of questions.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q My real question is: what would you amend? We are trying to find out how we should change the Bill as it goes through. Jacky Tiotto: If I speak too long—because this is a great opportunity—please interrupt me. To go back to family group decision making and make a point about CAFCASS, we are the largest children’s social work organisation in England. We see 140,000 children through proceedings every year. The Bill tends to focus on those who are in public law proceedings. Two thirds of the children we work with are in private law proceedings, where there are family disputes about who children spend their time with and where they live. Very often, those children are in families where conflict is very intense. There are risks to them; there is domestic abuse. The Bill is silent on children in private law proceedings, and I think there is an opportunity for that to be different. One suggestion I would like to make on CAFCASS’s behalf is that family group decision making should be offered to families where the court has ordered a section 7 report—a welfare report that, if ordered to do so, the local authority has to produce for the court in respect of what it advises about where child",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Q What would that look like? Do you have to do a case review? Jacky Tiotto: As soon as that child becomes the subject of a concern, such that you might be making an application to deprive, you hold a child protection conference and you have a plan in place to protect that child beyond the deprivation, so including and beyond—it helps with the exit. The final point is about the type of people who apply to run this provision as amended: Ofsted needs to be really sure who they are and what their experience is. I have run this provision; I have worked in it. These kids are really needy. They need specialist, highly qualified people, and at the moment the provision that they get is not run by those sorts of people.",
+   "name": "Neil O'Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Q Jacky, thanks for presenting evidence to the Committee. I have two questions: one about local authorities, the second about kinship. On local authorities, what impact do you think mandating local authorities to offer a family group decision-making meeting will have on families and children? Jacky Tiotto: The intention to be family-centred and to promote families as being the best place for children to grow up in is a good one. As I said, I think it is too late when you are in a panic and get a letter that says, “We may remove your children”—you are going to engage very differently at that point than if you were involved earlier. I think it is a good thing, but the problem with mandation is that just because you say it has to happen does not necessarily mean that people will come, and it does not necessarily offer protection to children. The principle is right but how it becomes operationalised will be important.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Q That is really helpful. On kinship then, you will be familiar with the independent review of children in social care and the recommendations around kinship carers receiving greater recognition and support. There are obviously a number of measures in the Bill in that regard. What impact do you think the Bill will have on kinship care and those who care for those in kinship? Jacky Tiotto: I think it is fantastic to be acknowledging those people who often give up a big chunk of their lives to look after those children. Formalising the offer for them is a no-brainer, really. At CAFCASS, we clearly will be involved in assessing some of those carers if they have come into proceedings and have been named through the proceedings. We will be assessing them as we do special guardians now, so all to the good.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q CAFCASS seeks to make sure that decisions are made in the best interests of the child, and that the child is heard. How child-centred do you think the legislation is as drafted, in particular with regards to family group decision making? Jacky Tiotto: Yes, I was thinking about that on the way here. The intention to be child-centred is great, but there is confusion. Look at the advice that exists now, say, from the Ministry of Justice about the meeting you would have in pre-proceedings about removal of your children: it is not to bring your children because you would be in a meeting where something scary would be being discussed. You can understand that advice. Now, perhaps the week before, we may have a family group decision making where the plan is to encourage children to come. I think that more thought needs to be given to how children will experience family group decision making. To the point about it being earlier, I think a very special provision should be drafted about the need to seek children’s views and present them in that meeting. Whether they come or not is a matter for local authorities to decide, but, very critically, the adult voices will become the loudest if the",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q The Bill as drafted says that the child “may” attend a meeting if the local authority deems it appropriate. Would you agree with me that it should be the default that the child should attend unless the local authority thinks it inappropriate? Jacky Tiotto: Yes, but with care.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Q Absolutely. Could I follow up on the Minister’s question on kinship? You say you support relatives being involved in looking after children. It is great that a local offer is going to be published by every local authority, but every local authority has a different offer, frankly. What more do we think we could be doing to ensure that more kinship carers can step up and support children who would otherwise end up in local authority care? Jacky Tiotto: Well, I think we have to go back to the needs of the children, and they are pretty significant. In large part, when a local authority becomes involved on behalf of the state, they are worried: there will be matters of children not going to school, or them being at risk of criminal or sexual exploitation. There will be some quite serious issues in their lives if they are older children; if they are younger children, not so much so, but nevertheless the kinship carer’s life will not continue in the way it had before, in terms of their ability to work, maybe, or where they live. We know that local authorities are under huge resource pressure, so there is going to have to be something a bit stronger to encourage people to become carers, ",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Amanda Martin",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "Q I want to take a step back from where you would be involved. What do you think the impact will be of creating the duty of safeguarding partnership to make arrangements to establish a multi-agency child protection team? Jacky Tiotto: It is a long way back from us, but I was a director of children’s services before this and we were always clamouring to have a much more formal arrangement with the police and with health, so this is a fantastic opportunity to get that resourced and to put child protection formally back on the platform where it was, which is multi-agency. We have “Working Together”, which is the best multi-agency guidance in the world, but it has been hard to express without mandation. So thumbs up!",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "Ellie Chowns",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "Q To follow up a little, do you think the Bill does enough to centre the voices of children ? You have talked particularly about that in terms of family decision making, but are there other aspects of the Bill where you would like to see amendments made? Jacky Tiotto: Deprivation of liberty, definitely. May I say something about elective home education and also the Staying Close provision? The Bill’s intention to formalise elective home education is long overdue, and children’s views about that education should be well and truly sought before any decision is taken to permit it. It is a bit permissive at the minute, in terms of how section 47 is drafted: if the local authorities had cause to think that you had been, and now have established that you have been, significantly harmed or at risk of significant harm, then on no day of any week could it be okay for you to be out of sight being educated somewhere else. I think it should be a flat no if you are on a child protection plan. If you are a child in need under section 17, there should be more regular review of the child in need plan if you are being electively home educated. But every time, that child should be asked how it is go",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Ellie Chowns",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "Q And Staying Close? Jacky Tiotto: Again, another welcome introduction and formalisation. CAFCASS is involved with 25,000 children a year in public law proceedings. It would be nice if the drafters could require CAFCASS—at the end of proceedings, in its closing letter to the independent reviewing officer—to say, “We think, having come to know this child, that x, y, or z would be an appropriate provision for them in terms of Staying Close.” We will have got to know and had a relationship with that child throughout the proceedings. The same could apply when we are asked to discharge care orders, which is 10% of our work—again, asking us to write back to the local authority as the child’s guardian and say, “This child will not benefit from being housed 45 miles away,” or “This child will need access to grandma.” Asking us to do that at the end of proceedings would be an important addition to regulations or guidance. We are a bit missed out from the process, and we bring that voice of the child.",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Ellie Chowns",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "Q What about the idea of expanding Staying Put in addition to the expansion of Staying Close? Jacky Tiotto : All good. It is the same thing.",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Ellie Chowns",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "Q You would like to see that too. Jacky Tiotto : Yes.",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Ellie Chowns",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "Q Because that is missing from this Bill. Jacky Tiotto : Yes, it is. I have worked with many children who are terrified of the cliff edge of 18; in fact, they start worrying about it at 16. It often blights the last few years of their care.",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Ellie Chowns",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "Q What would you like to see, ideally? Jacky Tiotto : The provision mandated to 21, everywhere. I will probably be shot for saying that—",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Ellie Chowns",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "Q Or even beyond 21. Jacky Tiotto : Well, yes.",
+   "name": "Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Catherine Atkinson",
+   "member_id": 5143,
+   "type": "Contribution",
+   "text": "Q We have seen the number of children in care rising really significantly. Looking at the child protection measures, the kinship clauses and the family group conferencing, what do you feel the overall impact of Bill will be on the numbers of children in care? Jacky Tiotto : It is difficult. We have primary legislation in the Children Act 1989 that says that, in this country, we think the best place for children is growing up in their family or with relatives. When the 30-year review of the Children Act happened, people still signed up to that; this Bill definitely reminds us and provokes that intention again. The difficulty is that the formality around protecting children is burdensome, rightly so. So in my view some of the construction of this has to be a bit more thoughtful about the children who are going to do well in their families and the children who are not going to stand a chance and need, quickly, to move to permanence and to other places. Residential care is not doing particularly well for children with very special needs. We struggle to recruit foster carers because the resources around them are not there. It is the shape of what is around those other places, not reside",
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North"
+  },
+  {
+   "who": "Darren Paffey",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "Q The Bill proposes a number of measures on illegal children’s homes and a topic you have already mentioned a couple of times—deprivation of liberty, when that does not necessarily need to be in a secure children’s home. What are your reflections on how effective that is going to be in terms of protecting vulnerable children? Do you foresee in particular any impact on family court proceedings if there is now a different outcome in terms of what judges can decide? Jacky Tiotto : I do not think so, in terms of the strengthening of section 25 of the 1989 Act so that other accommodation can be used that is not a secure children’s home, but I think there is a gross underestimation of how intensive it is to look after those children. That is not just a today thing—it has been coming for 20 years, when we stopped running children’s homes in local authorities, really. The provision of the accommodation in the way that the Bill sets out is good but, as I said before, the issue is about who runs it and how much the staffing costs are for running very specialist provision—",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "The Chair",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Order. I am afraid that under the programme motion we have to end exactly on time. I apologise. Thank you very much, everybody.",
+   "name": "Chair",
+   "role": "Chair"
+  }
+ ],
+ "fetched": "2026-10-21T20:24:48Z"
+}

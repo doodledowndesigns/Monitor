@@ -1,0 +1,364 @@
+{
+ "ext_id": "670591A7-BCC5-4408-9870-015CF1BBB800",
+ "date": "2026-06-04",
+ "house": "Commons",
+ "section": "WestHall",
+ "title": "Home-to-School Transport",
+ "parents": [
+  "Westminster Hall"
+ ],
+ "location": "Westminster Hall",
+ "url": "https://hansard.parliament.uk/Commons/2026-06-04/debates/670591A7-BCC5-4408-9870-015CF1BBB800/HomeToSchoolTransport",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Tom Gordon",
+   "party": "LD",
+   "seat": "Harrogate and Knaresborough",
+   "member_id": 5032
+  },
+  {
+   "name": "Rachel Gilmour",
+   "party": "LD",
+   "seat": "Tiverton and Minehead",
+   "member_id": 5252
+  },
+  {
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford",
+   "member_id": 4131
+  },
+  {
+   "name": "Rishi Sunak",
+   "party": "Con",
+   "seat": "Richmond and Northallerton",
+   "member_id": 4483
+  },
+  {
+   "name": "Derek Twigg",
+   "role": "Chair",
+   "member_id": 429
+  },
+  {
+   "name": "Kevin McKenna",
+   "party": "Lab",
+   "seat": "Sittingbourne and Sheppey",
+   "member_id": 5300
+  },
+  {
+   "name": "Sir Julian Smith",
+   "party": "Con",
+   "seat": "Skipton and Ripon",
+   "member_id": 4118
+  },
+  {
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock",
+   "member_id": 5056
+  },
+  {
+   "name": "Josh Babarinde",
+   "party": "LD",
+   "seat": "Eastbourne",
+   "member_id": 5086
+  },
+  {
+   "name": "Alex Brewer",
+   "party": "LD",
+   "seat": "North East Hampshire",
+   "member_id": 5263
+  },
+  {
+   "name": "Mr Will Forster",
+   "party": "LD",
+   "seat": "Woking",
+   "member_id": 5322
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Jack Rankin",
+   "party": "Con",
+   "seat": "Windsor",
+   "member_id": 5340
+  },
+  {
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards",
+   "member_id": 5305
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Tom Gordon (Harrogate and Knaresborough) (LD)",
+   "member_id": 5032,
+   "type": "Contribution",
+   "text": "I beg to move, That this House has considered home-to-school transport. It is a pleasure to serve under your chairship, Mr Twigg, and I am grateful for having secured this important debate. At its core, home-to-school transport is a simple promise: where a child cannot reasonably walk to school, transport will not be a barrier to their education. However, that promise is under serious strain. Across the country, and acutely in North Yorkshire, families are finding that promise being broken by policy changes that are short-sighted, poorly designed and, in many cases, deeply unfair. The national picture is stark; the Public Accounts Committee published its report on home-to-school transport in March, and its conclusions make for uncomfortable reading.",
+   "name": "Tom Gordon",
+   "party": "LD",
+   "seat": "Harrogate and Knaresborough"
+  },
+  {
+   "who": "Rachel Gilmour (Tiverton and Minehead) (LD)",
+   "member_id": 5252,
+   "type": "Contribution",
+   "text": "I serve on the Public Accounts Committee, and I was the spokesperson for that report when it went to the media. The report dealt specifically with the education of those with special educational needs and disabilities, and it became very clear that there is a complete drop-off at age 16, meaning that many young adults aged 16 to 19 cannot get to school. The other point I would like to make is that, in rural constituencies like my own, the local special school is not a mile down the road, so it can mean a two-hour round journey.",
+   "name": "Rachel Gilmour",
+   "party": "LD",
+   "seat": "Tiverton and Minehead"
+  },
+  {
+   "who": "Tom Gordon",
+   "member_id": 5032,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for her diligent work as a member of the PAC, and for making that point about SEND, which I will come on to during my speech. Local authorities in England spent £2.6 billion on home-to-school transport in 2024-25, which was a real-terms increase of 70% since 2015-16. SEND transport alone more than doubled in cost over that same period, and it now accounts for £2 billion of that total. These are enormous sums, but remarkably, the PAC found that the Department for Education does not know whether this spending is achieving value for money. It does not have the data needed to oversee the system effectively, and it cannot adequately measure the relationship between transport and school attendance. The consequences of that failure are visible in other figures: some 1 million young people in the UK are not in education, employment or training, and one in five children of compulsory school age misses at least a day of school per fortnight, which rises to one in three at sixth-form age. The Department’s own assessment looks only at transport disruptions on the day they occur, not the wider issue of whether the system is keeping children in school. This is a serious bl",
+   "name": "Tom Gordon",
+   "party": "LD",
+   "seat": "Harrogate and Knaresborough"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "I wanted to come along and support the hon. Gentleman in bringing this debate forward. He is a very assiduous MP in this House, whether it be on the Back Benches in the Chamber or leading debates in Westminster Hall, and I want to congratulate him on that. I also add my support to what he is hoping to achieve because, although this is not a responsibility for the Minister—this issue is devolved in Northern Ireland—we have similar problems when it comes to SEND issues, disabled children and road safety. In his quest to have a better system, I wish him well. I hope that, back home in Northern Ireland where it is devolved—the Minister here has no responsibility for it—we will see changes as well.",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Tom Gordon",
+   "member_id": 5032,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for his contribution. As ever, he puts his point eloquently and passionately. I agree that, no matter where a SEND child is living in this United Kingdom, they deserve a lot better than they are getting at the moment. I want to press the Minister on a number of specific points. The single most impactful achievable change that this Government could make is also the simplest. The statutory guidance on home-to-school transport should be updated so that the minimum provision becomes the nearest or catchment school, rather than solely the nearest suitable school. That one change would restore the alignment between admissions and transport that rural families depend on. It would give councils a clear framework and remove the incentive to reinterpret eligibility ever more narrowly. It would protect the community-school relationships that anchor rural life, and it would not even require primary legislation. I urge the Minister to give that serious consideration. Secondly, I urge the Minister to impress on her colleagues at the Ministry of Housing, Communities and Local Government the need to reinstate the rural services delivery grant. The rural premium matters enor",
+   "name": "Tom Gordon",
+   "party": "LD",
+   "seat": "Harrogate and Knaresborough"
+  },
+  {
+   "who": "Rishi Sunak (Richmond and Northallerton) (Con)",
+   "member_id": 4483,
+   "type": "Contribution",
+   "text": "On that point, my first ministerial job was as Local Government Minister, and I think that the hon. Member makes an excellent point about the importance of the rural services delivery grant to councils such as North Yorkshire, which incur extra costs in delivering services in rural areas. Does he agree that that is an important aspect of local government finance that needs to be considered when MHCLG is looking at allocations, and that it is particularly important to our rural county of North Yorkshire?",
+   "name": "Rishi Sunak",
+   "party": "Con",
+   "seat": "Richmond and Northallerton"
+  },
+  {
+   "who": "Tom Gordon",
+   "member_id": 5032,
+   "type": "Contribution",
+   "text": "I thank the right hon. Gentleman for that point. It is one of the things on which we absolutely agree. I would like to see all parties and especially the governing party put that problem right. As I said, cutting the grant has had real consequences for the decisions that councils make. Thirdly, we need to see expansion of the statutory minimum more broadly. The current system, which involves a 2-mile walking distance for primary, 3 miles for secondary and a duty that ends at age 16, was designed for a different era and different pattern of schooling. Where school systems have been reorganised, specialist provision has been concentrated and rural bus networks have been allowed to decline, the statutory floor is no longer fit for purpose. Fourthly, will the Minister confirm that the Government will make data collection on home-to-school transport mandatory, as the PAC recommended? We cannot improve what we do not measure. Voluntary, inconsistent data collection across more than 100 local authorities is not a sufficient basis on which to run a £2.6 billion spending commitment. The Department needs a proper baseline if it is ever to hold local authorities to account and drive genuine i",
+   "name": "Tom Gordon",
+   "party": "LD",
+   "seat": "Harrogate and Knaresborough"
+  },
+  {
+   "who": "Derek Twigg (in the Chair)",
+   "member_id": 429,
+   "type": "Contribution",
+   "text": "I remind Members to bob if they wish to be called to speak in the debate.",
+   "name": "Derek Twigg",
+   "role": "Chair"
+  },
+  {
+   "who": "Kevin McKenna (Sittingbourne and Sheppey) (Lab)",
+   "member_id": 5300,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Mr Twigg. Massive congratulations to the hon. Member for Harrogate and Knaresborough (Tom Gordon) on securing the debate. This issue matters to so many people around the country. My constituency is a coastal community, but also very rural in parts. Many of the issues raised by the hon. Member apply directly to Sittingbourne and Sheppey. A notable issue is the recent school allocations in the east of the island of Sheppey that sent people what on paper was a few miles, as the crow flies, but given that it is an island, there is an enormous body of water in the way, and as the Harty ferry from Harty island went many decades ago, it was never going to happen—unless the kids were really good at swimming. They are being sent on a more-than-two-hour journey by public transport, often on snarled-up roads, and we have terrible bus services, like so many rural areas. However, I want to focus on the issues for children with special educational needs and disabilities and particularly those aged 16 and older. Kent county council has recently changed the criteria that allow people to opt for school transport to their education and has now made it ",
+   "name": "Kevin McKenna",
+   "party": "Lab",
+   "seat": "Sittingbourne and Sheppey"
+  },
+  {
+   "who": "Derek Twigg (in the Chair)",
+   "member_id": 429,
+   "type": "Contribution",
+   "text": "I advise Members that if they refer to Members who are not here, they should have let them know beforehand.",
+   "name": "Derek Twigg",
+   "role": "Chair"
+  },
+  {
+   "who": "Sir Julian Smith (Skipton and Ripon) (Con)",
+   "member_id": 4118,
+   "type": "Contribution",
+   "text": "As I have said to those on the Front Bench, I am unable to stay until the end of the debate, for which I apologise to you, Mr Twigg, and to colleagues. I commend the hon. Member for Harrogate and Knaresborough (Tom Gordon) for securing the debate. I am delighted that we have such an influential member of the Labour party here on the Front Bench—the Minister for School Standards, the hon. Member for Queen’s Park and Maida Vale (Georgia Gould)—because we cannot have this debate without mentioning the context of what this Labour Government are doing to rural areas. We have had the family farm tax, intolerable rate increases on pubs and hospitality businesses, and the Employment Rights Act 2025 hammering the ability of businesses, particularly those in rural areas, to take on young people. We have had the business inheritance tax issue, which causes huge problems for the continued success of many family businesses in rural areas, including in North Yorkshire. We are seeing policies of micro- managing moorland from Whitehall, rather than allowing long-term landowners to care for it as they have for generations. In North Yorkshire, we have a particular issue with the Labour mayor, who is",
+   "name": "Sir Julian Smith",
+   "party": "Con",
+   "seat": "Skipton and Ripon"
+  },
+  {
+   "who": "Rishi Sunak",
+   "member_id": 4483,
+   "type": "Contribution",
+   "text": "My right hon. Friend, who is my dear friend and constituency neighbour, is making an excellent speech. He talks about families in the dales. I am sure that he agrees that families in the upper dales and Swaledale have been acutely impacted by this policy. He knows the geography well; families are also now being directed to schools in Kirkby Stephen or Barnard Castle, and getting there requires passage on minor, single- track roads through high moorland—roads that are often unpassable and unsafe in the winter months. The situation has obviously caused concern for the families involved. They are being very well represented by Councillor Yvonne Peacock. I join her in urging the council—it has to make difficult decisions, and my right hon. Friend was right to point out the climate in which it is operating—as it looks to refine and review this policy using the discretionary powers that Government guidance allows it, to think about the particular geography of Swaledale, the impact of weather on these roads and whether it is right for these children to be going to those schools. Often, they are having their education disrupted or travelling on unsafe routes.",
+   "name": "Rishi Sunak",
+   "party": "Con",
+   "seat": "Richmond and Northallerton"
+  },
+  {
+   "who": "Sir Julian Smith",
+   "member_id": 4118,
+   "type": "Contribution",
+   "text": "I completely agree with my right hon. Friend. We have talked about Settle college, which is threatened by kids going outwith the constituency and is worried about its numbers, but in the upper dales, too—we heard about the Thomases and others in Oughtershaw—children have to go over the top into Richmondshire or to Settle college, which is much further away than Upper Wharfedale school. The impact is that historical links between communities and villages, and between primaries and secondaries, are being broken, and these schools are vulnerable to tiny changes in rolls from year to year. I urge the Minister to reflect on the fact that many of us have fought to keep some of these schools open, and this policy really is having a negative effect. There are issues with the siblings policy, whereby the school attended by a sibling is no longer taken into account. I hope that this and other examples will be considered as North Yorkshire completes its review and considers its post-implementation procedures. We heard the proposal from the hon. Member for Harrogate and Knaresborough to look again at the definition of a local school and at the rural services grant. I think we need an emergency",
+   "name": "Sir Julian Smith",
+   "party": "Con",
+   "seat": "Skipton and Ripon"
+  },
+  {
+   "who": "Tom Gordon",
+   "member_id": 5032,
+   "type": "Contribution",
+   "text": "It came to my attention that a freedom of information request to North Yorkshire council uncovered emails that suggested that the Conservative leader of the council was suggesting that there should not be more than one Liberal Democrat sitting on any of the council’s appeal panels. Does the right hon. Member agree that we need full transparency to understand what has been going on there and how the council might have been looking to fix who sits on those appeal panels?",
+   "name": "Tom Gordon",
+   "party": "LD",
+   "seat": "Harrogate and Knaresborough"
+  },
+  {
+   "who": "Sir Julian Smith",
+   "member_id": 4118,
+   "type": "Contribution",
+   "text": "Well, I thank the hon. Member for that point. [ Laughter. ] All I would say is that, knowing the personalities involved and their integrity, I think North Yorkshire council has been grappling with a difficult challenge. It accepts that there will have to be changes. It is key that we move forward, and a way to do that is to ask whether there can be a more empathetic approach to appeals and whether North Yorkshire can look at some of the points that the hon. Member and others have made about the fact that we are such a sparse area and need some changes. Ultimately, though, this falls on the Government. Although a small increase in home-to-school funding was earmarked in the previous local government funding settlement, it did not reach the need and the amount of money that North Yorkshire spends. We really need the Government to look at the specific needs of rural education, and to look again at how to assess sparsity and rural factors, in this and every other policy they have a part in.",
+   "name": "Sir Julian Smith",
+   "party": "Con",
+   "seat": "Skipton and Ripon"
+  },
+  {
+   "who": "Derek Twigg (in the Chair)",
+   "member_id": 429,
+   "type": "Contribution",
+   "text": "Time is moving on, so before I call the next speaker, I kindly suggest that Members keep their speeches to about six minutes so that we can get everybody in with a similar amount of time.",
+   "name": "Derek Twigg",
+   "role": "Chair"
+  },
+  {
+   "who": "Jen Craft (Thurrock) (Lab)",
+   "member_id": 5056,
+   "type": "Contribution",
+   "text": "It is an honour to serve under your chairship, Mr Twigg. I congratulate the hon. Member for Harrogate and Knaresborough (Tom Gordon) on securing this debate. I will focus my remarks on home-to-school transport for SEND children and young people, as I know others will talk about other aspects of the home-to-school transport system. The home-to-school transport system for SEND children and young people is a good lens through which to view how parts of the SEND system in general do not really communicate with one another. There is currently a statutory duty to provide home-to-school transport for children with additional needs who need to travel to a place of learning that is not within walking distance or is not their local place of education. However, the way that is applied often leads to rather negative outcomes for these children. There are obviously financial constraints on local authorities, which are obliged to provide home-to-school transport, and that often leads them to going with the lowest possible bid from a company that can provide it. A number of home-to-school transport companies market themselves as “specialists”. In reality, however, their staff have minimal special",
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock"
+  },
+  {
+   "who": "Josh Babarinde (Eastbourne) (LD)",
+   "member_id": 5086,
+   "type": "Contribution",
+   "text": "I congratulate my hon. Friend the Member for Harrogate and Knaresborough (Tom Gordon) on securing the debate. Members will be pleased to know that my speech will be under six minutes, so we will have brought that time back. I want to speak about home-to-school transport for children with special educational needs and disabilities and in particular about Lewis—that is not his real name, but he is a real Eastbourne boy with special educational needs. What happened to Lewis should never happen to any child. Lewis was physically restrained, relentlessly and brutally, by his passenger assistant on his home-to-school transport. His mum only found out when he came home that evening visibly distressed and bruised. She had not been told. That is because, shockingly, there is no statutory requirement to report incidents of physical restraint on home-to-school transport. We only know the specifics of what happened from looking at it, because it was captured on CCTV in the vehicle, and it was only captured because Eastbourne borough council—coincidentally, when I was a councillor—pushed for mandatory CCTV in cabs that facilitate home-to-school transport. I raised Lewis’s case at Education ques",
+   "name": "Josh Babarinde",
+   "party": "LD",
+   "seat": "Eastbourne"
+  },
+  {
+   "who": "Jen Craft",
+   "member_id": 5056,
+   "type": "Contribution",
+   "text": "The hon. Member is making an excellent point. I hope he will forgive me for adding another ask to his list. In assistance and drivers for home-to-school transport for disabled children—particularly those who have autism or neurodiversity—consistency is key. Does he agree that best practice guidance, setting out things such as consistency and the three points that he has made, would be very welcome?",
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock"
+  },
+  {
+   "who": "Josh Babarinde",
+   "member_id": 5086,
+   "type": "Contribution",
+   "text": "I completely agree. My little brother is autistic so, as a family, we see up close how important consistency is and how disrupting the consistency of a particular service can be hugely disruptive to the flow of his life. The same goes for many others with special educational needs and disabilities, so I would absolutely add that ask. I hope that the Minister can address it in her winding-up speech. Those four points are the minimum that Lewis and every SEND child travelling to school deserves. I hope that the Minister will meet me and Lewis’s mum to discuss this issue further—things fell through the cracks with the change of Minister at the last reshuffle—so that we can finally get closer to delivering on the promise that the Prime Minister made.",
+   "name": "Josh Babarinde",
+   "party": "LD",
+   "seat": "Eastbourne"
+  },
+  {
+   "who": "Alex Brewer (North East Hampshire) (LD)",
+   "member_id": 5263,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve with you in the Chair, Mr Twigg. I congratulate my hon. Friend the Member for Harrogate and Knaresborough (Tom Gordon) on securing this important debate. Connection and mobility are key to a social, happy and healthy society—and, as we are hearing, an educated one. The ability to build networks, reach community and simply get where we need to go matters, and it matters most in the early years of a child’s development. It councils’ responsibility to ensure that money allocated is properly spent, but it is Government’s responsibility to ensure that councils have adequate funding, including for home-to-school transport. That funding is provided through recurrent general funding allocations, and the Government must make absolutely certain that their funding formula matches local needs. When it does not, families and communities pay the price. I have a local example of exactly that. When Ancells Farm, a housing development in my North East Hampshire constituency, was built with the promise of a local primary school, families moved there in good faith. That school was never built. However, as part of a new arrangement, Hampshire county council promised a free bu",
+   "name": "Alex Brewer",
+   "party": "LD",
+   "seat": "North East Hampshire"
+  },
+  {
+   "who": "Mr Will Forster (Woking) (LD)",
+   "member_id": 5322,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship in this important debate, Mr Twigg. I thank my hon. Friend the Member for Harrogate and Knaresborough (Tom Gordon) for securing this debate and for the way he introduced it and shared his constituents’ stories. Our constituencies are very different, but the stories I heard were very familiar. The thread running through them is that children who are reliant on home-to-school transport are often failed. For another 10 months, my Woking constituents will be served by Surrey county council, and that is a real challenge for them. I have called many times for the children’s services at that council to be investigated and put into special measures, and home-to-school transport is another area in which I think the council lets people down. Surrey has third biggest local authority spend—at the last count, it spent more than £65 million in one year—on home-to-school transport, and it regularly overspends. The vast majority of that money is spent on home-to-school transport for children with special educational needs. Last year, The Daily Telegraph said that “Workers in Surrey have been left unable to book a taxi first thing in the morning becaus",
+   "name": "Mr Will Forster",
+   "party": "LD",
+   "seat": "Woking"
+  },
+  {
+   "who": "Derek Twigg (in the Chair)",
+   "member_id": 429,
+   "type": "Contribution",
+   "text": "The Front Benchers will have roughly 10 minutes each.",
+   "name": "Derek Twigg",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "It is an honour to serve under your chairmanship, Mr Twigg. I congratulate my hon. Friend the Member for Harrogate and Knaresborough (Tom Gordon) on securing this incredibly important debate and on setting out this deeply concerning issue eloquently and passionately. It does not affect his constituency alone; as we have heard from right hon. and hon. Members on both sides of the Chamber, it is an issue right across the country, from Yorkshire right the way down to Kent and Sussex, and everywhere in between. It feels a bit basic and obvious to say this, but it bears repeating: every child deserves to be able to get to school. There is a legal requirement to educate our children, and their ability to get there is a fairly basic right. They also deserve to get to school safely, efficiently and on time, yet the shocking stories that we have heard from around the country show just how hard that is for far too many children. The fact that the changes in Yorkshire mean that parents are being charged almost £900 for bus passes is, frankly, ridiculous. Sadly, those stories are symptoms of wider failures by a number of Administrations to consider the needs of rural communities and SEND famil",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Tom Gordon",
+   "member_id": 5032,
+   "type": "Contribution",
+   "text": "I have been campaigning since before I was elected to get the special school for autism in Bilton Woodfield reopened. The situation has now been dragging on for years. Does my hon. Friend agree that we need to see North Yorkshire council, the trust that has now been appointed and the DFE work together to get that open on time for this September?",
+   "name": "Tom Gordon",
+   "party": "LD",
+   "seat": "Harrogate and Knaresborough"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I 100% agree that they need to crack on as soon as possible. The challenge we had with the Government announcements before Christmas was that some local authorities were given the option to crack on with the special school or be given money instead. From talking to councillors on the ground who went for the money, I know that it is not going to be anywhere close to what they need to cover the provision that they were looking for, but they felt kind of forced to take that option. I am really worried about what these announcements will mean for the continued ferrying of children with special educational needs and disabilities very far away from home. Parents of children with SEND battle against the system enough as it is. It seems really unfair that they are now being made to choose between the right school for their child, but not being able to get them there without further sacrificing time and income, and getting their child to a school, but not one that can actually provide the right support. A number of hon. Members have today highlighted the cliff edge in transport provision for students over 16 both with and without SEND. Local authorities do not have a duty to provide a unive",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Jack Rankin (Windsor) (Con)",
+   "member_id": 5340,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Mr Twigg. I thank the hon. Member for Harrogate and Knaresborough (Tom Gordon) for securing this important debate, and hon. Members across the House for their thoughtful contributions. When introducing the debate, the hon. Gentleman rightly advocated for his constituents, talking primarily about North Yorkshire. Although he left in some political barbs about his Conservative-controlled local council, he, like the hon. Member for Twickenham (Munira Wilson), had the decency to recognise that the problem is not local, but is faced by all counties and councils. My right hon. Friends the Members for Skipton and Ripon (Sir Julian Smith) and for Richmond and Northallerton (Rishi Sunak) highlighted the scale of the challenge in North Yorkshire, which is now the highest spending local authority in the country, at £52.5 million a year. When talking about North Yorkshire specifically, we must consider the context of the council having one of the worst outcomes in the country from the Government’s so-called “fair” funding review, as well as losing the rural services delivery grant. I am afraid to say that this Government have whacked rural are",
+   "name": "Jack Rankin",
+   "party": "Con",
+   "seat": "Windsor"
+  },
+  {
+   "who": "Derek Twigg (in the Chair)",
+   "member_id": 429,
+   "type": "Contribution",
+   "text": "I ask the Minister to leave a few minutes at the end for the hon. Member for Harrogate and Knaresborough (Tom Gordon) to wind up.",
+   "name": "Derek Twigg",
+   "role": "Chair"
+  },
+  {
+   "who": "The Minister for School Standards (Georgia Gould)",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "It is an honour to serve under your chairship, Mr Twigg. I thank all Members for an incredibly constructive and thoughtful discussion. It was particularly powerful that so many Members brought the lived experience of their constituents and some of the challenges that they face with home-to-school transport to the Chamber. I welcome the visibility given to those stories. I congratulate the hon. Member for Harrogate and Knaresborough (Tom Gordon) on securing this important debate. His passion for and commitment to this subject came across in his speech, as did the fact that he has been an avid campaigner who has widely engaged with families. We have heard today why this is such an important issue. We also heard why the support that is available through home-to-school transport matters to families. It is the mechanism through which many disadvantaged families, many children in rural communities and many young people with SEND are able to access education. We heard how the existing statutory rights are incredibly important. In addition, we heard about the particular challenges faced by rural communities, where the distances are greater and home-to-school transport costs are higher. Tha",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Tom Gordon",
+   "member_id": 5032,
+   "type": "Contribution",
+   "text": "This has been an involved and thoughtful discussion. I appreciate the cross-party support for this issue across the Chamber; it is one of the few areas where the right hon. Members for Skipton and Ripon (Sir Julian Smith) and for Richmond and Northallerton (Rishi Sunak) and I see relatively eye to eye. I appreciate them both turning up today to make this case to the Conservative-run North Yorkshire council. It was, as always, fantastic to hear from the hon. Member for Thurrock (Jen Craft) on the work she does around disabled children and SEND. She is one of the best voices I have heard in this place on those subjects. Hearing from my hon. Friend the Member for Eastbourne (Josh Babarinde) regarding the horrendous situation he outlined and Lewis being physically restrained is heart- breaking. I hope he gets a solution and the accountability that is needed. I appreciate the Minister’s response. I would love it if she could be open to the further conversation she mentioned and make sure we can rule out things such as the nearest available walking routes to schools including river and motorway crossings and so on. There might be something in the statutory guidance that we could tease ou",
+   "name": "Tom Gordon",
+   "party": "LD",
+   "seat": "Harrogate and Knaresborough"
+  }
+ ],
+ "fetched": "2026-10-21T20:29:17Z"
+}

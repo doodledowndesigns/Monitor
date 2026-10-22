@@ -1,0 +1,813 @@
+{
+ "ext_id": "E5BB116A-6FBA-4758-9E0D-276C81369B21",
+ "date": "2025-03-17",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Children’s Wellbeing and Schools Bill",
+ "parents": [
+  "Commons Chamber"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2025-03-17/debates/E5BB116A-6FBA-4758-9E0D-276C81369B21/ChildrenSWellbeingAndSchoolsBill",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education",
+   "member_id": 4653
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 4460
+  },
+  {
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford",
+   "member_id": 4131
+  },
+  {
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow",
+   "member_id": 5237
+  },
+  {
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston",
+   "member_id": 4679
+  },
+  {
+   "name": "Dr Neil Hudson",
+   "party": "Con",
+   "seat": "Epping Forest",
+   "member_id": 4853
+  },
+  {
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood",
+   "member_id": 4510
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Helen Maguire",
+   "party": "LD",
+   "seat": "Epsom and Ewell",
+   "member_id": 5336
+  },
+  {
+   "name": "Suella Braverman",
+   "party": "Con",
+   "seat": "Fareham and Waterlooville",
+   "member_id": 4475
+  },
+  {
+   "name": "Alistair Strathern",
+   "party": "Lab",
+   "seat": "Hitchin",
+   "member_id": 5000
+  },
+  {
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire",
+   "member_id": 3969
+  },
+  {
+   "name": "Tristan Osborne",
+   "party": "Lab",
+   "seat": "Chatham and Aylesford",
+   "member_id": 5220
+  },
+  {
+   "name": "Steve Barclay",
+   "party": "Con",
+   "seat": "North East Cambridgeshire",
+   "member_id": 4095
+  },
+  {
+   "name": "Mr Will Forster",
+   "party": "LD",
+   "seat": "Woking",
+   "member_id": 5322
+  },
+  {
+   "name": "Jess Asato",
+   "party": "Lab",
+   "seat": "Lowestoft",
+   "member_id": 5156
+  },
+  {
+   "name": "Luke Murphy",
+   "party": "Lab",
+   "seat": "Basingstoke",
+   "member_id": 5248
+  },
+  {
+   "name": "Lola McEvoy",
+   "party": "Lab",
+   "seat": "Darlington",
+   "member_id": 5037
+  },
+  {
+   "name": "Mike Martin",
+   "party": "LD",
+   "seat": "Tunbridge Wells",
+   "member_id": 5219
+  },
+  {
+   "name": "Dame Siobhain McDonagh",
+   "party": "Lab",
+   "seat": "Mitcham and Morden",
+   "member_id": 193
+  },
+  {
+   "name": "Carla Denyer",
+   "party": "Green",
+   "seat": "Bristol Central",
+   "member_id": 5102
+  },
+  {
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen",
+   "member_id": 5270
+  },
+  {
+   "name": "Rebecca Smith",
+   "party": "Con",
+   "seat": "South West Devon",
+   "member_id": 5301
+  },
+  {
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East",
+   "member_id": 5210
+  },
+  {
+   "name": "Mrs Emma Lewell-Buck",
+   "party": "Lab",
+   "seat": "South Shields",
+   "member_id": 4277
+  },
+  {
+   "name": "Mr Lee Dillon",
+   "party": "LD",
+   "seat": "Newbury",
+   "member_id": 5310
+  },
+  {
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North",
+   "member_id": 5294
+  },
+  {
+   "name": "Bobby Dean",
+   "party": "LD",
+   "seat": "Carshalton and Wallington",
+   "member_id": 5083
+  },
+  {
+   "name": "Kit Malthouse",
+   "party": "Con",
+   "seat": "North West Hampshire",
+   "member_id": 4495
+  }
+ ],
+ "contributions": [
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Stephen Morgan)",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I beg to move, That the clause be read a Second time.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "With this it will be convenient to discuss the following: Government new clause 19— Cases in which duty under section (Corporate parenting responsibilities)(1) does not apply. Government new clause 20— Corporate parenting duty: collaborative working. Government new clause 21 —Duty to have regard to guidance . Government new clause 22 —Reports by Secretary of State. New clause 3 —National Care Offer— “(1) The Secretary of State must, within 18 months of the passing of this Act, publish a document (the “National Care Offer”) which sets out the minimum standards of information that local authorities must publish under section 2 of the Children and Social Work Act 2017 (local offer for care leavers). (2) Before publishing or revising the National Care Offer, the Secretary of State must consult with persons that appear to the Secretary of State to represent the interests of care leavers. (3) Where a consultation under subsection (2) results in recommendations to be made to the National Care Offer, the Secretary of State must— (a) make the recommended changes or otherwise implement the recommendations; or (b) where not intending to make the recommended changes or otherwise implement the ",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I start by thanking all hon. and right hon. Members for their valuable contributions during the passage of the Bill to date, and in particular, members of the Public Bill Committee for providing substantial debate and scrutiny. The Children’s Wellbeing and Schools Bill is a landmark Bill and a key piece of legislation that will enable us to deliver the Government’s opportunity mission and our determination to break the link between people’s background and their future success. It will protect children from abuse, it will stop vulnerable children falling through the cracks in services and it will deliver a core guarantee of high standards with space for innovation in every child’s education. It will put in place a package of support to drive high and rising standards throughout education and throughout children’s social care so that every child can achieve and thrive. Reforming children’s social care is critical to giving hundreds of thousands of children and young people the start in life that they deserve. Our approach to reform will break down barriers by shifting the focus of the children’s social care system to early support to keep families together. We will ensure that childr",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "I welcome what the Minister says. Last week, some of us had the opportunity to attend an event where Jamie Oliver was present. He is dyslexic, and he made a point that I think we need to recognise: those with dyslexia, autism and challenging educational behaviours also need to be helped. Will a section of the population that need help like this one also receive it?",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "The hon. Member is a tireless champion for children and young people, and he regularly writes to me even though education is a devolved matter. I will say a bit more later about the support available for children with special educational needs and disabilities. He will know that SEND is at a crisis point, and this Government are absolutely committed to reforming the system and are working at pace to do so. New clause 20 introduces a duty for new corporate parents and local authorities in England to work collaboratively with each other when it is in the best interests of children in care and care leavers when undertaking these duties. That is to avoid siloed working or duplication of efforts, addressing the challenges that children in care and care leavers face holistically in the same way that parents do when supporting their children. New clause 21 introduces a duty for relevant authorities to have regard to guidance issued by the Secretary of State. The guidance will set out how the duty relates to different corporate parents and how that will continue to contribute to outcomes we seek for children in care and care leavers. We will develop that guidance in partnership with the se",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Chris Vince (Harlow) (Lab/Co-op)",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "Although not explicitly mentioned in the document, young carers are obviously a group of young people who may be vulnerable and, having spoken to the Department for Education, parts of the Bill will support young carers better. Will the Minister touch on that?",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Supporting young carers is a key priority for this Government. My hon. Friend is a real champion on these issues, and I am very happy to work with him to ensure that the views of young carers are heard in this place. The Government have tabled amendments to the information sharing and consistent identifier duties in clause 4. The wider picture is that children are too often failed by inadequate or patchy information sharing, which is not good enough. The Bill enables us to make the change that children need, and the amendments will ensure that we get that right from the outset.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the shadow Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Neil O’Brien (Harborough, Oadby and Wigston) (Con)",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "I want to concentrate today on our new clause 36, which would ban phones from our schools. The new clause would also write into law some of the content of the very good private Member’s Bill drafted by the hon. Member for Whitehaven and Workington (Josh MacAlister), because this does not need to be a party political issue. When I was on the Science and Technology Committee back in 2018, I got us to do a report on screen time, social media and children’s mental health. Back then, the evidence was already very concerning, but by now every alarm bell should be ringing. Over the last decade, there has been an explosion in mental health problems among young people all over the world, over the exact same period that smartphones and social media have become dominant in children’s lives. The growth in mental health problems is focused almost entirely on young people, not older people. Children now get smartphones at a very early age. As the Education Committee pointed out in a good report last year, one in five of the UK’s three and four-year-olds now has their own smartphone. By the end of primary school, four out of five kids have a smartphone. There are many different ways in which smar",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Chris Vince",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "I thank the shadow Minister for giving way; he should take this as a constructive intervention. As a former teacher, I know some of the challenges of mobile phones—the Under-Secretary of State for Education, my hon. Friend the Member for Lewisham East (Janet Daby), will remember when hers went off during my speech in a debate on financial education. Will the shadow Minister also consider those groups who may require a mobile phone—I have perhaps given him a hint as to what I was going to mention—in particular young carers, who obviously need contact with family and those cared for?",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "The hon. Member has brilliantly anticipated a point I was going to make, and if he looks at the text of the amendment he will see it is carefully drafted exactly to allow carve-outs for those who need them, for example as health devices, so I hope he is reassured on that point. Attempts by the tech industry to lobby, to muddy the water, to run interference and to sow confusion are unconvincing. The problems hitting our children all over the world are not just a coincidence; there is more and more evidence for a causal link. For example, Sapien Labs asked questions about adults’ mental health and combined them into a mental health quotient score. They asked the same people when they first got a smartphone and the results were stark: the earlier someone gets a phone, the worse their mental health, particularly for girls. As with smoking, a powerful social gradient is also developing with smartphones and social media. That is going to widen gaps in school achievement unless something decisive is done. Sadly, many people still do not know about the risks from smartphones but a growing number of parents do know and are worried about the problems with smartphones and social media, but we",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Dr Neil Hudson (Epping Forest) (Con)",
+   "member_id": 4853,
+   "type": "Contribution",
+   "text": "When I visit schools across my constituency, I find that many have instituted policies banning mobile phones, or indeed are consulting on doing so. Sometimes there is a small degree of pushback from pupils, and sometimes indeed from parents, but does my hon. Friend agree that if the Government take up this amendment, it will make it clearer and easier for schools to ban these phones and produce a safe and nurturing environment for our pupils in school, and it would be easier to take this forward?",
+   "name": "Dr Neil Hudson",
+   "party": "Con",
+   "seat": "Epping Forest"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "My hon. Friend is completely correct, and I was going to come on to that very point. The Children’s Commissioner has said, “I honestly think that we will look back in 20 years’ time and be absolutely horrified by what we allowed our children to be exposed to”, and she is right. the very first thing Government could do is implement a proper ban on phones in our schools. Parentkind recently said to me, “Effectively, we are allowing our kids to be fed digital drugs and we are even allowing the dealers into the schools.” That has to change. The last Government issued guidance; it was a good start, but it is not enough and is not working. While 90% of schools say they have some sort of policy or some sort of ban, a survey by Policy Exchange last year found that only one in 10 secondary schools has a full start-to-finish ban, the policy that works best. Lots of schools are still trying policies where kids have their phones on them but are not supposed to have them out. The effect is that the kids are distracted, the teachers have to stop lessons to tell them to put them away, and we get all of the issues about bullying and social media during break times and more. As the hon. and learned",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the Chair of the Education Committee.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Helen Hayes (Dulwich and West Norwood) (Lab)",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "I rise to speak in support of new clauses 3 and 4, which both stand in my name. The Education Committee was afforded little time to undertake scrutiny of this important Bill, but we worked hard to do so, refocusing our ongoing inquiry on children’s social care to focus on part 1 of the Bill and holding an additional evidence session to look at part 2. I am grateful to all the witnesses who came to give us their evidence. We have published a report for the Secretary of State setting out recommendations based on the evidence we received. Broadly, the Committee welcomes the scale of the Government’s ambition as expressed in the Bill, which is a key plank of the Government’s opportunity mission to break the link between young people’s background and their future success. We join the Government in wanting to see high and rising standards in our education and care systems to protect vulnerable children and ensure educational opportunity for every child. We welcome the measures in the Bill to strengthen child protection, particularly the provisions to establish multi-agency child protection teams, including education in safeguarding arrangements and a single unique identifier for children",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the Liberal Democrat spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "It is a pleasure and a privilege to rise to speak on part 1 of the Bill, and in particular on the new clauses and amendments that stand in my name. When the Bill had its Second Reading, I said that there was much in it that Liberal Democrat Members welcomed, alongside areas that we would seek to amend, probe and strengthen. Its progress in recent weeks has seen plenty of debate, discussion and opportunities to constructively strengthen the legislation, although the Government have failed to accept any amendments that were not their own, despite the Minister’s comments in his opening speech. I am grateful to colleagues from across the House who served on the Committee, in which we had some excellent debates. However, I was disappointed last week to see the sheer number of amendments tabled by the Government ahead of Report. I really hope that the Government do not make a habit of depriving Committees of their chance to properly scrutinise Bills, even if most of those measures are welcome and uncontroversial. Turning to the new clauses and amendments that stand in my name, as the Minister knows, care—particularly kinship care—is a subject that is close to my heart and those of my Lib",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Helen Maguire (Epsom and Ewell) (LD)",
+   "member_id": 5336,
+   "type": "Contribution",
+   "text": "In Surrey alone, spending on private special educational needs schools has risen from £48 million in 2018-19 to £74 million in 2021-22. These schools are often backed by private equity firms, and they are charging local authorities extortionate fees—on average double those in the state sector. They are draining public funds, but councils have no choice but to place children in these schools due to a lack of state provision. Does my hon. Friend agree that extending the profit cap to independent schools is essential to protect public finances and ensure fairer funding for children with special educational needs?",
+   "name": "Helen Maguire",
+   "party": "LD",
+   "seat": "Epsom and Ewell"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I had not shared my speech with my hon. Friend, but she has anticipated the next couple of points that I was about to make. I agree with her strongly. I preface my comments by saying that there are many independent special schools run by private or voluntary sector providers that do an excellent job and are certainly not profiteering in the way that I am about to set out. Clearly, however, that is not the case across the board, with some firms making upwards of 20% in profit on what they charge. We must challenge whether that is justified. The crisis in state special educational needs and disability provision and the lack of specialist places have led to a growth in private provision that is crippling local authority finances, as my hon. Friend just said. In 2021-22, councils spent £1.3 billion on independent and non-maintained special schools—twice what they spent just six years previously. The average cost of one of those places was £56,710, which, as my hon. Friend said, was twice the average cost of a state-run special school place. Many of the companies running these schools are the very same private equity companies running the children’s homes and fostering agencies that cla",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Jim Shannon",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "Is the hon. Lady aware of the pilot scheme introduced in Northern Ireland by the Education Minister, Paul Givan? In some schools, all the children’s mobile phones are placed in pouches, so that they are never on show. This could make the Conservatives’ proposal acceptable to all, and there is still provision for carers to keep their phones with them. Northern Ireland has shown what can be done with a pilot scheme, and it is great that the House is following our lead.",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "It is always an honour to take an intervention from the hon. Gentleman, and it is great to hear about the pilot scheme in Northern Ireland. I have read that the Government in the Republic of Ireland have spent about €9 million on issuing those pouches to schools across the country. It would be useful and instructive for the UK Government to look at how that pilot goes, but I am not sure that we even need to wait for that. School leaders and parents are pressing us to go further now, and we must listen. Putting the guidance into law will ensure that schools have the necessary support when they are challenged on their policies, and the resources to implement a mobile-free environment. A headteacher in my constituency told me that it would cost his school budget £20,000 to install lockers or issue the pouches described by the hon. Member for Strangford (Jim Shannon). Children must be able to learn in an environment that is free from the distraction of phones and the threat of bullying. We have also seen a significant reduction in truancy in schools where restrictions have been robust.",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Suella Braverman (Fareham and Waterlooville) (Con)",
+   "member_id": 4475,
+   "type": "Contribution",
+   "text": "I welcome the hon. Lady’s comments on the new clause, and also the cross-party support that demonstrates that this is a cross-party issue and is not about party allegiance. Does she agree that the data and the evidence promoted by specialists such as Jonathan Haidt show that problems with literacy, numeracy and focus among children have accelerated since the early 2010s, which coincides with their access to phones? When it comes to what this Government should be doing, it is an open-and-shut case.",
+   "name": "Suella Braverman",
+   "party": "Con",
+   "seat": "Fareham and Waterlooville"
+  },
+  {
+   "who": "Munira Wilson",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "The data in the book to which the right hon. and learned Lady has referred is alarming. Last week in Hampton, in my constituency, the Smartphone Free Childhood campaign organised a public meeting with local parents. It was pretty full, and the data shared there was also extremely alarming. I attended as both a parent and the local Member of Parliament, and I am afraid I came away feeling even less of a liberal than before I went in, and slightly more authoritarian. However, that was mainly because allowing our children to grow up with the freedom of being away from such a toxic environment is the right, liberal thing to do. Let me say gently to the right hon. and learned Lady, and to those on both the Conservative and the Labour Benches, that being at school is only a small part of a child’s life—it is only a small fraction of that child’s time—and we need to look at much broader measures than restricting phone use in schools. It is disappointing that during the Committee stage of the Data (Use and Access) Bill, neither Labour nor Conservative Members supported Liberal Democrat proposals to make the internet less addictive for children. After the Government decided to gut the “safe",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Alistair Strathern (Hitchin) (Lab)",
+   "member_id": 5000,
+   "type": "Contribution",
+   "text": "It is a pleasure to speak about some very important amendments and new clauses, but also about a body of work that moves forward the country’s protections and support for some of the most vulnerable people in society, which has not been done for a long time. Before becoming a Member of Parliament, I had the privilege of being the children’s lead for the local authority on which I served. Many Members here may be the grandparent or parent of a handful of kids, but as any local authority lead will know, we are a corporate parent to many hundreds. In that role, it is impossible not to be moved by the testimonies of the young people with whom we are working. They have often undergone real moments of trauma and difficulty that would knock any of us for six. In the face of that, their resilience and their determination to better themselves should inspire us all. As guardians of the country’s collective obligation to young people in care, we owe it to them to fulfil our side of that corporate parenting role. I am therefore extremely happy to see Government amendments 18 to 22, which widen the role of corporate parenting to other local stakeholders. As a local authority lead working with t",
+   "name": "Alistair Strathern",
+   "party": "Lab",
+   "seat": "Hitchin"
+  },
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I think the hon. Gentleman will find that what the Government committed to do was some research.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Alistair Strathern",
+   "member_id": 5000,
+   "type": "Contribution",
+   "text": "I think the right hon. Gentleman will find that the Minister did not just commit to do some research; he committed to bring forward a statement on some really important aspects of online health on which the Government had not formally commented before. I gently suggest that if the Opposition are so clear—",
+   "name": "Alistair Strathern",
+   "party": "Lab",
+   "seat": "Hitchin"
+  },
+  {
+   "who": "Tristan Osborne (Chatham and Aylesford) (Lab)",
+   "member_id": 5220,
+   "type": "Contribution",
+   "text": "Of the six Education Secretaries we had between 2019 and last year’s election, did any of them propose banning mobile phones in schools—or is this the latest bandwagon from the Opposition?",
+   "name": "Tristan Osborne",
+   "party": "Lab",
+   "seat": "Chatham and Aylesford"
+  },
+  {
+   "who": "Alistair Strathern",
+   "member_id": 5000,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend, who could not have put my next point better. I completely recognise that this is a really important topic—it is important for parents and schools right across my constituency, too—but I am afraid the idea that, having had 14 years to bring this forward, the Conservatives have suddenly had a damascene conversion to the idea that this is something that cannot wait and must be delivered now, at a time when there is not a clear consensus among educational professionals or parents about the best way to bring such a ban into effect, feels disingenuous at best. I share lots of their concerns and, over time, I hope to be able work across this House to bring forward good protections to that effect. What I simply will not do is indulge this attempt to turn the issue into an opportunity for the Conservative party to posture, because it had so long and did so little on this work. In conclusion, I am very glad to be supporting a Bill that delivers step changes in protections for young people, steps changes in support for care leavers and a step change in support for kinship carers. For too long, we have not done enough to look after some of the most vulnerable young peop",
+   "name": "Alistair Strathern",
+   "party": "Lab",
+   "seat": "Hitchin"
+  },
+  {
+   "who": "Madam Deputy Speaker",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I urge Members to ensure that they keep their language respectful at all times.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Steve Barclay (North East Cambridgeshire) (Con)",
+   "member_id": 4095,
+   "type": "Contribution",
+   "text": "I rise to speak to clause 9 and the important issue of looked-after children, which I think Members from across the House care about greatly. It is for that reason that the Bill is so disappointing, because there are missed opportunities on supply and demand, and particularly on my concern—I represent a rural constituency with cheaper housing—about the concentration of looked-after children in particular communities, which the Bill’s regional commissioning fails to address sufficiently. I will take those issues in order, starting with supply. In Committee there was a lot of discussion about profiteering, and I am sure the Minister will respond to my pointing out that the Bill is silent on addressing the real and probably shared issue of how we boost supply by pivoting to talk of the profit clawback. My concern about the profit clawback is that when the Minister comes to claw back the money, he will find that it has long since moved. It would perhaps be helpful if the Minister could clarify the estimate that has been given to the Treasury for how much the Department expects to recover in clawback, because the Opposition suspect that it will not be particularly effective. Likewise, t",
+   "name": "Steve Barclay",
+   "party": "Con",
+   "seat": "North East Cambridgeshire"
+  },
+  {
+   "who": "Tristan Osborne",
+   "member_id": 5220,
+   "type": "Contribution",
+   "text": "I rise to support this Bill and the Government’s amendments. Specifically, I will talk to new clauses 18 to 22, on corporate parenting; new clauses 44 to 46, on kinship; and new clause 36, tabled by the Conservatives. As a former teacher in secondary schools in Kent, I believe these measures are overwhelmingly welcomed by many of my constituents, and also by professionals across social work and social care and in the education sector. Of course, the context of the Bill and the Government amendments is 14 years of cuts to many secondary schools and social care services in councils across the country. Successive cuts have been made to the numbers of schoolteachers and those supporting children on the frontline, with many children left in contextual settings that were inappropriate, with schools constantly having to chase agencies for resolutions. Of course, we had six Conservative Education Secretaries since 2019—a revolving door that would make the average attendance officer blush. To get to the specifics, new clauses 18 to 22, tabled by the Secretary of State, will ensure clearer responsibilities on corporate parenting. I welcome the strengthened provision for care leavers, includi",
+   "name": "Tristan Osborne",
+   "party": "Lab",
+   "seat": "Chatham and Aylesford"
+  },
+  {
+   "who": "Mr Will Forster (Woking) (LD)",
+   "member_id": 5322,
+   "type": "Contribution",
+   "text": "Thank you, Madam Deputy Speaker, for calling me to speak on this important Children’s Wellbeing and Schools Bill. I wish to focus my attention on two new clauses. First, I am calling my new clause 33 Sara’s law, after Sara Sharif, my murdered constituent. This comes out of the findings of the recent review conducted by the Children’s Commissioner. I thank the National Society for the Prevention of Cruelty to Children and others that have suggested a raft of great changes to the Bill when it comes to improving how we look after children in the UK. The list is never-ending, with so many great contributions from many. Given what happened to Sara Sharif, we know that the system is not protecting vulnerable children as it should. It failed her, so I am hoping to untie that fundamental knot in the children’s social care system. The sad reality is that the level of support a child receives too often depends not on their needs, but on where they live and the thresholds the council has for stepping in and saving a child from abuse and neglect. There is an unacceptable inequality in how local authorities interpret thresholds for an intervention under section 17 of the Children Act 1989. That",
+   "name": "Mr Will Forster",
+   "party": "LD",
+   "seat": "Woking"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "Very powerful indeed.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Jess Asato (Lowestoft) (Lab)",
+   "member_id": 5156,
+   "type": "Contribution",
+   "text": "I rise to speak in support of new clause 8 in my name, which has the support of many colleagues across the House and organisations including the Royal College of Paediatrics and Child Health, Barnardo’s, the NSPCC and the Children’s Commissioner for England. I am grateful to the hon. Members for Twickenham (Munira Wilson) and for Woking (Mr Forster) for their comments in today’s debate. New clause 8 would amend section 58 of the Children Act 2004 to remove the “reasonable punishment” defence that permits assault and battery on children by parents and carers. Children in Scotland and Wales already have the same protections as adults when it comes to being hit, but we find ourselves in the peculiar situation where a child growing up just over the border in England has fewer rights. Why should they? What is the difference between a child growing up in Berwick-upon-Tweed and a child in Bonnyrigg? Scotland and Wales are not alone: 67 countries around the world have already banned physical punishment—Tajikistan last year became the latest—and 27 others have also committed to a ban. There is a global recognition that children deserve better. Indeed, as part of the UK’s commitment to the 1",
+   "name": "Jess Asato",
+   "party": "Lab",
+   "seat": "Lowestoft"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "It is a pleasure to join in this important debate, as it has been to serve on the Bill Committee. I am very pleased that we have two days to debate the Bill on Report, because really it is two Bills, which are very different in character. In part 1, which we are debating today, there is a great deal on which I think all of us in the House agree. In fact, quite large parts of it were in the previous Government’s published Bill. It contains some important provisions covering children in care, special educational needs, child protection and so on.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Suella Braverman",
+   "member_id": 4475,
+   "type": "Contribution",
+   "text": "My right hon. Friend speaks with huge levels of authority given his previous roles. He has just mentioned special educational needs. As a fellow Hampshire MP, would he agree that we in Hampshire benefit from excellent services for our local schools, particularly when it comes to special educational needs? However, demand has doubled in the past few years. Would he support my campaign to save the Henry Cort Community College in Fareham and Waterlooville, which is under threat of closure? If the college is to be closed, would it not be better diverted to special educational needs provision to serve the local community?",
+   "name": "Suella Braverman",
+   "party": "Con",
+   "seat": "Fareham and Waterlooville"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "My right hon. Friend and near constituency neighbour makes a very important point, and I am sure she is running a very effective campaign. We look to the Government to come forward with what we know will be a large and broad special educational needs reform package. We do not yet know what will be in it or what the implications will be. Of course, we want all children to be wherever is right for them. For some children, that means being educated in a mainstream setting where they can benefit from that. However, we also know that for some children, it is right to be in special school. Having the full range of provision is therefore incredibly important. There is a great deal in this Bill that I could speak about, and which we did speak about in Committee. However, in pursuit of brevity—as I know you would wish, Madam Deputy Speaker—I am going to limit myself today to talking about two aspects: one thing that is in the Bill, and another that is conspicuous by its absence. The thing that is in the Bill is a peculiar thing to raise on the Floor of the House of Commons, because it is something with which I have not yet heard anybody disagree, and on which there is no amendment to speak ",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Helen Hayes",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "The right hon. Gentleman is raising a number of technical considerations about the implementation of a project that is no doubt very ambitious. But does he not hear the cries from parents of children with SEND who are so weary of having to tell their story again and again to different parts of the system that are supposed to help them, and are currently being hampered in those efforts by exactly this want for information about a child being held in a single place? Does he not think that, ambitious though this project is, and important though the technical considerations are, it is worth delivering, and that it is worth giving parents the confidence that we in this House will scrutinise it and do that job? There are big gains to be had from pursuing this course of action.",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I think the hon. Lady was here for the first two or three minutes of my speech—that is broadly what I said. In fact, I quoted her talking about the transformational potential of this measure and its importance. I do not want to go through it all again, but I said that when we all agree on something, there is sometimes a danger of unintended consequences. I then said that we may not talk about all this today—we do not have to do so today—but I think the Government will probably have to come back multiple times for Parliament to be able to consider all the much wider potential implications of creating such a database. I think, not for the first time in our in our lives, we are not a million miles away from one another. The other thing that I want to talk about, in a less consensual tone, is what is glaring in its absence from the Bill: new clause 36 on mobile phones and social media, tabled by my right hon. Friend the Member for Sevenoaks (Laura Trott). There are four parts to it: the first two state that the chief medical officer should be commissioned to issue a report, and the Government will conduct research on the effects of social media on children and young people. That was in",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Tristan Osborne",
+   "member_id": 5220,
+   "type": "Contribution",
+   "text": "Did the right hon. Gentleman say that it was a “rite of passage” for young people as young as year 6 and 7 to have a mobile phone, and that it was in the gift of their parents to decide? Last year, did he not suggest that we should wait until the guidance given by Government is fully reviewed and understood before we go for an outright ban? Why has he changed his mind?",
+   "name": "Tristan Osborne",
+   "party": "Lab",
+   "seat": "Chatham and Aylesford"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I do not know if the hon. Member has been reading misquotes.com again, but I did not say what he just suggested. I think he is probably referring to an interview from years ago in which I said that it has become something of a rite of passage that, between years 6 and 7, the great majority of children are given a mobile phone. That is true, and it is not at all what he just said that I said.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Luke Murphy (Basingstoke) (Lab)",
+   "member_id": 5248,
+   "type": "Contribution",
+   "text": "On a point of fact— [ Interruption. ] I am reading from a mobile phone but, talking about quoting, they are important for research. On 19 February 2024, when the right hon. Gentleman was the Minister of State for Schools, a press release issued his Department said: “Mobile phones are set to be prohibited in schools across England”. On the right hon. Member’s website on 29 February, there was an article that said, “This latest article”— by the right hon. Gentleman— “for the Herald and Post follows the decision to ban mobile phones in schools”. I raise that point because, previously, Conservative Members made the argument that they were already banning mobile phones in schools. Is it not the case that they were posturing then, just as they are posturing now?",
+   "name": "Luke Murphy",
+   "party": "Lab",
+   "seat": "Basingstoke"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "The hon. Member clearly did not consult the hon. Member for Chatham and Aylesford (Tristan Osborne), because he has made a slightly contradictory point. I was coming on to say that we did issue non-statutory guidance that mobile phones should be prohibited during school. That was the right thing to do. I do not know if this is further down whatever webpage the hon. Member for Basingstoke (Luke Murphy) was looking at, but I said that we maintained the option of making that guidance statutory. That time has come to do that, because the guidance has not been sufficiently effective in its current form, but issuing the guidance was the right thing to do.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Luke Murphy",
+   "member_id": 5248,
+   "type": "Contribution",
+   "text": "It was not just any website; it was the right hon. Member’s website, and it was a direct quote. My point—it was not necessarily to do with the point made by my hon. Friend the Member for Chatham and Aylesford (Tristan Osborne)—was that when the right hon. Gentleman was Minister of State for Schools, he described the move on his website as an outright ban. No if, no buts. It was described by the previous Government as an outright ban. It was posturing then, and it is posturing now.",
+   "name": "Luke Murphy",
+   "party": "Lab",
+   "seat": "Basingstoke"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "No, it was not posturing then and it is not posturing now. We issued non-statutory guidance—",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Luke Murphy",
+   "member_id": 5248,
+   "type": "Contribution",
+   "text": "Which you described as a ban.",
+   "name": "Luke Murphy",
+   "party": "Lab",
+   "seat": "Basingstoke"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "With respect, there are different levels. There is non-statutory guidance, statutory guidance and primary legislation. I first had to deal with this question in 2019. On that occasion, we decided not to issue a ban. We had a big discussion about it in a legislative Committee. I am not totally sure that it was the right approach to take at the time, but it seemed to be the view of headteachers in particular that there should be no ban. The hon. Member is right that when I was back in the Department for Education, we introduced non-statutory guidance, and I believe that the time has come to write that guidance into legislation. If he will give me a chance, I will say why. Even if something should be banned, it is perfectly legitimate to ask: why not just let schools decide? Schools know their pupils better. I have made that argument myself many times over the years on many different things. Both the Labour party and the Conservatives find ourselves in the exceptionalism territory. Labour Members of Parliament say, “Don’t tell schools what to do. Leave it up to individual headteachers.” Have they read the rest of the Bill? It prescribes what schools must do in the most extraordinary d",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Steve Barclay",
+   "member_id": 4095,
+   "type": "Contribution",
+   "text": "My right hon. Friend, who has detailed experience in the Department, is speaking as eloquently as ever on this topic. Before we move on from the Government Members’ interventions, is he, like me, enjoying the slight irony of hearing them argue for consistency, when, on inheritance tax for farmers, the Women Against State Pension Inequality Campaign, winter fuel, national insurance and so many other issues, consistency does not seem to be a priority?",
+   "name": "Steve Barclay",
+   "party": "Con",
+   "seat": "North East Cambridgeshire"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "As ever, my right hon. Friend makes a compelling point. Madam Deputy Speaker, you will be pleased to know that I am coming to a close.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Lola McEvoy (Darlington) (Lab)",
+   "member_id": 5037,
+   "type": "Contribution",
+   "text": "The right hon. Member knows where I stand and my views on this issue. Will he outline what has changed since February 2024, when he said no to a ban on phones in schools, but reserved the right to issue statutory guidance—",
+   "name": "Lola McEvoy",
+   "party": "Lab",
+   "seat": "Darlington"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "Order. I gently suggest to right hon. and hon. Members that we are meant to be debating the Children’s Wellbeing and Schools Bill on Report, and the amendments and new clauses.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "I apologise, Madam Deputy Speaker; indeed we are. In fairness to the hon. Lady, there is a connection, but it is important to say that we did not say no to a ban in 2024. We said that we would start with non-statutory guidance, with the option to make that guidance statutory. Yes, children’s usage of mobile phones has continued. People say, “Phones are banned in all schools anyway.” That is true, and I doubt there is a school in the whole country that says, “Yeah, it’s okay, just whip out your phone in the middle of an English lesson.” Everybody has various restrictions. However, if we look at the survey data, we see that there is a bit of a hierarchy; we can listen to Ministers, headteachers, classroom teachers or kids. The further down that list we go, the more we hear people saying, “Phones are about, particularly in breaks and at lunch time.” That, to me, is part of the school day; this is not just about lesson time.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Mike Martin (Tunbridge Wells) (LD)",
+   "member_id": 5219,
+   "type": "Contribution",
+   "text": "On Friday, I visited Kent college in my constituency, which has recently instituted a ban. Phones are collected in the morning and put into pouches, and at the end of the school day, the children can get them back. The school has found benefits for the collection of lost property, which is attached to the cages that have the phones in them. Is the right hon. Member aware of any cases where a school has instituted a ban, and it has been seen to have negative, rather than positive, outcomes?",
+   "name": "Mike Martin",
+   "party": "LD",
+   "seat": "Tunbridge Wells"
+  },
+  {
+   "who": "Damian Hinds",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "The hon. Member makes a powerful point very effectively. There will always be arguments about needing exceptions for this case and that, but we can have exceptions, and school headteachers are pretty good at knowing when they need to make an exception to a rule. It would be helpful to have a national policy in this area. That would not preclude exceptions for children with a special educational need or young carers. Crucially, it would also not preclude children from having a phone as they go to and from school, where the school and the parents want that. Parents often think about that, for safety reasons. There are various ways of dealing with this, such as the pouches that the hon. Member mentioned, or lockers. I have noticed a shift. A couple of years ago, some people argued against a ban on principle. Now, the only real argument that I hear—I do not say that this is a trivial point—is about the big cost of buying pouches or lockers. If that is what we are arguing about, that is material progress. It is time for us to stop talking about whether, and to start talking about how.",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Dame Siobhain McDonagh (Mitcham and Morden) (Lab)",
+   "member_id": 193,
+   "type": "Contribution",
+   "text": "Madam Deputy Speaker, may I, through you, wish all Members of the House a very happy St Patrick’s day? I rise to speak on new clause 14. What it proposes is not brain surgery, and it is not new or exciting, but it is an essential part of how we approach the enormous problem of children living in temporary accommodation miles away from their home, their home borough, their school and their doctor. The hon. Member for Harborough, Oadby and Wigston (Neil O’Brien), who spoke for the Opposition, said that he thought we would look back at the issue of mobile phones in schools and think, “What were we thinking to allow that to happen?”. We should already be thinking, “How did we come to have tens of thousands of children in temporary accommodation, which is almost exclusively in a terrible state of repair, miles away from anybody who is watching them?”. Many of the families we are talking about are not just homeless, but are the most vulnerable in our community. They include children with special needs, and children and families who experience great difficulty in their day-to-day lives. There are those who have disrupted families, those who move frequently, and those who just find things ",
+   "name": "Dame Siobhain McDonagh",
+   "party": "Lab",
+   "seat": "Mitcham and Morden"
+  },
+  {
+   "who": "Carla Denyer (Bristol Central) (Green)",
+   "member_id": 5102,
+   "type": "Contribution",
+   "text": "I rise to speak in support of amendment 172, tabled by my party, and then I will say a few words to lend cross-party support to new clauses 8 and 3. I truly welcome the important steps taken in the Bill to strengthen the systems intended to keep children safe, yet the Bill fails to embed meaningful consideration of children’s views. This means that critical decisions may be made at local and regional levels without consideration of the views and experiences of the children they affect. It is concerning that the proposed requirement in the Bill is to seek the views of the child only where the local authority thinks that is appropriate. The NSPCC points out that this is weaker than the existing Children Act 1989 requirements to ascertain and give due weight to the wishes and feelings of the child, in line with their age and maturity. In short, while there are so many good things in the Bill, it inexplicably falls short of that gold standard. Our amendment 172 seeks to address that. Amendment 172 would ensure that local authorities offering and facilitating family group decision making must consistently seek to ascertain the child’s views and to properly support them to engage, where ",
+   "name": "Carla Denyer",
+   "party": "Green",
+   "seat": "Bristol Central"
+  },
+  {
+   "who": "Darren Paffey (Southampton Itchen) (Lab)",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "I rise to comment on Government new clauses 18 to 22 and new clause 3. I very much welcome the new corporate parenting duties and the value they add to the Bill and to the activities of authorities up and down the country. The new clauses add value because this Bill is about boosting standards in schools and creating opportunities. It is about children getting the best start in life and ensuring that there are clear protections for young people. Crucially, it is about stopping children and young people from falling through the cracks in the system. In addition to the unique identifier that this debate has considered to join up services to help children and young people; the overhaul of children’s social care, which is long overdue, starting by capping excess profits, ensuring collaboration and ensuring that every pound counts towards getting the best for children; and the measures to support kinship carers and care leavers elsewhere in the Bill, all of which are crucial, it is also crucial to strengthen what children in care can expect authorities to do to secure good outcomes for them. I previously led children’s services as a cabinet member in Southampton. That was during a time ",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Rebecca Smith (South West Devon) (Con)",
+   "member_id": 5301,
+   "type": "Contribution",
+   "text": "On Second Reading, I spoke about the role of supported lodgings, but I also spoke about the impact on well-meaning and responsible parents who, for a variety of reasons, choose to home-educate their children and who will be disproportionately impacted by the legislation. I realise that this issue is in part 2 of the Bill and will be debated tomorrow, but I am on a Public Bill Committee tomorrow, so I want to get on the record my support for amendments 193 to 198, tabled by the Conservative Education team, which all seek to tackle the hammer blow that the Bill applies to home-educating families. However, today I must stick to part 1—I appreciate that I was speaking slightly off topic. Clauses 7, 8 and 9 seek to further support those who have been in the care system by providing a statutory basis for their support to the age of 25. Like the hon. Member for Southampton Itchen (Darren Paffey), as a former member of a corporate parenting panel as a councillor, over the years I have met many young people who are looking for support and security as they start their transition to adulthood. I should at this point declare an interest as a member of Plymouth city council. I want to share a r",
+   "name": "Rebecca Smith",
+   "party": "Con",
+   "seat": "South West Devon"
+  },
+  {
+   "who": "Tom Hayes (Bournemouth East) (Lab)",
+   "member_id": 5210,
+   "type": "Contribution",
+   "text": "The hon. Lady is making a powerful point about the importance of accessing coherent and organised records. However, does she agree that one of the reasons for those records being disorganised is the churn of social workers, and one of the causes of that churn is our care system’s extensive reliance on the excessive profiteering of external companies? This Bill provides for retention of care workers by ruling out excessive profiteering. Does she welcome that?",
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East"
+  },
+  {
+   "who": "Rebecca Smith",
+   "member_id": 5301,
+   "type": "Contribution",
+   "text": "I will reserve my judgment, because I am not convinced that stripping out excessive profiteering will actually help the system. Ultimately, what we need is the provision of service. If people just leave the sector altogether, we will not have social workers anyway. I do not agree with the hon. Gentleman on that point, but I understand the link to what I was saying. I welcome how far we have come in recent years on extending support in areas such as housing and provision up to the age of 25, but I believe the Bill is creating another cliff edge. What more can be done to enable those affected in adulthood by the emotional and mental impact of their life in care to access trained support? That might be something we need to consider further. Slightly changing tack, and talking of missed opportunities and perhaps a lack of ambition, I fail to see why the Government cannot support safeguarding young people in schools by banning mobile phones in the classroom. I feel there is another inconsistency here, as my right hon. Friend the Member for East Hampshire (Damian Hinds) mentioned. Clause 24 limits the use of branded school uniforms to reduce peer pressure and costs. The hon. Member for C",
+   "name": "Rebecca Smith",
+   "party": "Con",
+   "seat": "South West Devon"
+  },
+  {
+   "who": "Mrs Emma Lewell-Buck (South Shields) (Lab)",
+   "member_id": 4277,
+   "type": "Contribution",
+   "text": "I refer Members to my entry in the Register of Members’ Financial Interests. I rise to speak to new clauses 43 to 47, standing in my name and those of my hon. Friends. New clause 43 is yet another attempt to put my Healthy Start Bill into law. When I first introduced that Bill, 200,000 eligible pregnant women, babies and infants were missing out on Healthy Start vouchers. That is approximately £58 million going unclaimed from a scheme that is already budgeted for. These vouchers provide financial assistance in the form of a prepaid card to all under-18s who are pregnant, families with babies and children under the age of five, and pregnant women claiming certain benefits. This is to help with the ever-increasing cost of fruit and vegetables, milk formula and vitamins. Just last year, the child of the north all-party parliamentary group, which I chair, heard evidence that children in the north are more likely to die before reaching their first birthday than those anywhere else in the country. It has been widely reported for some time that, in desperation, parents have resorted to the theft of baby milk and formula or to having to water it down, which is not surprising considering th",
+   "name": "Mrs Emma Lewell-Buck",
+   "party": "Lab",
+   "seat": "South Shields"
+  },
+  {
+   "who": "Mr Lee Dillon (Newbury) (LD)",
+   "member_id": 5310,
+   "type": "Contribution",
+   "text": "As the son of a lady from Limerick, may I offer my mum, my wider family and everybody in the House a happy St Patrick’s Day? I rise to speak in support of two new clauses. New clause 13 tabled by my hon. Friend the Member for South Devon (Caroline Voaden) requests a review of adoption support services offered by local authorities and requires the Government within 12 months of passing the Act to conduct a review of the adequacy and effectiveness of those services. This will give those providing adoption services and those receiving them the comfort to know that they are indeed adequate and hopefully increase the confidence in adoption services and increase the take-up of those offering their homes to children in need. On the second amendment I wish to speak to, I declare an interest as a member of the all-party parliamentary group on households in temporary accommodation. New clause 14 tabled by the hon. Member for Mitcham and Morden (Dame Siobhain McDonagh) has the support of 35 colleagues from both the Labour and Liberal Democrats Benches. It requires local authorities to notify the child’s school and registered GP practice of a household’s homelessness status. In this debate, we",
+   "name": "Mr Lee Dillon",
+   "party": "LD",
+   "seat": "Newbury"
+  },
+  {
+   "who": "Amanda Martin (Portsmouth North) (Lab)",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "As a former teacher, I know at first hand the importance of safeguarding and ensuring that every child has the opportunity to thrive, regardless of their background or circumstances. That is why I wholeheartedly welcome and want to talk about new clauses 18 to 22, focusing on corporate parenting. They represent a vital step in protecting vulnerable children and enhancing their overall wellbeing. These amendments shift the responsibility for the welfare of children, particularly those in care or at risk, from being solely a single-agency duty to a much-needed collective duty on local authorities, social services, healthcare providers and educational agencies. My hon. Friends the Members for Hitchin (Alistair Strathern), and for Southampton Itchen (Darren Paffey), eloquently spoke about that, giving examples from roles that they held before coming to this place. The idea of corporate parenting is that services and agencies must come together to act in the best interests of children, much as a parent would. They are tasked with ensuring that children receive the care, protection and opportunities that they need to grow, thrive and reach their full potential. As a teacher, I saw at fir",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "Bobby Dean (Carshalton and Wallington) (LD)",
+   "member_id": 5083,
+   "type": "Contribution",
+   "text": "I rise to speak in favour of new clause 35 and amendment 174, both in my name, as well as the amendments tabled by my hon. Friend the Member for Twickenham (Munira Wilson). The Corporate Parenting Forum was one of the more enjoyable committees I was on when I was a local councillor. I agree with the hon. Member for Southampton Itchen (Darren Paffey) that the forum has quite a cold name, given all the warm work that it does. It shows the dedication of social workers, the compassion of foster carers and adoptive parents, and the resilience and character of the children. However, anyone involved in that forum would also have seen that the hard work of those involved was often undermined by a system that held people back from caring to the best of their ability. I am pleased that the Bill will make significant progress in that regard. However, there are areas where it could go further, and I intend to speak about a couple of them. One area of particular interest to me is the so-called care cliff edge. Those leaving the care system at 18 are forced to grow up so much faster than their peers. I have raised the issue on the Floor of the House before—in particular the age differential for ",
+   "name": "Bobby Dean",
+   "party": "LD",
+   "seat": "Carshalton and Wallington"
+  },
+  {
+   "who": "Neil O’Brien",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "We have heard some superb speeches this afternoon. The Chair of the Education Committee, the hon. Member for Dulwich and West Norwood (Helen Hayes), gave a brilliant and thoughtful speech, which ended with her talking about the welfare reforms that the Government will propose tomorrow. Our proposal for a ban on smartphones in schools is part of a general drive to undo the damage that a smartphone childhood is doing to young people’s mental health. We see that the driver of ballooning welfare claims, which the Government are really worried about, is young people and their mental health claims. If we want to be serious about prevention, a good place to start is with the amendment that we will vote on in a few moments. I am a glass-half-full kind of person. Although various Labour Members, including the hon. Member for Hitchin (Alistair Strathern), said that they would not be voting for the smartphone ban today, I could sense chinks of light in what they were saying; perhaps they were starting to come round to the idea. My right hon. Friend the Member for North East Cambridgeshire (Steve Barclay) gave a great speech, in which he mentioned the challenge posed by the large number of una",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I reiterate my thanks to all right hon. and hon. Members across the House for their thoughtful contributions on a range of amendments, of which I aim to cover as many as possible in the time available. A key pillar of this Government’s reform of children’s social care is to shift the focus towards early support to help families together and to keep them together where possible. I will therefore begin with the amendments concerning family group decision making, tabled by the hon. Member for Bristol Central (Carla Denyer) and the right hon. Member for Sevenoaks (Laura Trott). On amendment 172, we agree that the voice of the child and their views are integral. In some cases, it may not be appropriate for the child to attend meetings. However, during family group decision making, the local authority must seek the views of the child where appropriate. Statutory guidance will also set out that local authorities should ensure that the facilitator has the right skills and training, and I am confident that skilled professionals will engage the child in an appropriate way. On amendment 176, there is robust evidence that children can be diverted from care when family group decision making is ",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Kit Malthouse (North West Hampshire) (Con)",
+   "member_id": 4495,
+   "type": "Contribution",
+   "text": "Will the Minister give way?",
+   "name": "Kit Malthouse",
+   "party": "Con",
+   "seat": "North West Hampshire"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Of course we hear parents’ concerns about screen time, but this is a wider issue across the board that is not exclusive to schools. It is an issue on which we are already acting across Government to make sure that parents and teachers are supported in ensuring that children’s safety and wellbeing are protected. [ Interruption. ]",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Caroline Nokes)",
+   "member_id": 4048,
+   "type": "Contribution",
+   "text": "Order. I cannot hear the Minister speak, so I assume that nobody else can.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "The right hon. Member for North West Hampshire (Kit Malthouse) had the opportunity to speak in the debate, but he has chosen to turn up at the very end to make an intervention. It just shows what his interest is in these issues. We take these matters seriously, because we take children’s wellbeing seriously. The clue is in the name—Labour’s Children’s Wellbeing and Schools Bill. The measures in the Bill to protect children from harm, improve their schools and save their education from causing financial distress to their parents all relate to their wellbeing, and we know that mental health goes hand in hand with wellbeing. I was at this very Dispatch Box just last week to discuss the support we are offering in schools, and we will of course have more time to talk about those issues further. I understand that new clause 29 seeks to be supportive on this matter. The Government recognise the importance of understanding trends in the wellbeing of children and young people; indeed, schools are already encouraged to measure pupil wellbeing.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "With the leave of the House, I shall put a single question on Government amendments 119 to 131. Clause 18 Information Sharing Amendments made: 119, in clause 18, page 34, line 37, at end insert— ‘(4A) The Secretary of State may provide financial oversight information to the Care Quality Commission for use in connection with the Commission’s functions under sections 54 to 56 of the Care Act 2014. (4B) “Financial oversight information” means information held by the Secretary of State in connection with the Secretary of State’s functions under sections 30ZE to 30ZJ.’ This amendment enables the Secretary of State to disclose certain information to the Care Quality Commission for use in connection with the Commission’s functions under sections 54 to 56 of the Care Act 2014. Amendment 120, page 35, leave out lines 1 and 2. This amendment removes subsection (5) because it is clear without it that the information in question may consist of or include personal data. Amendment 121, page 35, line 14, at end insert— ‘(9) In this section, “the data protection legislation” and “processing” have the same meaning as in section 3 of the Data Protection Act 2018.’ This amendment adds a signpost to t",
+   "name": "Chair",
+   "role": "Chair"
+  }
+ ],
+ "fetched": "2026-10-21T20:25:31Z"
+}

@@ -1,0 +1,890 @@
+{
+ "ext_id": "451032D8-0055-40FD-86AE-0B0AA6B332F1",
+ "date": "2026-02-03",
+ "house": "Lords",
+ "section": "Debate",
+ "title": "Children’s Wellbeing and Schools Bill",
+ "parents": [
+  "Lords Chamber"
+ ],
+ "location": "Lords Chamber",
+ "url": "https://hansard.parliament.uk/Lords/2026-02-03/debates/451032D8-0055-40FD-86AE-0B0AA6B332F1/ChildrenSWellbeingAndSchoolsBill",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Baroness Morgan of Cotes",
+   "party": "Non-Afl",
+   "member_id": 4027
+  },
+  {
+   "name": "Lord Freyberg",
+   "party": "CB",
+   "member_id": 2593
+  },
+  {
+   "name": "Baroness Bennett of Manor Castle",
+   "party": "GP",
+   "member_id": 4719
+  },
+  {
+   "name": "Baroness Ramsey of Wall Heath",
+   "party": "Lab",
+   "member_id": 5022
+  },
+  {
+   "name": "Lord Remnant",
+   "party": "Con",
+   "member_id": 4946
+  },
+  {
+   "name": "Baroness Finlay of Llandaff",
+   "party": "CB",
+   "member_id": 3609
+  },
+  {
+   "name": "Baroness Kennedy of Cradley",
+   "party": "Lab",
+   "member_id": 4303
+  },
+  {
+   "name": "Lord Mendelsohn",
+   "party": "Lab",
+   "member_id": 4286
+  },
+  {
+   "name": "Lord Storey",
+   "party": "LD",
+   "member_id": 4238
+  },
+  {
+   "name": "The Earl of Effingham",
+   "party": "Con",
+   "member_id": 4958
+  },
+  {
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions",
+   "member_id": 269
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 3681
+  },
+  {
+   "name": "Baroness Barran",
+   "party": "Con",
+   "member_id": 4703
+  },
+  {
+   "name": "Lord Addington",
+   "party": "LD",
+   "member_id": 3453
+  },
+  {
+   "name": "Lord Bethell",
+   "party": "Con",
+   "member_id": 4708
+  },
+  {
+   "name": "Lord Hampton",
+   "party": "CB",
+   "member_id": 4951
+  },
+  {
+   "name": "Baroness Benjamin",
+   "party": "LD",
+   "member_id": 4167
+  },
+  {
+   "name": "Baroness Kidron",
+   "party": "CB",
+   "member_id": 4258
+  },
+  {
+   "name": "Baroness Cass",
+   "party": "CB",
+   "member_id": 5369
+  },
+  {
+   "name": "Lord Mohammed of Tinsley",
+   "party": "LD",
+   "member_id": 5401
+  },
+  {
+   "name": "Baroness Spielman",
+   "party": "Con",
+   "member_id": 5404
+  },
+  {
+   "name": "Lord Elliott of Ballinamallard",
+   "party": "UUP",
+   "member_id": 4367
+  },
+  {
+   "name": "Lord Reid of Cardowan",
+   "party": "Lab",
+   "member_id": 617
+  },
+  {
+   "name": "Lord Nash",
+   "party": "Con",
+   "member_id": 4270
+  },
+  {
+   "name": "Lord Sentamu",
+   "party": "CB",
+   "member_id": 3762
+  },
+  {
+   "name": "Baroness Fox of Buckley",
+   "party": "Non-Afl",
+   "member_id": 4887
+  },
+  {
+   "name": "Baroness Lister of Burtersett",
+   "party": "Lab",
+   "member_id": 4234
+  },
+  {
+   "name": "Lord Meston",
+   "party": "CB",
+   "member_id": 1940
+  },
+  {
+   "name": "Baroness Walmsley",
+   "party": "LD",
+   "member_id": 2547
+  },
+  {
+   "name": "Baroness Blake of Leeds",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip",
+   "member_id": 4912
+  },
+  {
+   "name": "Lord Macpherson of Earl’s Court",
+   "party": "CB",
+   "member_id": 4586
+  },
+  {
+   "name": "Lord Mott",
+   "party": "Con",
+   "member_id": 4984
+  },
+  {
+   "name": "Baroness Boycott",
+   "party": "CB",
+   "member_id": 4704
+  },
+  {
+   "name": "Lord Young of Acton",
+   "party": "Con",
+   "member_id": 5379
+  },
+  {
+   "name": "Baroness Tyler of Enfield",
+   "party": "LD",
+   "member_id": 4231
+  },
+  {
+   "name": "Lord Tarassenko",
+   "party": "CB",
+   "member_id": 5027
+  },
+  {
+   "name": "Lord Russell of Liverpool",
+   "party": "CB",
+   "member_id": 2134
+  },
+  {
+   "name": "Lord Watson of Invergowrie",
+   "party": "Lab",
+   "member_id": 1241
+  },
+  {
+   "name": "Baroness Sater",
+   "party": "Con",
+   "member_id": 4700
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Baroness Morgan of Cotes (Non-Afl)",
+   "member_id": 4027,
+   "type": "Contribution",
+   "text": "My Lords, it gives me great pleasure to move Amendment 209 and to support the other amendments in this group. I am grateful to the noble Baroness, Lady Berridge, for moving this amendment in Committee, as unfortunately I could not stay in the Chamber that night. In turn, I have taken on the amendment because my noble friend Lady Prentis has been unable to take part in this Bill. I am grateful to the noble Lord, Lord Freyberg, and the noble Baronesses, Lady Ramsey and Lady Bennett, for adding their names to the amendment. As this amendment was debated at the previous stage of the Bill, I will not repeat all the arguments. In summary, it seeks to introduce mandatory allergy safety policies for all schools in England. It marks the culmination of a long campaign in conjunction with the inspirational Helen Blythe following the tragic death of her son Benedict in 2021 when he was only five. An inquest last year concluded that Benedict’s death was avoidable. It was caused by the accidental ingestion of cow’s milk after his school failed to follow the processes and procedures in place to protect him. I know that we have heard this before, but I want noble Lords to think about it for a mome",
+   "name": "Baroness Morgan of Cotes",
+   "party": "Non-Afl"
+  },
+  {
+   "who": "Lord Freyberg (CB)",
+   "member_id": 2593,
+   "type": "Contribution",
+   "text": "My Lords, Amendment 209 goes to the heart of what families rightly expect schools to do: keep children safe. This is not a novel or radical proposal. It responds to a long-standing and well-evidenced failure of the current system. For too long we have relied on guidance and good will, yet allergy safety in schools remains inconsistent and, in some cases, dangerously inadequate. This amendment matters because it moves us from aspiration to assurance. Children continue to experience severe allergic reactions at school. Some have died. Families live with the daily fear that a simple mistake—a contaminated surface, a misunderstanding, a delayed response—could be fatal. The tragic death of Benedict Blythe exposed not a single error but a systemic lack of preparedness. His family’s determination to prevent another such tragedy deserves our respect—and action. I also recognise the work of the National Allergy Strategy Group and its member organisations. Its position paper, produced with the Benedict Blythe Foundation, sets out in calm, forensic detail why voluntary guidance has failed. Schools are under huge pressures, as we have heard, and without a statutory framework, allergy safety to",
+   "name": "Lord Freyberg",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Bennett of Manor Castle (GP)",
+   "member_id": 4719,
+   "type": "Contribution",
+   "text": "My Lords, I will speak briefly, having attached my name to Amendment 209, as the noble Baroness, Lady Morgan of Cotes, so powerfully introduced. I express my strongest possible support for Amendment 209 and commend the noble Lord, Lord Freyberg, for making important points in his amendments. I will tell a little tale of how I got involved in this. Like most people involved in politics, I have encountered around the country parents who say that they are worried about allergies and their child at school. In my case, I was walking down a corridor of this House, past the dining rooms, and the Benedict Blythe Foundation was holding an event to highlight the issue. I was almost literally dragged in to meet Helen Blythe, who has such a tale of horror but a powerful voice to say that she does not want this to happen to any other parent’s child. That is a demonstration of where we have got to today: campaigning works and people can make a difference through their actions. I particularly want to record that. The case has been powerfully made, and the noble Baroness, Lady Cotes, said that there may be further technical solutions to injector pens. We do not need to argue about that. It is abou",
+   "name": "Baroness Bennett of Manor Castle",
+   "party": "GP"
+  },
+  {
+   "who": "Baroness Ramsey of Wall Heath (Lab)",
+   "member_id": 5022,
+   "type": "Contribution",
+   "text": "My Lords, I support Amendment 209, in the name of the noble Baroness, Lady Morgan of Cotes, to which I have added my name. I declare my interest as a parliamentary ambassador for the Natasha Allergy Research Foundation. In doing so, I will not see my youngest daughter this evening, who is severely allergic to peanuts, because of the rather unusual hours that our House sits. I hope I will see her tomorrow evening, Chief Whip permitting, as she will be off to school in the morning very early —and, like the rest of us, I need to sleep sometimes. No doubt she will use this opportunity to ask me to explain, not for the first time, what exactly it is that we do in the House of Lords and why so much of it is done after dark. I very much hope that tomorrow, I will be able to give her the best of all possible answers. I will remind her that, a few months ago, on 16 September to be exact, rather late that night, along with many other noble Lords who I see sitting here in the Chamber this evening, I was adding my voice in support of an amendment designed to keep children safe—children like her, in fact, who have the misfortune to suffer anaphylactic shock if they come into contact with a smal",
+   "name": "Baroness Ramsey of Wall Heath",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Remnant (Con)",
+   "member_id": 4946,
+   "type": "Contribution",
+   "text": "My Lords, I support all the amendments in this group, and particularly Amendment 209, in the names of my noble friend Lady Morgan of Cotes and other noble Lords who have added their names. I have a granddaughter, now aged 10, who from birth has been allergic to dairy, eggs and nuts. Through a lengthy medically managed programme she has been able to reduce substantially her reaction to dairy and eggs, but remains extremely vulnerable to peanuts and sesame. She carries an EpiPen, although mercifully she has not yet had cause to use it. These allergies remain a constant concern to her and her parents. Yet I regard her as being one of the fortunate ones. She is conscientious and very aware of what she can and cannot eat, but the inherent risks are heightened away from home, whenever, say, she is at a friend’s house or in a restaurant. Most importantly, she attends a school which has adopted and follows the policies and procedures stipulated by Amendment 209. I regard these as minimum standards to be followed by schools. They surely should be regarded as best practice. However, it appears that, despite allergy being the most chronic childhood condition in the UK, my granddaughter’s scho",
+   "name": "Lord Remnant",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Finlay of Llandaff (CB)",
+   "member_id": 3609,
+   "type": "Contribution",
+   "text": "My Lords, it was 19 years ago that I had the privilege of chairing the Science and Technology Committee’s inquiry into allergy for this House. I remind the House that, even then, we were saying that half of those who died from an allergic reaction had not had any previous serious reaction, and we highlighted the need for adrenaline auto-injectors and the fact that they were not being used effectively. The failure of pens was for several reasons, usually that the injection was not given intramuscularly, there was poor training or pens had passed their expiry date, were being used too late in a reaction or were not available at the time of the reaction. The amendments in the name of the noble Baroness, Lady Morgan of Cotes, and of my noble friend Lord Fryberg are incredibly important and are 19 years overdue. We really cannot carry on like this. There is guidance on the use of adrenaline auto-injectors in schools from the Department of Health in 2017, but it states: “This guidance is non-statutory”. It goes on to say: “The Children and Families Act 2014 requires governing bodies of English schools to make arrangements for supporting pupils with medical conditions”. The problem is, of",
+   "name": "Baroness Finlay of Llandaff",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Kennedy of Cradley (Lab)",
+   "member_id": 4303,
+   "type": "Contribution",
+   "text": "My Lords, I support Amendments 209, 210 and 212 and declare my interest as the chief operating officer of the Natasha Allergy Research Foundation, the UK’s food allergy charity. While some schools manage food allergies well, too many do not and, as the noble Baroness, Lady Morgan of Cotes, expertly put it, with around two children in every classroom living with a food allergy, and one in five food-related allergic reactions occurring at school, the absence of clear policies and consistent staff training continues to place children at risk. These failings also affect attendance and undermine inclusion. Amendment 209 seeks to address these long-standing gaps. If it is accepted by the Government, that would represent a fitting tribute to five year-old Benedict Blythe, who tragically died from anaphylaxis at school, and to his mother Helen, whose tireless advocacy has brought us to this moment. Earlier this week, as others have said, Helen Blythe and representatives of national allergy charities met with the Minister for early years to discuss the urgent need for a robust statutory approach to allergy management in schools. The response and commitment from the Minister were extremely w",
+   "name": "Baroness Kennedy of Cradley",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Mendelsohn (Lab)",
+   "member_id": 4286,
+   "type": "Contribution",
+   "text": "My Lords, I thank the noble Baroness, Lady Morgan of Cotes, for moving this amendment, and I associate myself with the excellent speeches made in support of it and the other amendments in the group. I also associate myself with the high praise for the Natasha Allergy Research Foundation, for which I have the highest regard, and for the Benedict Blythe Foundation and the remarkable dedication of Helen Blythe. Her son Benedict was five years old when his milk allergy took his life. A plan was in place, but it was not followed. My son was five years old when we first discovered that he had a severe nut allergy. We had no idea—there were no signs or indications. He suffered a severe anaphylactic shock and we did not know what was happening to him. His life was saved by our extraordinary good fortune that it took place on a cruise and immediate hospital-level treatment was available. I am profoundly struck that his life was saved by being in proximity to the crucial care that he needed. For the most severe, like my son, auto-injectors are only a means of providing enough time to get necessary hospital treatment. At that time, if he had had such an attack in school, it is most likely tha",
+   "name": "Lord Mendelsohn",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "Every child must be safeguarded and safe from harm when they attend school. I remember, 15 years ago, what were called EpiPens. I had never heard of them until a parent came into school and told me about her child who had a particular allergy. We stocked EpiPens—one in each classroom, clearly labelled —and we trained the staff. I remember the staff being fearful, so we stabbed a grapefruit in those days to train ourselves. We did that on our own initiative because we understood our duty of care, but children’s lives cannot depend on individual schools taking the initiative. This must be guaranteed by government policy. The current system, I am sorry to say, is a postcode lottery. Some children are fortunate to attend schools that are honest about what they can guarantee. Others face confusion, inconsistency and danger. Children have learned from the age that they first enter school to bring their own food to school, to every meal, and to self-administer treatment, because the adults around them are untrained and unequipped.",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "The Earl of Effingham (Con)",
+   "member_id": 4958,
+   "type": "Contribution",
+   "text": "My Lords, His Majesty’s loyal Opposition understand how crucial allergy safety is in schools, and access to adrenaline auto-injectors is pivotal. Centralising and co-ordinating policy across education establishments is a much-needed step that would standardise current voluntary safety measures such as the provision of AAIs and provide a universal level of access to all students. That is a principle in Amendment 209, referred to as Benedict’s law, that we support. It would be remiss of me not to remind noble Lords: half of schools do not stock a spare auto-injector; 70% of schools do not have the recommended measures of spare pens, training and allergy policies, and individual healthcare plans in place; and 20% of fatal food anaphylaxis reactions in school-aged children or young people in England happen in schools. This is a critical issue. The noble Baroness, Lady Bennett, said that it was “basic”, the noble Lord, Lord Remnant, referred to it as “best practice”, and the noble Baroness, Lady Finlay, said that the cost of delay is “massive”. They are entirely correct. We also support the principle behind the amendments from the noble Lord, Lord Freyberg. It makes sense that those con",
+   "name": "The Earl of Effingham",
+   "party": "Con"
+  },
+  {
+   "who": "The Minister of State, Department for Education and Department for Work and Pensions (Baroness Smith of Malvern) (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My Lords, in concluding this group, I start by paying tribute to those who have campaigned so hard on school allergy safety, especially Helen and Peter Blythe, Tanya and Nadim Ednan-Laperouse, my noble friend Lady Kennedy of Cradley and other noble Lords, including the noble Baroness, Lady Morgan of Cotes, in introducing Amendment 209 this evening. The tragic deaths of Benedict Blythe and Natasha Ednan-Laperouse are a stark reminder of the dangers of anaphylaxis. We have heard other examples of that this evening, including the personal experiences of noble Lords. Amendment 209 seeks to introduce mandatory allergy safety provisions for all schools, including policy adoption, individual healthcare plans, adrenaline auto-injectors and staff training. As stated in Committee, schools have existing duties, under Section 100 of the Children and Families Act 2014, to make arrangements to support pupils with medical conditions including allergy. However, I am pleased to set out the Government’s plans to transform allergy safety in schools and take forward the campaign for Benedict’s law. Before September 2026, we will issue new statutory guidance and we will consult on it imminently. For th",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Baroness Morgan of Cotes (Non-Afl)",
+   "member_id": 4027,
+   "type": "Contribution",
+   "text": "I get the impression that the Minister may be about to finish so, before she does, may I just ask her two very specific questions? First, I do not think she has addressed the funding point. If I have missed it, I apologise, but please could she clarify whether the Government intend to back up the statutory guidance they propose by September this year with central funding of those spare pens, training and everything else? Secondly, as I understand it, the Minister said that the draft guidance states that schools “can” purchase AAIs. That is not the same as saying that schools must have spare AAIs. Is the Minister open to changing that wording, or could she just clarify the position? Schools must hold spare AAIs. It is of critical importance, for the reasons we have heard.",
+   "name": "Baroness Morgan of Cotes",
+   "party": "Non-Afl"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "On the second point, I said that schools are able to purchase their own spares. Many do so, but I said that our statutory guidance will be clear that we expect schools to do so. The statutory guidance will say that schools should have those spares. On the point about funding, no, I am not saying that there will be centrally provided funding. I was identifying, by talking about both the cost to schools of buying the adrenaline auto-injectors from high street pharmacies, for example, and the ongoing work with the Department of Health and Social Care, how we will ensure that, by schools using their funding, as half have already done, those auto-injectors are available as cheaply and easily as possible. I just reiterate, though, that I did say that training would be part of the statutory guidance, as well as an expectation that that training happens across the school. On that basis, I hope noble Lords will feel reassured and that the noble Baroness will feel able to withdraw her amendment.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Baroness Morgan of Cotes (Non-Afl)",
+   "member_id": 4027,
+   "type": "Contribution",
+   "text": "I thank all noble Lords who have spoken in the debate. We have paid tribute to the campaigners; many of them will be watching these proceedings tonight. I thoroughly agree with the noble Baroness, Lady Ramsey, that the House works best when we have the kind of debate we have had on this, and that, exactly as the noble Lord, Lord Freyberg, said, what matters is not ownership but outcomes. I think we were all moved by the personal examples that have been shared and the family members who are deeply affected by this. I thank the Minister for the assurances she has been able to give about a mandatory policy and training. I echo the words of the noble Baroness, Lady Finlay, that this is 19 years overdue and that there are undoubtedly significant costs of delay in treatment for pupils. Although the Minister has been able to help on the first point, about spare AAIs—although I wait to see the wording—I know, as we all do, that school budgets are under pressure and that when it comes to government commitments without funding there is a danger that they do not happen. The point is that the schools which are committed to doing this will find the money and those for which this is not a priori",
+   "name": "Baroness Morgan of Cotes",
+   "party": "Non-Afl"
+  },
+  {
+   "who": "The Deputy Speaker (Baroness Morris of Bolton) (Con)",
+   "member_id": 3681,
+   "type": "Contribution",
+   "text": "Before the noble Baroness tells us what she is going to do, I turn to the noble Lord, Lord Freyberg, to find out what he is going to do with his amendments.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Lord Freyberg (CB)",
+   "member_id": 2593,
+   "type": "Contribution",
+   "text": "I beg leave to withdraw Amendment 210.",
+   "name": "Lord Freyberg",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Morgan of Cotes (Non-Afl)",
+   "member_id": 4027,
+   "type": "Contribution",
+   "text": "I am sorry for that cliffhanger. I am still learning about procedure after six and a bit years.",
+   "name": "Baroness Morgan of Cotes",
+   "party": "Non-Afl"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "May I just prolong the cliffhanger slightly? I reiterate that I was clear that this is statutory guidance which all schools should follow unless there are very exceptional reasons why they do not. The point that the noble Baroness makes about the postcode lottery is not right because all schools will be covered by this statutory guidance covering all the issues that I identified.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Baroness Morgan of Cotes (Non-Afl)",
+   "member_id": 4027,
+   "type": "Contribution",
+   "text": "I take the Minister’s point. I understand what she is saying and I know that schools will want to follow statutory guidance. But we have heard the example of the defibrillator rollout: the department was able to find the money. We are talking about money that I think the Government would be able to find. Without government funding behind a key policy, schools will have to think about whether or not they do it. The other point is that we have heard powerful speeches from the Minister’s own Back Benches this evening, all of which have been in favour of this amendment. I think that the way this House works best is to test opinion. Therefore, I would like to test the opinion of the House on this amendment.",
+   "name": "Baroness Morgan of Cotes",
+   "party": "Non-Afl"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "The decision before us this evening in relation to Amendment 215 is whether we support the Government’s recent policy shift to tighten the guidance to schools about phones or whether we need to amend the Bill to prohibit the use and possession of smartphones in schools. On these Benches, we are absolutely clear that it is the latter. I am very grateful to the noble Lord, Lord Hampton, and the noble Baronesses, Lady Kidron and Lady Cass, who all bring exceptional expertise in this area, for adding their names to my amendment. I will cover three points in my remarks. First, we need to be absolutely clear what we are trying to achieve with this amendment. As we heard in the debate on my noble friend Lord Nash’s Amendment 94A, on access to social media for under-16s, we need to reset our own and our children’s relationship with smartphones and social media, as smartphones are so often the gateway drug to social media. This is essential given everything we know about the impact of extensive screen time on a child’s ability to learn, to concentrate and to get a good night’s sleep, and on their mental health, as well as the harms that children are exposed to online. Resetting social norms",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Addington (LD)",
+   "member_id": 3453,
+   "type": "Contribution",
+   "text": "This is fairly straightforward. There is a bit of passion being stirred up and a nice pace, so let us not delay too long. The reason I am suggesting that we include smartphones as assistance to those with special educational needs is because smartphones fit in your pocket and are a great way of carrying technology with you. Chris McCausland, who noble Lords have probably seen on “Strictly Come Dancing”, did a lovely little programme showing all the assistance you can get if you are blind that can be loaded on to your phone. I, as a dyslexic, have good voice-operated systems that I can carry with me everywhere and use because they are on my phone. It gives you personal independence. It means that you can operate these systems, and we have only just started to scratch the surface. If there is another personal device that does it, I am all ears. I do not know whether there is another one. You can block social media so the phone itself can be used for other purposes. It is a plastic and metal box that carries technology; it is not the devil’s passport. If we use it correctly, we can change it so that it actually supports and gives independence to a person who otherwise has it restricte",
+   "name": "Lord Addington",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Bethell (Con)",
+   "member_id": 4708,
+   "type": "Contribution",
+   "text": "My Lords, I pay tribute to the noble Lord, Lord Addington, for a very moving speech there, but I will address his point directly. This amendment does not object to a child having a basic phone for safety. My plucky 11 year-old son travels to and from school every day with a big rucksack and a violin on the Circle line and the Jubilee line, come rain or snow. It worries the hell out of me every time he leaves the house, and I am not happy until he is back home. That is why he has a Nokia dumb phone in his pocket, so he can call me if he needs to. I confess that he sometimes plays “Pong” on a black and white LED screen when he is bored, but that does not damage his frontal cortex or bring him into touch with predators. He does not have a smartphone with all its nasty algorithms. Until they invent such a box as the noble Lord, Lord Addington, quite reasonably described, that is what a smartphone contains. I do not, for instance, allow my son to go to the local pub, the Westbourne, where he might be beaten up. For the same reason, I do not let him on Instagram, with all its bullying. I do not allow him to go to the Ministry of Sound—wonderful organisation though that is—because he will",
+   "name": "Lord Bethell",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Hampton (CB)",
+   "member_id": 4951,
+   "type": "Contribution",
+   "text": "My Lords, I have spoken on this issue so many times in this House that I am not going to repeat myself—really—except to say that I have never taught in a school that allows mobile phones either in school or on the way to school. I have taught in some of the highest-performing schools—non-selective state schools that are some of the highest performing for pupil progress in the country—and I do not think the two are unconnected. We do not need mobile phones in schools. They distract and they disturb. I say to the noble Lord, Lord Addington, that I am sure we can take a smartphone, take out all the stuff the student needs and give it to them for the day. We do it with laptops for the pupils all the time. We do not need them on the way to school. It is a huge irony that we pack our children off to school with many hundreds of pounds-worth of equipment in their pocket and then worry about their safety. As part of a strategy to build a safe environment for our children online, the first step is very simple: ban phones from schools entirely.",
+   "name": "Lord Hampton",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Benjamin (LD)",
+   "member_id": 4167,
+   "type": "Contribution",
+   "text": "My Lords, I support Amendment 215 in the name of the noble Baroness, Lady Barran, and Amendment 216 in the name of my noble friend Lord Addington, who has great experience in matters concerning children with special needs, so I fully support his amendment. I shall speak on Amendment 215 on behalf of my daughter, who is a secondary school teacher and has considerable experience regarding the issue of children using smartphones in schools. Noble Lords will not be surprised to hear that she is fully in favour of this amendment, like so many other teachers up and down the country. Her school has a phone ban and she tells me that it works really well, as it allows teachers to concentrate on lessons and not spend valuable time policing the use of smartphones during the school day. It works also because it is a great discipline for children to resist the temptation to access their phones during school and lesson time. On the other hand, I have spoken to teachers at education conferences whose schools do not have a ban on smartphones, and they long for that change. They have told me that they spend a great deal of time preventing pupils using phones instead of concentrating on teaching. Th",
+   "name": "Baroness Benjamin",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "My Lords, I will speak to Amendment 216. The amendment to ban mobile phones in schools was introduced to safeguard children’s well-being, which is a principle that I wholeheartedly support. But it is therefore imperative that we consider all the ways that a mobile phone can be vital for a child’s well-being and security. I was recently contacted by a mother of a diabetic child who relies on a mobile phone app to monitor her glucose level and manage insulin treatment. Without that device, her child would be at serious risk. For students who depend on assistive technology, whether for communication, medical monitoring or learning support, a mobile phone is not a distraction: it is a lifeline. We must ensure that, in our efforts to protect children from the harms of excessive screen time, we do not inadvertently endanger those who rely on these technologies to participate fully and safely in school life. This amendment provides the necessary clarity and protection for vulnerable students and I urge the House to support it. Incidentally, I was contacted today by young carers who need access to a phone because of their caring roles. One young carer said, “I’m not going to go into school",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Kidron (CB)",
+   "member_id": 4258,
+   "type": "Contribution",
+   "text": "My Lords, I too added my name to Amendment 215 but, like my noble friend Lord Hampton, I have spoken on this issue quite a lot and anyone who would like to know my view can find it in Hansard —reams of it. However, I want to ask the Minister a few questions about the Government’s current position. I was delighted to hear the Prime Minister declare that no one thinks you should have phones in schools and that schools are expected to be phone-free by default. I am particularly pleased because that is a shift in government messaging: in the last two debates on this issue, I was told that the guidance was sufficient as it is and that 90% of secondary schools already have policies in place that work. I am delighted, but I want to understand what recycling the guidance is going to do to change the experience on the ground for children. Only 15% of children say that phones do not affect their lessons in some way. How will the new guidance help? My second question is around Ofsted inspections. Ofsted inspects about a quarter of schools each year, so each school gets between three and four years between inspections. I would like to hear from the Minister because I am concerned that, if we p",
+   "name": "Baroness Kidron",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Morgan of Cotes (Non-Afl)",
+   "member_id": 4027,
+   "type": "Contribution",
+   "text": "My Lords, when I spoke on this Bill at Second Reading—which seems a million months ago, but perhaps it is not quite that long—I said that I was not convinced about having a ban on phones in schools. I think the noble Baroness, Lady Kidron, said that I should listen to the arguments. Whether we agree with online content and what children should access from smartphones is, in a way, a separate debate. There are two main arguments tonight which mean that I will support Amendment 215. First, as we have heard, this should be about supporting good educational outcomes. There is no doubt that having phones in schools is a distraction. We should give our young people the best possible opportunity to concentrate and focus for those eight hours in school. Secondly, Ministers have said that there is guidance which strongly encourages schools to have policies that mobile phones should be put away. When I speak to teachers and heads, they say that, without something a bit tougher, it is very difficult to police, particularly when parents or families come in and say that there is an exception or why it should not apply. Sometimes they are even very aggressive towards teachers and heads who say t",
+   "name": "Baroness Morgan of Cotes",
+   "party": "Non-Afl"
+  },
+  {
+   "who": "Baroness Cass (CB)",
+   "member_id": 5369,
+   "type": "Contribution",
+   "text": "My Lords, I want to speak to this amendment for two reasons. One is that my name is on it. The second is for nostalgic purposes, because the first time I spoke in this House was in a debate that my noble friend Lady Kidron was leading on smartphones in schools. I stood up and spoke in her shadow—nothing changes, more than a year later. My niece was sitting nearby, observing democracy in action. Afterwards she said, “Well, what happens then? Do you just talk about it and then forget it?” I can tell her that we did not forget it and that it is still a work in progress.",
+   "name": "Baroness Cass",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Mohammed of Tinsley (LD)",
+   "member_id": 5401,
+   "type": "Contribution",
+   "text": "My Lords, I want to share the experience of schoolteachers, particularly head teachers. I and the noble Baroness, Lady Barran, were on a call earlier this week with three head teachers from different parts of the country and from very different economic backgrounds. Their plea was: “You need to help us, because at the moment we have different policies on phones”. One, interestingly, was banning year 7s from having phones but not others. Another was to say: “Put it away. As long as we do not see it, it’s not a problem”. Others have pouches. A lot of their time is being taken up by a small group of vocal and often aggressive parents who demand that their children have their phones at school. Those head teachers are being distracted from their core duties to deal with this, and they were pleading with us, particularly with this vote tonight, to send a clear message to the Government that head teachers want to teach children rather than police smartphones. The other thing I want to share is about the harms. We have talked a lot about social media, but often phones in schools lead to further bullying. We all saw a few years back the craze of happy slapping, where young people in playgro",
+   "name": "Lord Mohammed of Tinsley",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Spielman (Con)",
+   "member_id": 5404,
+   "type": "Contribution",
+   "text": "My Lords, I want to make just one point, following up on the points made by the noble Baroness, Lady Cass, and the noble Lord, Lord Mohammed of Tinsley. The medical devices exception in the amendment is already provided for. If a more general exception were made for special educational needs—that is already close to 30% of children—the pressure on parents and pupils would be to game this, and the proportion of children with a special needs label would rise to truly stratospheric levels, at which point the phone ban would clearly have no meaning whatever. I urge noble Lords to think about the point made by the noble Baroness, Lady Cass, on other ways to provide the assistive functionality that might be needed.",
+   "name": "Baroness Spielman",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Elliott of Ballinamallard (UUP)",
+   "member_id": 4367,
+   "type": "Contribution",
+   "text": "My Lords, very briefly, it will come as no surprise that, when I was going to school, I did not have a smartphone, just like many of you here this evening, probably; we did not have that opportunity. I fully support the principle of Amendment 215. I find a difficulty, though—this is a follow-up to the point made by the noble Baroness, Lady Morgan—on the policing of this issue in schools. Doing your homework is a requirement at school; not every kid does it. Bullying and fighting in the playground are not allowed, but it still happens. I fully appreciate that the son of the noble Lord, Lord Bethell, is not allowed a smartphone, but not every young person is accommodating like that: not every young person has the respect for their parents, let alone for their teachers. It is okay making these laws, but, unless we have some type of policing and enforcement, it will not be of any benefit, because you are going to punish the people who willingly give up their phone when going into school. The noble Baroness, Lady Benjamin, says, “It is okay, they will simply be asked to leave their phone at the door”, but they will not all leave their phone at the door. Some will have a phone hidden. Ho",
+   "name": "Lord Elliott of Ballinamallard",
+   "party": "UUP"
+  },
+  {
+   "who": "Lord Reid of Cardowan (Lab)",
+   "member_id": 617,
+   "type": "Contribution",
+   "text": "My Lords, for precisely the reasons outlined by the noble Lord, Lord Elliott, I have great suspicions about this amendment. It underestimates the operational difficulties of what is proposed, not least because the catchment age of this Chamber does not really allow us fully to experience or understand them. Therefore, I agree with the Government’s contention not to go straight to a statutory measure. However, it would help us if the Government made it plain, in the light of the experience in Australia—which we will be able to estimate in the next few months—Spain and so on, and of the experience of non-statutory guidance, whether they are open to considering statutory legislation somewhere down the line. It would be helpful if we understood that we have an open mind on this.",
+   "name": "Lord Reid of Cardowan",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Nash (Con)",
+   "member_id": 4270,
+   "type": "Contribution",
+   "text": "I rise to support this amendment. The Government have, as I understand it, proposed non-statutory guidance that all schools should prohibit smartphone use by pupils in schools. This is indeed a move from their previous position, that most schools are already doing this and thus a firm rule is unnecessary. However, those of us who actually work in schools know that some schools do have a strict, clear smartphone policy which is actually effective. For instance, in my patch, students either cannot bring them with them, or they are taken off them when they arrive and locked away, or they have to go into a locked pouch. We are experimenting with all three to see which is the most effective, but I can say that they have all been highly effective in improving the behaviour and focus of students. On the point about enforcement, if a smartphone is seen, it is confiscated for a long time. This is a firm and clear policy, and it is working. However, many schools, possibly most, have much a looser policy, rather along the lines of the Government’s now proposed non-statutory guidance: a weak and ineffective policy allowing children to use them in the loos and in the corridors, out of sight. I ",
+   "name": "Lord Nash",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Sentamu (CB)",
+   "member_id": 3762,
+   "type": "Contribution",
+   "text": "My Lords, will you allow me to introduce another voice—a voice that is not of this House? On 18 January 2016, Ian Russell, the father of Molly Russell, who took her own life aged 14, said on BBC television that a total ban of smartphones would be wrong. Why? Because he saw that the greatest danger is not mobile phones or smartphones, but social media. You can ban phones from school, but then the children go home and log on to social media. Social media causes far greater damage because of the algorithms used. Ian Russell was clearly of the view that what is needed is careful thought and for those who know the dangers of both, and the complications involved, to make recommendations to the Government on how to tackle the use of smartphones in schools and the use of social media because of the damage it is causing all our children. I do not think banning mobile phones on its own will deal with the real danger of social media algorithms.",
+   "name": "Lord Sentamu",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, the House is probably keener to hear from the Minister than from me. I am grateful to noble Lords for their remarks. It was clarified that there are exceptions in the amendment around medical devices. In response to the noble Lord, Lord Addington, of course, we want children with special educational needs to be independent and would be very happy to work with the noble Lord to look at that. But I agree completely with my noble friend Lady Spielman that we risk having one in three children in a classroom then being allowed to have a phone, which I know is not what the noble Lord wants either. With that, along with the rest of the House, I would like to hear from the Minister.",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My Lords, the Government recognise concerns about the impact of mobile phones in schools, including the distraction from learning and the wider effects on children’s well-being. For this reason, we have always been clear that mobile phones have no place in schools. It was clear from the examples given by the noble Baroness, Lady Benjamin, and the noble Lord, Lord Nash, that schools can deliver this. Research from the Children’s Commissioner shows that the overwhelming majority of schools already have policies in place that limit or restrict the use of mobile phones during the school day. However, it is also clear that the old mobile phones in schools guidance inherited from the previous Government did not deliver the clarity or consistency that schools need to implement mobile phone-free schools. Amendment 215 in the name of the noble Baroness, Lady Barran, requires schools in England to prohibit the use and possession of smartphones during the school day. As I say, the vast majority of schools already have policies in place that restrict access to mobile phones. The problem, therefore, is one of clarifying the guidance and enforcing those policies. That is why we have acted to add",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "The Deputy Speaker (Baroness Bull) (CB)",
+   "member_id": 4706,
+   "type": "Contribution",
+   "text": "My Lords, I remind the House that the Question before the House is on Amendment 216 in the name of the noble Lord, Lord Addington, so we must first deal with that before we return to Amendment 215.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Lord Addington (LD)",
+   "member_id": 3453,
+   "type": "Contribution",
+   "text": "My Lords, as it appears that everybody wants to vote on this, I would like Amendment 215 to be in half-decent shape. I think it needs my amendment; therefore, I beg leave to press my amendment.",
+   "name": "Lord Addington",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, the Minister says that phones have no place in schools and that the Government want a national reset. I say that we need our amendment. I wish to test the opinion of the House.",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, this group of amendments returns to the issue of balancing the rights of children who are excluded from school with those of other children and staff in the classroom. All three of my amendments were tabled in Committee. Before I speak to them, I want to acknowledge the very positive evaluation of the impact of the behaviour hubs programme that was just published, and I thank all those involved. In Committee, the Minister referred to the statutory Working Together guidance, which says that the local authority and partners should identify problems and unmet needs, including for children facing multiple suspensions or permanent exclusion from school. She referred again to the changes that the Government are making to local authority children’s services with a greater proposed emphasis on early help. Of course, this is how all of us would hope that the system would work but, by definition, when a child is permanently excluded, that early intervention has not achieved its goals. To take my amendments in reverse order, Amendment 219 would make it clear that there is a presumption against reinstatement in a mainstream school after a child has been permanently excluded twice. As",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Fox of Buckley (Non-Afl)",
+   "member_id": 4887,
+   "type": "Contribution",
+   "text": "My Lords, one year ago today, on 3 February 2025, 15 year-old Harvey Willgoose was tragically stabbed in the heart at All Saints Catholic High School in Sheffield. It happened in the school courtyard in the lunch break, and the perpetrator was Mohammed Umar Khan. An independent review has been commissioned by the school’s trust on what it calls “missed opportunities” and “too many red flags” about Mohammed Khan’s previous behaviour. Khan’s record showed around 130 incidents of concern relating to violence, anger issues and even carrying weapons, yet somehow teachers did not feel able to handle that. Allegedly—the trust is looking into this—some teachers said that they raised the alarm but were ignored or it was pushed away from them. It is important that we note that teachers should never be frightened to intervene for whatever reason by asserting adult authority. One problem we have to address is making sure that we do not in any way send a message that teachers cannot have the tools that they need to deal with challenging behaviour in schools. It is therefore important that suspension and permanent exclusions are part of the tools that reinforce and deter serious misconduct acros",
+   "name": "Baroness Fox of Buckley",
+   "party": "Non-Afl"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "Children have a right to learn, and teachers have a right to teach. Permanent exclusion is far more than a disciplinary measure; it is a pivotal moment that can shape a child’s future. Consider the 2023-24 academic year, when almost 10,900 children were permanently excluded in England, with nearly four in 10 due to persistent disruptive behaviour. Without careful support, these exclusions can set children on a path of disengagement, low attainment and tragically increased involvement with the criminal justice system. We know that exclusions disproportionately affect the most vulnerable. Children eligible for free school meals or with special education needs are far more likely to be excluded, highlighting the urgent need for support that is tailored rather than one size fits all. All too often, excluded children simply fall out of the system, their potential left unrealised. This amendment would require local authorities to carry out a formal needs assessment, ensuring that support is timely, targeted and responsive. Professionals will be able to identify barriers to learning, social or emotional challenges and offer suggestions for appropriate interventions, whether that be reinte",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Hampton (CB)",
+   "member_id": 4951,
+   "type": "Contribution",
+   "text": "I will speak very briefly to Amendment 217. I know from my own teaching experience—and anyone who has seen the film documentary “Idris Elba: Our Knife Crime Crisis” will know—exactly how important it is that permanently excluded children are folded into some support system before they are lost to crime or worse. This is a very simple amendment that could save young lives.",
+   "name": "Lord Hampton",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "The amendments in group 8 relate to the school exclusion framework. We firmly believe that every pupil, no matter their background, deserves to learn in a safe, calm and orderly classroom. Supporting good behaviour in schools is essential to achieving this, and we will continue to back teachers and school leaders in maintaining high standards. Amendment 217, tabled by the noble Baroness, Lady Barran, seeks to require local authorities to assess the needs of children under the Children Act 1989 whenever a pupil is permanently excluded. Section 17 of the Act already places a duty on local authorities to safeguard and promote the welfare of children in need. Naming specific groups risks narrowing eligibility and limiting local flexibility. The Working Together to Safeguard Children guidance makes clear local authorities and partners should identify emerging problems and unmet needs, including for children facing exclusion. Our reforms to family help and multi-agency child protection, supported by over £500 million this year, will embed education experience within multi-agency teams. We are introducing a duty on safeguarding partners to ensure education settings are represented at both",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "I thank the Minister for those remarks. They are slightly disappointing, and certainly the Government’s reforms are doing an awful lot of heavy lifting. I am not going to press my amendments, but it is with a heavy heart, particularly in relation to Amendment 217. This is not about narrowing the scope of Section 17 of the 1989 Act; it is about saying that these children are children in need, almost by definition, so let us make sure we look at it systematically. But I hope that the Government’s reforms will work the miracle that the Minister believes they will. I beg leave to withdraw Amendment 217.",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Lister of Burtersett (Lab)",
+   "member_id": 4234,
+   "type": "Contribution",
+   "text": "My Lords, I thank my fellow signatories to Amendment 221, those who supported a similar amendment in Committee, and the Children’s Rights Alliance for England, UNICEF UK and the NSPCC for their assistance. I also thank Minister MacAlister for a helpful meeting to discuss it. In a nutshell, the amendment would introduce a statutory requirement for Ministers to prepare and publish a child’s rights impact assessment—CRIA—on any proposed legislation, policy, budgetary or other strategic decision related to children’s well-being, social care or education, and to publish periodic reports on the steps taken to ensure that CRIAs are being carried out to a high standard. I am grateful too to my noble friend Lady Blower, who moved this and a related children’s rights amendment in Committee, on my behalf. I am bringing back this one amendment, minus a reference to operational decisions—in response to my noble friend the Minister’s comments in Committee—as a practical and proportionate way to ensure a children’s rights perspective on the issues covered by the Bill. Crucially, since Committee, the report of module 2 of the Covid inquiry has recommended that “the UK Government should introduce l",
+   "name": "Baroness Lister of Burtersett",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Meston (CB)",
+   "member_id": 1940,
+   "type": "Contribution",
+   "text": "My Lords, I will speak in support of Amendment 221, cogently moved by the noble Baroness, Lady Lister, to place child’s rights impact assessments on a statutory basis for the purposes referred to in her amendment. In Committee, the Minister, the noble Baroness, Lady Smith, referred to the “shared goal of putting children’s rights at the very centre of policy-making ”.—[ Official Report , 18/9/25; col. 2429.] Last week, in answer to a question by the noble Baroness, Lady Lister, the noble Lord, Lord Hanson, described the UNCRC as “an essential framework which will guide both Ministers and officials in drawing up the appropriate policies ”.—[ Official Report , 27/1/26; col. 764.] There is therefore no doubt about the Government’s stated intentions and commitment, but those make it only more difficult to understand why there has been a reluctance to act on the recommendations of the UN Committee on the Rights of the Child, as long ago as 2023, for stronger national frameworks with greater efforts to embed child rights into law by full incorporation. That would be the best way to maintain and raise standards, enhance accountability, and show that children’s rights are regarded as truly",
+   "name": "Lord Meston",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Walmsley (LD)",
+   "member_id": 2547,
+   "type": "Contribution",
+   "text": "My Lords, I too have added my name to this important amendment. I agree with the noble Lord, Lord Meston, and indeed with the late great Judge Munby, that a full incorporation of the UN Convention on the Rights of the Child is the gold standard to which many of us campaigners have long aspired. Tonight, however, we are talking about just one little part of it—a very important part. Devolution has often allowed the devolved nations and regions to do something different and more adventurous—to show the way. Wales and Scotland have done just that, particularly in relation to children. As the noble Baroness, Lady Lister, said in her opening speech, both Wales and Scotland already have a mandatory system of child’s rights impact assessments. As a resident of Wales, I will say a little more about how it works there, though I also congratulate Scotland on its approach. Over the years, in discussion with former Minister Edward Timpson and former Minister Zahawi, sometimes accompanied by the noble and learned Lord, Lord Woolf, if I remember correctly, I have promoted CRIAs for the sake not only of the children themselves but of effective and efficient government. In similar conversations to",
+   "name": "Baroness Walmsley",
+   "party": "LD"
+  },
+  {
+   "who": "The Earl of Effingham (Con)",
+   "member_id": 4958,
+   "type": "Contribution",
+   "text": "My Lords, we admire the noble Baroness, Lady Lister, for her relentless focus on this issue, which is obviously well intended. But as we made clear in Committee, we are not in a position to support this amendment. Our reservations stem from the belief that its remit would extend to every ministerial decision that may have, either directly or indirectly, an impact on the well-being of children. It may add an additional legal layer of bureaucracy to a legislative process that is, unfortunately, already weighed down and could therefore hinder the decision-making process. While it is no doubt intended to improve the well-being of children, it has the potential to be detrimental to swift and decisive action in the best interests of children, and for those reasons we are not able to support it.",
+   "name": "The Earl of Effingham",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness in Waiting/Government Whip (Baroness Blake of Leeds) (Lab)",
+   "member_id": 4912,
+   "type": "Contribution",
+   "text": "My Lords, Amendment 221, tabled by my noble friend Lady Lister, would place a duty on Ministers and officials to prepare and publish a child rights impact assessment, or CRIA, in relation to all relevant legislation, policy and budget development which will impact on children’s well-being, social care or education prior to the decision being taken. I restate this Government’s continued commitment to upholding children’s rights and the principles of the UN Convention on the Rights of the Child, as outlined by the noble Lord, Lord Meston. We continue to work closely with key stakeholders that advocate for the rights of children. As stated in Committee, members of the department meet quarterly with representatives from children’s rights charities, providing Ministers and officials with opportunities to hear directly from experts in the sector, helping us to put children’s rights at the heart of policy-making. We agree that impacts on children should be carefully assessed as part of policy-making; however, such an amendment is unnecessary, as upon ratifying the UNCRC in 1991, the UK Government made a commitment to give due regard to the UNCRC when making new policy and legislation. Com",
+   "name": "Baroness Blake of Leeds",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip"
+  },
+  {
+   "who": "Baroness Lister of Burtersett (Lab)",
+   "member_id": 4234,
+   "type": "Contribution",
+   "text": "My Lords, I thank those who spoke in support of the amendment. I am disappointed with my noble friend’s response, although I welcome what she said about upskilling officials. I hope that that will be done in conjunction with the stakeholders to whom she referred, with whom the Government have had regular meetings, because those very stakeholders are behind this amendment, and they clearly do not think that what happens at present is sufficient. I am disappointed that it is not possible to accept the recommendation of the Covid inquiry now. I am glad, obviously, that it will have to be looked at and there will be a formal response, but here was an opportunity to do something about it. These Bills do not come along that often, so, even if the Government do accept the Covid inquiry’s recommendation for statutory CRIAs, when will that become law? The UN Committee on the Rights of the Child regularly recommends that we produce CRIAs, so, clearly, it does not think we are sufficiently meeting the requirements of the UN convention. It is simply not enough just to have signed up to the convention. But it is late, and I know people want to get home—I do—and, therefore, I beg leave to withdr",
+   "name": "Baroness Lister of Burtersett",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "My Lords, I rise to move Amendment 222 in my name. This would require the Secretary of State to publish a report outlining the steps needed to introduce a national tutoring guarantee and to begin implementing its recommendations. I brought this recommendation forward because the Covid-19 pandemic exposed and worsened education inequalities. Many pupils, particularly those from disadvantaged backgrounds, were left behind. Without targeted support, these gap risks become long term, limiting life chances and future opportunities. High-quality tutoring has been shown to be one of the most effective ways to help pupils catch up. That is why the national tutoring programme has played such an important role since 2020. In the 2023-24 academic year alone, the programme delivered 1.5 million courses and reached approximately 1.7 million pupils across England. Around 45% of these pupils were eligible for free school meals and 28% had special educational needs. These figures show that the programme has successfully targeted some of the pupils who need it most. However, they also highlight that, despite this reach, the support remains temporary and unevenly guaranteed. That is why a national t",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Macpherson of Earl’s Court (CB)",
+   "member_id": 4586,
+   "type": "Contribution",
+   "text": "My Lords, I will speak in support of Amendment 243E, tabled by the noble Lord, Lord Layard. It is late, and I promise to be brief. In Committee, a cross-party group of Peers spoke in support of an amendment that would have guaranteed a place on an apprenticeship to every 16 to 18 year-old who wanted it. Such a guarantee would have improved the supply of skills in this country at a time when they are needed more than ever, not least because of the Government’s success in curbing immigration. It would have enhanced growth and, more important still, improved the lives of young people who struggle with the academic education system. Sadly, the Government were unable to support the amendment at that time. However, I was grateful to the Minister, the noble Baroness, Lady Blake of Leeds, for the positive spirit in which she responded. Since that debate, the noble Lord, Lord Layard, and I have had constructive meetings with DWP officials. We have therefore sought to soften the amendment to bring it into line with what Ministers and officials have said to us. We are mindful that resources are finite, and the noble Lord, Lord Layard, and I have redrafted the original amendment to take this i",
+   "name": "Lord Macpherson of Earl’s Court",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Mott (Con)",
+   "member_id": 4984,
+   "type": "Contribution",
+   "text": "My Lords, I shall speak to Amendment 241 in my name. It would require the Secretary of State to commission and publish a report on the educational attainment of school-aged children with a parent in prison. This is a focused and proportionate amendment. It does not prescribe policy. It does not require new programmes or spending. But it does seek to ensure that we understand properly the scale and nature of the problem before us. During the progress of this Bill, there has been extensive discussion about vulnerable children, about those facing disadvantages and about the barriers that prevent too many pupils in our schools from fulfilling their academic potential. Children with a parent in prison are one such group. They are often invisible in our data, our systems and our schools. I should make the House aware of my interest as a trustee of the national charity, Children Heard and Seen, which supports children and families impacted by parental imprisonment in their own community. It is estimated that hundreds of thousands of children in England experience parental imprisonment at some point during their childhood. Evidence suggests that these children are more likely to experience",
+   "name": "Lord Mott",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Boycott (CB)",
+   "member_id": 4704,
+   "type": "Contribution",
+   "text": "My Lords, my Amendment 243 deals with climate mitigation and adaptation. It would make statutory existing government guidance that new school buildings must be both net zero in operation and adapted to 2 degrees of warming, and would require the Government to produce a safe and resilient schools plan, laying out how existing school buildings would meet these targets. One issue is that the Government do not seem to know the scale of the problem—for instance, the department does not hold information about the amount of lost learning time due to flooding. We have done a bit of research on the impact of extreme weather recently. Storm Chandra in late January caused 80 schools to close or partially close in Devon, Dorset and Somerset. Over 400 schools closed in Northern Ireland on 27 January due to weather, and Storm Goretti caused at least 278 schools in northern Scotland to close. That adds up to hundreds of lost school days across the UK. Of course we expect some of this—we cannot get around the snow—but my point is that weather events are increasing, and we could risk losing a lot of learning days, not to mention the soggy books and school equipment that are left behind. The UK has ",
+   "name": "Baroness Boycott",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Young of Acton (Con)",
+   "member_id": 5379,
+   "type": "Contribution",
+   "text": "My Lords, in speaking to my Amendment 243A, I declare my interests as the director of the Free Speech Union and a member of the Knowledge Schools Trust. The amendment would stop safeguarding policies and procedures in schools being misused for political purposes, a prime example being the recent cancellation of a talk by the Labour MP Damien Egan at a secondary school in his Bristol constituency, on the grounds that allowing a vice-chair of the Labour Friends of Israel to speak posed a safeguarding risk to children. The Bristol branch of the National Education Union said on its Facebook page, after Mr Egan was no-platformed: “We celebrate this cancellation as a win for safeguarding”. In another Facebook post, the Bristol branch of the Palestine Solidarity Campaign also described Mr Egan’s ban as a win for safeguarding. At the Free Speech Union, we have come across numerous examples of school safeguarding policies being weaponised by political activists to silence their opponents, whether visiting speakers or members of staff. For instance, the Free Speech Union recently took on the case of a teacher in Henley who was referred to the local authority designated officer—LADO, the offi",
+   "name": "Lord Young of Acton",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Tyler of Enfield (LD)",
+   "member_id": 4231,
+   "type": "Contribution",
+   "text": "My Lords, I rise very briefly to signal my support for Amendment 243E, in the name of the noble Lord, Lord Layard. I added my name in Committee, and I am very sorry that, sadly, I missed the deadline for adding it on Report. The noble Lord, Lord Macpherson, set out very clearly the purpose of this amendment and I do not want to repeat that. I just think it is very telling indeed that three times as many people apply for apprenticeships than the numbers who obtain them, and that is just because the places are not available. Just think how different that is from the university route, where nearly all applicants find a place. For me, it is fundamentally an issue of equity and parity of treatment for all young people. We have seen the number of under-19s starting apprenticeships fall by more than a third since the apprenticeship levy was introduced. This amendment, as has been said, has been very carefully recrafted by the noble Lords, Lord Layard and Lord Macpherson, into something which I hope very much goes with the grain of what the Government are trying to achieve. I therefore very much hope that we will hear something positive from the Minister on it.",
+   "name": "Baroness Tyler of Enfield",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "My Lords, I will speak to my other amendment in this group, Amendment 243B, but I will just add a few words on Amendment 243E, following on from my noble friend Lady Tyler’s comments. We are in danger of abandoning an entire generation of young people who do not follow the traditional university route. While apprenticeship places at levels 5 and 6 continue to expand, opportunities at levels 3 and 4 are shrinking. This surely is a cruel paradox. Young people who have university degrees will be able to access higher-level apprenticeships. Meanwhile, those who most need levels 3 and 4 to begin their careers—16 to 18 year-olds without prior qualifications—are left stranded. These young people are not lacking in ambition or ability. They simply seek a different path—one that is rooted in practical skills and real-world experience. Yet we are closing the doors in their faces at the very moment that they are ready to step through them. We saw at first hand the transformative power of apprenticeships for young people who thrive outside traditional academic settings. This amendment would ensure that, as we develop apprenticeship policy, we do not forget the young people who need these oppor",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "The Earl of Effingham (Con)",
+   "member_id": 4958,
+   "type": "Contribution",
+   "text": "My Lords, this has been a wide-ranging group and we thank all noble Lords who have made valuable contributions. Amendment 222 in the name of the noble Lord, Lord Storey, is indeed well intentioned and highlights important issues, but we hold reservations that a national tutoring guarantee may risk diverting resources and overstretching teachers. It would be our preference for schools themselves to decide whether a tutoring programme works and then to identify the most suitable approach for their pupils. We thank the noble Lord, Lord Storey, for his approach, but we are not able to support him on this particular amendment. On the amendment in the name of the noble Lord, Lord Mott, it is clear that more needs to be done to support children with a parent in prison. If we understood it correctly, the Minister previously suggested that the Government were undertaking an analysis between the Department for Education and the Ministry of Justice to address this issue. We would be most grateful if the Minister could update your Lordships’ House on what that work is which is being undertaken, and when actions will be evidenced to answer the amendment from the noble Lord, Lord Mott. Regarding",
+   "name": "The Earl of Effingham",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Blake of Leeds (Lab)",
+   "member_id": 4912,
+   "type": "Contribution",
+   "text": "My Lords, I think I win the prize tonight for the most wide-ranging set of amendments that could possibly come together in one group. I turn first to Amendment 222, tabled by the noble Lord, Lord Storey. I appreciate the noble Lord’s arguments, which were also put forward in Committee. I thank him for raising them again. However, my view on this remains the same: schools are best placed to understand the needs of their pupils and should be able to choose from a range of options to best suit those needs, with tutoring being one option. Although the national tutoring programme has ended, schools can continue to provide tutoring through the use of funds such as pupil premium, which can be used to support the disadvantaged pupils identified in this proposed amendment. Guidance based on evidence gathered through the programme is available to support schools to deliver tutoring. In addition, the noble Lord may be aware that on 26 January the Department for Education announced plans to co-create AI tutoring tools with teachers and leading tech companies. This programme will develop and robustly test our AI tutoring tools so they are safe and work for pupils, including the most disadvantag",
+   "name": "Baroness Blake of Leeds",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "I beg leave to withdraw the amendment.",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Tarassenko (CB)",
+   "member_id": 5027,
+   "type": "Contribution",
+   "text": "My Lords, Amendment 227 is in my name and that of the noble Baroness, Lady Kidron. We started with AI during Oral Questions what is now yesterday afternoon. We considered the use of AAI in the debate on Amendment 209 yesterday evening. We are now back with AI within edtech. Amendment 227 is about ensuring that a minimum level of provision of software tools, including websites, is available to every pupil in England, regardless of the school they attend. Over the last six months, I have worked with Professor Peyton Jones from the University of Cambridge and the Raspberry Pi Foundation to develop proposals for a level 3 qualification in data science and AI. This is being done in consultation with the relevant team in the Department for Education. Importantly, this level 3 qualification would not be just for those sixth-formers who will go on to read computer science at university but, first and foremost, for the professionals of the future, such as lawyers, economists and doctors. The aim is to give those pupils in the final two years of school sufficient knowledge and experience of up-to-date AI to enable them to use it properly in their time at university and at the start of their ",
+   "name": "Lord Tarassenko",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Kidron (CB)",
+   "member_id": 4258,
+   "type": "Contribution",
+   "text": "My Lords, Amendments 238 to 240 are in my name and those of my noble friends Lady Cass and Lord Russell. I support Amendment 227 in the name of my noble friend Lord Tarassenko. I start by thanking the Minister and her officials for the engagement that we have had since Committee. These amendments, unlike in the previous grouping, are all about a single thing: the uses of technology in our schools. I feel that they are long overdue; we have seen many of them before in our deliberations on the Data (Use and Access) Bill, as well as earlier in this Bill. Less than a fortnight ago, the Secretary of State delivered a speech in which she said that we are in the middle of a technology revolution in education and that technology is moving so quickly that: “The world of even 5 years ago is gone forever—already a lost, obsolete age”. We are in a time of change, but I am very concerned that this uncritical view of tech is difficult for schools. The Secretary of State is dismissing long-standing educational practices, honed by experience and research, in favour of technology, some of which is proven to be unsafe and to invade privacy, and much of which has yet to be tested. I will go through t",
+   "name": "Baroness Kidron",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Cass (CB)",
+   "member_id": 5369,
+   "type": "Contribution",
+   "text": "I will be brief, given the time. I will talk about only two things and try to keep noble Lords awake with them: academic passion and the gut microbiome. That will keep noble Lords on their toes. On academic passion, when I was president of the paediatric college, we thought we did not have enough female professors of paediatrics. I adhered to that view until, one day, two of them were in my office at the same time, tearing strips out of each other so aggressively that I thought: “Yes, we need more of these people, but we should never let two be in one room at the same time”. I saw similar passion at an educational conference; the passion of those educational academics was quite something. There were arguments about whether assessment drives learning, between those who believe in it and those who do not. Similarly, there was an equally colourful argument about teaching children to read with phonics versus other methods. The striking thing about these academics is that, while years have gone into academic research and there are all sorts of controversies, the point is that everyone who is in this field is interested in educational outcomes, not commercial incomes. That is the differe",
+   "name": "Baroness Cass",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Russell of Liverpool (CB)",
+   "member_id": 2134,
+   "type": "Contribution",
+   "text": "My Lords, I put my name to the amendments tabled by the noble Baroness, Lady Kidron, for a very simple reason. An awful lot of what we have been discussing today, and in recent days in Committee, is about trying to make this Bill as child-centric and school-centric as possible. There is a common theme running through many of these amendments. Given the pace at which the world is changing and the challenges that parents, schools, teachers and children have, to allow each individual entity to try to navigate their way through these changes in a wonderfully sort or British laissez-faire way will be wholly unrealistic and will not produce good outcomes. Whether or not one likes to compare this country to them, examples of countries that have very centralised approaches to identifying what is safe and what is not safe for children include the People’s Republic of China—which, I remind noble Lords, has the only parliamentary assembly larger than your Lordships’ House—and France, to which some hereditary Peers perhaps have some antipathy for ancestral reasons. In both cases, those countries take it upon themselves systematically to proactively try to identify what is safe and what is not ",
+   "name": "Lord Russell of Liverpool",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Storey (LD)",
+   "member_id": 4238,
+   "type": "Contribution",
+   "text": "My Lords, it is a bit like the noble Baroness, Lady Cass, having the two doctors in the room and great passion. It reminds me a bit of this Chamber, actually: we can certainly go for it at times. I normally shy away from edtech, but I thought, “No, come on, grow up, Storey, you need to look at this carefully”. I went into teacher mode, I am afraid. I have some general thoughts. All the amendments grapple with the tension between protecting children and preparing them for the digital world. We need to balance parental rights, children’s educational needs and teachers’ autonomy. Technology is neither inherently good nor bad, and implementation and context matter. Finally, there is the risk of one-size-fits-all solutions not accounting for diverse school context and pupils’ needs. I turn first to Amendment 227: “Register of software tools permitted in schools”. There are positives, are there not? This would ensure minimum safety and privacy standards for educational software, protect children from inappropriate content or data harvesting, and address current inconsistencies in firewalls, as some schools overblock, preventing legitimate learning. What are the concerns? There is a risk ",
+   "name": "Lord Storey",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, I start by acknowledging, as I am sure others in the House felt while listening to the noble Baroness, Lady Kidron, her many years of battling—I am sure it feels like battling—on this important area. I hope I speak on behalf of all of us, and I think I do, in thanking her for her work in this field. Every day we see more options to include edtech in our classrooms and different forms of technology and tools, and indeed in our homes for homework purposes. With that in mind, I express the support of these Benches for Amendments 238, 239 and 240 in the name of the noble Baroness, Lady Kidron. I hope very much that we will get a firm date for the publication of a code of practice on the efficacy of edtech and on the use of children’s data. That is ever more pressing in a week when the Government have promised to roll out AI tutoring in schools. Of course, they are doing so with the best of intentions, but it creates an imperative to ensure that such tutoring is effective not just in engagement, where the evidence is pretty good, but, crucially, in learning, where the evidence is much less so. Indeed, a recent international study showed that the use of AI tutors resulted in im",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "As we turn to the amendments in group 11, which are, of course, on educational technology, I thank noble Lords for their focus during this debate on safety, effectiveness and fairness. The Government share these aims. We want schools and parents to have confidence in the tools being used and innovation that supports learning while protecting pupils’ data and well-being. We are clear that technology used in our schools must support learning and children’s development. It must not expose children to harm, undermine trust or operate without appropriate safeguards. The question before the House is not whether action is required—action is already under way—but how we ensure that protections are robust and enforceable and can keep pace with rapid technological change. I turn first to Amendment 227, tabled by the noble Lord, Lord Tarassenko, and Amendment 238, tabled by the noble Baroness, Lady Kidron, which seek to strengthen assurance that education technology is safe, effective and permitted for use in schools through the introduction of a statutory mechanism. At this point, I also thank the noble Lord, Lord Tarassenko, for the work that he was talking about with DfE to develop importa",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "Before the noble Baroness sits down, she talked, in relation to my Amendment 236 and homework, about the Government’s concerns about equality of access to devices at home, but she did not address the point I raised about the increasing number of parents who want to have a screen-free evening at home, or screen-free weekends as a household. What would she say to those parents?",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "In those cases, I would expect every school thinking about its homework policy to have engaged with parents on the details of how that homework policy was going to work, but I think what was proposed by the noble Baroness in this amendment would limit the ability of schools to have those conversations and to make the decisions that were appropriate for them. It is on that basis that we are resisting it.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Lord Tarassenko (CB)",
+   "member_id": 5027,
+   "type": "Contribution",
+   "text": "Very briefly, given the time, I just want to reassure noble Lords, particularly the noble Lord, Lord Storey, that none of the amendments—not just mine—stops the use of edtech; they introduce rules for its development and introduction into schools. For example, the whitelist is an irreducible minimum to ensure that all students in schools in England would have access to this minimum set of tools. Of course, schools will be entirely free to add to the whitelist appropriate websites that they felt would help the educational attainment of their children. So it is not about stopping but enabling, through a minimum set of tools, a whitelist, and about schools being able, if they felt it was appropriate, to add to that whitelist.",
+   "name": "Lord Tarassenko",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Addington (LD)",
+   "member_id": 3453,
+   "type": "Contribution",
+   "text": "My Lords, the two amendments in this group were designed to, shall we say, spur the Government to tell us where we are with the developments on special educational needs. Basically, they are saying that we should have a structure you can teach all the way through. I do not think there is much point in saying any more, so I will ask but one question. Is the Minister, speaking on behalf of the Government, in a position to give us a date, preferably not in general terms of “soon”, “possibly” or “imminently”, but a date in time—possibly the number of weeks: let us start low and build up—when we will get the White Paper? When will we start to see what the Government think is appropriate? That is not too much to ask; it is already roughly half a year late. So, just that: I beg to move the amendment standing in my name to try to extract an answer from the Government.",
+   "name": "Lord Addington",
+   "party": "LD"
+  },
+  {
+   "who": "The Earl of Effingham (Con)",
+   "member_id": 4958,
+   "type": "Contribution",
+   "text": "My Lords, we thank the noble Lord, Lord Addington, for his two amendments. The establishment of a national body is a factor that needs to be considered in the important and pressing issue of special education needs and disabilities. There is certainly the argument for a National Institute for Health and Care Excellence equivalent for SEND. But the most important point, in our view, is that, whatever the approach taken in the Government’s forthcoming White Paper, it is based upon firm evidence. The same principle applies to the noble Lord’s other amendment, which would introduce an obligation to deliver the national curriculum to children with special education needs and disabilities. Whatever approach is taken, it must also align with the existing evidence base. An incredibly diverse and wide-ranging list of requirements is put on schools for children with education, health and care plans. Although it may be possible to deliver the national curriculum in line with these—we note that the amendment in the name of the noble Lord, Lord Addington, allows for disapplications—if the Government were to accept this, we would suggest an extensive pilot scheme to undertake a full, top-down an",
+   "name": "The Earl of Effingham",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "Much as I try to satisfy Members in the House of Lords—for all the good it does me—no, you cannot have a date. Come on—everybody knows that you cannot have a date, even at one o’clock in the morning. But I will try to respond to the points made by the noble Lord, Lord Addington, in his amendments. Just to be clear, as a starting point, we share the noble Lord’s ambition for every child to have an education that meets their needs. We are determined to fix the SEND system and rebuild families’ trust by improving inclusivity and SEND expertise in schools, giving teachers the tools to identify and support needs early, and strengthening accountability for inclusion. The amendments the noble Lord has raised speak to the heart of our vision: an inclusive education system, built on strong leadership, evidence-based early intervention and high-quality teaching for every learner. Amendment 228 seeks to place a new statutory duty on schools to adapt the national curriculum for individual pupils. We agree that children’s needs must be identified early and met well, but we fear that adding a new statutory requirement risks creating vague expectations around “sufficient” time and training, which",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Lord Addington (LD)",
+   "member_id": 3453,
+   "type": "Contribution",
+   "text": "Well, it was worth a try. At least we did not hear that when the moon is full and the wind is high, we shall get a report, but it sounded almost like that. I look forward to this when it happens and beg leave to withdraw my amendment.",
+   "name": "Lord Addington",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Tyler of Enfield (LD)",
+   "member_id": 4231,
+   "type": "Contribution",
+   "text": "My Lords, I will speak to Amendment 233, to which my name is attached, in the place of the noble Lord, Lord O’Donnell, who apologises that he is unable to be present. I will also speak briefly to my Amendment 237. I am sure many of us were struck by the passionate arguments put forward by the noble Lord, Lord O’Donnell, and others in Committee for a national well-being measurement programme. The need for a holistic, regular survey of young people’s experiences remains pressing. Surveys show that the UK’s young people have some of the lowest well-being in Europe and the second worst in the OECD, according to PISA data. Amendment 233 would provide for an optional online well-being survey, delivered annually in schools, with centralised support, administration, analysis and data storage. I thank the noble Lords, Lord Layard and Lord Watson, for adding their names to this amendment as well. It is not calling for that data to be published or used in any way to penalise schools, and the wording requires confidentiality and consent at three levels: schools, parents or carers, and pupils. It is a fundamental point of this amendment that the survey is optional. A national scheme such as thi",
+   "name": "Baroness Tyler of Enfield",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Watson of Invergowrie (Lab)",
+   "member_id": 1241,
+   "type": "Contribution",
+   "text": "My Lords, nine months after Second Reading, in which I spoke, it falls to me to speak to the last of the, by my tally, 254 amendments on Report, on top of 725 amendments tabled in Committee, so we certainly had maximum scrutiny of this Bill in your Lordships’ House. I shall speak to my Amendment 242 and support the two other amendments in this group. Amendment 242 is similar to the one I moved in Committee in September. In that debate and in subsequent correspondence, the Minister confirmed the Government’s commitment to the principle of whole-school approaches, but she also made it clear that existing guidance will remain non-statutory and that the key support programmes that are now closed will not be reintroduced. As a result, significant inequity in provision remains, and that is the reason that I have returned with this amendment on Report. Children’s mental health and well-being are a significant concern, and recent statistics highlight that school is a major determinant of children’s lived experience and mental health, but the voluntary guidance on whole-school approaches to mental health and well-being has reached its limits after being first published in 2015.",
+   "name": "Lord Watson of Invergowrie",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Sater (Con)",
+   "member_id": 4700,
+   "type": "Contribution",
+   "text": "My Lords, I will speak very briefly in support of Amendment 233, which I also supported in Committee. As we heard from the noble Baroness, Lady Tyler, the UK’s young people have the lowest well-being in Europe and the second worst in the OECD. We rightly talk about improving children’s well-being but, without reliable data, we are left guessing what works. This is costly, inefficient and ultimately unfair to young people, who face increasing pressures today from rising anxiety to declining physical activity to a lack of opportunity. As we have heard, this amendment would help to address that gap by proposing a voluntary, confidential national survey. This would give schools and policymakers a clear picture of what children are experiencing academically, emotionally and physically. Better data leads to better policy and ultimately to better outcomes. The key point is that this is voluntary, not compulsory. I believe that most schools would welcome the opportunity to participate, because good data helps them identify issues earlier, target support more effectively and spend their money better. My noble friend Lord Moynihan expressed his strong personal support for this amendment when",
+   "name": "Baroness Sater",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Lister of Burtersett (Lab)",
+   "member_id": 4234,
+   "type": "Contribution",
+   "text": "My Lords, I will speak very briefly in support of Amendment 233, as I was not able to speak on it in Committee. I am supportive of the other amendments in this group too. The Labour Party manifesto stated that “nothing says more about the state of a nation than the wellbeing of its children”, which is music to the ears of many of us. But if we are to know what the state of our nation is through the lens of children’s well-being, we need to measure that well-being nationally, comprehensively and regularly. Many of us warmly welcomed the idea of a children’s well-being Bill but, when it emerged, were a bit disappointed that it did not have that much to say about children’s well-being explicitly. This amendment would help to put well-being explicitly at the heart of the Bill, with implications for both the main parts. I hope the Government will now look favourably on this modified version of the amendment.",
+   "name": "Baroness Lister of Burtersett",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Bennett of Manor Castle (GP)",
+   "member_id": 4719,
+   "type": "Contribution",
+   "text": "My Lords, I will speak very briefly. I strongly support Amendment 233, as I did in Committee, as well as the other amendments in this group. It is a great pleasure to follow the noble Baroness, Lady Lister, who reflected what many of us have been saying: the children’s well-being Bill has been short on well-being. Earlier—much earlier, yesterday now—we were talking about sport, culture, PSHE and citizenship education. But we need to see what does and does not work if we are going to deliver some of the changes that are clearly so urgently needed. I will refer to one survey: the National Parent Survey 2025, conducted by Parentkind, which found that unhappiness among children doubles between primary and secondary school. The parents said that the chief reason that their children were unhappy was that they were finding lessons uninteresting: the figure was 42%, which really is telling. I return to the Children’s Society’s Good Childhood Report 2025 , already referred to, which of course was reporting on the opposite. One of its recommendations was: “Introduce a national wellbeing measurement programme”. It is just such an obvious thing for the Government to do.",
+   "name": "Baroness Bennett of Manor Castle",
+   "party": "GP"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, on these Benches, as is true across the House, of course we want our children to have the highest standards of mental health and well-being, and the data to support this, but, as in Committee, we do not support the specifics of these amendments. On Amendment 233 in the name of the noble Lord, Lord O’Donnell, presented this morning by the noble Baroness, Lady Tyler, we felt that the Minister’s response in Committee was a constructive way forward and substantially addressed the goals of the amendment, albeit perhaps not in the way that the signatories would prefer or advise. My reading of the Minister’s remarks was that the Government did commit to providing non-statutory guidance, including a standard set of questions and additional tools and resources to support implementation. As in Committee, I am sympathetic to the gap in provision that Amendment 237 from the noble Baroness, Lady Tyler, seeks to address: in particular, the postcode lottery that she highlighted in her remarks this morning. I also recognise that it expressly prescribes the provision of qualified practitioners and implicitly prescribes that any interventions have a sound evidence base. As my noble friend ",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "Well, as we approach nine hours of considering the 13 groups that we have got through today, I note—and I am not being churlish—that if everybody who stood up and said, “I will speak only briefly” spoke only briefly, we would have saved a reasonable amount of time. However, let us move to the amendments. I start by assuring noble Lords that the Government are committed to improving mental health support for all children and young people, helping pupils to achieve and thrive in education. Of course, we are focused on, and have already made considerable progress in, providing access to specialist mental health professionals in every school. With that in mind, I turn to the amendments. Amendment 233, tabled by the noble Lord, Lord O’Donnell, and introduced by the noble Baroness, Lady Tyler, intends to establish a national children’s well-being measurement programme. We welcome the added emphasis that the measurement should remain voluntary for schools. While we are committed to supporting more schools to do this effectively, legislation is not necessary. As stated in Committee, the Government have already committed to publish non-statutory guidance helping schools to measure and act u",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Baroness Tyler of Enfield (LD)",
+   "member_id": 4231,
+   "type": "Contribution",
+   "text": "My Lords, I thank the Minister and all noble Lords who have contributed to this important debate. It is never great to get the graveyard slot, particularly on an issue that is so fundamental to the success of the Bill, and to feel so time-constrained—but that is just life, is it not? I thank the Minister for outlining the progress that I acknowledge the Government are making in this area. I still think there is more to do, which is what these amendments press at, but I was grateful for her acknowledgement of the importance of the missing middle and the involvement of the counselling profession. On that basis, I beg leave to withdraw.",
+   "name": "Baroness Tyler of Enfield",
+   "party": "LD"
+  }
+ ],
+ "fetched": "2026-10-21T20:28:14Z"
+}

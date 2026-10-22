@@ -1,0 +1,1334 @@
+{
+ "ext_id": "363710CB-0877-495B-BADF-D49781276F81",
+ "date": "2026-02-23",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Schools White Paper: Every Child Achieving and Thriving",
+ "parents": [
+  "Commons Chamber"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2026-02-23/debates/363710CB-0877-495B-BADF-D49781276F81/SchoolsWhitePaperEveryChildAchievingAndThriving",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 4460
+  },
+  {
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education",
+   "member_id": 4046
+  },
+  {
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks",
+   "member_id": 4780
+  },
+  {
+   "name": "Ms Diane Abbott",
+   "party": "Ind",
+   "seat": "Hackney North and Stoke Newington",
+   "member_id": 172
+  },
+  {
+   "name": "Ed Davey",
+   "party": "LD",
+   "seat": "Kingston and Surbiton",
+   "member_id": 188
+  },
+  {
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood",
+   "member_id": 4510
+  },
+  {
+   "name": "Sir Iain Duncan Smith",
+   "party": "Con",
+   "seat": "Chingford and Woodford Green",
+   "member_id": 152
+  },
+  {
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell",
+   "member_id": 5165
+  },
+  {
+   "name": "Sir Oliver Dowden",
+   "party": "Con",
+   "seat": "Hertsmere",
+   "member_id": 4441
+  },
+  {
+   "name": "Mark Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley",
+   "member_id": 5166
+  },
+  {
+   "name": "Sir Julian Smith",
+   "party": "Con",
+   "seat": "Skipton and Ripon",
+   "member_id": 4118
+  },
+  {
+   "name": "Tahir Ali",
+   "party": "Lab",
+   "seat": "Birmingham Hall Green and Moseley",
+   "member_id": 4747
+  },
+  {
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon",
+   "member_id": 5122
+  },
+  {
+   "name": "Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East",
+   "member_id": 5152
+  },
+  {
+   "name": "Lewis Cocking",
+   "party": "Con",
+   "seat": "Broxbourne",
+   "member_id": 5050
+  },
+  {
+   "name": "Ian Lavery",
+   "party": "Lab",
+   "seat": "Blyth and Ashington",
+   "member_id": 4139
+  },
+  {
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon",
+   "member_id": 5216
+  },
+  {
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen",
+   "member_id": 5270
+  },
+  {
+   "name": "Charlie Dewhirst",
+   "party": "Con",
+   "seat": "Bridlington and The Wolds",
+   "member_id": 5169
+  },
+  {
+   "name": "Jon Trickett",
+   "party": "Lab",
+   "seat": "Normanton and Hemsworth",
+   "member_id": 410
+  },
+  {
+   "name": "Rebecca Paul",
+   "party": "Con",
+   "seat": "Reigate",
+   "member_id": 5297
+  },
+  {
+   "name": "Samantha Niblett",
+   "party": "Lab",
+   "seat": "South Derbyshire",
+   "member_id": 5150
+  },
+  {
+   "name": "Josh Babarinde",
+   "party": "LD",
+   "seat": "Eastbourne",
+   "member_id": 5086
+  },
+  {
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow",
+   "member_id": 5237
+  },
+  {
+   "name": "Alison Griffiths",
+   "party": "Con",
+   "seat": "Bognor Regis and Littlehampton",
+   "member_id": 5203
+  },
+  {
+   "name": "Leigh Ingham",
+   "party": "Lab",
+   "seat": "Stafford",
+   "member_id": 5290
+  },
+  {
+   "name": "Mike Martin",
+   "party": "LD",
+   "seat": "Tunbridge Wells",
+   "member_id": 5219
+  },
+  {
+   "name": "Mohammad Yasin",
+   "party": "Lab",
+   "seat": "Bedford",
+   "member_id": 4598
+  },
+  {
+   "name": "Rebecca Smith",
+   "party": "Con",
+   "seat": "South West Devon",
+   "member_id": 5301
+  },
+  {
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock",
+   "member_id": 5056
+  },
+  {
+   "name": "Suella Braverman",
+   "party": "Reform",
+   "seat": "Fareham and Waterlooville",
+   "member_id": 4475
+  },
+  {
+   "name": "Justin Madders",
+   "party": "Lab",
+   "seat": "Ellesmere Port and Bromborough",
+   "member_id": 4418
+  },
+  {
+   "name": "Ben Obese-Jecty",
+   "party": "Con",
+   "seat": "Huntingdon",
+   "member_id": 5089
+  },
+  {
+   "name": "Mr Toby Perkins",
+   "party": "Lab",
+   "seat": "Chesterfield",
+   "member_id": 3952
+  },
+  {
+   "name": "Jess Brown-Fuller",
+   "party": "LD",
+   "seat": "Chichester",
+   "member_id": 5335
+  },
+  {
+   "name": "Janet Daby",
+   "party": "Lab",
+   "seat": "Lewisham East",
+   "member_id": 4698
+  },
+  {
+   "name": "Dr Ben Spencer",
+   "party": "Con",
+   "seat": "Runnymede and Weybridge",
+   "member_id": 4785
+  },
+  {
+   "name": "Rachel Blake",
+   "party": "Lab/Co-op",
+   "seat": "Cities of London and Westminster",
+   "member_id": 5257
+  },
+  {
+   "name": "Adrian Ramsay",
+   "party": "Green",
+   "seat": "Waveney Valley",
+   "member_id": 5320
+  },
+  {
+   "name": "Clive Efford",
+   "party": "Lab",
+   "seat": "Eltham and Chislehurst",
+   "member_id": 165
+  },
+  {
+   "name": "Dr Andrew Murrison",
+   "party": "Con",
+   "seat": "South West Wiltshire",
+   "member_id": 1466
+  },
+  {
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East",
+   "member_id": 5210
+  },
+  {
+   "name": "Wera Hobhouse",
+   "party": "LD",
+   "seat": "Bath",
+   "member_id": 4602
+  },
+  {
+   "name": "Sojan Joseph",
+   "party": "Lab",
+   "seat": "Ashford",
+   "member_id": 5247
+  },
+  {
+   "name": "Sir Julian Lewis",
+   "party": "Con",
+   "seat": "New Forest East",
+   "member_id": 54
+  },
+  {
+   "name": "Olivia Blake",
+   "party": "Lab",
+   "seat": "Sheffield Hallam",
+   "member_id": 4864
+  },
+  {
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole",
+   "member_id": 5327
+  },
+  {
+   "name": "Claire Hazelgrove",
+   "party": "Lab",
+   "seat": "Filton and Bradley Stoke",
+   "member_id": 5306
+  },
+  {
+   "name": "Richard Tice",
+   "party": "Reform",
+   "seat": "Boston and Skegness",
+   "member_id": 5161
+  },
+  {
+   "name": "Debbie Abrahams",
+   "party": "Lab",
+   "seat": "Oldham East and Saddleworth",
+   "member_id": 4212
+  },
+  {
+   "name": "Adam Dance",
+   "party": "LD",
+   "seat": "Yeovil",
+   "member_id": 5191
+  },
+  {
+   "name": "Mr Clive Betts",
+   "party": "Lab",
+   "seat": "Sheffield South East",
+   "member_id": 394
+  },
+  {
+   "name": "Alison Bennett",
+   "party": "LD",
+   "seat": "Mid Sussex",
+   "member_id": 5283
+  },
+  {
+   "name": "Daniel Francis",
+   "party": "Lab",
+   "seat": "Bexleyheath and Crayford",
+   "member_id": 5184
+  },
+  {
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate",
+   "member_id": 5140
+  },
+  {
+   "name": "Sarah Russell",
+   "party": "Lab",
+   "seat": "Congleton",
+   "member_id": 5324
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "Before we come to the statement from the Secretary of State for Education, I must once again note Mr Speaker’s disappointment about briefing to the media before important announcements are brought to this House, given the Government’s own rules in their ministerial code. As the Public Administration and Constitutional Affairs Committee recently stated, “making the most important statements in the first instance to Parliament means doing so before they are made to the media and not at the first available opportunity thereafter.” The Government need to either adhere to their own rules or change them.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Secretary of State for Education (Bridget Phillipson)",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Madam Deputy Speaker, please allow me to begin by saying that the unauthorised leaking of elements of today’s announcement is deeply regrettable. I have already asked officials to launch a full investigation into the source to ensure that such breaches do not happen again. With permission, Madam Deputy Speaker, I will now make a statement to update the House on this Government’s work to transform education in this country, because childhood is changing. Our children are growing up in a world of ever-increasing connectivity and communication, but uncertainty and mistrust are on the rise, too. Our children have the curiosity, resilience and enterprise to succeed, but a vision for education that stops at the school gates has failed to deliver the opportunities they need. Under the last Government, absence was at historic highs. Despite the heroic efforts of staff, the disadvantage gap is still stubbornly wide, children with special educational needs and disabilities are still sidelined, and bright pupils are still left to drift along. A system of high standards for some, but not for others, is not good enough; high standards and inclusion must go hand in hand. The last Government’s vi",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the shadow Secretary of State.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Laura Trott (Sevenoaks) (Con)",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "I thank the right hon. Lady for advance sight of her statement, and her officials and advisers for briefing me over the weekend. I pay tribute to those who have pulled together a 300-page document, which I will now attempt to scrutinise in the five minutes that I have available to me today. I turn first to SEND. The principles of more support in schools, evidence-led packages, early intervention, and more speech and language therapists are welcome, but despite the 300 pages there is still much that we do not know. We do not know exactly how children will qualify for an EHCP in the future, and no clear eligibility criteria for the so-called specialist provision are set out. There will be around seven packages of support when someone gets an EHCP, but we are not told what these packages of support are, how people qualify for them or how much money will be associated with each. That makes it quite difficult to judge how effective the new system will be, let alone legislate for it. Many questions also spring from the individual support plans, or ISPs, which will take place in schools. It is not clear from the document what will trigger an ISP, nor the funding that will be associated wi",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I will seek to respond to the right hon. Lady’s questions. I welcome the broadly constructive approach she has taken, but it would be remiss of me not to point out that so many of the problems we are dealing with were left behind by the Conservative party, and an ounce of humility, contrition or understanding as to how we got here would really enlighten our understanding of what we need to do to make change happen. As I said in my statement, I recognise that the intentions behind the 2014 reforms were good intentions, but it became very clear, very quickly that problems were developing within that system. The right hon. Lady asks about council deficits and about the challenge. That became pretty clear, pretty quickly, and in 2019 the Conservatives brought in the statutory override, because it was clear that councils were struggling with the increasing demands they were facing. [ Official Report , 2 March 2026; Vol. 781, c. 6WC.] (Correction) That, however, did not happen in isolation. It happened because, between 2010 and 2019, family support services were stripped away—Sure Start centres closed, early help went, children were left to struggle—and we stored up problems for the futu",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the Mother of the House.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Ms Diane Abbott (Hackney North and Stoke Newington) (Ind)",
+   "member_id": 172,
+   "type": "Contribution",
+   "text": "The Secretary of State will be aware how traumatic it is for a child to grow up with special educational needs and to support such a child. She will also be aware that disproportionate numbers of those children come from marginalised communities, and of those parents’ anxiety that these reforms will mean, in the long run, that children will lose access to support that they are legally entitled to now. The Secretary of State has said that she wants to reform the SEN system once and for all, but we cannot reform it without the work and the support staff. Just recently, a London borough has seen a third of its staff resign. Will the Secretary of State tell the House how, in order to deliver on her aspirations, which we all share, she will make sure that the staff are there, are paid, and do not face the pressures that they face currently?",
+   "name": "Ms Diane Abbott",
+   "party": "Ind",
+   "seat": "Hackney North and Stoke Newington"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My right hon. Friend is right to identify that far too many groups within our country—marginalised communities—are let down by a system that forces parents to fight. The intention behind what we are setting out today is to make it easier for parents and children to get early and better support without having to go through a legal, bureaucratic process in which, sadly, parents who do not have resource are sometimes unable to take part. The Children’s Commissioner will also consider those questions of disproportionality, and will continue to give us oversight of the system as we make that transition. I recognise the point that my right hon. Friend raises around the need to support staff, both in recruiting and retaining them, but what we are setting out today on the schools White Paper and SEND is part of our wider approach on children’s social care, on investing in early help and family prevention, and of course with our action on child poverty, which will make a huge material difference to the life chances of children.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the leader of the Liberal Democrats.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Ed Davey (Kingston and Surbiton) (LD)",
+   "member_id": 188,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for advance sight of her statement. I declare an interest as my son, John, has an EHCP, which is critical to his education and to our whole family’s wellbeing. That is why we, like so many families, have been dreading today. We all know that the crisis in SEND must end—the fights, the exhaustion, the underfunding and the private profiteering all must change. It is why the Conservatives’ failure to apologise for the crisis really angered me and will have infuriated families across the country. However, as we fix the crisis, children’s rights must not be stripped away. As we consider the Secretary of State’s proposals seriously, we will continue to listen to and champion all the families whose lives could be impacted profoundly. I have three questions for the Secretary of State. First, early intervention is critical to improving children’s lives and making the whole system affordable, and I worry that these modest changes will not shift the dial. Will the Secretary of State consider investing in universal screening and then active support for the child and their family earlier on? My second question concerns the plans for EHCPs. Speaking for my family a",
+   "name": "Ed Davey",
+   "party": "LD",
+   "seat": "Kingston and Surbiton"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to the right hon. Gentleman, who cares deeply about this matter as both a parent and a politician, for the approach he has taken, and I look forward to working with him and his party in the weeks and months to come. We share a commitment to ensuring that the move from one system—one that we can all agree is not working—to a better one is phased and done carefully. I agree that the voices of parents must be heard right throughout that process. The right hon. Gentleman asks about early support. I completely agree with what he says, which is why we are investing £1 billion in rolling out Best Start family hubs, expanding early years education and school-based nurseries and investing in local authorities’ ability to develop early help. [ Official Report , 2 March 2026; Vol. 781, c. 6WC.] (Correction) Colleagues will note in the material we have published that we will continue to see an increase in EHCPs in the years to come before we see a plateauing and then a reduction. The reason for that is that we want to do this in a managed way. I hope that we can reduce those numbers more quickly—not for any arbitrary reason or because we are chasing a number, but because we shoul",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the Chair of the Education Committee.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Helen Hayes (Dulwich and West Norwood) (Lab)",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "I welcome the publication of the schools White Paper, the clear statement of intent from the Government on narrowing the attainment gap and the consultation on SEND reform. I appreciate the time that the Government have taken, in preparing these reforms, to listen to parents, carers and children and young people across the country who are being failed by the current SEND system. I am encouraged to see many of the priorities identified by the Education Committee in our report “Solving the SEND Crisis” in the consultation paper, including early identification of need, reform of mainstream provision and strengthened accountability. The Secretary of State knows that it is impossible to overstate the anxiety of parents and carers who have been failed by the current system about what reform will mean for them, and rebuilding their trust must be central to the Government’s approach. Parents and carers are particularly anxious about the requirement in the proposals for a child with an education, health and care plan to be reassessed at the end of their current stage of education. What assurance can the Secretary of State give parents who are worried about this change that reassessment will",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to the Chair of the Education Committee and all members of the Committee for their very serious work and report. She will see reflected in what we are setting out today that the Committee’s work has shaped our approach. I am grateful to the Committee and all its members for their support in this. I completely recognise what she says about the anxieties and worries of parents. I have spoken to parents the length and breadth of the country about the fights they have had to go through and how tough it has been to secure the support that their children need. I want to thank and pay tribute to our SEND development group, which has worked so closely with us to ensure that the voices of parents, carers, children and those who are delivering services have been heard as we shape our reforms. We do want to do this carefully. This is a decade-long process and transition that we are embarking on. From now until the commencement of legislation in 2029, the current system, with all its existing duties and rights, will continue. Only after that will we begin to move children through our new system of support. My hon. Friend will recognise that children should be assessed annually th",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sir Iain Duncan Smith (Chingford and Woodford Green) (Con)",
+   "member_id": 152,
+   "type": "Contribution",
+   "text": "I welcome the right hon. Lady’s ambition, but where in all this will she retain the power to do something about councils that simply fail completely? An Ofsted report of my local council referred to it as disjointed and having weak co-ordination and limited accountability. It also talks of services falling short, parents being ignored and EHCPs never being granted when they should be. This is the reality for many of the parents that I meet. They are petrified. Will the Secretary of State explain what can be done about local councils’ failure? She speaks about EHCPs, but I have talked to parents recently and they are very worried. They struggled to try to get an EHCP, and now they are worried that somehow they will lose it. Could she reassure those parents that that will not happen?",
+   "name": "Sir Iain Duncan Smith",
+   "party": "Con",
+   "seat": "Chingford and Woodford Green"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "On EHCPs, the transition, in terms of the phased review, will take place in 2029-30 for commencement in the academic year starting in 2030. The children to whom that would apply are currently in year 2. In the time we have available to us now, we will build up the system. It will be transformed from where we are now with the new investment that I have set out. It is genuinely new money and new investment that will make a huge difference. There will be more support like an EHCP available without the fight for an EHCP. We used to have a system that delivered more of that; it was pulled away and we need to make it much more central to the work of schools. The right hon. Member is right to raise the responsibilities of local authorities. Although we have, together with colleagues across Government, acted to address the long-standing deficits built up by councils over many years, and we have committed to write down 90% of that, it will only happen, and the write-down will only follow, if local authorities produce SEND plans that will deliver accountability and the places and support for children. We will not tolerate failure. I will not tolerate failure.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "Order. Can we have much shorter questions, please?",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Peter Swallow (Bracknell) (Lab)",
+   "member_id": 5165,
+   "type": "Contribution",
+   "text": "Countless parents in my constituency have described the constant fight to get support for their SEND children. They have to battle to get a piece of paper that sets out rights that they then cannot access because the support is not there. Will the Secretary of State set out what the new system will mean for the day-to-day lives of children and their parents, and how we can rebuild trust after so many have been let down for so long?",
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend has championed this cause locally and is doing a huge amount to ensure his constituents get the best possible education and care for their children. The principal difference is that support will come earlier and more quickly, and families will not have to fight so hard to get what they need. Children will not need a statutory plan or an EHCP to receive targeted support. The support will be designed with parents through individual support plans, with extra investment—the investment that I have announced today alone is an extra £4 billion. That will make a huge difference to families across the country.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sir Oliver Dowden (Hertsmere) (Con)",
+   "member_id": 4441,
+   "type": "Contribution",
+   "text": "For parents of children with special educational needs in Hertsmere and across the country, one of the greatest frustrations they feel is understanding what is going on in relation to their children. What reassurance can the Secretary of State give parents that councils will be required to keep them up to date about what is happening with their children and what provision they will have prior to the final outcome, whether it is an ECHP or a specialist school?",
+   "name": "Sir Oliver Dowden",
+   "party": "Con",
+   "seat": "Hertsmere"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I have heard that in relation to lots of councils in lots of parts of the country. It is clear that a wider problem arose out of what the 2014 reforms asked of councils, but it is also clear that there is huge variation between councils. Some are doing this incredibly well: they have invested and created the places that are needed, they make assessments happen quickly and they work well with parents. It is also very clear to me that there are councils doing this badly and poorly. I say to them that there will be no excuses for failure with the extra investment that is coming.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mark Sewards (Leeds South West and Morley) (Lab)",
+   "member_id": 5166,
+   "type": "Contribution",
+   "text": "As a teacher and now an MP, I know how broken our current SEND system is. Many parents are deeply scarred by their fights with it, and will understandably treat any reforms with scepticism, no matter our intention. I absolutely welcome the introduction of individual support plans alongside EHCPs to ensure that students get the support they deserve. What assurances can the Secretary of State give parents that we will genuinely enforce the legal right to an education with these new plans?",
+   "name": "Mark Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Through the plans that we are setting out today, we will be expanding legal rights for children. More children will be able to benefit from targeted support than is the case at the moment. Every child should have the right to go to a great local mainstream school. We cannot allow the situation to continue where many children are sent far from home, away from their friends and not fully established within their communities. We know the damage that that causes later in life. Although I recognise parents’ real worry and anxiety that the system is not working, change is difficult and it needs to be managed properly. I encourage parents to review the consultation to see what we have set out, and to continue to work with us and respond to the consultation to ensure that their voices are heard.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sir Julian Smith (Skipton and Ripon) (Con)",
+   "member_id": 4118,
+   "type": "Contribution",
+   "text": "I welcome the section on training in the SEND consultation, but much of it is not statutory. Will the Secretary of State confirm her thinking on that? Will she also confirm that autism and profiles of it such as pathological demand avoidance will be at the centre of that training?",
+   "name": "Sir Julian Smith",
+   "party": "Con",
+   "seat": "Skipton and Ripon"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I know the right hon. Gentleman takes a real interest in this area and has long campaigned for further training and support for staff. We have seen some of the greatest expansion in need around autism, and it is right that we better equip our teachers and staff with what they need to support children. A new requirement will be set out in the SEND code of practice for all settings to ensure that staff receive training on SEND and inclusion. We will embed that expectation across early years, schools and colleges, and we are investing the money to ensure that happens.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Tahir Ali (Birmingham Hall Green and Moseley) (Lab)",
+   "member_id": 4747,
+   "type": "Contribution",
+   "text": "I welcome the statement. Many parents in my constituency are frustrated with the current system, which is broken, not fit for purpose and does not meet the needs of children. Will the Secretary of State let us know the details about the complex cases, because we do not want this to be at the cost of caring for those children’s needs? Secondly, for those who do end up at tribunal, tribunals must be properly funded to stop the current lengthy delays of over 12 months.",
+   "name": "Tahir Ali",
+   "party": "Lab",
+   "seat": "Birmingham Hall Green and Moseley"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I have heard from parents, campaigners and others the importance of ensuring strong accountability and redress so that when things go wrong, parents can have them put right. That is why we will retain a role for the tribunal in the new system. It is also why we are setting out our intention to ensure that more children with complex needs can be assessed more quickly. Often, when children are born with life-limiting conditions or very complex needs, their parents spend months and years getting an assessment, even when their child may not have long to live. We have to bring that to an end. We must ensure that children with complex needs get the support made available to them much more quickly. Through the consultation, we intend to do that.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Manuela Perteghella (Stratford-on-Avon) (LD)",
+   "member_id": 5122,
+   "type": "Contribution",
+   "text": "Prioritising early years intervention is fundamental to stopping needs from escalating and affecting the entire educational journey of children. What concrete steps will the Government take to invest, for example, in universal screening programmes, high-quality specialist training for all staff, or even for each school to have access to a speech and language therapist, so that support is given at the point of need?",
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We are massively expanding investment in the early years, and early years staff will be part of that training requirement. We will make sure that they have the resources to do that. I agree that access to speech and language provision is one of the greatest issues that has been identified. The £1.8 billion of extra investment that we are putting in will allow schools to work with local authorities and integrated care boards to deliver more speech and language support directly into schools, without parents having to go through that fight for an EHCP to secure provision.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sureena Brackenridge (Wolverhampton North East) (Lab)",
+   "member_id": 5152,
+   "type": "Contribution",
+   "text": "Those who work in education, as I did, will know of the creaking bureaucratic SEND system that, too often, puts specialists behind paperwork rather than directly benefiting children. Will the Secretary of State explain how her SEND reforms will put children’s needs first and give schools access to specialists such as speech and language specialists and education psychologists when needed, and not after some awful adversarial process?",
+   "name": "Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I could not agree more. I have heard time and again from educational psychologists, SENCOs and speech and language therapists that they spend all that time training to work with children to deliver better support and to drive up standards across a setting, but they find themselves sat at a desk sending emails and filling out forms. I want those amazing and talented professionals to work with children, delivering change. The move to a more flexible system away from that bureaucracy and fight will free up a lot of time for those amazing people to do that work.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Lewis Cocking (Broxbourne) (Con)",
+   "member_id": 5050,
+   "type": "Contribution",
+   "text": "The SEND system needs urgent and serious reform. Families I speak to in Broxbourne have been battling against an unfair funding formula that sees pupils get thousands of pounds less than elsewhere in the country. Will the Secretary of State reassure me and my constituents that historical demand will no longer be a factor in allocating funding, so that the system is truly fair for every child?",
+   "name": "Lewis Cocking",
+   "party": "Con",
+   "seat": "Broxbourne"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We will consult on whether to make changes to the national funding formula. But this change is urgent and much needed, and it falls to this Labour Government to deliver.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Ian Lavery (Blyth and Ashington) (Lab)",
+   "member_id": 4139,
+   "type": "Contribution",
+   "text": "Every MP in the House will have had parents explain the difficulties they face accessing support for their children. They are on their knees; they are desperate; they are distraught. The system is adversarial and quite often has a negative end result. Will my right hon. Friend advise me and reassure this House that any new system set up will be quick, easy, accessible and less adversarial?",
+   "name": "Ian Lavery",
+   "party": "Lab",
+   "seat": "Blyth and Ashington"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Yes, that is exactly our intention. I know that parents have fought really hard, and will continue to fight really hard, to get the support that their children need, but there are lots of families in our country who do not have the fight in them, because of poverty or disadvantage, or because they are marginalised. Those families need early and timely support that does not require them to hire a lawyer or go to a tribunal, and that is exactly what we will deliver.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Caroline Voaden (South Devon) (LD)",
+   "member_id": 5216,
+   "type": "Contribution",
+   "text": "I applaud the Government’s attempt to increase mainstream inclusion for children with SEND, and welcome the £1.8 billion set aside to ensure that children have access to experts, but as far as I can see, there is absolutely no mention in the White Paper of any new funding for increasing the number of teaching assistants, who will be vital in delivering this expansion of mainstream provision. Can the Secretary of State explain how the Government will achieve their aim of making mainstream schools more inclusive for students with SEND without a serious uplift in the number of assistants supporting classroom teachers?",
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We are already investing much more in our schools. Today, we are setting out additional, new investment, including £1.6 billion that will allow schools to consider how best they can meet need, and they will of course consider how best to deploy teaching assistant support, one-to-one interventions, small group interventions and teaching support. Through the consultation, we are considering how we can better support special educational needs co-ordinators in our system, to drive expertise and change across a setting, because some of our best and most talented SEND staff spend too much time sat in offices, when they should be working directly with teaching assistants and others to make improvements for all children in their school.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Darren Paffey (Southampton Itchen) (Lab)",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "I thank my right hon. Friend for a statement that not only tries to fix the deep cracks that have formed in this broken system in recent years, but sets out a wholesale vision for transforming it. This is long overdue and much needed by parents, students and teachers. She will know that although the system is on its knees, there is a lot of good practice already out there. How will she harness the best that we have in our schools, including in Southampton, to ensure the earliest and fullest support for our children?",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I agree strongly with my hon. Friend and, like him, I have seen fantastic practice that works incredibly well. It can be variable, and we will make sure that there are clear quality standards for more specialist provision in the mainstream, and Ofsted will inspect against those. Also, the amount of provision available can vary hugely across an area. That is why I have set out our expectation that every secondary school will have an inclusion base, and we will have a similar number of inclusion bases in local primary schools, so that everyone comes together and does what is necessary to deliver a fully inclusive mainstream system that better caters for children with complex needs and special needs, but also works with the specialist sector to deliver that.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "We are under huge time pressure—there is another statement to come, and then two items of protected business—so not everybody will get in. Please keep questions short—and keep answers just as short, Secretary of State.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Charlie Dewhirst (Bridlington and The Wolds) (Con)",
+   "member_id": 5169,
+   "type": "Contribution",
+   "text": "I welcome the ambition to look again at the funding formula that so disadvantaged children in my constituency. I also welcome the additional provision for children with SEND in mainstream settings, but for many children, that is not appropriate; they need a specialist setting. One of the biggest problems I have locally is a lack of places in our special schools. In Bridlington, a plan for a new 120-place school was approved in May 2024. Can we ensure that officials in the Department work with my local authority to get that school built at the earliest possible opportunity?",
+   "name": "Charlie Dewhirst",
+   "party": "Con",
+   "seat": "Bridlington and The Wolds"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We are investing more in specialist provision, including specialist provision in mainstream, and we have set out £3.7 billion of capital investment to make that happen, but I would be more than happy to make sure that the hon. Gentleman has a meeting with officials, or with a Minister, to discuss that case further.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Jon Trickett (Normanton and Hemsworth) (Lab)",
+   "member_id": 410,
+   "type": "Contribution",
+   "text": "I heard today from one of my constituents who is struggling—in agony, almost—to get proper recognition of his children’s needs. When can he and everybody else expect to see results from the Secretary of State’s announcement? On the attainment gap, will she look particularly at the coalfield communities? For example, in my constituency, the least deprived 50% or more are achieving the targets for GCSEs, but the figure for the most deprived is less than a quarter, which is totally unacceptable.",
+   "name": "Jon Trickett",
+   "party": "Lab",
+   "seat": "Normanton and Hemsworth"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "As a fellow coalfields MP, I would be more than happy to do that. I recognise what my hon. Friend says about the challenges that families face. My message to parents is that while we want to ensure a phased and careful transition from the system we have to the better system that I believe is possible, we will, alongside our work on that bigger change, be investing from this year in capital, people and training to make the system that we have work better and far more quickly,",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Rebecca Paul (Reigate) (Con)",
+   "member_id": 5297,
+   "type": "Contribution",
+   "text": "I draw attention to my entry in the Register of Members’ Financial Interests. The key concern I hear from parents and carers in Reigate, Redhill, Banstead and our villages is that they fought for years, or are still fighting, to get support. Can the Education Secretary reassure my constituents that they will not lose the hard-fought-for support that they are entitled to?",
+   "name": "Rebecca Paul",
+   "party": "Con",
+   "seat": "Reigate"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We will expand and improve support for more children in our system. There will be greater legal rights for a greater number of children, and we will ensure that if parents need support when children are struggling, we do not wait for arbitrary, lengthy bureaucratic processes; we get on and deliver it.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Samantha Niblett (South Derbyshire) (Lab)",
+   "member_id": 5150,
+   "type": "Contribution",
+   "text": "I was grateful to the Secretary of State for coming to my constituency and meeting some SEND parents in Swadlincote. They felt heard. I thank her for the way she is delivering this White Paper; it is not a case of, “Here you go—this is what we will do to you,” which is what these people have been used to for so long. It is, “We want to hear from you.” I will have a consultation meeting with my constituents, and I will be very interested to hear what they have to say.",
+   "name": "Samantha Niblett",
+   "party": "Lab",
+   "seat": "South Derbyshire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to my hon. Friend, and to every Member on both sides of the House, for their contributions about their families and constituents’ experiences. Their voices have been heard loud and clear in this process. We have taken time to ensure that the reforms that we are setting out are the right ones, and reflect parents’ views, but we are of course continuing that consultation. I look forward to my hon. Friend sharing further thoughts from her constituents.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Josh Babarinde (Eastbourne) (LD)",
+   "member_id": 5086,
+   "type": "Contribution",
+   "text": "Hundreds of schools across the country have received cash under the school rebuilding programme, including my old school, Cavendish school in Eastbourne. Some of them received that cash and put their plans in place some time ago, but now their obligations and responsibilities will change and increase. What steps will the Secretary of State take to support those schools in adjusting their plans, if needed, and what permissions will she allow them to do just that?",
+   "name": "Josh Babarinde",
+   "party": "LD",
+   "seat": "Eastbourne"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We have set out our education estates strategy, which is about ensuring that all schools are inclusive by design; that when we build new schools or significantly refurbish schools, inclusion is right at their heart; and that we are building schools to last. If the hon. Gentleman would like to share further information, I would be happy to look into it.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Chris Vince (Harlow) (Lab/Co-op)",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "As a former teacher—something I obviously rarely mention—I cannot emphasise enough how much hope this White Paper gives me. Residents in my constituency of Harlow found that the EHCPs they got were not worth the paper they were written on; schools were unable to meet their so-called legal requirements. How will the reforms benefit parents and children in my constituency who have battled a broken system for too long?",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Our intention is that parents in Harlow and across the country will not have the fight that they have had for far too long, and that when a need is identified, a child is struggling, or extra support is required, our schools will have the resources and expertise to put that support in place straight away, without the need for parents to go anywhere near a tribunal.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Alison Griffiths (Bognor Regis and Littlehampton) (Con)",
+   "member_id": 5203,
+   "type": "Contribution",
+   "text": "In my constituency and across West Sussex, the number of EHCPs has risen by 75% since 2019, but the funding to support them has risen by only 37%. Can the Secretary of State reassure parents that the correct funding—not just £24,000 per school—will be in place for support?",
+   "name": "Alison Griffiths",
+   "party": "Con",
+   "seat": "Bognor Regis and Littlehampton"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We are investing more in support for children; there is the extra £4 billion I have announced today, alongside funding that has already gone into the high-needs block and into schools. Yes, the big increase in the number of EHCPs is, of course, partly down to need —we face growing need, and we see the same internationally—but EHCPs have become the only vehicle for lots of parents to get the support that their children need. That is part of the reason why we have seen such a sharp increase. We need to rebalance the system, so that we identify and address need, and put in place support, quickly before needs escalate.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Leigh Ingham (Stafford) (Lab)",
+   "member_id": 5290,
+   "type": "Contribution",
+   "text": "Many constituents have spoken to me of their absolute despair about the SEND system. It was their feedback, along with that of schools, SENCOs and professional organisations, that helped me produce my report, “Better SEND support for Stafford, Eccleshall and the villages”, which the Minister kindly took a copy of, and which I know has fed into this. I particularly welcome the increase in early intervention. Could the Minister say more about how the Government intend to implement it in towns like Stafford?",
+   "name": "Leigh Ingham",
+   "party": "Lab",
+   "seat": "Stafford"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to my hon. Friend for sharing the views of her constituents, and of professionals across her constituency, as we brought forward this work. Through our Best Start family hubs, which we are rolling out across the country, we will ensure that there is a SEND-trained professional in every setting. We are doing that because the evidence is clear that if we identify needs sooner, we prevent problems from escalating. The evidence was clear when the Sure Start programme was in operation. It demonstrated that if we meet needs when children are young, and if we back families and put in place support, we reduce need, including the need for crisis-level intervention that we sadly saw further down the line.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mike Martin (Tunbridge Wells) (LD)",
+   "member_id": 5219,
+   "type": "Contribution",
+   "text": "I congratulate the Secretary of State on the White Paper. She clearly cares about this, which bodes well for the outcome. For too long, the cost of SEND support has fallen on local authorities, and that has had a knock-on effect on the other services they provide, such as libraries and roads. It now seems—if I am reading this right—that much SEND cost will come back to the DFE. What does that mean for local authority budgets? Will they be raided, and will that money be brought across to the DFE, or will those budgets be kept the same?",
+   "name": "Mike Martin",
+   "party": "LD",
+   "seat": "Tunbridge Wells"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Through what we have set out on local government funding, we are putting in place support for councils to deal with the long-standing deficits that have accrued, but I want to be absolutely clear that the support is conditional on local authorities working with us to provide places, and to deliver the clear systems of support that families all too often find are not there. But the wider pressures will be met by Government. We will do what we need to do, but we need health authorities and local authorities to play their part as well.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mohammad Yasin (Bedford) (Lab)",
+   "member_id": 4598,
+   "type": "Contribution",
+   "text": "Parents, teachers and children recognise the need for SEND reform and stronger inclusion, but can the Secretary of State confirm that inclusion will not mean conformity, that children who do not meet the EHCP threshold will still receive full specialist support without a fight, that the fully funded workforce plan is in place to provide the expertise needed for every child to thrive, and that there will be a mechanism for appealing against the decision, if parents want to do that?",
+   "name": "Mohammad Yasin",
+   "party": "Lab",
+   "seat": "Bedford"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Yes, we will ensure that children get support without needing to escalate things. It was a pleasure to join my hon. Friend at a family hub in his constituency and to see at first hand what can be achieved if we support children when they are young, and if we back families and invest in children’s future.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Rebecca Smith (South West Devon) (Con)",
+   "member_id": 5301,
+   "type": "Contribution",
+   "text": "Schools right across my constituency already have inclusion bases, but often there is already tension between the schools and the parents, who want better support through EHCPs, which they are having to wait for. What is the Secretary of State’s thinking on ensuring that the relationship between schools and parents remains strong, and that we do not inadvertently pit parents against teachers, given the new role that schools will play?",
+   "name": "Rebecca Smith",
+   "party": "Con",
+   "seat": "South West Devon"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I agree that it will be essential for schools and parents—and Government, too—to work together. The White Paper’s vision is of a system in which Government, schools and parents honour our responsibilities, and work together to deliver better outcomes for children. We set out clear expectations in the White Paper about the engagement that schools should be undertaking with parents, but also about parents’ responsibilities to support their child’s school, for example by doing everything they can around attendance. We will continue to do that.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Jen Craft (Thurrock) (Lab)",
+   "member_id": 5056,
+   "type": "Contribution",
+   "text": "I would like to declare an interest: I have the honour of being a parent of a disabled child who has an EHCP. I very much welcome the Secretary of State’s statement. It is a true reflection of the amount of engagement that she and her Department have had with parents and families of children with SEND, and with the sector. I would welcome clarity on a couple of points. I welcome the move to make the system much less adversarial for parents, and to allow parents to get on with the job of being mum and dad, but I would welcome clarity on where accountability is built into the system, particularly as regards individual support plans. I would welcome clarity on whether health authorities will have more accountability; they often have about 50% of the onus to deliver certain services, but at the moment there is no statutory duty on them to do so. I would also welcome clarity on whether guidance on the reasonable adjustment framework in schools might be strengthened, and how parents can hold schools and settings accountable if they do not meet their duties under the Equality Act 2010 framework.",
+   "name": "Jen Craft",
+   "party": "Lab",
+   "seat": "Thurrock"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to my hon. Friend for all the time she has taken to speak with me and colleagues in the Department to share her experiences as a parent and help us understand the wider shift that we need to see. She asked a number of detailed questions. I will respond briefly, but I am happy to discuss them further. We need to ensure that there is accountability around individual support plans. An independent SEND professional will sit on complaints panels as a part of that. Health authorities must play their full role alongside local authorities in delivering better support. My hon. Friend is right to identify the need for clarity around reasonable adjustments and what that means for schools. We will be setting out further detail on that.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Suella Braverman (Fareham and Waterlooville) (Reform)",
+   "member_id": 4475,
+   "type": "Contribution",
+   "text": "Currently, too many parents are battling a system that is costly, bureaucratic and slow. Will the Secretary of State confirm that none of her changes announced today will help the parents currently in the system this year, next year or even the year after that, and that what her changes do is create a decade of uncertainty?",
+   "name": "Suella Braverman",
+   "party": "Reform",
+   "seat": "Fareham and Waterlooville"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "No; the right hon. and learned Lady is wrong. If she had listened, she would know that she is wrong, but I am sure she would not like to break the habit of a lifetime. Before asking any questions about what this Government are doing, she should consider the actions that she was responsible for as part of the previous Government.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Justin Madders (Ellesmere Port and Bromborough) (Lab)",
+   "member_id": 4418,
+   "type": "Contribution",
+   "text": "First, I declare an interest: my wife is a teacher. In her statement, the Secretary of State spoke about her desire for schools to be welcoming environments for children. That really matters because when a school implies that it might not be the right setting for a child, it can often be the start of multiple battles with the council, other schools and the NHS, and every stage of that is a rejection for the child. How can we ensure that when we fix the system, we fix the culture as well?",
+   "name": "Justin Madders",
+   "party": "Lab",
+   "seat": "Ellesmere Port and Bromborough"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend is right: this is about collaboration not just between the Government and schools, but between schools and parents. Some of the best examples that I have seen, including through our partnerships for inclusion of neurodiversity in schools programme, or PINS, show what can be achieved when parents work with schools to understand where children are struggling and put in place often quite small, practical changes at the start of or during the school day that make a huge difference to a child’s attendance, sense of belonging and outcomes in school. I look forward to working further with my hon. Friend on this.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Ben Obese-Jecty (Huntingdon) (Con)",
+   "member_id": 5089,
+   "type": "Contribution",
+   "text": "It was not lost on me this morning that the Secretary of State announced the SEND White Paper in Peterborough, just down the road from my constituency of Huntingdon. It comes under Cambridgeshire county council, which has a terrible record of delivering EHCPs. I have spoken to dozens of schools and hundreds of parents in my constituency who are beside themselves at the length of time it is taking Cambridgeshire county council to deliver EHCPs. Not only is it not within the 20-week statutory timeframe; it sometimes takes 20 months-plus. Can the Secretary of State reassure my constituents that these plans will immediately address those concerns about the delivery of EHCPs and make a real difference to the children who are waiting for those much-needed plans?",
+   "name": "Ben Obese-Jecty",
+   "party": "Con",
+   "seat": "Huntingdon"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "The transition will be careful and phased, but we will be putting more support in place from this year to allow children to access support more quickly than they can right now. We will absolutely hold local authorities accountable for delivery.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Toby Perkins (Chesterfield) (Lab)",
+   "member_id": 3952,
+   "type": "Contribution",
+   "text": "I congratulate my right hon. Friend on securing the extra funding, but even with that there will never be enough money to go round. Does she agree that getting decisions made by experts closer to our children in their communities will not only improve services, but ensure that we use those precious resources more wisely?",
+   "name": "Mr Toby Perkins",
+   "party": "Lab",
+   "seat": "Chesterfield"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Yes, absolutely; I agree with my hon. Friend. I have heard time and again from parents that professionals often make decisions about children they have not seen recently. That is why bringing more support closer to the child within school and much closer to home will make a huge difference to the quality of the provision and ensure that it happens far more quickly.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Jess Brown-Fuller (Chichester) (LD)",
+   "member_id": 5335,
+   "type": "Contribution",
+   "text": "The Government’s White Paper talks about having an “expert teacher” in every room. That is certainly a problem in the profession, with one in three teachers leaving after five years of service. Chichester University has created a teacher training programme that embeds inclusivity at the root of every module rather than teaching it as a separate module. Will the Secretary of State join me in Chichester to talk to the faculty leading that programme so that every child in this country can benefit from that sort of teaching?",
+   "name": "Jess Brown-Fuller",
+   "party": "LD",
+   "seat": "Chichester"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am certainly interested in hearing more about that approach. We have made big strides forward in initial teacher training. The extra investment we are putting in will support existing teachers and staff working in the profession. However, there is more to do. We are committed to continuing to review standards in initial teacher training. I would be very happy if the hon. Lady shared more details with me.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Janet Daby (Lewisham East) (Lab)",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for her statement, for the White Paper and for all the hard work she and her team have put into it. In my previous profession as a children and families fostering social worker, I saw that one of the difficulties that foster carers had was the assessment of children with special educational needs. It often made the placement and their home very vulnerable, and sometimes caused a placement to break down. It would be really helpful if the Secretary of State said how she will measure success in this area for SEND children.",
+   "name": "Janet Daby",
+   "party": "Lab",
+   "seat": "Lewisham East"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Not only did my hon. Friend have that role in a former life; she helped to shape what we are setting out today through the work she did in the Department. I am grateful to her for her passion, commitment and dedication to all children, especially those who have been through the children’s social care system, whose outcomes are often even worse than children with SEND. There is a clear overlap between those groups. In my view, what constitutes success is more children getting support put in place more quickly and, fundamentally, better outcomes for those children. That means better academic outcomes, better outcomes as they move out of education into adult life and, as far as possible, that they are able to live independent, fulfilling lives. At the moment, sadly, too many young people are denied that opportunity.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Dr Ben Spencer (Runnymede and Weybridge) (Con)",
+   "member_id": 4785,
+   "type": "Contribution",
+   "text": "Clearly, the system needs reform, but many families that have managed to get through the system and get an EHCP will be concerned by the announcements and the uncertainty today. I note that the Government anticipate that by the end of this decade there will be a reduction in children with the highest need. Does the Secretary of State believe that that will be due to a reduction in their need or in provision?",
+   "name": "Dr Ben Spencer",
+   "party": "Con",
+   "seat": "Runnymede and Weybridge"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I take my responsibilities to ensure that we do not unduly alarm parents and that we set out the facts and the details incredibly seriously. As things stand, we anticipate that the number of EHCPs will increase between now and 2030. It will then start to plateau and then start to reduce. We are not chasing an arbitrary reduction, an arbitrary number or a target, but I hope that we can bring that number down more quickly through early support—not by shifting the system to get an outcome, but because we are meeting need more quickly. That is what parents want to see and what I believe in.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Rachel Blake (Cities of London and Westminster) (Lab/Co-op)",
+   "member_id": 5257,
+   "type": "Contribution",
+   "text": "Constituents of mine have told me that they want mainstream schools to be ready to support their children. They have also asked me to ask the Secretary of State who will define complexity, how it will be defined and how local schools will be held to account to ensure that they are providing exactly the right support for children who fit that description of complexity.",
+   "name": "Rachel Blake",
+   "party": "Lab/Co-op",
+   "seat": "Cities of London and Westminster"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I understand my hon. Friend’s point and I am grateful to her. We will create and put in statute a set of nationally consistent specialist provision packages underpinned by clear national standards and shaped and defined by experts to bring an end to the postcode lottery and ensure consistency wherever someone happens to be.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Adrian Ramsay (Waveney Valley) (Green)",
+   "member_id": 5320,
+   "type": "Contribution",
+   "text": "I welcome the ambition in the White Paper, particularly to ensure that young people are supported earlier. It has to be the right aim that more young people can be supported within mainstream settings. Is the Secretary of State committed to understanding the reasons for the big increase in the number of young people who cannot be supported in mainstream school and to providing the necessary funding and support to schools? Does she accept that, at the same time, there is not currently enough capacity in alternative provision for young people for whom mainstream school is not working?",
+   "name": "Adrian Ramsay",
+   "party": "Green",
+   "seat": "Waveney Valley"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "There is complexity around this. We need to continue to understand the needs that are developing and the failure to meet them sooner. That is a big part of the challenge. As a country, we have not been meeting need as quickly as we should. I would add that, for too long, we have treated the SEND system as an entirely separate part of the education system and not as central to our schools. That is the shift we will bring and that is how we will ensure that all our schools better cater for a wider range of need.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Clive Efford (Eltham and Chislehurst) (Lab)",
+   "member_id": 165,
+   "type": "Contribution",
+   "text": "I commend my right hon. Friend for grasping this nettle—it is long overdue. However, she will know, as we all know through our casework, that diagnosis leads to a delay in getting an EHCP and a delay in parents being able to advocate on behalf of their children. If fewer children will get EHCPs in the future, how will we ensure that parents can act as advocates for their children right the way through their pathway?",
+   "name": "Clive Efford",
+   "party": "Lab",
+   "seat": "Eltham and Chislehurst"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "EHCPs will retain an important role within the system, and diagnosis will remain important, but I know from many of the parents I have spoken with—as, I am sure, does my hon. Friend—that diagnosis sometimes only confirms what is already known about a child’s needs and the support required. Through the investment that we are setting out, and the changes that we are bringing, we will ensure that diagnosis is not required for access to the support that a child needs. In many cases, if we put support in place more quickly, we will prevent problems from escalating and help children to thrive.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Dr Andrew Murrison (South West Wiltshire) (Con)",
+   "member_id": 1466,
+   "type": "Contribution",
+   "text": "In April 2024, a much-needed SEND school at Bitham Park in Westbury in my constituency was given the green light by Wiltshire council and the Department for Education, with a planned in-service date for later this year. The Labour Government put that plan on pause. Is it the Secretary of State’s intention for that school to go ahead? If so, will she provide a timeline?",
+   "name": "Dr Andrew Murrison",
+   "party": "Con",
+   "seat": "South West Wiltshire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We are putting in place significant extra investment—£3.7 billion of capital—to deliver what is needed in specialist provision and to ensure that local areas can deliver what is required. I would be happy to look into the individual case that the right hon. Gentleman raises and ensure that he gets a response.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Tom Hayes (Bournemouth East) (Lab)",
+   "member_id": 5210,
+   "type": "Contribution",
+   "text": "I thank Bournemouth’s parents and teachers for shaping this plan—I can see their views in it. I thank in particular Andrew, Claire, their lovely son and his lovely grandparents. Teachers in Bournemouth have been calling out for national support, and now they have it. Some £165 million of Bournemouth, Christchurch and Poole council’s debt is being paid off, there is the return of Sure Start, £1.6 billion has been promised for mainstream education, and now there is £1.8 billion for educational psychologists. Will the Secretary of State set out how quickly we will recruit and train those educational psychologists and get them into the system? If we support our school system, we help to fix our SEND system.",
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to my hon. Friend for ensuring that his constituents’ views have been right at the heart of our reforms. We will move rapidly to invest in recruiting more speech and language therapists and educational psychologists, but we also need to retain more of the brilliant people who have worked so hard to train so that they can support children. Freeing up their time to focus less on bureaucracy and more on working with children will lead to much more fulfilling careers for those amazing people.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Wera Hobhouse (Bath) (LD)",
+   "member_id": 4602,
+   "type": "Contribution",
+   "text": "Children with special educational needs, particularly neurodiverse learners, thrive in creative subjects, but over the past decade, music, drama and art have been severely cut from the curriculum. How will the White Paper ensure that we broaden our curriculum to bring back the power of creative subjects?",
+   "name": "Wera Hobhouse",
+   "party": "LD",
+   "seat": "Bath"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I strongly agree that we need a rich and broad curriculum—one focused on both academic rigour and a wide range of opportunities, including music, sport, art and drama. In our response to the curriculum assessment review, we set our intention to make that a reality for every child. Our changes to Progress 8 will allow all children greater choice—alongside that academic rigour—to find what is right for them.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sojan Joseph (Ashford) (Lab)",
+   "member_id": 5247,
+   "type": "Contribution",
+   "text": "In the consultation events that I held with parents, carers and teachers, the message was clear: it is crucial that SEND support starts early. I welcome what my right hon. Friend has said about that. As the proposals move forward, will she ensure that those with lived experience of the system remain central to the Government’s reforms, so that SEND support is more personalised to every child’s needs?",
+   "name": "Sojan Joseph",
+   "party": "Lab",
+   "seat": "Ashford"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend is right about the importance of early years, which sit right at the heart of our reforms, in the early identification of need and work with families. Although we have had a big national conversation on SEND, it is only the start of the dialogue that we want to continue with parents to ensure that the changes we implement work for them, and that their voices, and those of children and young people, continue to be heard.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sir Julian Lewis (New Forest East) (Con)",
+   "member_id": 54,
+   "type": "Contribution",
+   "text": "May I invite the Secretary of State to expand a bit on her vision of what happens at the end of a SEND child’s education? She mentioned the idea of independence—and, presumably, socialisation—to advance in society. In what way will her Department try to shape the course to enable children born with a disadvantage to function productively in the real world at the end of the process?",
+   "name": "Sir Julian Lewis",
+   "party": "Con",
+   "seat": "New Forest East"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "The right hon. Gentleman is right about the transition to adulthood and ensuring that our children are well prepared for what comes next as they move through the school system and into adult life. Many further education colleges and specialist settings already do that incredibly well, but it is variable. We want to deliver higher standards and greater opportunities for young people—particularly those with SEND—through supported internships and options for work placements, and ensure that they can live independent lives as much as possible.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Olivia Blake (Sheffield Hallam) (Lab)",
+   "member_id": 4864,
+   "type": "Contribution",
+   "text": "I declare an interest: I chair the all-party parliamentary group on SEND, and my partner is training to be a teacher. I thank the Front Benchers for the way in which they have conducted this review. I have been pleasantly surprised to see in policy many of the things that constituents have raised with me. How will we ensure that the packages set nationally include the voices of those with lived experience, especially young people, as the process is developed?",
+   "name": "Olivia Blake",
+   "party": "Lab",
+   "seat": "Sheffield Hallam"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "It has been a pleasure to work with my hon. Friend as we have brought forward these reforms. The specialist provision packages will be set nationally and led by experts in health and education, independent of Government, but we will ensure that the voices of children, young people, parents and campaigners are heard and understood as we develop those packages.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Vikki Slade (Mid Dorset and North Poole) (LD)",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "I welcome the language of “belonging”, particularly as the parent of a SEND child who once said to me, “They don’t want me here, do they, mum?” before he was put in specialist provision. We cannot have a broader and more inclusive curriculum if schools are facing cuts, and two of my local schools—Queen Elizabeth and Corfe Hills schools—are facing cuts of £700,000 or £800,000 next year. One is cutting subjects, and the other is slashing teaching assistants and support staff while the trust charges it £750,000 for central support. What can the Secretary of State do to ensure that more money reaches teachers and children, and is not eaten up by executives in trusts?",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We have set out our intention to introduce inspections at trust level. Alongside that, we will renew trust standards to ensure that all trusts are doing the best for children in their care. I am sure that the Minister for School Standards would be happy to discuss further the issues that the hon. Lady raises.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Claire Hazelgrove (Filton and Bradley Stoke) (Lab)",
+   "member_id": 5306,
+   "type": "Contribution",
+   "text": "I declare an interest: I am a member of the APPG on SEND and have close family members with special educational needs. I welcome the focus on expanding and improving SEND support. Many of the themes in the proposals, from inclusion to tailored support, were raised by fellow residents of Filton and Bradley Stoke at my “Coffee with Claire” event, from which I shared feedback with Ministers—that is great to see. Will the Secretary of State set out how the views of carers and others have shaped and will continue to shape the proposals?",
+   "name": "Claire Hazelgrove",
+   "party": "Lab",
+   "seat": "Filton and Bradley Stoke"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to my hon. Friend for ensuring that the views of parents and others in Filton and Bradley Stoke have been heard and are reflected in our proposals. This is only the start of the engagement and consultation. I encourage parents in her constituency and across the country to look at what we have set out, understand our ambition for children with SEND, and take part in the consultation.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Richard Tice (Boston and Skegness) (Reform)",
+   "member_id": 5161,
+   "type": "Contribution",
+   "text": "There is much in these SEND reforms that will reassure parents, particularly the reduction in the adversarial approach. I have spoken before of my concerns about excessive fees and profits of private equity-owned specialist schools. Will the Secretary of State confirm whether the legislation can be accelerated to reduce the pressure on council budgets?",
+   "name": "Richard Tice",
+   "party": "Reform",
+   "seat": "Boston and Skegness"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am slightly taken aback by that question, but I welcome it. We will move fast to ensure that money intended for education is spent on education. That means that we will have to be much firmer and clearer, including with private equity, about the money going out of the system and into profit, rather than going into education. There is a bit of a mix of views in the hon. Gentleman’s party about the right approach to SEND—I have heard colleagues of his suggest that children with SEND are naughty or the result of bad parenting—so I suggest that Reform colleagues go away, have a little conflab and then come back.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Debbie Abrahams (Oldham East and Saddleworth) (Lab)",
+   "member_id": 4212,
+   "type": "Contribution",
+   "text": "I welcome my right hon. Friend’s statement. Young people with special educational needs or disabilities, and with multiple disadvantage, are three times more likely to be not in education, employment or training. I appreciate what my right hon. Friend is saying about reducing the attainment gap, but will she expand a little more on that? Will she also pick up on the point raised by my hon. Friend the Member for Sheffield Hallam (Olivia Blake) about co-production, and ensuring that people with lived experience and parents are engaged in this?",
+   "name": "Debbie Abrahams",
+   "party": "Lab",
+   "seat": "Oldham East and Saddleworth"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I agree with my hon. Friend. Through the national conversation that we have had on SEND, our SEND development group has worked closely with Ministers and with my hon. Friend, to ensure that the voices of children, families and experts, including disability rights groups and children’s groups, were heard as we developed our reforms. We will continue in that spirit as we take forward the consultation. My hon. Friend is right to say that there are huge differences in outcomes for children with SEND; the gap between the GCSE results of children with SEND and their peers without SEND has not meaningfully narrowed in recent years, and neither has the likelihood of sustaining education, employment or training after 16. A big part of that has to be about ensuring that outcomes for children are better going through our mainstream system, where we know that with the right support academic outcomes are stronger for children with SEND.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Adam Dance (Yeovil) (LD)",
+   "member_id": 5191,
+   "type": "Contribution",
+   "text": "It is good that the White Paper recognises the need to develop systems to help with early identification, including Best Start hubs, the phonics screener, and schools sharing best practice. However, that will not be enough, so what steps will the Secretary of State take to research, develop and fund a universal screening programme that can start in year 1, so that school is inclusive for all, once and for all?",
+   "name": "Adam Dance",
+   "party": "LD",
+   "seat": "Yeovil"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "The hon. Gentleman is right: we are expanding Best Start family hubs, ensuring a real focus on early years, and investing more than £9 billion in expanding early years entitlements. We have also set an incredibly ambitious target to have a record number of children reaching a good level of development at the early years foundation stage; we know that if we secure that, more children will go on to do well later on in life.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Clive Betts (Sheffield South East) (Lab)",
+   "member_id": 394,
+   "type": "Contribution",
+   "text": "The Public Accounts Committee has looked at the cost of home-to-school transport. Clearly, one of the drivers is the cost of sending kids with special needs miles away from their home to very expensive private schools. The Government have announced help on the statutory overrides that have been incurred by local authorities with regard to those costs, both recently and currently. Given that the reforms the Secretary of State has announced, which I very much welcome, will take some time to come into effect, will she guarantee that local authorities will not have to rely on statutory overrides to continue to provide their statutory duties in future?",
+   "name": "Mr Clive Betts",
+   "party": "Lab",
+   "seat": "Sheffield South East"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Beyond the period that my hon. Friend identifies, this will become the responsibility of central Government. That is the commitment we have given, and we have made a big undertaking with colleagues across Government to take action on the long-standing deficits that local authorities have accrued over time. My hon. Friend is right to say that the way we can respond to the challenges that local authorities are facing with home-to-school transport is by improving provision closer to home. Councils do not want to be sending children far from home, and parents do not want their children spending hours in taxis to access provision. That is why the extra capital investment and the 60,000 new places that we will create will, over time, bring down some of the costs that councils are facing.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Alison Bennett (Mid Sussex) (LD)",
+   "member_id": 5283,
+   "type": "Contribution",
+   "text": "I am pleased that the White Paper makes one mention of young carers. It rightly notes that young carers pay a huge price for caring for their siblings and family members. I am sure the Secretary of State agrees that it is vital that we identify and support young carers, so will she support my call to make young carers eligible for the pupil premium?",
+   "name": "Alison Bennett",
+   "party": "LD",
+   "seat": "Mid Sussex"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We will be consulting on disadvantage funding, including the pupil premium and the national funding formula, and on how we ensure that we are halving that disadvantage gap and getting the biggest impact from the £8 billion of funding that we are spending. I will look at the issue the hon. Member has identified; if she wants to share that further, I will be happy to consider it.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Daniel Francis (Bexleyheath and Crayford) (Lab)",
+   "member_id": 5184,
+   "type": "Contribution",
+   "text": "I declare an interest, as my wife is special educational needs co-ordinator and one of our children has an EHCP. As the parent of twins, I have had to fight for virtually none of the education of one of my children, but for every single aspect of my other child’s education because she is disabled. What I say, and what I have heard clearly from my constituents, is that we must get right aspects such as holding ICBs to account—we heard about that from my hon. Friend the Member for Thurrock (Jen Craft)—and the transition stages at both primary and secondary school, and the end of secondary. I welcome the proposals, but will the Secretary of State assure the House that during the consultation we will hear those voices and get this right for the families I represent?",
+   "name": "Daniel Francis",
+   "party": "Lab",
+   "seat": "Bexleyheath and Crayford"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend speaks with real passion and expertise, and I could not agree more with him. As well as everything the Government are doing, we will need local authorities and ICBs to work together with us to deliver the change that is needed. There is huge variation across the country, with unacceptable outcomes, too many delays, and children waiting far too long for the support they need. He will also see that through the consultation we are committed to ensuring that children with the most complex needs have that support in place much more quickly than is the situation right now.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Claire Young (Thornbury and Yate) (LD)",
+   "member_id": 5140,
+   "type": "Contribution",
+   "text": "I, too, am a member of the all-party group for special educational needs and disabilities. Historic unfair underfunding in south Gloucestershire has made it harder for schools to support children with SEND, and parents tell me that they are concerned that these changes could make the situation worse. If those fears fuel a surge in EHCP applications in the short term, what steps will the Government take to ensure that councils are properly funded to deal with that, so that during the change children do not miss out on vital support?",
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "That underlines the importance of the investment getting to the front line and delivering quickly. We know the pressures faced by children and families, but the huge variation in the approach that some councils have taken cannot be adequately justified by funding settlements alone. We have seen some affluent councils in affluent areas delivering incredibly poor quality provision, and I say to those authorities that we will hold them to account for delivering better outcomes for their families.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sarah Russell (Congleton) (Lab)",
+   "member_id": 5324,
+   "type": "Contribution",
+   "text": "In terms of the points raised about funding, Cheshire is struggling significantly with underfunding per pupil. Will how we roll out funding for these changes follow the existing formula, or will that be revised?",
+   "name": "Sarah Russell",
+   "party": "Lab",
+   "seat": "Congleton"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Through what I have set out, we are consulting further on many aspects of funding, including the national funding formula, and we will continue to look closely at how we ensure that all children, wherever they are in the country, get the support they need. My hon. Friend’s constituents will benefit from Best Start family hubs, the expansion of childcare and the expansion of the Experts at Hand service—a new initiative we are putting in place to ensure that children get support within school more quickly.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  }
+ ],
+ "fetched": "2026-10-21T20:28:20Z"
+}

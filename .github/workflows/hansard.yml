@@ -1,0 +1,63 @@
+name: Fetch Hansard
+
+on:
+  schedule:
+    # 05:40 and 15:40 UTC on weekdays, ahead of the dashboard refresh
+    - cron: "40 5,15 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "incremental, range, rebuild, full, dash (dashboard data only) or probe"
+        default: "incremental"
+      start:
+        description: "Start date (YYYY-MM-DD) for range or probe; for dash, an optional list of dashboard scripts to run"
+        default: ""
+      end:
+        description: "End date (YYYY-MM-DD) for range"
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hansard
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch
+        if: ${{ github.event.inputs.mode != 'dash' }}
+        run: |
+          MODE="${{ github.event.inputs.mode || 'incremental' }}"
+          [ "$MODE" = "full" ] && MODE=incremental
+          python scripts/hansard.py "$MODE" ${{ github.event.inputs.start }} ${{ github.event.inputs.end }}
+          if [ "$MODE" != "probe" ]; then python scripts/trends.py; fi
+      - name: Written questions and media
+        if: ${{ github.event.inputs.mode != 'probe' && github.event.inputs.mode != 'dash' }}
+        run: |
+          python scripts/questions.py ${{ github.event.inputs.mode == 'full' && 'full' || '' }} || echo "questions step failed"
+          python scripts/media.py || echo "media step failed"
+          python scripts/emerging.py
+      - name: Dashboard data
+        if: ${{ github.event.inputs.mode != 'probe' }}
+        run: |
+          ALL="calendar_ahead bills deadlines citations profiles commitments"
+          ONLY="${{ github.event.inputs.mode == 'dash' && github.event.inputs.start || '' }}"
+          for s in ${ONLY:-$ALL}; do python scripts/$s.py || echo "$s failed"; done
+          python scripts/dash.py
+      - name: Commit
+        run: |
+          git config user.name "hansard-bot"
+          git config user.email "hansard-bot@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Hansard data $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase origin main
+          git push

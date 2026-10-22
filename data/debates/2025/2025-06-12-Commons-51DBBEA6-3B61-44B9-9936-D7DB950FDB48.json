@@ -1,0 +1,893 @@
+{
+ "ext_id": "51DBBEA6-3B61-44B9-9936-D7DB950FDB48",
+ "date": "2025-06-12",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "SEND Funding",
+ "parents": [
+  "Commons Chamber"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2025-06-12/debates/51DBBEA6-3B61-44B9-9936-D7DB950FDB48/SendFunding",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness",
+   "member_id": 1482
+  },
+  {
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell",
+   "member_id": 5165
+  },
+  {
+   "name": "Mr Gagan Mohindra",
+   "party": "Con",
+   "seat": "South West Hertfordshire",
+   "member_id": 4804
+  },
+  {
+   "name": "Rachael Maskell",
+   "party": "Lab/Co-op",
+   "seat": "York Central",
+   "member_id": 4471
+  },
+  {
+   "name": "Daniel Francis",
+   "party": "Lab",
+   "seat": "Bexleyheath and Crayford",
+   "member_id": 5184
+  },
+  {
+   "name": "Lee Pitcher",
+   "party": "Lab",
+   "seat": "Doncaster East and the Isle of Axholme",
+   "member_id": 5233
+  },
+  {
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford",
+   "member_id": 4131
+  },
+  {
+   "name": "Paulette Hamilton",
+   "party": "Lab",
+   "seat": "Birmingham Erdington",
+   "member_id": 4938
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 4391
+  },
+  {
+   "name": "Harpreet Uppal",
+   "party": "Lab",
+   "seat": "Huddersfield",
+   "member_id": 5289
+  },
+  {
+   "name": "Ben Obese-Jecty",
+   "party": "Con",
+   "seat": "Huntingdon",
+   "member_id": 5089
+  },
+  {
+   "name": "David Taylor",
+   "party": "Lab",
+   "seat": "Hemel Hempstead",
+   "member_id": 5348
+  },
+  {
+   "name": "Alex Brewer",
+   "party": "LD",
+   "seat": "North East Hampshire",
+   "member_id": 5263
+  },
+  {
+   "name": "Warinder Juss",
+   "party": "Lab",
+   "seat": "Wolverhampton West",
+   "member_id": 5230
+  },
+  {
+   "name": "Richard Baker",
+   "party": "Lab",
+   "seat": "Glenrothes and Mid Fife",
+   "member_id": 5253
+  },
+  {
+   "name": "Rachel Gilmour",
+   "party": "LD",
+   "seat": "Tiverton and Minehead",
+   "member_id": 5252
+  },
+  {
+   "name": "Josh Newbury",
+   "party": "Lab",
+   "seat": "Cannock Chase",
+   "member_id": 5034
+  },
+  {
+   "name": "Maya Ellis",
+   "party": "Lab",
+   "seat": "Ribble Valley",
+   "member_id": 5228
+  },
+  {
+   "name": "Sir John Hayes",
+   "party": "Con",
+   "seat": "South Holland and The Deepings",
+   "member_id": 350
+  },
+  {
+   "name": "Charlie Maynard",
+   "party": "LD",
+   "seat": "Witney",
+   "member_id": 5325
+  },
+  {
+   "name": "Alex Sobel",
+   "party": "Lab/Co-op",
+   "seat": "Leeds Central and Headingley",
+   "member_id": 4658
+  },
+  {
+   "name": "John Milne",
+   "party": "LD",
+   "seat": "Horsham",
+   "member_id": 5329
+  },
+  {
+   "name": "Phil Brickell",
+   "party": "Lab",
+   "seat": "Bolton West",
+   "member_id": 5128
+  },
+  {
+   "name": "Iqbal Mohamed",
+   "party": "Ind",
+   "seat": "Dewsbury and Batley",
+   "member_id": 5268
+  },
+  {
+   "name": "Jenny Riddell-Carpenter",
+   "party": "Lab",
+   "seat": "Suffolk Coastal",
+   "member_id": 5160
+  },
+  {
+   "name": "Alison Griffiths",
+   "party": "Con",
+   "seat": "Bognor Regis and Littlehampton",
+   "member_id": 5203
+  },
+  {
+   "name": "Lloyd Hatton",
+   "party": "Lab",
+   "seat": "South Dorset",
+   "member_id": 5217
+  },
+  {
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate",
+   "member_id": 5140
+  },
+  {
+   "name": "Ben Maguire",
+   "party": "LD",
+   "seat": "North Cornwall",
+   "member_id": 5350
+  },
+  {
+   "name": "Yasmin Qureshi",
+   "party": "Lab",
+   "seat": "Bolton South and Walkden",
+   "member_id": 3924
+  },
+  {
+   "name": "Victoria Collins",
+   "party": "LD",
+   "seat": "Harpenden and Berkhamsted",
+   "member_id": 5201
+  },
+  {
+   "name": "Joy Morrissey",
+   "party": "Con",
+   "seat": "Beaconsfield",
+   "member_id": 4759
+  },
+  {
+   "name": "Mr Adnan Hussain",
+   "party": "Ind",
+   "seat": "Blackburn",
+   "member_id": 5231
+  },
+  {
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education",
+   "member_id": 4698
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Graham Stuart (Beverley and Holderness) (Con)",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "I beg to move, That this House has considered the distribution of SEND funding. I am delighted to have secured this debate, as it gives us an opportunity to highlight the situation we are facing in England, where children with special educational needs and disabilities are being left behind due to the inherent regional inequality in the high-needs national funding formula. There is a bigger issue. The more typical thing we talk about is the overall quantum of spending based on overall need, but too little attention is given to the distribution of the funding that exists, whether in healthcare, education, policing or otherwise. I know I am not the only Member being turned to by constituents at their wits’ end, trying to navigate what feels to be a broken system; I thank colleagues across the House for their continued advocacy on behalf of some of the most vulnerable children in all our communities. My argument is a simple yet deeply important one: the current model of SEND funding is not only inconsistent but in too many cases profoundly unfair. It fails to account for genuine levels of need, the realities faced by families, and the systemic pressures that schools and local authorit",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Peter Swallow (Bracknell) (Lab)",
+   "member_id": 5165,
+   "type": "Contribution",
+   "text": "The right hon. Gentleman makes a profoundly important point. There is a real and urgent need to reform the SEND system, and that of course includes how it is funded. Does he welcome the £750 million ringfenced in yesterday’s spring statement for exactly that: to transform our SEND system to make it fairer for parents, better for young people and more sustainable for the future?",
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "The hon. Gentleman takes me to a point further on in my speech, but he is absolutely right. He makes the case to the Minister, exactly as I intend to: given that we have a broken distribution system and given the severity of its impact on so many children and families, will she ensure that the money in the spending review is, as the hon. Gentleman rightly says, used precisely for that purpose and that we target those who are most left behind? At the heart of this debate, I am calling on the Government to identify and commit to a clear baseline cost for delivering effective SEND support per pupil. The figure must reflect what it genuinely takes, in both urban and rural settings, to support children with complex needs across the country. Only then can we ensure that no child’s opportunity is limited by where they live. I want to bring to the attention of the House a stark example that illustrates the postcode lottery in SEND funding: the disparity between the East Riding of Yorkshire, which covers my own constituency of Beverley and Holderness, at the lowest end of the funding spectrum—we are the lowest funded in the country—and the London borough of Camden, which happens to be the h",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Mr Gagan Mohindra (South West Hertfordshire) (Con)",
+   "member_id": 4804,
+   "type": "Contribution",
+   "text": "I commend my right hon. Friend on his length of service to this House.",
+   "name": "Mr Gagan Mohindra",
+   "party": "Con",
+   "seat": "South West Hertfordshire"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "My hon. Friend, the Opposition Deputy Chief Whip—and indeed my Whip—is very welcome. Thanks very much; I am grateful for that. We have this issue of how we fix a broken and clearly unfair system. Newer colleagues, and there are many of them in the House, might think, “Well, surely people would want to fix it. There is no perfect system and there will always be dispute, but if the Government did a map of need—fundamentally, an assessment of what fair would look like—and then mapped against that line where everyone was, newer Members might think, “The Government might be prepared to do something with those who are most overfunded to help compensate the underfunded.” My experience is that they do not and will not, so I will discuss practical ways of getting change. What typically happens is that despite Ministers’ talk in debates like this one, we end up with the Treasury at a spending occasion like yesterday giving 3%; if inflation is 2.5%, it gives 3% to everybody. That means that the cash gap between one authority and another grows, and in a sense the injustice grows with it.",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Rachael Maskell (York Central) (Lab/Co-op)",
+   "member_id": 4471,
+   "type": "Contribution",
+   "text": "I am grateful to the right hon. Gentleman for leading the debate. I am conscious that York is in the bottom third, and that the level of children being diagnosed with SEND is rising sharply. Does he agree that in order to future-proof the system, we need to look at a more holistic, therapeutic and nurturing approach to our education system so that all children benefit? I looked at the situation in Sweden and saw how that not only brought down costs, but greatly benefited the children there.",
+   "name": "Rachael Maskell",
+   "party": "Lab/Co-op",
+   "seat": "York Central"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "The hon. Lady is two things: she is quite right, and she is tempting me down a path I do not want to go down—I want to focus on the distribution, because it does not get the attention. However, she is absolutely right. Labour criticises the performance of the then Conservative Government, but I think funding for SEND actually grew 60% from 2019 to 2024. She is right that it is not about who is in government—somehow, we need to find ways of capping this demand, which will outstrip any Chancellor, however well intentioned. That is an issue. I will turn back to the point on which I am focusing, which is distribution. If demand in a system is growing at a scale that no Government can meet, distribution, although ignored, becomes even more important. If a system is straining and struggling, having grossly unfair distribution that no one seeks to or is able to defend—it is not a case of one party or the other claiming they are getting it right; they recognise it is unjust—is a major mistake, and we must find ways to balance it over time. It is not obvious at the moment that anyone is able to stop this imbalance between supply, which is so small, and demand, which is so big. Colleagues wi",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Daniel Francis (Bexleyheath and Crayford) (Lab)",
+   "member_id": 5184,
+   "type": "Contribution",
+   "text": "I congratulate the right hon. Gentleman on securing the debate. I declare my usual interests: my wife is a special educational needs co-ordinator at a local authority school in our patch, and my daughter has an EHCP and a complex set of disabilities, so I have absolutely fought this battle myself. Does the right hon. Gentleman agree that what he has just described is a broken system that needs reform, and that whatever we see in the White Paper in the autumn, we will hopefully see reform that relies in particular on more training for all teachers across the profession? I think that is some of what he has just described.",
+   "name": "Daniel Francis",
+   "party": "Lab",
+   "seat": "Bexleyheath and Crayford"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "The hon. Gentleman is right. There is a capacity issue, as I say, relating to demand. Getting people—not just specialists, but the whole system and everyone in it—to have a better understanding is really important. The hon. Gentleman will see that in his constituency, as I do in mine. It is not enough just to have the SENCO; it is about getting the leadership, the training and the right protocols in place to ensure that the whole system is better able to meet the needs of children, and that will then reduce some of the other impacts, including cost impacts, on the system. In recent weeks, I had the privilege of visiting Inmans primary school in Hedon, where staff spoke candidly about the mounting pressure created by soaring demand for SEND provision—pressures that far exceed the funding currently available. At St Mary’s school in Beverley, headteacher Laura Wallis expressed her deep concern at the growing gap between pupils’ needs and the resources she has at her disposal, making it ever-more difficult to provide the tailored support every child deserves.",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Lee Pitcher (Doncaster East and the Isle of Axholme) (Lab)",
+   "member_id": 5233,
+   "type": "Contribution",
+   "text": "I have met people from about 18 schools, both here in Westminster and at home in the constituency, and, more recently, have heard the voices of young people on SEND in Doncaster. At every single meeting, the first questions asked are about support, capacity, and young adults’ transition into work. Does the right hon. Gentleman agree that to get the funding right, we need to listen to the voices of people with experience—those at the grassroots—to ensure that we understand their ideas and solutions, and direct funding into the right places?",
+   "name": "Lee Pitcher",
+   "party": "Lab",
+   "seat": "Doncaster East and the Isle of Axholme"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "I have to agree with the hon. Gentleman, who makes a powerful point. My appeal to colleagues in the Chamber—particularly, perhaps, to newer Members —is to focus on the distribution. It can be quite hard to get one’s head around the many issues that are involved—the overall national issues of quantum, service delivery, training and the rest of it—and distribution can easily get left behind, yet it is vital. I cannot say that it brings a great deal of joy or satisfaction to Members of Parliament to pursue it, because so many people look blank when it is mentioned, but distribution is important, and I hope that colleagues will want to take on the issue.",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "Very quickly, some children thrive academically, while some thrive practically. It is all about finding the right place for them, whether as a doctor, a mechanic, a plasterer or a farmer. When it comes to checking on a child’s ability, and ensuring that they find their place, we must acknowledge that there is not a standard box for all; it is different for each child.",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "As usual, the hon. Gentleman hits the nail on the head. Many across this House will recognise the stories of the schools I have just mentioned, because the same thing is playing out in constituencies across the country. Parents are becoming de facto care co-ordinators; schools are dipping into ever-shrinking budgets to fund specialist provision; and local authorities are caught between legal responsibilities and budgetary reality.",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Paulette Hamilton (Birmingham Erdington) (Lab)",
+   "member_id": 4938,
+   "type": "Contribution",
+   "text": "I was contacted by a parent in my constituency who was forced to navigate a complex and lengthy tribunal process simply to challenge the decision to place her autistic son in a mainstream school, only to have the hearing cancelled at the last moment, and a place at a special school offered. Does the right hon. Gentleman agree that education, health and care plans are not a silver bullet, that we should not need complex legal processes to ensure that young people can access good early support, that support must meet the young person’s needs, and that the money must follow the child or young person?",
+   "name": "Paulette Hamilton",
+   "party": "Lab",
+   "seat": "Birmingham Erdington"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "The hon. Lady is absolutely right. I was chairing the Education Committee when the coalition Government introduced the reforms that brought in EHCPs as a replacement for statements. I remember thinking then that lots of good improvements were made—there were very sincere Ministers working hard at it, and they brought in a better system—but the fundamentals remained as they were. One of the aims was to get away from an adversarial, legalistic process, in which articulate and typically better-off people were able to use sharp elbows to get their child what they needed, but pity the inarticulate single mother unable to engage with the system. What would she get? The then Government’s promise was to make that better, but the fundamentals remained. If demand is so much bigger than supply, this is what we will get. With the best will in the world, local authorities will end up being defensive and saying no as a matter of course, and will give way only when they are forced to. Am I going on too long, Madam Deputy Speaker?",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "I could not possibly say.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "For years, I have fought for a fairer distribution of SEND funding, and for years, I have got nowhere, as successive Governments—Labour and Conservative—have lacked the courage to rebalance the system. I hope Labour will not lack that courage again. I do not pretend to have all the answers to this problem, but I know that we must work out what fairness looks like and the minimum per-pupil cost required for SEND support, and commit to meeting that basic need, if not immediately, then at least over time. This Government need to be prepared to take from those above the baseline and give to those below. Would they be prepared to do that? No previous Government have been, but perhaps this one will. If not, we must find some other way. We could identify, through a mapping exercise, those who have been left behind, and we could say as a matter of principle that whenever there is an above-inflation increase in the Budget—such as the £760 million that the Chancellor came up with in the spending review yesterday—it will always be used first and foremost to lift up those below the line, while doing nothing to cause a below-inflation increase for those who are above the line. Even if the Minis",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "I inform Members that even with an immediate three-minute time limit, I will still not be able to get everyone in.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Harpreet Uppal (Huddersfield) (Lab)",
+   "member_id": 5289,
+   "type": "Contribution",
+   "text": "I thank the right hon. Member for Beverley and Holderness (Graham Stuart) for securing this important debate. This issue affects families in Huddersfield and across the country. I recently met SEND parents from Huddersfield to hear their experiences of the system. They are trying to do the right thing, and to get the right support for their children, but too often the system works against them. They told me that the system is difficult to navigate, especially the process of gaining an EHCP and any subsequent appeals processes. I also heard from parents who were struggling to access home-to-education transport, or who were not able to get their children into school due to poor mental health or it being the incorrect educational settings. These stories are not one-offs. This is happening to too many families across the country, and it is clear that something has to change. I welcome the work of local support services, such as Kirklees Information, Advice and Support Service, which offers free and impartial advice, but it is dealing with a growing number of inquiries. In Huddersfield, we see growing demand for specialist support, but the funding is not keeping pace with that demand. L",
+   "name": "Harpreet Uppal",
+   "party": "Lab",
+   "seat": "Huddersfield"
+  },
+  {
+   "who": "Ben Obese-Jecty (Huntingdon) (Con)",
+   "member_id": 5089,
+   "type": "Contribution",
+   "text": "I thank my right hon. Friend the Member for Beverley and Holderness (Graham Stuart) for securing this important debate, and for his work on this issue. According to the latest figures, there are around 1.7 million school pupils in England with identified special educational needs. That equates to 18% of all pupils. Of those pupils with identified SEN, around 1.2 million receive SEN support, and around 400,000 have EHCPs. In Huntingdon, the schools that I represent have expressed many concerns about the whole SEND system, and funding consistently underlies many of the issues that they face. Schools pay the first £6,000 towards meeting the outcomes of an education, health and care plan. The rest of the funding is topped up by the local authority. Often the funding provided does not cover the cost that the school incurs in supporting children with needs. I urge the Government to address that as a matter of urgency, as this is stopping schools from providing help to children suspected of requiring SEND support. I thank Yasmine Trace, the headteacher of Sawtry infant school, and Jo Dyke, the school’s SEND co-ordinator, for highlighting this matter. I know that they speak on behalf of ot",
+   "name": "Ben Obese-Jecty",
+   "party": "Con",
+   "seat": "Huntingdon"
+  },
+  {
+   "who": "David Taylor (Hemel Hempstead) (Lab)",
+   "member_id": 5348,
+   "type": "Contribution",
+   "text": "I thank the right hon. Member for Beverley and Holderness (Graham Stuart). As it has for many Members, this issue has become a quiet emergency in my constituency; Hertfordshire faces many of the challenges with the funding and delivery of SEND provision that other parts of the country are grappling with. SEND support should be a lifeline that enables a child to reach their potential, regardless of their diagnosis or circumstances. In Hertfordshire, the system is creaking. Ofsted and the Care Quality Commission have said that there are “widespread and systematic failings”, and too many families are losing out as a result. I have raised a number of stories in the past of constituents who are dealing with this issue. Today I bring to the House the story of my constituent Sarah, who recently told me about her daughter Grace. Grace suffers from avoidant restrictive food intake disorder, alongside autism and dyslexia. After a long and traumatic journey through the NHS, made harder by the lack of a national care pathway for ARFID, Grace spent six weeks at Watford general hospital and a further nine weeks at a mental health unit in Great Ormond Street. Her condition has thankfully stabilis",
+   "name": "David Taylor",
+   "party": "Lab",
+   "seat": "Hemel Hempstead"
+  },
+  {
+   "who": "Alex Brewer (North East Hampshire) (LD)",
+   "member_id": 5263,
+   "type": "Contribution",
+   "text": "Hampshire is a county that falls into the f40 group, which are areas that receive some of the lowest per-pupil funding in the country. This disparity is hitting pupils with special educational needs and disabilities the hardest. The cumulative deficit in Hampshire for the dedicated schools grant now sits at £86.1 million. That is not just a number on a spreadsheet but a daily reality in schools across my constituency. Despite having to find the first £6,000 of funding for every EHCP, schools in North East Hampshire, as with elsewhere, are bending over backwards to do everything they can to support these pupils. A headteacher in my constituency recently explained to me that their budgets this year are so tight, and they have made every efficiency that they can, that they will be forced to reduce the amount of support for the children who do not have an EHCP but who do have additional needs. What is the sense in that, when we know that early intervention leads to better outcomes and lower costs? Before being elected to the House, I ran a charity for young people with Down’s syndrome and their families. We saw at first hand the impact that early intervention can make in building the f",
+   "name": "Alex Brewer",
+   "party": "LD",
+   "seat": "North East Hampshire"
+  },
+  {
+   "who": "Warinder Juss (Wolverhampton West) (Lab)",
+   "member_id": 5230,
+   "type": "Contribution",
+   "text": "Over the past decade we have seen a 140% increase in the number of children identified as requiring an education, health and care plan. Today we have nearly 2 million pupils in England who are identified as having special educational needs. Unfortunately, the rise in demand has not been matched by a corresponding increase in funding. As of October last year, the Department for Education projected a cumulative deficit of £4.6 billion in the dedicated schools grant by the end of 2025-26, alongside a £3.4 billion gap by 2027-28 between high-needs costs and current funding levels. Our children have for too long been let down by previous Governments, and we have had 14 years of Conservative austerity. We must urgently re-examine the structure and long-term sustainability of our SEND provision. In my constituency, the pressure is all too evident. Nearly 9,000 pupils are currently receiving either special educational needs support or have an EHCP—around 18% of the total pupil population. If we look at the data more closely, a stark pattern emerges. There is a clear correlation between the level of special educational needs and the index of multiple deprivation, which means that children i",
+   "name": "Warinder Juss",
+   "party": "Lab",
+   "seat": "Wolverhampton West"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "Perhaps my question could go through the hon. Member to the Minister if he does not know the answer. The £740 million is very welcome, but as he says it is frontloaded in one year and then halves the following year, with no indication of where it is going thereafter. Although it may be a welcome short-term intervention, how is it part of a sustainable effort to improve SEN?",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Warinder Juss",
+   "member_id": 5230,
+   "type": "Contribution",
+   "text": "My point is that we have not had sufficient funding to provide our special educational needs children with the support they require. The National Audit Office has warned that without significant change, the current system is financially unsustainable. The evidence is damning. Since 2019, we have seen no consistent improvement in outcomes for children with SEND. We must, therefore, take bold, decisive steps to reform our SEND system to ensure that every child, irrespective of their needs or background, receives the proper support they rightly deserve. Only then can we say that we have removed the barriers to opportunity.",
+   "name": "Warinder Juss",
+   "party": "Lab",
+   "seat": "Wolverhampton West"
+  },
+  {
+   "who": "Mr Gagan Mohindra (South West Hertfordshire) (Con)",
+   "member_id": 4804,
+   "type": "Contribution",
+   "text": "Before I start my speech, I acknowledge the awful tragedy in India. I am aware of my own constituents being directly affected by it, so my thoughts and prayers are with them at this difficult time. I congratulate my right hon. Friend the Member for Beverley and Holderness (Graham Stuart) on securing this important debate. I have spoken many times about education in this place, including about my own experience. As a former governor of a school for autistic pupils, I have always been passionate about ensuring that our children and young ones can fulfil their full potential. Earlier this week, I was lucky enough to visit one of my SEND schools, Breakspeare school in Abbot’s Langley, which is absolutely life-changing not just for the children that it supports and educates, but for the families and the wider network associated with those young, brilliant individuals. I have two other such schools in my constituency, Colnbrook school and Garston Manor school, but I want to focus my comments on Breakspeare. Breakspeare hopes to move to a different site in Croxley in my constituency. There has been a change of administration at Hertfordshire county council, but I know from the plans of th",
+   "name": "Mr Gagan Mohindra",
+   "party": "Con",
+   "seat": "South West Hertfordshire"
+  },
+  {
+   "who": "Richard Baker (Glenrothes and Mid Fife) (Lab)",
+   "member_id": 5253,
+   "type": "Contribution",
+   "text": "Decisions on SEND funding in this Parliament directly affect the availability of resources for additional support needs education in Scotland. One of the best experiences of my career was working with the pupils, parents and teachers at the Royal Blind school in Edinburgh when I was at the charity Sight Scotland. There we created a happy and supportive environment to help blind and partially sighted pupils to reach their goals in education, and to gain the vital life skills they need to manage their visual impairments throughout their lives. Such support should be available in every school—in every mainstream setting—but it simply is not. That is because the presumption of mainstreaming policy in Scotland has not been anything like adequately resourced. In February of this year, Audit Scotland concluded that the Scottish Government and councils must “fundamentally evaluate how education is funded, staffed and assessed to support all pupils”, including those with additional support needs, “to reach their full potential.” The right hon. Member for Beverley and Holderness (Graham Stuart)—we very much welcome his securing the debate—has mentioned the disparities in funding between loca",
+   "name": "Richard Baker",
+   "party": "Lab",
+   "seat": "Glenrothes and Mid Fife"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "I commend the right hon. Member for Beverley and Holderness (Graham Stuart) for setting the scene for us all incredibly well. I am going to give a Presbyterian sermon; for those who do not know what that is, it comes in three parts. First, some children thrive academically and others practically. Some brains think in one way and others in different ways. We need all of them for a functioning society. We need mechanics as well as doctors; we need plasterers as much as farmers. It takes all sorts, and we need to train children not to fit into a standard box, but to find the box that fits them. That is becoming increasingly difficult for teachers to manage when the range of children is so wide and the pressure is so extensive.",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Rachel Gilmour (Tiverton and Minehead) (LD)",
+   "member_id": 5252,
+   "type": "Contribution",
+   "text": "I hope the hon. Gentleman agrees that under the current model, families must first endure an unnecessarily prolonged, complex and emotionally draining diagnostic process before resources finally begin to trickle in. That is a reactive approach, which not only delays the sense of support but undermines the principle of educational equality and inclusion. Does he agree that we must recalibrate the system so that diagnostic services are prioritised, adequately funded and made accessible locally for every family in need?",
+   "name": "Rachel Gilmour",
+   "party": "LD",
+   "seat": "Tiverton and Minehead"
+  },
+  {
+   "who": "Jim Shannon",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "The Minister is listening, and I am sure she will respond positively to the hon. Lady when the time comes. SEN is not about writing off a child’s ability, but about ensuring that they find their place in the system in order to achieve their potential. The second part of my Presbyterian sermon is about the stats for Northern Ireland. I know they are not the Minister’s responsibility, but I will give some figures and talk about a solution that I hope might be helpful. In Northern Ireland, SEN costs £65 million a year, but that figure is about 14% less than what is needed this year. The number of children with special educational needs has risen since 2017 from some 18,000 to some 27,000. In the same period, the number of children enrolled in special schools increased by some 25%. Funding is not meeting need, and we must look at other ways of doing that. The Department of Education in Northern Ireland is looking at units attached to mainstream schools, which provide a best-of-both-worlds approach. I hope that that solution can be of some help. The Department is looking at how well that can enable children to be a part of mainstream and better equipped to move forward. The units provid",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Josh Newbury (Cannock Chase) (Lab)",
+   "member_id": 5034,
+   "type": "Contribution",
+   "text": "For far too long, families across my county of Staffordshire, and indeed across the country, have been failed by the very system that was meant to support them. The breadth and depth of the crisis in SEND provision is such that this has to be one of the most, if not the most, frequently debated topics since the general election. Since becoming an MP, I have spoken with dozens of parents who are forced to travel long distances, often across county borders, just to get their child the support to which they are legally entitled. Recently, my team helped a family who had been waiting nine months to get into the school of their choice; others have been waiting for years. I have heard stories of poor communication, of documents being illegible to parents, who feel like outsiders navigating a system designed to exclude them, and of families having to repeat their stories multiple times due to layers and layers of decision making.",
+   "name": "Josh Newbury",
+   "party": "Lab",
+   "seat": "Cannock Chase"
+  },
+  {
+   "who": "Maya Ellis (Ribble Valley) (Lab)",
+   "member_id": 5228,
+   "type": "Contribution",
+   "text": "My constituency of Ribble Valley sits under Lancashire county council, which recently received a damning Ofsted report for its SEND provision. One parent, Selina Shaw, told me that her son Monty lost two years of education while the council spent more than £146,000 on a school he never attended, as the council did not seem to understand that that school could not meet his needs. Does my hon. Friend agree that the Government and local authorities must listen seriously to the voice of the child and to parents to improve SEND provision and must stop wasting precious resources in the immediate term, as well as providing the long-term financial improvements that the right hon. Member for Beverley and Holderness (Graham Stuart) proposes?",
+   "name": "Maya Ellis",
+   "party": "Lab",
+   "seat": "Ribble Valley"
+  },
+  {
+   "who": "Josh Newbury",
+   "member_id": 5034,
+   "type": "Contribution",
+   "text": "I am sorry to hear about Monty’s story and I fear that we will hear stories like his from Members across the House in this debate. It is a perfect, but shocking, example of how the system is so broken that we are wasting huge amounts of resources. Money is leaking out of a system that is already inadequately funded. My hon. Friend is right to highlight that. It is awful that we are in such a situation. Children, particularly those with high needs, are having to wake up before dawn and travel for over an hour, finding themselves exhausted when they reach school. That is not choice; that is a scandal. It is not just the children with the most acute needs who are suffering; many children and young people could thrive with targeted, mid-level support if only it were available. The number of children with education, health and care plans has exploded since 2015, in reflection of a genuine increase in need and greater recognition of mental health issues and neurodivergence. Yet funding has not kept pace, resulting in a deficit of around £33 billion in high needs budgets within local authorities. I welcome the Government’s acknowledgment that the current SEND system is not fit for purpose",
+   "name": "Josh Newbury",
+   "party": "Lab",
+   "seat": "Cannock Chase"
+  },
+  {
+   "who": "Sir John Hayes (South Holland and The Deepings) (Con)",
+   "member_id": 350,
+   "type": "Contribution",
+   "text": "That is partly about the specification of need and the quantification of how we meet it. Government can be helpful in that. I first took an interest in the matter as a county councillor more than 30 years ago and then as a shadow Schools Minister more recently—some 20 years ago. The Government can provide support through guidance. Guidance can get right the specification of need, and some of the problem that the hon. Gentleman has described can be addressed.",
+   "name": "Sir John Hayes",
+   "party": "Con",
+   "seat": "South Holland and The Deepings"
+  },
+  {
+   "who": "Josh Newbury",
+   "member_id": 5034,
+   "type": "Contribution",
+   "text": "I thank the right hon. Gentleman for bringing his expertise and long experience to the debate. I am sure that that message has been heard by the Minister on the Front Bench and that she will look into it. We must recognise that every child’s needs are different. Reforms must deliver on three major fronts: early intervention, so children get support before problems escalate and not after they have already struggled for years; inclusive schools, with proper funding for specialist units and trained staff in every community, not just in a lucky few; and fair access to transport, because no child should be denied education due to postcode lotteries or long, exhausting journeys. Before I conclude, I want to take a moment to highlight the number of young people with SEND who go into employment later in life. In Staffordshire, only 2.1% of adults with learning difficulties were in paid employment in 2019-20, compared with an average of 5.4% for all English regions. I am proud to support the Government’s investment for children with additional needs, but families in Cannock Chase now need to see change on the ground: to see parents and children listened to, not dismissed, and to see them re",
+   "name": "Josh Newbury",
+   "party": "Lab",
+   "seat": "Cannock Chase"
+  },
+  {
+   "who": "Charlie Maynard (Witney) (LD)",
+   "member_id": 5325,
+   "type": "Contribution",
+   "text": "I thank the right hon. Member for Beverley and Holderness (Graham Stuart) for bringing forward the debate, and I appreciated his speech. I also appreciate the interest of everybody in the Chamber in this matter. That stems from our experiences on the doorstep, where we have met far too many parents going through hell. We see a mix of determination, frustration, helplessness and betrayal. They look at me and at each hon. Member and say, “What are you going to do about it?” We are not doing enough, and their comments motivated each of us to be here today to do what we can. Primary schools in my constituency—just dealing with the As, we have Alvescot, Aston and Appleton—do not have the spaces and the provision to provide for their children and the SEND needs that are going through the roof. In the secondary schools, it is the same story. We have no high needs provision in the constituency, which means that lots of children are being taxied God knows where, far too far away, on a daily basis, which is terrible for the kids and terrible for the whole system for obvious reasons, economic and otherwise. We are desperately trying to find routes through that and to find solutions. In Oxford",
+   "name": "Charlie Maynard",
+   "party": "LD",
+   "seat": "Witney"
+  },
+  {
+   "who": "Alex Sobel (Leeds Central and Headingley) (Lab/Co-op)",
+   "member_id": 4658,
+   "type": "Contribution",
+   "text": "I will speak about the deepening funding crisis, and the crisis in general, for children and young people with special educational needs and disabilities, including the failure of our national curriculum to meet the needs of all learners. Since the curriculum reforms introduced in 2012, we have seen a return to a rigid, academic model of education—one that might have suited a mid-century grammar school but fails to deliver for a modern comprehensive system. The curriculum is simply inaccessible for at least a third of our pupils, both those with SEND and many others who thrive with practical, creative or vocational learning. Too many children are being told, implicitly or explicitly, that their job is to, “Just get a pass and forget about it.” That is not a curriculum that inspires or includes, it is not a curriculum that recognises or nurtures diverse talents, and it is certainly not a curriculum fit for the 21st century. It also ignores the cost of adequately educating children with special educational needs. This narrow focus does more than limit opportunity; it damages self-esteem, confidence and emotional wellbeing. It restricts the gifts and potential of our young people, par",
+   "name": "Alex Sobel",
+   "party": "Lab/Co-op",
+   "seat": "Leeds Central and Headingley"
+  },
+  {
+   "who": "John Milne (Horsham) (LD)",
+   "member_id": 5329,
+   "type": "Contribution",
+   "text": "SEND provision in our schools is in a state of deep and growing crisis. In my area, West Sussex county council is already struggling with a £130 million SEND deficit this year—a figure likely to rise to £224 million by next year. That huge figure is one of the worst in the country, but what is truly concerning is that so much overspend has not even bought us a satisfactory service. Complaints from parents and schools have filled my postbag ever since the election. Only half of EHCPs nationally are issued within the legal 20-week timeframe. In West Sussex it is even worse: just 12% now meet the deadline—and that is after a big push to get the waiting list down. It is hard to believe that slow processing is not a tactic. An EHCP gives parents the right to access educational support, but that support does not actually exist, so the local authority’s solution is to create deliberate bottlenecks in the system so that many families will never get all the way through. That is particularly unfair at the nursery level, because educational psychologist assessments can take so long that the child is all the way through school before they get one. More and more families are forced to go to app",
+   "name": "John Milne",
+   "party": "LD",
+   "seat": "Horsham"
+  },
+  {
+   "who": "Phil Brickell (Bolton West) (Lab)",
+   "member_id": 5128,
+   "type": "Contribution",
+   "text": "I congratulate the right hon. Member for Beverley and Holderness (Graham Stuart) on securing the debate. It is clear that the special educational needs and disabilities system is overstretched, underfunded and increasingly out of step with the reality faced by children, parents and schools. I will share with colleagues two local examples from Bolton West that illustrate the strife that the current system has caused parents. One mother, Jo, wrote to me after I visited her children’s school in Lostock. Her children are both bright, engaged, full of potential and autistic, but they are all too often excluded from the very activities designed to inspire them. When the school organised a high-profile enrichment trip to London, her eldest was not chosen. It is not the fault of the school, which is operating under challenging financial constraints; rather, it is a symptom of a system that fails to see autistic children as leaders or participants in national life. After all, as Jo reminded me, representation is not just about being present, but about being expected. Another mother, Victoria, wrote to me distraught about the possibility that education, health and care plans may soon be rest",
+   "name": "Phil Brickell",
+   "party": "Lab",
+   "seat": "Bolton West"
+  },
+  {
+   "who": "Iqbal Mohamed (Dewsbury and Batley) (Ind)",
+   "member_id": 5268,
+   "type": "Contribution",
+   "text": "I congratulate the right hon. Member for Beverley and Holderness (Graham Stuart) on securing this important debate. Given the limited time that has been allocated, I will speak about the state of SEND in my area and then suggest how the Government can address some of these challenges. The Dewsbury and Batley constituency sits in the authority of Kirklees, which ranks very low in terms of funding per child in the high-needs block of the dedicated schools grant. According to recent reports, Kirklees is the second worst funded council for high-needs funding per capita. Kirklees has nearly 9,600 disabled children and young people between the ages of nought and 24. Since 2016, there has been a real-terms spending cut of £717,000 on services for disabled children in Kirklees. Given the lack of funding, it is not surprising that in June 2022 a joint SEND inspection by Ofsted and the Care Quality Commission reported two priority areas of action, which, as far as I am aware, are still unresolved. Without the necessary funding, it is extremely difficult, if not impossible, for the council to address these challenges. In Kirklees, one in eight EHCPs were processed within the 20-week legal tim",
+   "name": "Iqbal Mohamed",
+   "party": "Ind",
+   "seat": "Dewsbury and Batley"
+  },
+  {
+   "who": "Jenny Riddell-Carpenter (Suffolk Coastal) (Lab)",
+   "member_id": 5160,
+   "type": "Contribution",
+   "text": "I thank the right hon. Member for Beverley and Holderness (Graham Stuart) for bringing this important issue to the Chamber for a full and thorough discussion. I want to highlight a few issues in Suffolk Coastal. I recently had quite a large conversation with many parents in my constituency. Nearly 100 parents filled in my survey and told me the extent of the issues they are facing as a consequence of battling with special educational needs provision. Some 60% of those who filled in the survey told me that they have had to withhold their children from school for up to a year because their children could not access education in a setting that was right for them. Nearly a quarter of those children have been off school for over a year. It will not surprise anyone in this Chamber or any parents listening to the debate that many families are struggling with the mental health consequences of this crisis. One in two parents told me that they are battling with mental health issues as a consequence of their battles with SEND provision. In many conversations that I have had across my constituency with schools, parents and young students, we have also explored some of the recommendations that ",
+   "name": "Jenny Riddell-Carpenter",
+   "party": "Lab",
+   "seat": "Suffolk Coastal"
+  },
+  {
+   "who": "Sir John Hayes",
+   "member_id": 350,
+   "type": "Contribution",
+   "text": "That is the truth that dare not speak its name. It is often the most disadvantaged or poorly educated parents who struggle to navigate a complex system. Middle-class parents are at an advantage—let us face facts—but that is never really recognised, and it needs to be. Those people need support and guidance to navigate the system, and to get the education that their children rightly deserve.",
+   "name": "Sir John Hayes",
+   "party": "Con",
+   "seat": "South Holland and The Deepings"
+  },
+  {
+   "who": "Jenny Riddell-Carpenter",
+   "member_id": 5160,
+   "type": "Contribution",
+   "text": "I could not agree more with the right hon. Gentleman, which is why I and so many Members are passionate about this issue. Those who cannot articulate or fight for themselves need people to stand up and fight for them. In many discussions I have had, I have worked with my constituents and with schools to come up with six key recommendations that we think will be innovative. We know there is a funding issue, and I welcome the Government’s investment and commitment to that. However, we need to relook at how we deliver special educational needs. Education, care and health plans are just one part of the problem, but fixing those will not fix the situation that parents are facing. A school in Saxmundham closed down last summer, because of the declining population in that area, two years after more than £1 million was spent on its SEND unit. It is a great facility whose footprint could facilitate primary and secondary education. I have been urging the Government to look at that— I have written to the Minister, and I will continue to urge the Government to look at that provision and take it forward. We need a national conversation about SEND and about funding. I welcome Members from across",
+   "name": "Jenny Riddell-Carpenter",
+   "party": "Lab",
+   "seat": "Suffolk Coastal"
+  },
+  {
+   "who": "Iqbal Mohamed",
+   "member_id": 5268,
+   "type": "Contribution",
+   "text": "Statistics published today by the Government show that there are more than 482,000 children with ECHPs but 1.284 million children without ECHPs who require SEND support. Although the £750 million is welcome, does the hon. Member agree that it is a drop in the ocean and that the Government need to invest more?",
+   "name": "Iqbal Mohamed",
+   "party": "Ind",
+   "seat": "Dewsbury and Batley"
+  },
+  {
+   "who": "Jenny Riddell-Carpenter",
+   "member_id": 5160,
+   "type": "Contribution",
+   "text": "Perhaps the hon. Member will agree with what I am about to say, which is that, yes, funding is part of the issue, but we need to look at the entire system to solve it at the scale that is needed. In rural areas—the right hon. Member for Beverley and Holderness spoke about this at the beginning of the debate—the issues are different to those in urban areas. There are declining populations in many of my primary schools. One primary school has just 15 students and spare classrooms, because the population does not match the capacity. We have capacity within those schools. I have put forward a recommendation, which has been supported in principle by my county council, that where we have declining populations in rural areas, we could operate with a special educational needs unit alongside mainstream provision, acting separately but within the same infrastructure. That SEND unit could bid for separate funding, and have a separate, wider catchment area than the primary school. What is incredibly exciting about that idea is that the provision does not need to stop in year 6. We know that small, cute primary schools with tiny populations have a huge challenge with students moving from year 6",
+   "name": "Jenny Riddell-Carpenter",
+   "party": "Lab",
+   "seat": "Suffolk Coastal"
+  },
+  {
+   "who": "Alison Griffiths (Bognor Regis and Littlehampton) (Con)",
+   "member_id": 5203,
+   "type": "Contribution",
+   "text": "I thank my right hon. Friend the Member for Beverley and Holderness (Graham Stuart) for securing this important debate. It is a pleasure to speak on a matter so close to the hearts of parents, carers, teachers and pupils in Bognor Regis, Littlehampton and across West Sussex: the urgent need for equitable and sustainable funding for special educational needs and disabilities. Since 2015, the number of EHCPs in West Sussex has risen dramatically, from 3,362 to 7,684 in 2024, an increase of 128%. That surge mirrors an England-wide trend, where the number of EHCPs has grown by over 70% since 2018. That equates to about 180,000 additional high-needs pupils. Local mainstream schools, like Bishop Tufnell and Edward Bryant, report being stretched to capacity. They rely on fundraising from charities merely to maintain basic SEN provision, while increasing staff shortages and rising national insurance costs exacerbate burnout. Nationally, high-needs spending has risen to roughly £11 billion, but with pupil numbers growing faster than funding, per pupil support has actually fallen by a third in real terms. The Government have recognised that pressure. A capital investment of £740 million aims",
+   "name": "Alison Griffiths",
+   "party": "Con",
+   "seat": "Bognor Regis and Littlehampton"
+  },
+  {
+   "who": "Lloyd Hatton (South Dorset) (Lab)",
+   "member_id": 5217,
+   "type": "Contribution",
+   "text": "As many right hon. and hon. Members have outlined, there is no doubt that there is a crisis in our SEND system in this country—a crisis that we inherited from the previous Government. However, funding is still too low to keep pace with the rate at which children are being diagnosed with SEND, and many families and teachers are struggling to get the help that children desperately need and deserve. Unfortunately, families in my constituency of South Dorset experience the same. According to figures set out earlier this year, 18% of pupils in South Dorset receive SEND support, roughly 5% more than the national average. That is why I want to increase the number of SEND places in special school settings. We have three state-funded special schools locally, Harbour school, Westfield college and Wyvern academy, whose staff do a truly brilliant job delivering specialised and individualised support for every child. However, following conversations with mums and dads at the school gate and teachers in the classroom, I am all too aware that, put simply, there are more SEND pupils across South Dorset, primarily based in mainstream schools, than there are special SEND places in special school set",
+   "name": "Lloyd Hatton",
+   "party": "Lab",
+   "seat": "South Dorset"
+  },
+  {
+   "who": "Warinder Juss",
+   "member_id": 5230,
+   "type": "Contribution",
+   "text": "In 2023, the Department for Education said that demand for special school places nationally outstripped available places by at least 4,000, so does my hon. Friend agree that we need more special school places?",
+   "name": "Warinder Juss",
+   "party": "Lab",
+   "seat": "Wolverhampton West"
+  },
+  {
+   "who": "Lloyd Hatton",
+   "member_id": 5217,
+   "type": "Contribution",
+   "text": "I completely agree with my hon. Friend, and we really feel that in South Dorset. There are simply not the places needed to support every child with SEND. We urgently need the Government to move further, faster, to ensure that every child with SEND gets the education, and the school setting, that they deserve. I once again ask Ministers at the Department for Education to get the SEND school at the Osprey Quay site on Portland open—we waited for years for that to happen under the previous Government—and to finally rebuild the buildings at Dorset Studio school. If we can get those two projects over the line, we can really start to deal with the crisis in South Dorset. Funding for a new SEND school was promised for so many years; that is what is most frustrating for parents in my constituency, particularly those living on Portland. In 2019, 2020, 2021, 2022, 2023 and 2024, they were promised a solution that did not come, and once again we are waiting. Parents on Portland need that school on the Osprey Quay site opened as soon as possible. Every child, no matter their educational needs, should have the opportunity to do their best, but they can do that only in the right school, with the",
+   "name": "Lloyd Hatton",
+   "party": "Lab",
+   "seat": "South Dorset"
+  },
+  {
+   "who": "Claire Young (Thornbury and Yate) (LD)",
+   "member_id": 5140,
+   "type": "Contribution",
+   "text": "Schools in my constituency are among the lowest-funded in the country, and there is a lack of resource for early intervention work before children get to the point of needing SEND support or an EHCP, which means that more children will need a higher level of intervention later. It is a vicious circle. The lack of money to act early means that more money must be transferred from the schools block to the high-needs block, reducing still further the funding for early intervention. South Gloucestershire is one of the local authorities that entered into a safety-valve agreement with the previous Government. It faces a cliff edge when that agreement ends next April, and as yet there is no certainty about what comes next. A great deal of work has been done by the council and schools working in SEND clusters, but the deficit has continued to increase. The agreement was signed pre-covid—we all know about the impact that the pandemic had on demand for additional support—and as a result the targets in the agreement are completely unachievable. Safety-valve agreements have not worked. Will the Government write off those historical deficits and find a new fairer funding formula? I support the G",
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate"
+  },
+  {
+   "who": "Iqbal Mohamed",
+   "member_id": 5268,
+   "type": "Contribution",
+   "text": "The hon. Member makes a really important point about early intervention. The current funding models respond only to high-level need and EHCPs, which leads to an over-reliance on costly EHCPs and new special school places. Does she agree that we should look to allocate a ringfenced proportion of the high-needs funding to early intervention in mainstream schools?",
+   "name": "Iqbal Mohamed",
+   "party": "Ind",
+   "seat": "Dewsbury and Batley"
+  },
+  {
+   "who": "Claire Young",
+   "member_id": 5140,
+   "type": "Contribution",
+   "text": "That is one approach, but we need to ensure that it does not take away from the high-needs approach. The point is that we have to fund both early intervention and the high-level needs that have resulted from the lack of early intervention. The previous Government declined to fund an additional 200 special school placements when they signed the safety-valve agreement. When I met the Minister for School Standards, she did so too, saying that the focus is on providing places in the mainstream. Increased inclusion is a sound ongoing policy, but pupils cannot make the switch overnight. We need a fairer distribution of capital funding as well as revenue funding. Another issue with SEND funding is the notional £6,000. To give one example, a headteacher locally told me that more than 60% of their allocation goes on the high number of children with EHCPs they have on roll, leaving less than 40% to support all the other children on the record of need. School funding does not recognise that there can be great disparities between communities and schools, even in the same local authority area. Some acquire a reputation for being good at supporting those with additional needs and suffer financia",
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate"
+  },
+  {
+   "who": "Ben Maguire (North Cornwall) (LD)",
+   "member_id": 5350,
+   "type": "Contribution",
+   "text": "This is clearly a national crisis. Cornwall ranks 144th out of 151 local authorities for per-pupil SEND funding, and children with SEND needs in Cornwall get almost half the funding of those in Middlesbrough. Does my hon. Friend agree that this gross funding unfairness should be urgently addressed?",
+   "name": "Ben Maguire",
+   "party": "LD",
+   "seat": "North Cornwall"
+  },
+  {
+   "who": "Claire Young",
+   "member_id": 5140,
+   "type": "Contribution",
+   "text": "Absolutely. South Gloucestershire is in an even worse position, and I am sure all the authorities in the f40 group would agree. Yesterday, I raised with the Prime Minister one of the impacts that lack of support for SEND has on families. He did not take up my request for a meeting, but I hope he will consider meeting me to discuss this aspect of the issue, and meeting charities that represent parents who are in this situation. Of course, the lack of support for children with special educational needs has many other impacts; I simply do not have time to go into all of them today. We need overall SEND funding to reflect the level of need. We need more funding during the transition to greater inclusion, to reflect the fact that we will be supporting people with a high level of need, as well as funding early intervention. We need a national body for SEND to end the postcode lottery, and to fund the very high-need cases that cost over £25,000 a year, and schools need funding to be distributed in a way that reflects their needs, not some overall and potentially flawed perception by their local authority.",
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate"
+  },
+  {
+   "who": "Yasmin Qureshi (Bolton South and Walkden) (Lab)",
+   "member_id": 3924,
+   "type": "Contribution",
+   "text": "I congratulate the right hon. Member for Beverley and Holderness (Graham Stuart) on securing this debate. This is an issue close to my heart. I used to be a school governor as well as a college governor, and I remember setting up—along with other teachers and professionals—a specific learning unit, as well as a general learning difficulty unit. Of course, having been a constituency MP for the past 15 years, this is an issue that I have dealt with many a time, and when I have been trying to assist families, I have noticed that they feel utterly exhausted, not only by their caring responsibility, but by a system that seems to place obstacles in their way. My council, Bolton, has made real progress. Its “Belonging in Bolton” strategy is helping to create more local SEND places, and it was rightly praised in its most recent Ofsted and Care Quality Commission inspection. In the area covered by Salford city council, parts of which now come into my constituency—it now covers Walkden—the council has also been working really hard to improve provision for children with SEND, but of course, all these councils have limited resources. In Bolton alone, over 9,000 children have a SEND issue, an i",
+   "name": "Yasmin Qureshi",
+   "party": "Lab",
+   "seat": "Bolton South and Walkden"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "I call the Liberal Democrat spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Victoria Collins (Harpenden and Berkhamsted) (LD)",
+   "member_id": 5201,
+   "type": "Contribution",
+   "text": "I congratulate the right hon. Member for Beverley and Holderness (Graham Stuart) on securing this vital debate. I would like to start with the words of Berkhamsted student Hermione: “I believe, without a doubt, that the school system needs to change. But more than anything, it needs to change for SEN students—because right now, it is failing them…The system broke me down completely. Instead of supporting me, the system left me feeling isolated and overwhelmed.” Last week, I met Hermione at Egerton-Rothesay school in Berkhamsted. She has complex needs, and has found solace in her new school after years of struggling. That is why, for her English oral exam, she was compelled to write a piece called “The school system needs to change: especially for SEN students”. She happened to send it to her headmaster on the day I visited. It is an eloquent piece about her experience, and I wish I had time to share it in its entirety. She concludes by saying: “I know I’m lucky to have the support I do, but it’s still not enough. The system needs to change—not just for me, but for all the students still being let down, and for the future of education itself.” She calls for improved teacher training",
+   "name": "Victoria Collins",
+   "party": "LD",
+   "seat": "Harpenden and Berkhamsted"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "I call the shadow Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Joy Morrissey (Beaconsfield) (Con)",
+   "member_id": 4759,
+   "type": "Contribution",
+   "text": "It is a pleasure to follow such excellent contributions from Members from all parts of the House in this important debate. I congratulate my right hon. Friend the Member for Beverley and Holderness (Graham Stuart) on securing this vital debate. I pay tribute to the parents, the carers, the schools and all those who have battled tirelessly to secure funding for SEND students. I was one of those SEND students who benefited from my parents tirelessly campaigning for me to have the disability support I needed in school. It has only taken me this long to finally say thank you. Such support plays a vital role in children’s long-term success. Members from all parts of the House have raised this issue today because they can see the merits in fighting for children’s chances, particularly in primary school, to increase their success overall. We know that finding the right provision can be difficult and bureaucratic for children with SEND and their families. Securing the right assessment of a child’s needs, getting their education, health and care plan, and finding the right provision takes huge effort and far too long. Many parents who have come to me have been absolutely choked and suffocat",
+   "name": "Joy Morrissey",
+   "party": "Con",
+   "seat": "Beaconsfield"
+  },
+  {
+   "who": "Sir John Hayes",
+   "member_id": 350,
+   "type": "Contribution",
+   "text": "As I expected, my hon. Friend is making a powerful and compelling case. Will she also ask the Minister to address the issue of special needs not being static? Many needs are dynamic—children change when their needs change—and that dynamism needs to be built into the system so that flexible funding can follow need.",
+   "name": "Sir John Hayes",
+   "party": "Con",
+   "seat": "South Holland and The Deepings"
+  },
+  {
+   "who": "Joy Morrissey",
+   "member_id": 4759,
+   "type": "Contribution",
+   "text": "I thank my right hon. Friend for making that excellent point. Many Members have raised this issue, and perhaps we can have another debate in Government time on how SEND funding can follow the student, rather than just having it allocated. The needs of a SEND student will change over time, which is why parents often change educational providers. Children may go into independent school settings and then come back to state settings, and parents are constantly battling the system. It is worth looking at whether we can have a model in which the funding follows the student. Many parents have come to me, and I am sure to other Members, to ask for VAT not to be charged on independent school fees, because over 100,000 pupils with SEND who were being supported in that educational setting now have to go back into the state sector, which cannot cope with rising costs and the number of students entering the system. I ask the Government to urgently look at that and to U-turn on the policy of charging VAT on school fees, because SEND children are falling through the cracks as a result. For SEND students in primary school, it is very important that they have educational support through teachers. P",
+   "name": "Joy Morrissey",
+   "party": "Con",
+   "seat": "Beaconsfield"
+  },
+  {
+   "who": "Mr Adnan Hussain (Blackburn) (Ind)",
+   "member_id": 5231,
+   "type": "Contribution",
+   "text": "Does the hon. Member agree that the problem begins even earlier? Nurseries receive no dedicated SEND funding, which means that essential early intervention is provided by schools and the funding is overstretched. That is neither sustainable nor fair for the children or for the schools trying to support them.",
+   "name": "Mr Adnan Hussain",
+   "party": "Ind",
+   "seat": "Blackburn"
+  },
+  {
+   "who": "Joy Morrissey",
+   "member_id": 4759,
+   "type": "Contribution",
+   "text": "The hon. Member makes a wonderful point about the fact that early intervention is underfunded, but such funding actually reaps huge benefits for students. I should declare that I worked at the Centre for Social Justice, where we looked at early intervention as one of the most important ways of turning around the lives of children. Especially for children with special educational needs, early diagnosis and early intervention can make all the difference in their not falling behind when they enter main education. It is rare that I support additional funding, but I do for early intervention because it is life-changing. The years during which we can change a child’s life are those from four to seven. It is such a small window during which we can erase trauma and help with any disability, but that will help them for the rest of their lives, so early intervention makes all the difference for such children in the long term. I ask the Government to listen: to listen to the children, families and schools telling them that SEND funding is not making it to the children who need it; to listen to the local authorities that need clarity urgently on the future of high-needs blocks and the statutor",
+   "name": "Joy Morrissey",
+   "party": "Con",
+   "seat": "Beaconsfield"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Janet Daby)",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "I congratulate the right hon. Member for Beverley and Holderness (Graham Stuart) on securing this debate on this important subject. I know he has a strong interest in special educational needs and disability, and I commend him for his 20 years of advocating for change. He spoke widely about many areas, but especially about distribution. I also thank the many Members across this Chamber for their passionate and sincere speeches, which all advocated for their constituents and the children they care about. Among the many Members who have spoken, my hon. Friend the Member for Huddersfield (Harpreet Uppal) talked about the difficulties for parents navigating SEND. The hon. Member for Huntingdon (Ben Obese-Jecty) spoke about the challenges involving EHCPs. My hon. Friend the Member for Hemel Hempstead (David Taylor) gave some case studies, and like other Members mentioned these precious children and their experiences, which were all very vital and pertinent to this debate. I thank them for those case studies about Grace, Olivia, Hermione and others, which I really appreciate and acknowledge. My hon. Friend the Member for Wolverhampton West (Warinder Juss) spoke about the Government inves",
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "Will the Minister give way?",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Janet Daby",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "I would like to make some progress before I begin to give way. Members from across the House will be aware of the challenges facing the SEND system—a system that is difficult for parents, carers and young people to navigate, and where outcomes for children are often poor. That has been mentioned by many Members. The Education Committee has undertaken its own inquiry aimed at solving the SEND crisis, which underscores the significant challenges we face. Improving the SEND system is a priority for this Government. We want all children to receive the right support to succeed in their education, and to lead happy, healthy and productive adult lives. The hon. Member for Harpenden and Berkhamsted (Victoria Collins) quoted Hermione, who said that SEND needs to work for all, and I just wanted to acknowledge that.",
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "I am grateful to the Minister for giving way. She will be aware that the title of this debate, despite what it says on the screen, is “Distribution of SEND Funding”. I hope, therefore, that she will focus primarily on that particular technical point. The distribution of SEND funding across the country is, according to f40 and campaigners across the House, unfair, broken and needs to change. Is that the Government’s view and the Minister’s view? That is the first answer, and then we can turn to how it can best be fixed. The most important thing is to recognise whether it is broken or not. I feel it is unfair and broken, and I would like to hear the Minister say so, if she agrees.",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Janet Daby",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "I hear the right hon. Gentleman’s point, but he does need to allow me time to proceed. It would be wrong of me not to also respond to other Members from across the Chamber who have mentioned concerns with regard to the reason we are here. Members across the House will be aware of the challenges facing the SEND system. Improving the SEND system is a priority for this Government. As I said, we want all children to receive the right support. We are prioritising early intervention and inclusive provision in mainstream settings. We know that early intervention prevents unmet needs from escalating, and that it supports all children and young people to achieve their goals alongside their peers. These are complex issues that need a considered approach to deliver sustainable change, and we have already begun that work. We launched new training resources to support early years educators to meet emerging needs, and announced 1,000 further funded training places for early years special educational needs co-ordinators in the 2025-26 financial year, which will be targeted at settings in the most disadvantaged areas. We have extended the partnerships for inclusion of neurodiversity in schools pro",
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Mr Adnan Hussain",
+   "member_id": 5231,
+   "type": "Contribution",
+   "text": "Does the Minister acknowledge that early support must be given to children when they are at nursery? If we identify those needs at that point, we could save money in the long run.",
+   "name": "Mr Adnan Hussain",
+   "party": "Ind",
+   "seat": "Blackburn"
+  },
+  {
+   "who": "Janet Daby",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "The Government are very much committed to early intervention and prevention work.",
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Ben Obese-Jecty",
+   "member_id": 5089,
+   "type": "Contribution",
+   "text": "It was strongly suggested the other day that the Government were going to look at changing EHCPs and possibly even scrapping them completely. Can the Minister give some reassurance to the House, and to constituents who may be watching this debate, that EHCPs will remain extant and will be worked on?",
+   "name": "Ben Obese-Jecty",
+   "party": "Con",
+   "seat": "Huntingdon"
+  },
+  {
+   "who": "Janet Daby",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "As far as I am aware, EHC plans will continue. We know that children’s earliest years make the biggest difference to their life chances. As I have already said, we believe in early intervention and recognise the importance of high-quality early years education and care, which can lead to better outcomes for children. Having access to a formal childcare setting allows children’s needs to be identified at the earliest opportunity, so that the appropriate support and intervention can be put in place to allow children with SEND to thrive. Arrangements are in place to support children with SEND to access Government funding in early education, including funding for disability access and special educational needs inclusion and the high needs NFF allocations to support local authorities. We are reviewing early years SEND funding arrangements to assess how suitable the current arrangements are for supporting the needs of children with SEND. The additional funding for schools of more than £4 billion a year over the next three years announced in the spending review will provide an above real-terms per-pupil increase in the core schools budget, taking per-pupil funding to its highest ever leve",
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Sir John Hayes",
+   "member_id": 350,
+   "type": "Contribution",
+   "text": "The point was made earlier about rural areas. My county of Lincolnshire has a sparsely distributed population, which makes travel and access difficult for parents of children with special needs. Will the Minister address that in the new funding formula to ensure that rural areas do not lose out?",
+   "name": "Sir John Hayes",
+   "party": "Con",
+   "seat": "South Holland and The Deepings"
+  },
+  {
+   "who": "Janet Daby",
+   "member_id": 4698,
+   "type": "Contribution",
+   "text": "I thank the right hon. Gentleman for his question. As I have already said, the Government intend to set out our SEND reforms in the schools White Paper in the autumn. I will make sure that a further response is also provided to the right hon. Gentleman on that point. The investment in the spending review is a critical step forward in our mission to support all children and young people to achieve and thrive, and to support teachers and leaders to deliver high and rising standards across every school for every pupil. On travel, which has been raised by many Members across the Chamber, local authorities must arrange free travel for children of compulsory school age who attend their nearest school and cannot walk there because of the distance, their SEND or a mobility problem, or because the route is not safe. There are additional rights to free travel for low-income households to help them exercise school choice. Where a child has an EHCP, the school named in the plan will usually be considered their nearest to home for school travel purposes. We know how challenging home-to-school travel is for local authorities at the moment. That is due in large part to the pressures in the SEND s",
+   "name": "Janet Daby",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "I call Graham Stuart to wind up.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Graham Stuart",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "I thank all colleagues for coming to the Chamber on this Thursday afternoon, because this issue is just so important. We have heard really interesting and reflective speeches from right across the House, as Members have sought to champion the children who probably most need help in our society, so it is right that we should be here. I thank the Minister for her response. I was slightly disappointed, because the title of this debate is “Distribution of SEND Funding”, and it is important to ask whether the distribution is right. Do the Government think that it is, or that it is not? I do not think that the system is defensible as it is, and it would be good to hear that said. Once one has recognised that the system is broken and unfair, the next question is: how shall we fix it? We did not get an answer to that, because we did not get an answer to the first question. The Minister’s response morphed into what we talk about generally, which is SEN overall, what the Government are doing, the £1 billion extra and all the other things, many of which are welcome, but the question underneath that is whether the distribution is right. If it is not, are we going to do something about it, whil",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  }
+ ],
+ "fetched": "2026-10-21T20:26:21Z"
+}

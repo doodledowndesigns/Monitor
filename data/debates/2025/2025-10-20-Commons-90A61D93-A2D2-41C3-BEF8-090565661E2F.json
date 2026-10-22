@@ -1,0 +1,1863 @@
+{
+ "ext_id": "90A61D93-A2D2-41C3-BEF8-090565661E2F",
+ "date": "2025-10-20",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Education",
+ "parents": [
+  "Commons Chamber",
+  "Oral Answers to Questions"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2025-10-20/debates/90A61D93-A2D2-41C3-BEF8-090565661E2F/Education",
+ "subtitles": [
+  "International Baccalaureate",
+  "Free School Meals: Eligibility Criteria",
+  "SEND System: Cheadle",
+  "Children with SEND: Mainstream Schools",
+  "SEND Provision",
+  "Higher-level Learning Target",
+  "Free Schools: Application Decisions",
+  "British Sign Language GCSE",
+  "Vocational Training: Under-19s",
+  "Childcare: Affordability",
+  "Topical Questions"
+ ],
+ "speakers": [
+  {
+   "name": "Alison Bennett",
+   "party": "LD",
+   "seat": "Mid Sussex",
+   "member_id": 5283
+  },
+  {
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education",
+   "member_id": 5033
+  },
+  {
+   "name": "Fleur Anderson",
+   "party": "Lab",
+   "seat": "Putney",
+   "member_id": 4788
+  },
+  {
+   "name": "Layla Moran",
+   "party": "LD",
+   "seat": "Oxford West and Abingdon",
+   "member_id": 4656
+  },
+  {
+   "name": "Ms Polly Billington",
+   "party": "Lab",
+   "seat": "East Thanet",
+   "member_id": 5123
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 467
+  },
+  {
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East",
+   "member_id": 4818
+  },
+  {
+   "name": "Mr Tanmanjeet Singh Dhesi",
+   "party": "Lab",
+   "seat": "Slough",
+   "member_id": 4638
+  },
+  {
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education",
+   "member_id": 4046
+  },
+  {
+   "name": "Richard Foord",
+   "party": "LD",
+   "seat": "Honiton and Sidmouth",
+   "member_id": 4942
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Mr Tom Morrison",
+   "party": "LD",
+   "seat": "Cheadle",
+   "member_id": 5090
+  },
+  {
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards",
+   "member_id": 5305
+  },
+  {
+   "name": "Jo Platt",
+   "party": "Lab/Co-op",
+   "seat": "Leigh and Atherton",
+   "member_id": 4673
+  },
+  {
+   "name": "Sir Oliver Dowden",
+   "party": "Con",
+   "seat": "Hertsmere",
+   "member_id": 4441
+  },
+  {
+   "name": "Ms Julie Minns",
+   "party": "Lab",
+   "seat": "Carlisle",
+   "member_id": 5094
+  },
+  {
+   "name": "Lincoln Jopp",
+   "party": "Con",
+   "seat": "Spelthorne",
+   "member_id": 5332
+  },
+  {
+   "name": "Perran Moon",
+   "party": "Lab",
+   "seat": "Camborne and Redruth",
+   "member_id": 5208
+  },
+  {
+   "name": "Dame Caroline Dinenage",
+   "party": "Con",
+   "seat": "Gosport",
+   "member_id": 4008
+  },
+  {
+   "name": "Lloyd Hatton",
+   "party": "Lab",
+   "seat": "South Dorset",
+   "member_id": 5217
+  },
+  {
+   "name": "Sarah Green",
+   "party": "LD",
+   "seat": "Chesham and Amersham",
+   "member_id": 4918
+  },
+  {
+   "name": "Dr Danny Chambers",
+   "party": "LD",
+   "seat": "Winchester",
+   "member_id": 5304
+  },
+  {
+   "name": "Kim Johnson",
+   "party": "Lab",
+   "seat": "Liverpool Riverside",
+   "member_id": 4824
+  },
+  {
+   "name": "Dr Neil Shastri-Hurst",
+   "party": "Con",
+   "seat": "Solihull West and Shirley",
+   "member_id": 5197
+  },
+  {
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood",
+   "member_id": 4510
+  },
+  {
+   "name": "Anneliese Midgley",
+   "party": "Lab",
+   "seat": "Knowsley",
+   "member_id": 5038
+  },
+  {
+   "name": "Mr Toby Perkins",
+   "party": "Lab",
+   "seat": "Chesterfield",
+   "member_id": 3952
+  },
+  {
+   "name": "Linsey Farnsworth",
+   "party": "Lab",
+   "seat": "Amber Valley",
+   "member_id": 5107
+  },
+  {
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire",
+   "member_id": 3969
+  },
+  {
+   "name": "Wera Hobhouse",
+   "party": "LD",
+   "seat": "Bath",
+   "member_id": 4602
+  },
+  {
+   "name": "Mr Peter Bedford",
+   "party": "Con",
+   "seat": "Mid Leicestershire",
+   "member_id": 5330
+  },
+  {
+   "name": "Nick Timothy",
+   "party": "Con",
+   "seat": "West Suffolk",
+   "member_id": 5062
+  },
+  {
+   "name": "Mr Jonathan Brash",
+   "party": "Lab",
+   "seat": "Hartlepool",
+   "member_id": 5045
+  },
+  {
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford",
+   "member_id": 4131
+  },
+  {
+   "name": "Sarah Owen",
+   "party": "Lab",
+   "seat": "Luton North",
+   "member_id": 4777
+  },
+  {
+   "name": "Matt Vickers",
+   "party": "Con",
+   "seat": "Stockton West",
+   "member_id": 4844
+  },
+  {
+   "name": "Mr Calvin Bailey",
+   "party": "Lab",
+   "seat": "Leyton and Wanstead",
+   "member_id": 5054
+  },
+  {
+   "name": "Liam Conlon",
+   "party": "Lab",
+   "seat": "Beckenham and Penge",
+   "member_id": 5132
+  },
+  {
+   "name": "Alice Macdonald",
+   "party": "Lab/Co-op",
+   "seat": "Norwich North",
+   "member_id": 5133
+  },
+  {
+   "name": "Olivia Bailey",
+   "role": "The Parliamentary Under-Secretary of State for Education",
+   "member_id": 5337
+  },
+  {
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole",
+   "member_id": 5327
+  },
+  {
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness",
+   "member_id": 1482
+  },
+  {
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon",
+   "member_id": 5122
+  },
+  {
+   "name": "Jim Dickson",
+   "party": "Lab",
+   "seat": "Dartford",
+   "member_id": 5223
+  },
+  {
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks",
+   "member_id": 4780
+  },
+  {
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North",
+   "member_id": 5143
+  },
+  {
+   "name": "Sarah Coombes",
+   "party": "Lab",
+   "seat": "West Bromwich",
+   "member_id": 5088
+  },
+  {
+   "name": "Andrew George",
+   "party": "LD",
+   "seat": "St Ives",
+   "member_id": 227
+  },
+  {
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell",
+   "member_id": 5165
+  },
+  {
+   "name": "Clive Jones",
+   "party": "LD",
+   "seat": "Wokingham",
+   "member_id": 5207
+  },
+  {
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate",
+   "member_id": 5140
+  },
+  {
+   "name": "Luke Akehurst",
+   "party": "Lab",
+   "seat": "North Durham",
+   "member_id": 5112
+  },
+  {
+   "name": "Sir Julian Lewis",
+   "party": "Con",
+   "seat": "New Forest East",
+   "member_id": 54
+  },
+  {
+   "name": "Jessica Toale",
+   "party": "Lab",
+   "seat": "Bournemouth West",
+   "member_id": 5202
+  },
+  {
+   "name": "Shockat Adam",
+   "party": "Ind",
+   "seat": "Leicester South",
+   "member_id": 5120
+  },
+  {
+   "name": "Yuan Yang",
+   "party": "Lab",
+   "seat": "Earley and Woodley",
+   "member_id": 5267
+  },
+  {
+   "name": "Aphra Brandreth",
+   "party": "Con",
+   "seat": "Chester South and Eddisbury",
+   "member_id": 5241
+  },
+  {
+   "name": "Brian Leishman",
+   "party": "Ind",
+   "seat": "Alloa and Grangemouth",
+   "member_id": 5196
+  },
+  {
+   "name": "Joe Robertson",
+   "party": "Con",
+   "seat": "Isle of Wight East",
+   "member_id": 5255
+  },
+  {
+   "name": "Jayne Kirkham",
+   "party": "Lab/Co-op",
+   "seat": "Truro and Falmouth",
+   "member_id": 5279
+  },
+  {
+   "name": "Ian Roome",
+   "party": "LD",
+   "seat": "North Devon",
+   "member_id": 5138
+  },
+  {
+   "name": "Chris Webb",
+   "party": "Lab",
+   "seat": "Blackpool South",
+   "member_id": 5025
+  },
+  {
+   "name": "Lewis Cocking",
+   "party": "Con",
+   "seat": "Broxbourne",
+   "member_id": 5050
+  },
+  {
+   "name": "Dr Jeevun Sandher",
+   "party": "Lab",
+   "seat": "Loughborough",
+   "member_id": 5259
+  },
+  {
+   "name": "Helen Morgan",
+   "party": "LD",
+   "seat": "North Shropshire",
+   "member_id": 4934
+  },
+  {
+   "name": "Alex Mayer",
+   "party": "Lab",
+   "seat": "Dunstable and Leighton Buzzard",
+   "member_id": 5141
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Alison Bennett (Mid Sussex) (LD)",
+   "member_id": 5283,
+   "type": "Contribution",
+   "text": "1. What steps she is taking to ensure the provision of adequate funding for pupils to study the International Baccalaureate.",
+   "name": "Alison Bennett",
+   "party": "LD",
+   "seat": "Mid Sussex"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Josh MacAlister)",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "Funded institutions for those aged 16 to 19 have the freedom to decide how to use their funding for the provision they offer, including whether they offer the international baccalaureate.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Alison Bennett",
+   "member_id": 5283,
+   "type": "Contribution",
+   "text": "Varndean sixth-form college in Brighton is the only state-funded IB provider in Sussex. It has warned that, without the large programme uplift, the IB will become financially unviable. Many Mid Sussex students have gone on from Varndean to study engineering, medicine and maths at leading universities. Does the Minister think it right that this world-class qualification becomes available only in the private sector, entrenching a two-tier education system? Will he meet me and Varndean students to discuss the benefits of the IB for state-educated pupils and why this decision must be reversed?",
+   "name": "Alison Bennett",
+   "party": "LD",
+   "seat": "Mid Sussex"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "The Government made big decisions at the spending review to increase the overall funding available to 16-to-19 courses. Next financial year, there will be an increase of over £800 million. [ Official Report , 30 October 2025; Vol. 774, c. 4WC.] (Correction) That means that per-pupil funding is going up substantially. The large programme uplift sits on top of that, and the Government have made the decision to prioritise the large programme uplift for students doing multiple A-levels in science, technology, engineering and maths subjects. We still support the international baccalaureate and recognise it as a programme that can work for many students.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Fleur Anderson (Putney) (Lab)",
+   "member_id": 4788,
+   "type": "Contribution",
+   "text": "I welcome the Minister’s support for the international baccalaureate. Ashcroft technology academy in my constituency runs a successful IB programme. Will he confirm that the programme will still be funded and that pupils can still choose to study the international baccalaureate at Ashcroft academy?",
+   "name": "Fleur Anderson",
+   "party": "Lab",
+   "seat": "Putney"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "I know that my hon. Friend is a champion for Ashcroft academy and has visited it many times. I can confirm that the changes that the Government are making will mean that the international baccalaureate can still be studied. We are providing funding for 16-to-19 provision so that sixth-form colleges can make those decisions.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Layla Moran (Oxford West and Abingdon) (LD)",
+   "member_id": 4656,
+   "type": "Contribution",
+   "text": "This week I have been inundated by families who send their children to Europa school just outside my constituency; they are so concerned by these changes. I taught the IB for 11 years, and I know full well the difference that its incredible curriculum can make to children’s lives. Does this policy direction not send a negative signal from the Government? I remind the Minister that it was a Labour Government who introduced the funding in the first place. Surely this is the wrong direction.",
+   "name": "Layla Moran",
+   "party": "LD",
+   "seat": "Oxford West and Abingdon"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "The decision is essentially about where in the system resources go. Over 75% of students in receipt of extra support from the large programme uplift are studying A-levels, and we want to prioritise support for the vast majority of students who are studying A-levels and taking extra A-levels, including further maths. That is right for our economy, and it is also right for the vast majority of students. We still recognise the international baccalaureate as an important course and we want to support it.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Ms Polly Billington (East Thanet) (Lab)",
+   "member_id": 5123,
+   "type": "Contribution",
+   "text": "I, too, have a school in my constituency that offers the international baccalaureate. Dane Court school in Broadstairs has an extremely successful programme in breaking down barriers to opportunity for a large number of pupils in an area of significant deprivation. Only 10% of the children in East Thanet succeed in passing the Kent test; we need to be able to ensure that those children and others get the maximum opportunities available. Will the Minister reassure me, the senior leadership team, and parents and children at Dane Court that the international baccalaureate will still be possible for those children and for future generations?",
+   "name": "Ms Polly Billington",
+   "party": "Lab",
+   "seat": "East Thanet"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for her advocacy for her constituents. This year, per-student funding is rising to £5,105—up from £4,843 last year. These decisions made across the further education system and for sixth-form colleges mean that institutions can make the best choices for their students, including, where appropriate, backing students to study the international baccalaureate.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the shadow Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Saqib Bhatti (Meriden and Solihull East) (Con)",
+   "member_id": 4818,
+   "type": "Contribution",
+   "text": "I welcome the Minister to his new role. I have been listening to him closely, but I have to say that the rhetoric does not match the actions. In fact, the headteacher of Ashcroft academy wrote to the Secretary of State saying exactly that the IB cannot be delivered because the additional funding has been cut. The international baccalaureate is recognised globally and allows British students to compete internationally. Cutting funding will mean that those who can afford it will have access to it, but those who cannot—namely in our state sector—will not. Why is the Minister scrapping funding for the IB and undermining standards in our state schools?",
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "The system provides the level of funding necessary to 16-to-19 providers. The Government have made big decisions, which have not been backed by the Conservatives in spending reviews or Budgets, to ensure that the funding is there for colleges to make those choices. On top of that, there is the large programme uplift. In that respect, we are rightly making the decision to prioritise the vast majority of students who are taking more than three A-levels, especially in STEM subjects. We are prioritising those subjects, and we are being frank and honest about that choice. The international baccalaureate can be chosen by colleges where that is right for students.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Mr Tanmanjeet Singh Dhesi (Slough) (Lab)",
+   "member_id": 4638,
+   "type": "Contribution",
+   "text": "2. What assessment she has made of the potential impact of changes to eligibility criteria for free school meals on levels of children in poverty.",
+   "name": "Mr Tanmanjeet Singh Dhesi",
+   "party": "Lab",
+   "seat": "Slough"
+  },
+  {
+   "who": "The Secretary of State for Education (Bridget Phillipson)",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "As Secretary of State, I have secured free school meals for half a million more children and we are set to lift 100,000 children out of poverty and put £500 back into families’ pockets. Alongside our roll-out of free breakfast clubs, 30 hours of Government-funded childcare and Best Start family hubs, I am acting to deliver Labour’s moral mission on tackling child poverty.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Dhesi",
+   "member_id": 4638,
+   "type": "Contribution",
+   "text": "Labour’s expansion of free school meals will reach 8,750 children in Slough, saving parents in Slough up to £500, as well as maintaining attendance and attainment and improving behaviour. I know that this will be welcomed by families across my Slough constituency and ensure the very best for their children’s future. Can the Secretary of State outline what measures the Government are taking to increase awareness of this scheme and to ensure that eligible pupils do not miss out on this excellent support?",
+   "name": "Mr Tanmanjeet Singh Dhesi",
+   "party": "Lab",
+   "seat": "Slough"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to my hon. Friend for everything he does to champion children and families across his constituency. It is fantastic to hear how many children in Slough will benefit from the expansion of free school meals. It is a policy that is pro-learning, anti-poverty and properly Labour. Of course, we want as many families as possible to benefit from it, and to that end we are working with schools, local authorities and the wider sector to notify families about the changes that are coming into effect.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Richard Foord (Honiton and Sidmouth) (LD)",
+   "member_id": 4942,
+   "type": "Contribution",
+   "text": "Under the existing criteria for free school meals, university maths schools have an excellent record for widening participation. We know that 7% of A-level maths students across the country are eligible for free school meals, compared with 13% of students at university maths schools. Will the Government consider expanding the number of places available at university maths schools?",
+   "name": "Richard Foord",
+   "party": "LD",
+   "seat": "Honiton and Sidmouth"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "The hon. Gentleman was very imaginative with his question there, and I credit him for that. Of course, we have to take decisions about school placement and school places overall, across the whole system, but if he would like to provide me with more information, I will happily provide him with an update.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the Liberal Democrat spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "We Liberal Democrats warmly welcomed the Government’s decision earlier this year to finally adopt our long-standing policy of extending free school meals to all children in households in receipt of universal credit. At the time, Ministers repeatedly refused to confirm how they were funding this extension; research from Northumbria University now shows that, on average, every primary will have to find £11,000 and every secondary about £25,000 to do so, at a time when they are already cutting teaching assistants and extracurricular activities to balance the books. Given that the Secretary of State has made this policy and the rolling out of school breakfast clubs the centrepiece of her bid for deputy leadership of the Labour party, will she confirm when she is actually going to fund them?",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to the Liberal Democrat spokesperson for drawing attention to the fantastic Labour policies that this Government are rolling out. We are expanding free school meals to half a million more children, backed up with an extra £1 billion of funding through the spending review. That is the difference that a Labour Government are making. I am delighted that we now have 750 new free breakfast clubs, and that from April next year another 2,000 will open, reaching half a million more children, lifting children out of poverty and backing families. That is the difference a Labour Government make.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Tom Morrison (Cheadle) (LD)",
+   "member_id": 5090,
+   "type": "Contribution",
+   "text": "3. What steps her Department is taking to help improve the special educational needs and disabilities system in Cheadle.",
+   "name": "Mr Tom Morrison",
+   "party": "LD",
+   "seat": "Cheadle"
+  },
+  {
+   "who": "The Minister for School Standards (Georgia Gould)",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "As part of our plan for change, we are determined to improve the SEND system across the country so that every child has access to the best opportunities. We are committed to improving inclusivity and expertise in mainstream schools through the earlier identification of needs, as well as to ensuring that special schools cater to those with the most complex needs.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Morrison",
+   "member_id": 5090,
+   "type": "Contribution",
+   "text": "Paul and Ellie are children with special educational needs in a primary school in Bramhall. Their parents, like many across Cheadle, have reached out to me for help. Their SEND provision has been suddenly taken away. Paul and Ellie’s parents are now considering withdrawing them from mainstream schooling. Parentkind research shows that more than one in three parents of children with special educational needs say that their needs are not being sufficiently met. Paul and Ellie’s parents deserve much more certainty and clarity, so can the Minister confirm when they will bring forward the schools White Paper and, with it, the crucial information on the SEND reforms for anxious parents?",
+   "name": "Mr Tom Morrison",
+   "party": "LD",
+   "seat": "Cheadle"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "I have heard so many stories like Paul and Ellie’s, and I am so sorry about the experiences they have had. That is why it is so important that we are already taking action to invest in mainstream inclusion, to improve teacher training and to support early identification, and it is why we are investing £740 million to support schools to provide more specialist places. We are already taking that action, and we are working very closely with parents around the country, like Paul and Ellie’s, to bring forward a wider set of reforms.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Jo Platt (Leigh and Atherton) (Lab/Co-op)",
+   "member_id": 4673,
+   "type": "Contribution",
+   "text": "4. What steps her Department is taking to improve support for children with special educational needs and disabilities in mainstream schools.",
+   "name": "Jo Platt",
+   "party": "Lab/Co-op",
+   "seat": "Leigh and Atherton"
+  },
+  {
+   "who": "The Minister for School Standards (Georgia Gould)",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "By prioritising early intervention, training and inclusive support in mainstream schools, we are expanding the capacity to deliver timely, consistent and high-quality SEND provision. This will improve support for children and families. We are engaging with children, parents and experts about the challenges in the system and how we can work together to make sure that every child has the right support when they need it.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Jo Platt",
+   "member_id": 4673,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for visiting Golborne All Saints during the summer. As she saw, it is a shining example of inclusive education in action. As we mark ADHD Awareness Month, will the Minister outline the potential impact of the curriculum review on children with ADHD, and how that can become standard for all children with SEND, so that every child can thrive in a nurturing environment?",
+   "name": "Jo Platt",
+   "party": "Lab/Co-op",
+   "seat": "Leigh and Atherton"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "The Secretary of State was telling me just this morning what a wonderful visit she had to Golborne All Saints Catholic primary and pre-school, and about the amazing practice there. I read with interest the report from my hon. Friend’s constituents at her recent SEND roundtable. The review is looking closely at what affects children’s learning in mainstream schools, including those with SEND, ADHD and those without a formal diagnosis, making sure that every pupil can access a broad and balanced curriculum.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Sir Oliver Dowden (Hertsmere) (Con)",
+   "member_id": 4441,
+   "type": "Contribution",
+   "text": "Elstree village school in my constituency is an excellent example of a small and nurturing school that specialises in supporting children with special educational needs. Sadly, we have recently been informed that Hertfordshire county council is considering closing the school. Will the Minister join me in sending a clear message to Herts county council that they should reconsider that decision and prioritise the needs of children with special educational needs in mainstream schools?",
+   "name": "Sir Oliver Dowden",
+   "party": "Con",
+   "seat": "Hertsmere"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "I have been very clear that we want to invest in early intervention and nurturing provision for children with special educational needs. If the right hon. Member would send me more details of the case, I would be happy to look into it.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Ms Julie Minns (Carlisle) (Lab)",
+   "member_id": 5094,
+   "type": "Contribution",
+   "text": "I recently held two events, with professionals and with families, on the subject of SEND in my Carlisle constituency. Their concerns are very much backed up by figures that show that Cumberland is spending less per pupil on those with education, health and care plans, and that there are fewer specialist education places in and around Carlisle and north Cumbria than the rest of the country. Can the Minister tell me how I can work with the Department for Education to increase the number of specialist education places in my constituency?",
+   "name": "Ms Julie Minns",
+   "party": "Lab",
+   "seat": "Carlisle"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "One of the best parts of my new role has been getting letters from people across the House who have had conversations with their communities. They bring stories of challenges but also of some of the great practice that is happening around the country. I read my hon. Friend’s letter about those challenges with interest, and I am committed to working alongside her. As I set out, we have invested £740 million to increase the number of specialist places around the country. I look forward to a conversation about how that can benefit her constituency.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Lincoln Jopp (Spelthorne) (Con)",
+   "member_id": 5332,
+   "type": "Contribution",
+   "text": "The previous Schools Minister, the hon. Member for Newcastle upon Tyne North (Catherine McKinnell), was so excited to hear from me about Manor Mead special school in my constituency that she undertook to visit it. Sadly, she had to cancel that visit and has now clearly moved on to other things, so would the new Schools Minister like to visit Manor Mead special school and see the fantastic work being done there?",
+   "name": "Lincoln Jopp",
+   "party": "Con",
+   "seat": "Spelthorne"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "I am proud to follow on from the previous Schools Minister, and would be delighted to visit that school with the hon. Member.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Perran Moon (Camborne and Redruth) (Lab)",
+   "member_id": 5208,
+   "type": "Contribution",
+   "text": "On Friday, I attended a meeting in Cornwall of the National Association of Head Teachers. We discussed the adversarial nature of the SEND system for all stakeholders. As we develop a system that focuses on inclusion, does the Minister agree that a key indicator of its success must be that it drives out the combative environment that was allowed to flourish under 14 years of Conservative failure?",
+   "name": "Perran Moon",
+   "party": "Lab",
+   "seat": "Camborne and Redruth"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "My hon. Friend is absolutely right. I have spoken to too many parents who have had to fight so hard just to get the support that their children need. The support should be available when children need it, which is why we are so determined to invest in early intervention and to back parents to get the support they need.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Dame Caroline Dinenage (Gosport) (Con)",
+   "member_id": 4008,
+   "type": "Contribution",
+   "text": "The number of EHCPs being maintained by Hampshire county council is rising exponentially, but the funding is simply not keeping pace with the demand and the cost. Surprisingly, the proportion of pupils receiving SEND support in mainstream schools is going down, which demonstrates to me that teachers simply do not feel sufficiently supported to support those children. The last Government introduced the Oliver McGowan mandatory training in neurodivergence for all health and care professionals. I met the Minister’s predecessor to discuss introducing a similar programme for education professionals. Would the Minister look again at how that programme could support teachers who are struggling in some of the most difficult educational circumstances?",
+   "name": "Dame Caroline Dinenage",
+   "party": "Con",
+   "seat": "Gosport"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "The Government have invested an extra £1 billion into the high-needs block, and we have changed the teacher training package to ensure that it includes material on supporting children with special educational needs. The PINS programme—partnerships for inclusion of neurodiversity in schools—is working across the NHS and education to provide more training for teachers on neurodiversity. We are absolutely aware that teacher training is a huge issue and will continue to listen to ideas from both sides of the House.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Lloyd Hatton (South Dorset) (Lab)",
+   "member_id": 5217,
+   "type": "Contribution",
+   "text": "As I have made clear in this Chamber on numerous occasions, in my part of the world there are sadly far too few specialist school places for children with SEND. Headteachers across Weymouth and Portland have made clear to me that only with a new special school will we be able to deal with this problem. Given the urgent need, will the Minister work with me behind the scenes, by hook or by crook, to open a new SEND school at the Osprey Quay site in Portland in my constituency?",
+   "name": "Lloyd Hatton",
+   "party": "Lab",
+   "seat": "South Dorset"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "My hon. Friend has already reached out to me several times to advocate for his constituents and the importance of specialist places. I very much look forward to working with him to increase provision in his constituency.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Sarah Green (Chesham and Amersham) (LD)",
+   "member_id": 4918,
+   "type": "Contribution",
+   "text": "On Friday, I met primary schools in my constituency that are accommodating in their classrooms children who they are not set up for. One school had to convert its library for two children for whom the main classroom setting is overwhelming, and a second had to do the same for its IT department. What reassurance can the Minister give those teachers and schools that they will get the funding and resources they need to accommodate children with additional needs?",
+   "name": "Sarah Green",
+   "party": "LD",
+   "seat": "Chesham and Amersham"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "I have visited bespoke resource centres. I was recently in a resource centre in Southwark that provides that kind of brilliant provision. The £740 million we have set out is exactly to provide more specialist places that allow children to get the right support they need, often within mainstream schools and within their local communities.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the shadow Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Saqib Bhatti (Meriden and Solihull East) (Con)",
+   "member_id": 4818,
+   "type": "Contribution",
+   "text": "I welcome the Minister once again to her place. SEND is a huge issue for every parliamentarian in this House, but for months parents and children across the country have been left in the dark with no clarity as to how the Government will support children with special educational needs. There has been much speculation that EHCPs might be scrapped—speculation caused by the Labour Government—and the Minister gave no answers in the packed Westminster Hall debate before the recess. I wrote to her after that debate. That was over a month ago, and I have yet to receive a letter providing any clarity. Will she give clarity to the parents she speaks about, confirm when the White Paper might be published and tell us whether the Government will be amending the 2014 legislation and scrapping EHCPs?",
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "The previous Government had 14 years to deliver this reform. Where was any of this urgency when they were in power? I ran a council in which I saw every day the broken system we were left to operate—the one that the last Conservative Secretary of State for Education called “lose, lose, lose”. I can assure the hon. Gentleman that this is urgent for me. I have seen the problems and heard stories from across the House about the challenges that we face. We are determined to work with families, teachers and experts to get the reforms right and ensure that we do not make the mistakes that the previous Government made.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Dr Danny Chambers (Winchester) (LD)",
+   "member_id": 5304,
+   "type": "Contribution",
+   "text": "5. What steps her Department is taking to help improve the SEND system.",
+   "name": "Dr Danny Chambers",
+   "party": "LD",
+   "seat": "Winchester"
+  },
+  {
+   "who": "Kim Johnson (Liverpool Riverside) (Lab)",
+   "member_id": 4824,
+   "type": "Contribution",
+   "text": "7. What steps she plans to take to reform SEND provision.",
+   "name": "Kim Johnson",
+   "party": "Lab",
+   "seat": "Liverpool Riverside"
+  },
+  {
+   "who": "The Minister for School Standards (Georgia Gould)",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "As we have already heard today and in a packed Westminster Hall debate last month, too many children and families are being let down by the current SEND system. We want children to have support when they need it, without a battle. We are already investing in early intervention and early inclusion; there is new support for SEND in the early years and £740 million available for specialist places.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Dr Chambers",
+   "member_id": 5304,
+   "type": "Contribution",
+   "text": "In 2024, fewer than half of education, health and care plans were issued within the 20-week limit. Five months is a huge chunk of a child’s life, and parents of Winchester tell me every single week about how hard they have to fight to get the support that their child needs and is entitled to. What steps are the Government taking to ensure that EHCPs are issued in a timely manner?",
+   "name": "Dr Danny Chambers",
+   "party": "LD",
+   "seat": "Winchester"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "Parents and children should not have to wait for support; they should have it when they need it. We are working closely with councils with waiting lists to improve provision and, if necessary, to bring in specialist SEND advice. We will continue to push on that.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Kim Johnson",
+   "member_id": 4824,
+   "type": "Contribution",
+   "text": "I welcome the Minister’s response and the £740 million investment into the sector. However, although Liverpool has improved waiting times for EHCPs, there remains a shortage of specialist school places and necessary support. Some 8,000 children in Liverpool now require an EHCP—that figure has doubled over the past three years—but almost half of them are educated in mainstream schools that do not meet their needs. More children with SEND are excluded from school and sent into inadequate pupil referral units and alternative provision. What steps will the Government take to ensure that SEND reforms deliver real improvements for families in Liverpool Riverside, and that no child is excluded from education because of a lack of services?",
+   "name": "Kim Johnson",
+   "party": "Lab",
+   "seat": "Liverpool Riverside"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "I recently saw some brilliant specialist provision in a neighbouring Liverpool constituency, but I know that, for too many children in Liverpool and across the country, waiting lists are too long for them to get the support they need. That is why we have already started investing in early intervention. Where there are concerns about a local authority’s capacity to make improvements, we will help them to identify barriers and put in place an effective recovery plan. This year’s high needs funding increase will help mainstream and special schools with the cost of supporting pupils.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Dr Neil Shastri-Hurst (Solihull West and Shirley) (Con)",
+   "member_id": 5197,
+   "type": "Contribution",
+   "text": "I have spoken to many anxious parents whose children have not been in receipt of an EHCP or local authority funding but would historically have benefited from independent education provision because of their SEND needs. One of their concerns is that such provision can no longer be afforded because of the imposition of 20% VAT on those schools. On behalf of those parents, I implore the Government to look at that again and do a U-turn.",
+   "name": "Dr Neil Shastri-Hurst",
+   "party": "Con",
+   "seat": "Solihull West and Shirley"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "Would the Conservatives support cutting breakfast clubs? Would they support reducing the expansion of free school meals? Would they sack teachers? Those are some of the things being invested in because we made that decision. We are determined to provide support for children with special educational needs wherever they need it. We want children to be able to go to their local schools, but we will support them with their needs.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the Chair of the Education Committee.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Helen Hayes (Dulwich and West Norwood) (Lab)",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "My Committee’s recent inquiry on SEND found that, although support from health services is critical in enabling many children with special educational needs and disabilities to access education, health is often not represented at the table and there are no effective mechanisms to hold health services to account for the vital role that they play. What engagement does my hon. Friend the Minister have with her Department for Health and Social Care counterparts to ensure that health services play their full part in supporting and enabling children’s education?",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "I am grateful to my hon. Friend for her leadership of the incredibly detailed Education Committee report, which I read with interest. I know how much expertise went into that, and how many conversations there were with parents; there is so much rich information in it. I agree that the partnership with health is essential, and that is something I am focused on. To give children and young people the best opportunities, we must work across Government to support young people with special educational needs.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Anneliese Midgley (Knowsley) (Lab)",
+   "member_id": 5038,
+   "type": "Contribution",
+   "text": "6. What steps her Department is taking to ensure that it meets its target of two thirds of young people participating in higher-level learning.",
+   "name": "Anneliese Midgley",
+   "party": "Lab",
+   "seat": "Knowsley"
+  },
+  {
+   "who": "Mr Toby Perkins (Chesterfield) (Lab)",
+   "member_id": 3952,
+   "type": "Contribution",
+   "text": "14. What steps her Department is taking to ensure that it meets its target of two thirds of young people participating in higher-level learning.",
+   "name": "Mr Toby Perkins",
+   "party": "Lab",
+   "seat": "Chesterfield"
+  },
+  {
+   "who": "Linsey Farnsworth (Amber Valley) (Lab)",
+   "member_id": 5107,
+   "type": "Contribution",
+   "text": "18. What steps her Department is taking to ensure that it meets its target of two thirds of young people participating in higher-level learning.",
+   "name": "Linsey Farnsworth",
+   "party": "Lab",
+   "seat": "Amber Valley"
+  },
+  {
+   "who": "The Secretary of State for Education (Bridget Phillipson)",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Later today I will make a statement on our post-16 education and skills White Paper, which sets out measures to support this learning ambition. For too long, skills have not been taken seriously, and that stops with Labour. Our long-term plan for national renewal will unlock opportunity for our young people, and drive growth for our country with clearer pathways, stronger alignment, and a renewed partnership between Government and business.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Anneliese Midgley",
+   "member_id": 5038,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for her response. In Knowsley, while we are making progress with work from the council and organisations such as the Brilliant Club, we still fall below average for young people going into higher learning. Barriers remain to continuing education, and to developing skills for good jobs and good lives. Will she meet me to discuss how we can improve that?",
+   "name": "Anneliese Midgley",
+   "party": "Lab",
+   "seat": "Knowsley"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I know how passionate my hon. Friend is about securing better life chances and more opportunities for children across her constituency, and I would be more than happy to meet her to discuss that, whether it is through the expanded work that we are delivering in our schools to raise standards, opportunities for young people to get into vocational or technical education, or further measures in the White Paper that I will be setting out later this afternoon.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Perkins",
+   "member_id": 3952,
+   "type": "Contribution",
+   "text": "The construction skills hub in Staveley in my constituency is a great example of the value of apprenticeships, and this year 68 young people came straight out of school and started a new construction apprenticeship. Does my right hon. Friend agree that the only way we will be able to achieve the Government’s ambitious construction plans is by getting more people to take on a construction career? In welcoming the announcements that she is making, can she say what more she will do to ensure we get more young people into our construction industry?",
+   "name": "Mr Toby Perkins",
+   "party": "Lab",
+   "seat": "Chesterfield"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend is right, and I know he has championed this cause for many years to ensure there are strong vocational and technical routes, including into areas such as construction. Around 5,000 more construction apprenticeship places will be made available each year, thanks to our £140 million investment, but that investment comes with reform, such as new foundation apprenticeships to equip young people with the skills they need, and construction technical excellence colleges in every region, working together with business, to ensure that we are training the plasterers, the electricians and the bricklayers of the future. Those are fantastic careers with great prospects, and we must ensure that they are available to more young people, including in my hon. Friend’s community.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Linsey Farnsworth",
+   "member_id": 5107,
+   "type": "Contribution",
+   "text": "In my constituency of Amber Valley the David Nieper academy teaches employability skills in conjunction with local industry, and it has had zero NEETs—those not in education, employment or training—at age 18 for the past two academic years. Will the Secretary of State join me in congratulating its students and its staff, and will she commit to visiting, to see how by bringing the workplace into the classroom it celebrates both the academic and the vocational?",
+   "name": "Linsey Farnsworth",
+   "party": "Lab",
+   "seat": "Amber Valley"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "That is fantastic to hear, not least given the challenges that we still see with quite high levels across our country of young people who are not in employment, education or training. I and the Work and Pensions Secretary are determined to take action on that, and I would be more than happy to do my best to honour my hon. Friend’s request.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "After the creative reimagining of the Government’s target for hiring more teachers, it would be helpful to have some precision on the record for the target of two thirds of young people in higher learning. We know that higher learning means level 4 or above, but what exactly is a gold-standard apprenticeship? Does it mean one in growth sectors with very high levels of completion?",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Yes, that is one area. We are refocusing our target to ensure that there are strong technical and vocational routes for our young people, as well as the opportunity to go to university. Going to university remains a strong option for many young people who want that chance—I know Conservative Members have always been keen to do down our fantastic universities—but the big gap that we have as a country is around level 4 and level 5, especially in technical and vocational education. The right hon. Gentleman spent a long time in the Department for Education looking at that issue; this Government will tackle it.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Wera Hobhouse (Bath) (LD)",
+   "member_id": 4602,
+   "type": "Contribution",
+   "text": "Bath college offers more than 1,000 courses up to degree level and is home to 10,000 learners. Its alumni include gold medal winner Jason Gardener and drum and bass producer Danny Byrd. I heard the Secretary of State speaking this morning about the vital importance of vocational training. What can the Government do to support Bath college to expand its programmes and training courses?",
+   "name": "Wera Hobhouse",
+   "party": "LD",
+   "seat": "Bath"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Through the spending review, from next year we are investing £800 million in 16-to-19 funding. That funding will run alongside the many commitments in the White Paper that I will set out, around more foundation apprenticeships, new V-levels and better routes into technical and vocational opportunities for our young people, working closely with businesses in key areas such as defence, construction and engineering—but there is more to come.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Peter Bedford (Mid Leicestershire) (Con)",
+   "member_id": 5330,
+   "type": "Contribution",
+   "text": "Too many young people are being saddled with huge debts from universities with little to show by way of career prospects. There is a clear case for the Government to slash poor-value degrees and redirect the savings to the apprenticeship budget, doubling it to, say, £6 billion a year. Will the Secretary of State explain why she is allowing low-quality university courses to continue unchecked, while taxpayers write off billions of pounds every year in unpaid student loans?",
+   "name": "Mr Peter Bedford",
+   "party": "Con",
+   "seat": "Mid Leicestershire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "In my statement later today on the White Paper I will be setting out the action that we will be taking to ensure that the regulator, the Office for Students, has the power to ensure high-quality courses and good outcomes for young people going to university. The policy that the hon. Gentleman has just outlined was in the Conservative manifesto, which was roundly rejected by the British people and ridiculed for being financially illiterate, because the funding system simply does not work in that way. The message that I want to come across loud and clear from this Dispatch Box is that if young people have got what it takes and they have the qualifications to go to university, that is a good route for them. [ Interruption. ] They should not have their prospects and opportunities dismissed in such a casual and snobbish way by the Conservative party.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "Secretary of State, I do not cough for my benefit—it is to help you rather than me having to get up. I call the shadow Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Nick Timothy (West Suffolk) (Con)",
+   "member_id": 5062,
+   "type": "Contribution",
+   "text": "On higher-level learning, universities have spent at least £2.5 million since the attacks of 7 October on additional security for anti-Israel protests and the clean-up operations that follow, yet many of the disciplinary cases against those disrupting study have been dropped. Will the Secretary of State confirm how many students have been expelled or disciplined for causing criminal damage, inciting violence and chanting antisemitic abuse?",
+   "name": "Nick Timothy",
+   "party": "Con",
+   "seat": "West Suffolk"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Let me be absolutely clear: there is no place on our university campuses, in our schools or anywhere in our society for antisemitism, and I send that message loud and clear. That is the message that I have extended to university vice-chancellors, who should be in no doubt that we expect to see action on campus on this very serious issue. That is why we are putting more funding into training and support, including in our universities where we expect to see action, because there can be no excuse for Jewish students feeling unsafe on campus. Freedom of speech does not mean people have a right to harass or intimidate Jewish students, and university vice-chancellors should be in no doubt that they have a responsibility to act to safeguard the wellbeing of all students.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Jonathan Brash (Hartlepool) (Lab)",
+   "member_id": 5045,
+   "type": "Contribution",
+   "text": "8. What plans she has for the free school application decisions that were paused in October 2024.",
+   "name": "Mr Jonathan Brash",
+   "party": "Lab",
+   "seat": "Hartlepool"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Josh MacAlister)",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "The Government’s spending watchdog reported in 2017 that planned free schools would add an estimated 57,500 more spare school places. We are taking a common-sense approach, so that we can prove value for money from every pound of taxpayer money spent.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Mr Brash",
+   "member_id": 5045,
+   "type": "Contribution",
+   "text": "Residents in Wynyard, in my Hartlepool constituency, have waited for far too long, thanks primarily to the mess left by the Conservative party, for their new primary school, St Joseph’s, which has been caught up in this review. Understandably, parents are frustrated by the continued delays, so will the Minister commit to using every possible lever at his disposal to expedite the decision, so that Wynyard families can finally have access to the high-quality school provision that they have been promised for so long?",
+   "name": "Mr Jonathan Brash",
+   "party": "Lab",
+   "seat": "Hartlepool"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "My hon. Friend has been a vocal champion for St Joseph’s Catholic primary school since he entered this place last year. I want every child in the country to go to school in an appropriate building. His community wants certainty, and that is what we want too. An update will be provided later this year, and I would be happy to speak to him before that time.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "I thank the Minister very much for his answers, and I thank the hon. Member for Hartlepool (Mr Brash) for setting the scene so very well. We in Northern Ireland are very keen to learn from the education system here. I believe that the Education Minister from the Northern Ireland Assembly—he is a colleague in my party, by the way, so I understand his interests in these matters—will be keen to listen to and hear the suggestion put forward by the Minister. Will the Minister share his ideas for Hartlepool with us in Northern Ireland to ensure that we can all benefit in this great United Kingdom of Great Britain and Northern Ireland?",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "In another part of my brief, I am already in touch with Ministers in devolved nations regarding children’s social care, and I would be very happy also to share wider learning from the school rebuilding programme.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the shadow Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Nick Timothy (West Suffolk) (Con)",
+   "member_id": 5062,
+   "type": "Contribution",
+   "text": "One year ago, the Education Secretary paused plans to open 44 approved free schools. In January, she said that she was “working rapidly” to make a decision. That was nine months ago—enough time to make a baby, but not enough time for her to make up her mind. When will our Ministers tell those free school founders—among whom are some of the best education leaders in the country—if they can open great new schools?",
+   "name": "Nick Timothy",
+   "party": "Con",
+   "seat": "West Suffolk"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "There is a choice here. We are debating how the Government, within only a few months of being elected, are making big progress across the education system. That includes big decisions made at fiscal events to invest capital into programmes such as this one, which at every opportunity the Conservatives have failed to support. We are able to make these decisions to improve our school estate only because of the decisions made at fiscal events.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Sarah Owen (Luton North) (Lab)",
+   "member_id": 4777,
+   "type": "Contribution",
+   "text": "9. When the British Sign Language GCSE will be available in schools.",
+   "name": "Sarah Owen",
+   "party": "Lab",
+   "seat": "Luton North"
+  },
+  {
+   "who": "The Minister for School Standards (Georgia Gould)",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "This is a really important qualification that is a step forward in opening up British Sign Language. However, the GCSE is a new qualification, and a lot of work is going into ensuring that the new assessment works for a wide range of students. Ofqual has consulted on its proposed assessment arrangements and expects to publish its final qualification rules this autumn.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Sarah Owen",
+   "member_id": 4777,
+   "type": "Contribution",
+   "text": "[In British Sign Language: I thank the Secretary of State for her commitment to introducing a GCSE in BSL.] Beyond qualifications, what work is being done to ensure that deaf children and their whole families can access BSL teaching without cost, especially in the early years, when their deaf babies’ brains are developing language skills?",
+   "name": "Sarah Owen",
+   "party": "Lab",
+   "seat": "Luton North"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for her question and her passion for opening opportunities for deaf children. I hope she can support me to be able to answer questions in kind at future oral parliamentary questions. Funding is available through the adult skills fund for qualifications focusing on British Sign Language up to and including level 2. I welcome the opportunity to meet my hon. Friend to discuss this issue further.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Matt Vickers (Stockton West) (Con)",
+   "member_id": 4844,
+   "type": "Contribution",
+   "text": "10. What steps her Department is taking to support vocational training for people aged under 19.",
+   "name": "Matt Vickers",
+   "party": "Con",
+   "seat": "Stockton West"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Josh MacAlister)",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "We have cut red tape, put in record investment and tilted the system in favour of young domestic talent, and the proof is in the pudding. Apprenticeship starts, participation and achievement are up, up, up under this Government.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Matt Vickers",
+   "member_id": 4844,
+   "type": "Contribution",
+   "text": "Using funding delivered by the last Conservative Government, work is under way to deliver an incredible, brand new, purpose-built vocational training centre for the Neta Training Group in Stockton. It will offer youngsters the chance to get great skills and jobs. Does the Minister agree that we should be capping any debt-trap degree courses that fail to deliver employment opportunities and instead increasing the apprenticeship budget—maybe even doubling it—to give young people career-focused routes to success?",
+   "name": "Matt Vickers",
+   "party": "Con",
+   "seat": "Stockton West"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "This is where I think the last Government got it wrong. We can be pro-further education, pro-technical education and pro-higher education; there is absolutely no need to trade them off against one another. Under this Government, we have 120,000 new training opportunities, up to 30,000 foundation apprenticeship starts and an unprecedented £3 billion being invested in apprenticeships. It is great that the hon. Member and his constituents in Stockton are benefiting from that.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Mr Calvin Bailey (Leyton and Wanstead) (Lab)",
+   "member_id": 5054,
+   "type": "Contribution",
+   "text": "Last week, I met representatives of Centrepoint. They highlighted that some 2,800 young people in my constituency are not in education, employment or training, despite having extensive STEM skills and a real drive to participate in that part of the economy. Connecting those young people with existing opportunities is a major challenge, and I would like to hear how such opportunities are being created through the exciting propositions of technical colleges and, perhaps, V-levels. What work is being done to ensure that those things are accessible to young people in constituencies such as mine?",
+   "name": "Mr Calvin Bailey",
+   "party": "Lab",
+   "seat": "Leyton and Wanstead"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "My hon. Friend is right to highlight this issue. A million young people in this country are not in education, employment or training, which is a moral stain that the Government are absolutely committed to doing everything they can to address. The future of our skills system sits right at the heart of that effort, and I encourage my hon. Friend to be in the Chamber for the statement later today to hear what the Government’s further plans are.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Liam Conlon (Beckenham and Penge) (Lab)",
+   "member_id": 5132,
+   "type": "Contribution",
+   "text": "12. What steps she is taking to help increase the affordability of childcare.",
+   "name": "Liam Conlon",
+   "party": "Lab",
+   "seat": "Beckenham and Penge"
+  },
+  {
+   "who": "Alice Macdonald (Norwich North) (Lab/Co-op)",
+   "member_id": 5133,
+   "type": "Contribution",
+   "text": "17. What steps she is taking to help increase the affordability of childcare.",
+   "name": "Alice Macdonald",
+   "party": "Lab/Co-op",
+   "seat": "Norwich North"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "Welcome, Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Olivia Bailey)",
+   "member_id": 5337,
+   "type": "Contribution",
+   "text": "As it is my first time at the Dispatch Box, I want to thank my hon. Friend the Member for Portsmouth South (Stephen Morgan), and say what an honour it is to build on his work to give every child the best start in life. This Government have delivered a record expansion of childcare, saving working parents £7,500 a year, and we are working with our fantastic private, voluntary, and independent sector and new school-based nurseries to ensure that this expanded provision reaches every eligible family.",
+   "name": "Olivia Bailey",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Liam Conlon",
+   "member_id": 5132,
+   "type": "Contribution",
+   "text": "I thank the Minister for her response and welcome her to her place. I recently had the pleasure of welcoming my right hon. Friend the Education Secretary to St Anthony’s Catholic primary school in Penge, where we saw preparations for the opening of its new school-based nursery. St Anthony’s is one of two schools in my constituency of Beckenham and Penge to be awarded money for school-based nurseries in the first round of funding, the other being Oak Lodge Primary in West Wickham. Does the Minister agree that school-based nurseries such as these are essential for providing the high-quality places we need and, crucially, for tackling early childhood inequalities and closing the attainment gap before children start school?",
+   "name": "Liam Conlon",
+   "party": "Lab",
+   "seat": "Beckenham and Penge"
+  },
+  {
+   "who": "Olivia Bailey",
+   "member_id": 5337,
+   "type": "Contribution",
+   "text": "I do agree with my hon. Friend, and I congratulate St Anthony’s and Oak Lodge, as well as my hon. Friend for being a tireless champion for his constituents. This Government have delivered 5,000 places at new school-based nurseries this year alone, with 7,000 more to come next September. I encourage Members across the House to get their local schools to apply for a phase 2 grant.",
+   "name": "Olivia Bailey",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Alice Macdonald",
+   "member_id": 5133,
+   "type": "Contribution",
+   "text": "As the Minister has said, nurseries are an important part of the childcare picture. Last month, I visited Mousehold infant and nursery school, which—thanks to the funding it has received from this Government—has been able to double the number of places it offers to families in Norwich North. The team there told me how this will make a real difference, as did families. Will the Minister join me in thanking the fantastic team at Mousehold, and expand a bit further on the steps being taken to ensure that more provision like this is accessible to families in my constituency and beyond?",
+   "name": "Alice Macdonald",
+   "party": "Lab/Co-op",
+   "seat": "Norwich North"
+  },
+  {
+   "who": "Olivia Bailey",
+   "member_id": 5337,
+   "type": "Contribution",
+   "text": "Absolutely—I thank the brilliant team at Mousehold, who are so dedicated to giving every child the help and support they need. This Government want every child to have the best start in life, which is why we have expanded childcare entitlements, are supporting schools to open new nurseries, and—after the Conservative party dismantled them—are bringing back family hubs in every community in our country.",
+   "name": "Olivia Bailey",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Vikki Slade (Mid Dorset and North Poole) (LD)",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "My constituent Seb told me how pleased he was when the Government extended the role of free childcare, but his nursery changed the rules so that the free hours can be taken only after 1 o’clock and have to be spread over four days a week. That means that the previously paid-for care is not now free, but costing £500 more than before. We know that this is happening across the country as nurseries struggle with the jobs tax and other excessive costs, so what are the Government going to do to help those families get what they are entitled to?",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Olivia Bailey",
+   "member_id": 5337,
+   "type": "Contribution",
+   "text": "I encourage the hon. Lady to write to me with the details of that case, because we are absolutely clear that in this rapid expansion of childcare—which half a million children have been able to access this September—those 30 hours should be available, and it should not be the case that extras are charged or anything else. I am happy to look at the specifics of the case.",
+   "name": "Olivia Bailey",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Graham Stuart (Beverley and Holderness) (Con)",
+   "member_id": 1482,
+   "type": "Contribution",
+   "text": "The Minister is new to the Dispatch Box, so perhaps we can forgive her for suggesting that the Conservatives cut the number of family hubs, since we invented them. Focusing on the issue of cost and moving away from primary schools, private providers are finding that the jobs tax and other hits are making it more and more difficult to pay the bills and ensure that that entitlement—which we all want to see given to parents—is delivered. Can I invite the hon. Lady to give any reflections from her early days as a Minister on how we can deliver that? Can she reach out to those in the Treasury and elsewhere to make them understand the ecosystem in which those providers sit?",
+   "name": "Graham Stuart",
+   "party": "Con",
+   "seat": "Beverley and Holderness"
+  },
+  {
+   "who": "Olivia Bailey",
+   "member_id": 5337,
+   "type": "Contribution",
+   "text": "Sure Start was one of the greatest successes of the last Labour Government, and it drove significant improvements for our children. The Conservative party systematically dismantled that across our country, with significant negative consequences for our children and young people. When this Government say that we are prioritising early years, we are putting our money where our mouth is—unlike the Conservatives, who had a pledge with absolutely no plan—with £8 billion this year and £9 billion next year to expand childcare and give every child the best start in life.",
+   "name": "Olivia Bailey",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Manuela Perteghella (Stratford-on-Avon) (LD)",
+   "member_id": 5122,
+   "type": "Contribution",
+   "text": "T1. If she will make a statement on her departmental responsibilities.",
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon"
+  },
+  {
+   "who": "The Secretary of State for Education (Bridget Phillipson)",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "The launch of Labour’s best start in life campaign last week marked a watershed moment. The Conservatives slashed family services, leaving children and families across our country without support, but Labour is building back that support, reviving Sure Start for a new generation. It is more than just the Best Start adverts that people have seen on the telly and heard on the radio; it is bricks and mortar, too. From Derbyshire to Darlington, and from Staffordshire to Swindon, Labour is giving local authorities the funding they need to open Best Start family hubs, so that community services are truly nationwide once again. Labour demands the best start in life for children growing up in our country. That is how we will get a record share of children school-ready. That is the difference that a Labour Government make.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Manuela Perteghella",
+   "member_id": 5122,
+   "type": "Contribution",
+   "text": "I declare that I used to work as a university lecturer before being elected. One of my constituents has already paid nearly £500 for their French visa, just to be able to undertake their year abroad as part of their degree. These costs will exclude students from disadvantaged backgrounds from vital international opportunities. Will the Secretary of State meet me to discuss the excessive visa costs faced by British students undertaking international placements?",
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "If the hon. Lady would be so kind as to provide me with some information and more details, I will happily ensure that she gets a proper response.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Jim Dickson (Dartford) (Lab)",
+   "member_id": 5223,
+   "type": "Contribution",
+   "text": "T3. We recently had brilliant news in Dartford for young people in the constituency and across the region, with North Kent college designated as a technical excellence college, with a focus on transforming construction training. That is perfect for the lower Thames crossing just coming on stream. The college, however, is full to the brim and wants to expand. Will the Minister look at how colleges such as North Kent can gain access to crucial capital to enable them to expand?",
+   "name": "Jim Dickson",
+   "party": "Lab",
+   "seat": "Dartford"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I join my hon. Friend in congratulating the fantastic team at North Kent college on all their hard work, and congratulate him on his championing of great vocational and technical routes for our young people. The Government have committed £80 million of capital funding to construction technical excellence colleges. We will also be investing a further £375 million over four years to provide additional places for 16 to 19-year-olds. I will be saying more on that shortly, and I am happy to discuss it further with my hon. Friend.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the shadow Secretary of State.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Laura Trott (Sevenoaks) (Con)",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "The Education Secretary talks about wanting to improve outcomes for white working-class boys, yet disadvantaged children in Wales are being failed by the very model that she wants to introduce here in England. Is it not the case that the best thing she can do for white working-class pupils is to stop her school reforms?",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I do not know how the right hon. Lady has the brass neck. For 14 years, we saw groups in our— [ Interruption. ]",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "Order. I have got to get all these people in during topicals. Having a private conversation as the Secretary of State tries to answer the question does not help.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "The Conservatives had 14 years. We take this issue seriously, because we know that far too many children in our country from white working-class communities do not get the outcomes they deserve. A little humility on the Conservatives’ part would go a long way.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Laura Trott",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "What we did for 14 years was improve school standards. Not content with destroying standards, this afternoon the Secretary of State will, according to media reports, introduce a new lower-level qualification targeted at white working-class pupils. That is simply watering down standards for some of our most deprived children. Will the Secretary of State confirm that under this Government, the soft bigotry of low expectations is back?",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "It is absolutely nothing of the sort. What we inherited was a systematic failure of white working-class kids and children with special educational needs and disabilities in our country. I read the right hon. Lady’s conference speech with great care, and I looked out in that speech for any mention of children with SEND, of children with additional needs or, indeed, of some of the groups she has been talking about this afternoon. She had nothing to say on the topic. It is the usual confected outrage that has become the right hon. Lady’s hallmark.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Catherine Atkinson (Derby North) (Lab)",
+   "member_id": 5143,
+   "type": "Contribution",
+   "text": "T4. I was delighted to welcome the Education Secretary to St Mary’s Catholic primary school in Derby, the greenest school in the country, where every classroom looks out on to green spaces. We are also lucky to have the stunning River Derwent flowing through our city, which children can paddle, walk and row along. What assessments have been made of the benefits to children of having access to nature as part of their education?",
+   "name": "Catherine Atkinson",
+   "party": "Lab",
+   "seat": "Derby North"
+  },
+  {
+   "who": "The Minister for School Standards (Georgia Gould)",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "That sounds idyllic, and I hope I can follow the Secretary of State on a visit to that beautiful school. Improving connection to nature helps to address key priorities in the opportunity mission, and we are supporting the University of Oxford’s assessment of the impact of nature-based programmes in secondary schools.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the Liberal Democrat spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "Esther Ghey, the mother of Brianna Ghey, is in Parliament today, campaigning to keep phones out of the classroom. Given that young people themselves are saying that they want a “break from the stress” of social media at school, and given the impact of phones on children’s concentration and focus, will the Secretary of State finally listen to her own Children’s Minister and put the Government’s guidance on mobile phones in schools into law, to give teachers and headteachers the back-up and, crucially, the resources that they need in order to restrict their use?",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I too have met Esther Ghey, and heard from her about the incredible work that she has been leading in the face of profound personal tragedy following the loss of her daughter. I pay tribute to her for her campaigning efforts. Phones should not be out in schools—it is as simple as that. Schools have the powers, and headteachers have the powers, to enforce restrictions on their use, and in doing so they have my full backing. We can have no distractions when it comes to mobile phone use in our schools.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sarah Coombes (West Bromwich) (Lab)",
+   "member_id": 5088,
+   "type": "Contribution",
+   "text": "T6. Five primary schools in Sandwell now have free breakfast clubs, including St Mary Magdalene, which I visited earlier this year, and I was delighted to hear the Secretary of State announce that 2,000 more primary schools would benefit next year. Can the Minister say more about how the free breakfast clubs in primary schools that Labour has introduced are helping children and families across our country?",
+   "name": "Sarah Coombes",
+   "party": "Lab",
+   "seat": "West Bromwich"
+  },
+  {
+   "who": "The Minister for Equalities (Olivia Bailey)",
+   "member_id": 5337,
+   "type": "Contribution",
+   "text": "Breakfast clubs give children a great start to the day. They drive improvements in behaviour, attendance and attainment, and they can save families up to £450 a year. I congratulate my hon. Friend and the schools in her constituency on their efforts, and I look forward to more and more children benefiting as we continue our roll-out.",
+   "name": "Olivia Bailey",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Andrew George (St Ives) (LD)",
+   "member_id": 227,
+   "type": "Contribution",
+   "text": "T2. I acknowledge that the Government have inherited local government finance and SEND requirements in what is probably their worst crisis in history. However, Cornwall has faced one of the steepest—indeed, the steepest—demands for education, health and care plans in recent years, and one of the greatest SEND needs, as well as one of the lowest levels of high-needs funding. Would the Schools Minister be prepared to meet me, along with fellow MPs from Cornwall and representatives of the local education department, in order to avoid further crises?",
+   "name": "Andrew George",
+   "party": "LD",
+   "seat": "St Ives"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "The Government have put £1 billion into the high-needs block to support children with special educational needs, but I want to hear from Members from around the country about their ideas for reforms, and I am happy to meet the hon. Member and colleagues.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Peter Swallow (Bracknell) (Lab)",
+   "member_id": 5165,
+   "type": "Contribution",
+   "text": "T7. Let me first declare that I chair the all-party parliamentary group for schools, learning and assessment and the APPG on social mobility. Businesses, schools and young people in Bracknell Forest all tell me that essential skills such as financial, digital and media literacy, creative problem-solving, communication and collaboration are more important than ever, but are not formally recognised or measured. How can we help young people to succeed by developing and recognising those essential skills?",
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "I look forward to working with the APPG. We agree that we need to equip young people with key knowledge and skills to adapt to a rapidly changing world, and the curriculum and assessment review will say more about the wider curriculum.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Clive Jones (Wokingham) (LD)",
+   "member_id": 5207,
+   "type": "Contribution",
+   "text": "T5. According to a survey carried out by campaigners from the adoption and special guardianship support fund, just 40% of respondents believed that the previous £5,000 fair access limit was sufficient to meet their children’s needs. Following its reduction to £3,000, 71% reported a reduction in the number of therapy sessions. What will the Minister do, as a matter of urgency, to address the detrimental impacts of the changes to the ASGSF?",
+   "name": "Clive Jones",
+   "party": "LD",
+   "seat": "Wokingham"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Josh MacAlister)",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for that important question. This is National Adoption Week, which I am sure Members across the House will want to celebrate, recognising the importance of adoption and the need to fill the adoption gap—about 1,500 adoptive parents for children are being waited for at the moment. We are looking at the future of the adoption and special guardianship support fund, which provides essential support, and we have tried to ensure that the scheme is accessible to as many families as possible.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "Order. Can I say to those on the Front Bench that when I start coughing and shaking my head, I am trying to move you along, not indicating that you should carry on? I think I am getting my signals wrong.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Liam Conlon (Beckenham and Penge) (Lab)",
+   "member_id": 5132,
+   "type": "Contribution",
+   "text": "T8. I recently met dedicated parents from my constituency who choose to home-educate their children. They raised questions about duties on parents and providers to report details of their children’s education and recreational activities included in the Children’s Wellbeing and Schools Bill. Could the Minister reaffirm his support for home-education families and meet me, so that we can provide clarity for these parents?",
+   "name": "Liam Conlon",
+   "party": "Lab",
+   "seat": "Beckenham and Penge"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "England is an international outlier by not requiring the registration of electively home-educated children, and we are remedying that with the Bill’s measures. Information on non-educational activities will not be required for inclusion in the registers. I will happily meet my hon. Friend to discuss this further.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Claire Young (Thornbury and Yate) (LD)",
+   "member_id": 5140,
+   "type": "Contribution",
+   "text": "Time and again in my constituency surgeries, I hear stories of children’s needs going unrecognised and unsupported for years. Given the aim of increasing mainstream inclusion, what are the Government doing to ensure that all teachers receive comprehensive SEND training?",
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "Teacher training is an incredibly important part of mainstream inclusion and, from this September, we have changed the core teacher training to ensure that it includes SEND content. We are also supporting early years provision to have specialist SEND support, alongside the wider work to support mainstream inclusion.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Luke Akehurst (North Durham) (Lab)",
+   "member_id": 5112,
+   "type": "Contribution",
+   "text": "T10. Sacriston academy, a primary school in my constituency, has ceilings held up by scaffolding joists. The classrooms, built in 1910, are unusable due to water penetration through the ceilings and walls. Can the Minister say when the funding might be available to repair the school, after 14 years of Tory neglect?",
+   "name": "Luke Akehurst",
+   "party": "Lab",
+   "seat": "North Durham"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for his advocacy for his constituents and for the school concerned. A number of schemes are available that may be able to support the school with the situation it faces, and I would be happy to speak to him further about that.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Sir Julian Lewis (New Forest East) (Con)",
+   "member_id": 54,
+   "type": "Contribution",
+   "text": "The Arts and Humanities Research Council receives £70 million in public money to fund postgraduate research. What mechanism and powers does the Secretary of State have to check that such substantial funds are not squandered on politically tendentious projects, such as those exposed by Laurence Sleator on page 27 of The Times on Saturday? Will she perhaps take a look at the article and write to me?",
+   "name": "Sir Julian Lewis",
+   "party": "Con",
+   "seat": "New Forest East"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "I am sure that we would be happy to look at the article, but the last thing that people outside this building want is politicians deciding what research should be done, in the same way as we do not want judges being appointed by politicians in this House either.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Jessica Toale (Bournemouth West) (Lab)",
+   "member_id": 5202,
+   "type": "Contribution",
+   "text": "Last week I visited Oak academy’s new building—a net zero, solar-powered, inspiring environment for young people. I would love young people across my constituency, and across the rest of the country, to have the opportunity to learn in such environments, so can the Secretary of State tell me what her Department is doing to improve the environmental performance of our schools?",
+   "name": "Jessica Toale",
+   "party": "Lab",
+   "seat": "Bournemouth West"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "My hon. Friend has been a very effective champion for Bournemouth on these matters. St Joseph’s school in her constituency is benefiting already from solar and other measures, thanks to the partnership with Great British Energy. It is projected to save the school £8,000 a year, which could be spent on extra support for pupils and teachers.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Shockat Adam (Leicester South) (Ind)",
+   "member_id": 5120,
+   "type": "Contribution",
+   "text": "Over 50% of parents of children who have special educational needs have admitted to neglecting their own health because they are too busy prioritising the health of their children. What is the Minister doing to ensure that parents’ health and mental wellbeing are being prioritised in this very adversarial process?",
+   "name": "Shockat Adam",
+   "party": "Ind",
+   "seat": "Leicester South"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "I, too, have heard from too many parents who have had to give up their jobs or fall behind on their health, as the hon. Member has set out, because they are having to fight in a very adversarial system. We are determined to reform the system so that support is available at the earliest opportunity for young people, so that parents can collaborate with schools and are supported, and we are rebuilding the support around families.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Yuan Yang (Earley and Woodley) (Lab)",
+   "member_id": 5267,
+   "type": "Contribution",
+   "text": "Last month, I held a SEND community consultation in south-east Reading in my constituency, attended by over 60 parents, children and local experts. We all agreed that the current system is broken, and one of the young people, Megan, spoke about the feeling of being let down by the system and constantly fighting a never-ending battle. Does the Minister agree that too many children are in Megan’s position, and will she set out how the upcoming SEND White Paper will improve the lives of those children?",
+   "name": "Yuan Yang",
+   "party": "Lab",
+   "seat": "Earley and Woodley"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "I read with interest my hon. Friend’s report of that constituency conversation, which contained many creative ideas, and we are determined to work with young people and parents to get these reforms right.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Aphra Brandreth (Chester South and Eddisbury) (Con)",
+   "member_id": 5241,
+   "type": "Contribution",
+   "text": "Following the tragic murder of her daughter Brianna, Esther Ghey has dedicated herself to making our schools safer. I have just come from an event that she is hosting in Parliament, at which she is calling for a statutory ban on smartphones in classrooms. Will the Minister for Children and Families, the hon. Member for Whitehaven and Workington (Josh MacAlister), make time to attend today’s event and make it clear whether he supports a statutory phone-free education for all children?",
+   "name": "Aphra Brandreth",
+   "party": "Con",
+   "seat": "Chester South and Eddisbury"
+  },
+  {
+   "who": "Olivia Bailey",
+   "member_id": 5337,
+   "type": "Contribution",
+   "text": "I am absolutely happy to pop into the event this afternoon, and I applaud Esther Ghey for her fantastic campaigning work. The Government are completely clear that mobile phones should not be used in school, and the Government guidance says as much.",
+   "name": "Olivia Bailey",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Brian Leishman (Alloa and Grangemouth) (Ind)",
+   "member_id": 5196,
+   "type": "Contribution",
+   "text": "Colleges are the backbone of working-class communities such as mine in Clackmannanshire, but the funding model for colleges in Scotland is fundamentally broken because of SNP cuts. Will the Secretary of State write to her counterpart in the Scottish Government and highlight the importance of Alloa campus to the people of Clackmannanshire and the wider Forth valley, and stress that all Scottish colleges need to receive proper funding?",
+   "name": "Brian Leishman",
+   "party": "Ind",
+   "seat": "Alloa and Grangemouth"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am very grateful for that question. Here in England, we are investing more in brilliant further education colleges. It is such a shame that in Scotland the SNP Government are cutting that support. I have heard directly from my Scottish Labour counterpart, Pam Duncan-Glancy, about the devastating impact that is having on young people across Scotland.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Joe Robertson (Isle of Wight East) (Con)",
+   "member_id": 5255,
+   "type": "Contribution",
+   "text": "Schools on the Isle of Wight have some of the most serious challenges to levels of attainment. The Isle of Wight council is a small unitary authority with unique challenges in an area disconnected from the UK mainland. What will the Government do to better support education on the Isle of Wight, rather than resort to top-down education views that do not cater for the unique pressures faced by my constituents and our children?",
+   "name": "Joe Robertson",
+   "party": "Con",
+   "seat": "Isle of Wight East"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "We are determined to have high standards for children in every part of the country. I am very happy to talk to the hon. Member about his specific concerns for that community.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Jayne Kirkham (Truro and Falmouth) (Lab/Co-op)",
+   "member_id": 5279,
+   "type": "Contribution",
+   "text": "Mainstream schools in my constituency are taking steps to provide their own inclusive, in-house SEND provision. Penair secondary school has been creating a forest school on its land, and some of my heads have expressed their desire to create area resource base units in their schools. Does the Minister agree that such types of mainstream, inclusive provision could provide a way forward, and will she come down to Cornwall, maybe when she meets us, to see it?",
+   "name": "Jayne Kirkham",
+   "party": "Lab/Co-op",
+   "seat": "Truro and Falmouth"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "I have seen amazing examples of how this kind of provision can bring children back into mainstream classrooms and cause them to start to enjoy school and achieve again. I would be very happy to meet my hon. Friend and visit the school that has been set up.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Ian Roome (North Devon) (LD)",
+   "member_id": 5138,
+   "type": "Contribution",
+   "text": "I have visited many schools in North Devon, and many are facing the dilemma of whether to fund essential maintenance or to lay off teaching assistants. What is the Minister doing to ensure that adequate funding reaches rural schools so that they do not have to cut teaching staff in order to balance the books?",
+   "name": "Ian Roome",
+   "party": "LD",
+   "seat": "North Devon"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "I am happy to correspond with the hon. Member about the situation facing that school. In relation to school buildings, a number of schemes are available to provide support.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Chris Webb (Blackpool South) (Lab)",
+   "member_id": 5025,
+   "type": "Contribution",
+   "text": "In Blackpool, too many young people needing SEND placements have been sent outside the borough, often an hour away. There is a proposal on the table for two new SEND schools in Blackpool with 120 places, but it seems to be in limbo. Will the Minister agree to meet me to discuss this and how we can get adequate support for our great young people?",
+   "name": "Chris Webb",
+   "party": "Lab",
+   "seat": "Blackpool South"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "This Government want every child able to be educated in their community, not having to travel long distances. That is why we have set out the £740 million investment in specialist places. I am very happy to meet my hon. Friend to discuss the circumstances.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Lewis Cocking (Broxbourne) (Con)",
+   "member_id": 5050,
+   "type": "Contribution",
+   "text": "The Equality and Human Rights Commission has said that the Secretary of State needs to speed up publication of the guidance on single-sex spaces used by trans people in schools, so can the Secretary of State confirm that the guidance will be published before the conclusion of Labour’s deputy leadership contest, or will she continue to forsake female-only spaces for her own political ambitions?",
+   "name": "Lewis Cocking",
+   "party": "Con",
+   "seat": "Broxbourne"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I will happily answer the hon. Gentleman’s question directly, but he is a little confused about the question he is asking. The code of practice from the EHRC is about adults; it is not about schools. On the particular question of the code of practice from the EHRC, we received it at the start of September. It is a 300-page-plus document. We are considering it carefully. I required further material from the EHRC, which was provided only last week. It is utterly baseless to suggest that there is any going slow on what is a sensitive and important area that we must get right. As someone who used to run a women’s refuge, I know how important single-sex spaces are. I also know it is important that trans people continue to receive protection under the Equality Act 2010, free from prejudice, harassment and discrimination.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Dr Jeevun Sandher (Loughborough) (Lab)",
+   "member_id": 5259,
+   "type": "Contribution",
+   "text": "Under the previous Government, British parents had the highest childcare costs in Europe. Will the Minister please set out how the expansion of early years education is reducing the cost of living for hard-working British parents?",
+   "name": "Dr Jeevun Sandher",
+   "party": "Lab",
+   "seat": "Loughborough"
+  },
+  {
+   "who": "Olivia Bailey",
+   "member_id": 5337,
+   "type": "Contribution",
+   "text": "Happily. The average family will save £7,500 per child per year under this Government’s record expansion of childcare.",
+   "name": "Olivia Bailey",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Helen Morgan (North Shropshire) (LD)",
+   "member_id": 4934,
+   "type": "Contribution",
+   "text": "A serious fire at St Martin’s school in my constituency has left most of its secondary children without face-to-face education for nearly four weeks now. Will the Minister meet me to determine how we can ensure that the buildings are brought back into use as quickly as possible, and how the children can be brought back up to speed, so that they are not disadvantaged?",
+   "name": "Helen Morgan",
+   "party": "LD",
+   "seat": "North Shropshire"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "I would be very happy to have a discussion with the hon. Lady about the arrangements, to ensure that we can get students back into proper classrooms as soon as possible.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Alex Mayer (Dunstable and Leighton Buzzard) (Lab)",
+   "member_id": 5141,
+   "type": "Contribution",
+   "text": "A new school has been in the offing in Bidwell West for almost a decade now. The independent council promised me that places would be available from September 2027, but now appears to be backtracking. Is the Minister willing to meet me to discuss the obvious concerns of parents, many of whom moved into the new build estate because of the promise of a brand-new school?",
+   "name": "Alex Mayer",
+   "party": "Lab",
+   "seat": "Dunstable and Leighton Buzzard"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "I would be very happy to find out more about the situation my hon. Friend describes, and to offer any help or support that we can.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  }
+ ],
+ "fetched": "2026-10-21T20:27:13Z"
+}

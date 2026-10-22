@@ -1,0 +1,631 @@
+{
+ "ext_id": "B9A7306A-9101-4FCB-9997-2539B7A69164",
+ "date": "2025-06-19",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Water Safety Education",
+ "parents": [
+  "Commons Chamber"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2025-06-19/debates/B9A7306A-9101-4FCB-9997-2539B7A69164/WaterSafetyEducation",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Mr Deputy Speaker",
+   "seat": "Sir Roger Gale",
+   "member_id": 87
+  },
+  {
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen",
+   "member_id": 5270
+  },
+  {
+   "name": "Helena Dollimore",
+   "party": "Lab/Co-op",
+   "seat": "Hastings and Rye",
+   "member_id": 5192
+  },
+  {
+   "name": "Paul Holmes",
+   "party": "Con",
+   "seat": "Hamble Valley",
+   "member_id": 4803
+  },
+  {
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford",
+   "member_id": 4131
+  },
+  {
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon",
+   "member_id": 5216
+  },
+  {
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East",
+   "member_id": 4818
+  },
+  {
+   "name": "Anneliese Dodds",
+   "party": "Lab/Co-op",
+   "seat": "Oxford East",
+   "member_id": 4657
+  },
+  {
+   "name": "Monica Harding",
+   "party": "LD",
+   "seat": "Esher and Walton",
+   "member_id": 5299
+  },
+  {
+   "name": "Tessa Munt",
+   "party": "LD",
+   "seat": "Wells and Mendip Hills",
+   "member_id": 4089
+  },
+  {
+   "name": "Rebecca Long Bailey",
+   "party": "Lab",
+   "seat": "Salford",
+   "member_id": 4396
+  },
+  {
+   "name": "James Asser",
+   "party": "Lab",
+   "seat": "West Ham and Beckton",
+   "member_id": 5211
+  },
+  {
+   "name": "Julia Buckley",
+   "party": "Lab",
+   "seat": "Shrewsbury",
+   "member_id": 5171
+  },
+  {
+   "name": "Dr Lauren Sullivan",
+   "party": "Lab",
+   "seat": "Gravesham",
+   "member_id": 5269
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 467
+  },
+  {
+   "name": "Josh Newbury",
+   "party": "Lab",
+   "seat": "Cannock Chase",
+   "member_id": 5034
+  },
+  {
+   "name": "Claire Hughes",
+   "party": "Lab",
+   "seat": "Bangor Aberconwy",
+   "member_id": 5113
+  },
+  {
+   "name": "Lee Pitcher",
+   "party": "Lab",
+   "seat": "Doncaster East and the Isle of Axholme",
+   "member_id": 5233
+  },
+  {
+   "name": "Irene Campbell",
+   "party": "Lab",
+   "seat": "North Ayrshire and Arran",
+   "member_id": 5145
+  },
+  {
+   "name": "Phil Brickell",
+   "party": "Lab",
+   "seat": "Bolton West",
+   "member_id": 5128
+  },
+  {
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East",
+   "member_id": 5152
+  },
+  {
+   "name": "Maya Ellis",
+   "party": "Lab",
+   "seat": "Ribble Valley",
+   "member_id": 5228
+  },
+  {
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North",
+   "member_id": 5294
+  },
+  {
+   "name": "Luke Myer",
+   "party": "Lab",
+   "seat": "Middlesbrough South and East Cleveland",
+   "member_id": 5147
+  },
+  {
+   "name": "Steff Aquarone",
+   "party": "LD",
+   "seat": "North Norfolk",
+   "member_id": 5164
+  },
+  {
+   "name": "Jerome Mayhew",
+   "party": "Con",
+   "seat": "Broadland and Fakenham",
+   "member_id": 4739
+  },
+  {
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston",
+   "member_id": 4679
+  },
+  {
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards",
+   "member_id": 4125
+  },
+  {
+   "name": "Sir John Hayes",
+   "party": "Con",
+   "seat": "South Holland and The Deepings",
+   "member_id": 350
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Mr Deputy Speaker (Sir Roger Gale)",
+   "member_id": 87,
+   "type": "Contribution",
+   "text": "I call Darren Paffey to move the motion.",
+   "name": "Mr Deputy Speaker",
+   "seat": "Sir Roger Gale"
+  },
+  {
+   "who": "Darren Paffey (Southampton Itchen) (Lab) [R]",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "I beg to move, That this House has considered water safety education. May I begin by welcoming you to your place, Mr Deputy Speaker? I thank the Backbench Business Committee for granting me the opportunity to secure this debate and all hon. Members who supported the application for it. The debate is particularly poignant because this week we mark the Royal Life Saving Society’s national Drowning Prevention Week. It is a timely moment to speak not just of tragedy, but of our responsibility and of opportunity. Every year, over 300 people in this country drown, many of them just metres from safety. In the last three years alone, almost 150 children have lost their lives by drowning. That is the equivalent of five full classrooms of young people, their futures snatched away by accidents that in so many cases were preventable. As an island nation with coastlines, rivers, lakes and canals, we are surrounded by water. It is my privilege to represent the people of Southampton Itchen, a coastal constituency where we live alongside the River Itchen, Weston shore and Ocean Village marina, and the major port alongside Southampton water. The water makes our city what it is, but with that comes ",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Helena Dollimore (Hastings and Rye) (Lab/Co-op)",
+   "member_id": 5192,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for giving way and for raising the important issue of teaching children to swim. Like me, he represents a coastal community. Two years ago in Hastings and Rye, the Silverdale primary school pool closed. Many children and parents miss that facility, and hundreds of parents have joined me in supporting the campaign to get the school pool at Silverdale back open. Does he agree that we need an increase in school swimming lessons and facilities, not their rolling back?",
+   "name": "Helena Dollimore",
+   "party": "Lab/Co-op",
+   "seat": "Hastings and Rye"
+  },
+  {
+   "who": "Darren Paffey",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for making that salient point. I have no doubt that occurrences like the one we have heard about in her constituency are part of the reason why fewer children are now able to swim. I wish her every success in her campaign.",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Paul Holmes (Hamble Valley) (Con)",
+   "member_id": 4803,
+   "type": "Contribution",
+   "text": "I thank my constituency neighbour for giving way. I want to make a similar point to the hon. Member for Hastings and Rye (Helena Dollimore). A number of schools in my constituency have closed their pools over the past 20 years. When I grew up in Lewisham, I had access to a school pool. Does he agree that we need to work together on national policy to ensure that, although some school pools will still close, our young people can access their local leisure facilities at a discounted rate, through local government?",
+   "name": "Paul Holmes",
+   "party": "Con",
+   "seat": "Hamble Valley"
+  },
+  {
+   "who": "Darren Paffey",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "I thank my constituency neighbour for making that point. There is a great need to work in partnership. We simply do not have as many pools as we used to, be they local authority-run or within schools themselves, but we should be working towards either increasing the number where possible or sharing these vital resources in our communities. Added to those inequalities, there are ethnic inequalities. Statistically, black children are three times more likely to drown than white children. Water safety education cannot be left to chance or to postcode. It is a vital provision for every part of an island nation such as ours and should not depend on the lottery of family income, school funding or private access to lessons. Let me tell the House about Joe Abbess. Joe, from Sholing in Southampton, was a bright, responsible and fit 17-year-old young man. He was an ambitious trainee chef at the local college and worked part-time at Southampton football club. He was the kind of teenager that any parent would be proud of—someone who followed the rules and led by example. He was a caring and loyal friend, who was well known in his friendship group as the “dad” figure. On 31 May 2023, Joe and his",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "I commend the hon. Gentleman for securing this debate. He is right to bring up the issue of water safety education. Sometimes, even strong swimmers can unfortunately get into difficulties. Does he feel there is a role for Education Ministers and local councils to identify where the problems are, whether they are in the seas surrounding the United Kingdom or in our lakes? Unfortunately, some people have jumped into the lakes in my constituency without knowing there were obstructions in the water, to give one example. Does the hon. Gentleman feel that there should be greater partnership work between the Department and councils to identify those problems, so that those who go swimming know exactly what to watch out for?",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Darren Paffey",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "I thank the hon. Gentleman for the very relevant point he makes. I will come on to the issue of how we can ensure that education is locally targeted. Each of the situations we face in our constituencies will be that little bit different, so it is important that on top of a compulsory expectation there are locally targeted campaigns. We would not let someone drive a car without first passing their theory test, so why do not we comprehensively and consistently teach our children about water safety before they enter the water to have fun? This is not about taking away that fun; it is about being aware of the hidden threats, and therefore having the power to do something about it. I pay tribute to Joe’s mother, Vanessa Abbess, who I am pleased is present in the Gallery today. Ness has become a tireless campaigner, sending hundreds of letters to local schools, working with the Royal Life Saving Society and the Royal National Lifeboat Institution and pushing for improved signage in Bournemouth. She brought her powerful story to Parliament earlier this week, when we established the all-party parliamentary group on water safety education. Ness has done all that in the hope that no other fa",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Caroline Voaden (South Devon) (LD)",
+   "member_id": 5216,
+   "type": "Contribution",
+   "text": "Does the hon. Member agree that there is more to this than just teaching children to swim? Hope Cove Life Boat in my constituency saves about 60 people from drowning every year, and many of them have been swept out to sea because of wind and tides. Understanding the nature of the sea and how dangerous it can be is crucial. It is not just about knowing how to swim, but about knowing how to survive at sea.",
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon"
+  },
+  {
+   "who": "Darren Paffey",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "I fully agree with the hon. Lady. As I commended the emergency services that rushed to the scene on that fateful day in Bournemouth, I commend the project that she has mentioned in her constituency. In closing, no child should drown simply because they were not taught how to recognise the dangers. It is essential to teach children how to swim, yes, but it is not enough; we must teach them how to survive in different contexts. The coroner’s warning was chilling in its clarity: “Further deaths will occur unless action is taken.” So today I ask the Government please to act now and make classroom-based water safety education a compulsory part of the national curriculum, not an optional extra, not a postcode lottery, but a guaranteed lifesaving entitlement for every child in every school, in every constituency, in every part of the country. The time to act is now, before any more lives are lost.",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Mr Deputy Speaker (Sir Roger Gale)",
+   "member_id": 87,
+   "type": "Contribution",
+   "text": "Order. This is a very important subject. There are some 14 Members at least who wish to contribute to the debate. Allowing eight minutes each for the wind-ups and a couple of minutes for the hon. Gentleman who has just spoken, I think we are looking at a time limit of about five minutes each. I will not set a formal time limit at the moment, but if hon. Members try to stick to that, we should get everybody in.",
+   "name": "Mr Deputy Speaker",
+   "seat": "Sir Roger Gale"
+  },
+  {
+   "who": "Saqib Bhatti (Meriden and Solihull East) (Con)",
+   "member_id": 4818,
+   "type": "Contribution",
+   "text": "I take your steer on that, Mr Deputy Speaker. I thank the hon. Member for Southampton Itchen (Darren Paffey) for securing this debate, and I declare an interest as a new vice-chair of the all-party parliamentary group on water safety. Members will know that there will always be moments in our careers that will forever be etched in our memories. We can only hope that they are moments of joy, but sadly I am here to talk about a moment of tragedy. That moment was on 11 December 2022, which I will always remember. This moment of great tragedy impacted my constituents in Meriden and Solihull East. On that day, four young boys were playing near Babbs Mill Lake, which had been iced over. They were: Finlay Butler, eight years old; Samuel Butler, his brother, six years old; Thomas Stewart, 11 years old; and Jack Johnson, 10 years old. They were playing near the ice, feeding ducks. As the coroner later reported, Jack was with one group, and Finlay, Sam and Thomas were playing together with another group. One of the boys decided to go on to the ice. It was Finlay who fell in first, and then Thomas and Jack tried to help. Sadly, nobody saw Samuel fall in. The boys were shouting for help, but t",
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East"
+  },
+  {
+   "who": "Anneliese Dodds (Oxford East) (Lab/Co-op)",
+   "member_id": 4657,
+   "type": "Contribution",
+   "text": "I welcome you to your place, Mr Deputy Speaker. I am very grateful to my hon. Friend the Member for Southampton Itchen (Darren Paffey) for securing this debate. Water safety education is particularly important for my constituency of Oxford East, for several reasons. We have many bodies of water in Oxford, which can be very cold, as in many other constituencies, because of hidden depths; we also have, in many cases, poor access for rescue vehicles; and many of those bodies of water contain submerged obstacles. We also have in Oxford a young population that is exuberant and fun-loving. Of course that is a wonderful thing, but celebrations in my city too often turn to tragedy, as we saw most recently with promising student Wesley Akum-Ojong. I regrettably cannot mention every tragic case from Oxford, but I mention him because I understand that he had aspired to become Britain’s youngest Prime Minister, and I have to say that, judging by his many achievements, I do not think it would have been long before he would have been elbowing us out of the way. He was an incredible young man. I pay tribute to him, and to his friends and family, and to all those who have lost loved ones in my cit",
+   "name": "Anneliese Dodds",
+   "party": "Lab/Co-op",
+   "seat": "Oxford East"
+  },
+  {
+   "who": "Monica Harding (Esher and Walton) (LD)",
+   "member_id": 5299,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for Southampton Itchen (Darren Paffey) for securing this important debate today. As we have heard, every year in the UK, more than 200 lives are lost to accidental drowning. In fact, it claims more lives each year in the UK than house fires or cycling accidents. That must be a wake-up call. We have an opportunity and a responsibility in this House today to bring those numbers down. The problem is as clear as it is urgent: too many people grow up without being taught how to stay safe around water. Swimming must be a core life skill, as we have heard, and yet, according to the Royal Life Saving Society UK, one in three children leave primary school unable to swim properly. That statistic should concern us all. Of course, children from the most disadvantaged backgrounds are most likely to miss out. In other words, those at greatest risk are the least protected. This is not just about learning to swim, although that is essential; it is about knowing what to do when things go wrong—when someone panics, when cold water shock sets in and when every second counts. Every summer, every bank holiday and every heatwave, like this week, the risk increases. Rivers, lakes,",
+   "name": "Monica Harding",
+   "party": "LD",
+   "seat": "Esher and Walton"
+  },
+  {
+   "who": "Tessa Munt (Wells and Mendip Hills) (LD)",
+   "member_id": 4089,
+   "type": "Contribution",
+   "text": "I am greatly pleased that this debate is taking place. In my constituency and within Somerset and North Somerset—the whole of Somerset—there are 8,463 miles of rivers, reans and streams which, from Somerset, would take us as far as Singapore. That level of water coverage presents a danger not only for those who swim and need to be taught to swim, but for young people, who should understand very clearly what to do should the vehicle in which they are travelling goes into water. There are specific rules around how to save ourselves if the car or vehicle we are in goes into water. Does my hon. Friend have a comment about that?",
+   "name": "Tessa Munt",
+   "party": "LD",
+   "seat": "Wells and Mendip Hills"
+  },
+  {
+   "who": "Monica Harding",
+   "member_id": 5299,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for bringing attention to vehicles going into the water. In my constituency, the Thames provides our border with London, so it stretches along the entire constituency, and of course cars could go into the river. In areas like ours where rivers and open water are a daily part of life, it is essential that our children are taught how to be safe in the water. Would the Minister consider ensuring that water safety is integrated into the secondary school curriculum, so that every young person leaves school equipped with these essential skills for their safety? It is now—in a heatwave when GCSEs and A levels have just finished—that our children are most at risk. I know that because this week I sensed that my 16-year-old after finishing his GCSEs was going to do just that, and it took all my parental bribery, frankly, to ensure that he did not. Organisations like the Royal Life Saving Society, alongside the RNLI, provide expert guidance, from recognising dangerous currents and raising awareness of cold water shock to assisting people in distress in the river. By working with those partners, we can build a generation that is not only confident in the water, but capab",
+   "name": "Monica Harding",
+   "party": "LD",
+   "seat": "Esher and Walton"
+  },
+  {
+   "who": "Rebecca Long Bailey (Salford) (Lab)",
+   "member_id": 4396,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for Southampton Itchen (Darren Paffey) and the Backbench Business Committee for securing this important debate. I also thank Michael Wardle, who is a Royal Life Saving Society UK lifeguard, and his team at the Helly Hansen watersports centre in Salford for their dedication to saving lives in Salford. I had the pleasure of meeting them, and their passion for educating about water safety was inspiring. In Salford Quays, countless lives have tragically been lost as young people head to the water, unaware of the dangers within. It is a ship canal, so it is incredibly deep and littered with underwater obstacles. The area is now monitored by CCTV cameras and joint council and police patrols in hot weather. Under-18s caught jumping from bridges or illegally swimming will receive a police warning, and adults will be issued with a fixed penalty notice. But that still does not stop people crowding to the quays on days like today, looking to cool off or have fun with their friends. The sad thing is there are supervised open swimming areas in the quays—areas that can offer a safer swimming environment, but they are only open at limited times and are not free, ",
+   "name": "Rebecca Long Bailey",
+   "party": "Lab",
+   "seat": "Salford"
+  },
+  {
+   "who": "Paul Holmes (Hamble Valley) (Con)",
+   "member_id": 4803,
+   "type": "Contribution",
+   "text": "It is good to see you in the Chair, Sir Roger. I congratulate my hon. Friend the Member for Southampton Itchen (Darren Paffey) on securing the debate—he genuinely is an hon. Friend. We served together on Southampton city council, we have both been education lead members, and now we are constituency neighbours. I know that he consistently stands up for the great people of the great city of Southampton, and in particular the constituents he has mentioned today. I pay tribute to Joe’s mum for the work she has already done and the work she will do in future to make sure we lose fewer people on our waterways across the country. Although the hon. Member for Southampton Itchen and I share Southampton Water, which is the busiest part of the waterways around and into Southampton, I also have in my constituency the entirety of the River Hamble, which comes off Southampton Water. The River Hamble is internationally known as one of the most difficult rivers to navigate for our sailing and boating community. It is known as an international sailing hub but also as one of the most difficult tidal waterways to navigate across the world. We saw that, unfortunately, in 2020, early in my career here ",
+   "name": "Paul Holmes",
+   "party": "Con",
+   "seat": "Hamble Valley"
+  },
+  {
+   "who": "James Asser (West Ham and Beckton) (Lab)",
+   "member_id": 5211,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for Southampton Itchen (Darren Paffey) for securing the debate, and for all the extremely important work that he is doing on this issue. I extend my compliments to his constituent in the Gallery, who we heard at the APPG earlier in the week. Given the circumstances, her campaign is extremely brave, and her words were very inspiring, so I wanted to put my tribute to her on the record too. I come to this debate because of a situation that occurred within my constituency of West Ham and Beckton very recently, which received quite a lot of press publicity. I do not intend to go into the details—it is still a very fresh event—but I lost an 11-year-old constituent in the River Thames earlier in the spring. That was a huge trauma for her family, and I put on the record—I know the whole House will share in this— my deepest condolences to them. I also extend my congratulations and thanks to the emergency services, search and rescue, and actually local people who stepped in to try to help on that occasion, which obviously had a huge impact on the community too. This debate is very pertinent for my constituency because I am surrounded by water in east London:",
+   "name": "James Asser",
+   "party": "Lab",
+   "seat": "West Ham and Beckton"
+  },
+  {
+   "who": "Julia Buckley (Shrewsbury) (Lab)",
+   "member_id": 5171,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for Southampton Itchen (Darren Paffey) for securing this important debate. Shrewsbury is famous for being looped by the beautiful River Severn. It is a source of beauty, nature, tourism and livelihoods for my town, but also, unfortunately, the scene of 14 deaths in the last 10 years. Overwhelmingly, those deaths occurred at the weekends or in the evenings, by men, sometimes after a night out or because of mental ill health, and sometimes because of those two factors combined. In April 2022 there were two river deaths in quick succession: Toby Jones and Nathan Fleetwood. Those deaths brought the town together, to say that we had had too many such deaths and that we needed to look at the issue as a community to see what could be done. Our local stakeholders and councils came together and launched a water safety campaign. They set up the new Water Safety Action Group, funded by West Mercia Police. We set up safer route signage along the river; got funding for increased solar lighting and rescue throw lines; set up free online water safety courses for schools, colleges and clubs; and we had a poster campaign in pubs and clubs. My hon. Friend the Member",
+   "name": "Julia Buckley",
+   "party": "Lab",
+   "seat": "Shrewsbury"
+  },
+  {
+   "who": "Dr Lauren Sullivan (Gravesham) (Lab)",
+   "member_id": 5269,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for Southampton Itchen (Darren Paffey) for leading this debate on an incredibly important issue—one that is felt by myself and many constituents. It was only a few weeks ago, at the end of May, that two children entered the River Thames in Gravesend. One child was thankfully rescued, but one young girl tragically lost her life. It was an incredibly heartbreaking accident, and I pass on my deepest condolences to her family, her friends and the community. I cannot imagine the pain of their loss—similarly to so many Members who have shared their stories today. I place on record my gratitude to those who worked so hard in the efforts to save that young girl’s life and have supported our community through this difficult time, including the coastguard, the RNLI, the Port of London Authority, Kent police, the emergency services and the passerby who, on seeing that the young girl was in trouble, jumped in to try to save her; they did indeed save the little boy at that time. The work that these organisations do is commendable and invaluable to the residents of Gravesham, who are on the River Thames. The River Thames often looks calm and tranquil on its surf",
+   "name": "Dr Lauren Sullivan",
+   "party": "Lab",
+   "seat": "Gravesham"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "Order. Can I suggest that we have a four-minute time limit to get everybody in?",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Josh Newbury (Cannock Chase) (Lab)",
+   "member_id": 5034,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for Southampton Itchen (Darren Paffey) for securing today’s debate, particularly during Drowning Prevention Week. I will speak of not just the risks of wild and open-water swimming, but the enormous benefits that it can offer when done safely and responsibly. Specifically, I would like to address concerns about the lake at the former Shoal Hill quarry—which is in the neighbouring constituency of Stone, Great Wyrley and Penkridge—and about Chasewater reservoir. Although that reservoir falls within the constituency of my hon. Friend the Member for Lichfield (Dave Robertson), it is a much-loved site that is frequently used by many of my constituents, particularly those in my home village of Norton Canes. They feel a very strong sense of ownership over what was, for many years before a rebrand, known as the Norton pool. My hon. Friend had hoped to be here today, but due to constituency commitments, he has not been able to join us for this debate. However, he shares the concerns I will raise about Chasewater in his constituency. As the evenings grow longer and the days get warmer, places such as Shoal Hill quarry and Chasewater become popular destinatio",
+   "name": "Josh Newbury",
+   "party": "Lab",
+   "seat": "Cannock Chase"
+  },
+  {
+   "who": "Claire Hughes (Bangor Aberconwy) (Lab)",
+   "member_id": 5113,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for Southampton Itchen (Darren Paffey) for securing this important debate. It is a timely debate, particularly with the hot weather we are seeing and the number of people who will be going into the water this weekend. I am proud to represent the beautiful constituency of Bangor Aberconwy. It is coastal, scenic, and home to some of the most stunning beaches, lakes, rivers and waterfalls. These areas are rightly cherished by residents and visitors alike, but sadly people in my constituency know all too well the pain and devastation that is caused when something goes wrong. I do not think there will be a single person across my whole constituency whose life has not been touched at some point by a tragedy involving drowning. Those accidents and fatalities are obviously devastating, not just for the individuals, families and communities affected, but for the emergency services and organisations—including the coastguard, RNLI and mountain rescue teams—that are tasked with responding. So much of that painstaking work of search and rescue is carried out by volunteers who give up their time for free, and I want to put on record my thanks to them as well as ",
+   "name": "Claire Hughes",
+   "party": "Lab",
+   "seat": "Bangor Aberconwy"
+  },
+  {
+   "who": "Lee Pitcher (Doncaster East and the Isle of Axholme) (Lab)",
+   "member_id": 5233,
+   "type": "Contribution",
+   "text": "Sam Haycock is a name that most Members in the Chamber will not have heard before today, but it is my job to make sure that that 16-year-old’s legacy does not end four years ago, when he was swimming in a South Yorkshire reservoir with his friends. I want Sam’s name imprinted on everyone’s brain and etched in everyone’s heart today—not only in the name of Sam, but for his mum and for his dad, Simon, who came to Parliament yesterday and talked with me about my private Member’s Bill on water safety. I met Sam’s dad for the first time a couple of summers ago; that day at Thorne fire station, when many firefighters and service people were showing how to rescue someone safely from water, he handed me a picture of Sam. Sam’s dad does that work week in, week out, tirelessly. Yesterday I could see the anguish in his eyes still, because that call that he got will never go away. It makes such a difference to him to be able to go out and educate children and their families about swimming safely, the dangers and risks, and what learning about those dangers can mean for protecting lives in the future. Unfortunately, if we look back to 2023, there were another 236 or so Sams out there. That is 2",
+   "name": "Lee Pitcher",
+   "party": "Lab",
+   "seat": "Doncaster East and the Isle of Axholme"
+  },
+  {
+   "who": "Irene Campbell (North Ayrshire and Arran) (Lab)",
+   "member_id": 5145,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for Southampton Itchen (Darren Paffey) for securing this important debate. I declare an interest: earlier this month, I hosted an event by Future Lidos, a peer network across the UK and Ireland that is working together to bring outdoor swimming pools to more people in our communities. I am also chair of a local group called Splash, which is working to restore and reopen the outdoor tidal pool in the town of Saltcoats in my constituency. Lidos and outdoor pools provide a safe space and opportunity for people to learn to swim outdoors, and tidal pools get people used to swimming in cold water. I fully support the campaign to open more lidos throughout the UK, although we must make them affordable so that people can access them. Sadly, Scotland has the highest accidental drowning rate of all the UK nations—it is about three times the rate in England. The risk tends to increase with age, peaking in the 60 to 69 age group. Surprisingly, people who plan to go into the water are not always at the highest risk. It has been shown that accidents can occur among walkers and runners, who can slip into the water and drown, which is why it is vital that everyone",
+   "name": "Irene Campbell",
+   "party": "Lab",
+   "seat": "North Ayrshire and Arran"
+  },
+  {
+   "who": "Phil Brickell (Bolton West) (Lab)",
+   "member_id": 5128,
+   "type": "Contribution",
+   "text": "I pay tribute to my hon. Friend the Member for Southampton Itchen (Darren Paffey) for leading today’s debate. As many Members of this House will know, I am someone who spends many hours out and about on Britain’s rivers and lakes as a keen whitewater kayaker. Regardless of whether it is on moving water, along the coastline or in our lakes, spending time on and in our water is a tremendous joy, but it comes with risks. Regrettably, we have seen a number of tragedies in and around my constituency over the years. In 2014, Donna Greenall from Horwich in my constituency was sadly found drowned in Rivington reservoir. More recently, in April last year, 17-year-old Joseph Hold died after getting into difficulty in the River Croal in Bolton, having lost control of his canoe. We must learn from these incidents to prevent similar tragedies from happening again. With that in mind, I will make the case for further investment in education to unlock the immense potential of safely being in, on or near water. After all, we owe it to Donna, Joseph and everyone who has lost their lives to drowning, or who has lost loved ones, to continue making improvements to water safety awareness. Drowning remai",
+   "name": "Phil Brickell",
+   "party": "Lab",
+   "seat": "Bolton West"
+  },
+  {
+   "who": "Mrs Sureena Brackenridge (Wolverhampton North East) (Lab)",
+   "member_id": 5152,
+   "type": "Contribution",
+   "text": "Austerity hit access to swimming lessons, as evidenced by the fact that 35% of children from low-income families are able to swim 25 metres unaided compared with 82% from affluent families. Does my hon. Friend agree with me that mandatory requirements for swimming and water safety should be in the national curriculum for all primary schools?",
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East"
+  },
+  {
+   "who": "Phil Brickell",
+   "member_id": 5128,
+   "type": "Contribution",
+   "text": "I entirely agree with my hon. Friend’s remarks about improving education and how fundamental it is to do so. Indeed, I support calls from the Outdoors For All campaign to ensure our young children learn essential outdoor life skills such as risk-benefit assessment, self-sufficiency, navigation and swimming in early years learning and throughout their schooling. That campaign is supported by organisations such as the Canal & River Trust, the Outdoor Swimming Society, Surfers Against Sewage and Swim England. I was particularly pleased recently to see an awareness-raising stall at Horwich leisure centre to mark Drowning Prevention Week, making sure that both children and parents are aware of the risks and how to manage them. Prevention goes hand in hand with responsibility. Our waterways are places not only of recreation, but of environmental and economic value, and access is too often restricted, confusing or inconsistently enforced. All that that encourages is irresponsible and frequently dangerous access. If people want to go for a dip on a hot day, like today, we have to assume they are going to find a way to do it, so we need a more proactive role for landowners and land managers",
+   "name": "Phil Brickell",
+   "party": "Lab",
+   "seat": "Bolton West"
+  },
+  {
+   "who": "Maya Ellis (Ribble Valley) (Lab)",
+   "member_id": 5228,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for Southampton Itchen (Darren Paffey) for bringing forward this critical debate. We think a lot about water safety in the Ribble Valley constituency; indeed, the River Ribble is in its name. In the River Ribble catchment, which covers my constituency and some lovely neighbouring constituencies, we also have the Hodder, Calder, Darwen, Douglas and Wyre. The Ribble Rivers Trust is a Lancashire-based charity working to improve the River Ribble and all its tributaries for people and wildlife. Along with the Lancashire Fire and Rescue Service, it does a phenomenal job in advocating for water safety as well. Lancashire is one of the counties in the UK with the highest water safety risk, which is likely due to the geography, as we have coasts, rivers, canals, reservoirs and quarries. One thing that has changed a lot in this country in recent years is that people move around much more. I grew up in Ribble Valley, so it was built into me not to swim in open water or reservoirs, or we at least knew where the really dangerous areas were. However, with a more transient population across the country, it is far more critical to have universal education to ensur",
+   "name": "Maya Ellis",
+   "party": "Lab",
+   "seat": "Ribble Valley"
+  },
+  {
+   "who": "Amanda Martin (Portsmouth North) (Lab)",
+   "member_id": 5294,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend the Member for Southampton Itchen (Darren Paffey) and I praise Nessa for her tireless campaigning. As a former teacher who taught swimming in my NQT—newly qualified teacher—year, as a mum of three young men who are all confident swimmers, and as the MP for Portsmouth’s coastal community where water is a part of daily life, I know just how vital water safety education is. Every child should not only learn how to swim, but understand how to stay safe around water. As has been said today, warn and inform. That is why I welcome Labour’s continued commitment to the PE and sport premium, with £320 million for 2025-26, which schools can use for teacher training and to top-up swimming lessons. Labour’s new Children’s Wellbeing and Schools Bill will mean that all state-funded schools, including academies, will be required to deliver the national curriculum, which will include swimming and water safety. In addition, the interim report from Labour’s curriculum assessment review recognises the urgent need to rebalance priorities, especially in PE for our older pupils. However, if we are to teach children to swim, we need to ensure we have access to facilities—affordable ",
+   "name": "Amanda Martin",
+   "party": "Lab",
+   "seat": "Portsmouth North"
+  },
+  {
+   "who": "Luke Myer (Middlesbrough South and East Cleveland) (Lab)",
+   "member_id": 5147,
+   "type": "Contribution",
+   "text": "I congratulate my hon. Friend the Member for Southampton Itchen (Darren Paffey) on securing the debate. I will be very brief. I just want to highlight an ongoing issue in my part of the world. I am deeply concerned about the case of Serren Bennett, an 18-year-old who has been missing from my constituency since 8 June, 11 days ago. She was last seen approaching Redcar beach, where an item of her clothing has been found. I hope Members across the House will join me in sending our thoughts to Serren’s family and friends at this difficult time. [Hon. Members: “Hear, hear.”] I hope that the Government will be able to assure me that the relevant authorities will be working with Cleveland police to do everything possible so she can be found.",
+   "name": "Luke Myer",
+   "party": "Lab",
+   "seat": "Middlesbrough South and East Cleveland"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the Liberal Democrat spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Steff Aquarone (North Norfolk) (LD)",
+   "member_id": 5164,
+   "type": "Contribution",
+   "text": "I am pleased to wind up this debate on behalf of the Liberal Democrats, and I congratulate the hon. Member for Southampton Itchen (Darren Paffey) for securing it. As others have said, this debate is incredibly timely, as this week is National Drowning Prevention Week. There have been a number of excellent contributions today. I was very pleased to hear the speech of my hon. Friend the Member for Esher and Walton (Monica Harding), and want to associate myself with the points she and other hon. Members made on the importance of being prepared to spot the dangers and react to them and to be ready when things go wrong, which is just as important as being able to swim in the first place. Other hon. Members have raised important points and details—even in short interventions—and I am particularly pleased to see so many colleagues from across the House who have attended recent debates on rural and coastal communities in their places. There is clearly a theme building here. The hon. Member for Southampton Itchen spoke about calls for ministerial responsibility. I think that could fit very well within the portfolio of a Minister for coastal communities, and I look forward to exploring that ",
+   "name": "Steff Aquarone",
+   "party": "LD",
+   "seat": "North Norfolk"
+  },
+  {
+   "who": "Jerome Mayhew (Broadland and Fakenham) (Con)",
+   "member_id": 4739,
+   "type": "Contribution",
+   "text": "rose —",
+   "name": "Jerome Mayhew",
+   "party": "Con",
+   "seat": "Broadland and Fakenham"
+  },
+  {
+   "who": "Steff Aquarone",
+   "member_id": 5164,
+   "type": "Contribution",
+   "text": "On that note, having seen the hon. Gentleman in his place, I will give way to him.",
+   "name": "Steff Aquarone",
+   "party": "LD",
+   "seat": "North Norfolk"
+  },
+  {
+   "who": "Jerome Mayhew",
+   "member_id": 4739,
+   "type": "Contribution",
+   "text": "Firs, I congratulate the hon. Gentleman on his first outing on the Front Bench—he is doing a very good job. Secondly, I will not quibble over who it was who obtained the funding from the Conservative Government—the Conservative Member of Parliament or the Liberal Democrat district council—so let us leave that to one side. Thirdly, I join the hon. Gentleman in welcoming the development of having a swimming pool in Fakenham. Does he agree that that will go a long way in helping people in Fakenham and the surrounding area to learn to swim?",
+   "name": "Jerome Mayhew",
+   "party": "Con",
+   "seat": "Broadland and Fakenham"
+  },
+  {
+   "who": "Steff Aquarone",
+   "member_id": 5164,
+   "type": "Contribution",
+   "text": "Let me absolutely clear: everybody involved in securing that bid deserves congratulations— I totally agree with the hon. Gentleman.",
+   "name": "Steff Aquarone",
+   "party": "LD",
+   "seat": "North Norfolk"
+  },
+  {
+   "who": "Jerome Mayhew",
+   "member_id": 4739,
+   "type": "Contribution",
+   "text": "Was that the hon. Gentleman’s next point? I intervened too soon! [ Laughter . ]",
+   "name": "Jerome Mayhew",
+   "party": "Con",
+   "seat": "Broadland and Fakenham"
+  },
+  {
+   "who": "Steff Aquarone",
+   "member_id": 5164,
+   "type": "Contribution",
+   "text": "I think the point the hon. Gentleman is making is that many in Fakenham, as well as the nearby villages in my constituency, are delighted by the news and thrilled with the hard work that has gone into securing it. Liberal Democrats also want to end the closure of swimming pools by designating them as critical health infrastructure, which would enshrine protections in law, meaning that central and local government would have a legal duty not to cut these services and to maintain adequate funding to keep them open. Of course, people are not just swimming in pools, as many people enjoy gaining confidence through wild and open water swimming. However, in order for them to be able to do that, we have to clean up our rivers and seas after years of scandalous sewage dumping. For those looking to swim, only 14% of rivers and lakes in England are in good ecological health. Last year, water companies dumped sewage more than 100,000 times into areas with bathing water status. That is unacceptable. We must crack down on the years of unchecked profiteering and environmental damage that the water companies have caused. We must bring in tougher new laws to protect our environment and the health o",
+   "name": "Steff Aquarone",
+   "party": "LD",
+   "seat": "North Norfolk"
+  },
+  {
+   "who": "Neil O’Brien (Harborough, Oadby and Wigston) (Con)",
+   "member_id": 4679,
+   "type": "Contribution",
+   "text": "Let me pay tribute to the hon. Member for Southampton Itchen (Darren Paffey) for leading this important debate and for doing such a good job in setting out all the different issues at stake. Although he covered a huge amount of ground in his opening statement, we also heard some excellent speeches from across the House, with everyone adding important points. We have had excellent speeches from the right hon. Member for Oxford East (Anneliese Dodds), and the hon. Members for Salford (Rebecca Long Bailey), for Gravesham (Dr Sullivan), for Bolton West (Phil Brickell), and for Portsmouth North (Amanda Martin). Various points will stay with me. My hon. Friend the Member for Meriden and Solihull East (Saqib Bhatti) raised the hugely important issue of safety on ice and the terrible, terrible case involving his young constituents. The hon. Member for Esher and Walton (Monica Harding) caught my attention with her description of the Barbados of south London, which I very much enjoyed. I also strongly agreed with her tribute to water safety groups. My hon. Friend the Member for Hamble Valley (Paul Holmes) talked about the terrible case of Emily Lewis and the issue of safety on boats, which i",
+   "name": "Neil O’Brien",
+   "party": "Con",
+   "seat": "Harborough, Oadby and Wigston"
+  },
+  {
+   "who": "The Minister for School Standards (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "I join Members in congratulating my hon. Friend the Member for Southampton Itchen (Darren Paffey) on securing a debate on this incredibly important topic in this very timely week and on his powerful opening speech. I was truly saddened to hear of the deaths of his constituent Joe Abbess and Sunnah Khan at Bournemouth beach in June 2023. I extend my heartfelt condolences to their families and pay tribute to Vanessa Abbess for her campaigning. I thank the hon. Member for Harborough, Oadby and Wigston (Neil O’Brien) for paying such thorough tribute to all Members for their contributions. If I am honest, he has saved me the task, as he did real credit to the widespread and important contributions that have been made. A number of Members present are clearly working very hard in Parliament on water safety issues, and it is a real honour to work with them. I welcome the engagement from my hon. Friend the Member for Southampton Itchen on this topic and wish him every success in his new role as chair of the all-party parliamentary group on water safety education. By holding this debate, we alert more people to the issue of water safety, and we spread understanding of the dangers of water, p",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Sir John Hayes (South Holland and The Deepings) (Con)",
+   "member_id": 350,
+   "type": "Contribution",
+   "text": "I am grateful to the Minister for giving way. I have known her since she first came to the House, and she knows that she has my respect and regard. Swimming is critical. It is true that people who can swim still get into trouble, but if someone cannot swim at all, they are at much greater risk. Will she work with colleagues across the House, including me in respect of Deepings leisure centre, to make sure that there are good swimming facilities across the whole of our nation?",
+   "name": "Sir John Hayes",
+   "party": "Con",
+   "seat": "South Holland and The Deepings"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "The right hon. Member is right to recognise how fundamental swimming is, but it is really important to recognise that it is not enough, as has come across very strongly in this debate. But being able to swim is the foundation that every child should have. As the right hon. Gentleman will know, it takes a cross-Government effort to make sure that we have the facilities that children and everybody else can use to learn how to swim. The national curriculum for PE, as has been noted, includes mandatory requirements on swimming and water safety at primary school. As has been acknowledged, pupils should be taught to swim 25 metres unaided, to perform a range of strokes, and to perform safe self-rescue in different water-based situations. Academies and free schools are not currently required to follow the national curriculum, but they do have to provide a broad and balanced curriculum. The Children’s Wellbeing and Schools Bill, which was introduced in December 2024 and is making its way through the House, places a requirement on all state-funded schools, including academies, to teach the national curriculum and will, once implemented, extend the requirement to teach swimming and water saf",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Paul Holmes",
+   "member_id": 4803,
+   "type": "Contribution",
+   "text": "The Minister is right and I agree with everything that she has outlined on ensuring that those lessons are delivered at school and particularly as early on as possible. May I have her reassurance, and will she briefly outline, how she intends to ensure that is enforced further down the line, once the national curriculum comes out?",
+   "name": "Paul Holmes",
+   "party": "Con",
+   "seat": "Hamble Valley"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "As I said, we are working with sector organisations on the content of the curriculum, and we are working with the sector on the delivery of these programmes. I could go into detail on Ofsted and the changes we are making on accountability, but I do not believe there is time in this debate. However, I take the challenge and I will take that away. I agree that not only do we need to say that children should have these things, but we need to make sure that they are armed with the knowledge that we know will keep them safe. A number of Members, inspired by my hon. Friend the Member for West Ham and Beckton (James Asser), have mentioned public information campaigns. That brought to my mind the story of Evan Crisp from Newcastle. Six years ago, Evan and his friends were at Beadnell bay in Northumberland, celebrating finishing their exams, as we know lots of young people will be doing at the moment. He was caught in a rip and was swept out to sea. As Evan lost sight of the beach, he recalled an RNLI advert that he had seen very briefly—only for a minute—before a film that he had gone to see. Everyone who falls unexpectedly into cold water wants to follow the same instinct: to swim hard, t",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "Beckie Ramsay is my constituent, and it was her son Dylan who drowned in that abandoned quarry. He will never be forgotten. The loss that she suffered, and that others have suffered, as has been mentioned today—none of us can imagine what they went through. I just want to say that Beckie does a great job of going into schools, educating and saving lives for others.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Darren Paffey",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "I thank all Members, from across the Chamber, who have taken part in this debate. I will mention a few key strands that have been raised, just because they align with some of the things that I have asked for. My hon. Friend the Member for Salford (Rebecca Long Bailey) mentioned that the fire response, which is often the first response to these terrible tragedies, is not statutory. Does she agree that a Minister with particular responsibility for drowning prevention might bring that coherence?",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Rebecca Long Bailey",
+   "member_id": 4396,
+   "type": "Contribution",
+   "text": "indicated assent .",
+   "name": "Rebecca Long Bailey",
+   "party": "Lab",
+   "seat": "Salford"
+  },
+  {
+   "who": "Darren Paffey",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "I hope the Minister has followed that. I do not expect everything to be on education, but there is a necessary cross-departmental organisation response that needs to happen. It goes beyond education and some of the recommendations reflect that. My hon. Friends the Members for West Ham and Beckton (James Asser) and for Bangor Aberconwy (Claire Hughes) mentioned the information campaigns that are necessary, particularly using contemporary tools of social media, which takes me to another campaign I am involved in. The potential of social media to do good is great. Unfortunately, too often that is not what happens, so we need to hold social media companies to account, to ensure that they keep our young people safe. My hon. Friend the Member for Shrewsbury (Julia Buckley) mentioned a wonderful community-led campaign, and there is a real example to take from that. On the contribution of my hon. Friend the Member for Doncaster East and the Isle of Axholme (Lee Pitcher), I met Sam’s dad when he was in the House yesterday and I know he appreciates the work that my hon. Friend does, so I commend him for Sam’s law. He can count on my support and, I am sure, that of many others across the Hous",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  }
+ ],
+ "fetched": "2026-10-21T20:26:28Z"
+}

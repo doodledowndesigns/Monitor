@@ -1,0 +1,386 @@
+{
+ "ext_id": "56D30958-0B2E-45FD-AA7F-1490F36D85DC",
+ "date": "2025-06-11",
+ "house": "Commons",
+ "section": "WestHall",
+ "title": "Outdoor Education",
+ "parents": [
+  "Westminster Hall"
+ ],
+ "location": "Westminster Hall",
+ "url": "https://hansard.parliament.uk/Commons/2025-06-11/debates/56D30958-0B2E-45FD-AA7F-1490F36D85DC/OutdoorEducation",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Dr Rupa Huq",
+   "role": "Chair",
+   "member_id": 4511
+  },
+  {
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale",
+   "member_id": 1591
+  },
+  {
+   "name": "Phil Brickell",
+   "party": "Lab",
+   "seat": "Bolton West",
+   "member_id": 5128
+  },
+  {
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford",
+   "member_id": 4131
+  },
+  {
+   "name": "Maya Ellis",
+   "party": "Lab",
+   "seat": "Ribble Valley",
+   "member_id": 5228
+  },
+  {
+   "name": "Will Stone",
+   "party": "Lab",
+   "seat": "Swindon North",
+   "member_id": 5035
+  },
+  {
+   "name": "Shockat Adam",
+   "party": "Ind",
+   "seat": "Leicester South",
+   "member_id": 5120
+  },
+  {
+   "name": "Andy MacNae",
+   "party": "Lab",
+   "seat": "Rossendale and Darwen",
+   "member_id": 5134
+  },
+  {
+   "name": "Tom Collins",
+   "party": "Lab",
+   "seat": "Worcester",
+   "member_id": 5087
+  },
+  {
+   "name": "Dr Danny Chambers",
+   "party": "LD",
+   "seat": "Winchester",
+   "member_id": 5304
+  },
+  {
+   "name": "Dr Al Pinkerton",
+   "party": "LD",
+   "seat": "Surrey Heath",
+   "member_id": 5288
+  },
+  {
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon",
+   "member_id": 5216
+  },
+  {
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards",
+   "member_id": 4125
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Dr Rupa Huq (in the Chair)",
+   "member_id": 4511,
+   "type": "Contribution",
+   "text": "I will call Tim Farron to move the motion. As is the convention with 30-minute debates, only interventions are permitted, not whole speeches, because we need to allow time for the Minister to reply, as well as for all those lovely interventions that are coming.",
+   "name": "Dr Rupa Huq",
+   "role": "Chair"
+  },
+  {
+   "who": "Tim Farron (Westmorland and Lonsdale) (LD)",
+   "member_id": 1591,
+   "type": "Contribution",
+   "text": "I beg to move, That this House has considered outdoor education. It is an absolute joy to serve under your guidance, Dr Huq. I am happy to take some interventions, but I shall do my best to leave at least 10 minutes for the Minister at the end. It is my privilege to chair the all-party parliamentary group on outdoor learning. It is also my privilege to be the Member of Parliament for many outdoor education centres in the lakes and dales of Westmorland and Lonsdale: the Bendrigg Trust at Old Hutton, which supports young people with disabilities; Brathay, near Ambleside, which develops young people from challenging backgrounds; the Outward Bound Trust on Ullswater; Patterdale outdoor education centre; the Field Studies Council centres at Blencathra and Lindale; the YMCA at Lakeside; and countless others, including the many university, local authority, charity and privately owned centres; as well as all the freelance specialists who use the outdoors to infuse our young people with joy, resilience, physical and mental health, and new skills and perspectives.",
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale"
+  },
+  {
+   "who": "Phil Brickell (Bolton West) (Lab)",
+   "member_id": 5128,
+   "type": "Contribution",
+   "text": "I commend the hon. Member for securing this debate. He mentions the joys of spending time in the great outdoors, and I thank him for mentioning Patterdale Hall, which is a truly excellent outdoors centre that I benefited from a great deal. Last month’s Supreme Court judgment, upholding the right to wild camp on Dartmoor, shows just how precarious our rights of access to nature are. Following that landmark ruling, does he agree that the Government must urgently introduce primary legislation to expand the right to roam on land and water across England?",
+   "name": "Phil Brickell",
+   "party": "Lab",
+   "seat": "Bolton West"
+  },
+  {
+   "who": "Tim Farron",
+   "member_id": 1591,
+   "type": "Contribution",
+   "text": "It is vital to ensure that people have access to nature. As somebody who represents national parks, I always think that they are there for everybody, not just those of us who live there. The hon. Gentleman makes an important point. Outdoor education is crucial to our economy, culture and communities in Cumbria, and we are deeply proud of the whole sector and the many hundreds of people who work in it. The benefits of outdoor education experiences are obvious to anyone who has ever gone for a hike through a muddy field while wrestling with an Ordnance Survey map, abseiled, potholed, spent the night camped in a lakeland forest, climbed a rockface or kayaked down a river. These are experiences that form young people and stay with them for the long term. We know, not only through academic research but powerfully through our own experiences, the transformational and tangible good that outdoor learning delivers for the lives of children and young people.",
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "Will the hon. Member give way?",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Tim Farron",
+   "member_id": 1591,
+   "type": "Contribution",
+   "text": "Go for it.",
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale"
+  },
+  {
+   "who": "Jim Shannon",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "I commend the hon. Gentleman for securing the debate. He is absolutely right, and I support his endeavour to ensure that the Minister will respond positively to him. In February 2025, the Education Minister in Northern Ireland launched the outdoor learning project to enhance pupils’ experience of outdoor learning, with some £4 million invested for pre-schools, nursery schools, primary schools and special schools to buy outdoor furniture and equipment to enhance high-quality outdoor learning. If you want to get your feet muddy, come to Northern Ireland.",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Tim Farron",
+   "member_id": 1591,
+   "type": "Contribution",
+   "text": "It is an offer I dare not refuse. In a moment or two, I will say something about cross-party working across the devolved nations, and the hon. Gentleman makes an important point as to how Northern Ireland is taking the lead. Research from the University of Cumbria demonstrates the benefits for young people of widening their horizons, building their confidence and character, and nurturing a love of learning, greater awareness of nature and an intelligent approach to risk. Once a child has overcome their fear to crawl through a dark and cramped cave, wade through a fast river or work with a classmate to build something, other challenges in their normal lives back at home are put into perspective.",
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale"
+  },
+  {
+   "who": "Maya Ellis (Ribble Valley) (Lab)",
+   "member_id": 5228,
+   "type": "Contribution",
+   "text": "I thank the hon. Gentleman for securing this important debate. Viki Mason is a forest school practitioner in my constituency who provides amazing outdoor education for primary schools, but the schools continually struggle to find funding for her services and those of providers like her. Does he agree that if we want young people to grow up with the benefits of the experiences he describes and with an appreciation for the natural world around us, so that we can protect it and encourage them to protect it, we must ringfence education funding for outdoor education at the very earliest stages of learning?",
+   "name": "Maya Ellis",
+   "party": "Lab",
+   "seat": "Ribble Valley"
+  },
+  {
+   "who": "Tim Farron",
+   "member_id": 1591,
+   "type": "Contribution",
+   "text": "I completely agree; I will say more about that in a moment. Building on the benefits of outdoor education for the rest of the curriculum, the rapport built between teachers and students during a week-long residential where both are immersed—often literally—in the glory of nature means that when life returns to normal the next Monday in the classroom, those students are much more likely to engage, listen and learn. Outdoor education is a wonderful investment with guaranteed returns for the individual, for society and, indeed, for the Exchequer.",
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale"
+  },
+  {
+   "who": "Will Stone (Swindon North) (Lab)",
+   "member_id": 5035,
+   "type": "Contribution",
+   "text": "We know about the importance of the educational benefits, but does the hon. Member agree that outdoor education can be used to tackle knife crime in urban areas? Will he join me in thanking Mike Harrison, who owns Green Trees forest school in Swindon, for his hard work on that?",
+   "name": "Will Stone",
+   "party": "Lab",
+   "seat": "Swindon North"
+  },
+  {
+   "who": "Tim Farron",
+   "member_id": 1591,
+   "type": "Contribution",
+   "text": "I am happy to join the hon. Gentleman in thanking Mike. Yes, the societal outcomes are huge beyond the classroom. The increased love of learning, better engagement and greater curiosity about the natural world are all part of delivering better outcomes for young people in general throughout their lives.",
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale"
+  },
+  {
+   "who": "Shockat Adam (Leicester South) (Ind)",
+   "member_id": 5120,
+   "type": "Contribution",
+   "text": "Does the hon. Member agree that, as one in eight children living in urban areas does not have a garden, we should encourage some sort of exchange programme between rural and urban schools so that they can also enjoy the outdoors and benefit from it?",
+   "name": "Shockat Adam",
+   "party": "Ind",
+   "seat": "Leicester South"
+  },
+  {
+   "who": "Tim Farron",
+   "member_id": 1591,
+   "type": "Contribution",
+   "text": "That is a great suggestion. I will happily take the other intervention.",
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale"
+  },
+  {
+   "who": "Andy MacNae (Rossendale and Darwen) (Lab)",
+   "member_id": 5134,
+   "type": "Contribution",
+   "text": "The hon. Gentleman is making a wonderful point about the value of outdoor education within the education system. Does he agree that the Ofsted assessment mechanism is a great tool for encouraging greater use of the outdoors and of sport and activity per se? Would he suggest that we look to make sure that any outstanding school must provide great access to the outdoors?",
+   "name": "Andy MacNae",
+   "party": "Lab",
+   "seat": "Rossendale and Darwen"
+  },
+  {
+   "who": "Tim Farron",
+   "member_id": 1591,
+   "type": "Contribution",
+   "text": "The problem is that, at the moment, many schools do not provide that. It is often because of a sense of being beleaguered and lacking the financial wherewithal to do so. The hon. Gentleman makes a very powerful point. To back up, on a day when we are talking about Treasury matters, the University of Cumbria’s research demonstrates that there is a social return on investment of £4.32 for every pound spent on outdoor education as part of the curriculum. Research funded by the Minister’s colleagues in the Department for Environment, Food and Rural Affairs through Natural England looked at the experience of schools and students who had access to outdoor education opportunities: 95% found that those experiences made lessons more enjoyable, 85% reported a positive impact on student behaviour, 92% reported improved engagement of students with learning and 92% reported increased student health and wellbeing. The frustrating news is that outdoor education is becoming much more difficult to access. Some 13% of students never visit the natural environment or spend meaningful time outdoors, rising to 18% of children in the most deprived parts of our country. A third of children never, ever hav",
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale"
+  },
+  {
+   "who": "Tom Collins (Worcester) (Lab)",
+   "member_id": 5087,
+   "type": "Contribution",
+   "text": "The incredible outdoor educators we have in and around Worcester, including the Bramblewood Project, have shown just how transformative outdoor education can be for students who would otherwise struggle to engage with education. We have seen incredible impacts on children with special educational needs and disabilities, but every child and every person can benefit from a real and living relationship with nature. Does the hon. Gentleman agree that outdoor education should be not alternative provision, but provision?",
+   "name": "Tom Collins",
+   "party": "Lab",
+   "seat": "Worcester"
+  },
+  {
+   "who": "Tim Farron",
+   "member_id": 1591,
+   "type": "Contribution",
+   "text": "I completely agree. The hon. Gentleman makes an important point that I will try to flesh out a little in a moment.",
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale"
+  },
+  {
+   "who": "Dr Danny Chambers (Winchester) (LD)",
+   "member_id": 5304,
+   "type": "Contribution",
+   "text": "In Winchester, we are fortunate to have the beautiful south downs and a lot of very productive farms. We had Open Farm Sunday last week. Does my hon. Friend agree that outdoor education, engagement with farms and agriculture and residential weekends are a great way to inspire the next generation of agricultural students, conservationists and environmental scientists?",
+   "name": "Dr Danny Chambers",
+   "party": "LD",
+   "seat": "Winchester"
+  },
+  {
+   "who": "Tim Farron",
+   "member_id": 1591,
+   "type": "Contribution",
+   "text": "Yes to all those things. It is important to recognise that if we give people a sense of excitement of being in the outdoors, we open their imagination to making those sorts of choices in their studies and careers and later in their private life. I am grateful to the outdoor education professionals who share their expertise with me regularly. They identify the barriers to young people accessing outdoor education, which include the steady erosion of school budgets. Outdoor education is seen as a nice add-on, but not essential, so it gets downgraded or dropped altogether to save money. Schools either do not do outdoor education visits at all or they reduce them from week-long to two-day affairs, with worse outcomes as a consequence. There is also a culture of risk aversion that infects schools, teacher training institutions and society as a whole. Over the last couple of generations, we have sought to protect our children from danger and the unpredictable to such an extent that we have perhaps done them greater harm by denying them experiences that would have given them resilience, wisdom and better mental and physical health. Over my years as the Member of Parliament for Westmorland ",
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale"
+  },
+  {
+   "who": "Dr Al Pinkerton (Surrey Heath) (LD)",
+   "member_id": 5288,
+   "type": "Contribution",
+   "text": "My hon. Friend’s rich evocation of outdoor education reminds me to reflect on my own time doing things like the Duke of Edinburgh’s award. Although Surrey Heath might not have the soaring topographies of his constituency, what we do have is extraordinary outdoor education provision such as Briars Field forest school, which provides vital outdoor education, particularly for young children with special educational needs who otherwise could not access mainstream classrooms. Will my hon. Friend join me in paying tribute to those offerings that provide a genuine alternative to the classroom and profoundly change young people’s mental health?",
+   "name": "Dr Al Pinkerton",
+   "party": "LD",
+   "seat": "Surrey Heath"
+  },
+  {
+   "who": "Tim Farron",
+   "member_id": 1591,
+   "type": "Contribution",
+   "text": "Absolutely. That builds on what I am saying. When it comes to poor mental health, it feels like we are figuratively fishing struggling people out of water, when perhaps what we really need to do is build their resilience so that they do not fall in in the first place. Ironically, of course, we do that in part by pushing people into the water—after an entirely appropriate risk assessment, of course. Education and policy of successive Governments has failed to prioritise outdoor education to the extent that it has become for many a nice luxury at best, rather than the essential that it ought to be.",
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale"
+  },
+  {
+   "who": "Caroline Voaden (South Devon) (LD)",
+   "member_id": 5216,
+   "type": "Contribution",
+   "text": "Will my hon. Friend give way?",
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon"
+  },
+  {
+   "who": "Tim Farron",
+   "member_id": 1591,
+   "type": "Contribution",
+   "text": "I will take one more intervention.",
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale"
+  },
+  {
+   "who": "Caroline Voaden",
+   "member_id": 5216,
+   "type": "Contribution",
+   "text": "My hon. Friend is making a powerful argument about the mental health benefits of outdoor education, which I wholeheartedly support. Does he agree with me that if we are to inspire the next generation to appreciate, understand and love nature and promote nature recovery, we need to introduce them to nature? In that spirit, will he commend Grenville House in Brixham and Forest and Beach outdoor education in my constituency, along with all the other schools that promote the Ten Tors expeditions on Dartmoor, for the vital work they do?",
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon"
+  },
+  {
+   "who": "Tim Farron",
+   "member_id": 1591,
+   "type": "Contribution",
+   "text": "I absolutely will. My hon. Friend makes an incredibly important point about integrating outdoor education in the curriculum as a whole. To turn the situation around will take a serious, conscious and deliberate effort, and I want the Government to take this opportunity to make that happen. This absolutely has to be a cross-party mission. By the way, this is a small half-hour debate, and yet there are more people here than in many hour and a half debates, which shows how important this is to many people. There are no Conservatives here, but I want to pay tribute to two of them: Sam Rowlands, a Member of the Senedd in Wales, and Liz Smith in the Scottish Parliament, who have so ably led campaigns to increase access to outdoor learning. It is a joy to work with and learn from them. I met the Minister’s colleague, the Under-Secretary of State for Education, the hon. Member for Portsmouth South (Stephen Morgan), recently, and was impressed by his engagement and interest in the issue. I raised with him a point that I want to raise with the Minister here today; I also have a specific request to make—a few of them, actually. Here we go. First, will the Minister conduct a review of access t",
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale"
+  },
+  {
+   "who": "Shockat Adam",
+   "member_id": 5120,
+   "type": "Contribution",
+   "text": "Will the hon. Gentleman give way?",
+   "name": "Shockat Adam",
+   "party": "Ind",
+   "seat": "Leicester South"
+  },
+  {
+   "who": "Tim Farron",
+   "member_id": 1591,
+   "type": "Contribution",
+   "text": "I had better not, because I am running out of time. There is so much catastrophising about the state of society—so much gloom-filled misery among our politicians and commentators. There was a headline in The Daily Telegraph this week—I do not know whether you saw it, Dr Huq—that said: “Britain is heading for utter oblivion”. I mean, come on—get a grip. It is time to do something transformational and positive, not sink into this spiralling, miserabilist narrative, whining about decline and saying that the past is always better than the present, that our problems are all insurmountable and, above all, that it is always somebody else’s fault. I am not having that, and nor are my communities in Westmorland and the outdoor education sector. In the lakes, the dales and the other wild places of our wonderful country lie the biggest, best antidote to so much that is wrong. Those are the raw resources, and we should get out there and make them our own. Let us deploy those resources. That is why I beg the Minister: agree to our requests for a departmental review of the barriers to outdoor education, roll out the nature premium across our country, expand the access to nature scheme, reassure ",
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale"
+  },
+  {
+   "who": "The Minister for School Standards (Catherine McKinnell)",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve with you in the Chair, Dr Huq. I was so gripped by speech made by the hon. Member for Westmorland and Lonsdale (Tim Farron) that I forgot to get any water; I will pour some while I am starting, in case I get a frog in my throat. I congratulate the hon. Gentleman on securing this important debate and the incredible passion with which he presents these issues. It is, rightly and understandably, not the first time he has raised them with me. I admire his passion, particularly because he represents a part of the world that has an absolute abundance of outdoor riches and opportunities. For him to advocate so strongly for children who do not necessarily have those opportunities on their doorstep is truly admirable, and I respect the arguments he is making in that regard. I also agree that children and young people need to have that rich experience. As the Minister for School Standards, I know there are many demands on the curriculum and a lot of interest in the curriculum and assessment review, in the hope that it will deliver a broad and rich curriculum, enrichment and opportunities for all young people. Fundamentally, as a Government, we are determined in our ",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Shockat Adam",
+   "member_id": 5120,
+   "type": "Contribution",
+   "text": "Will there be consideration for children with sensitivity issues and special educational needs in that programme?",
+   "name": "Shockat Adam",
+   "party": "Ind",
+   "seat": "Leicester South"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "Yes. The particular Nature Education Park is for schools to use and adapt as required. I appreciate the concern that the hon. Gentleman raises. Ensuring that all children have access to an excellent education is a priority for this Government, and that includes children with special educational needs and disabilities. One of the things I want to focus on is our absolute determination that all children have access to a wide range of enrichment activities. That is an important part of our mission as a Government to break down barriers to opportunity. That might mean Duke of Edinburgh’s award participation, accessing outdoor education through the combined cadet force, accessing local youth services or building trips into outdoor education settings. The Department has committed to publishing an enrichment framework. That will be non-statutory, but there will be very clear guidance for schools on developing their enrichment offer. For some schools, that will include a variety of outdoor education opportunities. I want to be clear about mandatory class time in a natural setting. The Department does not—and cannot, under the Education Act 2002—prescribe how class time should be used to de",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Dr Rupa Huq (in the Chair)",
+   "member_id": 4511,
+   "type": "Contribution",
+   "text": "indicated dissent.",
+   "name": "Dr Rupa Huq",
+   "role": "Chair"
+  },
+  {
+   "who": "Catherine McKinnell",
+   "member_id": 4125,
+   "type": "Contribution",
+   "text": "No—I just carry on and finish? Fine. I am very keen and more than happy to look further at the issues that the hon. Gentleman has raised. The curriculum assessment review is an independent process. It is evidence led and we are very much looking forward to its outcomes. The hon. Gentleman is a passionate campaigner. He will continue to advocate on these issues and I will continue to listen and do what we can as a Department to make sure that every child has enriching opportunities. Motion lapsed (Standing Order No. 10(6)).",
+   "name": "Catherine McKinnell",
+   "role": "The Minister for School Standards"
+  }
+ ],
+ "fetched": "2026-10-21T20:26:20Z"
+}

@@ -1,0 +1,1094 @@
+{
+ "ext_id": "D2C0311B-E906-48E8-A269-9018F5062362",
+ "date": "2025-11-05",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Curriculum and Assessment Review",
+ "parents": [
+  "Commons Chamber"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2025-11-05/debates/D2C0311B-E906-48E8-A269-9018F5062362/CurriculumAndAssessmentReview",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 4460
+  },
+  {
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education",
+   "member_id": 4046
+  },
+  {
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks",
+   "member_id": 4780
+  },
+  {
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen",
+   "member_id": 5270
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East",
+   "member_id": 5152
+  },
+  {
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire",
+   "member_id": 3969
+  },
+  {
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell",
+   "member_id": 5165
+  },
+  {
+   "name": "Jerome Mayhew",
+   "party": "Con",
+   "seat": "Broadland and Fakenham",
+   "member_id": 4739
+  },
+  {
+   "name": "Tahir Ali",
+   "party": "Lab",
+   "seat": "Birmingham Hall Green and Moseley",
+   "member_id": 4747
+  },
+  {
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon",
+   "member_id": 5122
+  },
+  {
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow",
+   "member_id": 5237
+  },
+  {
+   "name": "Sir Desmond Swayne",
+   "party": "Con",
+   "seat": "New Forest West",
+   "member_id": 55
+  },
+  {
+   "name": "Sonia Kumar",
+   "party": "Lab",
+   "seat": "Dudley",
+   "member_id": 5274
+  },
+  {
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon",
+   "member_id": 5216
+  },
+  {
+   "name": "John Slinger",
+   "party": "Lab",
+   "seat": "Rugby",
+   "member_id": 5127
+  },
+  {
+   "name": "John Glen",
+   "party": "Con",
+   "seat": "Salisbury",
+   "member_id": 4051
+  },
+  {
+   "name": "Josh Dean",
+   "party": "Lab",
+   "seat": "Hertford and Stortford",
+   "member_id": 5187
+  },
+  {
+   "name": "Rachel Gilmour",
+   "party": "LD",
+   "seat": "Tiverton and Minehead",
+   "member_id": 5252
+  },
+  {
+   "name": "Shaun Davies",
+   "party": "Lab",
+   "seat": "Telford",
+   "member_id": 5041
+  },
+  {
+   "name": "Dr Andrew Murrison",
+   "party": "Con",
+   "seat": "South West Wiltshire",
+   "member_id": 1466
+  },
+  {
+   "name": "Anneliese Dodds",
+   "party": "Lab/Co-op",
+   "seat": "Oxford East",
+   "member_id": 4657
+  },
+  {
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale",
+   "member_id": 1591
+  },
+  {
+   "name": "Liz Twist",
+   "party": "Lab",
+   "seat": "Blaydon and Consett",
+   "member_id": 4618
+  },
+  {
+   "name": "Sir Julian Lewis",
+   "party": "Con",
+   "seat": "New Forest East",
+   "member_id": 54
+  },
+  {
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East",
+   "member_id": 5210
+  },
+  {
+   "name": "Dr Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire",
+   "member_id": 5249
+  },
+  {
+   "name": "Luke Myer",
+   "party": "Lab",
+   "seat": "Middlesbrough South and East Cleveland",
+   "member_id": 5147
+  },
+  {
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole",
+   "member_id": 5327
+  },
+  {
+   "name": "Matt Rodda",
+   "party": "Lab",
+   "seat": "Reading Central",
+   "member_id": 4654
+  },
+  {
+   "name": "Lisa Smart",
+   "party": "LD",
+   "seat": "Hazel Grove",
+   "member_id": 5070
+  },
+  {
+   "name": "Jacob Collier",
+   "party": "Lab",
+   "seat": "Burton and Uttoxeter",
+   "member_id": 5077
+  },
+  {
+   "name": "Cameron Thomas",
+   "party": "LD",
+   "seat": "Tewkesbury",
+   "member_id": 5354
+  },
+  {
+   "name": "David Baines",
+   "party": "Lab",
+   "seat": "St Helens North",
+   "member_id": 5092
+  },
+  {
+   "name": "Jeremy Corbyn",
+   "party": "Ind",
+   "seat": "Islington North",
+   "member_id": 185
+  },
+  {
+   "name": "Leigh Ingham",
+   "party": "Lab",
+   "seat": "Stafford",
+   "member_id": 5290
+  },
+  {
+   "name": "Adam Dance",
+   "party": "LD",
+   "seat": "Yeovil",
+   "member_id": 5191
+  },
+  {
+   "name": "Jonathan Davies",
+   "party": "Lab",
+   "seat": "Mid Derbyshire",
+   "member_id": 5256
+  },
+  {
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate",
+   "member_id": 5140
+  },
+  {
+   "name": "Josh Newbury",
+   "party": "Lab",
+   "seat": "Cannock Chase",
+   "member_id": 5034
+  },
+  {
+   "name": "Sarah Dyke",
+   "party": "LD",
+   "seat": "Glastonbury and Somerton",
+   "member_id": 4995
+  },
+  {
+   "name": "Amanda Hack",
+   "party": "Lab",
+   "seat": "North West Leicestershire",
+   "member_id": 5149
+  },
+  {
+   "name": "Freddie van Mierlo",
+   "party": "LD",
+   "seat": "Henley and Thame",
+   "member_id": 5296
+  },
+  {
+   "name": "Chris Hinchliff",
+   "party": "Ind",
+   "seat": "North East Hertfordshire",
+   "member_id": 5244
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "Before we come to the statement from the Education Secretary, I should inform the House that Mr Speaker is disappointed that this announcement was widely trailed in the media this morning, before this House had an opportunity to hear directly from the Government. I remind the Government Front Benchers that the expectation set out in the Government’s “Ministerial Code” is that: “When Parliament is in session, the most important announcements of government policy should be made in the first instance in Parliament.” I know that the Public Administration and Constitutional Affairs Committee is looking into how that expectation is currently observed and whether it continues to meet the needs of the House, and I look forward to seeing the outcome of that work. Furthermore, engaging directly with Mr Speaker on such announcements is no substitute for the courtesy that this House deserves.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "The Secretary of State for Education (Bridget Phillipson)",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Thank you, Madam Deputy Speaker. I note your comments, and I will make sure that they are taken forward. With permission, I would like to make a statement to update the House on this Government’s plans to renew the national curriculum, to secure for every child an education steeped in our rich history, ready to shape our country into the 2030s and beyond. As I outline the future of our national curriculum, I do so in full knowledge of its past, because I was part of the first wave to benefit from a process begun by Jim Callaghan’s great education debate—his ambition for a curriculum of universal high standards. When Lord Baker introduced a national curriculum for the very first time in 1988, my generation secured a common entitlement to share in the core wisdom that we as a nation value most. Since then, our national curriculum has evolved under successive Governments, and now it must evolve again, because the world is changing as never before as a result of artificial intelligence, machine learning and hyperconnectivity. Where once our young people had to compete locally, the playing field is now global. They are stepping into a world of huge opportunity, but it is also one of imm",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the shadow Secretary of State.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Laura Trott (Sevenoaks) (Con)",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for advance sight of her statement. I also thank Professor Francis for her work—any criticism of today’s announcement is directed not at her, but at the Government’s response to her review. I welcome some of the measures announced today. I am pleased that the Government have not moved away from our phonics reforms. In 2012, only 58% of six-year-olds met the expected reading standard; today, the figure stands at over 80%. Primary school children in England are now the best readers in the western world. I also note the introduction of a year 8 reading test, which I support in principle. If properly implemented, this could help to ensure that pupils maintain strong reading skills into secondary school. However, the review recommends maths and English tests, so why is the Secretary of State not introducing a statutory maths test? I have serious concerns that the proposed wider changes will water down standards, lower expectations and divert teaching time away from the core education, which gives every child the best chance to get on in life. The temptation to make the curriculum a repository for every social concern is ever present, but when everything is",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "Order. Ms Trott, you have run over your time. I hope you are going to conclude very quickly.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Laura Trott",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "That formula works, with English schools storming back up the global rankings. We on the Conservative Benches will always stand up for rigour, evidence and the life-changing power of high standards. We will fight Labour’s education vandalism every step of the way.",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "The right hon. Lady said at the start that any criticism was levelled my way, but she then went on to criticise many of the recommendations in the review. Has she even bothered to read it at all? She comes here time and again, every single time full of sound and fury, signifying nothing—and yes, Shakespeare is here to stay on the national curriculum. She tries to paint the report and our response as undoing the achievements in schools. Nothing could be further from the truth. We are not abandoning it; we are building on it, with a curriculum that will allow all young people to achieve high standards, with core academic subjects alongside the breadth that they deserve. Our reforms have higher standards right at their heart. They will raise standards of pupils right across the curriculum, including in speaking and listening, reading, writing and maths. Our improved Progress 8 and Attainment 8 measures will ensure that students retain a strong academic core, but with a breadth to expand into further study. The right hon. Lady might oppose the changes we are setting out, but today they have won support from the Sutton Trust, from employers like the CBI and from Sir Hamid Patel, the won",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Darren Paffey (Southampton Itchen) (Lab)",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "I welcome a curriculum review that will break down barriers. It opens up so much of the digital and financial literacy that the Conservatives seem to think is unimportant to all, but which we know will raise aspirations by equipping young people from all backgrounds. I have two questions that I would like to ask the Secretary of State. One is on examinations. We know that this country has an examination overload and I welcome the proposed reduction by 10%.",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Laura Trott",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "It doesn’t!",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Darren Paffey",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "I will listen to the experts before I listen to the Front Bench any day—the Opposition Front Bench. [ Laughter. ] If the right hon. Member listens, she will hear that. Will the Secretary of State please look at the overall load throughout school, not just in GCSE year, and comment on how she sees the introduction of an additional year 8 diagnostic panning out? On my second question, I declare an interest as the vice chair of the all-party parliamentary group on modern languages. We broadly welcome the Government’s response, which goes further than the recommendations, and the recognition of importance. It is right to scrap the EBacc, which has never really been taken seriously by professionals, but will the Secretary of State please say how she will stop uptake from dropping immediately? What other incentives will there be? When will she deliver the feasibility review of the new qualification based on languages ladder expertise, which is welcomed by the sector ?",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "On languages, I share my hon. Friend’s determination to ensure that more young people have the chance to study modern languages. There is a particular challenge that we face around transition from primary to secondary—the review makes that clear—and that is one area for further action. On the EBacc, I am afraid that it did not have the outcome that was intended in improving languages take-up: we are no further forward than we were in 2010 in percentage figures. We are seeing increases in the number of teachers coming forward to train in modern languages, and that is welcome. I also believe that a new stepped qualification will provide a useful route for more young people to move on to study languages at GCSE. On exams and time, particularly at GCSE, Ofqual has been clear that a 10% reduction in the time spent in exams—that amounts to two and a half to three hours—is more than achievable while at no point compromising the integrity or the high quality and standards of the system. We will work with the regulator to make that happen. We are an international outlier on the amount of time our children spend in exams at GCSE. On the year 8 reading test, we will introduce a statutory read",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the Liberal Democrat spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for advance sight of her statement and I thank Professor Becky Francis for her important work on the review. I welcome much of what has been announced today. As with free school meals and maintenance grants, this Secretary of State seems to enjoy adopting Liberal Democrat policies. I particularly welcome more enrichment activities and citizenship education, including financial and media literacy. But today, many headteachers across the country will be asking about the how. How will we fund this when budgets are already overstretched? With specialist recruitment targets missed year after year, including in physics, computer science and music, how will we find the subject specialists to deliver the new curriculum, not least the right to triple science at GCSE? Can the Secretary of State set out how she will protect time for other subjects, given the welcome new enrichment entitlement? Has she considered using money from falling school rolls to perhaps fund a longer school day? Turning to the Secretary of State’s claims about breadth, instead of scrapping the EBacc did she consider broadening it? Having gone explicitly against Professor Francis’s recomme",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "The hon. Lady asks many constructive questions. It is important that all young people have the chance to study triple science, and we will work with the sector on the implementation of that. We are seeing big increases in the numbers of teachers in initial teacher training, including in physics, but there is more to do; we will work on this carefully with the sector. I do not think we can continue to defend a position where young people from disadvantaged backgrounds do not always have the chance to study triple science; we know that if they have that opportunity, they are more likely to be able to go on to study A-level science subjects, so there is an important social justice consideration that we have to take into account. Teacher numbers are up and continue to go up, and teacher retention numbers this year are also moving in the right direction. All children and young people should have equal access to development opportunities to help them to succeed, which is why we are setting out a core enrichment offer that every school and college should aim to provide. The offer will be part of our enrichment framework, which we will develop with a group of experts across education, yout",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mrs Sureena Brackenridge (Wolverhampton North East) (Lab)",
+   "member_id": 5152,
+   "type": "Contribution",
+   "text": "Members should be in no doubt about the difference that these changes will make, because when our young people succeed, society as a whole succeeds. I wish to put on the record my thanks to the Secretary of State for delivering on our promise of a curriculum that will better prepare children not just for exams, but for life. Over the years, previous Education Secretaries—let’s be real: we have had quite a few—lost sight of what school should really be about. It is about more than exams; it is about preparing children for the modern world and the realities of life. This renewed focus on oracy, reading, writing, maths and triple science, which are vital life skills to—",
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "Order. This is a statement—you must have a short question. Please finish quickly.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Mrs Brackenridge",
+   "member_id": 5152,
+   "type": "Contribution",
+   "text": "Thank you, Madam Deputy Speaker. Financial and media literacy are core skills to develop young people. How will the Secretary of State ensure that schools have the funding, resources and preparation time necessary to implement the reforms?",
+   "name": "Mrs Sureena Brackenridge",
+   "party": "Lab",
+   "seat": "Wolverhampton North East"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend has a real passion for this area and brings her expertise to this House, and I am really grateful for that. We will refresh the programmes of study and publish them in 2027, so there will be an opportunity for consultation and contribution towards that. Some of this is a question about how we better sequence our curriculum between different key stages; that is an important element. It is important that young people in primary school have more citizenship education, including in the critical area of financial literacy. I was at the wonderful Ashmole primary school in Lambeth just yesterday, where I met year 6 students who were doing precisely that. If anybody tries to say that year 6 students cannot understand complicated concepts around financial education, I would suggest that they pay a visit to that school and see the amazing work that is going on there.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "This is a thorough piece of work from Professor Francis. There are things in it to welcome, including the retention of key stage 2 assessments and the triple science entitlement, although the Government will have to say where the resourcing will come from to make that a reality. In truth, there are other things that we just do know yet. It remains to be seen what the changes in English literature mean and what will get squeezed out; it also remains to be seen what the new computing GCSE is relative to computer science—I hope it is not a return to the pre-computer science days of the information and communication technology GCSE. One thing I regret is the demise of the EBacc. Let us remember what that is: a set of subjects that is presented clearly to children and their families, including and especially disadvantaged children, who, by studying this core set of subjects, will keep their options most open and have the most opportunity to progress in life. The EBacc did increase uptake for history and geography. It could have been mitigated if the Secretary of State had kept Professor Francis’s recommendation to retain the structure of the current Progress 8. Why did she ignore that r",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "No, Madam Deputy Speaker. As I set out earlier, it is important that young people have the opportunity to study triple science. I recognise that the implementation and delivery of that will be important, and we will work with the sector to do that. The number of those entering initial teacher training in subjects such as physics has increased massively this year, but there is more to do, including through subject knowledge enhancement, which we also want to provide to more teachers in other science subjects. I recognise what the right hon. Gentleman says about computing; it is important to get this right. Every area where there will be change will be subject to full consultation with expert input. Computing is one area where we also need to ensure that there is the opportunity to refresh content more regularly, given the pace of change. We will of course ensure that the qualification is rigorous. The right hon. Gentleman talks about the review and welcomes much of Professor Francis’s work, for which I am grateful. The review found that the EBacc measure did not translate into increased study of those subjects at 16 to 19 and unnecessarily constrained student choice, affecting stude",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Peter Swallow (Bracknell) (Lab)",
+   "member_id": 5165,
+   "type": "Contribution",
+   "text": "I warmly welcome this curriculum and assessment review and in particular what it says about a broad curriculum and the importance of enrichment and essential skills such as digital, financial and media literacy and communication. Will my right hon. Friend go further and look at introducing a skills passport, so that young people can have the skills they are learning in school properly recognised for both themselves and employers?",
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend always champions children and young people in his constituency and has a lot to offer with his background in education. I would be happy to discuss his ideas further with him.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Jerome Mayhew (Broadland and Fakenham) (Con)",
+   "member_id": 4739,
+   "type": "Contribution",
+   "text": "I am going to leave wider criticisms of this review to others. As chair of the all-party parliamentary group on financial education for young people, I welcome the recognition of all the lobbying that has gone into this review. Financial education being made a statutory requirement at primary school and its position being strengthened at secondary school are good measures. The one area where I want to push the Secretary of State further is on post-16 financial education. The review made reference to many examples of best practice around the country, but it stopped short of offering ideas on how we can continue to progress financial education at a time when young people are beginning to take financial decisions themselves. Will the Secretary of State work with the APPG to develop this area further?",
+   "name": "Jerome Mayhew",
+   "party": "Con",
+   "seat": "Broadland and Fakenham"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I would be keen to hear the hon. Gentleman’s ideas and those of the all-party parliamentary group, and I thank him for the work he is doing in this important area. I am glad that he welcomes many of the changes we are setting out around financial education. I note what he has to say about post-16, and I will make sure that those ideas are considered.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Tahir Ali (Birmingham Hall Green and Moseley) (Lab)",
+   "member_id": 4747,
+   "type": "Contribution",
+   "text": "The curriculum and assessment review found that the system has inequalities built into it especially for children with special educational needs and disabilities and those from disadvantaged backgrounds. Will the Secretary of State set out what interventions will be brought in to provide support and help for those with special educational needs and disabilities and those from disadvantaged backgrounds so that they are not left behind, especially during the transition from the current curriculum to the new one?",
+   "name": "Tahir Ali",
+   "party": "Lab",
+   "seat": "Birmingham Hall Green and Moseley"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend is right to draw attention to the need to ensure that children with special educational needs and disabilities secure better outcomes and have better support through their education and their school life. Every child in our country deserves the best possible school experience, and that is especially true for children with SEND, many of whom do not feel that that is a reality and whose parents are really struggling. That is why, through our schools White Paper and the wider work we will be taking forward around SEND reform, we will ensure that their voices are heard through a co-creation process as we move to a better system of support—one where every child in our country can achieve and thrive.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "Order. We have just 30 minutes remaining, so colleagues will have to be brief.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Manuela Perteghella (Stratford-on-Avon) (LD)",
+   "member_id": 5122,
+   "type": "Contribution",
+   "text": "Department for Education data shows that only 22.7% of students retaking GCSE English or maths post-16 achieve a grade 4 or above. This means that many young people are trapped in a loop, and they often miss the grade by one point. What steps will the Secretary of State take to ensure that students who are unlikely to achieve grade 4 in GCSE maths and English are offered practical alternative pathways so that they can succeed in these important subjects?",
+   "name": "Manuela Perteghella",
+   "party": "LD",
+   "seat": "Stratford-on-Avon"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "The hon. Lady is right to raise that point. This is an area that the review drew attention to. We will develop a new 16 to 19 level 1 stepping-stone qualification as a preparation for GCSE for lower attainers. The review was clear about the importance of GCSE English and maths, and I share that view. We need to make sure that more young people, especially those from disadvantaged backgrounds, secure a strong pass in English and maths.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Chris Vince (Harlow) (Lab/Co-op)",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for her statement. As a former teacher, which I may have mentioned a few times in this place, I broadly welcome this curriculum review. I also welcome the Secretary of State’s commitment to supporting teachers through this change. When the previous Government for some random, unknown reason decided to change GCSE grades from letters to numbers, teachers got very little to no support or resources. Can the Secretary of State guarantee that that will not happen on this occasion and that she will do what she can to support teachers through this change?",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I agree. We want to make sure that teachers are ready for the new curriculum. We will introduce a digital version of the national curriculum to support teachers to more easily sequence their school curricula. We will also provide high-quality free digital resources through Oak National Academy, as well as more curriculum support and continuing professional development. Our RISE teams will work with schools and school leaders to drive up standards.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "Now for a short question masterclass from Sir Desmond Swayne.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Sir Desmond Swayne (New Forest West) (Con)",
+   "member_id": 55,
+   "type": "Contribution",
+   "text": "This is education in the clouds when contrasted with the reality of a war against elitism, which is so often actually a war against excel-ism on the ground, is it not?",
+   "name": "Sir Desmond Swayne",
+   "party": "Con",
+   "seat": "New Forest West"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "No.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sonia Kumar (Dudley) (Lab)",
+   "member_id": 5274,
+   "type": "Contribution",
+   "text": "I warmly welcome the statement. With improved medical care, earlier diagnosis and greater awareness, more children with special educational needs are being identified. How will my right hon. Friend ensure that schools have the right environment, staff, funding and resources for SEND children to get the most of the positive changes in the curriculum?",
+   "name": "Sonia Kumar",
+   "party": "Lab",
+   "seat": "Dudley"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We are investing more in our SEND system and in teacher training and development, including new SEND content for those entering the profession, but there is much, much more that we need to do, as we have discussed in this House on many occasions. I know that my hon. Friend cares very deeply about improving outcomes for children with SEND, and I look forward to working with her as we bring forward the schools White Paper and reforms that deliver a brilliant experience for children with SEND throughout our school system.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Caroline Voaden (South Devon) (LD)",
+   "member_id": 5216,
+   "type": "Contribution",
+   "text": "We welcome the Government’s ambition to see arts and outdoor enrichment education included at the heart of the school curriculum, and we have some phenomenal outdoor ed going on in South Devon. We have long called for a broadened EBacc including arts subjects, but without clear incentives to encourage or require their inclusion, why will schools prioritise these experiences for pupils when they are under already severe budgetary pressure from the Government’s many unfunded commitments?",
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We are investing more in our schools and providing more support to teachers. Enrichment is important. That is why we will develop the framework with experts across education, youth services, sports and art sectors to make it a reality. I encourage the hon. Lady to look at the proposal we are setting out on Progress 8 reform, because I think it will deliver the breadth, alongside the academic core, that she seeks.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "John Slinger (Rugby) (Lab)",
+   "member_id": 5127,
+   "type": "Contribution",
+   "text": "I warmly welcome the further support for creative arts subject teaching, the new national centre and the £25 million for new instruments and much more. Right hon. and hon. Members with a musical background, such as the Prime Minister and I, know the transformative power of the creative arts— the soft and hard skills are just as impactful as in other subjects. Can my right hon. Friend confirm that the Government will continue to turn up the volume, bang the drum, create a symphony and maybe even reach the tempo of “presto” on this issue, so that we can finally achieve creative arts for all?",
+   "name": "John Slinger",
+   "party": "Lab",
+   "seat": "Rugby"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Absolutely. We are investing through our music hubs and the new national centre to make that a reality. By the end of next year, we will have delivered 130,000 new instruments, pieces of equipment and other music technologies to schools to support our young people to pick up instruments and create music.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "John Glen (Salisbury) (Con)",
+   "member_id": 4051,
+   "type": "Contribution",
+   "text": "Later today, the Government will publish their financial inclusion strategy. I welcome the steps forward for financial literacy. Will the Secretary of State collaborate with the Economic Secretary and use the wealth of expertise and enthusiasm that exists among the banks and financial services industry to ensure that maximum strides forward can be made in financial literacy across the whole age range?",
+   "name": "John Glen",
+   "party": "Con",
+   "seat": "Salisbury"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "The right hon. Gentleman has done a lot of work in this area. What he suggests is very sensible, and I will certainly take that forward. I am sure my hon. Friend the Minister for School Standards would also be happy to discuss it with him.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Josh Dean (Hertford and Stortford) (Lab)",
+   "member_id": 5187,
+   "type": "Contribution",
+   "text": "I really welcome the review’s focus on social justice and the critical skills needed for work and life. We know that young people face an unprecedented mental health crisis. Can the Secretary of State reassure me that young people’s wellbeing will be a material consideration for her Department in implementing the review’s recommendations, particularly on assessment reform? Does she agree that mental wellbeing and resilience are also critical skills that we should support young people to develop, and that they too should be included in reform of the curriculum?",
+   "name": "Josh Dean",
+   "party": "Lab",
+   "seat": "Hertford and Stortford"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I agree with my hon. Friend. It is why we are rolling out more mental health support across our schools to make sure that at the earliest possible point when problems arise, young people have access to high-quality mental health support. Alongside that is the enrichment framework and the opportunities there will be in music, sport, art and drama. We know that those subjects are important ways in which young people do not just find a passion and a joy but develop resilience, confidence, teamwork and much more. That is really important in what is sometimes a very difficult world for our young people.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Rachel Gilmour (Tiverton and Minehead) (LD)",
+   "member_id": 5252,
+   "type": "Contribution",
+   "text": "As the Member of Parliament for Tiverton and Minehead—Minehead being one of the most deprived areas in the country, standing 324th out of 324 in the social mobility index—I wholeheartedly commend what the Secretary of State has announced. However, I have grave concerns about the state of the schools in my constituency, particularly Tiverton high school, and the paucity of teachers, particularly in the arts subjects that the Secretary of State has quite commendably supported.",
+   "name": "Rachel Gilmour",
+   "party": "LD",
+   "seat": "Tiverton and Minehead"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I am grateful to the hon. Lady for raising this issue; I know she always bangs the drum for her constituency, and we have discussed this many times. If she requires an update on wider issues, I will be more than happy to make sure that she gets one from the new Minister.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Shaun Davies (Telford) (Lab)",
+   "member_id": 5041,
+   "type": "Contribution",
+   "text": "It has been 10 years since the last review, and the economy, education and, frankly, the world have moved on dramatically in that time, so I welcome the review. Subjects and activities like music, drama, art, play and debating have often had little to no attention and resources. Will the Secretary of State please assure me that she will learn from the best schools in the country and local authorities like my own, which have continued to invest in the “10 by 10” initiative, so that that can be cascaded across the country?",
+   "name": "Shaun Davies",
+   "party": "Lab",
+   "seat": "Telford"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend has done amazing work in this area to make sure that children in his community have access to a wide range of opportunities. I agree that the best schools provide academic stretch as well as a broad and rich curriculum. It can be done, and we will make sure that it happens in every school.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Dr Andrew Murrison (South West Wiltshire) (Con)",
+   "member_id": 1466,
+   "type": "Contribution",
+   "text": "Scrapping the EBacc means potentially reducing the exposure of disadvantaged children to modern foreign languages, and the problem with that—a bit like their access to classics in the past—is that they will become relatively disadvantaged when it comes to places at elite universities. Does the Secretary of State agree that we must make sure that that does not happen, since we all want to see improved social mobility in this country—and scrapping the EBacc looks like a very funny way of doing it?",
+   "name": "Dr Andrew Murrison",
+   "party": "Con",
+   "seat": "South West Wiltshire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I agree with the right hon. Member in so far as he is saying that we should make sure that a range of subjects are available to young people, including languages, and that young people should have a good range of options, including the chance to go on and study at university. I think it is important alongside that, as the Prime Minister set out in his target, that two thirds of young people move into higher-level learning—be that through an apprenticeship or university. That is why we are also investing more in post-16 education. I do not accept what he has to say about the EBacc or Progress 8. It did not work as intended, and it has not solved the problem that he suggests it would. Our revised Progress 8 measure will ensure that we have a strong academic offer for all young people alongside the breadth and choice that they deserve.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Anneliese Dodds (Oxford East) (Lab/Co-op)",
+   "member_id": 4657,
+   "type": "Contribution",
+   "text": "Does the Secretary of State agree that there must be strong support from school leaderships and local authorities for individual teachers as they, rightly, teach social media literacy? Does she agree that the review’s focus on social media literacy must be accompanied by stronger co-ordination on this issue across Government?",
+   "name": "Anneliese Dodds",
+   "party": "Lab/Co-op",
+   "seat": "Oxford East"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My right hon. Friend is right to highlight that, and I agree. Some amazing opportunities come from the use of technology and computing and from giving our young people the skills they will need to succeed. However, we also see the dangers that exist, with the big challenges from misinformation online that teachers tell me they are having to deal with day in, day out. They will have more support to make that happen with more of a focus on the areas that matter most. We will consult on all the changes to the new programmes of study.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Tim Farron (Westmorland and Lonsdale) (LD)",
+   "member_id": 1591,
+   "type": "Contribution",
+   "text": "I very much welcome the Secretary of State’s reference in her statement to adventure and nature. Will she go further and agree that it is essential that every child at primary school and secondary school has an outdoor education residential experience because of the wonderful advantages it gives them in building resilience throughout their lives and developing a love of learning once they are in the classroom? Will she commit to doing that and to meeting the all-party parliamentary group for outdoor learning so that we can talk about how this should be at the centre of the curriculum?",
+   "name": "Tim Farron",
+   "party": "LD",
+   "seat": "Westmorland and Lonsdale"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Either I or the Minister for School Standards will be happy to meet the all-party group. The hon. Member makes a powerful case, which I am sure we can take forward as we consider the enrichment framework. I have many happy memories of residentials in his part of the world when I was at school: they are life-changing and always stay with you. I want to ensure that more young people have access to the outdoors and to brilliant opportunities like residentials.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Liz Twist (Blaydon and Consett) (Lab)",
+   "member_id": 4618,
+   "type": "Contribution",
+   "text": "I welcome the inclusion of community history and the acknowledgment of its importance. Does the Secretary of State think that projects such as the Addison project, which looks at a category D village in my constituency, help children to develop digital skills, learning and thinking skills and practical skills?",
+   "name": "Liz Twist",
+   "party": "Lab",
+   "seat": "Blaydon and Consett"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "That sounds like a wonderful project in my hon. Friend’s constituency. When our children study history, it can often be brought to life by local examples that demonstrate a wider connection to our nation’s past but also allow us to shape our future. It is in precisely those kind of examples where I want teachers to have more opportunities to expand children’s minds and provide them with greater opportunity.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sir Julian Lewis (New Forest East) (Con)",
+   "member_id": 54,
+   "type": "Contribution",
+   "text": "It is welcome news that the Government plan that children should be taught critical thinking and how to guard against fake news and misinformation, but the Secretary of State will be aware that some teachers, like some politicians, regard “fake news” differently from the rest of society. Will she ensure that teachers who teach that subject are schooled in the knowledge of the requirement for political impartiality in schools introduced in 1986 and carried forward in subsequent legislation?",
+   "name": "Sir Julian Lewis",
+   "party": "Con",
+   "seat": "New Forest East"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "The right hon. Member is right to draw attention to the importance of political impartiality. The review found that the current non-statutory status of citizenship is leading to uneven and inconsistent progress in the subject. There is the chance to do this better to ensure that it is taught well and that young people are able to think critically and challenge what is in front of them. That is more important than ever given how some of those who are hostile to our nation’s interests seek to use social media to exploit division and poison the minds of our young people.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Tom Hayes (Bournemouth East) (Lab)",
+   "member_id": 5210,
+   "type": "Contribution",
+   "text": "I was delighted to bring the Chancellor of the Exchequer to my constituency to visit JPMorganChase; soon after, it announced £350 million of investment. One of the questions of the global chief executive officer was: how do we retain local talent? Financial education was a critical answer. I therefore welcome the Government’s announcement. I am also pleased that the Secretary of State visited Bournemouth East and met 12 heads of primary and secondary schools. This was among the things that they were crying out for. Will she let me know what I can tell the heads of my schools about how the new curriculum will improve the lives of the children they teach?",
+   "name": "Tom Hayes",
+   "party": "Lab",
+   "seat": "Bournemouth East"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "It was wonderful to visit my hon. Friend’s constituency and meet so many of the wonderful school leaders who are changing children’s lives. We will work with our teachers and school leaders to implement the new national curriculum to ensure that they have the support and that we have the right time allocated to implementation. There will be four terms’ notice, so there will be ample chance for teachers to adjust their teaching ahead of rolling out the new curriculum. I am delighted that my hon. Friend welcomes our emphasis on financial education and the benefits that it will bring to his community in Bournemouth.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Dr Ellie Chowns (North Herefordshire) (Green)",
+   "member_id": 5249,
+   "type": "Contribution",
+   "text": "I welcome the review’s emphasis on preparing young people for a changing world through things like media literacy, political literacy and climate literacy. My question is about pace. The Secretary of State mentioned implementation in 2028-29, but that is too slow given the urgency of these problems—by that point, today’s 12-year-olds may be voting in the next election. What will she do to speed up implementation of those critical parts of the curriculum before then?",
+   "name": "Dr Ellie Chowns",
+   "party": "Green",
+   "seat": "North Herefordshire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I see that there is a balance to strike. Some colleagues are rightly urging us to ensure we get the implementation right, but I understand the hon. Member’s impatience to make it happen. It is right that we update our curriculum to improve climate and sustainability education in geography, science, citizenship, and design and technology, but we do need to ensure that it is done properly. Of course, schools will be able to teach the new national curriculum sooner if they so choose, but doing so will not be a requirement until 2028.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Luke Myer (Middlesbrough South and East Cleveland) (Lab)",
+   "member_id": 5147,
+   "type": "Contribution",
+   "text": "I welcome Professor Francis’s work on the review, and the Government’s commitment to upholding many of her recommendations, particularly on professional autonomy and digital literacy. The review recognises the class attainment gap that is holding back so many working-class children. What steps will my right hon. Friend take to ensure that the implementation of the curriculum review focuses resources on the places that need them most?",
+   "name": "Luke Myer",
+   "party": "Lab",
+   "seat": "Middlesbrough South and East Cleveland"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "The Government are committed to ensuring that a person’s background does not determine what they can go on to achieve. To take one example from the review, it is clear that on leaving primary school, too many young people do not have the reading and writing skills that they need to succeed later in life, and the attainment gap sadly widens throughout their secondary school careers. We will take action by providing more support around reading, including through a statutory test in year 8, so that schools better identify and target support at the students who have the most to gain. That will extend to many disadvantaged children in my hon. Friend’s constituency.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Vikki Slade (Mid Dorset and North Poole) (LD)",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "I welcome the broadening of the curriculum, which will allow more children to find joy in learning, particularly children with special educational needs, who really need the benefit of creative skills. As a vice-chair of the all-party parliamentary group for performing arts education and training, and as the mother of a musical theatre undergraduate, I am concerned about the cuts announced just last month to teacher training bursaries in the creative arts. Will the Secretary of State confirm that they will be reversed, so that we have enough creative teachers?",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We have to target our bursaries and financial support at the areas and subjects where they are most needed, and that is what we have sought to do through the bursaries and financial support that we have put in place. However, I welcome the hon. Member’s support for arts and creative education. The review and the Government’s response to it have been widely welcomed by the creative sector.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Matt Rodda (Reading Central) (Lab)",
+   "member_id": 4654,
+   "type": "Contribution",
+   "text": "I warmly welcome the review and the Secretary of State’s statement. I am particularly pleased that the Sutton Trust is wholeheartedly behind the review. Will she say a little more about the importance of triple science, and how she hopes that will benefit social mobility across the country?",
+   "name": "Matt Rodda",
+   "party": "Lab",
+   "seat": "Reading Central"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend is right. At the moment, access to triple science is uneven, with big gaps in access for disadvantaged students and big geographic inequalities. It will take time to ensure that we have the subject specialists in place to deliver that, but all children in our schools should be entitled to do triple science, so that they can go on to study the relevant A-level and T-level subjects.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Lisa Smart (Hazel Grove) (LD)",
+   "member_id": 5070,
+   "type": "Contribution",
+   "text": "There is a lot to support in the announcement, and I particularly welcome the Secretary of State’s words about the importance of financial education from primary onwards. If that is done well, it could have a positive impact on our communities for decades to come. We all know that the key to great learning is fantastic teaching. I am in my 20th year as a primary school governor, so I understand why school leaders will be questioning how they can afford to pay for what has been announced from their already stretched budgets. Will the Secretary of State assure all the primary schoolchildren in my constituency that there will be enough brilliant teachers on hand who are properly resourced to deliver what she has announced?",
+   "name": "Lisa Smart",
+   "party": "LD",
+   "seat": "Hazel Grove"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I know that this can be done only through the amazing work of our teachers, our support staff and our school leaders. We will work with them as we roll out the new national curriculum. We are investing more this year and every year in our schools. We have also delivered two pay awards for our teachers. This year, we have seen 2,300 more secondary and specialist teachers, and we are retaining more teachers across the board. We have achieved a lot, but there is more to do. I look forward to working with the hon. Member on that.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Jacob Collier (Burton and Uttoxeter) (Lab)",
+   "member_id": 5077,
+   "type": "Contribution",
+   "text": "At a recent Burton and District chamber of commerce meeting that I hosted, businesses raised the importance of financial education for young people about mortgages, savings and pensions. It appears that the Secretary of State was listening. What support she will give teachers, so that they can deliver that effectively?",
+   "name": "Jacob Collier",
+   "party": "Lab",
+   "seat": "Burton and Uttoxeter"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I always listen to my hon. Friend’s contributions on these important subjects. Given what we have heard from business, parents and young people, we want to make sure that young people have a better grounding in key concepts in financial education, be that mortgages, savings or the difference between a debit and a credit card—something I was discussing yesterday with in a wide-ranging conversation with a group of year 6 students.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Cameron Thomas (Tewkesbury) (LD)",
+   "member_id": 5354,
+   "type": "Contribution",
+   "text": "The Secretary of State rightly points to the challenge of disinformation—a challenge that democracy is losing. I would welcome her agreement that education is our greatest weapon against disinformation. Which of her changes will ensure that those voting in future general elections are better prepared to vote in their interests than those of us who went before?",
+   "name": "Cameron Thomas",
+   "party": "LD",
+   "seat": "Tewkesbury"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "As we move towards votes at 16, it will be important that our young people understand our democracy, our laws, our history, and their responsibilities as active citizens. That is why we want to make sure that there is better statutory teaching of citizenship in primary schools, and improvements at secondary as well. There is much brilliant practice already out there, but there is more to do to spread it.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "David Baines (St Helens North) (Lab)",
+   "member_id": 5092,
+   "type": "Contribution",
+   "text": "There is a lot to welcome in the statement, but will the Secretary of State please assure me and families in St Helens North that not only will we have the measures in the curriculum review, but more certainty will be provided in the schools and SEND White Paper in the new year, and that all proposals to help all pupils, such as extending continuous provision throughout the whole of key stage 1, will be considered?",
+   "name": "David Baines",
+   "party": "Lab",
+   "seat": "St Helens North"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "Yes. In the schools White Paper, we will set out our vision for the school system into the 2030s and beyond. A central part of that will be how we better support children with SEND. So many young people face an adversarial system, in which it takes too long to get the right support, and in which parents have to battle and fight. That is why the guiding principle behind everything that we do in this area will be better outcomes and better life chances for children with SEND. I am always willing to discuss with my hon. Friend the changes that he believes are necessary.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Jeremy Corbyn (Islington North) (Ind)",
+   "member_id": 185,
+   "type": "Contribution",
+   "text": "Understanding history has a massive impact on social attitudes and people’s relationships with communities. Will the Secretary of State therefore look carefully at the primary school history curriculum to make sure that it includes a good understanding of global history and the concepts behind it, as well as a big emphasis on local history and local achievement, to improve cohesion in our communities? That way, young people growing up will have that greater sense of involvement with the rest of the world, as well as with their local community.",
+   "name": "Jeremy Corbyn",
+   "party": "Ind",
+   "seat": "Islington North"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "High-quality history education should allow students to understand both our role in the world and local history. There are many powerful examples of how learning about local history can really bring a topic to life. To give one example, earlier this year, I helped unveil a statue to women shipyard workers in Sunderland who stepped in to replace the men who went to the second world war. That really brought the topic to life. It is a fantastic example of how we can combine the local and the national to understand our past and look to the future.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Leigh Ingham (Stafford) (Lab)",
+   "member_id": 5290,
+   "type": "Contribution",
+   "text": "Earlier this year, I held a debate on access to sport in schools, and one of my key points was how vital sport is for children’s mental health, and particularly for building their resilience. I am pleased that the review recognises that, and recommends broadening physical education’s role to reflect its wider impact on pupils’ mental and physical health. Does the Secretary of State agree that improving access to sport for all pupils is vital for building resilience in young people, especially as we know that there are children who do not have enough access to sport?",
+   "name": "Leigh Ingham",
+   "party": "Lab",
+   "seat": "Stafford"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I agree that PE and sport are vital elements of the rounded and enriching education that every child deserves. They can also motivate young people, give them a sense of purpose, help with wellbeing challenges and much more besides. That is why we have committed to strengthening the national curriculum for PE, and we want to work with many fantastic sporting bodies and other organisations that deliver enrichment activities, through the enrichment framework, to deliver that.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Adam Dance (Yeovil) (LD)",
+   "member_id": 5191,
+   "type": "Contribution",
+   "text": "I welcome many of the changes the Government have brought forward. The review highlighted the attainment gap for people with SEND at school. To close that gap, will the Secretary of State commit to universal screening for neurodivergence, and to more teacher training on the subject for those teaching primary school-aged children? Though strengthening the phonics screener is great, it is not enough.",
+   "name": "Adam Dance",
+   "party": "LD",
+   "seat": "Yeovil"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I agree about the need to provide better training and support for teachers and support staff. That is why this year, for the first time, there is expanded content on SEND in initial teacher training. However, there is more to do around teaching, training and support for the existing workforce. We are considering all that through the schools White Paper, as well as what more we can do to support staff, so that they can better identify early need and put in place the required support. It will also be important to do that through our Best Start family hubs, in which we can work with families at a much earlier stage.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Jonathan Davies (Mid Derbyshire) (Lab)",
+   "member_id": 5256,
+   "type": "Contribution",
+   "text": "This review is hugely welcome because it begins to help us address what we have known for a long time: the creative subjects in our schools have been in decline. That is bad not just for young people, but for society and our national life. May I first urge the Secretary of State to learn from this review, and implement a national centre for arts and music education? That would be an important intervention from the Government. Secondly, on what she said about civic engagement, may I urge her to go beyond the review’s recommendations on learning about local history? Every young person must learn about their locality to build a real sense of place and identity.",
+   "name": "Jonathan Davies",
+   "party": "Lab",
+   "seat": "Mid Derbyshire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "My hon. Friend always champions the importance of music education, and the right of every child to access to music. Our new national centre for arts and music education will provide support for schools and teachers in delivering the reformed curriculum, and I am delighted that 43 music hubs are rolling out music instrument tuition, and opportunities to take part in music production and creation. I know that he will continue to champion those things.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Claire Young (Thornbury and Yate) (LD)",
+   "member_id": 5140,
+   "type": "Contribution",
+   "text": "The Secretary of State acknowledged in her statement the progress gap for children with SEND. How will the Government support flexibility in the delivery of the curriculum, including for those children who are unable to access a traditional school setting?",
+   "name": "Claire Young",
+   "party": "LD",
+   "seat": "Thornbury and Yate"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "I recognise the challenges, and I have heard directly from many children and families about the struggles that they face. The review looked closely at this area. I understand what the hon. Lady is saying, and I recognise its importance, but alongside that, we need to continue to have high expectations of what children with SEND can achieve with the right level of support. Through the schools White Paper, we will set out how we make that a reality for every child.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Josh Newbury (Cannock Chase) (Lab)",
+   "member_id": 5034,
+   "type": "Contribution",
+   "text": "I welcome Professor Francis’s review. On the critical issue of SEND, does my right hon. Friend agree that the review’s findings—on flexibility, time for repetition and revision, early identification of need and the role of special educational needs and disabilities co-ordinators in ensuring an inclusive curriculum—could go a long way to ensuring that school is a positive experience for all pupils, not just a highly academic few?",
+   "name": "Josh Newbury",
+   "party": "Lab",
+   "seat": "Cannock Chase"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We want to build on the review’s work in this important area, and we will set out more detail next year, through the schools White Paper. We know that outcomes for children with SEND are not where they need to be. Parents and families have to battle, and it can all be an uphill struggle. That is why early identification of need and more support for families, as well as better training and support for our staff, will be critical elements of any reform programme.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sarah Dyke (Glastonbury and Somerton) (LD)",
+   "member_id": 4995,
+   "type": "Contribution",
+   "text": "Food and farming are almost entirely missing from the national curriculum, leaving young people with limited understanding of where their food comes from, or awareness of career opportunities in agriculture and the food system. What plans does the Secretary of State have to embed agriculture, environment and food studies into the national curriculum, to inspire the next generation to pursue careers in those sectors?",
+   "name": "Sarah Dyke",
+   "party": "LD",
+   "seat": "Glastonbury and Somerton"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "The review set out recommended changes in a number of related areas to those that the hon. Lady has raised. Through revised programmes of study, we will look carefully at how we deliver that. There will be opportunities for consultation throughout the process, before a full national roll-out.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Amanda Hack (North West Leicestershire) (Lab)",
+   "member_id": 5149,
+   "type": "Contribution",
+   "text": "I thank the Secretary of State for her statement, and for her commitment to our young people. Parents and teachers will know just how gruelling the GCSE exams are for our students, many of whom are undertaking mocks as we speak. I welcome the commitment to working with Ofqual to reduce time volume by 10%. Will the Secretary of State outline any other steps that have been discussed, following the report about managing the sheer volume of exams that our young people are taking?",
+   "name": "Amanda Hack",
+   "party": "Lab",
+   "seat": "North West Leicestershire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "The review took an evidence-driven approach, informed by the data, with input from across the sector and experts, to make sure that we get this right. However, it did not seek to fix things that are not broken. I recognise that young people in England sit more hours of exams than their peers in many other countries. We will therefore work closely with Ofqual and exam boards to reduce GCSE exam time by two and a half to three hours. Ofqual is confident that that can be achieved while maintaining the integrity and validity of the qualifications system.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Freddie van Mierlo (Henley and Thame) (LD)",
+   "member_id": 5296,
+   "type": "Contribution",
+   "text": "On Monday, I enjoyed a coffee with a lovely couple in my constituency who run a charity with the goal of delivering e-books to primary schools. Although digital is often more difficult to read, in the sense that it is on a screen, it can go further, faster, in reaching children, especially those who are disadvantaged. What consideration has the Secretary of State given to the importance of online reading?",
+   "name": "Freddie van Mierlo",
+   "party": "LD",
+   "seat": "Henley and Thame"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "In 2026, it will be the National Year of Reading, and in our work on that, we are thinking about not just physical books that can be delivered to children, but what a strong digital offer could look like. I encourage the hon. Gentleman to get involved in that process.",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Chris Hinchliff (North East Hertfordshire) (Ind)",
+   "member_id": 5244,
+   "type": "Contribution",
+   "text": "I really welcome the efforts to curtail the excessive examination time that our children are facing. It does not help real learning and is having a big impact on the mental health of the younger generation. What opportunities does the Secretary of State see for introducing more modern approaches to teaching that offer opportunities to learn through play and would provide wider access to education than traditional methods do?",
+   "name": "Chris Hinchliff",
+   "party": "Ind",
+   "seat": "North East Hertfordshire"
+  },
+  {
+   "who": "Bridget Phillipson",
+   "member_id": 4046,
+   "type": "Contribution",
+   "text": "We want to ensure that as we reduce GCSE content by 10%, we do so, together with the regulator, in a way that maintains the validity and integrity of the system. There are a range of different approaches that teachers can benefit from, and the Department provides much in the way of training and development. We always keep that under review to ensure that this is evidence-informed and driven by the best pedagogy. [ Official Report , 18 November 2025; Vol. 775, c. 6WC.] (Correction)",
+   "name": "Bridget Phillipson",
+   "role": "The Secretary of State for Education"
+  }
+ ],
+ "fetched": "2026-10-21T20:27:22Z"
+}

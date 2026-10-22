@@ -1,0 +1,201 @@
+{
+ "ext_id": "E3327336-F42B-4986-80EC-9610EA63A76A",
+ "date": "2024-10-24",
+ "house": "Lords",
+ "section": "Debate",
+ "title": "Special Educational Needs",
+ "parents": [
+  "Lords Chamber"
+ ],
+ "location": "Lords Chamber",
+ "url": "https://hansard.parliament.uk/Lords/2024-10-24/debates/E3327336-F42B-4986-80EC-9610EA63A76A/SpecialEducationalNeeds",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Lord Addington",
+   "party": "LD",
+   "member_id": 3453
+  },
+  {
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education",
+   "member_id": 269
+  },
+  {
+   "name": "Lord Touhig",
+   "party": "Lab",
+   "member_id": 542
+  },
+  {
+   "name": "Lord Holmes of Richmond",
+   "party": "Con",
+   "member_id": 4294
+  },
+  {
+   "name": "Baroness Finlay of Llandaff",
+   "party": "CB",
+   "member_id": 3609
+  },
+  {
+   "name": "The Lord Bishop of Leicester",
+   "member_id": 4947
+  },
+  {
+   "name": "Baroness Barran",
+   "party": "Con",
+   "member_id": 4703
+  },
+  {
+   "name": "Lord Thomas of Gresford",
+   "party": "LD",
+   "member_id": 1804
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Lord Addington",
+   "member_id": 3453,
+   "type": "Contribution",
+   "text": "To ask His Majesty’s Government what plans they have to review the effectiveness of the ‘education and healthcare plans’ process for identifying and delivering support to those with special educational needs.",
+   "name": "Lord Addington",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Addington (LD)",
+   "member_id": 3453,
+   "type": "Contribution",
+   "text": "My Lords, in begging leave to ask the Question standing in my name on the Order Paper, I remind the House of my declared interests.",
+   "name": "Lord Addington",
+   "party": "LD"
+  },
+  {
+   "who": "The Minister of State, Department for Education (Baroness Smith of Malvern) (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My Lords, this Government acknowledge the struggles faced by children and young people with special educational needs and disabilities and their families when trying to access the right support, particularly through a long and difficult EHCP process. We are currently working on plans to deliver our manifesto commitments to take a community-wide approach to special educational needs and disability. This work will improve inclusivity in mainstream schools and ensure that special schools cater to those with the most complex needs.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Addington (LD)",
+   "member_id": 3453,
+   "type": "Contribution",
+   "text": "I thank the Minister for that reply. Does she agree that the current system has, basically, failed completely? When can we get an assurance from the Government that they will manage to get to a situation where schools are identifying special educational needs, rather than concerned parents going to the school and asking them what the problem is? This is the situation at the moment, which favours the wealthy and informed parent throughout the system, right up to the plans.",
+   "name": "Lord Addington",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I agree with the noble Lord. In fact, so does the National Audit Office, which published a report this morning, and so do members of the former Government, who have described it as a lose-lose system. That is exactly why we need to ensure that within our mainstream schools, and in our early years provision, where most children’s special educational needs can and should be identified, we have better support and training for the staff and more support for those children when their needs have been identified, short of having to go through the very arduous process of getting an education health and care plan, on which the noble Lord is absolutely right.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Touhig (Lab)",
+   "member_id": 542,
+   "type": "Contribution",
+   "text": "My Lords, I declare an interest as a vice-president of the National Autistic Society. Rachel de Souza, the Children’s Commissioner for England, has recently produced a report on waiting times to get a diagnosis for autism. She says: “We have created a system … working against itself”. Children need the diagnosis before they can get SEND provision and they have to wait up to five years, sometimes, for a diagnosis. Will my noble friend look at this and the report? In the meantime, children are getting no help and support at all. We have to change this.",
+   "name": "Lord Touhig",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My noble friend is absolutely right. That is why, as part of the 10-year plan for change and modernisation in the NHS, I am assured that there will be a focus on reducing the length of waiting times and improving the provision of autism services. The SEND Code of Practice is also clear that meeting the needs of a child with special educational needs and autism does not require a diagnostic label or a test. We expect schools and colleges to monitor the progress of all pupils and put support in place where needed. There has been some good work—for example, by the Autism Education Trust—to provide a range of training and support for staff on autism. However, it is clear that there is more we need to do, both to identify and then to support children and young people in this situation.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Holmes of Richmond (Con)",
+   "member_id": 4294,
+   "type": "Contribution",
+   "text": "My Lords, what is the Government’s plan to have the right level of SENCO support throughout our education system? Similarly, what are the Government going to do in terms of access to clinicians and experts for the preparation of reports? It cannot continue to be a matter of those who can pay, paying, and those who cannot, sadly, having to wait and often ending up in an endless loop, never ending up getting the diagnosis and help they require.",
+   "name": "Lord Holmes of Richmond",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "The noble Lord is right that in an education, health and care plan, the health element is also very important. As my noble friend identified, where there are delays in getting a diagnosis, that can also mean that children and young people are not getting the support that they need in schools or being identified for additional support within those schools, which is wrong. That is precisely why the Government are determined to make the long-term fundamental reform that will support inclusive mainstream schools for the early identification and support of children, and also ensure that where special schools are needed, there is a place in them for the most complex needs.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Finlay of Llandaff (CB)",
+   "member_id": 3609,
+   "type": "Contribution",
+   "text": "At the end of their time at school, many of these people—who are now young adults—have ongoing educational needs to be addressed to allow them to integrate into society and find places of work. Are the Government planning to make sure that they look at continuity, so it does not just end at the age of 18—or whenever they leave—but that educational provision is included right up into their early 20s, to make sure that these children can eventually become well integrated into society and have a prosperous and fulfilling adult life?",
+   "name": "Baroness Finlay of Llandaff",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "The noble Baroness is absolutely right that as good practice for children and young people with special educational needs and disability, we need to prepare them for a healthy and productive adulthood. That is already clear in the SEND Code of Practice. For those with an education, health and care plan, there must be a focus from year 9 onwards on preparing the young person for adulthood, as part of their annual review. That also means that we need the expertise within our further education colleges and higher education as well, where students can receive specific support. This will make sure that the support is there available for them through the education system and onward into fruitful and satisfying employment.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "The Lord Bishop of Leicester",
+   "member_id": 4947,
+   "type": "Contribution",
+   "text": "My Lords, as I understand it, the situation for looked-after children—who, as we know, have a much higher proportion of EHCPs and SEND—is that, when they move from one area to another, the new local authority has to conduct a review of the EHCP. This causes further unnecessary delays. Can the Minister confirm that, as part of the review of current provision, this unnecessary duplication will be addressed?",
+   "name": "The Lord Bishop of Leicester"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "The right reverend Prelate makes an important point about the experience of looked-after children, which I also discussed in an Oral Question earlier this week in response to the noble Lord, Lord Laming. We have to get to a system where there are fewer bureaucratic processes to enable children and young people to get the support that they need. The point about moving from authority to authority is very important, and I will certainly take it back to my colleagues in the department. This strikes me as an additional piece of bureaucracy. While it is obviously important that, in every context, children’s needs are properly understood—and that provision through an EHCP, for example, is properly put in place—that should not be a bureaucratic process that prevents children getting the support they need when they need it.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, can the Minister confirm whether the Government are committed to continuing the reforms that the previous Government set out in the SEND and AP plan to set national standards and to digitise the process, so that EHCPs are much clearer and speedier, removing a lot of stress for parents and their children?",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "The Government are committed to doing everything we can to ensure that the process of going through an education, health and care plan—even now, only 50% of parents get them within 20 weeks of applying for them—is made much easier. I am sure that there are ways that we can build on work from the previous Government to ensure that that happens. Fundamentally, the problem with the system, which we also inherited from the previous Government, is that too many parents feel the need to go through this arduous process alone, because they do not have the support in the rest of the school system and do not get identification early enough. That is what, more fundamentally, we need to put right, and that is what the Government are committed to doing.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Thomas of Gresford (LD)",
+   "member_id": 1804,
+   "type": "Contribution",
+   "text": "In Wales, the additional learning needs framework was introduced in September 2021 to provide children with an independent development plan in place of the SEN statement. There is also a right to advocacy for children—an active offer of advocacy—provided by the National Youth Advocacy Service Cymru. Have the Government evaluated these initiatives, and would they help to alleviate the pressure in England? My grandson is being helped with special schooling and travel under just such a plan. Cardiff is truly an exemplar that all local authorities should follow.",
+   "name": "Lord Thomas of Gresford",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I am very pleased to hear that Labour-led Wales is providing a good service for the noble Lord’s grandchild. In the fundamental reform that we need to undertake, we will be very keen to learn from good experience, wherever it comes from. I will certainly ask officials in the department to look into the examples that the noble Lord highlighted.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  }
+ ],
+ "fetched": "2026-10-21T20:24:06Z"
+}

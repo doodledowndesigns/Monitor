@@ -1,0 +1,1121 @@
+{
+ "ext_id": "306FA194-251D-4592-B231-821F6DEE2B6E",
+ "date": "2025-09-04",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Early Education and Childcare",
+ "parents": [
+  "Commons Chamber"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2025-09-04/debates/306FA194-251D-4592-B231-821F6DEE2B6E/EarlyEducationAndChildcare",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education",
+   "member_id": 4653
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 4460
+  },
+  {
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East",
+   "member_id": 4818
+  },
+  {
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood",
+   "member_id": 4510
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Ms Stella Creasy",
+   "party": "Lab/Co-op",
+   "seat": "Walthamstow",
+   "member_id": 4088
+  },
+  {
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire",
+   "member_id": 3969
+  },
+  {
+   "name": "Mark Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley",
+   "member_id": 5166
+  },
+  {
+   "name": "Sir Julian Lewis",
+   "party": "Con",
+   "seat": "New Forest East",
+   "member_id": 54
+  },
+  {
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen",
+   "member_id": 5270
+  },
+  {
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon",
+   "member_id": 5216
+  },
+  {
+   "name": "David Williams",
+   "party": "Lab",
+   "seat": "Stoke-on-Trent North",
+   "member_id": 5151
+  },
+  {
+   "name": "Greg Smith",
+   "party": "Con",
+   "seat": "Mid Buckinghamshire",
+   "member_id": 4778
+  },
+  {
+   "name": "Sam Rushworth",
+   "party": "Lab",
+   "seat": "Bishop Auckland",
+   "member_id": 5108
+  },
+  {
+   "name": "Jess Brown-Fuller",
+   "party": "LD",
+   "seat": "Chichester",
+   "member_id": 5335
+  },
+  {
+   "name": "Dave Robertson",
+   "party": "Lab",
+   "seat": "Lichfield",
+   "member_id": 5126
+  },
+  {
+   "name": "Tom Gordon",
+   "party": "LD",
+   "seat": "Harrogate and Knaresborough",
+   "member_id": 5032
+  },
+  {
+   "name": "Rachael Maskell",
+   "party": "Ind",
+   "seat": "York Central",
+   "member_id": 4471
+  },
+  {
+   "name": "Siân Berry",
+   "party": "Green",
+   "seat": "Brighton Pavilion",
+   "member_id": 5314
+  },
+  {
+   "name": "Gareth Snell",
+   "party": "Lab/Co-op",
+   "seat": "Stoke-on-Trent Central",
+   "member_id": 4595
+  },
+  {
+   "name": "Lincoln Jopp",
+   "party": "Con",
+   "seat": "Spelthorne",
+   "member_id": 5332
+  },
+  {
+   "name": "Matt Rodda",
+   "party": "Lab",
+   "seat": "Reading Central",
+   "member_id": 4654
+  },
+  {
+   "name": "James MacCleary",
+   "party": "LD",
+   "seat": "Lewes",
+   "member_id": 5265
+  },
+  {
+   "name": "Kirsteen Sullivan",
+   "party": "Lab/Co-op",
+   "seat": "Bathgate and Linlithgow",
+   "member_id": 5179
+  },
+  {
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole",
+   "member_id": 5327
+  },
+  {
+   "name": "Luke Akehurst",
+   "party": "Lab",
+   "seat": "North Durham",
+   "member_id": 5112
+  },
+  {
+   "name": "David Chadwick",
+   "party": "LD",
+   "seat": "Brecon, Radnor and Cwm Tawe",
+   "member_id": 5284
+  },
+  {
+   "name": "Michael Payne",
+   "party": "Lab",
+   "seat": "Gedling",
+   "member_id": 5146
+  },
+  {
+   "name": "Freddie van Mierlo",
+   "party": "LD",
+   "seat": "Henley and Thame",
+   "member_id": 5296
+  },
+  {
+   "name": "Natasha Irons",
+   "party": "Lab",
+   "seat": "Croydon East",
+   "member_id": 5119
+  },
+  {
+   "name": "Mr Tom Morrison",
+   "party": "LD",
+   "seat": "Cheadle",
+   "member_id": 5090
+  },
+  {
+   "name": "Shaun Davies",
+   "party": "Lab",
+   "seat": "Telford",
+   "member_id": 5041
+  },
+  {
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford",
+   "member_id": 4131
+  },
+  {
+   "name": "Jim Dickson",
+   "party": "Lab",
+   "seat": "Dartford",
+   "member_id": 5223
+  },
+  {
+   "name": "Mr Luke Charters",
+   "party": "Lab",
+   "seat": "York Outer",
+   "member_id": 5199
+  },
+  {
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell",
+   "member_id": 5165
+  },
+  {
+   "name": "Sonia Kumar",
+   "party": "Lab",
+   "seat": "Dudley",
+   "member_id": 5274
+  },
+  {
+   "name": "Steve Race",
+   "party": "Lab",
+   "seat": "Exeter",
+   "member_id": 5064
+  },
+  {
+   "name": "Deirdre Costigan",
+   "party": "Lab",
+   "seat": "Ealing Southall",
+   "member_id": 5075
+  },
+  {
+   "name": "Chris Bloore",
+   "party": "Lab",
+   "seat": "Redditch",
+   "member_id": 5109
+  },
+  {
+   "name": "Jessica Toale",
+   "party": "Lab",
+   "seat": "Bournemouth West",
+   "member_id": 5202
+  },
+  {
+   "name": "Laurence Turner",
+   "party": "Lab",
+   "seat": "Birmingham Northfield",
+   "member_id": 5234
+  },
+  {
+   "name": "Jonathan Davies",
+   "party": "Lab",
+   "seat": "Mid Derbyshire",
+   "member_id": 5256
+  },
+  {
+   "name": "Antonia Bance",
+   "party": "Lab",
+   "seat": "Tipton and Wednesbury",
+   "member_id": 5048
+  },
+  {
+   "name": "John Slinger",
+   "party": "Lab",
+   "seat": "Rugby",
+   "member_id": 5127
+  },
+  {
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow",
+   "member_id": 5237
+  }
+ ],
+ "contributions": [
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Stephen Morgan)",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "With permission, I will make a statement to update the House on this Government’s vital work to give every child the best start in life. Within months of taking office we published our plan for change, a promise to improve the lives of working people and break down barriers to opportunity for people in this country. That plan set a target that a record proportion of children will start school ready to learn. Why? Because the foundations of the stronger society that we want to build must be laid down from the very beginning of children’s lives. In July, we published our “Giving every child the best start in life” strategy, setting out how we will achieve that target, and the Government’s vision for the future of the early education and childcare sector. We have heard the calls of families and providers. Education begins long before primary school, and this step change will give our children the focus and priorities that they deserve during their critical early years. We will help our youngest children by increasing the availability of childcare, improving the quality of early education and boosting support for families, building on the best of Sure Start by rolling out Best Start fa",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the shadow Education Minister.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Saqib Bhatti (Meriden and Solihull East) (Con)",
+   "member_id": 4818,
+   "type": "Contribution",
+   "text": "I thank the Minister for advance sight of his statement, and it is a pleasure to be at the Dispatch Box for the very first time as shadow Education Minister. Education is the greatest enabler of success and opportunity in this country. All Members of the House regularly visit our local schools, colleges and universities, and we see at first hand the power of a good education. Britain has some exceptionally talented young people. I look forward to working constructively with the Minister to help drive up educational standards across the country, so that those young people can get the very best start in life. Of course, when we were in government, we were ranked fourth in the world for reading, and top in the western world for maths. It is fantastic news that, from this week, parents will benefit from 30 hours of funded childcare a week for children aged from nine months to four years. I am proud that this Conservative plan—our policy—is having its final roll-out to provide childcare for working parents, which is what they need and deserve. This Conservative policy will save parents £7,500 a year per child. I also welcome the extension of the holiday activities and food programme, af",
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I start by welcoming the shadow Minister to his place on the Opposition Front Bench, but it is shocking that even now the Conservatives cannot bring themselves to recognise the significance of Labour’s childcare expansion, nor can they celebrate the new school-based nurseries that make more affordable childcare places available across the country. Despite the Conservatives’ scaremongering, nine in 10 parents have one of their first choice childcare places. This Labour Government inherited a pledge without a plan but, once again, we are delivering for families, giving parents more choice and setting children up with the best start in life. The people of this country are well aware of what happens when Conservative Members make pledges ahead of elections, such as 40 new hospitals or levelling up, and of the reality that Liz Truss crashed pensions and mortgages. What did Conservative Members do? They cheered her on. Let me spell it out to them and tell them a truth that the British public were keen to ensure that the Conservatives heard at the election last year: when they will not even take the blame for the things that they did, they certainly will not get the credit for the things ",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the Chair of the Education Committee.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Helen Hayes (Dulwich and West Norwood) (Lab)",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "I welcome the Minister’s statement: the expansion of funded childcare hours this week; the future expansion of school-based nurseries; and confirmation of a further three years of funding for the holiday activities and food programme. My Committee is today launching an inquiry on the early years. We will examine in detail the Government’s work in this area, looking at the sustainability of the workforce, families’ access to services across the country and the quality of outcomes for children. May I therefore ask the Minister what additional work he believes is needed to ensure that children in families who are not in work—who often have the most to gain from high-quality early years education—are not left behind by the expansion of funded hours for working families? How confident is he that the significant problems in recruitment and retention of early years practitioners will be addressed to secure the workforce needed to deliver on the Government’s commitments? Finally, will the Minister join me in paying tribute to everyone in my constituency and across the country who has spent the past six weeks running holiday activities and food programmes? I know they are utterly exhausted ",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "The Chair of the Select Committee is a real champion for maintained nurseries across the country, and I know that she shares the Government’s vision of ensuring that every child gets the best start in life and has the chance to succeed and thrive. As she knows, we set out our vision for early education in our landmark strategy in July. I look forward to receiving formal notice of her Committee’s inquiry and to working with her and the Committee in a constructive manner, putting the needs of children and young people first. I pay tribute to all those who worked over the summer to deliver for children and young people. As a former playworker, I see the huge value of the HAF programme. I commend all those who work so hard over the summer holidays.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "I call the Liberal Democrat spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "High-quality early years education is the best possible investment we can make in our future. Whether we are serious about tackling the SEND crisis or the attainment gap, or are simply concerned to give every child the best start in life, proper investment in the early years is one of the strongest levers we have. We all know that for far too long the previous Conservative Government neglected the early years sector, leaving a legacy of sky-high fees and childcare deserts in their wake, particularly in disadvantaged areas. We Liberal Democrats therefore welcome the Government’s announcement of more school-based nurseries, alongside the extension of funded childcare hours—but let us not forget the deep problems facing the private and voluntary sector. Without addressing the massive financial strain on those nurseries and childcare providers, we can never hope to deliver for families. Their survival is absolutely central to supporting families up and down the country to thrive. The Government’s jobs tax, I am afraid, has only added fuel to the fire. The financial pressures of underfunded hours, the national insurance contributions rise, and inflation have left many providers on the b",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank the hon. Lady for welcoming our expansion of childcare. I note again that nine in 10 parents received one of their first choice childcare places. We are determined that our childcare expansion will deliver safe, quality care for children. I know that the whole House agrees that the safety and wellbeing of children is of paramount importance. That is why alongside this expansion, which will support hard-working families, we are increasing the frequency of Ofsted inspections and enhancing recruitment checks to prevent unsuitable individuals from working with children, alongside new whistleblowing requirements. The strengthened safeguarding requirements have been added to the statutory framework from this month, giving parents greater confidence that as we expand childcare access, it will be of high quality. The hon. Lady makes a number of points about the challenges faced by the sector. The number of people working in the sector has increased by 18,000, and as I mentioned in my statement, there are now 5,800 new private providers delivering the entitlement. We will review funding distribution later in this academic year. I welcome the opportunity to continue to work with the ",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Ms Stella Creasy (Walthamstow) (Lab/Co-op)",
+   "member_id": 4088,
+   "type": "Contribution",
+   "text": "I welcome the Minister’s recognition of the impact of this policy on equality. He will know that this Monday was Mums’ Equal Pay Day. Mums earn 33% less than dads, so from 1 September, mums in this country basically work for free. Affordable childcare is critical to closing that gap. As new organisation Growth Spurt points out, a third of women who are not in work at the moment say that it is caring responsibilities that stop them from working. Will the Minister meet me and Growth Spurt to look at how we can get jobcentres, which do not routinely tell parents about tax-free childcare and the funded hours process, to help in this respect, so that together we can end the motherhood penalty?",
+   "name": "Ms Stella Creasy",
+   "party": "Lab/Co-op",
+   "seat": "Walthamstow"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "My hon. Friend is a real champion for mothers, and I commend her for all her hard work in this place over the years. In our “Giving every child the best start in life” strategy, published in July, we set out that we plan to make the process simpler for parents, and we will be working across Government to ensure that issues are addressed so that all children are able to access the entitlement offer. I would be delighted to meet her to discuss these issues further.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Damian Hinds (East Hampshire) (Con)",
+   "member_id": 3969,
+   "type": "Contribution",
+   "text": "There were five major expansions of early years education and childcare entitlement under the last Government; what the Minister has announced today would have been our sixth. But since we formed this policy, the new Government have made a massive increase in the tax on jobs. When will Ministers next publish their assessment of the economics of running a nursery and of how they ensure that there will continue to be adequate supply of high-quality places, in places like Alton, Petersfield and Horndean?",
+   "name": "Damian Hinds",
+   "party": "Con",
+   "seat": "East Hampshire"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "As I mentioned earlier, we inherited a pledge without a plan. I commend the hard work of early years providers and local authorities to deliver this key milestone for working families across the country this week. This year alone, we plan to provide over £8 billion for early years entitlement, rising to £9 billion next year. We announced the largest ever increase in the early years pupil premium, and a £75 million early years expansion grant has delivered support to the sector to increase the places and workforce that was needed. On top of that, we will review funding rates during the course of the next academic year.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Mark Sewards (Leeds South West and Morley) (Lab)",
+   "member_id": 5166,
+   "type": "Contribution",
+   "text": "Listening to the Conservative Front Bench spokesperson, one would think that everything was fine and rosy in education before the previous election, and that everything would have been fine if only the Conservatives had been given one more chance. Compare and contrast that with what we have delivered in our first year in Government: 30 hours of free childcare, actually funded; free breakfast clubs; cheaper school uniforms on the way; best start family hubs; and of course—",
+   "name": "Mark Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley"
+  },
+  {
+   "who": "Madam Deputy Speaker (Ms Nusrat Ghani)",
+   "member_id": 4460,
+   "type": "Contribution",
+   "text": "Order. Mr Sewards, do you have an actual question? If so, go for it!",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Mark Sewards",
+   "member_id": 5166,
+   "type": "Contribution",
+   "text": "Will the Minister join me in encouraging parents in my constituency of Leeds South West and Morley to take advantage of everything this Government have done to make the lives of parents and children easier?",
+   "name": "Mark Sewards",
+   "party": "Lab",
+   "seat": "Leeds South West and Morley"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Well, I thank my hon. Friend for that very good question! It was a real privilege to visit his constituency and to see the brilliant work that childcare providers are doing in his patch, ensuring that every child gets the best start in life. He is a real voice on these issues, and will be working closely with me and the team to deliver further change for our country.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Sir Julian Lewis (New Forest East) (Con)",
+   "member_id": 54,
+   "type": "Contribution",
+   "text": "After that tough question, may I ask an easy one? Can the Minister explain to the House what the funding level is for the new places, and in particular whether it fully compensates for an average £18,000 increase in the bills that nurseries have to face as a result in the rise in national insurance contributions?",
+   "name": "Sir Julian Lewis",
+   "party": "Con",
+   "seat": "New Forest East"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "As I mentioned earlier, £8 billion will be spent on the entitlement offer this year, increasing to £9 billion next year. The core funding rates do include forecasts around earnings, inflation and increases to the national living wage, but as I mentioned, we will review the funding distribution in due course and will consult on that formally.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Darren Paffey (Southampton Itchen) (Lab)",
+   "member_id": 5270,
+   "type": "Contribution",
+   "text": "I thank the Minister for his statement. As schools and early years providers start the new term across Southampton this week, we have two new nurseries—at St Mary’s Church of England primary school and at Valentine primary school—which will add to that provision thanks to the investment of this Labour Government. That is going to make an enormous difference to families in an area where one in four children are growing up in low-income families. Will the Minister join me in thanking everyone working across all Southampton early years settings to give children the best start in life, and in urging parents to ensure that they take this support and all the other support that has been mentioned that is also being delivered by this Government?",
+   "name": "Darren Paffey",
+   "party": "Lab",
+   "seat": "Southampton Itchen"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend from along the south coast for his question. I know that Portsmouth football club are very much looking forward to playing Southampton this season. We promised to make childcare more affordable and we are delivering on that. I pay tribute to him and the work that he did in local government, and is now doing in this place, to ensure that childcare is more affordable and accessible for children in his constituency.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Caroline Voaden (South Devon) (LD)",
+   "member_id": 5216,
+   "type": "Contribution",
+   "text": "I welcome the Government’s commitment to and recognition of the importance of early years provision, and the support for school-based nurseries, like the new Little Thinkers at Kings Ash academy and the nursery at Furzeham primary school. However, like others, I am deeply concerned about recruitment in the sector. Daisy and Rainbow Childcare said to me this morning: “Our biggest difficulty is managing the drop off in funding as the child gets older, while negotiating a 37% increase in ENICs, ongoing increases in minimum wages and a rate for three and four-year-olds that has never kept pace. Is it any wonder that practitioners are voting with their feet and leaving the sector to take their skills elsewhere? We’ve been advertising for a qualified practitioner now for three months with zero applications.” Will the Minister explain what the Government are going to do to ensure that recruitment in the sector is maintained?",
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "The early years workforce is at the heart of our Government’s mission to give every child the best start in life. I mentioned earlier that we have seen an uplift in the number of people working in the sector by 18,000 this year. Our best start in life strategy set out a range of measures that we will take to encourage more people to work in the sector. I am proud that we have the “Do Something Big” campaign—a real effort to increase the number of people working in the sector—which is making a real difference across our country.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "David Williams (Stoke-on-Trent North) (Lab)",
+   "member_id": 5151,
+   "type": "Contribution",
+   "text": "Back in the early 2000s, I worked for Labour’s incredible Sure Start children’s centres in my constituency of Stoke-on-Trent North and Kidsgrove. With Labour back in office, we have the roll-out of breakfast clubs at Greenways and Milton primary academies, a new school-based nursery at Smallthorne, extended family hubs and extended funded places. Does the Minister agree that it is only with a Labour Government that families really get on and that young people get the best start in life?",
+   "name": "David Williams",
+   "party": "Lab",
+   "seat": "Stoke-on-Trent North"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "My hon. Friend has just reminded us of the value of voting Labour at the last election, and why it is so important to have people like him speaking up for working families across the country. As he mentioned, the childcare entitlement, the investment in free breakfast clubs and making more children eligible for free school meals can make a real difference and help to ensure that every child gets the best start in life.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Greg Smith (Mid Buckinghamshire) (Con)",
+   "member_id": 4778,
+   "type": "Contribution",
+   "text": "Today is my youngest child’s first day at school, so may I put on record my thanks to Chearsley and Haddenham Under Fives for providing exceptional early years education to both my sons, Charlie and Rupert, over recent decades? I mean years—it feels like decades! There is much to genuinely welcome from the expansion of the childcare revolution that the Minister has outlined today, which was started by the previous Government. However, coalface reports from providers like the Big Top Nursery, which has sites in Waddesdon and Berryfields in my constituency, say that Government funding only just covers or does not quite cover the full cost of them providing the exceptional care and education that they do. The double whammy of the national insurance jobs tax increase makes that all the more difficult, so may I urge the Minister, who has met me before to discuss this subject, to really look at the true cost of providing exceptional education to children in Mid Buckinghamshire, and make the case to the Treasury that the funding needs to be higher?",
+   "name": "Greg Smith",
+   "party": "Con",
+   "seat": "Mid Buckinghamshire"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I wish the hon. Gentleman’s children good luck as they start school this week. As I mentioned earlier, in this financial year alone we plan to provide more than £8 billion for early years entitlement—an increase of more than 30% compared with the last financial year. We have also announced the largest increase in the early years pupil premium since its introduction, which is a significant boost, and investment in targeted support for the most disadvantaged in our communities. As I mentioned earlier, we will review funding rates in due course, and I am very happy to meet the hon. Member to discuss these issues.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Sam Rushworth (Bishop Auckland) (Lab)",
+   "member_id": 5108,
+   "type": "Contribution",
+   "text": "While the leader of Reform UK, the hon. Member for Clacton (Nigel Farage), is off in America encouraging them to ruin the livelihoods of families in Bishop Auckland, I am really pleased that this Government are saving my constituents thousands of pounds in childcare, but this is not just about childcare. We know that the ages of nought to five are the most important in deciding a person’s outcomes later in life, which includes the interventions in the Best Start family hubs. The previous Government closed 13 Sure Start centres in my constituency; this Government are making a good start, but we will still only really have one hub. Will the Minister meet me to discuss some of our goals locally to open a couple more centres and see how we can support that best start for children in our area?",
+   "name": "Sam Rushworth",
+   "party": "Lab",
+   "seat": "Bishop Auckland"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I am very happy to meet my hon. Friend. The 1,000 Best Start family hubs that we have been rolling out across the country will make a huge difference, ensuring that every child gets the best start in life, alongside the parent hub that we launched earlier this week, which will provide practical support to parents on breastfeeding, access to childcare and other issues. I note that no Reform Members are in the House today, and I know the public will note that too.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Jess Brown-Fuller (Chichester) (LD)",
+   "member_id": 5335,
+   "type": "Contribution",
+   "text": "I thank the Minister for his statement. Maintained nurseries such as Chichester nursery school provide bespoke support for children, especially those with special educational needs and disabilities, but less than 400 maintained nurseries remain open. Will he outline what steps he is taking to ensure long-term financial stability for those nurseries so that they can keep the lights on and continue supporting the children they care for in their critical early years?",
+   "name": "Jess Brown-Fuller",
+   "party": "LD",
+   "seat": "Chichester"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "We aim to ensure that every child with developmental differences and special educational needs is supported at the start of their life. The hon. Lady will know that we will publish a White Paper on those issues later this year. I commend the work of maintained nurseries; they provide a unique role in communities across the country, and I hope they have a bright future ahead of them in the light of the ambitions we set out in the “best start in life” strategy in July.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Dave Robertson (Lichfield) (Lab)",
+   "member_id": 5126,
+   "type": "Contribution",
+   "text": "I thank the Minister for all the work he has done in bringing us so far, so quickly. I have three school nurseries opening in my constituency this year, which will mean dozens of families and scores of children being given the very best start. Can he advise me on how best I can remind those parents that while we hear platitudes from Opposition parties, they have either voted against or failed to support all the measures we are taking to fund this provision? The Minister mentioned a plan without a pledge; it is this Government who are delivering on a plan for that pledge.",
+   "name": "Dave Robertson",
+   "party": "Lab",
+   "seat": "Lichfield"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I can tell from my hon. Friend’s question how passionate he is about these issues. This Government want to break down the barriers to opportunity to ensure that every child succeeds and thrives. I have already set out a number of measures that we are undertaking to deliver that, and I really look forward to working with him to ensure that every child in his constituency gets the best start in life, whatever their background.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Tom Gordon (Harrogate and Knaresborough) (LD)",
+   "member_id": 5032,
+   "type": "Contribution",
+   "text": "I welcome the positive step towards providing affordable childcare. Coppice Valley primary school in my constituency is part of phase 1 of the scheme that the Minister outlined. However, it worries me that what he has outlined might come at the expense of private and voluntary sector providers, which deliver the majority of early years places. The new early years funding contract is putting huge strain on such providers, which are having to pass the unaffordable costs on to parents. The Minister has said that there will be a review of the funding in due course, but can he give us some more specific dates and timelines? Nurseries and parents cannot afford this issue in the meantime.",
+   "name": "Tom Gordon",
+   "party": "LD",
+   "seat": "Harrogate and Knaresborough"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "It is really important that early years education is delivered in a way that is fair and affordable for parents. As a key part of the strategy we published earlier this year, I am very pleased that there are schools in the hon. Gentleman’s constituency that will deliver the school-based nursery programme. As I mentioned in my statement, I visited one in Warrington last week that was a really good partnership between the school and a private provider. I really encourage him to look at that model to see how that could work in his constituency.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "Order. I remind Members that we are finishing this statement at 1.30 pm. Can we keep questions very succinct?",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Rachael Maskell (York Central) (Ind)",
+   "member_id": 4471,
+   "type": "Contribution",
+   "text": "This September, Poppleton Road primary school will be opening its nursery for the little people of York, lifting families out of poverty and giving them the best start. Will the Minister say how he will evaluate this programme? It is really important that we are able to prove the case that the investment in early years makes a difference to people’s life chances.",
+   "name": "Rachael Maskell",
+   "party": "Ind",
+   "seat": "York Central"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "We will in due course set out more details on how we will evaluate the programme, but we have already learned lessons from the first phase on how we want to receive and evaluate applications. I really encourage the hon. Member to meet me to look at the detail, and I am very happy to discuss these issues further.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Siân Berry (Brighton Pavilion) (Green)",
+   "member_id": 5314,
+   "type": "Contribution",
+   "text": "The work I did this year with Mandu Reid, the former leader of the Women’s Equality party, found a continuing crisis among the providers of childcare. Our call was for broader investment in pay, conditions and training, to mitigate national insurance contribution burdens and to take real action on morale. How will the £45 million announced today really help those existing childcare workers who are right on the verge of leaving the sector?",
+   "name": "Siân Berry",
+   "party": "Green",
+   "seat": "Brighton Pavilion"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "The hon. Lady is absolutely right about the valuable role that childminders play in the childcare we are delivering across our country. We have seen the number of childminders halve in recent years, which is why we are investing in their workforce. They are key to our plan for change, and we are committed to working with the sector to deliver the changes that we set out at the election.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Gareth Snell (Stoke-on-Trent Central) (Lab/Co-op)",
+   "member_id": 4595,
+   "type": "Contribution",
+   "text": "I think the whole House can welcome the investment that has been announced today. We know that going through early education makes young people more ready for school, and closing the school readiness gap also closes the attainment gap later on in education settings. When I visit primary schools across Stoke-on-Trent Central, the one thing they tell me is that they are bursting at the seams—they are full. Will the Minister set out what conversations he has had, either inside the Department or between his Department and the Treasury, about identifying the capital funding necessary to ensure that schools have the high-quality physical spaces in which these nurseries will be based?",
+   "name": "Gareth Snell",
+   "party": "Lab/Co-op",
+   "seat": "Stoke-on-Trent Central"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I know my hon. Friend is a real champion for encouraging children to learn and to engage in their local community, and I have met him to discuss the work we are doing on literacy, and I am very happy to take away the points he raises. We are investing in the school-based nursery programme and in school capital funding. If he has particular examples that he wants me to follow up on in the Department, I am very happy to do so.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Lincoln Jopp (Spelthorne) (Con)",
+   "member_id": 5332,
+   "type": "Contribution",
+   "text": "I visited a nursery in Staines in my constituency, and the head there reported to me that, because of the charging regime and what they can and cannot charge for, every Saturday morning she ends up doing many hours of work on education, health and care plans, for which she cannot pass on the cost. Does the Minister recognise that phenomenon? If so, is it widespread?",
+   "name": "Lincoln Jopp",
+   "party": "Con",
+   "seat": "Spelthorne"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "The hon. Member makes a number of points with regard to charging. It is worth saying that we updated the statutory guidance on Government-funded entitlement so that it gives additional information to parents on what they can and cannot be charged for. That is about bringing transparency to the system so that parents can access more information on what they can and cannot expect, and it confirms the ruling from the High Court judgment earlier this year on what providers can and cannot charge for. I mentioned earlier that we are reviewing the broken SEND system that we inherited from the Conservatives. We are getting on and delivering a system that is fairer and ensures that confidence and trust is rebuilt with parents.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Matt Rodda (Reading Central) (Lab)",
+   "member_id": 4654,
+   "type": "Contribution",
+   "text": "I warmly welcome the Minister’s announcement today. Will he say a little more about the wide range of potential benefits to families, to children, in terms of their educational development, and to the wider economy as a result of helping parents to get back to work?",
+   "name": "Matt Rodda",
+   "party": "Lab",
+   "seat": "Reading Central"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "My hon. Friend is a real champion on these issues in his constituency. What we are announcing today will give more choice and convenience to parents, helping to cut the double drop-off and making daily life easier for them. More families will save money with funded childcare worth up to £7,500 a year, and more children will start school ready to learn, with high-quality early years provision in their communities.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "James MacCleary (Lewes) (LD)",
+   "member_id": 5265,
+   "type": "Contribution",
+   "text": "As chair of the all-party parliamentary group for early education and childcare, I speak frequently to representatives of the private and voluntary childcare sector, who tell me that they are in crisis. Staffing shortages and an unsustainable funding model mean that they do not know how they will deliver the very laudable aims outlined in the Government’s statement. Does the Minister understand that those aims are unachievable without the support of the private and voluntary sector? Will he agree to attend a meeting of our APPG to hear directly from key voices in the sector?",
+   "name": "James MacCleary",
+   "party": "LD",
+   "seat": "Lewes"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I know that the hon. Member will have listened closely to my statement. I commend the hard work of the sector across the country in delivering the milestone that we have met today—an increase in those providing the entitlement offer by 5,800 and an uplift in the workforce of 18,000. We will be spending £9 billion on early education next year, and I am really keen to continue my work with the sector to bring about the change that people voted for at the election last year.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Kirsteen Sullivan (Bathgate and Linlithgow) (Lab/Co-op)",
+   "member_id": 5179,
+   "type": "Contribution",
+   "text": "As a mother who at one point had three children under four and had to take time out of the workplace, I welcome the great strides made by this Labour Government to support parents and children. In Scotland, parents have access to 1,140 funded hours, but for too many parents—particularly those who want to work in the hospitality, retail and care sectors—that just does not work, due to the inflexible nature of those hours. Will the Minister commit to learning the lessons from Scotland and consider flexible hours going forward?",
+   "name": "Kirsteen Sullivan",
+   "party": "Lab/Co-op",
+   "seat": "Bathgate and Linlithgow"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "I remind Members that a lot of people want to get in. Please keep your questions short.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for her question. Of course, these issues are devolved, but I look forward to hearing her thoughts and views on them. I encourage her to write to me, and I can certainly raise her points with the relevant teams across the Department and across Government.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Vikki Slade (Mid Dorset and North Poole) (LD)",
+   "member_id": 5327,
+   "type": "Contribution",
+   "text": "I know that Ministers are probably sick of hearing about national insurance increases and my repeated calls for business rates exemptions, as they have in Scotland. However, the strain of costs is leading to practices that are affecting families—for example, a nursery chain in my constituency that has numerous branches only allows families to take their funded hours in the afternoons, forcing them to pay for the mornings that they actually need. Those families are now worse off than when they had fewer hours. What is the Minister going to do to help such families?",
+   "name": "Vikki Slade",
+   "party": "LD",
+   "seat": "Mid Dorset and North Poole"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I have mentioned the investment that we are putting into early education—£8 billion this year and £9 billion next year. We have announced the largest ever increase in the early years pupil premium, and case studies from across the country are demonstrating the difference that this programme is making. However, as I mentioned, we want to make the process simpler for parents and learn lessons from the past, and we will set that out in due course as part of our wider reform agenda.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Luke Akehurst (North Durham) (Lab)",
+   "member_id": 5112,
+   "type": "Contribution",
+   "text": "I am looking forward to visiting Bloemfontein primary school in my constituency, where a new school-based nursery is about to open. Can the Minister outline what the measures announced today will mean for hard-working parents in North Durham who are trying to juggle work and family life?",
+   "name": "Luke Akehurst",
+   "party": "Lab",
+   "seat": "North Durham"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "As I mentioned earlier, there will be more choice and convenience for parents, helping to cut the double drop-off at school and making daily life easier. More families will save money through funded childcare worth up to £7,500 a year, and more children will start school ready to learn. It is a huge programme of work that I know will make a huge difference in my hon. Friend’s constituency.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "David Chadwick (Brecon, Radnor and Cwm Tawe) (LD)",
+   "member_id": 5284,
+   "type": "Contribution",
+   "text": "I wish to declare that I have two young children under the age of four. While the expansion of free childcare is welcome news for parents in England, does the Minister recognise that families in Wales are being left at a serious disadvantage because his colleagues in Cardiff Bay have refused to match that offer, leaving Welsh families with the least generous childcare provision in Britain? Will he join me in urging the Welsh Labour Government to stop holding Welsh families back, and to commit instead to delivering 30 hours of Government-funded childcare from nine months to four years old, which is something the Welsh Liberal Democrats have long campaigned for?",
+   "name": "David Chadwick",
+   "party": "LD",
+   "seat": "Brecon, Radnor and Cwm Tawe"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "As the hon. Member will know, these are devolved matters and it would therefore be appropriate for him to put his question to Wales Office colleagues. We are a Government who are committed to breaking down the barriers to opportunity, and we will be setting out a UK-wide child poverty strategy later this year, to ensure that every child gets the best start in life.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Michael Payne (Gedling) (Lab)",
+   "member_id": 5146,
+   "type": "Contribution",
+   "text": "Our amazing schools play a central role in giving every child the best possible start in life. Will the Minister join me in congratulating Mrs Toner and her entire team at the Good Shepherd Catholic primary academy on their recent and incredibly well-deserved outstanding Ofsted report?",
+   "name": "Michael Payne",
+   "party": "Lab",
+   "seat": "Gedling"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "That is fantastic news to hear. My hon. Friend regularly engages with schools and nurseries across his constituency to make sure he is aware of the issues and challenges they are facing, and he works really closely with those schools and nurseries to ensure that we bring about the change that people voted for last July.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Freddie van Mierlo (Henley and Thame) (LD)",
+   "member_id": 5296,
+   "type": "Contribution",
+   "text": "Nursery fees are crippling, running to thousands of pounds per child per month after the expansion of funded hours. Parents are making reproductive choices solely on the basis of the cost of childcare—is it any wonder that the total fertility rate in this country has plummeted? Does the Minister consider this to be “job done”, or will he commit to radically reducing the cost of childcare?",
+   "name": "Freddie van Mierlo",
+   "party": "LD",
+   "seat": "Henley and Thame"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "This is absolutely not “job done”—it is the start of the next journey of change, to make sure that every child gets the best start in life. We want to make life easier for parents across the country. The things I am announcing today will make a difference, but there is more for this Government to do.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Natasha Irons (Croydon East) (Lab)",
+   "member_id": 5119,
+   "type": "Contribution",
+   "text": "I welcome this Government’s commitment to breaking down barriers to opportunity, as well as their investment in Fairchildes and Monks Orchard primary schools in my constituency so that they can expand their nursery provision. Can the Minister outline the role that school-based nurseries play in Labour’s Best Start strategy, and will he join me in urging parents in Croydon East to visit beststartinlife.gov.uk to see the support that is available to them thanks to this Labour Government?",
+   "name": "Natasha Irons",
+   "party": "Lab",
+   "seat": "Croydon East"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I know that my hon. Friend is really passionate about these issues and wanting to make life so much easier for families in her constituency. School-based nurseries will help drive quality in early education and ensure good-quality access for parents. I mentioned the double drop-off that many parents face; accessing a school-based nursery and then dropping off their older child at primary school is a much simpler and more convenient approach. I am very happy to follow up on my hon. Friend’s points to ensure that this scheme is a success in her constituency.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Mr Tom Morrison (Cheadle) (LD)",
+   "member_id": 5090,
+   "type": "Contribution",
+   "text": "I thank the Minister for the way in which he has engaged with my constituents John and Katie, who are running a campaign to make our nurseries safer following the tragic death of their daughter Gigi. A key part of that campaign is introducing safer sleeping guidance in our nurseries, and I understand that the Government are considering plans to update the early years framework on that. Can the Minister give me an idea of the timeline by which those plans will come before Parliament? It is vital that we make our nurseries safer with that safe sleeping guidance.",
+   "name": "Mr Tom Morrison",
+   "party": "LD",
+   "seat": "Cheadle"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank the hon. Member for his question and for his engagement on these extremely important issues. I pay tribute to the family he represents. I have met with them personally to understand the changes they are keen to see. The safety of our youngest children is of the utmost importance to my Department. I am keen to continue to engage with the hon. Member as we hear the family’s concerns and bring about the change that they expect.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Shaun Davies (Telford) (Lab)",
+   "member_id": 5041,
+   "type": "Contribution",
+   "text": "I was delighted to hear recently from headteacher Mrs Solomon and school legend Lynne Purcell, who are excited about rolling out their school-based nursery this week and the difference it will make to communities across Telford. I have also spoken to Mrs McQuiggin and school business manager Sarah Nicholls at Lawley primary school, which serves Telford, about the difference that their breakfast club is making to parents and children. Minister, when can we have some more in Telford?",
+   "name": "Shaun Davies",
+   "party": "Lab",
+   "seat": "Telford"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "My hon. Friend likes to lobby me on these issues, and I pay tribute to his hard work in delivering for his constituency. I also thank those who work in nurseries and schools across his constituency, who we have worked really hard to rebuild the relationship with after the failures of the previous Government.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Jim Shannon (Strangford) (DUP)",
+   "member_id": 4131,
+   "type": "Contribution",
+   "text": "I thank the Minister for his very positive statement. He works very closely with the Minister in Northern Ireland, who announced back in May a package of measures worth some £55 million for the same purpose. The uptake has been huge, and has demonstrated the need for working families to receive help and for children to have support. However, more grandparents are having to work later in life, which means that childcare is at a premium. Has the Minister had the opportunity to discuss that problem with the relevant Minister in the Northern Ireland Assembly, to share ideas and help all regions of the United Kingdom of Great Britain and Northern Ireland to work together?",
+   "name": "Jim Shannon",
+   "party": "DUP",
+   "seat": "Strangford"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "The hon. Member will know that I have prioritised getting to know the Minister responsible in Northern Ireland in order to discuss these issues, and I am really pleased that the Northern Ireland Minister, my hon. Friend the Member for Putney (Fleur Anderson), is sat next to me. I will continue to engage with the Government in Northern Ireland on the issues of workforce and sufficiency, and where we can, I am very keen to support the community in dealing with the challenges they face.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Jim Dickson (Dartford) (Lab)",
+   "member_id": 5223,
+   "type": "Contribution",
+   "text": "The latest figures show that Dartford has seen the second largest rise in families with children of any area in the country, so my constituents will hugely welcome the additional free childcare hours and the new school nurseries that will result from this week’s announcement. Does the Minister agree that not only will these changes give Dartford children the best start in life, they will help Dartford parents get into and sustain work?",
+   "name": "Jim Dickson",
+   "party": "Lab",
+   "seat": "Dartford"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "Today’s milestone moment is delivering real change for families across the country, including in my hon. Friend’s constituency. We are really pleased by the milestone we have met today, but there is much more to come to make sure we break down the barriers to opportunity for every child in every part of the country.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Mr Luke Charters (York Outer) (Lab)",
+   "member_id": 5199,
+   "type": "Contribution",
+   "text": "“Paw Patrol” lunchbox in hand, my son Robin started at a new preschool yesterday, and I can tell the House that I am so proud of him. Will my hon. Friend join me in thanking the staff at York’s preschools and nurseries for their work in expanding free childcare?",
+   "name": "Mr Luke Charters",
+   "party": "Lab",
+   "seat": "York Outer"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "As a relatively new dad, my hon. Friend has been a real champion on these issues in this House, and it was a real pleasure to meet him earlier this year to discuss some of the issues he faces. I pay tribute to those who work in the early years sector in his constituency—they are working day in, day out to ensure every child gets the best start in life.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Peter Swallow (Bracknell) (Lab)",
+   "member_id": 5165,
+   "type": "Contribution",
+   "text": "I welcome today’s announcement that this Government are again expanding school-based nurseries. That programme is already benefiting my constituents with the expansion of Uplands school nursery in Sandhurst. This summer, I also had the real pleasure of visiting Horseshoe Lake in Sandhurst to meet children trying out sailing and paddleboarding through the holiday activities and food programme. Does my hon. Friend agree that the £600 million expansion of that programme demonstrates this Government’s commitment to every child?",
+   "name": "Peter Swallow",
+   "party": "Lab",
+   "seat": "Bracknell"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for visiting the HAF programme in his constituency, where he saw first-hand what a brilliant scheme it is, providing healthy meals, enriching activities and Government-funded childcare places for children from low-income families. That is exactly what this Labour Government want to invest in, and we are.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Sonia Kumar (Dudley) (Lab)",
+   "member_id": 5274,
+   "type": "Contribution",
+   "text": "I warmly welcome the statement. Families in Dudley are now benefiting from 30 hours of Government-funded childcare, including new places in school-based nurseries such as at Beechwood Church of England primary school in St Thomas’s, one of the most deprived wards in the borough. Can the Minister set out how this expansion, alongside more support for parents and investment in early years staff, will help children to start school ready to learn and succeed in the future?",
+   "name": "Sonia Kumar",
+   "party": "Lab",
+   "seat": "Dudley"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "It was a real privilege to visit my hon. Friend’s constituency to see at first hand the hard work she is undertaking with school staff and nursery settings. She is absolutely right: our investment in early years will make a huge difference to children’s lives by allowing them to socialise and to develop the skills they need to succeed in life, as well as delivering real benefits for parents across the country, saving them on average £7,500 a year.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Steve Race (Exeter) (Lab)",
+   "member_id": 5064,
+   "type": "Contribution",
+   "text": "In just one year, up to 2,970 more children will receive free school meals in Exeter. We have received capital investment for Newtown and St Gabriel’s primary schools. Three primary schools in my constituency—Whipton Barton junior and infants and St Sidwell’s—are in the roll-out of breakfast clubs. This week, we have a new school-based nursery at Exwick Heights primary school. Can the Minister set out how that all helps us to achieve our aim to reduce child poverty in Exeter and across the country?",
+   "name": "Steve Race",
+   "party": "Lab",
+   "seat": "Exeter"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "This Government have a clear mission to break down the barriers to opportunity and to remove the stain of child poverty on our society. That is why I was so pleased to announce in the House earlier this year that the down payment on the child poverty strategy will lift 100,000 children out of poverty and ensure that half a million more children can access free school meals from September next year.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Deirdre Costigan (Ealing Southall) (Lab)",
+   "member_id": 5075,
+   "type": "Contribution",
+   "text": "Children and parents at Allenby primary school in my constituency of Ealing Southall are already set to benefit from a newly modernised and expanded nursery as a result of funding from this Labour Government. Can I pass on directly to the Minister the thanks of Mr Hickman, the headteacher, who said that the investment is a fantastic opportunity that the local community is truly grateful for? Does the Minister agree that today’s announcement of 300 more nurseries in schools like Allenby will save thousands of families money on childcare and help them to manage the challenging job of parenting and working?",
+   "name": "Deirdre Costigan",
+   "party": "Lab",
+   "seat": "Ealing Southall"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank Mr Hickman for that feedback. We are absolutely committed to delivering on our commitment to create tens of thousands more places through new and expanded school-based nurseries, backed by more than £400 million of investment. That will help more families access Government-funded childcare and ensure that every child gets the best start in life.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Chris Bloore (Redditch) (Lab)",
+   "member_id": 5109,
+   "type": "Contribution",
+   "text": "Over the summer, thanks to this Labour Government, empty classrooms and underutilised spaces have been turned into high-quality, school-based nursery provision at Matchborough first school in Redditch in my constituency. Does the Minister agree that this Government’s focus on the early years can and will make the biggest difference to children’s lives in my constituency?",
+   "name": "Chris Bloore",
+   "party": "Lab",
+   "seat": "Redditch"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "My hon. Friend is absolutely right. Phase 2 of the school-based nursery programme, with a stronger focus on supporting families in disadvantaged areas, will make a huge difference. From 22 September this year, schools can apply for up to £150,000 from a £45 million fund, enabling at least another 300 school-based nurseries across the country.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Jessica Toale (Bournemouth West) (Lab)",
+   "member_id": 5202,
+   "type": "Contribution",
+   "text": "I recently visited Leaps and Bounds nursery in Winton, and it was clear that the women who work there strive to create a safe and enriching environment for all the young people, so that they are ready to start school when they go. Can the Minister tell me how this Labour Government are making early years education—this critical time in a young person’s life—more accessible and affordable for parents in Bournemouth West?",
+   "name": "Jessica Toale",
+   "party": "Lab",
+   "seat": "Bournemouth West"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "My sister has worked in the early years sector for 30 years, and the early years workforce are at the heart of our Government’s plan for change to ensure that every child gets the best start in life. We are committed to making childcare more affordable and accessible for families. This week, a key milestone has been met, but there is more to do, and I look forward to working with my hon. Friend to make sure that every child, whatever their background, can succeed and thrive through good-quality early education.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Laurence Turner (Birmingham Northfield) (Lab)",
+   "member_id": 5234,
+   "type": "Contribution",
+   "text": "It is so gratifying to see the school-based nursery programme going from an idea to a reality. I place on record an appreciation of the positive role that the trade union movement, and in particular the GMB, has played in nurturing that idea in response to the problem of falling rolls. Will the Minister please set out a bit more information for schools in my constituency that may wish to apply for phase 2 funding on the steps they should take next?",
+   "name": "Laurence Turner",
+   "party": "Lab",
+   "seat": "Birmingham Northfield"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank all those who have contributed to the key milestone that has been met today. My hon. Friend mentioned the valuable role of trade unions, and I agree with him. Today, we are launching phase 2 of the school-based nurseries programme, with a stronger focus on supporting families in disadvantaged areas. The application window for schools to apply will open on 22 September, and I know he will be keen to encourage schools in his constituency to apply for this exciting opportunity.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Jonathan Davies (Mid Derbyshire) (Lab)",
+   "member_id": 5256,
+   "type": "Contribution",
+   "text": "Sure Start was one of the proudest legacies of the last Labour Government. We must be grateful to Tessa Jowell for her contribution in making that happen. I am pleased that we are recapturing the spirit of Sure Start through such initiatives as free breakfast clubs, including at Morley primary school in my constituency. Can the Minister say a little more about what today’s announcement will mean for parents and children in Mid Derbyshire?",
+   "name": "Jonathan Davies",
+   "party": "Lab",
+   "seat": "Mid Derbyshire"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "My hon. Friend is right to flag the significance of free breakfast clubs in primary schools, which we are rolling out across every primary school in the country. That is on top of what we have delivered today with our funded childcare, with 30 hours of support each week. That will save parents on average £7,500 a year. We are a Government who take seriously support for children and families across the country, easing some of the pressures they face, but also ensuring that every child gets the best start in life.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Antonia Bance (Tipton and Wednesbury) (Lab)",
+   "member_id": 5048,
+   "type": "Contribution",
+   "text": "I am so glad to see the extension of the holiday activities and food programme. Will the Minister join me in paying tribute to the work of Jo Haydon and all the staff and volunteers at the 4 Community Trust in Hateley Heath—one of the areas of highest child poverty in my constituency—and their delivery of the HAF programme this year?",
+   "name": "Antonia Bance",
+   "party": "Lab",
+   "seat": "Tipton and Wednesbury"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I pay tribute to all those who have helped deliver the holiday activities and food programme in my hon. Friend’s constituency and across the country. We have had 5 million days delivered this year alone. That is a huge investment in our children’s futures and making sure they have access to good-quality enrichment activities, hot food and opportunities that they might not ordinarily get at school or at home.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "John Slinger (Rugby) (Lab)",
+   "member_id": 5127,
+   "type": "Contribution",
+   "text": "I attended the inaugural meeting of the all-party parliamentary group on play this week, chaired ably by my hon. Friend the Member for Bournemouth East (Tom Hayes), and heard more about the importance of play. I am glad that is referenced several times in the Government’s excellent strategy. Have the Government looked at the approach taken by Finland in ensuring that play forms a central part of early education—specifically play facilitated by educational professionals aimed at preparing children for learning?",
+   "name": "John Slinger",
+   "party": "Lab",
+   "seat": "Rugby"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "My hon. Friend will know that our landmark strategy sets out our first steps towards delivering a decade of national renewal and strengthening family services. We are always keen to learn from other countries, because in order to achieve our ambitions as a country, we need to learn from elsewhere. He will know the value I place, as a former playworker, on play provision, and I am happy to discuss these issues further with him.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker (Judith Cummins)",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "Finally, I call Chris Vince.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Chris Vince (Harlow) (Lab/Co-op)",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "Thank you, Madam Deputy Speaker. You are still a national treasure to me. I thank the Minister for his important statement, which will make a huge difference to young people and families in my constituency. Over recess, I held a roundtable for parents of SEND children in Harlow. The No. 1 thing that they said would support their children was early intervention to ensure they have the best possible start in life, which will support them in schools and later in employment. Will the Minister guarantee that this early intervention—this proactive approach to childcare and education—will be a golden thread that runs through this Labour Government?",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Stephen Morgan",
+   "member_id": 4653,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for his proactivity in bringing parents together to hear their thoughts and views. We are a Government who are listening to what parents tell us, and we want to act to ensure that every child gets the best start in life. He is absolutely right that investing in early education and supporting early intervention around any additional needs that children have are vital in ensuring that every child gets the best possible outcomes and life chances. I know that he will continue to work with us to make sure that happens in his constituency and across the country.",
+   "name": "Stephen Morgan",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Madam Deputy Speaker",
+   "member_id": 4391,
+   "type": "Contribution",
+   "text": "That concludes the statement. I thank the Minister and Members for helping each other out and keeping questions and answers succinct.",
+   "name": "Chair",
+   "role": "Chair"
+  }
+ ],
+ "fetched": "2026-10-21T20:26:56Z"
+}

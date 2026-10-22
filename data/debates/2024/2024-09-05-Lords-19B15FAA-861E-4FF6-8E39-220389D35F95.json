@@ -1,0 +1,633 @@
+{
+ "ext_id": "19B15FAA-861E-4FF6-8E39-220389D35F95",
+ "date": "2024-09-05",
+ "house": "Lords",
+ "section": "Debate",
+ "title": "Independent Schools: VAT Exemption",
+ "parents": [
+  "Lords Chamber"
+ ],
+ "location": "Lords Chamber",
+ "url": "https://hansard.parliament.uk/Lords/2024-09-05/debates/19B15FAA-861E-4FF6-8E39-220389D35F95/IndependentSchoolsVatExemption",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Lord Lexden",
+   "party": "Con",
+   "member_id": 4202
+  },
+  {
+   "name": "Baroness Ramsey of Wall Heath",
+   "party": "Lab",
+   "member_id": 5022
+  },
+  {
+   "name": "Lord Addington",
+   "party": "LD",
+   "member_id": 3453
+  },
+  {
+   "name": "Lord Alton of Liverpool",
+   "party": "CB",
+   "member_id": 738
+  },
+  {
+   "name": "The Lord Bishop of Southwark",
+   "member_id": 4345
+  },
+  {
+   "name": "Lord Davies of Brixton",
+   "party": "Lab",
+   "member_id": 4893
+  },
+  {
+   "name": "Baroness Fraser of Craigmaddie",
+   "party": "Con",
+   "member_id": 4906
+  },
+  {
+   "name": "Baroness Finlay of Llandaff",
+   "party": "CB",
+   "member_id": 3609
+  },
+  {
+   "name": "Lord Forsyth of Drumlean",
+   "party": "Con",
+   "member_id": 1141
+  },
+  {
+   "name": "Baroness Bull",
+   "party": "CB",
+   "member_id": 4706
+  },
+  {
+   "name": "Lord Maude of Horsham",
+   "party": "Con",
+   "member_id": 115
+  },
+  {
+   "name": "Lord Griffiths of Burry Port",
+   "party": "Lab",
+   "member_id": 3707
+  },
+  {
+   "name": "Lord Taylor of Holbeach",
+   "party": "Con",
+   "member_id": 3787
+  },
+  {
+   "name": "Lord Roberts of Belgravia",
+   "party": "Con",
+   "member_id": 4961
+  },
+  {
+   "name": "Lord Hampton",
+   "party": "CB",
+   "member_id": 4951
+  },
+  {
+   "name": "Lord Balfe",
+   "party": "Con",
+   "member_id": 4302
+  },
+  {
+   "name": "Lord Lucas",
+   "party": "Con",
+   "member_id": 1879
+  },
+  {
+   "name": "Lord Bilimoria",
+   "party": "CB",
+   "member_id": 3809
+  },
+  {
+   "name": "Lord Hacking",
+   "party": "Lab",
+   "member_id": 3580
+  },
+  {
+   "name": "Baroness Garden of Frognal",
+   "party": "LD",
+   "member_id": 3842
+  },
+  {
+   "name": "Baroness Monckton of Dallington Forest",
+   "party": "Con",
+   "member_id": 5020
+  },
+  {
+   "name": "Lord Black of Brentwood",
+   "party": "Con",
+   "member_id": 4171
+  },
+  {
+   "name": "Baroness Butler-Sloss",
+   "party": "CB",
+   "member_id": 3804
+  },
+  {
+   "name": "Lord Kirkhope of Harrogate",
+   "party": "Con",
+   "member_id": 891
+  },
+  {
+   "name": "Lord Winston",
+   "party": "Lab",
+   "member_id": 1770
+  },
+  {
+   "name": "Lord Naseby",
+   "party": "Con",
+   "member_id": 1251
+  },
+  {
+   "name": "The Earl of Clancarty",
+   "party": "CB",
+   "member_id": 3391
+  },
+  {
+   "name": "Baroness Lawlor",
+   "party": "Con",
+   "member_id": 4965
+  },
+  {
+   "name": "Lord Kempsell",
+   "party": "Con",
+   "member_id": 4988
+  },
+  {
+   "name": "The Earl of Devon",
+   "party": "CB",
+   "member_id": 4707
+  },
+  {
+   "name": "Lord Fairfax of Cameron",
+   "party": "Con",
+   "member_id": 2760
+  },
+  {
+   "name": "Lord Etherton",
+   "party": "CB",
+   "member_id": 4902
+  },
+  {
+   "name": "Lord Fuller",
+   "party": "Con",
+   "member_id": 5017
+  },
+  {
+   "name": "Lord Shinkwin",
+   "party": "Con",
+   "member_id": 4557
+  },
+  {
+   "name": "Lord Wallace of Saltaire",
+   "party": "LD",
+   "member_id": 1816
+  },
+  {
+   "name": "Baroness Barran",
+   "party": "Con",
+   "member_id": 4703
+  },
+  {
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education",
+   "member_id": 269
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Lord Lexden",
+   "member_id": 4202,
+   "type": "Contribution",
+   "text": "That this House takes note of the contribution of independent schools, and any potential effects that changes to the VAT exemption for independent school fees could have.",
+   "name": "Lord Lexden",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Lexden (Con)",
+   "member_id": 4202,
+   "type": "Contribution",
+   "text": "My Lords, I sought this debate because our country’s independent schools—of which there are some 2,500 in total—face an imminent and dramatic change in their circumstances, which will have serious and far-reaching consequences. The Government are to put VAT on their fees in fulfilment of a pledge given in Labour’s recent election manifesto. This education tax, the first to be introduced in Britain—and, apart from a disastrous recent experiment in Greece, the first in Europe—is being imposed on schools with extraordinary haste. At the very end of July, the Government announced, wholly unexpectedly, that their education tax would come into effect at the very beginning of next year. Now, 1 January 2025 is just under four months away. Schools and parents have made their plans for the academic year that is now beginning. How on earth do the Government imagine that these plans can be swiftly and easily rearranged? It is of course impossible, and it is quite wrong that schools and parents should have been plunged into such difficulties. Acute concern has naturally arisen. Many parents are deeply worried. Many schools, particularly those of small size which account for the overwhelming maj",
+   "name": "Lord Lexden",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Ramsey of Wall Heath (Lab)",
+   "member_id": 5022,
+   "type": "Contribution",
+   "text": "My Lords, I refer to my interests in the register. I have been lucky enough to play a role in the governance of both state and independent schools. From 2016 until recently, I was chair of Young Epilepsy, which, among many other things, runs a wonderful special independent school in Surrey, called St Piers, for both day and boarding pupils. I am currently a board member of the Lift Schools multi-academy trust—formerly AET—which runs 57 state schools across the country. So noble Lords might think I would find myself somewhat torn when considering the arguments for and against charging independent schools VAT and spending the money generated by so doing on state schools—but I am not. At Lift Schools, I can see at first hand just how vital that extra injection of money is. In the words of our inspirational chief executive: “We simply don’t have enough teachers in our schools. This is down to absolute numbers, but it is also down to the fact that the role of a teacher has been stretched beyond anything imaginable 10 years ago. No longer simply an educator, they are social worker, mental health first aider, a parent for some. One of the casualties of this raid on discretionary effort is",
+   "name": "Baroness Ramsey of Wall Heath",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Addington (LD)",
+   "member_id": 3453,
+   "type": "Contribution",
+   "text": "My Lords, this is a debate that I never thought I would be taking part in, the tone of which we should note. We on these Benches do not like what is going on here in education. Different bits of the education sector are being taxed differently. With special educational needs, you can claim some of the money back. Well, that is always going to run smoothly; there will never be a cashflow problem and nobody will ever get it wrong. Also, it is dependent on that wonderful thing, an education and healthcare plan. If there is a more unloved bit of the education sector than the education and healthcare plan, I have not seen it. It takes about two years to get—if you have the right lawyer and the right type of parents, who fight for it. Schools are blocking it because they do not want it to go through. The weirdest thing about it is that we have broken the £100 million barrier of public money going into resisting it and going to tribunals. Some 90% plus of the tribunals are granted—it is almost a rite of passage. If the Government had said that they would help the private sector in dealing with special educational needs, having dealt with this first, they would be getting a much more favou",
+   "name": "Lord Addington",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Alton of Liverpool (CB)",
+   "member_id": 738,
+   "type": "Contribution",
+   "text": "My Lords, in welcoming the noble Baroness, Lady Smith of Malvern, to her new responsibilities, I also say at the outset that I am grateful to her for promising to respond, when she replies, to some detailed questions I have sent to her. I also thank the admirable noble Lord, Lord Lexden, for the customarily powerful and eloquent way in which he introduced today’s important debate. I agree with everything that he has said today. For family reasons my Cross-Bench colleague and noble friend Lord Pannick is unable to be here today. He has looked at this education tax and its potential conflict with the European Convention on Human Rights. He tells me that it “is strongly arguable that the imposition of VAT would breach Article 2 of the First Protocol read on its own (access to educational facilities) or with Article 14 of the Convention (arbitrary discrimination in the enjoyment of educational facilities)”. I serve on the Joint Committee on Human Rights, whose mandate is to monitor potential conflict between government policies and the ECHR. My noble friend Lord Pannick says that “it would be a very valuable service if the Joint Committee could look at this”. I agree, and I hope that t",
+   "name": "Lord Alton of Liverpool",
+   "party": "CB"
+  },
+  {
+   "who": "The Lord Bishop of Southwark",
+   "member_id": 4345,
+   "type": "Contribution",
+   "text": "My Lords, the Government’s intention to levy value added tax in this area was a manifesto commitment at the general election. The Government entertain a well-evidenced belief that parents purchase an economic and social benefit for their children’s future through private schooling. Whatever the experience any of your Lordships have had of such schooling, the undoubted premium placed on forming character or the excellence in pastoral care that some of these schools exhibit, the Government nevertheless have a mandate for change. The noble Baroness, Lady Ramsey, underlined the pressing need for more teachers in our state schools. However, who will and who will not be affected by this change is a worthy subject of debate. I am happy to say that both the boys’ and girls’ choirs at Southwark Cathedral are almost entirely drawn from state schools, and are consequently unaffected by the VAT change. Furthermore, a number of schools in my diocese offering provision for special educational needs and disabilities have their places funded by the local authorities. But there are cathedral and choir schools, and private schools, with provision for special educational needs that will be severely a",
+   "name": "The Lord Bishop of Southwark"
+  },
+  {
+   "who": "Lord Davies of Brixton (Lab)",
+   "member_id": 4893,
+   "type": "Contribution",
+   "text": "My Lords, I thank the noble Lord, Lord Lexden, for introducing this debate. No one doubts the strength of his feeling on the issue. I suspect that much of his speech overrated the problems that the private sector will face, and my view is that it will survive, but he quite rightly raised a number of practical issues towards the end of his speech which I am sure my noble friend Lady Smith of Malvern will address in her reply. I take the opportunity to welcome her to her place. I speak as a parent but also as someone who had experience running a public education service, and that drives my view of the necessity for this measure. Of course, the actual discussion will take place when we get the finance Bill, when we will doubtless have this debate again, but it is entirely appropriate that we should discuss it now. I want to stress that VAT is a tax—no surprise there, but there is a big debate within the public expenditure discussions about the appropriate balance between income taxes and expenditure taxes. There are those who believe that there should be a greater reliance on expenditure taxes. That is an issue, but it means that they are both providing the same function; they are bot",
+   "name": "Lord Davies of Brixton",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Fraser of Craigmaddie (Con)",
+   "member_id": 4906,
+   "type": "Contribution",
+   "text": "My Lords, I add my thanks to my noble friend Lord Lexden for his determination to enable us to debate this issue. The draft Bill which has been published is, to me, a blunt instrument. It treats the sector as a homogenous whole, so causing unintended consequences that implementing the policy in the middle of the school year will not enable us to unravel, let alone resolve. Time is of the essence, not least the limited time that we have to speak today, so I would like to request that the Minister convenes a round table to explore with interested parties the unintended consequences of the current draft legislation in greater depth. I declare my interest as a former pupil of a specialist vocational performing arts school. I also have a child at a fee-paying independent day school in Scotland and a sister who is a teacher at another. In the King’s Speech debate, I highlighted my worries about the impact on SEND children. Others have expanded on this, and I support them wholeheartedly. The Local Government Association has called for SEND provision to be reformed; I trust that we can explore this on another day with a little more time. The first sentence of the Treasury’s technical note ",
+   "name": "Baroness Fraser of Craigmaddie",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Finlay of Llandaff (CB)",
+   "member_id": 3609,
+   "type": "Contribution",
+   "text": "My Lords, I declare that I am an associate of the Girls’ Day School Trust. I am grateful for the many sacrifices my parents made to allow me to go to Wimbledon High School after I failed my 11-plus pretty badly. I have been the governor of Howell’s School in Llandaff, a Girls’ Day School Trust school. We should not be pitching one sector against another, but we must realistically acknowledge the unintended consequences of the VAT proposals and the speed with which they are being introduced. Howell’s School, whose pupils come from all walks of life, estimates that 11% of families will no longer be able to afford the fees, causing disruption and distress to those forced to leave a school community where they are happy and established. Howell’s will no longer be able to provide bursaries that have tided children over when disaster struck, such as three siblings I knew well, who were suddenly left orphaned and completely destitute. Continuity of education at the school and care allowed them to achieve, against all odds. When Ukrainian refugees arrived in Cardiff, the school welcomed eight students aged three to 17 into its community. Some spoke no English; many had experienced signific",
+   "name": "Baroness Finlay of Llandaff",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Forsyth of Drumlean (Con)",
+   "member_id": 1141,
+   "type": "Contribution",
+   "text": "My Lords, I have only four minutes so I will sum up my view of this policy in three words: wicked, stupid and cruel. I have spent the summer receiving emails from vast numbers of parents. The noble Lord, Lord Davies, told us he had not had time to read all of them. If he had done so, he would be heartbroken.",
+   "name": "Lord Forsyth of Drumlean",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Davies of Brixton (Lab)",
+   "member_id": 4893,
+   "type": "Contribution",
+   "text": "My Lords—",
+   "name": "Lord Davies of Brixton",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Forsyth of Drumlean (Con)",
+   "member_id": 1141,
+   "type": "Contribution",
+   "text": "I am not going to give way—he would not give way to me. These are lone parents, single parents perhaps struggling with two jobs in order to pay. They are people who put themselves in danger to defend our country in the armed services. They are parents struggling with children with severe learning difficulties. Who in this Chamber can defend the idea of sending a child who suffers with autism to a completely different environment halfway through term? Anyone who knows anything about autism will know that that would be a cruel and disgraceful thing to do. That is the consequence of this policy. The messages are coming from health workers, teachers and small businesses, people who are struggling to pay those bills. The noble Lord, Lord Foulkes, is not in his place but he told me he was not going to listen to what I had to say because he has seen people turning up in their Range Rovers to schools. The people I am talking about do not have summer holidays and run old cars to scrimp and save to do their best for their child in their circumstances. By the way, every single one of these parents is saving taxpayers money. For the noble Baroness to suggest that this was a tax break—it is not",
+   "name": "Lord Forsyth of Drumlean",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Bull (CB)",
+   "member_id": 4706,
+   "type": "Contribution",
+   "text": "My Lords, the disparity of outcomes between private and state school pupils is well evidenced, and I welcome the commitment to equalise opportunities by rebalancing investment, but I hope Ministers will heed calls for more nuance in how proposed changes are applied. As we have heard, “private schools” is a catch-all term, encompassing both schools paid for by choice and schools providing specialist education for pupils whose needs cannot be met in the state sector. I share concerns already expressed in relation to special educational needs, but I will use my time to expand on the concerns that the draft legislation inadvertently captures a small number of schools providing education for another group of children whose needs cannot be met by the state sector—by which I mean schools providing world-class music and dance vocational training to exceptionally talented children, regardless of background or ability to pay. Successive Governments since the 1970s have recognised that if gifted dancers and musicians are to achieve their potential, they need a level and intensity of training that is impossible to achieve within the structure of a standard curriculum. In 1973, the Yehudi Menuh",
+   "name": "Baroness Bull",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Maude of Horsham (Con)",
+   "member_id": 115,
+   "type": "Contribution",
+   "text": "My Lords, the register carries my declarations that I am chair of governors at Brighton College, a large and successful independent school—which is obviously in Brighton. I was previously chair of governors at my old school, Abingdon, which when I and my brother were there was a direct grant school, a status that was abolished by the Labour Government in the 1970s. It occurs to me to wonder why successive Labour Governments have been more associated with destroying categories of schools—first the grammar schools and direct grant schools and now, in all likelihood, some proportion of the independent sector—rather than creating schools, which would be more natural for a party which, as my noble friend Lord Forsyth suggested, claimed to be for “Education, education, education”. Of course, this was a manifesto commitment, and the Government will rely on that. I remember being told when I was in government that relying on the manifesto commitment is the last refuge of the scoundrel; it is there but it did not have to be done this way. The precipitate haste with which this has been pursued and the lack of any kind of impact assessment when the effects are manifestly clear just from the s",
+   "name": "Lord Maude of Horsham",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Griffiths of Burry Port (Lab)",
+   "member_id": 3707,
+   "type": "Contribution",
+   "text": "My heart has been warmed by the illustration just offered by the noble Lord, Lord Maude, and others like it could be multiplied and accumulated. However, on the other side we can find stories that say exactly the opposite and make the opposite case. Not always do private schools favour places in disadvantaged localities in the way that he has described—would that they did. I passed the 11-plus at the age of 10, but a year later my brother failed, so we lived in two different universes: we had friends who were not the same friends; we dressed differently; he left school at 15, and I had a Rolls-Royce education. However, at the end of the grammar school—which for me was a godsend; it made me—my headmaster took me into his study and said he was forming an Oxbridge class but was not putting me in it, even though he thought I was clever enough, on the grounds that I would not be able to cope with Cambridge socially. It was the right decision and I have never held it against him, but it made me determined to spend the rest of my life, as much as I could in the sphere of education, trying to ensure that educational advantage was offered equally to all, not simply on the basis of money. I ",
+   "name": "Lord Griffiths of Burry Port",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Taylor of Holbeach (Con)",
+   "member_id": 3787,
+   "type": "Contribution",
+   "text": "My Lords, I am delighted to follow the noble Lord, Lord Griffiths. I have always liked his contributions to debate and today is no exception. I particularly wish to thank my noble friend Lord Lexden for proposing this debate, because it is opportune. It is really important that we talk about this issue. The debate shows that education is seen by all of us here as a public good—something that needs investment. I think the present Government are mistaken in believing that they have a solution in trying to transfer resources from the independent sector to the public sector. That is the wrong way to go about raising money to reinforce education. There are other ways of raising tax not on the subject itself. If it is education today, it could be medical and social care tomorrow—the NHS equally needs investment; its staff equally need pay. I say to noble Peers opposite and the Government that I really think this is the wrong way of going about the problem. I will talk a little about my personal history. I am a local person: I was born in Holbeach, lived in Holbeach and went to Holbeach infant school, aged four. I loved my school; I always liked being educated and learning things and it w",
+   "name": "Lord Taylor of Holbeach",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Roberts of Belgravia (Con)",
+   "member_id": 4961,
+   "type": "Contribution",
+   "text": "My Lords, unlike my noble friend Lord Taylor, I had a terrible time at my public school and was expelled—or, more accurately, I was asked to leave and not come back—so I cannot be accused of being parti pris in this in saying that I support public schools. There is one iron law in politics and history—namely, the law of unintended consequences. As Winston Churchill said in his eulogy for Neville Chamberlain, “we are so often mocked by the failure of our hopes and the upsetting of our calculations”. As the noble Lord, Lord Lexden, and several other speakers in the debate have pointed out, the present proposal is suffused with the dangers of unintended consequences. The Government want public schools to become less elitist and exclusive, but as it will be the less financially secure schools that will have to shrink, and maybe in some cases close, that will leave the rest of the independent sector more elitist and exclusive. The Government say that they are prioritising economic growth, but they will effectively let parents keep about £400,000 of post-tax income per child, if they take their children away. Studies show that many parents will reduce their work hours, retire earlier tha",
+   "name": "Lord Roberts of Belgravia",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Hampton (CB)",
+   "member_id": 4951,
+   "type": "Contribution",
+   "text": "My Lords, I must join the chorus of thanks to the noble Lord, Lord Lexden, and pay tribute to the noble Baroness, Lady Barran; we may have disagreed at times when she was a Minister, but nobody could doubt her dedication to making life better for young children. I also welcome the new Minister and, as ever, declare my interest as a teacher in a state school in Hackney, where my children have been educated as well. My own education was quite mixed. I went private, and to a local state school—Dyson Perrins CofE high school, Malvern Link. Yes, I thought that might make the Minister look round. Everyone wants the best for their own children; that is obvious. But history is littered with people who have talked up the state system, then sent their own children private. The best education should be available to everyone, and it should be free, and I am lucky enough to believe that my children have had the best education. I also believe that those who want to should be able to pay for their children’s education. But there is a climate of fear and division in this country, and an idea that private schools equal success and everybody else is going to school with knife-wielding maniacs, in hi",
+   "name": "Lord Hampton",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Balfe (Con)",
+   "member_id": 4302,
+   "type": "Contribution",
+   "text": "My Lords, I thank the noble Lord, Lord Lexden, for initiating this debate which, of course, was tabled before the election. We are now catching up. I agree with noble Lords who said that this was in the manifesto, but it is still a very vindictive policy and the way in which it is being introduced worsens things. Top schools will still be okay. Eton, Harrow, Winchester and the like will not go under. They will stay there. The only schools that will go under are those that are on the margin anyway. There are good schools in places such as Woking, Guildford and Kent, in areas where there are grammar schools. We already have a lot of schools in the state sector which are as good as public schools. Two of my children went to public school. I observed the huge struggle that parents had in paying fees. It was quite common for there not to be a summer holiday. They went to a very average public school in Ely. We used to know it in slang terms as “Farmers’ Comprehensive” because it catered for the rural community of the north part of East Anglia. However, many of the parents there struggled very much. Not only that, when two parents sent their children to the school, for one of those paren",
+   "name": "Lord Balfe",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Lucas (Con)",
+   "member_id": 1879,
+   "type": "Contribution",
+   "text": "My Lords, I declare interests as proprietor of the Good Schools Guide and having sent my children to both state and independent schools. I do not think taxing education is right, but we do. If I spend £20,000 on holidays, I will pay £3,333 in VAT. If I spend that same amount on schooling, I will forgo twice the value of that, and the state will benefit by twice the amount for the cost of schooling that it would have incurred otherwise. In putting VAT on these parents, we are not making tax fair: we are taking people who are already taxed at twice the rate of other people and taxing them at three times the rate. It will not hurt the rich; it will hurt the people who are struggling to afford the fees as they are. As I know from my work at the Good Schools Guide and through correspondence in this House, most of them are people who, one way or another, have found that the state will not educate their children in a way that they need. As the noble Lord, Lord Addington, said, a lot of this is due to special needs: a lot of the education is not provided through education, health and care plans but just as part of ordinary education. This is a tax that is focused on people whom we ought to",
+   "name": "Lord Lucas",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Bilimoria (CB)",
+   "member_id": 3809,
+   "type": "Contribution",
+   "text": "My Lords, the Labour Party’s manifesto stated that if it was elected it would remove the exemption from VAT—and business rates, which noble Lords have not mentioned—for independent schools. It said that there would be a benefit of £1.5 billion and therefore it would employ 6,500 more teachers in the state sector. I thank the noble Lord, Lord Lexden, for his excellent opening speech, and I agree with 100% of his recommendations. I am a governor of Wellington College, where our older daughter was at school for five years under the leadership of Sir Anthony Seldon, the legendary headmaster. I am an international student from India. I came here at the age of 19. I co-chaired the All-Party Parliamentary Group for International Students, and I am president of the UK Council for International Student Affairs. There are many international students at our boarding schools. I attended Hebron School, a British international boarding school in India, and I was back at the school in April for the 120th anniversary celebrations. Recently, I have been appointed honorary president of the British Association of Independent Schools with International Students. I was a member of the Times Education C",
+   "name": "Lord Bilimoria",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Hacking (Lab)",
+   "member_id": 3580,
+   "type": "Contribution",
+   "text": "My Lords, I stand here as a supporter of the Government, but no support can be blind. I cannot support the proposed VAT on independent school fees, whether or not it was in the manifesto. It is immoral and destined to bring about significant social and political damage to my party and the country. There are many serious worries. For example, the introduction of an education tax will put us at odds with every country in the European Union and all federal and state law in the United States of America. There is also a serious worry about a blatant breach of the education provision in article 2 of the first protocol of the European Convention on Human Rights. Unfortunately, the noble Lord, Lord Pannick, is not among us, but we have heard his views through the noble Lord, Lord Alton, and he supports entirely what I just said. The most worrying feature is the failure properly to assess the likely level of forced pupil migration from the independent to the state sector—a vital assessment. The VAT proponents have not revealed their calculations, but the arithmetic is such that any pupil migration above 10% will wipe out any profit for the state and become a progressive burden on the state.",
+   "name": "Lord Hacking",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Garden of Frognal (LD)",
+   "member_id": 3842,
+   "type": "Contribution",
+   "text": "My Lords, I find this a sad debate, but I am delighted to follow the noble Lord, Lord Hacking. I thank the noble Lord, Lord Lexden, for his championship of the sector and his spirited introduction. We had high hopes that the incoming Labour Government would champion education, move away from the stultifying knowledge-based curriculum and look for opportunity for all. The Liberal Democrats would never tax education, and worry that singling out independent schools in this way betrays a vindictive lack of understanding of the breadth and social impact of the sector. I thank all those who have written such moving letters to us about their own stories. Anyone who knows anything about education knows that changes should only ever be made at the beginning of the school year. As many have said, introducing such a significant measure in January will bring great unnecessary stress, as pupils struggle mid-year to adjust to significant change. I join the appeal to the Minister at the very least to postpone this until September, which will also give the chance for proper scrutiny and impact assessment. I fear that the huge sums the Government expect to raise for teachers will prove far from the",
+   "name": "Baroness Garden of Frognal",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Monckton of Dallington Forest (Con)",
+   "member_id": 5020,
+   "type": "Contribution",
+   "text": "My Lords, I declare my interest as set out in the register: I am the founder and chairman of a charity that, among other things, is a special post-16 institution. Our aim is to prepare young people for employment. The charity is Team Domenica, named after my daughter, who has Down’s syndrome. Also, we have staying with us a Ukrainian refugee child, who attends the nearest public school, free, along with four others. Non-maintained special schools have been excluded from the new 20% tax. However, these schools are only a very small part of the special educational needs landscape. Department for Education data shows that there are only 52 such schools, educating 3,965 pupils. Yet there are 753 independent special schools, educating nearly 25,000 pupils, all of whom are potentially liable for VAT. Where their place is funded by the local authority, this can be claimed back, but the school still faces the cost of registering for VAT and the burden of managing the system. Where does that leave specialist colleges such as ours, of which there are 130 in England? At the moment, all Team Domenica’s candidates are over the age of 18, but, if we decide to take on students between the ages of",
+   "name": "Baroness Monckton of Dallington Forest",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Black of Brentwood (Con)",
+   "member_id": 4171,
+   "type": "Contribution",
+   "text": "My Lords, I declare an interest as president of the Boarding Schools’ Association and the Institute of Boarding. This is an intensely personal issue for me. My beloved parents sent my brother and me to Brentwood School, an independent school. They were not at all wealthy—my father owned a shoe shop and my mother looked after the family. It was a real struggle for them, but they never regretted it. To their sacrifice, and an exceptional education at Brentwood, I owe everything. My parents were just the sort of people, battling to make ends meet to pay the fees, who would have been hit hardest by this spiteful policy. They would not have been able to cope with a sudden 20% increase, especially halfway through the school year, and we would have been placed in a state school, adding to their overcrowded classrooms. That is what will happen now—one of many reasons why this policy will end up costing taxpayers money. This truly is voodoo economics. Those affected will be young people at their most vulnerable. They are not statistics, but children with whose lives this Government are heartlessly toying. Fifty years on, I am chairman of governors at the school, and I declare my interest ac",
+   "name": "Lord Black of Brentwood",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Butler-Sloss (CB)",
+   "member_id": 3804,
+   "type": "Contribution",
+   "text": "My Lords, I declare my interest that I went to an independent school, as did my children. I must say, like many others have said so far today, that doing that spent all our money. We did not take foreign holidays and things like that, but it was worth it. I strongly support what the noble Lord, Lord Hacking, said, as well as many other speakers. The Government have not looked across the independent sector; they have concentrated on the great schools. As has been said, the great schools will survive, probably largely because of foreign pupils. I have had a lot of experience of small independent schools, right across the country, and I have had—like everyone else here, I am sure—endless emails from parents from small independent schools, many of which are likely to close. They are often local, and parents have put their children in them for very good reasons. One example I read was of a nine year-old autistic boy who is extremely clever. In the state sector, he was absolutely hopeless. He was removed and sent to a small independent school, where he was cherished. That sort of child may well cope in ordinary school if he has sufficient help, which this child did not have. I also have ",
+   "name": "Baroness Butler-Sloss",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Kirkhope of Harrogate (Con)",
+   "member_id": 891,
+   "type": "Contribution",
+   "text": "My Lords, I declare my interests in this subject, first as a former pupil, then a parent and then a governor of the independent Royal Grammar School in Newcastle upon Tyne. I will concentrate some of my remarks on giving a few facts about my old school. Established in 1525, it is coming up to its 500 years. The school has always promoted a rich social diversity. When I attended, a little later than that, we had the benefit of the assisted places scheme, with many students attending based on their potential, not their financial circumstances. The school has had one of the most distinguished academic records of any school in the United Kingdom, particularly in its region, the north of England. When the assisted places scheme was withdrawn, the school found ways of keeping its diversity by offering support and finding some or all of the fees for many deserving students and later, to this day, seeking bursary advances from institutions, former pupils and others to maintain that broad offer. Nearly 100 students at the school are currently supported by bursaries. Since going co-ed the pupil roll has gone to more than 1,300, and the mix has added to the comprehensive nature of the educati",
+   "name": "Lord Kirkhope of Harrogate",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Winston (Lab)",
+   "member_id": 1770,
+   "type": "Contribution",
+   "text": "My Lords, I work at Imperial College where I am a champion of the outreach group, which has grown considerably over the years. It started 50 years ago; we called it the Pimlico project. That school has benefited massively from the sort of work that we do with it, and across London we have done this continuously since. The big problem is outside London, where what I am seeing, as the person who represents the college mostly outside London, is truly frightening: the lack of aspiration and ambition, and the number of kids who do not consider that it is worth being at school after the age of 15, let alone 16, or who are not able to do A-levels because there is not enough money to do that. There is a crisis in our schools, and it is a crisis in the state sector. It is not diminishing. I go into schools in the north-east and north-west of England. I spend much time in East Anglia, 10 or 15 miles from Cambridge, one or the great seats of learning, and it is extraordinary how great that deprivation is. I also work in the West Country and more recently in Wales, particularly in the parts that are difficult to reach in the middle of Wales on the coast. It is a five-hour journey for me, meani",
+   "name": "Lord Winston",
+   "party": "Lab"
+  },
+  {
+   "who": "Lord Naseby (Con)",
+   "member_id": 1251,
+   "type": "Contribution",
+   "text": "My Lords, I think it is plain to all noble Lords that it is wrong to put a burden on certain families who, faced with increased fees caused by a policy of introducing VAT, find themselves totally adrift. Those children will undoubtedly suffer. Frankly, independent education has been with us for centuries. I declare an interest as having been at Bedford School, which was founded in 1552. It is a boys’ school of just over 1,000 boys, the best part of 25% of whom board. They do so because their families work somewhere abroad and there is no alternative. There is no state boarding. We must reflect on that dimension. We also need to recognise that children today, whether in independent or state education, have been through a shattering experience with Covid. I do not know whether noble Lords saw what happened in individual homes; I certainly saw what happened in my daughter’s home and my son’s home. Sections were set aside for remote education for my two granddaughters. That sort of thing was done throughout my former constituency in Northampton South. Whether we like it or not, those children suffered. That must be recognised. I was a boarder. My parents worked in Lahore and Ottawa. Wh",
+   "name": "Lord Naseby",
+   "party": "Con"
+  },
+  {
+   "who": "The Earl of Clancarty (CB)",
+   "member_id": 3391,
+   "type": "Contribution",
+   "text": "My Lords, I am grateful to the noble Lord, Lord Lexden, for the opportunity to speak in this debate. This is about schools, but I will start by talking briefly about higher education, as it has a bearing on the debate. Ideally, all education should be free, and that ought to include higher education. I strongly believe that it was a grave error of the Blair Government to introduce tuition fees and effectively commercialise universities. Despite the problems we now face, if Germany can successfully operate a free higher education system, for example, why can we not do so if we believe in the principle of free education? I raise higher education in this debate because of the respective choices that face parents and students in every area of education, which may have little to do with principle but everything to do with necessity. We have already heard from my noble friend Baroness Bull about the particular performing arts schools where, unless the state decides it is going to start operating its own tuition-free ballet school, for example, there is no option for the parents and students concerned—just as there has been no option since 1998 in higher education except to get a loan. I ",
+   "name": "The Earl of Clancarty",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Lawlor (Con)",
+   "member_id": 4965,
+   "type": "Contribution",
+   "text": "My Lords, I am very grateful to the noble Lord, Lord Lexden, and I congratulate him on tabling this Motion for us to debate. I am very concerned about the impact it will have on independent schools. I oppose the plan and I hope that we and the Government will think again, given all the reasons we have heard today about the impact on parents, schools who face closure and the wider benefits to the community, which will be lost. This matters more than ever before. Independent schools show not only what can be achieved. They offer competition and an alternative to the state sector. I believe this is, more than ever, important. We are confronted today, not just in this country but in others too, by the total state and its domination over life and liberty, over every area of our lives and our children’s lives, through ever-higher tax, the arrogation to itself of ever greater powers, and ever more spending on what the state, rather than the people, decrees. That will now be extended to independent schools which, unless the Government change their intended policy, will be obliged to pay VAT. Many are charities that originated in municipal, private and church charity under, and helped by, t",
+   "name": "Baroness Lawlor",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Kempsell (Con)",
+   "member_id": 4988,
+   "type": "Contribution",
+   "text": "My Lords, in the debate on the gracious Speech before the Summer Recess, I suggested that the Government’s proposal to impose VAT on school fees would ultimately narrow opportunities across the country rather than widen them. What I did not predict is that the Government would make such a quick success of wreaking havoc on the lives of children who are now living with uncertainty about the implementation of this measure. I want to focus on one such group in particular: Armed Forces families. More than 4,000 military children receive support with school fees via the continuity of education allowance. From Cyprus to Sierra Leone, from South Sudan to the Falklands, the operational demands on these families have a huge impact on their education. Army families, for example, are highly mobile; they are asked to move every two years on average. They receive support so that their children can have continuity by attending boarding schools, minimising the need to constantly switch schools. That funding is capped and there is also a parental contribution, so these are not fully funded places. Of course, these families are far from wealthy, but they are highly concerned that they will be price",
+   "name": "Lord Kempsell",
+   "party": "Con"
+  },
+  {
+   "who": "The Earl of Devon (CB)",
+   "member_id": 4707,
+   "type": "Contribution",
+   "text": "My Lords, it seems that this is a debate somewhat about privilege and so I should declare some privileges as I start. The first is the privilege to listen to such an interesting, balanced and informative debate. The second is the privilege I enjoy, having gone to Eton College, which got a rather stupid student into Cambridge University. The third is the privilege I had of sending my children to state primary and secondary schools in Devon, where the education was excellent and they did very well. Fourthly, I should note the privilege I currently have of hosting Kenton Primary School at Powderham Castle—it moved in this week and therefore I am the landlord of a state primary school. I am not an education expert and was not going to speak in this debate but I was encouraged to by the experience of the people I know locally, particularly families with SEN children and military service families. On SEN children, I really cannot add much more than what the noble Lord, Lord Addington, said, except to note that Covid has obviously been brutal on children’s mental health. It has also been brutal on the mental health services that support our children. The thought that those wholly stretche",
+   "name": "The Earl of Devon",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Fairfax of Cameron (Con)",
+   "member_id": 2760,
+   "type": "Contribution",
+   "text": "My Lords, I too thank my noble friend Lord Lexden for bringing forward this debate. Like many others, I agree with every word that he said. I had intended to speak in this debate in any event, but the pitiful letters that I and many others have received have stiffened my resolve. While this misconceived and ill-thought-through measure was in the Labour Government’s manifesto with the aim of reducing educational inequality, every indication is that its rushed implementation without proper consultation or financial assessment may achieve precisely the opposite, as well as bringing extreme pain to many families and children. The Government’s vindictive proposal is to impose this measure with effect from 1 January next year. That is an exceptionally short time and is likely to lead to many seriously negative effects. Some independent schools will be unable to plan properly in the short time available and may be forced to close. Children, particularly those with special needs, may have their education catastrophically disrupted mid-year and their exam attainment prejudiced. Local authorities and state schools may not have time adequately to plan for the likely mass transfer or attempted",
+   "name": "Lord Fairfax of Cameron",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Etherton (CB)",
+   "member_id": 4902,
+   "type": "Contribution",
+   "text": "My Lords, I too am grateful to the noble Lord, Lord Lexden, for securing this important debate. I agree with many of the concerns expressed by previous speakers, including the need for more comprehensive consultation; the need to delay the imposition of VAT until next September; and an exemption for schools providing for children with special educational needs and disabilities, as well as for small faith schools and boarding schools for the children of soldiers and diplomats, who rely on boarding education for their children in order to carry out their duties. I shall concentrate on the contributions made by some independent schools for the benefit of state schools and deprived children. The helpful briefing of the ISC states that there were 9,248 partnerships between ISC schools and state schools or community groups in the 2023-24 academic year. Last year, ISC schools gave £1.1 billion in assistance, more than half of which was means-tested. My point, in short, is that this contribution must in some meaningful way be recognised if the proposed new VAT regime is imposed. I wish to give as a live example one metropolitan independent school—not Eton or Harrow. It supplies teachers di",
+   "name": "Lord Etherton",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Fuller (Con)",
+   "member_id": 5017,
+   "type": "Contribution",
+   "text": "My Lords, I attended an independent school and was a governor of another one for about 10 years in the 2010s. I thank the many people who have written to me explaining their personal circumstances and detailing the effect the proposals will have on them as families and on their children. For the most part, these correspondents are not wealthy people. They include police officers, soldiers, airmen, nurses and firefighters—working people with aspiration and ambition for their children, many of whom have their own challenges. I empathise with them all but wish to make a different point. First, I wish to talk about the schools themselves and their staff. Nearly all these organisations are charities; they are run for charitable purpose, not to generate healthy bank balances. Even schools with 500 pupils may run a surplus of just £250,000 a year to fund reinvestment. They do not have fat on their backs. In these cases, the fees from perhaps only half a dozen boarders make the difference between profit and loss, surviving or failing. Their finances are finely balanced and under pressure. In the shires, these schools are often located in market towns: places such as Loddon, Holt, Ely, Uppi",
+   "name": "Lord Fuller",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Shinkwin (Con)",
+   "member_id": 4557,
+   "type": "Contribution",
+   "text": "My Lords, I am grateful for the opportunity to speak in the gap. I too thank my noble friend Lord Lexden for securing the debate. I can hardly remember a time when the House has been so united in rejecting policy based on class envy at the expense of the life chances of vulnerable children. I declare an interest: I am the beneficiary of a public school education. That was not the intention; it happened by accident—literally by accident, because as a child, as a result of brittle bones, I had too many accidents and too many fractures. My orthopaedic surgeon at the time told my parents that I had to carry on walking if my bone density was not to deteriorate further and my brittle bones worsen. The state system said I had to stay in my wheelchair if I was to remain at a state school. The only alternative was a segregated school for what were labelled “handicapped children”, where the headmaster boasted to my mother that one of the pupils had recently achieved one CSE. My parents, being teachers in the state system at the time, knew that a solid education would determine the difference between my being able to realise my potential or sink in a pool of chronically low aspiration. Thanks",
+   "name": "Lord Shinkwin",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Wallace of Saltaire (LD)",
+   "member_id": 1816,
+   "type": "Contribution",
+   "text": "My Lords, this has been a passionate debate about a policy which we do not know the details of yet, and which, as many noble Lords have said, has a lot of consequences about which one cannot be entirely sure at present. I am a disciple of slow government. Many of the things that I objected to most about the last Conservative Government involved Ministers dashing in and pushing ideas which they had not thought through and which ended up being disastrous. I fear that this is one of those. Certainly, it ought not to be implemented within a few months of being decided. I am also in favour of a simplification of the British tax system. As your Lordships know, the British tax system is far more complicated than that of any other European country, with a much longer tax code. This, I fear, is a further complication, with a great many administrative costs around tax moving backwards and forwards, being remitted and so on and so forth. There is a major problem of inequality and unfairness in the provision of education in this country. It is the result both of the steady increase in private school fees above inflation over a very long period and of the cumulative cuts in funding for state ed",
+   "name": "Lord Wallace of Saltaire",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, I too thank and congratulate my noble friend Lord Lexden on securing this debate and on his exceptionally clear and lucid introduction. I also congratulate noble Lords on the high quality of all their contributions today. Like others, my inbox has been full of correspondence from numerous parents who wrote to me. I thank them too and share with the Minister—her private office inbox may also be full, but they might not have got to her —just some of the questions they asked, because I would be interested to know her response and what she would say to those parents. Many of them point to the sense of rushed policy and poor planning that we have heard from so many of your Lordships this afternoon. I do not know what the Minister would say to the mother of a child who has just finished their first year of A-levels in subjects that their local state schools do not offer, or to children in year 11 who have been doing the IGCSE syllabus, which again would not be available to them, to the parents of children in state schools who will have bulge classes to accommodate new entrants from private schools, or to the parents of children with special educational needs who now feel that t",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "The Minister of State, Department for Education (Baroness Smith of Malvern) (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My Lords, I thank the noble Lord, Lord Lexden, for opening this debate, and I am grateful for the many contributions. I will do my best to respond to as many as I can in the time available, and I undertake to write to noble Lords on those that I am not able to get to. I put on record that I share the view of the noble Lord, Lord Lexden, that there are many excellent schools in the private sector, as there are in the public sector. My mother taught at one of them in Malvern. I spent time during my teenage years washing up in the kitchen of another. I know that excellent education is provided in those schools, which is why the department will continue to have, I hope, an important and constructive relationship with the ISC and the ISA in thinking through the whole range of issues that relate to independent schools. But some people listening to this debate might have thought that the intention was to completely do away with the private sector. The noble Lord, Lord Naseby, described how independent education has been with us for centuries. It will be with us for centuries more. People will continue to have a choice of whether they want to educate their child in a state or a private sch",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Forsyth of Drumlean (Con)",
+   "member_id": 1141,
+   "type": "Contribution",
+   "text": "Will the Minister give way?",
+   "name": "Lord Forsyth of Drumlean",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "No—the noble Lord has had the opportunity to have his say, and I want to respond to as many of the points that have been made as possible. Private education is not an option for most of those people and, unlike the last Government, we will not build public policy around the expectation that public services will fail our children. Most parents need local state-funded schools to support them in meeting these aspirations. It is therefore right for the Government to focus on improving those schools—a public good that will benefit all of us. Several noble Lords, including the noble Lord, Lord Forsyth, have identified the significance of education and the contribution that investment in that education makes. My noble friend Lady Ramsey identified the gap between that investment provided to our state schools and that provided to private schools: there was a 40% gap in 2010 and there is a 90% gap now. The noble Lord, Lord Bilimoria, said that we should spend more on state schools. The noble Lord, Lord Winston, talked about the deprivation and impact on aspiration of those who do not get the education that they deserve, and argued for more investment. That is precisely what this Government ",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Hacking (Lab)",
+   "member_id": 3580,
+   "type": "Contribution",
+   "text": "Before my noble friend sits down—",
+   "name": "Lord Hacking",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I have sat down.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Hacking (Lab)",
+   "member_id": 3580,
+   "type": "Contribution",
+   "text": "These are therefore imaginary words being used in the House of Lords. My noble friend was kind enough to mention the first protocol of the European Convention on Human Rights, but I would be very grateful if she could send a letter, particularly to myself and the noble Lord, Lord Alton, on the advice the Government are receiving relating to that very important issue. I remind her that it was a Labour Government, in 1998, who brought that provision into our law under the Human Rights Act 1998.",
+   "name": "Lord Hacking",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My noble friend is right, and I am very proud of that. Our position, as I said, has been tested in the legal advice in the consideration of these changes. Our view is that being charged at the standard rate of VAT paid by millions of businesses across the UK is not discriminatory and is clearly proportionate to the objective of better funding for state schools. To the extent that I am able, I will certainly ensure that I write further about that issue to my noble friend and to others.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Butler-Sloss (CB)",
+   "member_id": 3804,
+   "type": "Contribution",
+   "text": "May I ask the Minster, before she sits down, about the children taking GCSEs and A-levels? What are the Government going to do to help them where there will be changes in the programmes they are doing?",
+   "name": "Baroness Butler-Sloss",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I apologise to the noble and learned Baroness: with respect, I was showing my inexperience in this House and asking my Whip about the situation. If the House will allow, could the noble and learned Baroness repeat her question?",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Butler-Sloss (CB)",
+   "member_id": 3804,
+   "type": "Contribution",
+   "text": "I was asking about children taking GCSEs and A-levels when this starts in January.",
+   "name": "Baroness Butler-Sloss",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I think I covered that point in talking about the arguments for introducing this in January, while also making it clear that it is the Government’s view that introducing the VAT liability does not necessarily imply that a sudden increase in bills will arise; nor does it imply that the whole of that increase in VAT will be passed on in fees. In fact, if we look at the behaviour in the private school sector, we see that, despite very large increases in fees—well above inflation—parents have tended, where they have made that choice, to keep their children in the private sector anyway, and I am sure that the vast majority of parents will continue to do that. The analysis, including that carried out by the Institute for Fiscal Studies, suggests that, even if there is going to be a movement of pupils away from the private sector, that will tend to be not immediately in January but over a much longer period, and I imagine that will be the approach that most parents take.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Forsyth of Drumlean (Con)",
+   "member_id": 1141,
+   "type": "Contribution",
+   "text": "Before the noble Baroness sits down—since she is now giving way—she made a very passionate point about how all parents have aspirations for their children, wherever they are educated. She has not explained why she wants to tax that aspiration.",
+   "name": "Lord Forsyth of Drumlean",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I explained that, to improve state education—where 93% of our pupils are educated—and meet the aspirations of the parents who send their children to those schools, we need to find the funding. Unlike the previous Government, we are not willing to make uncosted commitments or run this country’s fiscal position into the ground. We are not willing to risk our pensions and our reputation as a fiscally prudent country in the way that the last Government were. Therefore, to make and deliver the range of commitments we have set out, we will be clear about where that money is coming from. This is part of the honesty and transparency around fiscal prudence that the last Government so patently failed to deliver.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Lexden (Con)",
+   "member_id": 4202,
+   "type": "Contribution",
+   "text": "My Lords, my purpose in seeking this debate was to bring home to the Government the extent of the damage that would be done as a result of the imposition of VAT on school fees on 1 January 2025. That purpose has been very satisfactorily achieved, on behalf of all the parents and schools up and down our land who have been brought to despair by the Government’s decision to impose VAT so suddenly on them. Many who have been watching this debate and follow these controversial matters will be disappointed by what the Minister has said. I do not think that the great concern that exists has been in any way significantly alleviated by her comments. We who have sought to represent the difficulties feel, above all, that VAT should not be introduced without, as I said at the start, a full and independent assessment of the implications of our first-ever education tax. This is the essential point on which nearly all speakers agreed. We must ask the Government to think again.",
+   "name": "Lord Lexden",
+   "party": "Con"
+  }
+ ],
+ "fetched": "2026-10-21T20:23:50Z"
+}

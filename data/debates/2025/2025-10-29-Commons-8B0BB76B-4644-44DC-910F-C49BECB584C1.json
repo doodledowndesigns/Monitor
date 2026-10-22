@@ -1,0 +1,519 @@
+{
+ "ext_id": "8B0BB76B-4644-44DC-910F-C49BECB584C1",
+ "date": "2025-10-29",
+ "house": "Commons",
+ "section": "WestHall",
+ "title": "International Baccalaureate: Funding in State Schools",
+ "parents": [
+  "Westminster Hall"
+ ],
+ "location": "Westminster Hall",
+ "url": "https://hansard.parliament.uk/Commons/2025-10-29/debates/8B0BB76B-4644-44DC-910F-C49BECB584C1/InternationalBaccalaureateFundingInStateSchools",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Sir Roger Gale",
+   "role": "Chair",
+   "member_id": 87
+  },
+  {
+   "name": "Olly Glover",
+   "party": "LD",
+   "seat": "Didcot and Wantage",
+   "member_id": 5318
+  },
+  {
+   "name": "Freddie van Mierlo",
+   "party": "LD",
+   "seat": "Henley and Thame",
+   "member_id": 5296
+  },
+  {
+   "name": "Calum Miller",
+   "party": "LD",
+   "seat": "Bicester and Woodstock",
+   "member_id": 5346
+  },
+  {
+   "name": "Charlotte Cane",
+   "party": "LD",
+   "seat": "Ely and East Cambridgeshire",
+   "member_id": 5182
+  },
+  {
+   "name": "Rachel Gilmour",
+   "party": "LD",
+   "seat": "Tiverton and Minehead",
+   "member_id": 5252
+  },
+  {
+   "name": "Josh Dean",
+   "party": "Lab",
+   "seat": "Hertford and Stortford",
+   "member_id": 5187
+  },
+  {
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon",
+   "member_id": 5216
+  },
+  {
+   "name": "Jayne Kirkham",
+   "party": "Lab/Co-op",
+   "seat": "Truro and Falmouth",
+   "member_id": 5279
+  },
+  {
+   "name": "Sir John Whittingdale",
+   "party": "Con",
+   "seat": "Maldon",
+   "member_id": 39
+  },
+  {
+   "name": "Jim Dickson",
+   "party": "Lab",
+   "seat": "Dartford",
+   "member_id": 5223
+  },
+  {
+   "name": "Ms Polly Billington",
+   "party": "Lab",
+   "seat": "East Thanet",
+   "member_id": 5123
+  },
+  {
+   "name": "Steve Darling",
+   "party": "LD",
+   "seat": "Torbay",
+   "member_id": 5066
+  },
+  {
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood",
+   "member_id": 4510
+  },
+  {
+   "name": "Alison Bennett",
+   "party": "LD",
+   "seat": "Mid Sussex",
+   "member_id": 5283
+  },
+  {
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire",
+   "member_id": 5096
+  },
+  {
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East",
+   "member_id": 4818
+  },
+  {
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education",
+   "member_id": 5033
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Sir Roger Gale (in the Chair)",
+   "member_id": 87,
+   "type": "Contribution",
+   "text": "Before we start, it has been drawn to my attention that a photograph is to be taken in the Chamber at 11 o’clock. We have no power to suspend this sitting to accommodate that, but I will try to get a message to the Speaker’s Office to say that there are Members here who would like to be in the Chamber for that and that if it could be held off until about 11.5 am, that should give Members here time to get across. Those of us taking part in the second debate will not have that luxury.",
+   "name": "Sir Roger Gale",
+   "role": "Chair"
+  },
+  {
+   "who": "Olly Glover (Didcot and Wantage) (LD)",
+   "member_id": 5318,
+   "type": "Contribution",
+   "text": "I beg to move, That this House has considered funding for the International Baccalaureate in state schools. It is a pleasure to serve under your chairship, Sir Roger. The international baccalaureate—which I will henceforth refer to as the IB, but I hate acronyms, so I wanted to say it properly to start with—establishes the global standard for education and is recognised by universities, employers and educators worldwide as a symbol of academic excellence. For those who are unaware, the IB diploma is an alternative to A-levels that offers a breadth of subjects across the curriculum: languages, humanities, sciences, maths and arts. Students complete extended projects, theory of knowledge and service in the community, making for a well-rounded education. Studies have shown that IB students in the UK are three times more likely to enrol in a top 20 higher education institution, 40% more likely to achieve a first-class or upper second-class honours degree and 21% more likely to continue to the second year of university. That is why thousands of British families choose to send their children to schools offering the IB diploma.",
+   "name": "Olly Glover",
+   "party": "LD",
+   "seat": "Didcot and Wantage"
+  },
+  {
+   "who": "Freddie van Mierlo (Henley and Thame) (LD)",
+   "member_id": 5296,
+   "type": "Contribution",
+   "text": "I am grateful to my hon. Friend and constituency neighbour for giving way. I have constituents who attend the Europa School in his constituency, and they have been in touch with me about this issue. He speaks of choice. If we can have faith schools, free schools, maintained schools, academies, grammar schools, state boarding schools and colleges—",
+   "name": "Freddie van Mierlo",
+   "party": "LD",
+   "seat": "Henley and Thame"
+  },
+  {
+   "who": "Sir Roger Gale (in the Chair)",
+   "member_id": 87,
+   "type": "Contribution",
+   "text": "Order. Let us get the ground rules right: this is an intervention, not a speech.",
+   "name": "Sir Roger Gale",
+   "role": "Chair"
+  },
+  {
+   "who": "Freddie van Mierlo",
+   "member_id": 5296,
+   "type": "Contribution",
+   "text": "Does my hon. Friend agree that choice is an extremely valuable part of the education system, and we should be supporting the Europa School?",
+   "name": "Freddie van Mierlo",
+   "party": "LD",
+   "seat": "Henley and Thame"
+  },
+  {
+   "who": "Olly Glover",
+   "member_id": 5318,
+   "type": "Contribution",
+   "text": "My hon. Friend makes a valuable point and articulately summarises the wide range of choice in schools that there is separately from the IB. He is right to mention the Europa School in Culham in my constituency; I will say more about that school later and explain why it is so important to the Government’s objectives for the Oxford to Cambridge growth corridor. Since 2013, the Government have provided a large programme uplift—another acronym: LPU—in funding to state schools and colleges in England to support high-quality 16-to-19 study programmes exceeding the standard 600 hours of teaching. That helps to fund state schools to deliver the IB diploma programme. On 1 October this year, the Department for Education wrote to affected state schools and colleges to notify them that the Government are axing the LPU funding for the international baccalaureate diploma programme from the 2026-27 academic year. As with so much in life, the “what” is important, but in many ways the “how” is even more so. Many schools and parents are hugely concerned that there was no consultation or impact assessment on the changes and no warning that this was coming. It could hardly have come at a worse time, a",
+   "name": "Olly Glover",
+   "party": "LD",
+   "seat": "Didcot and Wantage"
+  },
+  {
+   "who": "Calum Miller (Bicester and Woodstock) (LD)",
+   "member_id": 5346,
+   "type": "Contribution",
+   "text": "A governor of the Europa School in my hon. Friend’s constituency wrote to me to object to the short notice that the Government have provided, at a time when children and their parents are making decisions about the future and choosing the opportunity that an IB programme provides. Does he agree that this was short-sighted and ill considered by the Government?",
+   "name": "Calum Miller",
+   "party": "LD",
+   "seat": "Bicester and Woodstock"
+  },
+  {
+   "who": "Olly Glover",
+   "member_id": 5318,
+   "type": "Contribution",
+   "text": "I very much agree. The fact that there is a governor of this school in my hon. Friend’s constituency shows that these schools often have wide catchment areas, because of the fairly unusual and very popular offer that they make, which is attractive to many in the surrounding areas. It is unclear what these schools should be saying to parents as they look to enrol their children for the next calendar year. This will be deeply damaging for those schools.",
+   "name": "Olly Glover",
+   "party": "LD",
+   "seat": "Didcot and Wantage"
+  },
+  {
+   "who": "Charlotte Cane (Ely and East Cambridgeshire) (LD)",
+   "member_id": 5182,
+   "type": "Contribution",
+   "text": "I congratulate my hon. Friend on securing the debate. Students in my constituency are served by Impington Village college for the IB. They are deeply unhappy that the college received a letter from the Department announcing the change with no warning or consultation. Does my hon. Friend agree that the Government decision has caused an unacceptable amount of stress for pupils, parents and staff, and that how the Government are acting is the complete opposite—",
+   "name": "Charlotte Cane",
+   "party": "LD",
+   "seat": "Ely and East Cambridgeshire"
+  },
+  {
+   "who": "Sir Roger Gale (in the Chair)",
+   "member_id": 87,
+   "type": "Contribution",
+   "text": "Order. This is an intervention, not a speech. The Chair deprecates scripted interventions; they are supposed to be spontaneous.",
+   "name": "Sir Roger Gale",
+   "role": "Chair"
+  },
+  {
+   "who": "Olly Glover",
+   "member_id": 5318,
+   "type": "Contribution",
+   "text": "My hon. Friend gives a strong example of another school offering that type of qualification. It is also in that Oxford to Cambridge growth corridor, which is so important to the Government. The Government have committed to increasing the number of those pursuing further education, whether academic or technical, and they talk about a “broad and bold curriculum”. Removing funding for the IB in state schools does not seem to align with the Government’s stated aims. State schools losing the funding will make it unviable for some of them to deliver the IB programme, as it takes more teaching hours and highly trained specialists. Some of the state schools offering IB are selective, but many are not, including Europa School in my constituency. Removing the funding ensures that only independent schools can offer the IB, creating a two-tier system so only those who can pay will get it.",
+   "name": "Olly Glover",
+   "party": "LD",
+   "seat": "Didcot and Wantage"
+  },
+  {
+   "who": "Rachel Gilmour (Tiverton and Minehead) (LD)",
+   "member_id": 5252,
+   "type": "Contribution",
+   "text": "I was lucky enough to go to a school in Cheltenham called the Cheltenham Ladies college where the IB was offered. It is grossly unfair that children who cannot afford school fees should not have the opportunity for this wonderful international qualification. Does my hon. Friend agree?",
+   "name": "Rachel Gilmour",
+   "party": "LD",
+   "seat": "Tiverton and Minehead"
+  },
+  {
+   "who": "Olly Glover",
+   "member_id": 5318,
+   "type": "Contribution",
+   "text": "I very much agree. The risk, the consequence, of this Government decision is that it pushes people towards independent schools. Surely that is not in line with the Government’s strongly stated views on private versus state education. Additionally, those teachers trained to deliver the programme may also opt to move to the private sector, meaning our state schools lose yet more teaching talent—both pupils and teachers could be pushed away. Europa School is a single academy trust based at Culham in my Oxfordshire constituency; I was lucky enough to visit it on 7 March this year. It provides a broad, challenging and internationally minded curriculum with specialisms in modern European languages, in particular French, German and Spanish, and the STEM subjects of science, technology, engineering and maths. The Department for Education provides a grant of £100,000. I am happy to say that Europa School is successful and thriving, with 1,150 pupils, long waiting lists in all cohorts and 106 in the midst of doing their IB diplomas. My constituency is home to myriad public and private sector science and tech research companies, such as the UK Atomic Energy Authority, in Culham just down the ",
+   "name": "Olly Glover",
+   "party": "LD",
+   "seat": "Didcot and Wantage"
+  },
+  {
+   "who": "Sir Roger Gale (in the Chair)",
+   "member_id": 87,
+   "type": "Contribution",
+   "text": "Order. Before we proceed, I should say that eight hon. Members have indicated that they wish to speak. I propose to call the Front Benchers at 10.30 am. We have tried to get a message to the Speaker’s Office and I have not had a response, so we do not know what the score is. If the Front Benchers curtail their remarks, I can suspend the sitting slightly early. Those who are participating in the following business will have to remain here, but other Members should be able to make it to the Chamber by 11 o’clock. I am minded to put a time limit on speeches, but for the moment, if we can work on a self-denying ordinance of five minutes, we should be able to get everybody in. I call Josh Dean.",
+   "name": "Sir Roger Gale",
+   "role": "Chair"
+  },
+  {
+   "who": "Josh Dean (Hertford and Stortford) (Lab)",
+   "member_id": 5187,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve with you in the Chair, Sir Roger. I thank the hon. Member for Didcot and Wantage (Olly Glover) for securing this morning’s debate. Hockerill Anglo-European College in Bishop’s Stortford is one of the 20 or so state schools across the country to offer the international baccalaureate diploma. A vibrant day and boarding school, Hockerill’s post-16 provision is based entirely on the IB diploma, and it is the only school in our community to offer the programme. The removal of the large programme uplift funding for the international baccalaureate programme by the Department for Education would seriously impact Hockerill’s ability to offer the IB. Hockerill’s sixth form open morning for the next school year takes place in just under a month, and the letter notifying the school of the changes arrived on 1 October—the same day its promotional material for the sixth form was signed off. The school had received no previous indication of potential changes and had not been consulted. The letter professed to let it know about them “in good time” in case it needed “to consider changes” to its “provision and plans”. However, when I met the principal last week, he was clea",
+   "name": "Josh Dean",
+   "party": "Lab",
+   "seat": "Hertford and Stortford"
+  },
+  {
+   "who": "Caroline Voaden (South Devon) (LD)",
+   "member_id": 5216,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Sir Roger. I thank my hon. Friend the Member for Didcot and Wantage (Olly Glover) for bringing forward this debate. The international baccalaureate sets a global benchmark for education. It is trusted by universities, employers and educators worldwide as a mark of academic excellence. It equips young people with the skills they need for life, producing confident and well-rounded citizens. It therefore makes no sense for the Government to slash large programme uplift funding for the IB diploma programme—a deeply damaging and short-sighted move that will affect only 20 state schools that offer the IB. That funding makes it possible for state schools to deliver the IB programme, and removing it jeopardises access to the programme for state school students across England, entrenching even further the divide between state and private schools. That directly contradicts the Government’s mission to break down barriers to opportunity. The cut, worth just £2.5 million, as my hon. Friend the Member for Didcot and Wantage said, is a drop in the ocean for the DFE, given its £100 billion budget, but the impact on state schools and students curre",
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon"
+  },
+  {
+   "who": "Jayne Kirkham (Truro and Falmouth) (Lab/Co-op)",
+   "member_id": 5279,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Sir Roger. Truro and Penwith College in my constituency is a very successful tertiary college. It is fully ready to take up the mantle of two thirds of students and learners being in further education, higher education or apprenticeships by the age of 25. It works closely with businesses to set up courses relevant to the industrial strategy and the high-priority sectors the Government are pushing. It is doing a really good job at getting Cornwall ready for new sectors, particularly things like renewables. It also offers high-level maths, which my own son benefited from a great deal. The college has been offering the international baccalaureate for a number of years on a non-selective basis. It is one of the most successful IB providers in the country, with a 98% pass rate in 2025 and with nearly a quarter of students achieving 40 points or more, which is equivalent to four A* A-levels. It is also the only provider of the IB in the whole of Cornwall, so students travel from across the duchy, from Launceston to Land’s End—sometimes more than two hours each way—to pursue the IB at Truro college. In fact, some parents relocate specificall",
+   "name": "Jayne Kirkham",
+   "party": "Lab/Co-op",
+   "seat": "Truro and Falmouth"
+  },
+  {
+   "who": "Sir John Whittingdale (Maldon) (Con)",
+   "member_id": 39,
+   "type": "Contribution",
+   "text": "I congratulate the hon. Member for Didcot and Wantage (Olly Glover) on obtaining this important debate. A number of powerful points have already been made, but I want to put on record the concerns that have been expressed to me by constituents who have children at, or who work at, the Anglo European School in Ingatestone in Essex. Like the schools that have already been mentioned, the Anglo European has an outstanding reputation locally and attracts children from a wide area, not just the immediate vicinity. One reason for that is that the Anglo European is the only school locally that offers the international baccalaureate. The IB course is extremely rigorous, but it provides a breadth of curriculum that is not available in other courses. Many parents choose for their children to undertake it because the result, as has been mentioned, is a higher chance of gaining admission to top universities or employment. The IB is rigorous, requiring a lot of extra teaching time as a result, and it is in recognition of that that the large programme uplift was instituted. In the case of the Anglo European, the IB requires something like 1,500 hours of teaching time over two years, compared with",
+   "name": "Sir John Whittingdale",
+   "party": "Con",
+   "seat": "Maldon"
+  },
+  {
+   "who": "Jim Dickson (Dartford) (Lab)",
+   "member_id": 5223,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairship, Sir Roger. I am grateful to the hon. Member for Didcot and Wantage (Olly Glover) for securing this important debate and for his thoughtful opening speech. Dartford grammar school is a historic institution in my constituency, which has been providing exceptionally high-quality education for pupils of all incomes and backgrounds for a very long time. It is one of the 20 or so schools affected by the decision to remove the large programme uplift for 16-to-19 study programmes, including the IB diploma, from the 2026-27 academic year. Since the election last year, I have been fortunate to visit the school, which is a state school fully funded from the public purse, to see in person the education it offers. It is a privilege to have the school head and members of the board of governors here today, but it is unfortunate that they are with us in such trying circumstances. As others have said, the international baccalaureate diploma offers pupils from a wide range of backgrounds the opportunity of world-class, rigorous education and a programme of academic study that is second to none. Beyond that, it encourages the development of essential sk",
+   "name": "Jim Dickson",
+   "party": "Lab",
+   "seat": "Dartford"
+  },
+  {
+   "who": "Ms Polly Billington (East Thanet) (Lab)",
+   "member_id": 5123,
+   "type": "Contribution",
+   "text": "I congratulate the hon. Member for Didcot and Wantage (Olly Glover) on securing this debate. Dartford grammar sounds much like Dane Court school in my constituency, which offers the opportunity of the international baccalaureate to children from across the academy chain—I know that some of your constituents benefit from that provision, Sir Roger. The headteacher told me that the wider implication of the cut is that the IB diploma will probably disappear entirely from the state sector. Does my hon. Friend seek reassurance from the Minister, as I do, that the IB does have a future role in breaking down barriers to opportunity, not only in his constituency and mine, but across the country?",
+   "name": "Ms Polly Billington",
+   "party": "Lab",
+   "seat": "East Thanet"
+  },
+  {
+   "who": "Jim Dickson",
+   "member_id": 5223,
+   "type": "Contribution",
+   "text": "My hon. Friend is absolutely right. In my constituency, the IB is available to children from low-income backgrounds and is particularly attractive because it provides young people with additional stretch and challenge and breaks down barriers to opportunity—not only in top universities, which is very important, but in apprenticeships and employment. It would be a tragedy if that were lost, and the point that my hon. Friend asks the Minister to respond to is exactly the right one. The challenge we face is that the longer teaching hours mean that the IB costs more to deliver. The LPU funding has been crucial in allowing state schools such as Dartford grammar to deliver it. It is clear to me that without that funding, the IB diploma will no longer be available at Dartford grammar and will become the preserve of private schools that can afford to offer it, cutting off those in the state sector from the limited access that currently exists. I understand that there may be some transitional funding in place for the next academic year—40% of the current value has been mentioned—but I am unclear what that will mean for a school such as Dartford grammar, where the entire sixth form takes the",
+   "name": "Jim Dickson",
+   "party": "Lab",
+   "seat": "Dartford"
+  },
+  {
+   "who": "Steve Darling (Torbay) (LD)",
+   "member_id": 5066,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Sir Roger. I congratulate my hon. Friend the Member for Didcot and Wantage (Olly Glover) on obtaining this debate. I myself applied for a debate on this subject, so I am pleased to be here today. Torquay boys’ grammar school in my constituency has discharged the pleasure of teaching the international baccalaureate for the last 16 years. It results in an influx into the school of young women, as well as youngsters from across the south-west and even Europe, who want to study the incredible, enhancing baccalaureate. My own son participated in the international baccalaureate. He volunteered in a care home and, a little over 10 years later, he is now a registrar at Torbay hospital and about to enter into a programme to become a consultant with an interest in care for the elderly. That demonstrates how the IB drives positive change. I am aware from universities that the IB is very often—just as in my son’s case—seen as a good standard for gaining entrance to medical schools. I had a conversation with the head of Torquay boys’ grammar school, who said that the international baccalaureate offers those youngsters who develop later in sixth",
+   "name": "Steve Darling",
+   "party": "LD",
+   "seat": "Torbay"
+  },
+  {
+   "who": "Helen Hayes (Dulwich and West Norwood) (Lab)",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "It is a pleasure to see you in the Chair, Sir Roger. I congratulate the hon. Member for Didcot and Wantage (Olly Glover) on securing this important debate. Post-16 education is a vital stage of a young person’s life. Whether they are following an academic, vocational or technical pathway, it is the stage at which they can focus more on the subjects they love, exercise greater choice over their learning, and begin to think more about where they want their education to take them, whether into further or higher education or employment. It is also a stage at which wider enrichment is vital, helping young people to develop broader transferable skills, find their talents, grow in confidence and expand into their growing freedom and independence. However, funding for 16-to-19 education in schools and colleges has been significantly cut in real terms. Per-pupil funding had fallen by approximately 11% for colleges and 23% for school sixth form by 2024-25, compared with 2010-11 levels. That decline is the largest in any part of the education sector from nought to 19, and it has not been fully addressed, even with recent increases in funding. That has left many schools and colleges working ha",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Caroline Voaden",
+   "member_id": 5216,
+   "type": "Contribution",
+   "text": "The hon. Member talks about redeploying funding so that it can be spread across the landscape to improve 16-to-19 education, but we are talking about 0.004% of the education budget. Does she think that the tiny amount of funding that goes into the IB would make any difference at all if it were spread across the entire education landscape?",
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon"
+  },
+  {
+   "who": "Helen Hayes",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "I think the Government are right to focus on how to improve education for every young person. If the hon. Member will bear with me, I will come on to some wider points about the importance of the IB, and the features of the IB that should be applicable more widely across the education sector. We need to be clear that we are talking about 1% of schools across the country, and that the other 99% of schools and colleges have many deep challenges. The Government are right to turn their attention to them as well. How can the Government ensure that every young person has opportunities for enrichment and opportunities to develop broad transferable skills? Given the shockingly high figure of one in eight young people who are not in education, employment or training, how can the Government ensure that post-16 education is engaging, inspiring and exciting for all young people? Where I take issue with the Government is in relation to the lack of consultation underpinning their decision to redeploy funding within the large programme uplift.",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Freddie van Mierlo",
+   "member_id": 5296,
+   "type": "Contribution",
+   "text": "In so many policy areas, the Government seem to be unable to break wind without consulting for 18 months. Does the hon. Lady agree that they should reverse their decision and hold a consultation before proceeding?",
+   "name": "Freddie van Mierlo",
+   "party": "LD",
+   "seat": "Henley and Thame"
+  },
+  {
+   "who": "Helen Hayes",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "If the hon. Gentleman will bear with me, I will elaborate on consultation and engagement in a moment, but I encourage Liberal Democrat Members to reflect on the role that their own Government played in the shockingly deep cuts to 16-to-19 education across the board from 2010, and the implications of those decisions in what the current Government are now trying to tackle. Engagement with schools and colleges on the decision would have been helpful. Given the Government’s objectives for the economy, I understand the focus on STEM subjects and pupils taking four or more A-levels, but STEM subjects are not the only ones with a higher cost base to deliver. Some creative subjects with direct links to employment in the creative industries also carry higher costs, which can exclude students from lower-income backgrounds. In the context of the Government’s objective of ensuring parity of esteem between vocational and technical routes and academic ones, it is possible to imagine how the redeployment of the large programme uplift could have helped to increase quality in vocational and technical courses. Evidence of consideration of a range of options and an understanding of the views of those",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Caroline Voaden",
+   "member_id": 5216,
+   "type": "Contribution",
+   "text": "Will the hon. Lady give way?",
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon"
+  },
+  {
+   "who": "Helen Hayes",
+   "member_id": 4510,
+   "type": "Contribution",
+   "text": "I am not going to take any further interventions. The international baccalaureate is an important part of the landscape, and I am pleased that the Government have confirmed that all schools can continue to offer it if they wish, but the bigger challenge for the Government is to ensure that there is excellence and enrichment across the board for post-16 education, which is a challenged part of our education landscape. Every young person should be able to benefit from an engaging, inspiring and exciting course of study, whether they are on an academic, vocational or technical route and wherever they live in the country, and every school and college should have the resources it needs to deliver.",
+   "name": "Helen Hayes",
+   "party": "Lab",
+   "seat": "Dulwich and West Norwood"
+  },
+  {
+   "who": "Alison Bennett (Mid Sussex) (LD)",
+   "member_id": 5283,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Sir Roger. I congratulate my hon. Friend the Member for Didcot and Wantage (Olly Glover) on securing this debate on what we have heard from Members across the Chamber is a really important subject. Varndean sixth-form college in Brighton is the only state-funded provider of the international baccalaureate in the whole of Sussex. I was lucky enough to visit earlier in the year. It is a remarkable institution that gives young people from across the region, including many of my Mid Sussex constituents, the chance to pursue a truly world-class qualification, as other hon. Members have set out. I am pleased that Varndean’s principal, Donna-Marie Janson, joins us in Westminster Hall today. The opportunity that Varndean offers is under serious threat. Varndean has warned that, without the large programme uplift, the IB will simply become financially unviable. The IB could—and, by the looks of it, will—disappear entirely from state education in our region, and potentially across the country. Let us be clear: that would be a tragedy for young people from Brighton and for those who travel to Varndean from places such as Burgess Hill, Hayward",
+   "name": "Alison Bennett",
+   "party": "LD",
+   "seat": "Mid Sussex"
+  },
+  {
+   "who": "Caroline Voaden",
+   "member_id": 5216,
+   "type": "Contribution",
+   "text": "The Government obviously have good intentions about improving the standard of post 16-education; I have seen that for myself on the Education Committee, so I do not doubt their intentions. However, this decision feels like levelling down rather than levelling up. Does my hon. Friend agree that instead of removing the opportunity for students in state schools to study the IB, the Government should consider broadening it and helping other schools to offer this world-class qualification?",
+   "name": "Caroline Voaden",
+   "party": "LD",
+   "seat": "South Devon"
+  },
+  {
+   "who": "Alison Bennett",
+   "member_id": 5283,
+   "type": "Contribution",
+   "text": "My hon. Friend is absolutely right, and I wholeheartedly agree with her. The Government say they want to widen participation in higher education and to boost skills, but cutting funding for the IB does the opposite; it narrows opportunity and stifles aspiration. Therefore, I again urge the Minister to reconsider this decision, to ensure that schools such as Varndean can continue to offer this world-class qualification in the future. Last Monday, during Education questions, I asked the Minister whether he would consider meeting students from Varndean. Given that Donna-Marie Janson, the school’s principal, is sitting behind me in the Public Gallery, I am sure that his officials could swap numbers with her and set up such a meeting, so will he arrange that meeting? The IB is a symbol of what education should be— ambitious, inclusive and world class. We must not let it become the preserve of the few.",
+   "name": "Alison Bennett",
+   "party": "LD",
+   "seat": "Mid Sussex"
+  },
+  {
+   "who": "Ian Sollom (St Neots and Mid Cambridgeshire) (LD)",
+   "member_id": 5096,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Sir Roger. I am grateful to my hon. Friend the Member for Didcot and Wantage (Olly Glover) for securing this debate about a decision that demonstrates at the very least a profoundly flawed approach to policymaking and at worst a wilful dismantling of excellence in state education. Let me begin by examining the Government’s stated rationale for this decision. The ministerial response last week said that the Government would “focus large programme uplift funding…on those large programmes which include mathematics, further mathematics and other high value A levels.” The stated aim is to prioritise STEM education and to support the pipeline of students for priority sectors in the industrial strategy. Let me ask the Minister some questions directly. What evidence does the Department have that this targeted approach will achieve better STEM outcomes than maintaining IB funding? What analysis has been conducted comparing the STEM university destinations and career pathways of IB students with those of A-level students? What data supports the assumption that cutting IB funding while maintaining it for multiple STEM A-levels will improve ou",
+   "name": "Ian Sollom",
+   "party": "LD",
+   "seat": "St Neots and Mid Cambridgeshire"
+  },
+  {
+   "who": "Sir Roger Gale (in the Chair)",
+   "member_id": 87,
+   "type": "Contribution",
+   "text": "I call the Opposition Front-Bench spokesperson, Saqib Bhatti.",
+   "name": "Sir Roger Gale",
+   "role": "Chair"
+  },
+  {
+   "who": "Saqib Bhatti (Meriden and Solihull East) (Con)",
+   "member_id": 4818,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Sir Roger, and to take part in this important debate on funding for the international baccalaureate in state schools. I thank the hon. Member for Didcot and Wantage (Olly Glover) for securing this debate and for his eloquent opening remarks. In fact, we have had a number of eloquent speakers, all the way from Truro to Dartford, as well as my right hon. Friend the Member for Maldon (Sir John Whittingdale), who made the case for his constituents who attend the Anglo European school. I have to put it on record, if there were any doubt, that His Majesty’s Opposition are beyond disappointed that funding for the international baccalaureate has been scrapped. It is nothing more than another example of this Government’s educational vandalism. IB teaches nearly 2 million pupils in 6,000 schools in nearly 160 countries. It is, by its very nature, global and provides a knowledge-rich curriculum that is deep while at the same time broad. Yet rather than seeking to produce confident and well-rounded citizens who benefit from a schooling system where pupils, parents and educators have plenty of choice, the Government seek to impose a disastrousl",
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Josh MacAlister)",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "It is a pleasure to serve under your chairmanship, Sir Roger. I thank the hon. Member for Didcot and Wantage (Olly Glover) for securing this debate and all the Members who have contributed to it. The international baccalaureate can be a fantastic qualification for young people. I commend all the staff and students in international baccalaureate teaching settings. The debate has highlighted the incredible contribution that those teachers and those settings can make to opportunities for young people—we have heard an awful lot about that today. I want to stress a few things in responding to the points made in the debate, first regarding the role that A-levels play in our school and education system. The hon. Member for Meriden and Solihull East (Saqib Bhatti) referred to a school “regretfully” moving to A-levels, as if they are lesser qualifications. A-levels are fantastic qualifications. They are stretching for students. They offer variety, choice and combinations of qualifications that leave doors open for young people at 16 and beyond. They are recognised by the top universities in the world, including those here in the UK. I urge Members to be careful not to suggest that A-levels ",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Alison Bennett",
+   "member_id": 5283,
+   "type": "Contribution",
+   "text": "A-levels are undoubtedly brilliant, but does the Minister agree that they are more narrow than the international baccalaureate?",
+   "name": "Alison Bennett",
+   "party": "LD",
+   "seat": "Mid Sussex"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "No, I do not agree with that. Combinations of A-levels allow young people to have a wide and rich curriculum. In fact, the large programme uplift changes that we are making prioritise choices of A-levels that extend beyond the standard three, up to five, to include advanced maths and other well regarded A-level subjects. I do not recognise what the hon. Lady suggests.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Steve Darling",
+   "member_id": 5066,
+   "type": "Contribution",
+   "text": "My two sons both went to Torquay boys’ grammar school. One undertook the international baccalaureate. The other went down the A-level route and got three A*s. Universities do not like students taking more than three A-levels. We often joke with him that perhaps he should have stretched himself and undertaken the international baccalaureate. What would the Minister’s advice be?",
+   "name": "Steve Darling",
+   "party": "LD",
+   "seat": "Torbay"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "I think the logic of that point is that universities will accept three A-levels, and they will accept more than three A-levels, and they will accept an international baccalaureate. The point here is not that the international baccalaureate is the gateway to universities; it is an addition to the system and allows extra stretch for students. I will make a bit more progress and then am happy to take further interventions. The other point to make at this stage is that it is not correct to say that funding has been scrapped for the international baccalaureate. In fact, some of the statements put out by settings that offer the international baccalaureate have been clear to say that the funding has not been scrapped. The large programme uplift application has been changed, and that additional 20% will no longer be available for settings that want to offer the international baccalaureate. I want to spend a few minutes setting this decision in context. We are focused as a Government on raising standards across the 16-to-19 education system. We want to offer opportunity for all young people, and we want stretching and rigorous qualifications for them. The large programme uplift will focus o",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Ms Billington",
+   "member_id": 5123,
+   "type": "Contribution",
+   "text": "I gently remind the Minister that, simply because people live in the south-east, it does not mean they are dripping in gold. My constituency in particular experiences distinct levels of deprivation; only 10% of our children manage to pass the Kent test in East Thanet. The opportunity to access the international baccalaureate is vital for those deprived communities. We all know that there are extreme levels of deprivation in this country both across geographical areas and in pockets. I remind the Minister that, in these circumstances, we need to ensure that we have an education policy that reaches the most deprived in places like mine, as much as in places like his.",
+   "name": "Ms Polly Billington",
+   "party": "Lab",
+   "seat": "East Thanet"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "I agree that we need to ensure that opportunity goes to those who are furthest from it. My point is that this system does not provide an equal opportunity for many young people in how it is allocated at the moment. Even in institutions in the south where there are large numbers of young people frozen out of opportunities, the ones offering the international baccalaureate are overwhelmingly not offering it to those young people from disadvantaged backgrounds. That is an important point to make in this debate. Before I move on to overall funding, my final point is that we gave notice of this decision in October, which is ahead of other notifications about the 16-to-19 funding system. We have put in place transitional arrangements for those students who are currently midway through the international baccalaureate. What is the reality of the funding that the Government are giving to sixth form and FE colleges? The Government have made the decision to increase overall spending on the 16-to-19 system, from £7.6 billion last year to £8.6 billion this year. That reflects a significant increase in not only the number of students but the funding rates, including the base rate of funding per ",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Saqib Bhatti",
+   "member_id": 4818,
+   "type": "Contribution",
+   "text": "I have to challenge that point. I said that the Minister was a fair man—if I did not, I will say it now—but, if he is being fair, will he acknowledge that the Conservatives started the investment in childcare programme that the Government have continued?",
+   "name": "Saqib Bhatti",
+   "party": "Con",
+   "seat": "Meriden and Solihull East"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "What the Conservative Government did not do was ensure that there was a fiscal position left to fund those sorts of commitments. I will give the hon. Gentleman and the previous Government credit for building on some of the excellent work that had been started under the last Labour Government around phonics, a focus on improving maths and some of the curriculum changes. I give credit where it is due on those. We now see year 8 students falling behind in their reading—and the Government will be saying more about that in the curriculum and assessment review. That is why we will be introducing reading checks with a focus on standards. Those will mean every young person—regardless of the cash their parents have in their pockets—does well and that on finishing secondary school has equal opportunities and choice to take their talents as far as they can in 16 to 19. Finally, we will have record levels of investment in the 16-to-19 system. That will include a focus on the scandal of the constant cycle of young people not reaching the level of English and maths needed by the time that they finish secondary school, and being washed around again and again in a resit system that is not fit for ",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Olly Glover",
+   "member_id": 5318,
+   "type": "Contribution",
+   "text": "I shall be concise so that we can be away well before 11. I thank everybody for attending the debate. It is welcome to have had contributions from all three main parties. It was predominantly a well-spirited debate, with a lot of agreement. It was good to hear about schools other than Europa that offer the IB: Hockerill Anglo-European college, Torquay boys grammar school, Truro and Penwith college, the Anglo European school in Ingatestone, Dartford grammar school, Dane Court grammar school and Varndean college—and Impington Village college, which my hon. Friend the Member for St Neots and Mid Cambridgeshire (Ian Sollom) mentioned; I must not forget that one. All hon. Members who talked about the schools in or near their constituencies highlighted the huge benefits and value that they bring to parents, local communities and children—and at a relatively small additional cost, as the Minister himself acknowledged. The Minister’s wider comments about what he and the Government are doing to boost education were welcome. I understand what he said about constrained budgets, but too often in politics, and in life in general, we hear false dichotomies—“It is either this or that”, and things",
+   "name": "Olly Glover",
+   "party": "LD",
+   "seat": "Didcot and Wantage"
+  }
+ ],
+ "fetched": "2026-10-21T20:27:19Z"
+}

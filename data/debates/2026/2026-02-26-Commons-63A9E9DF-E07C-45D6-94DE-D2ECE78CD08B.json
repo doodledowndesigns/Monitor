@@ -1,0 +1,65 @@
+{
+ "ext_id": "63A9E9DF-E07C-45D6-94DE-D2ECE78CD08B",
+ "date": "2026-02-26",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "School Visits to Parliament",
+ "parents": [
+  "Commons Chamber",
+  "Oral Answers to Questions",
+  "House of Commons Commission"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2026-02-26/debates/63A9E9DF-E07C-45D6-94DE-D2ECE78CD08B/SchoolVisitsToParliament",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Jayne Kirkham",
+   "party": "Lab/Co-op",
+   "seat": "Truro and Falmouth",
+   "member_id": 5279
+  },
+  {
+   "name": "Nick Smith",
+   "seat": "Blaenau Gwent and Rhymney",
+   "member_id": 3928
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Jayne Kirkham (Truro and Falmouth) (Lab/Co-op)",
+   "member_id": 5279,
+   "type": "Contribution",
+   "text": "9. What assessment the Commission has made of the potential merits of prioritising schools that are furthest from Westminster for education visits to Parliament.",
+   "name": "Jayne Kirkham",
+   "party": "Lab/Co-op",
+   "seat": "Truro and Falmouth"
+  },
+  {
+   "who": "Nick Smith (Blaenau Gwent and Rhymney)",
+   "member_id": 3928,
+   "type": "Contribution",
+   "text": "Given my hon. Friend’s journey time from Cornwall, I can understand why she asks that question. The Commission recently endorsed recommendations from our participation team to improve the school visit booking process and the use of our travel subsidy. Schools from her area will have extra time to apply. We want to encourage greater participation from schools furthest away from Westminster by increasing capacity through our education service.",
+   "name": "Nick Smith",
+   "seat": "Blaenau Gwent and Rhymney"
+  },
+  {
+   "who": "Jayne Kirkham",
+   "member_id": 5279,
+   "type": "Contribution",
+   "text": "I am so pleased that schools furthest from Westminster are going to be prioritised and given time to apply for parliamentary trips. It takes at least six hours to get here from Cornish schools, which means they have to take a number of days in London. That is why their visits are rare and often in the summer term, when they interfere less with formal exams. Could my hon. Friend confirm that children from remote and deprived areas will be helped to surmount the barriers they face in getting here?",
+   "name": "Jayne Kirkham",
+   "party": "Lab/Co-op",
+   "seat": "Truro and Falmouth"
+  },
+  {
+   "who": "Nick Smith",
+   "member_id": 3928,
+   "type": "Contribution",
+   "text": "The new booking process, which will be launched in September, will ensure that regions are allocated visit opportunities to ensure that no region accesses more than its fair share. Consideration has been given to the circumstances of band C schools—those furthest from Westminster—which have a clear preference for summer-term access due to the long distances they must travel. The education team will weight band C visit opportunities to favour the summer term, so that the booking opportunities best meet those schools’ needs.",
+   "name": "Nick Smith",
+   "seat": "Blaenau Gwent and Rhymney"
+  }
+ ],
+ "fetched": "2026-10-21T20:28:25Z"
+}

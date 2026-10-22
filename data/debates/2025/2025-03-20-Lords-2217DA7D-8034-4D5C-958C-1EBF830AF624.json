@@ -1,0 +1,222 @@
+{
+ "ext_id": "2217DA7D-8034-4D5C-958C-1EBF830AF624",
+ "date": "2025-03-20",
+ "house": "Lords",
+ "section": "Debate",
+ "title": "Schools: Special Educational Needs",
+ "parents": [
+  "Lords Chamber"
+ ],
+ "location": "Lords Chamber",
+ "url": "https://hansard.parliament.uk/Lords/2025-03-20/debates/2217DA7D-8034-4D5C-958C-1EBF830AF624/SchoolsSpecialEducationalNeeds",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Lord Addington",
+   "party": "LD",
+   "member_id": 3453
+  },
+  {
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education",
+   "member_id": 269
+  },
+  {
+   "name": "Baroness Bull",
+   "party": "CB",
+   "member_id": 4706
+  },
+  {
+   "name": "Baroness Berridge",
+   "party": "Con",
+   "member_id": 4218
+  },
+  {
+   "name": "Baroness McIntosh of Hudnall",
+   "party": "Lab",
+   "member_id": 2506
+  },
+  {
+   "name": "Lord Hannay of Chiswick",
+   "party": "CB",
+   "member_id": 2167
+  },
+  {
+   "name": "Noble Lords"
+  },
+  {
+   "name": "Baroness Barran",
+   "party": "Con",
+   "member_id": 4703
+  },
+  {
+   "name": "Baroness Fox of Buckley",
+   "party": "Non-Afl",
+   "member_id": 4887
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Lord Addington",
+   "member_id": 3453,
+   "type": "Contribution",
+   "text": "To ask His Majesty’s Government what steps they have taken to give schools the capacity to make assessments of commonly occurring special educational needs.",
+   "name": "Lord Addington",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Addington (LD)",
+   "member_id": 3453,
+   "type": "Contribution",
+   "text": "My Lords, I beg leave to ask the Question standing in my name on the Order Paper, and I remind the House of my declared interest with the British Dyslexia Association and Microlink PC.",
+   "name": "Lord Addington",
+   "party": "LD"
+  },
+  {
+   "who": "The Minister of State, Department for Education (Baroness Smith of Malvern) (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My Lords, we are improving inclusivity and expertise in mainstream settings to ensure that all children and young people receive the support they need to thrive. To do this, we are funding the universal SEND services programme, which has supported professionals to access over 20,000 SEND-specific training modules, the PINS programme to support around 1,600 primary schools to better meet the needs of neurodiverse children, and the NELI programme which has helped staff screen an estimated 640,000 children to identify those with language development difficulties.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Addington (LD)",
+   "member_id": 3453,
+   "type": "Contribution",
+   "text": "I thank the Minister for that Answer. Will she expand on what has been done to disseminate knowledge throughout the teaching staff once this assessment has been made? Where anyone has problems, it is usually a case of working smarter, not harder, so more help from the mainstream types of support can often be counterproductive.",
+   "name": "Lord Addington",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "The noble Lord is right: we believe that every teacher is a teacher of special educational needs and disability. Where we find good practice, we need to make sure that it is disseminated to all teachers because the best teaching produces the best results for all children, including those with special educational needs and disability. From this September, the initial teacher training scope will include improved measures and information about what works well for children with special educational needs and disabilities.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Bull (CB)",
+   "member_id": 4706,
+   "type": "Contribution",
+   "text": "My Lords, dyscalculia is the learning disability that most people have never heard of, yet its prevalence is the same as dyslexia, and indeed its impact on educational, employment and health outcomes are very similar. The prevalence rate means that one child in every classroom has dyscalculia, yet the Minister will know that the DfE has no official definition of dyscalculia, nor is there any guidance at all for parents, carers and educators on the website. When will the Government address the incredibly low awareness of this high-impact condition by including reference to it in initial teacher training so that young people get the diagnosis, early identification and support that they need and deserve?",
+   "name": "Baroness Bull",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I know that the noble Baroness has not only raised the issue of dyscalculia with me but, in doing so, drawn attention to it more broadly. The approach that is taken in initial teacher training is not to specifically identify particular conditions because, as I suggested to the noble Lord, the best-quality training for mainstream teachers is in the type and quality of teaching that will enable them to identify needs and to enable children to make the best progress. Where really specific support is needed, that should be commissioned by the special educational needs co-ordinator, within the school or externally. I feel reasonably confident that SENCOs understand the sort of issues that the noble Baroness is raising, but ensuring that information and best practice are available is clearly an important part of the work that we are doing.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Berridge (Con)",
+   "member_id": 4218,
+   "type": "Contribution",
+   "text": "My Lords, when there is not early identification, increasingly parents have been feeling that they have to withdraw their children from mainstream education and home-school them. Could the Minister confirm that we are collecting data on those who are home-educated? Those parents do not think it was an elective home education, and it is important that we know how assessment is failing and why those parents have withdrawn their children and are home-educating them.",
+   "name": "Baroness Berridge",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "The noble Baroness is right that it is an enormous failure of the system if parents feel they have to withdraw their children from school, not voluntarily but because they do not believe that schools are providing for them. That is why it is so important that this Government’s plans to develop a more inclusive and expert mainstream education, alongside specialist schools where there are particularly complex needs and they are needed, is so important. In the Children’s Wellbeing and Schools Bill, which will be coming to this House reasonably soon, we will be taking additional measures around both the consent needed and the understanding of those students who are being home-schooled. On that particular issue, however, I will write to the noble Baroness about the extent of the information that we currently collect.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness McIntosh of Hudnall (Lab)",
+   "member_id": 2506,
+   "type": "Contribution",
+   "text": "My Lords, does my noble friend agree that there is an intermediate position between removing children from mainstream schooling and leaving them there, which is that some children with special educational needs should be able to access support alongside their mainstream schooling? Once a condition has been identified, parents who can do so will often look to access that in the private sector because it is difficult to get it due to the availability of the right resources. To what extent is the Minister confident that, where there is an identified need for additional special support outside the classroom, there are sufficient specialists available to deliver that support?",
+   "name": "Baroness McIntosh of Hudnall",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "Some of the best practice that we are seeing in mainstream schools occurs where they are able to develop in-school resource centres with particular specialisms. That is why the Government have provided an additional £740 million-worth of capital to improve the capability for specialist centres like that and specialist places within mainstream schools, and in special schools where necessary. So my noble friend makes an important point. Last week, my right honourable friend the Secretary of State launched a call for evidence on best practice in inclusive practice which is nevertheless maintaining the specialist support that children need. I hope we will find more examples through looking at the good work that is already happening, which, through the increased investment and the reform that we are making in the special educational needs and disability system, we can ensure is spread more widely across our schools.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Lord Hannay of Chiswick (CB)",
+   "member_id": 2167,
+   "type": "Contribution",
+   "text": "My Lords, is the Minister aware that the adoption and special guardianship support fund may run out of funds entirely by the end of this month? What action are the Government thinking of taking to avoid that extremely damaging situation?",
+   "name": "Lord Hannay of Chiswick",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "Due to the enormously difficult fiscal position that we inherited from the last Government—",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Noble Lords",
+   "member_id": null,
+   "type": "Contribution",
+   "text": "Oh!",
+   "name": "Noble Lords"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "Yes, it was bad. We are having to make some enormously difficult decisions. Having said that, we are in the process of business planning, as well as planning for the next spending review, and we hope to be in a position to announce the future of schemes like that as soon as possible.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, the Minister will be aware that recent reports have highlighted the very variable quality of education, health and care plans, and have identified a number where interventions were recommended that are proven not to work. In parallel with that, there have been suggestions that there should be the equivalent of NICE for special educational needs. Given how complex this area is and how long it will take to make the big structural reforms that I know the Government want to do, is this not something that the Government could press on with quickly to improve the lives of children within the system?",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "The noble Baroness makes a fair point about us being as clear as possible about which interventions are most effective for children, as well as the broader reform that is going to be necessary. That is why, to be fair to the noble Baroness, some of the work that was started under the change programme is identifying where there is good practice in relation to EHCPs. That is why, in the engagement that this Government have started, led by Christine Lenehan as the strategic adviser for special educational needs and disability, we are looking at what is working effectively and what we need to change. I take the noble Baroness’s point about how we more quickly identify what high-quality interventions are and how to spread that as quickly as possible across the system.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  },
+  {
+   "who": "Baroness Fox of Buckley (Non-Afl)",
+   "member_id": 4887,
+   "type": "Contribution",
+   "text": "My Lords, we are in a situation where we need to get early assessment for those who need it, but, as the Minister will know from recent discussions on welfare and on the number of very young people particularly on sickness, how does she think we should deal with the problems of overdiagnosis and of pathologising and medicalising young people who are having difficult times but are actually keen, or their parents are keen, to get a label when it is not appropriate? It seems to me that that is skewing the figures and damaging the system.",
+   "name": "Baroness Fox of Buckley",
+   "party": "Non-Afl"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "The noble Baroness identifies the crucial role of identifying early where there are difficulties or particular needs that children have. That needs to start really early, which is why the Government have improved both the training and the advice available to early years practitioners to be able to identify that. In the range of measures that I outlined in my initial Answer, there is more scope to identify and to start to take action early to prevent the early signs of some of those conditions, which can then become more serious, from escalating in the way in which the noble Baroness said. In relation to welfare reform, ensuring that we are preparing all children, particularly those with special educational needs and disabilities, for their future working lives—as I was able to see in a recent visit to New College Worcester for visually impaired young people, for example—is also incredibly important so that people can start their life able to work and achieve the best outcomes that they can throughout their lives.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education"
+  }
+ ],
+ "fetched": "2026-10-21T20:25:38Z"
+}
