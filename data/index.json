@@ -8674,7 +8674,7 @@
   "file": "data/debates/2026/2026-10-19-Commons-0EBF049A-C762-438E-8528-BB95276852AF.json",
   "speakers": 2,
   "contributions": 4,
-  "fetched": "2026-10-22T09:29:52Z"
+  "fetched": "2026-10-22T16:11:13Z"
  },
  {
   "date": "2026-10-19",
@@ -8691,7 +8691,7 @@
   "file": "data/debates/2026/2026-10-19-Commons-07D162AB-EAB0-4384-A853-4B36FAA323F2.json",
   "speakers": 7,
   "contributions": 16,
-  "fetched": "2026-10-22T09:29:52Z"
+  "fetched": "2026-10-22T16:11:14Z"
  },
  {
   "date": "2026-10-19",
@@ -8706,7 +8706,7 @@
   "file": "data/debates/2026/2026-10-19-Lords-0C2A53F1-F10D-4DF7-9B7F-42C986A0353A.json",
   "speakers": 17,
   "contributions": 18,
-  "fetched": "2026-10-22T09:29:55Z"
+  "fetched": "2026-10-22T16:11:17Z"
  },
  {
   "date": "2026-10-20",
@@ -8724,7 +8724,7 @@
   "file": "data/debates/2026/2026-10-20-Commons-686929DD-271F-4CA6-B50B-140AFE00F249.json",
   "speakers": 0,
   "contributions": 0,
-  "fetched": "2026-10-22T09:30:00Z"
+  "fetched": "2026-10-22T16:11:20Z"
  },
  {
   "date": "2026-10-20",
@@ -8739,7 +8739,7 @@
   "file": "data/debates/2026/2026-10-20-Commons-6A230EB2-5480-4AC3-9C87-FC9D8343A1BD.json",
   "speakers": 26,
   "contributions": 46,
-  "fetched": "2026-10-22T09:29:58Z"
+  "fetched": "2026-10-22T16:11:19Z"
  },
  {
   "date": "2026-10-21",
@@ -8754,7 +8754,7 @@
   "file": "data/debates/2026/2026-10-21-Commons-CAAFE9F2-EA1F-42E9-9F73-ECD65FA13C2B.json",
   "speakers": 18,
   "contributions": 36,
-  "fetched": "2026-10-22T09:30:03Z"
+  "fetched": "2026-10-22T16:11:23Z"
  },
  {
   "date": "2026-10-21",
@@ -8771,7 +8771,7 @@
   "file": "data/debates/2026/2026-10-21-Commons-23D819F4-8A8E-4B23-88C6-700E17AF6007.json",
   "speakers": 1,
   "contributions": 1,
-  "fetched": "2026-10-22T09:30:06Z"
+  "fetched": "2026-10-22T16:11:26Z"
  },
  {
   "date": "2026-10-21",
@@ -8786,7 +8786,7 @@
   "file": "data/debates/2026/2026-10-21-Commons-F64FEAD8-2069-42D4-BCB8-5CDBB2DBFDBB.json",
   "speakers": 1,
   "contributions": 1,
-  "fetched": "2026-10-22T09:30:04Z"
+  "fetched": "2026-10-22T16:11:24Z"
  },
  {
   "date": "2026-10-21",
@@ -8801,6 +8801,38 @@
   "file": "data/debates/2026/2026-10-21-Lords-CD69982C-3614-462E-BDB9-ECEF47BD8882.json",
   "speakers": 8,
   "contributions": 16,
-  "fetched": "2026-10-22T09:30:09Z"
+  "fetched": "2026-10-22T16:11:28Z"
+ },
+ {
+  "date": "2026-10-22",
+  "house": "Commons",
+  "section": "Debate",
+  "title": "Young People: Skills",
+  "parents": [
+   "Commons Chamber",
+   "Oral Answers to Questions",
+   "Church Commissioners"
+  ],
+  "subtitles": [],
+  "ext_id": "9D58B309-1C07-4B2F-A1D1-7D41443A0CE3",
+  "file": "data/debates/2026/2026-10-22-Commons-9D58B309-1C07-4B2F-A1D1-7D41443A0CE3.json",
+  "speakers": 3,
+  "contributions": 6,
+  "fetched": "2026-10-22T16:11:30Z"
+ },
+ {
+  "date": "2026-10-22",
+  "house": "Lords",
+  "section": "Debate",
+  "title": "Antisemitism in Schools and Colleges",
+  "parents": [
+   "Lords Chamber"
+  ],
+  "subtitles": [],
+  "ext_id": "99EEBC9E-984D-4192-8563-0BDF31B909C8",
+  "file": "data/debates/2026/2026-10-22-Lords-99EEBC9E-984D-4192-8563-0BDF31B909C8.json",
+  "speakers": 17,
+  "contributions": 31,
+  "fetched": "2026-10-22T16:11:31Z"
  }
 ]
