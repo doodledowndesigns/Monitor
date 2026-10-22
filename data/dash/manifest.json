@@ -87,13 +87,6 @@
   },
   {
    "collection": "bills",
-   "doc_id": "3670",
-   "file": "data/dash/bills/3670.json",
-   "sha": "52df12c540e0",
-   "bytes": 783
-  },
-  {
-   "collection": "bills",
    "doc_id": "3713",
    "file": "data/dash/bills/3713.json",
    "sha": "2c112871768e",
@@ -178,13 +171,6 @@
   },
   {
    "collection": "bills",
-   "doc_id": "3919",
-   "file": "data/dash/bills/3919.json",
-   "sha": "753939371021",
-   "bytes": 783
-  },
-  {
-   "collection": "bills",
    "doc_id": "3948",
    "file": "data/dash/bills/3948.json",
    "sha": "b72dbd709507",
@@ -213,20 +199,6 @@
   },
   {
    "collection": "bills",
-   "doc_id": "4017",
-   "file": "data/dash/bills/4017.json",
-   "sha": "d37ec854f6ee",
-   "bytes": 798
-  },
-  {
-   "collection": "bills",
-   "doc_id": "4019",
-   "file": "data/dash/bills/4019.json",
-   "sha": "b6eedfa965cd",
-   "bytes": 9076
-  },
-  {
-   "collection": "bills",
    "doc_id": "4023",
    "file": "data/dash/bills/4023.json",
    "sha": "04315403101f",
@@ -252,13 +224,6 @@
    "file": "data/dash/bills/4048.json",
    "sha": "be7c27733d0b",
    "bytes": 947
-  },
-  {
-   "collection": "bills",
-   "doc_id": "4064",
-   "file": "data/dash/bills/4064.json",
-   "sha": "865e6f0924a4",
-   "bytes": 751
   },
   {
    "collection": "bills",

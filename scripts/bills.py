@@ -189,6 +189,11 @@ def main():
         s["fell"] = not (s["act"] or s["withdrawn"] or s["defeated"]) and s["session"] < current
     save(os.path.join(DATA, "dash", "bills.json"), {"generated": today().isoformat(), "items": summary})
     save(os.path.join(DATA, "dash", "voters.json"), voters)
+    keep = {str(s["id"]) for s in summary}
+    bdir = os.path.join(DATA, "dash", "bills")
+    for f in os.listdir(bdir):  # bills no longer in the list (e.g. older duplicates)
+        if f.split("-")[0].removesuffix(".json") not in keep:
+            os.remove(os.path.join(bdir, f))
     print(f"bills: {len(summary)} bills, {sum(s['divisions'] for s in summary)} divisions, {len(voters)} voters")
 
 
