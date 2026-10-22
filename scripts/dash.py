@@ -30,7 +30,7 @@ def main():
         p = os.path.join(DATA, name)
         if os.path.exists(p):
             rows.append(entry("meta", doc, p))
-    for name in ("calendar", "deadlines", "citations", "parties", "bills", "voters"):
+    for name in ("calendar", "deadlines", "consultations", "citations", "parties", "bills", "voters"):
         p = os.path.join(DATA, "dash", f"{name}.json")
         if os.path.exists(p):
             rows.append(entry("meta", name, p))

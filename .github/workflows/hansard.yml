@@ -48,7 +48,7 @@ jobs:
       - name: Dashboard data
         if: ${{ github.event.inputs.mode != 'probe' }}
         run: |
-          ALL="calendar_ahead bills deadlines citations profiles commitments"
+          ALL="calendar_ahead deadlines consultations bills citations profiles commitments"
           ONLY="${{ github.event.inputs.mode == 'dash' && github.event.inputs.start || '' }}"
           for s in ${ONLY:-$ALL}; do python scripts/$s.py || echo "$s failed"; done
           python scripts/dash.py
