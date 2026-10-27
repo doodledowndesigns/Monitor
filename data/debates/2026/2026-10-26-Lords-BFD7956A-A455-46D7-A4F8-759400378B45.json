@@ -1,0 +1,193 @@
+{
+ "ext_id": "BFD7956A-A455-46D7-A4F8-759400378B45",
+ "date": "2026-10-26",
+ "house": "Lords",
+ "section": "Debate",
+ "title": "Artificial Intelligence Tools: Schools",
+ "parents": [
+  "Lords Chamber"
+ ],
+ "location": "Lords Chamber",
+ "url": "https://hansard.parliament.uk/Lords/2026-10-26/debates/BFD7956A-A455-46D7-A4F8-759400378B45/ArtificialIntelligenceToolsSchools",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Baroness Berger",
+   "party": "Lab",
+   "member_id": 4036
+  },
+  {
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions",
+   "member_id": 269
+  },
+  {
+   "name": "Baroness Barran",
+   "party": "Con",
+   "member_id": 4703
+  },
+  {
+   "name": "Lord Clement-Jones",
+   "party": "LD",
+   "member_id": 3396
+  },
+  {
+   "name": "The Lord Bishop of Hereford",
+   "member_id": 5003
+  },
+  {
+   "name": "The Earl of Effingham",
+   "party": "Con",
+   "member_id": 4958
+  },
+  {
+   "name": "Baroness Bull",
+   "party": "CB",
+   "member_id": 4706
+  },
+  {
+   "name": "Baroness Penn",
+   "party": "Con",
+   "member_id": 4726
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Baroness Berger",
+   "member_id": 4036,
+   "type": "Contribution",
+   "text": "To ask His Majesty’s Government whether they intend to publish a single, government-approved list of artificial intelligence tools that meet minimum safeguarding and data protection standards for use in schools.",
+   "name": "Baroness Berger",
+   "party": "Lab"
+  },
+  {
+   "who": "The Minister of State, Department for Education and Department for Work and Pensions (Baroness Smith of Malvern) (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "My Lords, the Government are focused on ensuring that technology used in education is safe and trustworthy, through generative AI product safety standards, updated guidance and a planned consultation on introducing safety certification for higher-risk products. Such certification would lead to a published list of child-facing generative AI tools which have been certified as meeting safety criteria, including data protection and safeguarding, for use in education settings.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Baroness Berger (Lab)",
+   "member_id": 4036,
+   "type": "Contribution",
+   "text": "My Lords, edtech is largely untested and we do not yet know the full impact of it on our children in schools. A school choosing an AI tool can struggle to judge whether it meets those safeguarding and data protection standards. A recent ICO audit of 28 edtech providers found that around 70% of their agreements with schools lacked the legally required detail. The edtech businesses could not provide evidence that the schools using their platforms had authorised reuse of student data for their own purposes. Can my noble friend the Minister, in light of her reply, say what additional practical support the Government can provide today to schools to ensure that children’s safety is not harmed by these tools?",
+   "name": "Baroness Berger",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "We have already updated the standards that apply to those tools, but my noble friend makes the important point that a fast-moving market, as that for edtech is, needs more than that. That is precisely why we want to consult on certificating products, so that it can be much clearer to schools, at any given time, which products are certificated. That certification would also take into consideration both data protection and safeguarding issues.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Baroness Barran (Con)",
+   "member_id": 4703,
+   "type": "Contribution",
+   "text": "My Lords, the Minister mentioned that the Government plan to consult on the certification of edtech and generative AI products. Can she give us a timetable for that consultation? Similarly, the Government announced that there would be sovereign education benchmarks, but no timetable that I am aware of has been announced. Can she confirm that AI products used in education will be independently assessed against those benchmarks?",
+   "name": "Baroness Barran",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "We intend to launch the consultation and certification framework very soon—this autumn. I will come back to the noble Baroness about the AI sovereign benchmarks. I understand that they are already operationalised, but I will respond specifically respond to that point.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Lord Clement-Jones (LD)",
+   "member_id": 3396,
+   "type": "Contribution",
+   "text": "My Lords, I declare an interest as an adviser to DLA Piper on AI regulation and policy. A list of safe tools can tell us what to avoid. What is the Government’s vision for what AI in schools can achieve for children? Will they adopt a human flourishing test for AI in schools? That would mean asking not just whether a tool avoids harm but whether it independently improves children’s learning, curiosity, critical thinking and agency.",
+   "name": "Lord Clement-Jones",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "I wish the noble Lord a very happy birthday. Of course, he is right. That is why we need different elements of protection and, as he rightly said, promotion. The certification would enable schools more quickly and easily to see the edtech products that met the standards. In January, we strengthened our product safety standards both to reflect emerging risks and developments in AI technologies and to ensure that AI supports genuine learning and does not undermine children’s ability to think, learn and develop independently. The certification scheme enables the development by legitimate edtech companies of the type of technology which will help to support children’s learning.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "The Lord Bishop of Hereford",
+   "member_id": 5003,
+   "type": "Contribution",
+   "text": "My Lords, a number of noble Lords have already asked questions about the regulation of AI in schools. Would it be Ofsted that inspected schools and how they govern their use of artificial intelligence, including the safeguards they have in place to protect pupils and manage the use of personal data? If so, what steps are the Government taking to ensure that Ofsted inspectors have the expertise and guidance necessary to make such assessments effectively?",
+   "name": "The Lord Bishop of Hereford"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "Of course, Ofsted will have an important role to play in ensuring the safeguarding responsibility of schools with respect to AI as well as its appropriate use in the classroom. There is also a role for the Information Commissioner’s Office in the protection of data. As I have already identified, it would not be appropriate for Ofsted, for example, to be the organisation that holds the certification process. That is another area where there will be support for ensuring that what happens is right, safe and effective, and a way of ensuring that schools are following the certification and the guidance that already exist.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "The Earl of Effingham (Con)",
+   "member_id": 4958,
+   "type": "Contribution",
+   "text": "My Lords, we had a brilliant debate on this very subject on Thursday, and the PISA data is clear: it shows that pupils using the most technology throughout their school day suffer worse results, with those who used computers for over six hours in a day scoring 66 points lower than their peers who did not use the technology. Will the Government act on this to ensure that children in our schools do not suffer through overuse of this educational technology?",
+   "name": "The Earl of Effingham",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "Yes, of course it is the case, but we need to ensure that we harness the positive opportunities that come from AI and educational technology and avoid the risks—which certainly need to be managed very carefully—in our schools. That is the reason for the breadth of initiatives being taken by the Government. It is the reason for the update of the generative AI product safety standards, which have specific protections relating to cognitive development, emotional and social development, mental health and manipulative design, reflecting areas where children may be particularly vulnerable. I do not believe that there is anybody in this House who does not believe that there are opportunities that AI can bring into our schools for teachers and learners. The Government are working hard to get that balance right.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Baroness Bull (CB)",
+   "member_id": 4706,
+   "type": "Contribution",
+   "text": "My Lords, alongside their positive role within the education system, many parents and children will choose online and AI tools to support their learning outside of the classroom. My noble friend Lord Tarassenko has pointed out that it is a bit of a minefield. It is difficult for parents to assess which of those tools are likely to be the most efficacious. Are there any plans for the Department for Education to help parents by perhaps rating those tools on their effectiveness in supporting children who have particular educational needs?",
+   "name": "Baroness Bull",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "Once the certification is in place, I suspect that will be broadly available for parents to see. We are already starting the process of developing screen use guidance for five to 18 year-olds, which will gather evidence from experts on how screen use affects children and young people. That will make new, practical evidence-based guidance available for parents in the coming months.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  },
+  {
+   "who": "Baroness Penn (Con)",
+   "member_id": 4726,
+   "type": "Contribution",
+   "text": "My Lords, what response has the Department for Education given to the 130 early years experts and educators who wrote to the Secretary of State in September raising concerns about the digital reception baseline assessment, including that it is inconsistent with the guidance on early years screen time, which the Government have already developed and are building on with their work for over-fives now?",
+   "name": "Baroness Penn",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Smith of Malvern (Lab)",
+   "member_id": 269,
+   "type": "Contribution",
+   "text": "The reception baseline assessment does not contradict the department’s screen use guidance. It is a short, one-off assessment during which a pupil may use the screen for around 12 minutes, which is significantly less than the maximum one hour per day recommended. The content is slow-paced and safe. It was tested under the previous Government, with experts in early years, SEN and inclusion involved in its development, and there were extensive trials with thousands of reception-age pupils. It is not something that a young child would use on their own; it is administered by a teacher, and the pupil will never be alone with the device. It provides a more effective, well-tested way of getting that baseline assessment of where a child is when they come into school, which is so important to enable them to make progress while they are in school.",
+   "name": "Baroness Smith of Malvern",
+   "party": "Lab",
+   "role": "The Minister of State, Department for Education and Department for Work and Pensions"
+  }
+ ],
+ "fetched": "2026-10-27T06:11:37Z"
+}

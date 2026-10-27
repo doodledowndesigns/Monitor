@@ -8900,5 +8900,51 @@
   "speakers": 17,
   "contributions": 31,
   "fetched": "2026-10-23T16:14:25Z"
+ },
+ {
+  "date": "2026-10-26",
+  "house": "Commons",
+  "section": "WMS",
+  "title": "National School of Government and Public Services",
+  "parents": [
+   "Written Statements",
+   "Cabinet Office"
+  ],
+  "subtitles": [],
+  "ext_id": "26102619000011",
+  "file": "data/debates/2026/2026-10-26-Commons-26102619000011.json",
+  "speakers": 1,
+  "contributions": 1,
+  "fetched": "2026-10-27T06:11:35Z"
+ },
+ {
+  "date": "2026-10-26",
+  "house": "Commons",
+  "section": "Debate",
+  "title": "Securing Scotland’s Future: Defence Skills and Jobs",
+  "parents": [
+   "Commons Chamber"
+  ],
+  "subtitles": [],
+  "ext_id": "58F0377D-708D-4313-9760-AD3DA7E85836",
+  "file": "data/debates/2026/2026-10-26-Commons-58F0377D-708D-4313-9760-AD3DA7E85836.json",
+  "speakers": 11,
+  "contributions": 21,
+  "fetched": "2026-10-27T06:11:34Z"
+ },
+ {
+  "date": "2026-10-26",
+  "house": "Lords",
+  "section": "Debate",
+  "title": "Artificial Intelligence Tools: Schools",
+  "parents": [
+   "Lords Chamber"
+  ],
+  "subtitles": [],
+  "ext_id": "BFD7956A-A455-46D7-A4F8-759400378B45",
+  "file": "data/debates/2026/2026-10-26-Lords-BFD7956A-A455-46D7-A4F8-759400378B45.json",
+  "speakers": 8,
+  "contributions": 16,
+  "fetched": "2026-10-27T06:11:37Z"
  }
 ]
