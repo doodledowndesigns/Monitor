@@ -5,22 +5,22 @@
    "collection": "meta",
    "doc_id": "trends",
    "file": "data/trends.json",
-   "sha": "eb200deb837c",
-   "bytes": 12667
+   "sha": "f775b3186b49",
+   "bytes": 12668
   },
   {
    "collection": "meta",
    "doc_id": "emerging",
    "file": "data/emerging.json",
-   "sha": "47e7e4e53978",
+   "sha": "f4df72058709",
    "bytes": 16935
   },
   {
    "collection": "meta",
    "doc_id": "calendar",
    "file": "data/dash/calendar.json",
-   "sha": "8cca86434399",
-   "bytes": 2802
+   "sha": "a077f6e86952",
+   "bytes": 3138
   },
   {
    "collection": "meta",
@@ -68,8 +68,8 @@
    "collection": "meta",
    "doc_id": "profiles-1",
    "file": "data/dash/profiles-1.json",
-   "sha": "03eaf62930d9",
-   "bytes": 180632
+   "sha": "97c0ed125494",
+   "bytes": 180633
   },
   {
    "collection": "meta",
