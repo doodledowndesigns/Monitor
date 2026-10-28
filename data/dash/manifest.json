@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27",
+ "generated": "2026-10-28",
  "docs": [
   {
    "collection": "meta",
@@ -12,49 +12,49 @@
    "collection": "meta",
    "doc_id": "emerging",
    "file": "data/emerging.json",
-   "sha": "f4df72058709",
-   "bytes": 16935
+   "sha": "1265597363d7",
+   "bytes": 17253
   },
   {
    "collection": "meta",
    "doc_id": "calendar",
    "file": "data/dash/calendar.json",
-   "sha": "a077f6e86952",
-   "bytes": 3138
+   "sha": "fcb88cc9b82e",
+   "bytes": 2304
   },
   {
    "collection": "meta",
    "doc_id": "deadlines",
    "file": "data/dash/deadlines.json",
-   "sha": "29fac4fd721f",
+   "sha": "f224e1c3988f",
    "bytes": 10719
   },
   {
    "collection": "meta",
    "doc_id": "consultations",
    "file": "data/dash/consultations.json",
-   "sha": "7e4cf18136bc",
+   "sha": "6329ff9ab9c3",
    "bytes": 26062
   },
   {
    "collection": "meta",
    "doc_id": "citations",
    "file": "data/dash/citations.json",
-   "sha": "efecd4b5ae7e",
+   "sha": "d57bafce4199",
    "bytes": 73652
   },
   {
    "collection": "meta",
    "doc_id": "parties",
    "file": "data/dash/parties.json",
-   "sha": "07da6d1a6c1d",
+   "sha": "d6d002adf1c6",
    "bytes": 1712
   },
   {
    "collection": "meta",
    "doc_id": "bills",
    "file": "data/dash/bills.json",
-   "sha": "4144426ef265",
+   "sha": "1eebd28c0675",
    "bytes": 12926
   },
   {
@@ -68,8 +68,8 @@
    "collection": "meta",
    "doc_id": "profiles-1",
    "file": "data/dash/profiles-1.json",
-   "sha": "97c0ed125494",
-   "bytes": 180633
+   "sha": "4c6755b1fadd",
+   "bytes": 180634
   },
   {
    "collection": "meta",
