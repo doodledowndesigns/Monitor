@@ -12,15 +12,15 @@
    "collection": "meta",
    "doc_id": "emerging",
    "file": "data/emerging.json",
-   "sha": "1265597363d7",
-   "bytes": 17253
+   "sha": "4afa737dfc3b",
+   "bytes": 17299
   },
   {
    "collection": "meta",
    "doc_id": "calendar",
    "file": "data/dash/calendar.json",
-   "sha": "fcb88cc9b82e",
-   "bytes": 2304
+   "sha": "14579b6a1c60",
+   "bytes": 2582
   },
   {
    "collection": "meta",
@@ -40,14 +40,14 @@
    "collection": "meta",
    "doc_id": "citations",
    "file": "data/dash/citations.json",
-   "sha": "d57bafce4199",
-   "bytes": 73652
+   "sha": "06cf92ad62a1",
+   "bytes": 74112
   },
   {
    "collection": "meta",
    "doc_id": "parties",
    "file": "data/dash/parties.json",
-   "sha": "d6d002adf1c6",
+   "sha": "1b07c60f7ecc",
    "bytes": 1712
   },
   {
@@ -68,15 +68,15 @@
    "collection": "meta",
    "doc_id": "profiles-1",
    "file": "data/dash/profiles-1.json",
-   "sha": "4c6755b1fadd",
-   "bytes": 180634
+   "sha": "f27db27c7864",
+   "bytes": 180599
   },
   {
    "collection": "meta",
    "doc_id": "profiles-2",
    "file": "data/dash/profiles-2.json",
-   "sha": "b623b857f9bb",
-   "bytes": 180796
+   "sha": "feb49cf5842d",
+   "bytes": 180800
   },
   {
    "collection": "meta",
