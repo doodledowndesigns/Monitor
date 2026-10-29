@@ -8915,7 +8915,7 @@
   "file": "data/debates/2026/2026-10-26-Commons-26102619000011.json",
   "speakers": 1,
   "contributions": 1,
-  "fetched": "2026-10-28T16:28:30Z"
+  "fetched": "2026-10-29T06:18:22Z"
  },
  {
   "date": "2026-10-26",
@@ -8930,7 +8930,7 @@
   "file": "data/debates/2026/2026-10-26-Commons-58F0377D-708D-4313-9760-AD3DA7E85836.json",
   "speakers": 11,
   "contributions": 21,
-  "fetched": "2026-10-28T16:28:28Z"
+  "fetched": "2026-10-29T06:18:21Z"
  },
  {
   "date": "2026-10-26",
@@ -8945,7 +8945,7 @@
   "file": "data/debates/2026/2026-10-26-Lords-BFD7956A-A455-46D7-A4F8-759400378B45.json",
   "speakers": 8,
   "contributions": 16,
-  "fetched": "2026-10-28T16:28:33Z"
+  "fetched": "2026-10-29T06:18:24Z"
  },
  {
   "date": "2026-10-27",
@@ -8960,6 +8960,21 @@
   "file": "data/debates/2026/2026-10-27-Commons-6CADD39F-2B39-437F-87B0-6EE02F538766.json",
   "speakers": 12,
   "contributions": 27,
-  "fetched": "2026-10-28T16:28:36Z"
+  "fetched": "2026-10-29T06:18:26Z"
+ },
+ {
+  "date": "2026-10-28",
+  "house": "Lords",
+  "section": "Debate",
+  "title": "Vocational GCSEs",
+  "parents": [
+   "Lords Chamber"
+  ],
+  "subtitles": [],
+  "ext_id": "6018FF8B-6C69-4662-A2C6-D369F758BE82",
+  "file": "data/debates/2026/2026-10-28-Lords-6018FF8B-6C69-4662-A2C6-D369F758BE82.json",
+  "speakers": 8,
+  "contributions": 16,
+  "fetched": "2026-10-29T06:18:33Z"
  }
 ]
