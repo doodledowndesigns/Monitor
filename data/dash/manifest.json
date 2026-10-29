@@ -12,42 +12,42 @@
    "collection": "meta",
    "doc_id": "emerging",
    "file": "data/emerging.json",
-   "sha": "24bd198bb4ab",
-   "bytes": 17523
+   "sha": "872a6cd8b183",
+   "bytes": 17466
   },
   {
    "collection": "meta",
    "doc_id": "calendar",
    "file": "data/dash/calendar.json",
-   "sha": "2219206dde96",
-   "bytes": 2229
+   "sha": "40d5ee711b0d",
+   "bytes": 2811
   },
   {
    "collection": "meta",
    "doc_id": "deadlines",
    "file": "data/dash/deadlines.json",
-   "sha": "8928285866b6",
-   "bytes": 10719
+   "sha": "bb6af1678505",
+   "bytes": 11101
   },
   {
    "collection": "meta",
    "doc_id": "consultations",
    "file": "data/dash/consultations.json",
-   "sha": "276ff8fed7db",
-   "bytes": 26062
+   "sha": "5b612dfa654a",
+   "bytes": 26471
   },
   {
    "collection": "meta",
    "doc_id": "citations",
    "file": "data/dash/citations.json",
-   "sha": "2c771c12dd3b",
-   "bytes": 74600
+   "sha": "a9dde88581c1",
+   "bytes": 73692
   },
   {
    "collection": "meta",
    "doc_id": "parties",
    "file": "data/dash/parties.json",
-   "sha": "879c413dbb88",
+   "sha": "88866b9ef0af",
    "bytes": 1711
   },
   {
@@ -68,8 +68,8 @@
    "collection": "meta",
    "doc_id": "profiles-1",
    "file": "data/dash/profiles-1.json",
-   "sha": "029abb1c2048",
-   "bytes": 180599
+   "sha": "8f5183310ad5",
+   "bytes": 180600
   },
   {
    "collection": "meta",
