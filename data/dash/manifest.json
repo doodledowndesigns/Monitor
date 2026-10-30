@@ -12,8 +12,8 @@
    "collection": "meta",
    "doc_id": "emerging",
    "file": "data/emerging.json",
-   "sha": "8fc3a83c02c0",
-   "bytes": 17480
+   "sha": "1a6ad830621e",
+   "bytes": 18598
   },
   {
    "collection": "meta",
@@ -40,14 +40,14 @@
    "collection": "meta",
    "doc_id": "citations",
    "file": "data/dash/citations.json",
-   "sha": "69c106a22416",
-   "bytes": 73692
+   "sha": "54ce13a60ca7",
+   "bytes": 74600
   },
   {
    "collection": "meta",
    "doc_id": "parties",
    "file": "data/dash/parties.json",
-   "sha": "518d61477dc5",
+   "sha": "315038aec3d4",
    "bytes": 1712
   },
   {
@@ -68,8 +68,8 @@
    "collection": "meta",
    "doc_id": "profiles-1",
    "file": "data/dash/profiles-1.json",
-   "sha": "bf9fea4d9057",
-   "bytes": 180753
+   "sha": "8a54391ad902",
+   "bytes": 180756
   },
   {
    "collection": "meta",
@@ -124,7 +124,7 @@
    "collection": "bills",
    "doc_id": "3772",
    "file": "data/dash/bills/3772.json",
-   "sha": "94878810e6d5",
+   "sha": "63dc0096a154",
    "bytes": 15451
   },
   {
@@ -173,7 +173,7 @@
    "collection": "bills",
    "doc_id": "3909",
    "file": "data/dash/bills/3909.json",
-   "sha": "d2518721cd10",
+   "sha": "aca4a99f4e08",
    "bytes": 93769
   },
   {
