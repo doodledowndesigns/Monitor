@@ -12,7 +12,7 @@
    "collection": "meta",
    "doc_id": "emerging",
    "file": "data/emerging.json",
-   "sha": "2ec677a383b2",
+   "sha": "a323b6d52c53",
    "bytes": 19159
   },
   {
@@ -26,28 +26,28 @@
    "collection": "meta",
    "doc_id": "deadlines",
    "file": "data/dash/deadlines.json",
-   "sha": "c86cf759310d",
-   "bytes": 12538
+   "sha": "3188c6d1a742",
+   "bytes": 12862
   },
   {
    "collection": "meta",
    "doc_id": "consultations",
    "file": "data/dash/consultations.json",
-   "sha": "bba14c006239",
-   "bytes": 26473
+   "sha": "4323b77e2d2c",
+   "bytes": 26816
   },
   {
    "collection": "meta",
    "doc_id": "citations",
    "file": "data/dash/citations.json",
-   "sha": "4016e851f723",
-   "bytes": 74600
+   "sha": "a261877f85eb",
+   "bytes": 74108
   },
   {
    "collection": "meta",
    "doc_id": "parties",
    "file": "data/dash/parties.json",
-   "sha": "0a93f0bb1572",
+   "sha": "5b5a7abf06a0",
    "bytes": 1712
   },
   {
@@ -68,7 +68,7 @@
    "collection": "meta",
    "doc_id": "profiles-1",
    "file": "data/dash/profiles-1.json",
-   "sha": "66844acfcb22",
+   "sha": "a3279e537b4f",
    "bytes": 180596
   },
   {
