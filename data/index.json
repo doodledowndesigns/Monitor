@@ -9023,6 +9023,23 @@
   "file": "data/debates/2026/2026-11-02-Lords-FFA5F78A-6D16-4AA8-80F3-564410BEC19E.json",
   "speakers": 10,
   "contributions": 21,
-  "fetched": "2026-11-03T06:32:29Z"
+  "fetched": "2026-11-03T16:29:43Z"
+ },
+ {
+  "date": "2026-11-03",
+  "house": "Commons",
+  "section": "Debate",
+  "title": "Apprenticeship Opportunities for Young People",
+  "parents": [
+   "Commons Chamber",
+   "Oral Answers to Questions",
+   "Treasury"
+  ],
+  "subtitles": [],
+  "ext_id": "B6B59729-5775-47D3-AE33-3B548983FF1D",
+  "file": "data/debates/2026/2026-11-03-Commons-B6B59729-5775-47D3-AE33-3B548983FF1D.json",
+  "speakers": 5,
+  "contributions": 11,
+  "fetched": "2026-11-03T16:29:45Z"
  }
 ]
