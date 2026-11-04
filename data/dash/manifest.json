@@ -12,15 +12,15 @@
    "collection": "meta",
    "doc_id": "emerging",
    "file": "data/emerging.json",
-   "sha": "9915b7c86017",
-   "bytes": 18318
+   "sha": "e122ea40d0d3",
+   "bytes": 18494
   },
   {
    "collection": "meta",
    "doc_id": "calendar",
    "file": "data/dash/calendar.json",
-   "sha": "bee0f7a8d1fb",
-   "bytes": 3646
+   "sha": "14fb676c9091",
+   "bytes": 4633
   },
   {
    "collection": "meta",
@@ -40,8 +40,8 @@
    "collection": "meta",
    "doc_id": "citations",
    "file": "data/dash/citations.json",
-   "sha": "26666d49e5f4",
-   "bytes": 74697
+   "sha": "35c3ca73cdfd",
+   "bytes": 75165
   },
   {
    "collection": "meta",
