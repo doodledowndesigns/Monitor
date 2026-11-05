@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04",
+ "generated": "2026-11-05",
  "docs": [
   {
    "collection": "meta",
@@ -12,49 +12,49 @@
    "collection": "meta",
    "doc_id": "emerging",
    "file": "data/emerging.json",
-   "sha": "e122ea40d0d3",
-   "bytes": 18494
+   "sha": "f9bc2f5194a2",
+   "bytes": 18649
   },
   {
    "collection": "meta",
    "doc_id": "calendar",
    "file": "data/dash/calendar.json",
-   "sha": "14fb676c9091",
-   "bytes": 4633
+   "sha": "af47bdc2b538",
+   "bytes": 4355
   },
   {
    "collection": "meta",
    "doc_id": "deadlines",
    "file": "data/dash/deadlines.json",
-   "sha": "081ac0c3df7d",
+   "sha": "2f9aa36fd7ec",
    "bytes": 12545
   },
   {
    "collection": "meta",
    "doc_id": "consultations",
    "file": "data/dash/consultations.json",
-   "sha": "3385c07b7f44",
+   "sha": "ed4746b9003d",
    "bytes": 26816
   },
   {
    "collection": "meta",
    "doc_id": "citations",
    "file": "data/dash/citations.json",
-   "sha": "35c3ca73cdfd",
-   "bytes": 75165
+   "sha": "5b77e74c96c9",
+   "bytes": 74257
   },
   {
    "collection": "meta",
    "doc_id": "parties",
    "file": "data/dash/parties.json",
-   "sha": "90622eb6877f",
-   "bytes": 1713
+   "sha": "b185e28b29cb",
+   "bytes": 1712
   },
   {
    "collection": "meta",
    "doc_id": "bills",
    "file": "data/dash/bills.json",
-   "sha": "6e0e097288ac",
+   "sha": "9797f0e0fca0",
    "bytes": 12926
   },
   {
@@ -68,22 +68,22 @@
    "collection": "meta",
    "doc_id": "profiles-1",
    "file": "data/dash/profiles-1.json",
-   "sha": "b74c91828e7e",
-   "bytes": 180703
+   "sha": "8c05aa8c830a",
+   "bytes": 180695
   },
   {
    "collection": "meta",
    "doc_id": "profiles-2",
    "file": "data/dash/profiles-2.json",
-   "sha": "fe221ab07f2c",
-   "bytes": 180462
+   "sha": "42fcbf1fe917",
+   "bytes": 180735
   },
   {
    "collection": "meta",
    "doc_id": "profiles-3",
    "file": "data/dash/profiles-3.json",
-   "sha": "4c5f1fedb0f5",
-   "bytes": 25763
+   "sha": "0ff2ea1e956f",
+   "bytes": 25799
   },
   {
    "collection": "bills",
