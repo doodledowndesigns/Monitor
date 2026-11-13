@@ -12,29 +12,29 @@
    "collection": "meta",
    "doc_id": "emerging",
    "file": "data/emerging.json",
-   "sha": "345adeb13591",
+   "sha": "a603819f7381",
    "bytes": 16354
   },
   {
    "collection": "meta",
    "doc_id": "calendar",
    "file": "data/dash/calendar.json",
-   "sha": "90c399e37ca0",
-   "bytes": 5881
+   "sha": "4414df71e2c4",
+   "bytes": 6265
   },
   {
    "collection": "meta",
    "doc_id": "deadlines",
    "file": "data/dash/deadlines.json",
-   "sha": "f439aa0582f6",
-   "bytes": 13871
+   "sha": "d94fa6d7f20f",
+   "bytes": 13869
   },
   {
    "collection": "meta",
    "doc_id": "consultations",
    "file": "data/dash/consultations.json",
-   "sha": "3b0cc56ffd16",
-   "bytes": 30187
+   "sha": "b8588bf757cf",
+   "bytes": 30452
   },
   {
    "collection": "meta",
