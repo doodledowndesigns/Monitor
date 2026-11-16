@@ -9091,6 +9091,22 @@
   "date": "2026-11-12",
   "house": "Commons",
   "section": "WMS",
+  "title": "Children not in School: Statutory Guidance",
+  "parents": [
+   "Written Statements",
+   "Education"
+  ],
+  "subtitles": [],
+  "ext_id": "26111255000011",
+  "file": "data/debates/2026/2026-11-12-Commons-26111255000011.json",
+  "speakers": 1,
+  "contributions": 1,
+  "fetched": "2026-11-16T07:17:25Z"
+ },
+ {
+  "date": "2026-11-12",
+  "house": "Commons",
+  "section": "WMS",
   "title": "Education",
   "parents": [
    "Written Statements"
