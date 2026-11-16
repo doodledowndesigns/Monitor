@@ -12,8 +12,8 @@
    "collection": "meta",
    "doc_id": "emerging",
    "file": "data/emerging.json",
-   "sha": "43f5f7d237a3",
-   "bytes": 17378
+   "sha": "b0bf5f06fdbb",
+   "bytes": 17230
   },
   {
    "collection": "meta",
@@ -47,7 +47,7 @@
    "collection": "meta",
    "doc_id": "parties",
    "file": "data/dash/parties.json",
-   "sha": "56b516de4d97",
+   "sha": "ec08eb98c67c",
    "bytes": 1719
   },
   {
@@ -68,8 +68,8 @@
    "collection": "meta",
    "doc_id": "profiles-1",
    "file": "data/dash/profiles-1.json",
-   "sha": "92cc41514034",
-   "bytes": 180154
+   "sha": "1d530598da33",
+   "bytes": 180155
   },
   {
    "collection": "meta",
