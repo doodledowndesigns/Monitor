@@ -9119,5 +9119,34 @@
   "speakers": 1,
   "contributions": 1,
   "fetched": "2026-11-13T16:31:39Z"
+ },
+ {
+  "date": "2026-11-16",
+  "house": "Commons",
+  "section": "Debate",
+  "title": "Education",
+  "parents": [
+   "Commons Chamber",
+   "Oral Answers to Questions"
+  ],
+  "subtitles": [
+   "Technical and Vocational Education Pathways",
+   "Ukrainian GCSE",
+   "SEND System: Reform",
+   "Children's Commissioner for England Report",
+   "Special Schools: Funding",
+   "SEND Services: Joint Commissioning Statutory Requirement",
+   "School Transport: Safety and Accessibility",
+   "Young People not in Employment, Education or Training",
+   "Mission Coastal Programme",
+   "Online Safety: Children and Young People",
+   "Schools National Funding Formula: Suffolk",
+   "Topical Questions"
+  ],
+  "ext_id": "DA3BFACC-7E2E-49D1-8209-407F46BAF210",
+  "file": "data/debates/2026/2026-11-16-Commons-DA3BFACC-7E2E-49D1-8209-407F46BAF210.json",
+  "speakers": 64,
+  "contributions": 169,
+  "fetched": "2026-11-17T06:38:47Z"
  }
 ]
