@@ -9147,6 +9147,21 @@
   "file": "data/debates/2026/2026-11-16-Commons-DA3BFACC-7E2E-49D1-8209-407F46BAF210.json",
   "speakers": 64,
   "contributions": 169,
-  "fetched": "2026-11-17T16:38:22Z"
+  "fetched": "2026-11-18T06:38:16Z"
+ },
+ {
+  "date": "2026-11-17",
+  "house": "Commons",
+  "section": "Debate",
+  "title": "Safety of Nurseries (CCTV)",
+  "parents": [
+   "Commons Chamber"
+  ],
+  "subtitles": [],
+  "ext_id": "10657DF1-E704-4349-8BA1-2902B0880A79",
+  "file": "data/debates/2026/2026-11-17-Commons-10657DF1-E704-4349-8BA1-2902B0880A79.json",
+  "speakers": 3,
+  "contributions": 4,
+  "fetched": "2026-11-18T06:38:20Z"
  }
 ]
