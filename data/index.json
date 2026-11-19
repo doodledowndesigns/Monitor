@@ -9147,7 +9147,7 @@
   "file": "data/debates/2026/2026-11-16-Commons-DA3BFACC-7E2E-49D1-8209-407F46BAF210.json",
   "speakers": 64,
   "contributions": 169,
-  "fetched": "2026-11-19T06:35:04Z"
+  "fetched": "2026-11-19T16:40:19Z"
  },
  {
   "date": "2026-11-17",
@@ -9162,7 +9162,7 @@
   "file": "data/debates/2026/2026-11-17-Commons-10657DF1-E704-4349-8BA1-2902B0880A79.json",
   "speakers": 3,
   "contributions": 4,
-  "fetched": "2026-11-19T06:35:08Z"
+  "fetched": "2026-11-19T16:40:23Z"
  },
  {
   "date": "2026-11-18",
@@ -9177,6 +9177,21 @@
   "file": "data/debates/2026/2026-11-18-Lords-0C649012-FB43-4688-AC42-002F512B1F55.json",
   "speakers": 10,
   "contributions": 22,
-  "fetched": "2026-11-19T06:35:14Z"
+  "fetched": "2026-11-19T16:40:30Z"
+ },
+ {
+  "date": "2026-11-19",
+  "house": "Lords",
+  "section": "GrandCommittee",
+  "title": "Education: Instruction about Soils",
+  "parents": [
+   "Grand Committee"
+  ],
+  "subtitles": [],
+  "ext_id": "3CEC893E-1194-4CA9-BD67-D20D6A7E960E",
+  "file": "data/debates/2026/2026-11-19-Lords-3CEC893E-1194-4CA9-BD67-D20D6A7E960E.json",
+  "speakers": 1,
+  "contributions": 2,
+  "fetched": "2026-11-19T16:40:33Z"
  }
 ]
