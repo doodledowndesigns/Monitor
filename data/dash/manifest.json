@@ -1,60 +1,60 @@
 {
- "generated": "2026-11-18",
+ "generated": "2026-11-19",
  "docs": [
   {
    "collection": "meta",
    "doc_id": "trends",
    "file": "data/trends.json",
-   "sha": "31f7d6af0216",
+   "sha": "78624e6baa3b",
    "bytes": 12816
   },
   {
    "collection": "meta",
    "doc_id": "emerging",
    "file": "data/emerging.json",
-   "sha": "bee7b2596e74",
-   "bytes": 18247
+   "sha": "366774a4e6da",
+   "bytes": 18446
   },
   {
    "collection": "meta",
    "doc_id": "calendar",
    "file": "data/dash/calendar.json",
-   "sha": "d607a5a7500d",
+   "sha": "3f018ba7ebc0",
    "bytes": 5764
   },
   {
    "collection": "meta",
    "doc_id": "deadlines",
    "file": "data/dash/deadlines.json",
-   "sha": "d223a5665a28",
-   "bytes": 13164
+   "sha": "5c188ea6d1a5",
+   "bytes": 13248
   },
   {
    "collection": "meta",
    "doc_id": "consultations",
    "file": "data/dash/consultations.json",
-   "sha": "7d855bb2694e",
+   "sha": "0a1ac0d2e49f",
    "bytes": 30943
   },
   {
    "collection": "meta",
    "doc_id": "citations",
    "file": "data/dash/citations.json",
-   "sha": "c451891c1599",
+   "sha": "d17810499fc4",
    "bytes": 74962
   },
   {
    "collection": "meta",
    "doc_id": "parties",
    "file": "data/dash/parties.json",
-   "sha": "08863b8b4db5",
-   "bytes": 1718
+   "sha": "bdcb05058dd6",
+   "bytes": 1708
   },
   {
    "collection": "meta",
    "doc_id": "bills",
    "file": "data/dash/bills.json",
-   "sha": "b2e838a98561",
+   "sha": "7501b529a148",
    "bytes": 13024
   },
   {
@@ -68,22 +68,22 @@
    "collection": "meta",
    "doc_id": "profiles-1",
    "file": "data/dash/profiles-1.json",
-   "sha": "49b5ef52a9fb",
-   "bytes": 180688
+   "sha": "5fe99a126dda",
+   "bytes": 180690
   },
   {
    "collection": "meta",
    "doc_id": "profiles-2",
    "file": "data/dash/profiles-2.json",
-   "sha": "2bde50226bc8",
-   "bytes": 180628
+   "sha": "fa2150cbf6e3",
+   "bytes": 180588
   },
   {
    "collection": "meta",
    "doc_id": "profiles-3",
    "file": "data/dash/profiles-3.json",
-   "sha": "a7682e2e2a53",
-   "bytes": 28557
+   "sha": "8573fbb41f37",
+   "bytes": 28826
   },
   {
    "collection": "bills",

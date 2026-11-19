@@ -9147,7 +9147,7 @@
   "file": "data/debates/2026/2026-11-16-Commons-DA3BFACC-7E2E-49D1-8209-407F46BAF210.json",
   "speakers": 64,
   "contributions": 169,
-  "fetched": "2026-11-18T16:40:07Z"
+  "fetched": "2026-11-19T06:35:04Z"
  },
  {
   "date": "2026-11-17",
@@ -9162,6 +9162,21 @@
   "file": "data/debates/2026/2026-11-17-Commons-10657DF1-E704-4349-8BA1-2902B0880A79.json",
   "speakers": 3,
   "contributions": 4,
-  "fetched": "2026-11-18T16:40:11Z"
+  "fetched": "2026-11-19T06:35:08Z"
+ },
+ {
+  "date": "2026-11-18",
+  "house": "Lords",
+  "section": "Debate",
+  "title": "Prisons: Education and Employment Programmes",
+  "parents": [
+   "Lords Chamber"
+  ],
+  "subtitles": [],
+  "ext_id": "0C649012-FB43-4688-AC42-002F512B1F55",
+  "file": "data/debates/2026/2026-11-18-Lords-0C649012-FB43-4688-AC42-002F512B1F55.json",
+  "speakers": 10,
+  "contributions": 22,
+  "fetched": "2026-11-19T06:35:14Z"
  }
 ]
