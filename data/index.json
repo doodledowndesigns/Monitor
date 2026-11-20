@@ -9124,6 +9124,23 @@
   "date": "2026-11-16",
   "house": "Commons",
   "section": "Debate",
+  "title": "Children's Commissioner for England Report",
+  "parents": [
+   "Commons Chamber",
+   "Oral Answers to Questions",
+   "Education"
+  ],
+  "subtitles": [],
+  "ext_id": "A82EE7FD-6DD7-4E52-AF30-EA9CF8D45A0A",
+  "file": "data/debates/2026/2026-11-16-Commons-A82EE7FD-6DD7-4E52-AF30-EA9CF8D45A0A.json",
+  "speakers": 3,
+  "contributions": 6,
+  "fetched": "2026-11-20T06:36:06Z"
+ },
+ {
+  "date": "2026-11-16",
+  "house": "Commons",
+  "section": "Debate",
   "title": "Education",
   "parents": [
    "Commons Chamber",
@@ -9150,6 +9167,193 @@
   "fetched": "2026-11-19T16:40:19Z"
  },
  {
+  "date": "2026-11-16",
+  "house": "Commons",
+  "section": "Debate",
+  "title": "Mission Coastal Programme",
+  "parents": [
+   "Commons Chamber",
+   "Oral Answers to Questions",
+   "Education"
+  ],
+  "subtitles": [],
+  "ext_id": "D557093A-3A85-4AEF-9D75-C75A8062084F",
+  "file": "data/debates/2026/2026-11-16-Commons-D557093A-3A85-4AEF-9D75-C75A8062084F.json",
+  "speakers": 2,
+  "contributions": 4,
+  "fetched": "2026-11-20T06:36:10Z"
+ },
+ {
+  "date": "2026-11-16",
+  "house": "Commons",
+  "section": "Debate",
+  "title": "Online Safety: Children and Young People",
+  "parents": [
+   "Commons Chamber",
+   "Oral Answers to Questions",
+   "Education"
+  ],
+  "subtitles": [],
+  "ext_id": "57E828B8-0A5F-4F45-AC0B-7D4C4D3806BF",
+  "file": "data/debates/2026/2026-11-16-Commons-57E828B8-0A5F-4F45-AC0B-7D4C4D3806BF.json",
+  "speakers": 5,
+  "contributions": 9,
+  "fetched": "2026-11-20T06:36:11Z"
+ },
+ {
+  "date": "2026-11-16",
+  "house": "Commons",
+  "section": "Debate",
+  "title": "SEND Services: Joint Commissioning Statutory Requirement",
+  "parents": [
+   "Commons Chamber",
+   "Oral Answers to Questions",
+   "Education"
+  ],
+  "subtitles": [],
+  "ext_id": "900B4209-852B-42AE-872C-601651D82DE8",
+  "file": "data/debates/2026/2026-11-16-Commons-900B4209-852B-42AE-872C-601651D82DE8.json",
+  "speakers": 3,
+  "contributions": 6,
+  "fetched": "2026-11-20T06:36:08Z"
+ },
+ {
+  "date": "2026-11-16",
+  "house": "Commons",
+  "section": "Debate",
+  "title": "SEND System: Reform",
+  "parents": [
+   "Commons Chamber",
+   "Oral Answers to Questions",
+   "Education"
+  ],
+  "subtitles": [],
+  "ext_id": "13F7917B-36D3-4198-8908-7185E77DE84A",
+  "file": "data/debates/2026/2026-11-16-Commons-13F7917B-36D3-4198-8908-7185E77DE84A.json",
+  "speakers": 6,
+  "contributions": 11,
+  "fetched": "2026-11-20T06:36:06Z"
+ },
+ {
+  "date": "2026-11-16",
+  "house": "Commons",
+  "section": "Debate",
+  "title": "School Transport: Safety and Accessibility",
+  "parents": [
+   "Commons Chamber",
+   "Oral Answers to Questions",
+   "Education"
+  ],
+  "subtitles": [],
+  "ext_id": "81EE189B-6606-436F-9F5C-58767139B233",
+  "file": "data/debates/2026/2026-11-16-Commons-81EE189B-6606-436F-9F5C-58767139B233.json",
+  "speakers": 3,
+  "contributions": 6,
+  "fetched": "2026-11-20T06:36:09Z"
+ },
+ {
+  "date": "2026-11-16",
+  "house": "Commons",
+  "section": "Debate",
+  "title": "Schools National Funding Formula: Suffolk",
+  "parents": [
+   "Commons Chamber",
+   "Oral Answers to Questions",
+   "Education"
+  ],
+  "subtitles": [],
+  "ext_id": "4FA80ADE-BCF1-4EFE-AD50-6C033FEFB11E",
+  "file": "data/debates/2026/2026-11-16-Commons-4FA80ADE-BCF1-4EFE-AD50-6C033FEFB11E.json",
+  "speakers": 2,
+  "contributions": 4,
+  "fetched": "2026-11-20T06:36:11Z"
+ },
+ {
+  "date": "2026-11-16",
+  "house": "Commons",
+  "section": "Debate",
+  "title": "Special Schools: Funding",
+  "parents": [
+   "Commons Chamber",
+   "Oral Answers to Questions",
+   "Education"
+  ],
+  "subtitles": [],
+  "ext_id": "8854DBE6-0BC3-490B-8760-912726AD8E12",
+  "file": "data/debates/2026/2026-11-16-Commons-8854DBE6-0BC3-490B-8760-912726AD8E12.json",
+  "speakers": 5,
+  "contributions": 9,
+  "fetched": "2026-11-20T06:36:07Z"
+ },
+ {
+  "date": "2026-11-16",
+  "house": "Commons",
+  "section": "Debate",
+  "title": "Technical and Vocational Education Pathways",
+  "parents": [
+   "Commons Chamber",
+   "Oral Answers to Questions",
+   "Education"
+  ],
+  "subtitles": [],
+  "ext_id": "98613592-F423-48FD-B9EB-DC5634565143",
+  "file": "data/debates/2026/2026-11-16-Commons-98613592-F423-48FD-B9EB-DC5634565143.json",
+  "speakers": 12,
+  "contributions": 27,
+  "fetched": "2026-11-20T06:36:03Z"
+ },
+ {
+  "date": "2026-11-16",
+  "house": "Commons",
+  "section": "Debate",
+  "title": "Topical Questions",
+  "parents": [
+   "Commons Chamber",
+   "Oral Answers to Questions",
+   "Education"
+  ],
+  "subtitles": [],
+  "ext_id": "DB9BEED7-5B6C-4371-B333-41CEDAF0EBEA",
+  "file": "data/debates/2026/2026-11-16-Commons-DB9BEED7-5B6C-4371-B333-41CEDAF0EBEA.json",
+  "speakers": 30,
+  "contributions": 57,
+  "fetched": "2026-11-20T06:36:12Z"
+ },
+ {
+  "date": "2026-11-16",
+  "house": "Commons",
+  "section": "Debate",
+  "title": "Ukrainian GCSE",
+  "parents": [
+   "Commons Chamber",
+   "Oral Answers to Questions",
+   "Education"
+  ],
+  "subtitles": [],
+  "ext_id": "F34C3508-374E-4A1D-8CDA-92D032F7B34C",
+  "file": "data/debates/2026/2026-11-16-Commons-F34C3508-374E-4A1D-8CDA-92D032F7B34C.json",
+  "speakers": 5,
+  "contributions": 11,
+  "fetched": "2026-11-20T06:36:05Z"
+ },
+ {
+  "date": "2026-11-16",
+  "house": "Commons",
+  "section": "Debate",
+  "title": "Young People not in Employment, Education or Training",
+  "parents": [
+   "Commons Chamber",
+   "Oral Answers to Questions",
+   "Education"
+  ],
+  "subtitles": [],
+  "ext_id": "3E24DA9F-C333-4657-90E1-FE2AD6FBD1CD",
+  "file": "data/debates/2026/2026-11-16-Commons-3E24DA9F-C333-4657-90E1-FE2AD6FBD1CD.json",
+  "speakers": 9,
+  "contributions": 19,
+  "fetched": "2026-11-20T06:36:09Z"
+ },
+ {
   "date": "2026-11-17",
   "house": "Commons",
   "section": "Debate",
@@ -9162,7 +9366,7 @@
   "file": "data/debates/2026/2026-11-17-Commons-10657DF1-E704-4349-8BA1-2902B0880A79.json",
   "speakers": 3,
   "contributions": 4,
-  "fetched": "2026-11-19T16:40:23Z"
+  "fetched": "2026-11-20T06:36:18Z"
  },
  {
   "date": "2026-11-18",
@@ -9177,7 +9381,24 @@
   "file": "data/debates/2026/2026-11-18-Lords-0C649012-FB43-4688-AC42-002F512B1F55.json",
   "speakers": 10,
   "contributions": 22,
-  "fetched": "2026-11-19T16:40:30Z"
+  "fetched": "2026-11-20T06:36:30Z"
+ },
+ {
+  "date": "2026-11-19",
+  "house": "Commons",
+  "section": "WMS",
+  "title": "Education",
+  "parents": [
+   "Written Statements"
+  ],
+  "subtitles": [
+   "Schools Funding 2027-28"
+  ],
+  "ext_id": "318FC178-1100-4E7D-B1B6-4118DE574F26",
+  "file": "data/debates/2026/2026-11-19-Commons-318FC178-1100-4E7D-B1B6-4118DE574F26.json",
+  "speakers": 1,
+  "contributions": 1,
+  "fetched": "2026-11-20T06:36:40Z"
  },
  {
   "date": "2026-11-19",
@@ -9190,8 +9411,23 @@
   "subtitles": [],
   "ext_id": "3CEC893E-1194-4CA9-BD67-D20D6A7E960E",
   "file": "data/debates/2026/2026-11-19-Lords-3CEC893E-1194-4CA9-BD67-D20D6A7E960E.json",
-  "speakers": 1,
-  "contributions": 2,
-  "fetched": "2026-11-19T16:40:33Z"
+  "speakers": 6,
+  "contributions": 9,
+  "fetched": "2026-11-20T06:36:50Z"
+ },
+ {
+  "date": "2026-11-19",
+  "house": "Lords",
+  "section": "GrandCommittee",
+  "title": "State Schools: GCSE and A-level Arts Subjects",
+  "parents": [
+   "Grand Committee"
+  ],
+  "subtitles": [],
+  "ext_id": "37408E4D-0166-4D90-B72C-CC6481E6E8E4",
+  "file": "data/debates/2026/2026-11-19-Lords-37408E4D-0166-4D90-B72C-CC6481E6E8E4.json",
+  "speakers": 16,
+  "contributions": 17,
+  "fetched": "2026-11-20T06:36:53Z"
  }
 ]

@@ -15,6 +15,32 @@
    "name": "Baroness Bennett of Manor Castle",
    "party": "GP",
    "member_id": 4719
+  },
+  {
+   "name": "Lord Fuller",
+   "party": "Con",
+   "member_id": 5017
+  },
+  {
+   "name": "Lord Bilimoria",
+   "party": "CB",
+   "member_id": 3809
+  },
+  {
+   "name": "Lord Mohammed of Tinsley",
+   "party": "LD",
+   "member_id": 5401
+  },
+  {
+   "name": "Lord Evans of Rainow",
+   "party": "Con",
+   "member_id": 4081
+  },
+  {
+   "name": "Baroness Ramsey of Wall Heath",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip",
+   "member_id": 5022
   }
  ],
  "contributions": [
@@ -33,7 +59,65 @@
    "text": "My Lords, I begin with thanks to the British Society of Soil Science, the National Trust and the charity Buglife for their assistance in preparation for this debate. I also thank the noble Baroness, Lady Smith of Malvern, who gave me one starting point: her response yesterday to my Written Question about the current number of postgraduate soil science students. The Answer was that, in total, at UK HE providers, there are 45, of whom only 15 are on research courses—fifteen people. Two separate searches of UK job sites this year found more than 100 vacancies for soil scientists each time. The other starting point was an event held last month by the British Society of Soil Science, an attempt to kick-start discussion about what can only be described as the collapse of soil science education and research in the UK. It was under Chatham House rules, so I cannot attribute this, but a sentence that stuck with me was, “We employed the last soil science PhD”. It is worth saying that many people’s work is focused on soils—I note particularly the work of academic geographers, anthropologists and regenerative farmers—but soil science brings particular understandings and approaches essential to",
    "name": "Baroness Bennett of Manor Castle",
    "party": "GP"
+  },
+  {
+   "who": "Lord Fuller (Con)",
+   "member_id": 5017,
+   "type": "Contribution",
+   "text": "My Lords, I do not suppose there are many Members of your Lordships’ House who studied soil science at Reading University, but I did, as part of a BSc in agriculture back in the late 1980s. I am delighted that the Soil Research Centre at my alma mater is still going. My course notes are long gone, but you never quite forget the distinction between a sandy loam and a loamy sand, which stains the fingers when rubbed together in a way that a sand does not. I have spent my career in the fertiliser industry, which fortifies those soil substrates that underpin our crop and animal production systems and our nation’s food security. To those involved in farming in the countryside, it is no surprise that we have some of the world’s most productive agriculture. We have the basic knowledge not just of the soils themselves, those gritty particles—except of course in the case of a silt, which is not gritty at all—but of the soil chemistry. It is the interaction between soils and their chemistry that is so important, and you do not need to be a chemist to see the results. The acidic soils of the West Country and Wales support the grassland production landscapes, whereas the alkali soils in the ea",
+   "name": "Lord Fuller",
+   "party": "Con"
+  },
+  {
+   "who": "Lord Bilimoria (CB)",
+   "member_id": 3809,
+   "type": "Contribution",
+   "text": "My Lords, Sir Partha Dasgupta of the University of Cambridge wrote a fantastic, superb report, The Economics of Biodiversity , in which he said that nature is our “most precious asset”. The British Society of Soil Science said that, by one estimate, degradation of soil costs England and Wales £1.2 billion annually. Globally, restoring land could generate $1.8 trillion in annual benefits, with every dollar invested estimated to return between $7 and $30. COP 26 was from 31 October to 13 November 2021. I took part actively as president of the Confederation of British Industry—the CBI—and spoke 40 times over those two weeks. Not once was soil brought up in that conference. The following year, in March 2022, when I was chancellor of the University of Birmingham, I was asked to host one of India’s most famous spiritual leaders, Sadhguru, in Birmingham. I hosted two big events with hundreds of people, if not thousands. To put it in context, Sadhguru’s social media following alone is over 25 million people. He was about to set off on a journey. He went to the ExCeL centre in London, where I spoke, with thousands of people there. Then, on 21 March, my Zoroastrian Parsi new year, fellow par",
+   "name": "Lord Bilimoria",
+   "party": "CB"
+  },
+  {
+   "who": "Lord Mohammed of Tinsley (LD)",
+   "member_id": 5401,
+   "type": "Contribution",
+   "text": "I am grateful to the noble Baroness, Lady Bennett, for securing this important debate. I begin with a personal reflection. My family originates from the Kashmir region of Pakistan, where generations of our family are firmly rooted in farming. My ancestors understood the importance of land, the seasons and, above all, the quality of the soil. Of course, life took a rather different turn for us, and we ended up in Tinsley in Sheffield, at the heart of the steel industry, where generations of our family worked in the steel industry rather than in the fields. One might say that we swapped the ploughshares for the steelworks, but those farming roots have never left us, and we have never forgotten them. Perhaps that gives me a particular appreciation of why the health of our soil matters. Soil is one of the most overlooked natural resources in our country, if not the world, yet it is a fundamental part of our food security, biodiversity, climate resilience and long-term health for our environment. It is estimated that around 95% of global food production depends on our soil. Soil also acts as a major carbon store, supports biodiversity, filters water and helps reduce flooding. Yet decade",
+   "name": "Lord Mohammed of Tinsley",
+   "party": "LD"
+  },
+  {
+   "who": "Lord Evans of Rainow (Con)",
+   "member_id": 4081,
+   "type": "Contribution",
+   "text": "My Lords, it is a pleasure to take part in this debate. There have been some excellent speeches. The noble Lord, Lord Bilimoria, quoted Franklin D Roosevelt referring, I believe, to the dust bowl disaster in the 1920s and 1930s, when intensive crop growing led to a catastrophic disaster in food growing. I pay tribute to my noble friend Lord Fuller’s expertise in his study of soil. However, some of us who went to bog-standard comprehensive schools might also remember our environmental science lessons. On the first day of the academic year, we put soil into three glass bowls and then put an apple core in one, a sweet—I think it was a Mars bar—in another and a crisp packet in the third. We were told to look at what had happened every time we went to the lesson: 10 months later, the apple core had disappeared; funnily enough, the Mars bar had just about disappeared; but the crisp packet was still there staring at us. I have to say, the 1970s have a lot to answer for. I thank the noble Baroness, Lady Bennett of Manor Castle, for securing this debate and giving the Committee the chance to dig into a subject that is not well-trodden ground. Let me start with some common ground. Soil is th",
+   "name": "Lord Evans of Rainow",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness in Waiting/Government Whip (Baroness Ramsey of Wall Heath) (Lab)",
+   "member_id": 5022,
+   "type": "Contribution",
+   "text": "My Lords, I thank the noble Baroness, Lady Bennett of Manor Castle, for securing this debate, and all noble Lords who have taken part. The noble Baroness has been a determined champion of soil health in this House for many years. I looked at a paragraph or two in her maiden speech, where she said that “I continue to be fascinated by the amazing and still barely understood ecology of the soil on which all our lives depend ”.—[ Official Report , 17/10/19; col. 218.] So I certainly knew that I was facing at least one expert, but of course there are other noble Lords who are expert in their differing ways—before I even get on to the noble Lord, Lord Fuller, and fertiliser. I understand that the noble Baroness’s Question today is a natural extension of her work. Healthy soils underpin our food security, our resilience to flooding and drought, and the recovery of nature. That is why the Government’s environmental improvement plan commits to bringing at least 40% of England’s agricultural soil into sustainable management by 2028, rising to 60% by 2030. Meeting that ambition depends on people: farmers, land managers, perhaps also providers and producers of fertiliser—who understand their s",
+   "name": "Baroness Ramsey of Wall Heath",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip"
+  },
+  {
+   "who": "Baroness Bennett of Manor Castle (GP)",
+   "member_id": 4719,
+   "type": "Contribution",
+   "text": "We have a neoliberal marketised university system, so each is trying to survive. Do the Government really think that this is going to provide the skills, in this area and many others, that the country needs?",
+   "name": "Baroness Bennett of Manor Castle",
+   "party": "GP"
+  },
+  {
+   "who": "Baroness Ramsey of Wall Heath (Lab)",
+   "member_id": 5022,
+   "type": "Contribution",
+   "text": "I will come on to answer that question. On the level of research funding, I remind noble Lords that funding decisions are made independently of the Government, as per the Haldane principle. This states that decisions about which research projects to fund should be made through independent evaluation by experts based on the quality and likely impact of that research. A recent independent review by the UK Centre for Ecology & Hydrology’s long-term observation portfolio concluded that soils remain a priority area for future development, particularly agricultural soils. The Natural Environment Research Council also sustains the long-term natural soil monitoring datasets and archives used by universities and PhD students, which provide the evidence and opportunity to train future generations of scientists. On the point made by the noble Lord, Lord Bilimoria, soil health has indeed become a growing focus of environmental farming policy. Defra’s Environmental Improvement Plan sets targets for bringing more of England’s agricultural soil into sustainable management by 2030. Defra is also developing better ways to measure soil health. I am conscious of time, but I will also say on research ",
+   "name": "Baroness Ramsey of Wall Heath",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip"
   }
  ],
- "fetched": "2026-11-19T16:40:33Z"
+ "fetched": "2026-11-20T06:36:50Z"
 }

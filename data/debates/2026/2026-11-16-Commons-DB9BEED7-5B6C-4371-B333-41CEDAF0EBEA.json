@@ -1,0 +1,678 @@
+{
+ "ext_id": "DB9BEED7-5B6C-4371-B333-41CEDAF0EBEA",
+ "date": "2026-11-16",
+ "house": "Commons",
+ "section": "Debate",
+ "title": "Topical Questions",
+ "parents": [
+  "Commons Chamber",
+  "Oral Answers to Questions",
+  "Education"
+ ],
+ "location": "Commons Chamber",
+ "url": "https://hansard.parliament.uk/Commons/2026-11-16/debates/DB9BEED7-5B6C-4371-B333-41CEDAF0EBEA/TopicalQuestions",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Mr Will Forster",
+   "party": "LD",
+   "seat": "Woking",
+   "member_id": 5322
+  },
+  {
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education",
+   "member_id": 4263
+  },
+  {
+   "name": "Chris Hinchliff",
+   "party": "Lab",
+   "seat": "North East Hertfordshire",
+   "member_id": 5244
+  },
+  {
+   "name": "Chair",
+   "role": "Chair",
+   "member_id": 467
+  },
+  {
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks",
+   "member_id": 4780
+  },
+  {
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire",
+   "member_id": 5195
+  },
+  {
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards",
+   "member_id": 5305
+  },
+  {
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham",
+   "member_id": 4776
+  },
+  {
+   "name": "Josh Fenton-Glynn",
+   "party": "Lab",
+   "seat": "Calder Valley",
+   "member_id": 5295
+  },
+  {
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education",
+   "member_id": 5033
+  },
+  {
+   "name": "Sir Gavin Williamson",
+   "party": "Con",
+   "seat": "Stone, Great Wyrley and Penkridge",
+   "member_id": 4108
+  },
+  {
+   "name": "Ruth Cadbury",
+   "party": "Lab",
+   "seat": "Brentford and Isleworth",
+   "member_id": 4389
+  },
+  {
+   "name": "Sir Julian Smith",
+   "party": "Con",
+   "seat": "Skipton and Ripon",
+   "member_id": 4118
+  },
+  {
+   "name": "Nadia Whittome",
+   "party": "Lab",
+   "seat": "Nottingham East",
+   "member_id": 4869
+  },
+  {
+   "name": "Sir Edward Leigh",
+   "party": "Con",
+   "seat": "Gainsborough",
+   "member_id": 345
+  },
+  {
+   "name": "Pam Cox",
+   "party": "Lab",
+   "seat": "Colchester",
+   "member_id": 5042
+  },
+  {
+   "name": "Suella Braverman",
+   "party": "Reform",
+   "seat": "Fareham and Waterlooville",
+   "member_id": 4475
+  },
+  {
+   "name": "John Whitby",
+   "party": "Lab",
+   "seat": "Derbyshire Dales",
+   "member_id": 5342
+  },
+  {
+   "name": "James MacCleary",
+   "party": "LD",
+   "seat": "Lewes",
+   "member_id": 5265
+  },
+  {
+   "name": "Mrs Sharon Hodgson",
+   "party": "Lab",
+   "seat": "Washington and Gateshead South",
+   "member_id": 1521
+  },
+  {
+   "name": "Paul Waugh",
+   "role": "The Parliamentary Under-Secretary of State for Education",
+   "member_id": 5071
+  },
+  {
+   "name": "Alison Griffiths",
+   "party": "Con",
+   "seat": "Bognor Regis and Littlehampton",
+   "member_id": 5203
+  },
+  {
+   "name": "James Naish",
+   "party": "Lab",
+   "seat": "Rushcliffe",
+   "member_id": 5047
+  },
+  {
+   "name": "Dr Kieran Mullan",
+   "party": "Con",
+   "seat": "Bexhill and Battle",
+   "member_id": 4860
+  },
+  {
+   "name": "Matt Bishop",
+   "party": "Lab",
+   "seat": "Forest of Dean",
+   "member_id": 5323
+  },
+  {
+   "name": "Tom Gordon",
+   "party": "LD",
+   "seat": "Harrogate and Knaresborough",
+   "member_id": 5032
+  },
+  {
+   "name": "Mr Toby Perkins",
+   "party": "Lab",
+   "seat": "Chesterfield",
+   "member_id": 3952
+  },
+  {
+   "name": "Rachael Maskell",
+   "party": "Lab/Co-op",
+   "seat": "York Central",
+   "member_id": 4471
+  },
+  {
+   "name": "Sonia Kumar",
+   "party": "Lab",
+   "seat": "Dudley",
+   "member_id": 5274
+  },
+  {
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow",
+   "member_id": 5237
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Mr Will Forster (Woking) (LD)",
+   "member_id": 5322,
+   "type": "Contribution",
+   "text": "T1. If she will make a statement on her departmental responsibilities.",
+   "name": "Mr Will Forster",
+   "party": "LD",
+   "seat": "Woking"
+  },
+  {
+   "who": "The Secretary of State for Education (Lucy Powell)",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "Alan Milburn’s final report on youth opportunities is soon to be published, and the issues that he has already identified are hugely impactful. As the Prime Minister says, this is a watershed moment. We are embarking on wide education reforms to ensure that no child is left behind, and that we truly offer education for all.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Forster",
+   "member_id": 5322,
+   "type": "Contribution",
+   "text": "Surrey county council’s special educational needs and disabilities reform plan includes funding for only 12,000 out of 20,000 children with education, health and care plans. Will the Secretary of State explain how West Surrey council, which will serve my constituency from next year, is expected to meet its legal duties to children and families without the funding to do so?",
+   "name": "Mr Will Forster",
+   "party": "LD",
+   "seat": "Woking"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "Following the approval of Surrey’s local SEND reform plan, we have confirmed that the local authority will receive a grant allocation of more than £205 million, to be paid on 30 November. The hon. Gentleman highlights why we need to embark on generational reforms to special educational needs: so that we can help local authorities to support their local children.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Chris Hinchliff (North East Hertfordshire) (Lab)",
+   "member_id": 5244,
+   "type": "Contribution",
+   "text": "T2. Every week, I hear more stories of children with special educational needs being failed by Lib Dem-run Hertfordshire county council. My constituents are tired of hearing excuses from HCC, so will the Secretary of State provide an update on the investment from the Labour Government to help us to tackle the SEND crisis?",
+   "name": "Chris Hinchliff",
+   "party": "Lab",
+   "seat": "North East Hertfordshire"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "My hon. Friend might be aware that this Labour Government are allocating Hertfordshire county council more than £221 million for special educational needs through the high-needs funding block.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the shadow Secretary of State.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Laura Trott (Sevenoaks) (Con)",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "In June, in response to data from Safe Screens, which found that almost 1 million children are spending most lessons learning from a screen, a Department for Education spokesperson said: “Personal and educational screen time are not the same thing—what matters is what children are using their screens for.” Does that remain the Department’s position?",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "These issues are important, and we should be debating and discussing them, but I find it a bit irresponsible of the Conservatives to use baseless claims for party political point scoring. The evidence actually shows the opposite; some 95% of teachers in primary schools say that less than an hour a day is spent on screens in schools. However, more needs to be done, and that is why we have taken steps, in relation to statutory guidance on phones in schools. We are bringing in ed tech guidance, so that safety comes first. We have a social media ban for under-16s, and there is more to come.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Laura Trott",
+   "member_id": 4780,
+   "type": "Contribution",
+   "text": "I am absolutely astonished by that response. Either more needs to be done, or I am scaremongering—the Secretary of State needs to make up her mind. The point is that looking at a screen for hours a day is harmful to children, regardless of the content on it. I have little hope of this now, but will she back the guidance from Health Professionals for Safer Screens—from doctors—that was published today? It would limit screen time to two hours a day at secondary school, and would ensure minimal screen time at primary schools.",
+   "name": "Laura Trott",
+   "party": "Con",
+   "seat": "Sevenoaks"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "The shadow Secretary of State said over the weekend that no action had been taken on this issue over the past 10 years. I wonder who was in government over those 10 years. The Conservatives were responsible for the Online Safety Act 2023, which they watered down at the last minute. How much screen time guidance did they introduce when they were in government? None at all. Were they the Government who used artificial intelligence to give children their GCSE and A-level results during covid? Yes, I think they were. Labour will take action to keep children safe, put child development first and make sure that no child is left behind.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Andrew Cooper (Mid Cheshire) (Lab)",
+   "member_id": 5195,
+   "type": "Contribution",
+   "text": "T3. I am pleased that my right hon. Friend the Secretary of State is acting on the recommendation of the curriculum and assessment review, and is considering introducing a national curriculum for religious education, having commissioned a task-and-finish group to produce a draft. I gather that that draft will be fully inclusive of humanism, which I strongly welcome. Can she say when the consultation on that draft will be published?",
+   "name": "Andrew Cooper",
+   "party": "Lab",
+   "seat": "Mid Cheshire"
+  },
+  {
+   "who": "The Minister for School Standards (Georgia Gould)",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "We are grateful to all those who have been involved in developing the RE curriculum. This historic consensus will help every child to receive a great RE education. We will consult on the draft RE curriculum later this year, as part of our consultation on curriculum and assessment reform.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "I call the Liberal Democrat spokesperson.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Munira Wilson (Twickenham) (LD)",
+   "member_id": 4776,
+   "type": "Contribution",
+   "text": "The Office for Budget Responsibility estimates that spending on schools will fall by 2% between 2028 and 2032 as pupil numbers decline. Many schools already struggle to afford basic classroom supplies and are cutting back on teaching assistants, so will the Education Secretary promise to go in to bat against the Treasury, to make sure that every penny saved from falling pupil numbers is reinvested in our schools and colleges?",
+   "name": "Munira Wilson",
+   "party": "LD",
+   "seat": "Twickenham"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "As the hon. Lady knows, school funding is a protected area. She is right to point out that where pupil rolls are falling, that will have an impact on school budgets, but she can be assured that this Government are committed to supporting our schools. We are also reforming special educational needs funding, to make sure that we get teachers doing what they do best: being in the classroom, improving outcomes for all our children.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Josh Fenton-Glynn (Calder Valley) (Lab)",
+   "member_id": 5295,
+   "type": "Contribution",
+   "text": "T4. Last week, Calderdale’s Reform-led council announced a consultation on the closure of Colden junior and infant school. It compounded the distress by throwing parents out of the cabinet meeting at which that decision was made. Does my hon. Friend agree that parents’ voices and opinions must be central when it comes to the future of their children’s education?",
+   "name": "Josh Fenton-Glynn",
+   "party": "Lab",
+   "seat": "Calder Valley"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Josh MacAlister)",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "I do agree with my hon. Friend, who I know is a champion of schools in his community. When a local authority proposes the closure of a maintained school, it must follow the relevant statutory process, which includes careful consultation before any final decisions are made.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Sir Gavin Williamson (Stone, Great Wyrley and Penkridge) (Con)",
+   "member_id": 4108,
+   "type": "Contribution",
+   "text": "T7. The Secretary of State has rightly set out the importance of using evidence to determine policy about schools and the national curriculum. Could she set out the evidence that has been used to give oracy equivalence with writing and reading in the curriculum?",
+   "name": "Sir Gavin Williamson",
+   "party": "Con",
+   "seat": "Stone, Great Wyrley and Penkridge"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "The right hon. Gentleman is absolutely right—our new national curriculum is led by experts, by the evidence, and by our desire to ensure great outcomes for all our children, and that no child is left behind. He will be aware that there is a huge amount of evidence regarding oracy, and there is a lot of support for our policy in this area. He will also be well aware that oracy is hugely valued, particularly by private schools; young people leave those schools as confident speakers who can advocate for themselves. I want every child to have those skills, no matter what school they go to.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Ruth Cadbury (Brentford and Isleworth) (Lab)",
+   "member_id": 4389,
+   "type": "Contribution",
+   "text": "T5. The Government inherited a broken student loan system that was introduced by the Conservative-Lib Dem coalition. Too many young people—especially from low-income families like those in my constituency—feel that going to university is beyond their means and those of their family. What are the Government doing to address the barriers to going to university?",
+   "name": "Ruth Cadbury",
+   "party": "Lab",
+   "seat": "Brentford and Isleworth"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "Going to university provides a really good opportunity for many young people, and I encourage young people in my hon. Friend’s constituency and elsewhere to think about going to university. She is right that we inherited the plan 2 student loan system, which is putting some strain on graduates, but going to university does improve young people’s outcomes.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sir Julian Smith (Skipton and Ripon) (Con)",
+   "member_id": 4118,
+   "type": "Contribution",
+   "text": "On Friday, I met with parents who had lost their children to suicide. They are worried that with the demise of Papyrus and its hotline, there is a real gap in suicide intervention. It is a Department of Health and Social Care area, but I urge the Secretary of State to work with that Department on the provision being put in place for schools and for young children with regard to suicide.",
+   "name": "Sir Julian Smith",
+   "party": "Con",
+   "seat": "Skipton and Ripon"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "I was not aware of Papyrus discontinuing its phone line. I know from many parents what a valuable service it has provided over many years in the terrible circumstance where a young person takes their own life. I will definitely take that issue up with the Department of Health and Social Care.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Nadia Whittome (Nottingham East) (Lab)",
+   "member_id": 4869,
+   "type": "Contribution",
+   "text": "T6. The failure of tuition fees to cover increasing costs and an over-reliance on international students to plug the gap, coupled with weak governance and poor financial decisions by some universities, have led to a spiralling funding crisis. The current model is broken. What action are the Government taking to deliver sustainable public funding to our universities?",
+   "name": "Nadia Whittome",
+   "party": "Lab",
+   "seat": "Nottingham East"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "I know that this is a particular issue for my hon. Friend in Nottingham at the moment. Universities are autonomous, but we want to ensure that they have sustainable funding, are well led and make good decisions. We are supporting our universities in a number of ways to attract more students and to make sure that they are healthy and sustainable.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Sir Edward Leigh (Gainsborough) (Con)",
+   "member_id": 345,
+   "type": "Contribution",
+   "text": "Will the Secretary of State launch an inquiry into the sudden closure of Leweston school, an independent Roman Catholic faith school in Dorset? It is becoming a scandal. It was done suddenly with no warning, and various excuses were given about the school not being viable, although it has 600 pupils. It was closed by Concept Education, which took on the school recently. There is a belief that either there was financial mismanagement by Concept Education or, worse, that this was asset-stripping of a valuable site with a large acreage. This is an important school for the Catholic community. Will she launch an inquiry?",
+   "name": "Sir Edward Leigh",
+   "party": "Con",
+   "seat": "Gainsborough"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "I am sorry to hear of that case in the right hon. Gentleman’s constituency. I am happy to arrange a meeting for him with a Minister to discuss it. It sounds like there are more questions to be answered about that particular case.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Pam Cox (Colchester) (Lab)",
+   "member_id": 5042,
+   "type": "Contribution",
+   "text": "T8. Our universities have long welcomed international students, but a recent survey shows that this autumn, enrolment at postgrad level has fallen by one fifth. Will the Minister engage with universities and their representatives to address this costly and concerning decline?",
+   "name": "Pam Cox",
+   "party": "Lab",
+   "seat": "Colchester"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "We engage regularly with universities. My noble Friend the Minister for Skills regularly engages with universities on exactly these topics. As a Government, we have taken steps to strengthen university finance. Our international education strategy confirms that international students are an important part of the future of universities, but we need to make sure that there is balance in our immigration system.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Suella Braverman (Fareham and Waterlooville) (Reform)",
+   "member_id": 4475,
+   "type": "Contribution",
+   "text": "Teachers, education unions, parents and governors have all voiced serious alarm about the Government’s draft conversion therapy ban, because it clearly exposes teachers, staff and pupils to the risk of prosecution and prison time of up to five years, simply for questioning a child’s desire to change gender or preventing them from using the toilets meant for a member of the opposite sex. The ban is riddled with unintended consequences and itself poses a child safety risk. Will the Secretary of State listen to these important voices, put biological sex as upheld in the Supreme Court first, and scrap the draft Conversion Practices Bill?",
+   "name": "Suella Braverman",
+   "party": "Reform",
+   "seat": "Fareham and Waterlooville"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "As the right hon. and learned Lady knows, that is a draft Bill that is going through intensive pre-legislative scrutiny. I am sure that the issues she raises can be looked at, but they are not in any way the intention of the Bill. Members from all parts of the House have been calling for such a Bill for a very long time.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "John Whitby (Derbyshire Dales) (Lab)",
+   "member_id": 5342,
+   "type": "Contribution",
+   "text": "T9. Freezing the plan 2 student loan repayment threshold from April 2027 means that my constituent George Alliott and millions more like him will lose more of their earnings at a time when many are already struggling with the cost of living, but to change the terms promised to borrowers also feels somewhat unfair. Will the Secretary of State look again at this decision?",
+   "name": "John Whitby",
+   "party": "Lab",
+   "seat": "Derbyshire Dales"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "My hon. Friend is right to raise this matter. The threshold was frozen a considerable number of times by the Conservatives, and they introduced the plan 2 loan, which has high interest rates associated with it. We took immediate steps to cap the interest rates, and we have introduced new maintenance loans and other measures. However, as my hon. Friend says, we need to keep these issues under constant review, and when it is affordable we will look at them again.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "James MacCleary (Lewes) (LD)",
+   "member_id": 5265,
+   "type": "Contribution",
+   "text": "Breakwater academy in Newhaven has been forced to relocate its pupils because its ageing buildings are considered dangerous. Families face considerable disruption, and there is uncertainty about whether their children can return to the school that they love. Will the Minister meet me to discuss the situation, and will he fund the new buildings that those pupils need so that they can return to their school?",
+   "name": "James MacCleary",
+   "party": "LD",
+   "seat": "Lewes"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "I will gladly meet the hon. Member. This case underlines the importance of the estates renewal that we have under way, with record investment.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Mrs Sharon Hodgson (Washington and Gateshead South) (Lab)",
+   "member_id": 1521,
+   "type": "Contribution",
+   "text": "I warmly welcome the Government’s roll-out of free school meals expansion, but entitlement on paper is not a meal on a plate, and eligibility is now more complicated. Gateshead council has nearly doubled take-up by automatically enrolling families that it already knew about. The Minister’s colleagues in the Department for Work and Pensions already know which families are receiving universal credit; will the Minister use that data so that no child misses out on a meal because a parent has not filled in a form?",
+   "name": "Mrs Sharon Hodgson",
+   "party": "Lab",
+   "seat": "Washington and Gateshead South"
+  },
+  {
+   "who": "The Parliamentary Under-Secretary of State for Education (Paul Waugh)",
+   "member_id": 5071,
+   "type": "Contribution",
+   "text": "I thank my hon. Friend for the campaigning work that she has done to bring about the historic expansion of free school meals to children whose families are receiving universal credit. Like me, she was on free school meals herself, and we both have personal knowledge of the impact that that can have on a family’s finances. She can be reassured that, along with the DWP, we are looking closely at the whole idea of auto-enrolment. Some councils, including Gateshead, have made it work, but there is much more to be discussed with the DWP.",
+   "name": "Paul Waugh",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Alison Griffiths (Bognor Regis and Littlehampton) (Con)",
+   "member_id": 5203,
+   "type": "Contribution",
+   "text": "In West Sussex, nearly one in 10 young people are either not in education, employment or training or have an unknown destination. Meanwhile, our local university, the University of Chichester, and local employers are telling me how difficult it is to employ young people. When will the Secretary of State accept that this Government have simply got it wrong?",
+   "name": "Alison Griffiths",
+   "party": "Con",
+   "seat": "Bognor Regis and Littlehampton"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "Oh dear. It is this Government who are taking action to ensure that all young people have a pathway to success, that no child is left behind, and that children are at school and are not excluded from schools and left home-schooled or off-rolled and elsewhere, as was the case under the Conservatives. They cancelled the covid catch-up plan, they scrapped Sure Start, they got rid of all the youth services that support people, and they embarked on a narrower and narrower education system that left far too many behind.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "James Naish (Rushcliffe) (Lab)",
+   "member_id": 5047,
+   "type": "Contribution",
+   "text": "Last week I was contacted by the head of East Leake academy in my constituency, who told me that owing to delays over the new progress 8 and attainment 8 measures, schools are having to advise pupils about GCSE options without knowing the full rules. When will the Department publish the response, and will the Secretary of State confirm that the final model will not narrow pupils’ options?",
+   "name": "James Naish",
+   "party": "Lab",
+   "seat": "Rushcliffe"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "It will be out very soon, and I can assure my hon. Friend that it will be not narrowing but broadening.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Dr Kieran Mullan (Bexhill and Battle) (Con)",
+   "member_id": 4860,
+   "type": "Contribution",
+   "text": "Teachers at Beckley Church of England primary school in my constituency, as well as parents of pupils, have contacted me to talk about the severe impact of the Government’s reforms of the way in which physical education is funded in schools on the school’s provision, in which there has been a massive drop. I am sure that that is not the intention of the reforms, but will the Minister agree to meet me to discuss what is happening in Beckley and at other schools?",
+   "name": "Dr Kieran Mullan",
+   "party": "Con",
+   "seat": "Bexhill and Battle"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "I should be delighted to meet the hon. Gentleman. We are investing £1 billion in the new PE partnerships. We are procuring a partner, and we want to bring together all the expertise from the governing bodies and elsewhere to link with local sports organisations and schools to improve matters for children.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Matt Bishop (Forest of Dean) (Lab)",
+   "member_id": 5323,
+   "type": "Contribution",
+   "text": "As the Secretary of State will know, I have repeatedly raised the appalling condition of Forest high school in my constituency, where surveys have identified significant safety risks. I welcome the Government’s commitment to rebuilding schools through the school rebuilding programme, but time is of the essence for Forest high school, especially because concerns about the condition of the site extend beyond the school itself to the leisure facilities used by the wider public. Will the Secretary of State commit herself to visiting the school with me to see the condition of the buildings at first hand and to discuss how we can secure, as a matter of urgency, the rebuilding that pupils, staff and the wider community so desperately need?",
+   "name": "Matt Bishop",
+   "party": "Lab",
+   "seat": "Forest of Dean"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "My hon. Friend has done much to drawn attention to the issues at Forest high school, and I can assure him that the nomination is in for that secondary school. The process of selecting the next schools to be covered by the school rebuilding programme is under way. We are obviously looking at the condition need throughout the estate, and we will make that decision as soon as possible.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Tom Gordon (Harrogate and Knaresborough) (LD)",
+   "member_id": 5032,
+   "type": "Contribution",
+   "text": "I should declare an interest as a plan 2 and postgrad student loan holder. We know that there is a really tough jobs market out there for graduates, and we now see many postgraduates having to take up minimum-wage jobs. The terms and conditions of their repayments mean that they pay back 6% on any earnings over £21,000. That effectively means that postgraduates on the minimum wage are taking home less than the minimum wage. Will the Secretary of State agree to meet me and look at how we can rectify the situation as a matter of urgency?",
+   "name": "Tom Gordon",
+   "party": "LD",
+   "seat": "Harrogate and Knaresborough"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "I am aware that the situation is particularly difficult for postgraduates, and I am happy to have a conversation with the hon. Gentleman about that. We are trying to make sure that there are job opportunities for more of our young people, including graduates and postgraduates. We are supporting them in the housing market, and with childcare and other things, so that they can go on and lead a successful life.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Toby Perkins (Chesterfield) (Lab)",
+   "member_id": 3952,
+   "type": "Contribution",
+   "text": "Given that only 5% of children on EHCPs end up in the world of work, it is clear that our education system is failing far too many young people. Does the Minister agree that we need to open the doors to employers, get them into our schools, and give more children the opportunity to learn about the work of work and the opportunities that it creates? What else will we do to improve work experience and get more children on EHCPs into the world of work afterwards?",
+   "name": "Mr Toby Perkins",
+   "party": "Lab",
+   "seat": "Chesterfield"
+  },
+  {
+   "who": "Josh MacAlister",
+   "member_id": 5033,
+   "type": "Contribution",
+   "text": "I wholly agree with my hon. Friend, and he is absolutely right to raise this issue, especially on the day before we are due to have the full publication of the Milburn review. Sixteen areas are currently being supported by the Department for Education in providing supported internships. They have huge potential for the future, and we will look at what more we can do to support those programmes.",
+   "name": "Josh MacAlister",
+   "role": "The Parliamentary Under-Secretary of State for Education"
+  },
+  {
+   "who": "Rachael Maskell (York Central) (Lab/Co-op)",
+   "member_id": 4471,
+   "type": "Contribution",
+   "text": "A particular concern in York is the number of children with SEND who are not in school. We have seen a sharp rise in the use of section 19 of the Education Act 1996, and we also see many children who are not able to access their education. When the Secretary of State publishes the SEND review, will she ensure that there is a section on EOTIS—education otherwise than in school—children?",
+   "name": "Rachael Maskell",
+   "party": "Lab/Co-op",
+   "seat": "York Central"
+  },
+  {
+   "who": "Georgia Gould",
+   "member_id": 5305,
+   "type": "Contribution",
+   "text": "I recently visited York and saw some of the brilliant work being done there. We had a separate consultation on EOTIS, because we heard parents’ huge concern about this issue. It is something that we are looking at carefully, and we will respond as we bring out the reform plans.",
+   "name": "Georgia Gould",
+   "role": "The Minister for School Standards"
+  },
+  {
+   "who": "Sonia Kumar (Dudley) (Lab)",
+   "member_id": 5274,
+   "type": "Contribution",
+   "text": "In Dudley, the number of home-educated children is rising due to the lack of alternative provision for SEND children who are not managing in mainstream schools, and parents are crying out for support. Will the Secretary of State back Dudley Academies Trust’s proposal for alternative provision for under-16s, and meet us to discuss giving every child the best start in life?",
+   "name": "Sonia Kumar",
+   "party": "Lab",
+   "seat": "Dudley"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "My hon. Friend is absolutely right. We want to see more schools have strong inclusion policies for all their children. That is what our SEND reforms and our education reforms are about: no child left behind and children supported in school, where they can get the best outcomes.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  },
+  {
+   "who": "Mr Speaker",
+   "member_id": 467,
+   "type": "Contribution",
+   "text": "Finally, I call Chris Vince.",
+   "name": "Chair",
+   "role": "Chair"
+  },
+  {
+   "who": "Chris Vince (Harlow) (Lab/Co-op)",
+   "member_id": 5237,
+   "type": "Contribution",
+   "text": "On Friday I had the pleasure of visiting the Downs primary school in Harlow and meeting its newly elected school council. What was fascinating was that students as young as those in year 4 were talking about the challenges of online security and disinformation online. What would the Secretary of State say to young people at the Downs primary school about what this Government are doing to keep them safe online, both now and in the future?",
+   "name": "Chris Vince",
+   "party": "Lab/Co-op",
+   "seat": "Harlow"
+  },
+  {
+   "who": "Lucy Powell",
+   "member_id": 4263,
+   "type": "Contribution",
+   "text": "My hon. Friend might be the last, but he is never the least, and he is absolutely right. This Government are determined to keep our young people safe online, which is why we are bringing in the measures on phones in schools, the social media ban and the rest. It is really important that we equip young people with the know-how and skills that they need in media literacy, digital literacy and the rest, so that they can discern disinformation and misinformation and self-regulate.",
+   "name": "Lucy Powell",
+   "role": "The Secretary of State for Education"
+  }
+ ],
+ "fetched": "2026-11-20T06:36:12Z"
+}
