@@ -12,7 +12,7 @@
    "collection": "meta",
    "doc_id": "emerging",
    "file": "data/emerging.json",
-   "sha": "aa09a5bc1484",
+   "sha": "d693d830ed02",
    "bytes": 17846
   },
   {
@@ -47,7 +47,7 @@
    "collection": "meta",
    "doc_id": "parties",
    "file": "data/dash/parties.json",
-   "sha": "77f32a2e097b",
+   "sha": "2438ff8f62ad",
    "bytes": 1708
   },
   {
@@ -68,22 +68,22 @@
    "collection": "meta",
    "doc_id": "profiles-1",
    "file": "data/dash/profiles-1.json",
-   "sha": "7a4d1fcfd09d",
+   "sha": "d41b0c44a717",
    "bytes": 180521
   },
   {
    "collection": "meta",
    "doc_id": "profiles-2",
    "file": "data/dash/profiles-2.json",
-   "sha": "16485dce4a1a",
-   "bytes": 180801
+   "sha": "c32be7553351",
+   "bytes": 180808
   },
   {
    "collection": "meta",
    "doc_id": "profiles-3",
    "file": "data/dash/profiles-3.json",
-   "sha": "908867fa2f3e",
-   "bytes": 29111
+   "sha": "fd27e23ae738",
+   "bytes": 29339
   },
   {
    "collection": "bills",
