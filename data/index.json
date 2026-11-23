@@ -9402,6 +9402,22 @@
  },
  {
   "date": "2026-11-19",
+  "house": "Commons",
+  "section": "WMS",
+  "title": "Schools Funding 2027-28",
+  "parents": [
+   "Written Statements",
+   "Education"
+  ],
+  "subtitles": [],
+  "ext_id": "26111914000011",
+  "file": "data/debates/2026/2026-11-19-Commons-26111914000011.json",
+  "speakers": 1,
+  "contributions": 1,
+  "fetched": "2026-11-23T06:46:00Z"
+ },
+ {
+  "date": "2026-11-19",
   "house": "Lords",
   "section": "GrandCommittee",
   "title": "Education: Instruction about Soils",
