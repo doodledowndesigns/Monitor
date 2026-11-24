@@ -9445,5 +9445,37 @@
   "speakers": 16,
   "contributions": 17,
   "fetched": "2026-11-20T16:34:40Z"
+ },
+ {
+  "date": "2026-11-23",
+  "house": "Commons",
+  "section": "Debate",
+  "title": "VAT and Leweston School Closure",
+  "parents": [
+   "Commons Chamber"
+  ],
+  "subtitles": [],
+  "ext_id": "64EEB1A8-AADA-4122-A06B-18B4613606FD",
+  "file": "data/debates/2026/2026-11-23-Commons-64EEB1A8-AADA-4122-A06B-18B4613606FD.json",
+  "speakers": 5,
+  "contributions": 8,
+  "fetched": "2026-11-24T02:34:01Z"
+ },
+ {
+  "date": "2026-11-23",
+  "house": "Commons",
+  "section": "Debate",
+  "title": "Youth Guarantee",
+  "parents": [
+   "Commons Chamber",
+   "Oral Answers to Questions",
+   "Work and Pensions"
+  ],
+  "subtitles": [],
+  "ext_id": "00836350-8233-4E77-9671-5AE5E52933AE",
+  "file": "data/debates/2026/2026-11-23-Commons-00836350-8233-4E77-9671-5AE5E52933AE.json",
+  "speakers": 3,
+  "contributions": 6,
+  "fetched": "2026-11-24T02:34:01Z"
  }
 ]
