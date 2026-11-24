@@ -9449,6 +9449,22 @@
  {
   "date": "2026-11-23",
   "house": "Commons",
+  "section": "WMS",
+  "title": "Improving Education in Young Offender Institutions",
+  "parents": [
+   "Written Statements",
+   "Justice"
+  ],
+  "subtitles": [],
+  "ext_id": "2611237000007",
+  "file": "data/debates/2026/2026-11-23-Commons-2611237000007.json",
+  "speakers": 1,
+  "contributions": 1,
+  "fetched": "2026-11-24T16:21:15Z"
+ },
+ {
+  "date": "2026-11-23",
+  "house": "Commons",
   "section": "Debate",
   "title": "VAT and Leweston School Closure",
   "parents": [
@@ -9459,7 +9475,7 @@
   "file": "data/debates/2026/2026-11-23-Commons-64EEB1A8-AADA-4122-A06B-18B4613606FD.json",
   "speakers": 5,
   "contributions": 8,
-  "fetched": "2026-11-24T02:34:01Z"
+  "fetched": "2026-11-24T16:21:14Z"
  },
  {
   "date": "2026-11-23",
@@ -9476,6 +9492,6 @@
   "file": "data/debates/2026/2026-11-23-Commons-00836350-8233-4E77-9671-5AE5E52933AE.json",
   "speakers": 3,
   "contributions": 6,
-  "fetched": "2026-11-24T02:34:01Z"
+  "fetched": "2026-11-24T16:21:14Z"
  }
 ]
