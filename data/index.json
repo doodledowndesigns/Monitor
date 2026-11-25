@@ -9460,7 +9460,7 @@
   "file": "data/debates/2026/2026-11-23-Commons-2611237000007.json",
   "speakers": 1,
   "contributions": 1,
-  "fetched": "2026-11-24T16:21:15Z"
+  "fetched": "2026-11-25T16:01:50Z"
  },
  {
   "date": "2026-11-23",
@@ -9475,7 +9475,7 @@
   "file": "data/debates/2026/2026-11-23-Commons-64EEB1A8-AADA-4122-A06B-18B4613606FD.json",
   "speakers": 5,
   "contributions": 8,
-  "fetched": "2026-11-24T16:21:14Z"
+  "fetched": "2026-11-25T16:01:48Z"
  },
  {
   "date": "2026-11-23",
@@ -9492,6 +9492,21 @@
   "file": "data/debates/2026/2026-11-23-Commons-00836350-8233-4E77-9671-5AE5E52933AE.json",
   "speakers": 3,
   "contributions": 6,
-  "fetched": "2026-11-24T16:21:14Z"
+  "fetched": "2026-11-25T16:01:48Z"
+ },
+ {
+  "date": "2026-11-24",
+  "house": "Lords",
+  "section": "Debate",
+  "title": "Civil Society Organisations: Economic Growth and Skills for Young People",
+  "parents": [
+   "Lords Chamber"
+  ],
+  "subtitles": [],
+  "ext_id": "811D287A-6E6E-4D82-8477-1B0233423BC9",
+  "file": "data/debates/2026/2026-11-24-Lords-811D287A-6E6E-4D82-8477-1B0233423BC9.json",
+  "speakers": 9,
+  "contributions": 19,
+  "fetched": "2026-11-25T16:01:56Z"
  }
 ]
