@@ -1,60 +1,60 @@
 {
- "generated": "2026-11-25",
+ "generated": "2026-11-26",
  "docs": [
   {
    "collection": "meta",
    "doc_id": "trends",
    "file": "data/trends.json",
-   "sha": "4357c619c7ca",
+   "sha": "02000e6d5df8",
    "bytes": 12831
   },
   {
    "collection": "meta",
    "doc_id": "emerging",
    "file": "data/emerging.json",
-   "sha": "9b68db4bb34d",
-   "bytes": 17881
+   "sha": "0d9f0694ae9d",
+   "bytes": 18292
   },
   {
    "collection": "meta",
    "doc_id": "calendar",
    "file": "data/dash/calendar.json",
-   "sha": "d20293b387b5",
-   "bytes": 4398
+   "sha": "6658521d3990",
+   "bytes": 4902
   },
   {
    "collection": "meta",
    "doc_id": "deadlines",
    "file": "data/dash/deadlines.json",
-   "sha": "0d34977c6c81",
-   "bytes": 12967
+   "sha": "ce3ca67049fc",
+   "bytes": 13461
   },
   {
    "collection": "meta",
    "doc_id": "consultations",
    "file": "data/dash/consultations.json",
-   "sha": "cb24233b12f8",
-   "bytes": 32811
+   "sha": "294d93e07930",
+   "bytes": 34132
   },
   {
    "collection": "meta",
    "doc_id": "citations",
    "file": "data/dash/citations.json",
-   "sha": "cbd954d017ec",
+   "sha": "be58e5405e3c",
    "bytes": 76977
   },
   {
    "collection": "meta",
    "doc_id": "parties",
    "file": "data/dash/parties.json",
-   "sha": "02c478bbdf7e",
+   "sha": "95b4077fa4e8",
    "bytes": 1708
   },
   {
    "collection": "meta",
    "doc_id": "bills",
    "file": "data/dash/bills.json",
-   "sha": "7a73e1da5e31",
+   "sha": "faf1872edd23",
    "bytes": 12926
   },
   {
@@ -68,22 +68,22 @@
    "collection": "meta",
    "doc_id": "profiles-1",
    "file": "data/dash/profiles-1.json",
-   "sha": "2258a7cabb79",
-   "bytes": 180765
+   "sha": "e12b879e5f5a",
+   "bytes": 180538
   },
   {
    "collection": "meta",
    "doc_id": "profiles-2",
    "file": "data/dash/profiles-2.json",
-   "sha": "0241b7d6b297",
-   "bytes": 179654
+   "sha": "ffb0151fd39c",
+   "bytes": 180298
   },
   {
    "collection": "meta",
    "doc_id": "profiles-3",
    "file": "data/dash/profiles-3.json",
-   "sha": "82ee934abdc4",
-   "bytes": 32417
+   "sha": "0f07ca8d08c6",
+   "bytes": 32249
   },
   {
    "collection": "bills",

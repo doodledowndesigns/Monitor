@@ -9460,7 +9460,7 @@
   "file": "data/debates/2026/2026-11-23-Commons-2611237000007.json",
   "speakers": 1,
   "contributions": 1,
-  "fetched": "2026-11-25T16:01:50Z"
+  "fetched": "2026-11-26T15:44:57Z"
  },
  {
   "date": "2026-11-23",
@@ -9475,7 +9475,7 @@
   "file": "data/debates/2026/2026-11-23-Commons-64EEB1A8-AADA-4122-A06B-18B4613606FD.json",
   "speakers": 5,
   "contributions": 8,
-  "fetched": "2026-11-25T16:01:48Z"
+  "fetched": "2026-11-26T15:44:55Z"
  },
  {
   "date": "2026-11-23",
@@ -9492,7 +9492,7 @@
   "file": "data/debates/2026/2026-11-23-Commons-00836350-8233-4E77-9671-5AE5E52933AE.json",
   "speakers": 3,
   "contributions": 6,
-  "fetched": "2026-11-25T16:01:48Z"
+  "fetched": "2026-11-26T15:44:55Z"
  },
  {
   "date": "2026-11-24",
@@ -9507,6 +9507,36 @@
   "file": "data/debates/2026/2026-11-24-Lords-811D287A-6E6E-4D82-8477-1B0233423BC9.json",
   "speakers": 9,
   "contributions": 19,
-  "fetched": "2026-11-25T16:01:56Z"
+  "fetched": "2026-11-26T15:45:04Z"
+ },
+ {
+  "date": "2026-11-25",
+  "house": "Lords",
+  "section": "Debate",
+  "title": "Technical Education: Secondary Schools",
+  "parents": [
+   "Lords Chamber"
+  ],
+  "subtitles": [],
+  "ext_id": "50656398-EF47-49D1-9A5E-BA50F4F52D9A",
+  "file": "data/debates/2026/2026-11-25-Lords-50656398-EF47-49D1-9A5E-BA50F4F52D9A.json",
+  "speakers": 8,
+  "contributions": 16,
+  "fetched": "2026-11-26T15:45:08Z"
+ },
+ {
+  "date": "2026-11-26",
+  "house": "Lords",
+  "section": "Debate",
+  "title": "Schools: Educational Technology",
+  "parents": [
+   "Lords Chamber"
+  ],
+  "subtitles": [],
+  "ext_id": "1DC55C9F-45E8-4F2B-A6EA-E664D99231C6",
+  "file": "data/debates/2026/2026-11-26-Lords-1DC55C9F-45E8-4F2B-A6EA-E664D99231C6.json",
+  "speakers": 8,
+  "contributions": 16,
+  "fetched": "2026-11-26T15:45:11Z"
  }
 ]

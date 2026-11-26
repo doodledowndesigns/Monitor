@@ -1,0 +1,195 @@
+{
+ "ext_id": "1DC55C9F-45E8-4F2B-A6EA-E664D99231C6",
+ "date": "2026-11-26",
+ "house": "Lords",
+ "section": "Debate",
+ "title": "Schools: Educational Technology",
+ "parents": [
+  "Lords Chamber"
+ ],
+ "location": "Lords Chamber",
+ "url": "https://hansard.parliament.uk/Lords/2026-11-26/debates/1DC55C9F-45E8-4F2B-A6EA-E664D99231C6/SchoolsEducationalTechnology",
+ "subtitles": [],
+ "speakers": [
+  {
+   "name": "Baroness Laing of Elderslie",
+   "party": "Con",
+   "member_id": 36
+  },
+  {
+   "name": "Baroness Ramsey of Wall Heath",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip",
+   "member_id": 5022
+  },
+  {
+   "name": "Lord Knight of Weymouth",
+   "party": "Lab",
+   "member_id": 4160
+  },
+  {
+   "name": "Baroness Bull",
+   "party": "CB",
+   "member_id": 4706
+  },
+  {
+   "name": "Lord Addington",
+   "party": "LD",
+   "member_id": 3453
+  },
+  {
+   "name": "Baroness Morris of Bolton",
+   "party": "Con",
+   "member_id": 3681
+  },
+  {
+   "name": "Baroness Berger",
+   "party": "Lab",
+   "member_id": 4036
+  },
+  {
+   "name": "The Earl of Effingham",
+   "party": "Con",
+   "member_id": 4958
+  }
+ ],
+ "contributions": [
+  {
+   "who": "Baroness Laing of Elderslie",
+   "member_id": 36,
+   "type": "Contribution",
+   "text": "To ask His Majesty’s Government what evidence underpins their current approach to the use of educational technology in the classroom.",
+   "name": "Baroness Laing of Elderslie",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness in Waiting/Government Whip (Baroness Ramsey of Wall Heath) (Lab)",
+   "member_id": 5022,
+   "type": "Contribution",
+   "text": "Our approach to educational technology is underpinned by sector engagement and our research portfolio, which is published on GOV.UK. When used effectively alongside high-quality teaching, technology can improve outcomes, reduce workload and support inclusion. However, evidence about what works, for whom and in what circumstances remains limited. That is why we are strengthening the evidence base through the Technology in Schools survey, the £24 million EdTech Testbed programme and the AI Tutoring Tools Pioneers programme, alongside wider research partnerships.",
+   "name": "Baroness Ramsey of Wall Heath",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip"
+  },
+  {
+   "who": "Baroness Laing of Elderslie (Con)",
+   "member_id": 36,
+   "type": "Contribution",
+   "text": "I thank the Minister for her sincere Answer. Would not £24 million be better spent on buying books for schools? We know already that screen time on mobile phones is doing damage now to the eyesight and cognitive ability of little children, and we know that the best schools in our country already ban mobile phones and limit screen time on the use of iPads. Why, then, are the Government yet again consulting £24 million-worth of expensive management consultants and ticking more boxes on irrelevant forms instead of taking action? It is not the Minister’s fault and I do not blame her. However, everywhere you look in the work of this Government, every aspect of their actions is all about consultation and talking about things, kicking issues into the long grass instead of taking action now.",
+   "name": "Baroness Laing of Elderslie",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Ramsey of Wall Heath (Lab)",
+   "member_id": 5022,
+   "type": "Contribution",
+   "text": "In January 2026, the DfE published product safety standards for generative AI in education which outline the capabilities and features that products and systems should need to meet to be considered safe for users in educational settings. The statutory guidance Keeping Children Safe in Education makes it clear that schools and colleges should do all they reasonably can to limit children’s exposure to harmful content, including having appropriate filtering and monitoring systems in place. We are clear that the unsafe use of technology in schools is not acceptable. Schools and colleges have a statutory responsibility to keep children and young people safe, online as well as offline. To help them achieve that, we have published product safety standards for generative AI in education, which will support schools and colleges to understand which products are safe in education and support edtech providers to design safe products.",
+   "name": "Baroness Ramsey of Wall Heath",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip"
+  },
+  {
+   "who": "Lord Knight of Weymouth (Lab)",
+   "member_id": 4160,
+   "type": "Contribution",
+   "text": "My Lords, I remind your Lordships of my entry in the register, particularly in respect of Century Tech. Does my noble friend agree that it would be ludicrous to expect the delivery of subjects such as computer science, design and technology, music tech and some of the new vocational GCSEs without using technology in schools? Can she say what more the Government can do to improve the leadership of the implementation of technology in schools, so that products work with good pedagogy and deliver excellent outcomes for the engaged, employed and trained young people whom we need?",
+   "name": "Lord Knight of Weymouth",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Ramsey of Wall Heath (Lab)",
+   "member_id": 5022,
+   "type": "Contribution",
+   "text": "As my noble friend said, technology used purposefully as part of high-quality teaching is important for a number of subjects and qualifications, including computing, and can support the practical applied learning we want every child to experience, including the new vocational GCSEs. Good implementation matters. We will fund the National Centre for Computing Education, providing world-class CPD for teachers, and will work with schools and the sector to provide appropriate resources, guidance, professional development and access to specialist expertise and facilities.",
+   "name": "Baroness Ramsey of Wall Heath",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip"
+  },
+  {
+   "who": "Baroness Bull (CB)",
+   "member_id": 4706,
+   "type": "Contribution",
+   "text": "My Lords, my noble friend Lord Tarassenko, who is not in his place, chaired the Maths Horizons project, as noble Lords will know. He gave evidence to the Numeracy for Life Committee strongly supporting the use of AI tutors, particularly for students who were struggling with maths. He told us that they should not give the answers, of course, but should hint and help students develop the problem-solving skills and mathematical reasoning they needed. The committee recommended that the Government should evaluate the use of AI-enabled maths tutoring tools, identifying the most efficacious, as well as the safeguards that are needed. Have the Government taken account of that recommendation and will they act?",
+   "name": "Baroness Bull",
+   "party": "CB"
+  },
+  {
+   "who": "Baroness Ramsey of Wall Heath (Lab)",
+   "member_id": 5022,
+   "type": "Contribution",
+   "text": "The DfE is working with teachers, schools and industry to co-create and test AI tutoring tools. The programme is exploring how AI tutoring tools can support teaching and personalised learning in the manner that the noble Baroness has described. It is underpinned by the DfE’s generative AI product safety standards for education, which provide clear expectations for safe AI tool design. Tools meeting robust safety and pedagogy requirements will progress to trials and evaluation through the national EdTech Testbed programme. The evidence from the test bed programme and AI tutoring will help establish whether technology is safe, effective and beneficial, which will support schools to make decisions informed by evidence.",
+   "name": "Baroness Ramsey of Wall Heath",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip"
+  },
+  {
+   "who": "Lord Addington (LD)",
+   "member_id": 3453,
+   "type": "Contribution",
+   "text": "My Lords, will the Government give us some assurance that they are looking at education technology to allow those with special educational needs to get into the classroom, as supportive technology will be much easier this way? Will they also give an assurance that, when they give out this guidance, they are using it appropriately, making sure the screen is easy to read? If you have a book in front of you and you are trying to get the best out of Jane Austen, you do not do it in the middle of a heavy metal concert.",
+   "name": "Lord Addington",
+   "party": "LD"
+  },
+  {
+   "who": "Baroness Ramsey of Wall Heath (Lab)",
+   "member_id": 5022,
+   "type": "Contribution",
+   "text": "I wonder whether that suggests something about the noble Lord’s music tastes. Evidence shows that edtech can support teaching and learning, pupil outcomes, inclusion and teacher workload, but impact varies by technology and context. The DfE’s Technology in Schools survey provides nationally representative evidence on schools’ use of technology and AI, the benefits and the barriers to effective implementation. The Education Endowment Foundation’s evidence base highlights the importance of pedagogy and effective implementation in determining the impact of digital technology. Evidence on newer technologies, particularly AI-enabled personalised learning, remains mixed and developing. We are keeping a close watch on the results of all that research, including on inclusion, as the noble Lord suggests.",
+   "name": "Baroness Ramsey of Wall Heath",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip"
+  },
+  {
+   "who": "Baroness Morris of Bolton (Con)",
+   "member_id": 3681,
+   "type": "Contribution",
+   "text": "My Lords, it has been shown that if you listen to something and type up the notes on a computer, only certain parts of the brain light up, whereas if you listen to something and then write down the notes, huge amounts of the brain light up—so much so that schools in some Scandinavian countries are going back to pencil and paper. I wonder whether the Government are looking at that.",
+   "name": "Baroness Morris of Bolton",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Ramsey of Wall Heath (Lab)",
+   "member_id": 5022,
+   "type": "Contribution",
+   "text": "I was going to make a joke about people who trained when I was a barrister and quill pens, but I will not. As part of our Digital Lives research programme, we have commissioned a systematic review of the impact of digital technologies on children’s cognitive development, with a particular emphasis on generative AI. We have established an educational neuroscience policy research centre as a two-year pilot. The goal is to understand how the brain learns and then use that knowledge to improve teaching methods, learning environments and educational outcomes, just as the noble Baroness is wondering about. One strand will focus on AI-enhanced technologies, education and developmental outcomes.",
+   "name": "Baroness Ramsey of Wall Heath",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip"
+  },
+  {
+   "who": "Baroness Berger (Lab)",
+   "member_id": 4036,
+   "type": "Contribution",
+   "text": "My Lords, Bark Technologies, a US company, monitors accounts on school devices across more than 3,700 school districts across the US. It reported this year that, of the students it monitored, 40% encountered violent content on their school devices, 22% found drug-related content and 7% found suicide-related content on school platforms such as Microsoft Teams and Gmail. What assessment have the Government made of this type of content featuring or surfacing on school devices here in the UK, and what steps are the Government taking to protect students using school accounts and devices here?",
+   "name": "Baroness Berger",
+   "party": "Lab"
+  },
+  {
+   "who": "Baroness Ramsey of Wall Heath (Lab)",
+   "member_id": 5022,
+   "type": "Contribution",
+   "text": "That is indeed concerning data from my noble friend. I understand that this data from Bark is from outside the UK. However, our statutory guidance is clear that schools and colleges should adopt an all-school approach to online safety, including limiting children’s exposure to harmful content online. This includes having appropriate filtering and monitoring systems in place and reviewing their effectiveness at least once every academic year. Our filtering and monitoring standards provide detailed information and guidance to support settings to meet those safeguarding duties.",
+   "name": "Baroness Ramsey of Wall Heath",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip"
+  },
+  {
+   "who": "The Earl of Effingham (Con)",
+   "member_id": 4958,
+   "type": "Contribution",
+   "text": "My Lords, the previous Education Secretary dismissed a legal ban on smartphones in schools as a “headline-grabbing gimmick”, which proved ill-advised. As the noble Baroness, Lady Berger, rightly said, reports show that some school iPads can reach pornography and execution videos. Frankie Thomas took her life after reading suicide stories on an unfiltered school iPad. The Government’s edtech safety consultation does not even mention screens. Surely, we need to look at maximum limits for classroom screen use before even more children are harmed. Why are screens not on the edtech consultation?",
+   "name": "The Earl of Effingham",
+   "party": "Con"
+  },
+  {
+   "who": "Baroness Ramsey of Wall Heath (Lab)",
+   "member_id": 5022,
+   "type": "Contribution",
+   "text": "On 10 November, the DfE launched a consultation on a safety certification framework for certain types of edtech used in education settings. The proposed approach focuses on products and features with the greatest potential to cause harm in three areas: serious data infringements, harmful content exposure and risks to cognitive development and social and emotional well-being. This includes products with certain gamification features. This will build on existing digital and technology standards and generative AI product safety standards. The consultation will help develop a proportionate and robust approach to help schools identify products meeting relevant safety expectations and to inform purchasing decisions.",
+   "name": "Baroness Ramsey of Wall Heath",
+   "party": "Lab",
+   "role": "Baroness in Waiting/Government Whip"
+  }
+ ],
+ "fetched": "2026-11-26T15:45:11Z"
+}
