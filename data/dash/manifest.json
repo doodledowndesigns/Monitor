@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27",
+ "generated": "2026-11-28",
  "docs": [
   {
    "collection": "meta",
@@ -12,7 +12,7 @@
    "collection": "meta",
    "doc_id": "emerging",
    "file": "data/emerging.json",
-   "sha": "1030409f9934",
+   "sha": "84ed6cbd9daa",
    "bytes": 17844
   },
   {
@@ -40,14 +40,14 @@
    "collection": "meta",
    "doc_id": "citations",
    "file": "data/dash/citations.json",
-   "sha": "5705d6f035cd",
+   "sha": "8ab30c6bddeb",
    "bytes": 76977
   },
   {
    "collection": "meta",
    "doc_id": "parties",
    "file": "data/dash/parties.json",
-   "sha": "bab8c9f0e046",
+   "sha": "c037eaf05517",
    "bytes": 1708
   },
   {
@@ -68,15 +68,15 @@
    "collection": "meta",
    "doc_id": "profiles-1",
    "file": "data/dash/profiles-1.json",
-   "sha": "7f8bc8730263",
+   "sha": "c8c7c8ebe931",
    "bytes": 180191
   },
   {
    "collection": "meta",
    "doc_id": "profiles-2",
    "file": "data/dash/profiles-2.json",
-   "sha": "aea7740ef3d5",
-   "bytes": 180746
+   "sha": "2f7e10e645ae",
+   "bytes": 180776
   },
   {
    "collection": "meta",
